@@ -810,12 +810,16 @@
   let allData;
   let currentFilter = 'all';
 
+  // Show loading message
+  document.getElementById('network').innerHTML = '<div style="display: flex; align-items: center; justify-content: center; height: 100%; font-size: 18px; color: #666;">Loading graph data...</div>';
+
   // Load graph data
   fetch('../assets/graph_viz.json')
     .then(response => response.json())
     .then(data => {
       allData = data;
-      initNetwork(data);
+      // Start with "People Only" filter to avoid initial chaos
+      filterNodesOnLoad('people', data);
     })
     .catch(error => {
       console.error('Error loading graph data:', error);
@@ -887,8 +891,9 @@
         enabled: true,
         stabilization: {
           enabled: true,
-          iterations: 200,
-          updateInterval: 25
+          iterations: 100,
+          updateInterval: 50,
+          fit: true
         },
         barnesHut: {
           gravitationalConstant: -30000,
@@ -912,6 +917,11 @@
     };
 
     network = new vis.Network(container, data, options);
+
+    // Disable physics after stabilization to prevent continuous movement
+    network.on("stabilizationIterationsDone", function() {
+      network.setOptions({ physics: false });
+    });
 
     // Click handler to navigate to entity pages
     network.on("click", function(params) {
@@ -952,6 +962,40 @@
     }
   }
 
+  function filterNodesOnLoad(type, data) {
+    currentFilter = type;
+
+    // Filter to people only on initial load
+    const filteredNodes = data.nodes.filter(node => {
+      const nodeType = node.group || node.type || 'people';
+      return nodeType === type;
+    });
+
+    const nodeIds = new Set(filteredNodes.map(n => n.id));
+
+    const filteredEdges = data.edges.filter(edge => {
+      return nodeIds.has(edge.from) && nodeIds.has(edge.to);
+    });
+
+    const filteredData = {
+      nodes: filteredNodes,
+      edges: filteredEdges
+    };
+
+    initNetwork(filteredData);
+
+    // Update info display
+    document.getElementById('info').innerHTML = `
+      <p><strong>Graph Statistics:</strong></p>
+      <ul>
+        <li>Currently showing: <strong>${type.charAt(0).toUpperCase() + type.slice(1)}</strong> (${filteredNodes.length} entities)</li>
+        <li>500,000 total relationships in database</li>
+        <li>6,607 total entities across all types</li>
+        <li><em>Tip: Use "Show All" to see all 500 entities (may be slower)</em></li>
+      </ul>
+    `;
+  }
+
   function filterNodes(type) {
     if (!allData) return;
 
@@ -982,7 +1026,26 @@
 
     // Recreate network with filtered data
     network.setData(filteredData);
-    fitNetwork();
+
+    // Re-enable physics temporarily for new layout
+    network.setOptions({ physics: { enabled: true } });
+
+    // Disable physics after stabilization
+    setTimeout(() => {
+      network.setOptions({ physics: false });
+      fitNetwork();
+    }, 2000);
+
+    // Update info display
+    const nodeCount = filteredData.nodes.length;
+    document.getElementById('info').innerHTML = `
+      <p><strong>Graph Statistics:</strong></p>
+      <ul>
+        <li>Currently showing: <strong>${type === 'all' ? 'All Entities' : type.charAt(0).toUpperCase() + type.slice(1)}</strong> (${nodeCount} entities)</li>
+        <li>500,000 total relationships in database</li>
+        <li>6,607 total entities across all types</li>
+      </ul>
+    `;
   }
 </script>
 
