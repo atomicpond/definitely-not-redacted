@@ -26,3 +26,4 @@ site/
 # Uncomment to exclude large output files from git:
 # output/entities_batch_*.json
 CLAUDE.md
+PROJECT_COMPLETE.md
