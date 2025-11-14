@@ -1,0 +1,15 @@
+Entity Page Generation Report
+============================================================
+
+Total entities: 6,607
+
+Entities by type:
+  events: 1,965
+  locations: 565
+  organizations: 1,882
+  people: 2,195
+
+Entity pages created: 6,607
+Index pages created: 4
+
+No errors encountered!
