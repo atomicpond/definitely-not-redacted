@@ -57,6 +57,12 @@ nav:
   - Relationship Graph: graph.md
   - Search: search.md
 
+extra_css:
+  - stylesheets/word-wrap-toggle.css
+
+extra_javascript:
+  - javascripts/word-wrap-toggle.js
+
 extra:
   social:
     - icon: fontawesome/brands/github

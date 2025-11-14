@@ -1,0 +1,27 @@
+/* Word wrap toggle button styling */
+.word-wrap-toggle {
+  background: #3399ff;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  margin-bottom: 8px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 500;
+  transition: background 0.2s ease;
+  display: inline-block;
+}
+
+.word-wrap-toggle:hover {
+  background: #2277dd;
+}
+
+.word-wrap-toggle:active {
+  background: #1155bb;
+}
+
+/* Ensure code blocks can handle word wrapping */
+pre {
+  transition: all 0.2s ease;
+}
