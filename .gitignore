@@ -25,3 +25,4 @@ site/
 # Output files (optional - keep or remove based on preference)
 # Uncomment to exclude large output files from git:
 # output/entities_batch_*.json
+CLAUDE.md
