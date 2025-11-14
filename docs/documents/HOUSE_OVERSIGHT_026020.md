@@ -1,0 +1,135 @@
+# HOUSE_OVERSIGHT_026020
+
+## Document Metadata
+
+**Bates Range:** HOUSE_OVERSIGHT_026020 to HOUSE_OVERSIGHT_026023  
+**Pages:** 7  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [Robert Lawrence Kuhn](../entities/people/robert-lawrence-kuhn.md) - 1 mention
+
+### Locations
+- [Sun](../entities/locations/sun.md) - 1 mention
+- [Beijing](../entities/locations/beijing.md) - 1 mention
+
+### Events/Dates
+- [January](../entities/events/january.md) - 1 mention
+- [11/28/2016](../entities/events/11282016.md) - 1 mention
+- [2 weeks](../entities/events/2-weeks.md) - 1 mention
+
+## Document Text
+
+```
+From: **Robert Lawrence Kuhn** 
+Sent: **11/28/2016** 4:11:04 AM 
+To: jeffrey E. [jeeyacation@gmail.com] 
+Subject: Re: 
+Importance: High 
+Fun (transient) with Trump-China: 
+"What China Thinks of President-Elect Trump" broadcast on CCTV News, discussion with former Chinese 
+ambassador to U.S. and head of Chinese Association of American studies - streamed - 
+http://english. en-W. cn/2016/11/13NIDEytqdltlf30 eFnd6vTIxy161113 . shtml  
+Interview - http://www.atimes.com/article/china-wants-build-relations-dealmaker-trump/ 
+More fun (enduring) with Closer To Truth; working new episodes from FQXi conference (e.g., "Physics of the 
+Observer", "Physics of Consciousness", "Quantum Cosmology of the Beginning?", Philosophy of 
+Cosmology"); progressing on "Sleep & Dreams". 
+In LA for **2 weeks**, then back to China; NY in **January**. You there then? 
+Love to get your sense of Trump's administration, policies. 
+Robert 
+On Nov 27, 2016, at 10:05 AM, jeffrey E. <jeevacation@gmail.com> wrote: 
+are you having fun? 
+On **Sun**, Nov 6, 2016 at 8:08 AM, **Robert Lawrence Kuhn** <> wrote: 
+I almost get it.... 
+On Nov 6, 2016, at 9:03 PM, jeffrey E. <jeevacation@gmail.com> wrote: 
+its not ba ba ba- bah. its regular (ba ) ba ba ba - bah. regular four eighth notes , but the first is not 
+sounded . changes the whole dynamic and wildly misunderstood 
+On **Sun**, Nov 6, 2016 at 2:00 PM, **Robert Lawrence Kuhn** < 
+Didn't know. Meaning of the rest note? 
+> wrote: 
+Mahler's 5th opens with the same rhythmic motif (but 4th note is the same as the first three, not lower as in 
+Beethoven's) - Mahler's 5th is my favorite symphony. 
+On Nov 6, 2016, at 8:43 PM, jeffrey E. <jeevacation@gmail.com> wrote: 
+for me it is tied to music. beethovens fifth, is 555-3 . though unbeknownst to most people the first 
+note ( you can verify, bu looking at the score ) , is a rest note ( silent ) so 0-555-3 
+On **Sun**, Nov 6, 2016 at 1:35 PM, **Robert Lawrence Kuhn** < 
+> wrote: 
+HOUSE OVERSIGHT 026020 
+You've got a jumbo-sized right superior parietal lobe. 
+https://www.scientificamerican.com/article/our-brains-have-a-map-for-numbers/ 
+On Nov 6, 2016, at 8:23 PM, jeffrey E. <jeevacation@gmail.com> wrote: 
+you mentioned it at my house. unfortunately , I cant avoid remembering numbers 
+On **Sun**, Nov 6, 2016 at 1:15 PM, **Robert Lawrence Kuhn** ‹> wrote: 
+Yes! You beat my family. (How'd you know?) 
+I celebrated in **Beijing** by (i) developing the Sleep/Dream proposal we discussed, (ii) lunch with an MNC 
+CEO, and (iii) playing two hours of intense table tennis with a top coach. 
+On Nov 6, 2016, at 6:30 AM, jeffrey E. <jeevacation@gmail.com> wrote: 
+birthday/? 
+please note 
+The information contained in this communication is 
+confidential, may be attorney-client privileged, may 
+constitute inside information, and is intended only for 
+the use of the addressee. It is the property of 
+JEE 
+Unauthorized use, disclosure or copying of this 
+communication or any part thereof is strictly prohibited 
+and may be unlawful. If you have received this 
+communication in error, please notify us immediately by 
+return e-mail or by e-mail to jeevacation@gmail.com, and 
+destroy this communication and all copies thereof, 
+including all attachments. copyright -all rights reserved 
+please note 
+The information contained in this communication is 
+confidential, may be attorney-client privileged, may 
+constitute inside information, and is intended only for 
+the use of the addressee. It is the property of 
+JEE 
+Unauthorized use, disclosure or copying of this 
+communication or any part thereof is strictly prohibited 
+and may be unlawful. If you have received this 
+communication in error, please notify us immediately by 
+return e-mail or by e-mail to jeevacation@gmail.com, and 
+HOUSE OVERSIGHT 026021 
+destroy this communication and all copies thereof, 
+including all attachments. copyright -all rights reserved 
+please note 
+The information contained in this communication is 
+confidential, may be attorney-client privileged, may 
+constitute inside information, and is intended only for 
+the use of the addressee. It is the property of 
+JEE 
+Unauthorized use, disclosure or copying of this 
+communication or any part thereof is strictly prohibited 
+and may be unlawful. If you have received this 
+communication in error, please notify us immediately by 
+return e-mail or by e-mail to jeevacation@gmail.com, and 
+destroy this communication and all copies thereof, 
+including all attachments. copyright -all rights reserved 
+please note 
+The information contained in this communication is 
+confidential, may be attorney-client privileged, may 
+constitute inside information, and is intended only for 
+the use of the addressee. It is the property of 
+JEE 
+Unauthorized use, disclosure or copying of this 
+communication or any part thereof is strictly prohibited 
+and may be unlawful. If you have received this 
+communication in error, please notify us immediately by 
+return e-mail or by e-mail to jeevacation@gmail.com, and 
+destroy this communication and all copie
+```
+
+*[Text truncated to 5000 characters]*
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_026422](HOUSE_OVERSIGHT_026422.md) - 5 shared entities
+- [HOUSE_OVERSIGHT_026868](HOUSE_OVERSIGHT_026868.md) - 3 shared entities
+- [HOUSE_OVERSIGHT_025104](HOUSE_OVERSIGHT_025104.md) - 3 shared entities
+- [HOUSE_OVERSIGHT_023666](HOUSE_OVERSIGHT_023666.md) - 3 shared entities
+- [HOUSE_OVERSIGHT_033444](HOUSE_OVERSIGHT_033444.md) - 2 shared entities

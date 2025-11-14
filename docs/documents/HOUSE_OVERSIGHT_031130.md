@@ -1,0 +1,207 @@
+# HOUSE_OVERSIGHT_031130
+
+## Document Metadata
+
+**Bates Range:** HOUSE_OVERSIGHT_031130 to HOUSE_OVERSIGHT_031133  
+**Pages:** 7  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [CLINTON](../entities/people/clinton.md) - 1 mention
+- [Nixon](../entities/people/nixon.md) - 1 mention
+- [Reagan](../entities/people/reagan.md) - 1 mention
+- [Ed](../entities/people/ed.md) - 1 mention
+- [Kennedy](../entities/people/kennedy.md) - 1 mention
+- [Carter](../entities/people/carter.md) - 1 mention
+- [Johnson](../entities/people/johnson.md) - 1 mention
+
+### Organizations
+- [HOUSE](../entities/organizations/house.md) - 4 mentions
+- [LLC](../entities/organizations/llc.md) - 1 mention
+- [Ford](../entities/organizations/ford.md) - 1 mention
+- [Wilson](../entities/organizations/wilson.md) - 1 mention
+- [Next Management](../entities/organizations/next-management.md) - 1 mention
+
+### Locations
+- [Canada](../entities/locations/canada.md) - 7 mentions
+- [England](../entities/locations/england.md) - 7 mentions
+- [US](../entities/locations/us.md) - 7 mentions
+- [N.Y.](../entities/locations/ny.md) - 1 mention
+- [Faith Kates](../entities/locations/faith-kates.md) - 1 mention
+
+### Events/Dates
+- [six months](../entities/events/six-months.md) - 2 mentions
+- [five years](../entities/events/five-years.md) - 1 mention
+- [one month](../entities/events/one-month.md) - 1 mention
+
+## Document Text
+
+```
+From: **Faith Kates** 
+Sent: 8/14/2012 1:05:43 PM 
+To: Faith Kates______________________________ 
+Subject: Fwd: Public work vs private AMAZING 
+> This is crazy please read it and pass it on!!! 
+> • Sent from my iPhone 
+> • Begin forwarded message: 
+• From: John Connolly Ed.D. 
+• Date: August 4, 2012 3:54:25 PM GMT+02:00 
+• To: RALPH BERNSTEIN -.111. Morad Tahbaz 
+• Subject: FW: Public work vs private AMAZING 
+• John J. Connolly, Ed.D. 
+• President & CEO 
+• Castle Connolly Medical Ltd. 
+• 42 W. 24th St. 
+• New York, NY 10010 
+• P. 
+• F. 
+• www.castleconnolly.com 
+• From: ed thompson [mailto: ______________________________________ 
+• Sent: Friday, August 03, 2012 6:03 PM 
+• To: ; 
+• Subject: Fw: Public work vs private AMAZING 
+, "Joseph Bernstein 
+**HOUSE** OVERSIGHT 031130 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> There are actually two messages here. The first is very 
+> 
+> 
+> 
+> 
+> 
+> 
+> interesting, but the second is absolutely astounding - and explains a lot. 
+> 
+> A recent "Investor's Business Daily" article provided very 
+> interesting statistics from a survey by the United Nations International 
+> Health organization. 
+> 
+> Percentage of men and women who survived a cancer **five years** after diagnosis: 
+> 
+> U.S. 65% 
+> 
+> **England** 46% 
+> 
+> **Canada** 42% 
+> 
+> 
+> Percentage of patients diagnosed with diabetes who received 
+> treatment within **six months**: 
+> 
+> U.S. 93% 
+> 
+> **England** 15% 
+> 
+> **Canada** 43% 
+> 
+> 
+> Percentage of seniors needing hip replacement who received it 
+> within **six months**: 
+> 
+> U.S. 90% 
+> 
+> **England** 15% 
+> 
+> **Canada** 43% 
+> 
+> 
+> Percentage referred to a medical specialist who see one within 
+> **one month**: 
+> 
+> U.S. 77% 
+> 
+> **England** 40% 
+> 
+> **Canada** 43% 
+> 
+> 
+> Number of MRI scanners (a prime diagnostic tool) per million 
+> people: 
+> 
+> U.S. 71 
+> 
+> **England** 14 
+> 
+> **Canada** 18 
+> 
+> 
+> Percentage of seniors (65+), with low income, who say they are 
+> in "excellent health": 
+> 
+> U.S. 12% 
+> 
+> **England** 2% 
+> 
+> **Canada** 6% 
+**HOUSE** OVERSIGHT 031131 
+And now for the last statistic: 
+National Health Insurance? 
+U.S. NO 
+**England** YES 
+**Canada** YES 
+Check this last set of statistics!! The percentage of each past president's cabinet who had worked in the private business sector prior to their appointment to the cabinet. You know what the private business sector is a real-life business, not a government job Here are the percentages. 
+T. Roosevelt..................... 	38% 
+Taft.................................. 	40% 
+**Wilson** ............................. 	52% 
+Harding........................... 	49% 
+Coolidge.......................... 	48% 
+Hoover............................ 	42% 
+F. Roosevelt.................... 	50% 
+Truman............................ 	50% 
+Eisenhower...................... 	57% 
+**Kennedy**.......................... 	30% 
+**Johnson**........................... 	47% 
+**Nixon**............................... 53% 
+**Ford**................................ 42% 
+**Carter**............................. 32% 
+**Reagan**............................ 56% 
+GH Bush......................... 51% 
+**CLINTON** ........................... 39% 
+GW Bush........................ 55% 
+Obama..................... 8% 
+This helps to explain the incompetence of this administration: 
+only 8% of them have ever worked in private business! 
+That's right! Only eight percent---the least, by far, of the 
+last 19 presidents! And these people are trying to tell our big 
+corporations how to run their business? 
+How can the president of a major nation and society, the one 
+with the most successful economic system in world history, stand and talk about business when 
+he's never worked for one? Or about jobs when he has never really had one? And when it's the same for 
+92% of his senior staff and closest advisers? They've spent most of their time in academia, 
+government and/or non-profit jobs or as "community organizers." They should have been in an employment 
+line 
+Pass this on because we'll NEVER see these facts in the main 
+stream media. 
+**HOUSE** OVERSIGHT 031132 
+End of Forwarded Message 
+NOTE:ThiS message including any attachments contains information, some or all of which, may be 
+proprietary or legally privileged. It is for the intended recipient only. If you have received this 
+message by error, please notify us immediately and destroy the related message. You, the recipient, are 
+obligated to maintain it in a safe, secure, and confidential manner. Unauthorized re-disclosure or 
+failure to maintain confidentiality could subject you to penalties described in Federal and state law. 
+**Next Management**, **LLC** and any affiliate companies are not responsible for errors or omissions in this 
+message or any attachments. 
+**HOUSE** OVERSIGHT 031133 
+
+```
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_030238](HOUSE_OVERSIGHT_030238.md) - 21 shared entities
+- [HOUSE_OVERSIGHT_027849](HOUSE_OVERSIGHT_027849.md) - 11 shared entities
+- [HOUSE_OVERSIGHT_030531](HOUSE_OVERSIGHT_030531.md) - 8 shared entities
+- [HOUSE_OVERSIGHT_029779](HOUSE_OVERSIGHT_029779.md) - 7 shared entities
+- [HOUSE_OVERSIGHT_029692](HOUSE_OVERSIGHT_029692.md) - 7 shared entities

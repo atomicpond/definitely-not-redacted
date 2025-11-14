@@ -1,0 +1,64 @@
+# Global Research
+
+**Type:** Organizations  
+**Total Mentions:** 15  
+**Documents:** 15
+
+## Name Variants
+
+- Global Research
+
+## Related Documents
+
+Top 10 documents by mention frequency:
+
+- [HOUSE_OVERSIGHT_010609](../../documents/HOUSE_OVERSIGHT_010609.md) - 1 mention
+- [HOUSE_OVERSIGHT_014315](../../documents/HOUSE_OVERSIGHT_014315.md) - 1 mention
+- [HOUSE_OVERSIGHT_014404](../../documents/HOUSE_OVERSIGHT_014404.md) - 1 mention
+- [HOUSE_OVERSIGHT_014424](../../documents/HOUSE_OVERSIGHT_014424.md) - 1 mention
+- [HOUSE_OVERSIGHT_014432](../../documents/HOUSE_OVERSIGHT_014432.md) - 1 mention
+- [HOUSE_OVERSIGHT_014460](../../documents/HOUSE_OVERSIGHT_014460.md) - 1 mention
+- [HOUSE_OVERSIGHT_014622](../../documents/HOUSE_OVERSIGHT_014622.md) - 1 mention
+- [HOUSE_OVERSIGHT_014721](../../documents/HOUSE_OVERSIGHT_014721.md) - 1 mention
+- [HOUSE_OVERSIGHT_014731](../../documents/HOUSE_OVERSIGHT_014731.md) - 1 mention
+- [HOUSE_OVERSIGHT_014873](../../documents/HOUSE_OVERSIGHT_014873.md) - 1 mention
+
+## Connections
+
+### Most Frequently Co-occurring Entities
+
+**Organizations:**
+
+- [Israel Securities Authority](israel-securities-authority.md) - 15 shared documents
+- [London Branch](london-branch.md) - 15 shared documents
+- [MAS](mas.md) - 15 shared documents
+- [Merchant Bank](merchant-bank.md) - 15 shared documents
+- [Merrill Lynch](merrill-lynch.md) - 15 shared documents
+- [Merrill Lynch Argentina SA](merrill-lynch-argentina-sa.md) - 15 shared documents
+- [Merrill Lynch Canada Inc](merrill-lynch-canada-inc.md) - 15 shared documents
+- [Merrill Lynch Capital Markets Espana](merrill-lynch-capital-markets-espana.md) - 15 shared documents
+- [Merrill Lynch Equities](merrill-lynch-equities.md) - 15 shared documents
+- [Merrill Lynch Global Wealth Management](merrill-lynch-global-wealth-management.md) - 15 shared documents
+
+**Locations:**
+
+- [Dubai](../locations/dubai.md) - 15 shared documents
+- [Japan](../locations/japan.md) - 15 shared documents
+- [Brazil](../locations/brazil.md) - 15 shared documents
+- [Canada](../locations/canada.md) - 15 shared documents
+- [Mexico](../locations/mexico.md) - 15 shared documents
+- [Asia](../locations/asia.md) - 15 shared documents
+- [Israel](../locations/israel.md) - 15 shared documents
+- [Australia](../locations/australia.md) - 15 shared documents
+- [Hong Kong](../locations/hong-kong.md) - 15 shared documents
+- [Singapore](../locations/singapore.md) - 15 shared documents
+
+**Events:**
+
+- [1959](../events/1959.md) - 15 shared documents
+- [the day](../events/the-day.md) - 15 shared documents
+- [198602883D](../events/198602883d.md) - 15 shared documents
+
+## Timeline
+
+*Timeline data will be available when document dates are fully processed.*

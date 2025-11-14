@@ -1,0 +1,131 @@
+# HOUSE_OVERSIGHT_026080
+
+## Document Metadata
+
+**Bates Range:** HOUSE_OVERSIGHT_026080 to HOUSE_OVERSIGHT_026082  
+**Pages:** 5  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [Security Council](../entities/people/security-council.md) - 1 mention
+- [European Parliament](../entities/people/european-parliament.md) - 1 mention
+
+### Organizations
+- [the European Parliament](../entities/organizations/the-european-parliament.md) - 1 mention
+- [European Commission](../entities/organizations/european-commission.md) - 1 mention
+- [Security Council](../entities/organizations/security-council.md) - 1 mention
+- [Houthi](../entities/organizations/houthi.md) - 1 mention
+
+### Locations
+- [Sun](../entities/locations/sun.md) - 1 mention
+- [Brussels](../entities/locations/brussels.md) - 1 mention
+- [Kuwait](../entities/locations/kuwait.md) - 1 mention
+- [Geneva](../entities/locations/geneva.md) - 1 mention
+- [Gulf](../entities/locations/gulf.md) - 1 mention
+- [Yemen](../entities/locations/yemen.md) - 1 mention
+
+### Events/Dates
+- [Friday](../entities/events/friday.md) - 1 mention
+- [two days](../entities/events/two-days.md) - 1 mention
+- [May 14, 2017](../entities/events/may-14-2017.md) - 1 mention
+- [May 5](../entities/events/may-5.md) - 1 mention
+
+## Document Text
+
+```
+From: 
+Sent: 5/14/2017 8:27:10 PM 
+To: jeffrey E. [jeeyacation@gmail.com] 
+Subject: Re: 
+Importance: High 
+very well many thnx and here is a refrence: 
+KUNA: Yemeni FM: We are ready to go back to peace talks - Politics - 05/05/2017 
+**Brussels**, **May 5** (KUNA) -- Yemeni Foreign Minister Abdulmalik Al-Makhlafi said **Friday** that the Yemeni 
+government is adhering to the peace process and is ready to go back to the table to bring peace to **Yemen** as 
+soon as possible and to save the people from more suffering. 
+"But the positive position of the government does not get any response by the revolutionaries who are still 
+refusing the demands for peace or to accept any international peace efforts," he told the **Kuwait** news agency, 
+KUNA, in an exclusive interview at the end of his visit to **Brussels**. 
+Al-Mekhlafi said they went "to our brotherly country **Kuwait**" which hosted the meeting for four months last 
+year. "After the consultations the UN envoy presented the draft agreement and we signed it but the other side 
+did not sign it," he noted. 
+"But after we left **Kuwait** and till now the revolutionaries did not undertake any steps proposed by the UN 
+envoy, Ismail Ould Cheikh Ahmed. We regret that peace is on hold due the desire of the revolutionaries to 
+continue the war," he said. 
+Al Makhlafi said that the government would continue to call for peace and hopes that the international pressures 
+and defeats that the revolutionaries have suffered until now will make them respond to the peace efforts. 
+"We were hoping to return again to **Kuwait** for the talks and our Kuwaiti brothers welcomed the return of the 
+two delegation in **Kuwait** in order to sign the agreement," he noted. 
+The Yemeni foreign minister expressed his deep appreciation and thanks to HH the Amir Sheikh Sabah Al-
+Ahmad Al-Jaber Al-Sabah, to the **Kuwait** government and to HE the first deputy prime minister and foreign 
+minister Sheikh Sabah Khaled al-Sabah who exerted great efforts during the **Kuwait** meetings. 
+"We look forward to return to **Kuwait**, and our brothers in **Kuwait** are rightly saying that we will welcome you 
+if you sign the agreement and not to waste time. But it appears that the revolutionaries are not ready to respond 
+to this step," he said. 
+Al Meahlafi said he visited **Brussels** for two-days of talks with the Belgian Foreign Minister Didier Reynders, 
+**European Commission** officials and Members of **the **European Parliament**** to explain the situation in **Yemen** and 
+seek support for the Yemeni government's peace efforts. 
+He said the Yemeni government seeks peace based on the three references, the **Gulf** initiative, the outputs of the 
+national dialogue, and the ****Security Council**** resolutions on **Yemen**, including resolution 2216. 
+The Yemeni foreign minister called on the EU to condemn the revolution and the Iranian interference in 
+**Yemen**, which is sending arms to the **Houthi** militias. 
+He also expressed his thanks to the EU for their humanitarian aid and for pledging the amount of 116 million 
+euro (USD 127 mn) during the UN-sponsored donors conference on **Yemen** held recently in **Geneva**. (end) 
+nk.mb 
+Sent from my iPhone 
+On **May 14, 2017**, at 11:25 PM, jeffrey E. <jeevacation@gmail.com> wrote: 
+i will ask, get back to you tomorw 
+On **Sun**, **May 14, 2017** at 10:23 PM, <__________________________I> wrote: 
+HOUSE OVERSIGHT 026080 
+how about the war in **Yemen**? 
+Sent from my iPhone 
+On **May 14, 2017**, at 10:25 PM, jeffrey E. <jeevacation@gmail.com> wrote: 
+it depends on which subject. . economic. military, tech? 
+On **Sun**, **May 14, 2017** at 9:17 PM, <______________________> wrote: 
+any tips on how we should communicate with him? 
+Sent from my iPhone 
+On **May 14, 2017**, at 9:35 PM, jeffrey E. <jeevacation@gmail.com> wrote: 
+much to do around the trump trip. I hope you are enjoying. 
+please note 
+The information contained in this communication is 
+confidential, may be attorney-client privileged, may 
+constitute inside information, and is intended only for 
+the use of the addressee. It is the property of 
+JEE 
+Unauthorized use, disclosure or copying of this 
+communication or any part thereof is strictly prohibited 
+and may be unlawful. If you have received this 
+communication in error, please notify us immediately by 
+return e-mail or by e-mail to jeevacation@gmail.com, and 
+destroy this communication and all copies thereof, 
+including all attachments. copyright -all rights reserved 
+please note 
+The information contained in this communication is 
+confidential, may be attorney-client privileged, may 
+constitute inside information, and is intended only for 
+the use of the addressee. It is the property of 
+JEE 
+Unauthorized use, disclosure or copying of this 
+communication or any part thereof is strictly prohibited 
+and may be unlawful. If you have received this 
+communication in error, please notify us immediately by 
+return e-mail or by e-mail to jeevacation@gmail.com, and 
+destroy this communication and all copies thereof, 
+including all attachments. copyright -all rights reserved 
+HOUSE 
+```
+
+*[Text truncated to 5000 characters]*
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_026090](HOUSE_OVERSIGHT_026090.md) - 16 shared entities
+- [HOUSE_OVERSIGHT_026086](HOUSE_OVERSIGHT_026086.md) - 16 shared entities
+- [HOUSE_OVERSIGHT_026083](HOUSE_OVERSIGHT_026083.md) - 16 shared entities
+- [HOUSE_OVERSIGHT_027849](HOUSE_OVERSIGHT_027849.md) - 9 shared entities
+- [HOUSE_OVERSIGHT_011472](HOUSE_OVERSIGHT_011472.md) - 9 shared entities

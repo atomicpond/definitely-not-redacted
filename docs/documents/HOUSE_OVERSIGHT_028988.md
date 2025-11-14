@@ -1,0 +1,216 @@
+# HOUSE_OVERSIGHT_028988
+
+## Document Metadata
+
+**Bates Range:** HOUSE_OVERSIGHT_028988 to HOUSE_OVERSIGHT_029002  
+**Pages:** 29  
+**Custodian:** Epstein, Jeffrey  
+**Original Filename:** Insightspod Proposal.pdf  
+**File Type:** PDF  
+**File Size:** 533.4 KB  
+**MD5 Hash:** `f9bb9185073d5b91bcce60a80c2a64d5`
+
+## Entities Mentioned
+
+### People
+- [San Francisco](../entities/people/san-francisco.md) - 1 mention
+- [Zubair Khan](../entities/people/zubair-khan.md) - 1 mention
+- [Donald 
+Trump](../entities/people/donald-trump.md) - 1 mention
+- [Hillary Clinton](../entities/people/hillary-clinton.md) - 1 mention
+- [Brexit](../entities/people/brexit.md) - 1 mention
+- [Business Development](../entities/people/business-development.md) - 1 mention
+
+### Organizations
+- [InsightsPod](../entities/organizations/insightspod.md) - 9 mentions
+- [Facebook](../entities/organizations/facebook.md) - 2 mentions
+- [Google](../entities/organizations/google.md) - 1 mention
+- [eBay](../entities/organizations/ebay.md) - 1 mention
+- [Brown University](../entities/organizations/brown-university.md) - 1 mention
+- [BREXIT](../entities/organizations/brexit.md) - 1 mention
+- [EU](../entities/organizations/eu.md) - 1 mention
+
+### Locations
+- [US](../entities/locations/us.md) - 3 mentions
+- [London](../entities/locations/london.md) - 1 mention
+- [Australia](../entities/locations/australia.md) - 1 mention
+- [San Francisco](../entities/locations/san-francisco.md) - 1 mention
+- [USD](../entities/locations/usd.md) - 1 mention
+- [U.K.](../entities/locations/uk.md) - 1 mention
+
+### Events/Dates
+- [August 2016](../entities/events/august-2016.md) - 3 mentions
+- [2016](../entities/events/2016.md) - 2 mentions
+- [the day](../entities/events/the-day.md) - 1 mention
+- [10 years](../entities/events/10-years.md) - 1 mention
+- [2020](../entities/events/2020.md) - 1 mention
+- [3 years](../entities/events/3-years.md) - 1 mention
+
+## Document Text
+
+```
+﻿Gather, Visualize, Analyze Public Opinion to make Intelligent Decisions
+**InsightsPod** analyzes opinions,
+sen>ments, emo>ons and
+a?tudes of people from social
+media. Currently our plaCorm
+supports TwiFer, **Facebook** and
+YouTube. We are in the process
+of integra>ng Instagram and
+Pinterest.
+Features
+Ø Gathers real >me data from social media sites and conducts sen>ment
+analysis.
+Ø Opinion can be analyzed based on geographic loca>on.
+Ø **InsightsPod** iden>fies loca>on and other demographics.
+Ø Ideal for retailers to determine customers’ intent and buying habits.
+Ø Graphical repor>ng.
+Ø **InsightsPod** supports 71 languages.
+Ø Add triggers to receive updates.
+Poten-al Customers
+• Retail/Brands: We help businesses/retailers iden>fy which customer is not
+happy in seconds. We help them determine a customer’s intent and buying
+habits. Also, we aid retailers and businesses with product development
+ideas and go-to market strategies.
+• Poli1cs: Through the vast amount of data available across social media, we
+can not only help poli>cians to understand what their cons>tuents are
+talking about but also to influence people, track voters and get them to
+vote.
+• Stocks: Investors who predict stock behavior by interpre>ng news and
+public sen>ment make beFer trades and informed decisions. **InsightsPod**
+can give an insight into public sen>ment quickly and can aid financial
+ins>tu>ons as well as individuals to make sound investment decisions.
+Case Study: ****Brexit****
+We conducted sen>ment analysis of more
+than half a million tweets before the
+Referendum day. 327K tweets were collected
+on **the day** of Referendum on **InsightsPod**.
+
+103k
+(27%)
+57k
+167k
+(51%)
+Tweets
+Support for ****Brexit****
+Remain in the EU
+Neutral
+Live Feeds – US Presiden-al Elec-on, **2016** 
+• Up un>l 17 th **August **2016**** we have processed 85 million tweets related to
+the US Presiden>al Elec>on.
+• The public feed is for media agencies and to showcase to poten>al
+customers, the accuracy and capability of **InsightsPod** plaCorm.
+• **InsightsPod** can help a poten>al poli>cal candidate understand what their
+cons>tuents are talking about and also to influence people and track
+voters.
+Live Feeds – US Presiden-al Elec-on, **2016** 
+Weekly Report: Donald Trump
+Weekly Report: **Hillary Clinton**
+5.73% 2.33%
+14.4%
+31.09%
+54.41% Nega>ve
+Nega>ve
+Neutral
+Posi>ve
+91.93%
+Neutral
+Posi>ve
+Based on data collected from 10 th - 17 th **August **2016****
+Social Media Ac-vity of Poten-al Customers
+2,941,608 Tweets per day
+412,320 Tweets per day
+12,690,192 Tweets per day
+2,878,608 Tweets per day
+Based on data collected on 17 th **August **2016****
+
+Pricing Model for Customers
+No. of Impressions
+(Monthly Subscription)
+Cost
+(**USD**)
+0-100,000 $999
+100,001-250,000 $1999
+250,001-500,000 $2600
+500,001-1000,000 $3500
+1000,001-2000,000 $5000
+*Impression = 1 **Facebook** comment or 1 Tweet
+Applica-ons under development
+• Mobile applica>on for shoppers to ask ques>ons about products and
+services – our output will be based on opinion of people on social media.
+• Analyze and predict crime
+**InsightsPod** founding Team 
+• **Zubair Khan** (CEO)
+• CEO, Tranchulas – A
+mul>na>onal IT Security
+Company (**10 years**)
+• Pursuing MBA from Harvard
+• Bachelors in Business IT from
+Cur>n University of
+Technology, **Australia**
+• Accomplished and result
+oriented with proficiency in IT
+business management.
+Analy>cal exper>se in
+overseeing technology
+improvement ini>a>ves.
+• Anya Rasulova (Director)
+• **Business Development** and
+Strategic Partnerships, **Google**
+• Product Marke>ng Manager,
+**Google**
+• Strategy Manager, **eBay**
+• Wharton MBA (Marke>ng and
+Opera>ons)
+• BA Economics, Brown
+University
+• Solid career track record in
+consul>ng and internet services
+250,000
+200,000
+150,000
+100,000
+50,000
+0
+Yearly Expense ($)
+PR/Marke>ng
+Product Development
+**Business Development**
+Indirect cost
+TwiFer data acquis>on cost
+Live feeds
+U>li>es/Office Space
+Legal/Compliance
+Total Annual Costs = $800k
+Sales Forecast
+• **InsightsPod** is pre-revenue
+• Es>mated break-even point is between 18 to 24 months
+• Sales Target is $4m in **2020**
+Raising $2.4m at $10m valua-on to scale
+• Required Investment is $2.4m for **3 years** ($800k per year) or Minimum
+Ticket $1M.
+• Use of Proceeds
+• Refine sen>ment analysis system – currently 5% false posi>ves
+• Hire a PR Firm
+• Marke>ng and Sales (American and UK market)
+• Office Space in ****San Francisco**** and **London**
+Why Invest?
+• First Mover
+• Efficient
+• Experienced Team that knows where to focus
+• Good Business
+• Subscrip>on Revenue
+• High Margins
+
+```
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_028815](HOUSE_OVERSIGHT_028815.md) - 19 shared entities
+- [HOUSE_OVERSIGHT_014887](HOUSE_OVERSIGHT_014887.md) - 11 shared entities
+- [HOUSE_OVERSIGHT_026909](HOUSE_OVERSIGHT_026909.md) - 10 shared entities
+- [HOUSE_OVERSIGHT_026893](HOUSE_OVERSIGHT_026893.md) - 10 shared entities
+- [HOUSE_OVERSIGHT_020447](HOUSE_OVERSIGHT_020447.md) - 10 shared entities

@@ -1,0 +1,57 @@
+# HOUSE_OVERSIGHT_026159
+
+## Document Metadata
+
+**Bates ID:** HOUSE_OVERSIGHT_026159  
+**Pages:** 1  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [High 
+Yes](../entities/people/high-yes.md) - 1 mention
+- [Jack Lang](../entities/people/jack-lang.md) - 1 mention
+
+## Document Text
+
+```
+From: Lang, Caroline 
+Sent: 7/11/2017 9:40:01 AM 
+To: jeffrey E. [jeeyacation@gmail.com]; **Jack Lang** 
+Subject: RE: 
+Importance: **High 
+Yes**, I saw the news 
+From: jeffrey E. [mailto:jeevacation@gmail.com] 
+Sent: lundi 10 juillet 2017 23:17 
+To: Lang, Caroline 
+Subject: 
+re trump. as i said they will first go after his family 
+**Jack Lang** 
+please note 
+The information contained in this communication is 
+confidential, may be attorney-client privileged, may 
+constitute inside information, and is intended only for 
+the use of the addressee. It is the property of 
+JEE 
+Unauthorized use, disclosure or copying of this 
+communication or any part thereof is strictly prohibited 
+and may be unlawful. If you have received this 
+communication in error, please notify us immediately by 
+return e-mail or by e-mail to jeevacation@gmail.com, and 
+destroy this communication and all copies thereof, 
+including all attachments. copyright -all rights reserved 
+HOUSE OVERSIGHT 026159 
+
+```
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_033377](HOUSE_OVERSIGHT_033377.md) - 1 shared entities
+- [HOUSE_OVERSIGHT_033122](HOUSE_OVERSIGHT_033122.md) - 1 shared entities
+- [HOUSE_OVERSIGHT_033120](HOUSE_OVERSIGHT_033120.md) - 1 shared entities
+- [HOUSE_OVERSIGHT_032811](HOUSE_OVERSIGHT_032811.md) - 1 shared entities
+- [HOUSE_OVERSIGHT_032706](HOUSE_OVERSIGHT_032706.md) - 1 shared entities

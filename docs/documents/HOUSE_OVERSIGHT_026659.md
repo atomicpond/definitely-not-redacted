@@ -1,0 +1,94 @@
+# HOUSE_OVERSIGHT_026659
+
+## Document Metadata
+
+**Bates Range:** HOUSE_OVERSIGHT_026659 to HOUSE_OVERSIGHT_026660  
+**Pages:** 3  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [Donald 
+Trump](../entities/people/donald-trump.md) - 2 mentions
+- [White House](../entities/people/white-house.md) - 1 mention
+- [Postal Service](../entities/people/postal-service.md) - 1 mention
+- [Barbro Ehnbom](../entities/people/barbro-ehnbom.md) - 1 mention
+- [Original Message](../entities/people/original-message.md) - 1 mention
+- [ann](../entities/people/ann.md) - 1 mention
+
+### Organizations
+- [Obamacare](../entities/organizations/obamacare.md) - 2 mentions
+- [HOUSE](../entities/organizations/house.md) - 1 mention
+- [ACA](../entities/organizations/aca.md) - 1 mention
+
+### Locations
+- [America](../entities/locations/america.md) - 2 mentions
+- [Washington DC](../entities/locations/washington-dc.md) - 1 mention
+- [the White House](../entities/locations/the-white-house.md) - 1 mention
+
+### Events/Dates
+- [today](../entities/events/today.md) - 4 mentions
+
+## Document Text
+
+```
+From: 
+Sent: 
+To: 
+Subject: Fwd: Do a good deed **today**... 
+Attachments: Don't make **America** sick again.docx 
+**Barbro Ehnbom** 
+1/24/2017 9:56:23 PM 
+Importance: High 
+Easy enough! :-) 
+-----**Original Message**----- 
+From: 
+To: BarIxo Ehnbom 
+Sent: Tue, Jan 24, 2017 4:45 pm 
+Subject: Fwd: Do a good deed **today**... 
+Sent from my iPhone 
+Begin forwarded message: 
+From: 
+Date: January 24 2017 at 4:17:59 PM EST 
+To: 
+Subject: Do a good deed **today**... 
+Here's something simple we all can do **today**... 
+Diana Chapman Walsh was president of Wellesley College 8 years ago. She recently emailed her former colleagues the 
+following idea: 
+Listen Up! The Republicans need to get the message from the majority of Americans that we value and need the benefits 
+of **Obamacare**. Here's how we do that. 
+On January 23rd, everyone who feels that way (our numbers are legion) sends a note to Donald Trump with a simple 
+message: 
+"Don't make **America** sick again. Improve **Obamacare**. Don't repeal it." 
+One envelope for every **ACA** supporter in your household...even if they are under 18 years old. 
+Just that simple message. Put it in an envelope, and put a stamp on it. 
+On January 23rd, mail it to: 
+Pres. Donald Trump 
+1600 Pennsylvania Ave NW, 
+Washington, DC 20500 
+**HOUSE** OVERSIGHT 026659 
+Can you imagine the picture of 53 MILLION letters arriving at **the **White **HOUSE****** by January 26th? It will be a mountain. 
+That image might help deter the Republicans from killing the most substantial improvement to American healthcare since 
+the discovery of Penicillin. 
+Do it **today**! Drop it into a mailbox near you on Monday, January 23rd. 
+Please send this email to 20 (or more) of your friends, neighbors **ann** fellow Americans. Ask them to do the same. 
+This also helps out the US **Postal Service**, with about $20 Million of stamp sales. 
+Don't send emails to Trump...they don't photograph well. 
+I attached a document with the text so you can just print it and put it in the envelope 
+cell 
+email: 
+**HOUSE** OVERSIGHT 026660 
+
+```
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_031136](HOUSE_OVERSIGHT_031136.md) - 5 shared entities
+- [HOUSE_OVERSIGHT_030218](HOUSE_OVERSIGHT_030218.md) - 5 shared entities
+- [HOUSE_OVERSIGHT_030060](HOUSE_OVERSIGHT_030060.md) - 5 shared entities
+- [HOUSE_OVERSIGHT_029063](HOUSE_OVERSIGHT_029063.md) - 5 shared entities
+- [HOUSE_OVERSIGHT_029042](HOUSE_OVERSIGHT_029042.md) - 5 shared entities

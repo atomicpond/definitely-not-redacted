@@ -1,0 +1,76 @@
+# HOUSE_OVERSIGHT_029978
+
+## Document Metadata
+
+**Bates ID:** HOUSE_OVERSIGHT_029978  
+**Pages:** 1  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 6 mentions
+- [Bill 
+Clinton](../entities/people/bill-clinton.md) - 1 mention
+- [Jeffrey Epstein's](../entities/people/jeffrey-epsteins.md) - 1 mention
+- [Bill Clinton’s](../entities/people/bill-clintons.md) - 1 mention
+
+### Organizations
+- [Daily Mail](../entities/organizations/daily-mail.md) - 1 mention
+- [RSS](../entities/organizations/rss.md) - 1 mention
+- [Google Alerts](../entities/organizations/google-alerts.md) - 1 mention
+
+### Locations
+- [Florida](../entities/locations/florida.md) - 1 mention
+
+### Events/Dates
+- [2016](../entities/events/2016.md) - 1 mention
+
+## Document Text
+
+```
+Date: Friday, July 15 **2016** 03:40 AM 
+Subject: Fwd: Google Alert - **Jeffrey Epstein** 
+From: 
+To: **Jeffrey Epstein** <jeevacation@grnail.corn>; 
+How did they get access to this and how is it legal that they are posting this? 
+This message is directed to and is for the use of the above-noted addressee only, and its contents may be legally 
+privileged or confidential. If the reader of this message is not the intended recipient, you are hereby notified that 
+any distribution, dissemination, or copy of this message is strictly prohibited. If you have received this message 
+in error, please delete it immediately and notify the sender. This message is not intended to be an electronic 
+signature nor to constitute an agreement of any kind under applicable law unless otherwise expressly indicated 
+hereon. 
+Begin forwarded message: 
+From: **Google Alerts** <googlealerts-noreplyggoogle.com> 
+Date: July 14, **2016** at 10:54:36 PM EDT 
+To: ___________________ 
+Subject: Google Alert - **Jeffrey Epstein** 
+**Jeffrey Epstein** 
+uaily upaate • July i, **2016** 
+NEWS 
+**Daily Mail** 
+Shocking VIDEO from inside **Florida** mansion of Bill Clinton's friend Jeffrey 
+Epstein 
+**Daily Mail** 
+These were the images that police found when they searched evil ****Jeffrey Epstein**'s** waterfront mansion. 
+Now **Daily Mail** Online has exclusively ... 
+xl 
+Flag as irrelevant 
+You have received this email because you have subscribed to **Google Alerts**. 
+Unsubscribe 
+x Receive this alert as **RSS** feed 
+Send Feedback 
+HOUSE OVERSIGHT 029978 
+
+```
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_031712](HOUSE_OVERSIGHT_031712.md) - 5 shared entities
+- [HOUSE_OVERSIGHT_031710](HOUSE_OVERSIGHT_031710.md) - 5 shared entities
+- [HOUSE_OVERSIGHT_030429](HOUSE_OVERSIGHT_030429.md) - 5 shared entities
+- [HOUSE_OVERSIGHT_031751](HOUSE_OVERSIGHT_031751.md) - 4 shared entities
+- [HOUSE_OVERSIGHT_031714](HOUSE_OVERSIGHT_031714.md) - 4 shared entities

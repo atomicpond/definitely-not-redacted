@@ -1,0 +1,83 @@
+# HOUSE_OVERSIGHT_033001
+
+## Document Metadata
+
+**Bates Range:** HOUSE_OVERSIGHT_033001 to HOUSE_OVERSIGHT_033002  
+**Pages:** 3  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [Alireza ITTIHADIEH](../entities/people/alireza-ittihadieh.md) - 2 mentions
+- [Saudi Arabia](../entities/people/saudi-arabia.md) - 1 mention
+- [United 
+States](../entities/people/united-states.md) - 1 mention
+
+### Locations
+- [Iran](../entities/locations/iran.md) - 3 mentions
+- [the United States](../entities/locations/the-united-states.md) - 1 mention
+- [Saudi Arabia](../entities/locations/saudi-arabia.md) - 1 mention
+- [West](../entities/locations/west.md) - 1 mention
+- [Mon](../entities/locations/mon.md) - 1 mention
+
+### Events/Dates
+- [decades](../entities/events/decades.md) - 1 mention
+- [May 22, 2017](../entities/events/may-22-2017.md) - 1 mention
+- [5/22/2017](../entities/events/5222017.md) - 1 mention
+
+## Document Text
+
+```
+From: jeffrey E. [jeeyacation@gmail.com] 
+Sent: **5/22/2017** 9:52:07 AM 
+To: **Alireza ITTIHADIEH** 
+Subject: Re: **Iran** and Trump Speech. 
+i told you this would happen. its going to get a lot worse before it gets better. 
+On **Mon**, **May 22, 2017** at 2:58 AM, **Alireza ITTIHADIEH** < 
+> wrote: 
+Mr. Rouhani's supporters also expect his victory, with 57 percent of the vote, to bolster his 
+outreach efforts to the **West** and the pursuit of more foreign investment to lift **Iran**'s ailing 
+economy. 
+For those who voted for Mr. Rouhani, there was a feeling of tremendous relief that his 
+challenger, the hard-line cleric Ebrahim Raisi, who criticized the nuclear deal with the **United 
+States** and other Western powers, had lost. 
+"Bye-bye, Raisi," the crowds chanted during the street gatherings. 
+"He faces a difficult task," Fazel Meybodi, a Shiite Muslim cleric from the city of Qum, said of Mr. 
+Rouhani. "Now he must provide more freedoms, break the hard-line monopoly on the state-run 
+radio and television, and increase freedom of press." 
+To achieve all that, Mr. Rouhani must persuade the hard-line-dominated judiciary and security 
+forces to change their outlook, Mr. Meybodi said. "If he fails to deliver on at least 70 percent of 
+those promises, his future is dark," he added. 
+For **decades**, ****Saudi Arabia**** and **Iran** have competed for religious leadership and political 
+influence across the Muslim world and beyond. 
+Trump is correct, however, Rouhani needs a chance to act. 
+V-BR 
+please note 
+The information contained in this communication is 
+confidential, may be attorney-client privileged, may 
+constitute inside information, and is intended only for 
+the use of the addressee. It is the property of 
+JEE 
+Unauthorized use, disclosure or copying of this 
+communication or any part thereof is strictly prohibited 
+and may be unlawful. If you have received this 
+communication in error, please notify us immediately by 
+HOUSE OVERSIGHT 033001 
+return e-mail or by e-mail to jeevacation@gmail.com, and 
+destroy this communication and all copies thereof, 
+including all attachments. copyright -all rights reserved 
+HOUSE OVERSIGHT 033002 
+
+```
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_030156](HOUSE_OVERSIGHT_030156.md) - 7 shared entities
+- [HOUSE_OVERSIGHT_029779](HOUSE_OVERSIGHT_029779.md) - 7 shared entities
+- [HOUSE_OVERSIGHT_029692](HOUSE_OVERSIGHT_029692.md) - 7 shared entities
+- [HOUSE_OVERSIGHT_030060](HOUSE_OVERSIGHT_030060.md) - 6 shared entities
+- [HOUSE_OVERSIGHT_029628](HOUSE_OVERSIGHT_029628.md) - 6 shared entities

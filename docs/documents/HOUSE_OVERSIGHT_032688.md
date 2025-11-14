@@ -1,0 +1,64 @@
+# HOUSE_OVERSIGHT_032688
+
+## Document Metadata
+
+**Bates ID:** HOUSE_OVERSIGHT_032688  
+**Pages:** 1  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [Weingarten](../entities/people/weingarten.md) - 2 mentions
+- [Reid 
+Subject](../entities/people/reid-subject.md) - 1 mention
+- [Reid 
+Sent](../entities/people/reid-sent.md) - 1 mention
+- [Mr. 
+Trump](../entities/people/mr-trump.md) - 1 mention
+
+### Events/Dates
+- [1/3/2018](../entities/events/132018.md) - 1 mention
+- [January 03, 2018](../entities/events/january-03-2018.md) - 1 mention
+
+## Document Text
+
+```
+From: **Weingarten**, **Reid 
+Sent**: **1/3/2018** 6:11:02 PM 
+To: jeffrey E. [jeeyacation@gmail.com] 
+Subject: RE: 
+Importance: High 
+Internet is crashing right now about this....trump apparently off his rocker 
+From: Jeffrey E. [mailto:jeevacation@gmail.com] 
+Sent: Wednesday, **January 03, 2018** 1:05 PM 
+To: **Weingarten**, **Reid 
+Subject**: 
+http://nymag.com/daily/intelligencer/20 1 8/0 1 /michael-wolff-fire-and-fury-book-donald-trump.html 
+please note 
+The information contained in this communication is 
+confidential, may be attorney-client privileged, may 
+constitute inside information, and is intended only for 
+the use of the addressee. It is the property of 
+JEE 
+Unauthorized use, disclosure or copying of this 
+communication or any part thereof is strictly prohibited 
+and may be unlawful. If you have received this 
+communication in error, please notify us immediately by 
+return e-mail or by e-mail to jeevacation@gmail.com, and 
+destroy this communication and all copies thereof, 
+including all attachments. copyright -all rights reserved 
+HOUSE OVERSIGHT 032688 
+
+```
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_032690](HOUSE_OVERSIGHT_032690.md) - 6 shared entities
+- [HOUSE_OVERSIGHT_032703](HOUSE_OVERSIGHT_032703.md) - 5 shared entities
+- [HOUSE_OVERSIGHT_032699](HOUSE_OVERSIGHT_032699.md) - 5 shared entities
+- [HOUSE_OVERSIGHT_032697](HOUSE_OVERSIGHT_032697.md) - 5 shared entities
+- [HOUSE_OVERSIGHT_033053](HOUSE_OVERSIGHT_033053.md) - 4 shared entities

@@ -1,0 +1,67 @@
+# HOUSE_OVERSIGHT_031803
+
+## Document Metadata
+
+**Bates ID:** HOUSE_OVERSIGHT_031803  
+**Pages:** 1  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [DAVID SCHOEN](../entities/people/david-schoen.md) - 2 mentions
+- [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 2 mentions
+- [CLINTON](../entities/people/clinton.md) - 1 mention
+- [Fox](../entities/people/fox.md) - 1 mention
+
+### Organizations
+- [Fox News](../entities/organizations/fox-news.md) - 2 mentions
+- [HOUSE](../entities/organizations/house.md) - 1 mention
+
+### Events/Dates
+- [today](../entities/events/today.md) - 1 mention
+
+## Document Text
+
+```
+From: J [jeevacation@gmail.com] 
+Sent: 6/15/2019 9:57:14 AM 
+To: **DAVID SCHOEN** 
+Subject: Re: From ****Fox** News** - **Jeffrey Epstein**, registered sex offender, settles civil lawsuit and avoids testimony from alleged 
+victims 
+no worry how are you 
+On Sat, Jun 15, 2019 at 2:21 AM **DAVID SCHOEN** <_________________> wrote: 
+I know it was an old piece but **Fox** is running it again **today**. 
+The numerous young women who say they were sexually abused by wealthy, **CLINTON**-linked financier Jeffrey 
+Epstein no longer appear set to testify after a last-minute settlement was reached in a closely-watched civil 
+lawsuit against the registered sex offender. 
+https://www.foxnews.com/us/jeffrey-epstein-a-registered-sex-offender-settles-civil-lawsuit-and-avoids-
+testimony-from-alleged-victims  
+Explore the ****Fox** News** apps that are right for you at http://www.foxnews.com/apps-products/index.html.  
+please note 
+The information contained in this communication is 
+confidential, may be attorney-client privileged, may 
+constitute inside information, and is intended only for 
+the use of the addressee. It is the property of 
+JEE 
+Unauthorized use, disclosure or copying of this 
+communication or any part thereof is strictly prohibited 
+and may be unlawful. If you have received this 
+communication in error, please notify us immediately by 
+return e-mail or by e-mail to jeevacation@gmail.com, and 
+destroy this communication and all copies thereof, 
+including all attachments. copyright -all rights reserved 
+**HOUSE** OVERSIGHT 031803 
+
+```
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_031825](HOUSE_OVERSIGHT_031825.md) - 7 shared entities
+- [HOUSE_OVERSIGHT_031824](HOUSE_OVERSIGHT_031824.md) - 5 shared entities
+- [HOUSE_OVERSIGHT_031823](HOUSE_OVERSIGHT_031823.md) - 5 shared entities
+- [HOUSE_OVERSIGHT_031492](HOUSE_OVERSIGHT_031492.md) - 5 shared entities
+- [HOUSE_OVERSIGHT_031999](HOUSE_OVERSIGHT_031999.md) - 4 shared entities

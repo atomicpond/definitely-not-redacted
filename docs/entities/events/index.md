@@ -1,0 +1,2129 @@
+# Events
+
+Total events entities: 1,965
+
+## Most Mentioned
+
+1. [today](today.md) - 891 mentions
+2. [2016](2016.md) - 456 mentions
+3. [2017](2017.md) - 385 mentions
+4. [tomorrow](tomorrow.md) - 315 mentions
+5. [2018](2018.md) - 291 mentions
+6. [Friday](friday.md) - 284 mentions
+7. [Sunday](sunday.md) - 273 mentions
+8. [2008](2008.md) - 270 mentions
+9. [years](years.md) - 255 mentions
+10. [Monday](monday.md) - 254 mentions
+11. [this week](this-week.md) - 238 mentions
+12. [2013](2013.md) - 227 mentions
+13. [this year](this-year.md) - 214 mentions
+14. [last year](last-year.md) - 209 mentions
+15. [2010](2010.md) - 205 mentions
+16. [2012](2012.md) - 200 mentions
+17. [2011](2011.md) - 198 mentions
+18. [2009](2009.md) - 197 mentions
+19. [2014](2014.md) - 190 mentions
+20. [last week](last-week.md) - 187 mentions
+21. [daily](daily.md) - 184 mentions
+22. [the day](the-day.md) - 178 mentions
+23. [Saturday](saturday.md) - 178 mentions
+24. [Thursday](thursday.md) - 177 mentions
+25. [2015](2015.md) - 173 mentions
+26. [yesterday](yesterday.md) - 166 mentions
+27. [Tuesday](tuesday.md) - 162 mentions
+28. [2006](2006.md) - 161 mentions
+29. [2003](2003.md) - 159 mentions
+30. [2007](2007.md) - 155 mentions
+31. [annual](annual.md) - 155 mentions
+32. [2005](2005.md) - 152 mentions
+33. [Wednesday](wednesday.md) - 149 mentions
+34. [2019](2019.md) - 144 mentions
+35. [2004](2004.md) - 140 mentions
+36. [2000](2000.md) - 140 mentions
+37. [Sat](sat.md) - 139 mentions
+38. [85287-1404](85287-1404.md) - 127 mentions
+39. [year](year.md) - 126 mentions
+40. [2001](2001.md) - 123 mentions
+41. [September](september.md) - 123 mentions
+42. [months](months.md) - 121 mentions
+43. [two years](two-years.md) - 120 mentions
+44. [decades](decades.md) - 116 mentions
+45. [2002](2002.md) - 115 mentions
+46. [1994](1994.md) - 111 mentions
+47. [a year](a-year.md) - 111 mentions
+48. [many years](many-years.md) - 111 mentions
+49. [November](november.md) - 106 mentions
+50. [Sep 19, 2014](sep-19-2014.md) - 104 mentions
+
+## Browse All
+
+[#](#other) | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [H](#h) | [I](#i) | [J](#j) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y)
+
+### Other {#other}
+
+- ['60s](60s.md) - 5 mentions
+- ['70s](70s.md) - 5 mentions
+- [0 1](0-1.md) - 5 mentions
+- [0 minutes ago](0-minutes-ago.md) - 5 mentions
+- [0000-0000-C000-000000000046};Word8.0;&H00000000](0000-0000-c000-000000000046word80h00000000.md) - 5 mentions
+- [01/19/17](01-19-17.md) - 5 mentions
+- [01/20/17](012017.md) - 23 mentions
+- [01/27/17](012717.md) - 41 mentions
+- [01/28/17](012817.md) - 32 mentions
+- [02/02/19](020219.md) - 35 mentions
+- [02/17/17](021717.md) - 26 mentions
+- [02/18/17](021817.md) - 55 mentions
+- [02/21/17](022117.md) - 24 mentions
+- [02/22/17](022217.md) - 26 mentions
+- [02/23/17](022317.md) - 39 mentions
+- [02/25/17](022517.md) - 24 mentions
+- [02/26/17](022617.md) - 16 mentions
+- [03/01/17](030117.md) - 17 mentions
+- [03/03/17](030317.md) - 18 mentions
+- [03/04/17](030417.md) - 25 mentions
+- [03/05/19](030519.md) - 19 mentions
+- [03/06/17](030617.md) - 34 mentions
+- [03/07/19](030719.md) - 24 mentions
+- [03/12/19](031219.md) - 18 mentions
+- [03/14/18](031418.md) - 15 mentions
+- [03/15/17](031517.md) - 22 mentions
+- [03/17/17](031717.md) - 18 mentions
+- [03/26/19](032619.md) - 22 mentions
+- [03/28/19](032819.md) - 65 mentions
+- [03/29/17](032917.md) - 19 mentions
+- [03/29/19](032919.md) - 48 mentions
+- [03/30/19](033019.md) - 42 mentions
+- [03/31/19](033119.md) - 26 mentions
+- [04/08/18](040818.md) - 34 mentions
+- [04/09/17](040917.md) - 33 mentions
+- [04/09/18](040918.md) - 17 mentions
+- [04/16/19](04-16-19.md) - 10 mentions
+- [04/20/17](042017.md) - 71 mentions
+- [04/30/19](043019.md) - 70 mentions
+- [04:41](0441.md) - 5 mentions
+- [05/01/19](050119.md) - 16 mentions
+- [05/02/19](050219.md) - 27 mentions
+- [05/03/19](050319.md) - 58 mentions
+- [05/04/19](050419.md) - 15 mentions
+- [05/06/19](050619.md) - 20 mentions
+- [05/08/19](050819.md) - 33 mentions
+- [05/21/19](052119.md) - 24 mentions
+- [05/22/19](052219.md) - 57 mentions
+- [05/23/19](052319.md) - 21 mentions
+- [05/24/19](052419.md) - 20 mentions
+- [05/25/17](052517.md) - 22 mentions
+- [05/25/19](052519.md) - 38 mentions
+- [05/26/19](052619.md) - 44 mentions
+- [05/28/19](052819.md) - 17 mentions
+- [05/29/19](052919.md) - 29 mentions
+- [06/12/19](061219.md) - 19 mentions
+- [06/13/19](061319.md) - 48 mentions
+- [06/14/18](061418.md) - 28 mentions
+- [06/15/19](061519.md) - 44 mentions
+- [06/16/18](061618.md) - 24 mentions
+- [06/16/19](061619.md) - 34 mentions
+- [06/17/18](061718.md) - 46 mentions
+- [06/17/19](061719.md) - 34 mentions
+- [06/18/19](061819.md) - 34 mentions
+- [06/19/19](061919.md) - 16 mentions
+- [06/28/19](062819.md) - 27 mentions
+- [06/30/08](06-30-08.md) - 5 mentions
+- [06/30/17](063017.md) - 20 mentions
+- [07/01/18](070118.md) - 20 mentions
+- [07/01/19](070119.md) - 24 mentions
+- [07/03/19](070319.md) - 15 mentions
+- [07/05/19](070519.md) - 34 mentions
+- [07/09/18](070918.md) - 22 mentions
+- [07/10/18](071018.md) - 15 mentions
+- [07/24/18](072418.md) - 28 mentions
+- [07/25/18](072518.md) - 34 mentions
+- [07/26/18](072618.md) - 23 mentions
+- [07/27/18](072718.md) - 32 mentions
+- [07/28/18](072818.md) - 24 mentions
+- [07/29/18](072918.md) - 15 mentions
+- [07/31/18](073118.md) - 42 mentions
+- [08/01/18](080118.md) - 37 mentions
+- [08/02/18](080218.md) - 34 mentions
+- [08/20/18](082018.md) - 23 mentions
+- [09/17/18](091718.md) - 42 mentions
+- [09/18/18](091818.md) - 31 mentions
+- [09/20/18](092018.md) - 18 mentions
+- [09/28/18](092818.md) - 24 mentions
+- [09/29/18](092918.md) - 21 mentions
+- [09/30/18](093018.md) - 17 mentions
+- [1](1.md) - 13 mentions
+- [1 1](1-1.md) - 6 mentions
+- [1 day ago](1-day-ago.md) - 7 mentions
+- [1 week](1-week.md) - 5 mentions
+- [1-month](1-month.md) - 6 mentions
+- [1-year](1-year.md) - 13 mentions
+- [1/10/2015](1-10-2015.md) - 5 mentions
+- [1/12/2017](1122017.md) - 9 mentions
+- [1/15/2017](1152017.md) - 5 mentions
+- [1/20/2017](1-20-2017.md) - 5 mentions
+- [1/3/2018](132018.md) - 11 mentions
+- [1/4/2018](142018.md) - 12 mentions
+- [1/6/2017](162017.md) - 5 mentions
+- [1/8/2018](182018.md) - 8 mentions
+- [1/9/2015](1-9-2015.md) - 5 mentions
+- [10](10.md) - 16 mentions
+- [10 day](10-day.md) - 9 mentions
+- [10 days](10-days.md) - 24 mentions
+- [10 years](10-years.md) - 87 mentions
+- [10 years ago](10-years-ago.md) - 10 mentions
+- [10-12 years](10-12-years.md) - 7 mentions
+- [10-year](10-year.md) - 57 mentions
+- [10-year-old](10-year-old.md) - 6 mentions
+- [10-yr](10-yr.md) - 5 mentions
+- [10/02/18](100218.md) - 26 mentions
+- [10/09/18](100918.md) - 34 mentions
+- [10/19/2013](10-19-2013.md) - 6 mentions
+- [10/3/2018](1032018.md) - 5 mentions
+- [100 years](100-years.md) - 7 mentions
+- [10016](10016.md) - 5 mentions
+- [10036](10036.md) - 11 mentions
+- [1030       ](1030.md) - 6 mentions
+- [104](104.md) - 5 mentions
+- [106](106.md) - 5 mentions
+- [10:03 AM](1003-am.md) - 6 mentions
+- [10:31 AM](1031-am.md) - 6 mentions
+- [10:43 PM](1043-pm.md) - 8 mentions
+- [10:47 AM](1047-am.md) - 6 mentions
+- [10:52 AM](1052-am.md) - 10 mentions
+- [11](11.md) - 16 mentions
+- [11 months](11-months.md) - 11 mentions
+- [11 November 2016](11-november-2016.md) - 14 mentions
+- [11 years](11-years.md) - 9 mentions
+- [11-month](11-month.md) - 11 mentions
+- [11/10/2015](11102015.md) - 30 mentions
+- [11/10/2015 2010](11102015-2010.md) - 26 mentions
+- [11/10/2016](11102016.md) - 18 mentions
+- [11/12/18](111218.md) - 17 mentions
+- [11/14/18](111418.md) - 56 mentions
+- [11/14/2016](11142016.md) - 8 mentions
+- [11/15/18](111518.md) - 22 mentions
+- [11/16/18](111618.md) - 75 mentions
+- [11/16/2017](11162017.md) - 5 mentions
+- [11/17/18](111718.md) - 17 mentions
+- [11/17/2017](11172017.md) - 6 mentions
+- [11/18/18](111818.md) - 34 mentions
+- [11/19/18](111918.md) - 27 mentions
+- [11/2/2012](1122012.md) - 12 mentions
+- [11/20/18](112018.md) - 20 mentions
+- [11/20/2016](11202016.md) - 5 mentions
+- [11/21/18](112118.md) - 26 mentions
+- [11/22/18](112218.md) - 26 mentions
+- [11/23/18](112318.md) - 27 mentions
+- [11/25/2018](11252018.md) - 5 mentions
+- [11/26/18](112618.md) - 19 mentions
+- [11/28/2016](11-28-2016.md) - 6 mentions
+- [11/28/2016](11282016.md) - 6 mentions
+- [11/29/2016](11292016.md) - 5 mentions
+- [11/5/2018](1152018.md) - 6 mentions
+- [11/7/2017](11-7-2017.md) - 6 mentions
+- [1130](1130.md) - 6 mentions
+- [11:00 AM](1100-am.md) - 5 mentions
+- [11:05 AM](1105-am.md) - 9 mentions
+- [11:15 AM](1115-am.md) - 7 mentions
+- [11:28 AM](1128-am.md) - 9 mentions
+- [11:36 PM](1136-pm.md) - 10 mentions
+- [11:51 PM](1151-pm.md) - 11 mentions
+- [12](12.md) - 18 mentions
+- [12 Jul 2018](12-jul-2018.md) - 11 mentions
+- [12 months](12-months.md) - 15 mentions
+- [12 years](12-years.md) - 22 mentions
+- [12 years old](12-years-old.md) - 7 mentions
+- [12-month](12-month.md) - 25 mentions
+- [12-year-old](12-year-old.md) - 16 mentions
+- [12/02/18](120218.md) - 26 mentions
+- [12/04/18](120418.md) - 28 mentions
+- [12/05/18](120518.md) - 58 mentions
+- [12/06/18](120618.md) - 58 mentions
+- [12/07/18](120718.md) - 22 mentions
+- [12/1/2016](1212016.md) - 5 mentions
+- [12/11/2017](12-11-2017.md) - 12 mentions
+- [12/12/2018](12122018.md) - 5 mentions
+- [12/14/2018](12142018.md) - 5 mentions
+- [12/15/2016](12152016.md) - 6 mentions
+- [12/16/2010](12-16-2010.md) - 5 mentions
+- [12/2/2015](1222015.md) - 6 mentions
+- [12/2/2017](1222017.md) - 7 mentions
+- [12/20/2018](12202018.md) - 5 mentions
+- [12/31/2017](12312017.md) - 6 mentions
+- [12/4/2018](1242018.md) - 5 mentions
+- [12/7/2016](1272016.md) - 14 mentions
+- [1290](1290.md) - 5 mentions
+- [12:01:18](120118.md) - 17 mentions
+- [12:14 PM](1214-pm.md) - 10 mentions
+- [12:14:37 PM EDT](121437-pm-edt.md) - 8 mentions
+- [12:20 PM](1220-pm.md) - 9 mentions
+- [12:50 AM](1250-am.md) - 7 mentions
+- [12:51 PM](1251-pm.md) - 6 mentions
+- [12:56:55 AM EDT](125655-am-edt.md) - 5 mentions
+- [12:59 PM](1259-pm.md) - 6 mentions
+- [13](13.md) - 23 mentions
+- [13 months](13-months.md) - 68 mentions
+- [13 years](13-years.md) - 8 mentions
+- [13 years old](13-years-old.md) - 12 mentions
+- [13-month](13-month.md) - 11 mentions
+- [13-year](13-year.md) - 6 mentions
+- [13-year-old](13-year-old.md) - 28 mentions
+- [1332](1332.md) - 5 mentions
+- [14](14.md) - 82 mentions
+- [14 days](14-days.md) - 7 mentions
+- [14 years old](14-years-old.md) - 8 mentions
+- [14-year-old](14-year-old.md) - 35 mentions
+- [15](15.md) - 23 mentions
+- [15 days](15-days.md) - 6 mentions
+- [15 Jan 2017](15-jan-2017.md) - 5 mentions
+- [15 minutes](15-minutes.md) - 7 mentions
+- [15 months](15-months.md) - 15 mentions
+- [15 years](15-years.md) - 45 mentions
+- [15 years ago](15-years-ago.md) - 9 mentions
+- [15 years old](15-years-old.md) - 10 mentions
+- [15-
+year-old](15-year-old.md) - 5 mentions
+- [15-000072](15-000072.md) - 5 mentions
+- [15-month](15-month.md) - 5 mentions
+- [15-year](15-year.md) - 14 mentions
+- [15-year-old](15-year-old.md) - 21 mentions
+- [1591](1591.md) - 6 mentions
+- [15th-century](15th-century.md) - 5 mentions
+- [16](16.md) - 45 mentions
+- [16 months](16-months.md) - 9 mentions
+- [16 years](16-years.md) - 16 mentions
+- [16 years old](16-years-old.md) - 12 mentions
+- [16-year-old](16-year-old.md) - 18 mentions
+- [1602](1602.md) - 5 mentions
+- [17](17.md) - 30 mentions
+- [17 years](17-years.md) - 10 mentions
+- [17 years old](17-years-old.md) - 8 mentions
+- [17-year-old](17-year-old.md) - 15 mentions
+- [1730](1730.md) - 5 mentions
+- [1776](1776.md) - 6 mentions
+- [18](18.md) - 42 mentions
+- [18 months](18-months.md) - 70 mentions
+- [18 U.S.C.](18-usc.md) - 9 mentions
+- [18 U.S.C. §](18-usc.md) - 7 mentions
+- [18 U.S.C. § 2255](18-usc-2255.md) - 6 mentions
+- [18 U.S.C. § 3771](18-usc-3771.md) - 9 mentions
+- [18 years](18-years.md) - 17 mentions
+- [18 years of age](18-years-of-age.md) - 5 mentions
+- [18-
+month](18-month.md) - 5 mentions
+- [18-month](18-month.md) - 23 mentions
+- [18-year](18-year.md) - 13 mentions
+- [18-year-old](18-year-old.md) - 6 mentions
+- [1834](1834.md) - 5 mentions
+- [1836](1836.md) - 5 mentions
+- [1844](1844.md) - 5 mentions
+- [1849](1849.md) - 5 mentions
+- [1850](1850.md) - 8 mentions
+- [1868](1868.md) - 5 mentions
+- [1871](1871.md) - 5 mentions
+- [1874](1874.md) - 5 mentions
+- [1879](1879.md) - 5 mentions
+- [1882](1882.md) - 6 mentions
+- [1883](1883.md) - 5 mentions
+- [1890](1890.md) - 9 mentions
+- [1896](1896.md) - 7 mentions
+- [18th-century](18th-century.md) - 21 mentions
+- [19](19.md) - 19 mentions
+- [19-year-old](19-year-old.md) - 7 mentions
+- [1900](1900.md) - 11 mentions
+- [1904](1904.md) - 5 mentions
+- [1905](1905.md) - 9 mentions
+- [1910](1910.md) - 7 mentions
+- [1911](1911.md) - 6 mentions
+- [1912](1912.md) - 7 mentions
+- [1914](1914.md) - 12 mentions
+- [1916](1916.md) - 7 mentions
+- [1917](1917.md) - 9 mentions
+- [1919](1919.md) - 5 mentions
+- [1921](1921.md) - 8 mentions
+- [1923](1923.md) - 8 mentions
+- [1925](1925.md) - 6 mentions
+- [1926](1926.md) - 6 mentions
+- [1927](1927.md) - 8 mentions
+- [1928](1928.md) - 11 mentions
+- [1929](1929.md) - 18 mentions
+- [1930](1930.md) - 19 mentions
+- [1930s](1930s.md) - 6 mentions
+- [1931](1931.md) - 6 mentions
+- [1932](1932.md) - 12 mentions
+- [1933](1933.md) - 24 mentions
+- [1934](1934.md) - 24 mentions
+- [1935](1935.md) - 13 mentions
+- [1936](1936.md) - 11 mentions
+- [1937](1937.md) - 20 mentions
+- [1938](1938.md) - 17 mentions
+- [1939](1939.md) - 12 mentions
+- [1940](1940.md) - 16 mentions
+- [1941](1941.md) - 9 mentions
+- [1942](1942.md) - 12 mentions
+- [1943](1943.md) - 15 mentions
+- [1944](1944.md) - 10 mentions
+- [1945](1945.md) - 37 mentions
+- [1946](1946.md) - 15 mentions
+- [1947](1947.md) - 18 mentions
+- [1948](1948.md) - 78 mentions
+- [1949](1949.md) - 25 mentions
+- [1950](1950.md) - 32 mentions
+- [1950s](1950s.md) - 10 mentions
+- [1951](1951.md) - 19 mentions
+- [1952](1952.md) - 29 mentions
+- [1953](1953.md) - 36 mentions
+- [1954](1954.md) - 27 mentions
+- [1955](1955.md) - 18 mentions
+- [1956](1956.md) - 37 mentions
+- [1957](1957.md) - 20 mentions
+- [1958](1958.md) - 19 mentions
+- [1959](1959.md) - 43 mentions
+- [1960](1960.md) - 29 mentions
+- [1960s](1960s.md) - 11 mentions
+- [1961](1961.md) - 32 mentions
+- [1962](1962.md) - 33 mentions
+- [1963](1963.md) - 33 mentions
+- [1964](1964.md) - 34 mentions
+- [1965](1965.md) - 31 mentions
+- [1966](1966.md) - 26 mentions
+- [1967](1967.md) - 90 mentions
+- [1968](1968.md) - 33 mentions
+- [1969](1969.md) - 48 mentions
+- [1970](1970.md) - 54 mentions
+- [1970s](1970s.md) - 8 mentions
+- [1971](1971.md) - 33 mentions
+- [1972](1972.md) - 35 mentions
+- [1973](1973.md) - 94 mentions
+- [1974](1974.md) - 51 mentions
+- [1975](1975.md) - 27 mentions
+- [1976](1976.md) - 63 mentions
+- [1977](1977.md) - 44 mentions
+- [1978](1978.md) - 48 mentions
+- [1979](1979.md) - 59 mentions
+- [1980](1980.md) - 73 mentions
+- [1980s](1980s.md) - 12 mentions
+- [1981](1981.md) - 100 mentions
+- [1982](1982.md) - 80 mentions
+- [1983](1983.md) - 55 mentions
+- [1984](1984.md) - 75 mentions
+- [1985](1985.md) - 51 mentions
+- [1985 1990 1995 2000 2005](1985-1990-1995-2000-2005.md) - 6 mentions
+- [1986](1986.md) - 58 mentions
+- [198602883D](198602883d.md) - 17 mentions
+- [1987](1987.md) - 72 mentions
+- [1988](1988.md) - 58 mentions
+- [1989](1989.md) - 69 mentions
+- [1990](1990.md) - 81 mentions
+- [1990s](1990s.md) - 13 mentions
+- [1991](1991.md) - 75 mentions
+- [1992](1992.md) - 73 mentions
+- [1993](1993.md) - 91 mentions
+- [1993-1995](1993-1995.md) - 5 mentions
+- [1994](1994.md) - 111 mentions
+- [1995](1995.md) - 88 mentions
+- [1996](1996.md) - 78 mentions
+- [1997](1997.md) - 76 mentions
+- [1997-2000](1997-2000.md) - 5 mentions
+- [1998](1998.md) - 86 mentions
+- [1999](1999.md) - 96 mentions
+- [19th-century](19th-century.md) - 12 mentions
+- [1:14 AM](114-am.md) - 9 mentions
+- [1:17 AM](117-am.md) - 11 mentions
+- [1:17-cv-03956-PGG Document](117-cv-03956-pgg-document.md) - 16 mentions
+- [1:21 AM](121-am.md) - 9 mentions
+- [1:35 AM](135-am.md) - 11 mentions
+- [1:45 AM](145-am.md) - 7 mentions
+- [1:59 PM](159-pm.md) - 5 mentions
+- [1ST](1st.md) - 6 mentions
+- [1y](1y.md) - 5 mentions
+- [2](2.md) - 16 mentions
+- [2 days](2-days.md) - 5 mentions
+- [2 December 2015](2-december-2015.md) - 11 mentions
+- [2 months](2-months.md) - 14 mentions
+- [2 weeks](2-weeks.md) - 6 mentions
+- [2 years](2-years.md) - 21 mentions
+- [2-year](2-year.md) - 14 mentions
+- [2-yr](2-yr.md) - 6 mentions
+- [2/15/2017](2152017.md) - 15 mentions
+- [2/19/2017](2192017.md) - 5 mentions
+- [2/24/2018](2242018.md) - 9 mentions
+- [2/26/2010](2-26-2010.md) - 5 mentions
+- [2/3/2017](232017.md) - 6 mentions
+- [2/8/2013](2-8-2013.md) - 5 mentions
+- [20](20.md) - 25 mentions
+- [20 th century](20-th-century.md) - 8 mentions
+- [20 years](20-years.md) - 65 mentions
+- [20 years ago](20-years-ago.md) - 14 mentions
+- [20-year](20-year.md) - 37 mentions
+- [20-year-old](20-year-old.md) - 16 mentions
+- [2000](2000.md) - 140 mentions
+- [2001](2001.md) - 123 mentions
+- [2001
+2002
+](2001-2002.md) - 7 mentions
+- [2002](2002.md) - 115 mentions
+- [2003](2003.md) - 159 mentions
+- [2003
+2004
+2005](2003-2004-2005.md) - 9 mentions
+- [2004](2004.md) - 140 mentions
+- [2004 2005](2004-2005.md) - 10 mentions
+- [2005](2005.md) - 152 mentions
+- [2005-2006](2005-2006.md) - 5 mentions
+- [2005-2009](2005-2009.md) - 5 mentions
+- [2006](2006.md) - 161 mentions
+- [2007](2007.md) - 155 mentions
+- [2008](2008.md) - 270 mentions
+- [2009](2009.md) - 197 mentions
+- [2009
+2010
+2011
+2012
+2013
+](2009-2010-2011-2012-2013.md) - 9 mentions
+- [2009
+2011
+2013
+2015](2009-2011-2013-2015.md) - 6 mentions
+- [2009 2010 2011 2012](2009-2010-2011-2012.md) - 7 mentions
+- [2009 2011](2009-2011.md) - 5 mentions
+- [2010](2010.md) - 205 mentions
+- [2010 2011 2012](2010-2011-2012.md) - 5 mentions
+- [2010 2012](2010-2012.md) - 12 mentions
+- [2010-2011](2010-2011.md) - 11 mentions
+- [2011](2011.md) - 198 mentions
+- [2011 2012 2013](2011-2012-2013.md) - 7 mentions
+- [2011-2012](2011-2012.md) - 7 mentions
+- [2012](2012.md) - 200 mentions
+- [2013](2013.md) - 227 mentions
+- [2013 2014 2015](2013-2014-2015.md) - 6 mentions
+- [2014](2014.md) - 190 mentions
+- [2014
+2015](2014-2015.md) - 14 mentions
+- [2014 2016](2014-2016.md) - 6 mentions
+- [2015](2015.md) - 173 mentions
+- [2015-2016](2015-2016.md) - 6 mentions
+- [2015-2017](2015-2017.md) - 6 mentions
+- [2016](2016.md) - 456 mentions
+- [2016 2017](2016-2017.md) - 11 mentions
+- [2017](2017.md) - 385 mentions
+- [2017
+2018
+2019](2017-2018-2019.md) - 5 mentions
+- [2017 2018](2017-2018.md) - 6 mentions
+- [2018](2018.md) - 291 mentions
+- [2018-07-22](2018-07-22.md) - 11 mentions
+- [2019](2019.md) - 144 mentions
+- [2020](2020.md) - 72 mentions
+- [2021](2021.md) - 12 mentions
+- [2022](2022.md) - 9 mentions
+- [2023](2023.md) - 5 mentions
+- [2025](2025.md) - 20 mentions
+- [2029](2029.md) - 5 mentions
+- [2030](2030.md) - 11 mentions
+- [2040](2040.md) - 6 mentions
+- [2050](2050.md) - 21 mentions
+- [20s and 30s](20s-and-30s.md) - 11 mentions
+- [20th Century](20th-century.md) - 11 mentions
+- [21](21.md) - 26 mentions
+- [21 months](21-months.md) - 10 mentions
+- [21-year-old](21-year-old.md) - 11 mentions
+- [21st-century](21st-century.md) - 29 mentions
+- [22](22.md) - 20 mentions
+- [22 - 24](22-24.md) - 6 mentions
+- [22 years](22-years.md) - 5 mentions
+- [22 years old](22-years-old.md) - 5 mentions
+- [22-year-old](22-year-old.md) - 9 mentions
+- [23](23.md) - 8 mentions
+- [23 Jul 2018](23-jul-2018.md) - 9 mentions
+- [23-year-old](23-year-old.md) - 13 mentions
+- [23rd](23rd.md) - 7 mentions
+- [24](24.md) - 19 mentions
+- [24 Feb 2018](24-feb-2018.md) - 12 mentions
+- [24 Hours](24-hours.md) - 12 mentions
+- [24 months](24-months.md) - 6 mentions
+- [24 years](24-years.md) - 15 mentions
+- [24, 2018](24-2018.md) - 8 mentions
+- [24-year-old](24-year-old.md) - 6 mentions
+- [24/7](24-7.md) - 5 mentions
+- [25](25.md) - 28 mentions
+- [25 years](25-years.md) - 15 mentions
+- [25 years ago](25-years-ago.md) - 15 mentions
+- [25-year](25-year.md) - 5 mentions
+- [25th 
+anniversary](25th-anniversary.md) - 5 mentions
+- [26](26.md) - 8 mentions
+- [26 years](26-years.md) - 8 mentions
+- [26-year-old](26-year-old.md) - 7 mentions
+- [27](27.md) - 15 mentions
+- [27 year old](27-year-old.md) - 5 mentions
+- [27 years](27-years.md) - 6 mentions
+- [28](28.md) - 6 mentions
+- [28 years](28-years.md) - 5 mentions
+- [28-year-old](28-year-old.md) - 5 mentions
+- [29](29.md) - 7 mentions
+- [29 January 2015](29-january-2015.md) - 6 mentions
+- [29 years](29-years.md) - 5 mentions
+- [2:08 PM](208-pm.md) - 5 mentions
+- [2:10 PM](210-pm.md) - 5 mentions
+- [2:15 AM](215-am.md) - 5 mentions
+- [2:25 PM](225-pm.md) - 7 mentions
+- [2:33 PM](233-pm.md) - 6 mentions
+- [2:38 PM](238-pm.md) - 11 mentions
+- [2:55 PM](255-pm.md) - 7 mentions
+- [2:57 PM](257-pm.md) - 6 mentions
+- [2:58 PM](258-pm.md) - 6 mentions
+- [2:59 PM](259-pm.md) - 9 mentions
+- [3](3.md) - 16 mentions
+- [3 Days](3-days.md) - 7 mentions
+- [3 months](3-months.md) - 10 mentions
+- [3 year old](3-year-old.md) - 7 mentions
+- [3 years](3-years.md) - 23 mentions
+- [3-5 years](3-5-years.md) - 6 mentions
+- [3-month](3-month.md) - 19 mentions
+- [3-year](3-year.md) - 11 mentions
+- [3/17/2019](3172019.md) - 7 mentions
+- [3/22/2017](3222017.md) - 5 mentions
+- [3/24/2018](3242018.md) - 14 mentions
+- [3/3/2017](332017.md) - 5 mentions
+- [3/7/2011](3-7-2011.md) - 5 mentions
+- [30](30.md) - 24 mentions
+- [30 days](30-days.md) - 22 mentions
+- [30 years](30-years.md) - 36 mentions
+- [30 years old](30-years-old.md) - 5 mentions
+- [30-year](30-year.md) - 9 mentions
+- [30s](30s.md) - 10 mentions
+- [31](31.md) - 8 mentions
+- [31-year-old](31-year-old.md) - 8 mentions
+- [32](32.md) - 17 mentions
+- [32 years](32-years.md) - 17 mentions
+- [33](33.md) - 12 mentions
+- [33401](33401.md) - 5 mentions
+- [34](34.md) - 11 mentions
+- [34-year-old](34-year-old.md) - 6 mentions
+- [35](35.md) - 28 mentions
+- [35 years](35-years.md) - 9 mentions
+- [35-year-old](35-year-old.md) - 6 mentions
+- [36](36.md) - 11 mentions
+- [36
+years](36-years.md) - 7 mentions
+- [37](37.md) - 12 mentions
+- [38](38.md) - 19 mentions
+- [38 years old](38-years-old.md) - 8 mentions
+- [39](39.md) - 12 mentions
+- [3:00 PM](300-pm.md) - 6 mentions
+- [3:02 PM](302-pm.md) - 6 mentions
+- [3:07 PM](307-pm.md) - 6 mentions
+- [3:18 PM](318-pm.md) - 5 mentions
+- [3:19 PM](319-pm.md) - 8 mentions
+- [3:21 PM](321-pm.md) - 6 mentions
+- [3:23 PM](323-pm.md) - 12 mentions
+- [3:26 PM](326-pm.md) - 9 mentions
+- [3:27 PM](327-pm.md) - 5 mentions
+- [3:42 PM](342-pm.md) - 6 mentions
+- [3:49 PM](349-pm.md) - 6 mentions
+- [3:54 PM](354-pm.md) - 9 mentions
+- [3d](3d.md) - 7 mentions
+- [4](4.md) - 19 mentions
+- [4 years](4-years.md) - 16 mentions
+- [4 years 
+ago](4-years-ago.md) - 6 mentions
+- [4-year](4-year.md) - 12 mentions
+- [4/10/2018](4102018.md) - 8 mentions
+- [4/16/2017](4162017.md) - 7 mentions
+- [4/23/2015](4232015.md) - 6 mentions
+- [4/27/2014](4272014.md) - 5 mentions
+- [4/28/2016](4282016.md) - 8 mentions
+- [40](40.md) - 24 mentions
+- [40 years](40-years.md) - 28 mentions
+- [40 years ago](40-years-ago.md) - 5 mentions
+- [40 years of age](40-years-of-age.md) - 7 mentions
+- [40-year](40-year.md) - 5 mentions
+- [40s](40s.md) - 8 mentions
+- [42](42.md) - 13 mentions
+- [43](43.md) - 14 mentions
+- [43-year](43-year.md) - 5 mentions
+- [44](44.md) - 14 mentions
+- [45](45.md) - 16 mentions
+- [45 minutes](45-minutes.md) - 7 mentions
+- [45 years](45-years.md) - 6 mentions
+- [46](46.md) - 22 mentions
+- [47](47.md) - 12 mentions
+- [48](48.md) - 20 mentions
+- [48-year-old](48-year-old.md) - 19 mentions
+- [4855](4855.md) - 5 mentions
+- [49](49.md) - 19 mentions
+- [4:13 PM](413-pm.md) - 6 mentions
+- [4:17 PM](417-pm.md) - 5 mentions
+- [4:23 PM](423-pm.md) - 15 mentions
+- [4:29 PM](429-pm.md) - 5 mentions
+- [4:30 PM](430-pm.md) - 5 mentions
+- [4:37 PM](437-pm.md) - 5 mentions
+- [5](5.md) - 22 mentions
+- [5 January 2015](5-january-2015.md) - 7 mentions
+- [5 years](5-years.md) - 17 mentions
+- [5-year](5-year.md) - 28 mentions
+- [5/22/2017](5222017.md) - 6 mentions
+- [5/25/2016](5252016.md) - 5 mentions
+- [5/28/2017](5-28-2017.md) - 7 mentions
+- [5/29/2019](5292019.md) - 7 mentions
+- [5/30/2017](5302017.md) - 7 mentions
+- [5/7/2012](572012.md) - 9 mentions
+- [5/8/2017](582017.md) - 16 mentions
+- [50](50.md) - 21 mentions
+- [50 2009](50-2009.md) - 6 mentions
+- [50 years](50-years.md) - 17 mentions
+- [50 years ago](50-years-ago.md) - 12 mentions
+- [50-year](50-year.md) - 15 mentions
+- [50s](50s.md) - 13 mentions
+- [51](51.md) - 12 mentions
+- [52](52.md) - 13 mentions
+- [52-Week](52-week.md) - 5 mentions
+- [53](53.md) - 25 mentions
+- [53-year-old](53-year-old.md) - 10 mentions
+- [54](54.md) - 19 mentions
+- [55](55.md) - 21 mentions
+- [55-year-old](55-year-old.md) - 8 mentions
+- [56](56.md) - 12 mentions
+- [57](57.md) - 32 mentions
+- [58](58.md) - 21 mentions
+- [59](59.md) - 8 mentions
+- [5:17 PM](517-pm.md) - 6 mentions
+- [5:21 PM](521-pm.md) - 5 mentions
+- [5:30 pm / early evening](530-pm-early-evening.md) - 7 mentions
+- [5:38 PM](538-pm.md) - 5 mentions
+- [5:56 PM](556-pm.md) - 9 mentions
+- [5:57 PM](557-pm.md) - 11 mentions
+- [5pm](5pm.md) - 7 mentions
+- [6](6.md) - 27 mentions
+- [6 months](6-months.md) - 18 mentions
+- [6 years](6-years.md) - 10 mentions
+- [6-month](6-month.md) - 13 mentions
+- [6/1/2016](612016.md) - 5 mentions
+- [6/22/2018](6222018.md) - 6 mentions
+- [6/23/2018](6232018.md) - 5 mentions
+- [60](60.md) - 7 mentions
+- [60 days](60-days.md) - 12 mentions
+- [61](61.md) - 10 mentions
+- [62](62.md) - 6 mentions
+- [62-year-old](62-year-old.md) - 8 mentions
+- [63](63.md) - 12 mentions
+- [64](64.md) - 13 mentions
+- [65](65.md) - 29 mentions
+- [66](66.md) - 14 mentions
+- [67](67.md) - 5 mentions
+- [68](68.md) - 9 mentions
+- [69](69.md) - 5 mentions
+- [6:03 PM](603-pm.md) - 6 mentions
+- [6:15 AM](615-am.md) - 9 mentions
+- [6:19 AM](619-am.md) - 7 mentions
+- [6:26 PM](626-pm.md) - 16 mentions
+- [6:27 PM](627-pm.md) - 7 mentions
+- [6:38 p.m.](638-pm.md) - 5 mentions
+- [6:39 AM](639-am.md) - 6 mentions
+- [6:41 PM](641-pm.md) - 7 mentions
+- [6:50 AM](650-am.md) - 5 mentions
+- [6:54 AM](654-am.md) - 6 mentions
+- [7](7.md) - 15 mentions
+- [7 day](7-day.md) - 5 mentions
+- [7 days](7-days.md) - 5 mentions
+- [7/12/2018](7-12-2018.md) - 5 mentions
+- [7/17/2018](7172018.md) - 5 mentions
+- [7/23/2018](7-23-2018.md) - 8 mentions
+- [70](70.md) - 24 mentions
+- [71](71.md) - 9 mentions
+- [7134-1816](7134-1816.md) - 5 mentions
+- [7134-7813](7134-7813.md) - 5 mentions
+- [72](72.md) - 20 mentions
+- [73](73.md) - 8 mentions
+- [74](74.md) - 10 mentions
+- [75](75.md) - 8 mentions
+- [76](76.md) - 10 mentions
+- [77](77.md) - 10 mentions
+- [78](78.md) - 7 mentions
+- [7912/](7912.md) - 6 mentions
+- [7:01 PM](701-pm.md) - 5 mentions
+- [7:05 AM](705-am.md) - 6 mentions
+- [7:12 AM](712-am.md) - 6 mentions
+- [7:15 AM](715-am.md) - 9 mentions
+- [7:21 PM](721-pm.md) - 5 mentions
+- [7:23 PM](723-pm.md) - 5 mentions
+- [7:30 pm](730-pm.md) - 11 mentions
+- [7:40 AM](740-am.md) - 7 mentions
+- [7:48 AM](748-am.md) - 9 mentions
+- [7:50 PM](750-pm.md) - 7 mentions
+- [7:51 AM](751-am.md) - 6 mentions
+- [7:54 AM](754-am.md) - 13 mentions
+- [7:57 AM](757-am.md) - 8 mentions
+- [8](8.md) - 19 mentions
+- [8 - same](8-same.md) - 11 mentions
+- [8 or early tomorrow](8-or-early-tomorrow.md) - 10 mentions
+- [8 years](8-years.md) - 12 mentions
+- [8/11/2009](8112009.md) - 7 mentions
+- [8/17 to 9/23](817-to-923.md) - 7 mentions
+- [8/22/2018](8222018.md) - 5 mentions
+- [8/29/2018](8292018.md) - 7 mentions
+- [8/8/2016](882016.md) - 5 mentions
+- [80](80.md) - 12 mentions
+- [80 year old](80-year-old.md) - 6 mentions
+- [80s](80s.md) - 9 mentions
+- [81](81.md) - 6 mentions
+- [83](83.md) - 9 mentions
+- [85](85.md) - 16 mentions
+- [85287-1404](85287-1404.md) - 127 mentions
+- [86-year-old](86-year-old.md) - 5 mentions
+- [87](87.md) - 8 mentions
+- [871404](871404.md) - 11 mentions
+- [8:12 AM](812-am.md) - 6 mentions
+- [8:14 AM](814-am.md) - 6 mentions
+- [8:14:49 AM EDT](81449-am-edt.md) - 5 mentions
+- [8:16 AM](816-am.md) - 6 mentions
+- [8:23 PM](823-pm.md) - 6 mentions
+- [8:32 AM](832-am.md) - 5 mentions
+- [8:35 AM](835-am.md) - 6 mentions
+- [8:36 AM](836-am.md) - 5 mentions
+- [9](9.md) - 13 mentions
+- [9 months](9-months.md) - 5 mentions
+- [9/19/2014](9192014.md) - 9 mentions
+- [9/20/2017](9202017.md) - 5 mentions
+- [9/24/2017](9242017.md) - 5 mentions
+- [9/8/2017](982017.md) - 8 mentions
+- [9/9/2017](992017.md) - 9 mentions
+- [90 days](90-days.md) - 11 mentions
+- [92](92.md) - 8 mentions
+- [9:01 a.m.](901-am.md) - 5 mentions
+- [9:18 AM](918-am.md) - 6 mentions
+- [9:34 AM](934-am.md) - 6 mentions
+- [9:38 PM](938-pm.md) - 5 mentions
+- [﻿](unnamed-entity.md) - 7 mentions
+
+### A {#a}
+
+- [a 21st century](a-21st-century.md) - 6 mentions
+- [a century](a-century.md) - 11 mentions
+- [a century ago](a-century-ago.md) - 5 mentions
+- [a couple of days](a-couple-of-days.md) - 11 mentions
+- [a couple of months](a-couple-of-months.md) - 8 mentions
+- [a couple of weeks](a-couple-of-weeks.md) - 20 mentions
+- [a couple of years](a-couple-of-years.md) - 9 mentions
+- [a couple of years ago](a-couple-of-years-ago.md) - 16 mentions
+- [a couple of years later](a-couple-of-years-later.md) - 6 mentions
+- [a crazy week](a-crazy-week.md) - 6 mentions
+- [a day](a-day.md) - 41 mentions
+- [a decade](a-decade.md) - 46 mentions
+- [a decade ago](a-decade-ago.md) - 13 mentions
+- [a decade later](a-decade-later.md) - 12 mentions
+- [a few
+minutes](a-few-minutes.md) - 12 mentions
+- [a few days](a-few-days.md) - 34 mentions
+- [a few days ago](a-few-days-ago.md) - 6 mentions
+- [a few days earlier](a-few-days-earlier.md) - 7 mentions
+- [A few days later](a-few-days-later.md) - 37 mentions
+- [a few months](a-few-months.md) - 43 mentions
+- [a few months ago](a-few-months-ago.md) - 29 mentions
+- [A few months later](a-few-months-later.md) - 16 mentions
+- [a few weeks](a-few-weeks.md) - 41 mentions
+- [a few weeks ago](a-few-weeks-ago.md) - 10 mentions
+- [a few weeks earlier](a-few-weeks-earlier.md) - 9 mentions
+- [A few weeks later](a-few-weeks-later.md) - 13 mentions
+- [a few years](a-few-years.md) - 43 mentions
+- [a few years ago](a-few-years-ago.md) - 39 mentions
+- [a few years earlier](a-few-years-earlier.md) - 8 mentions
+- [A few years later](a-few-years-later.md) - 26 mentions
+- [a full month](a-full-month.md) - 10 mentions
+- [a full season](a-full-season.md) - 6 mentions
+- [a full year](a-full-year.md) - 10 mentions
+- [a given year](a-given-year.md) - 5 mentions
+- [a good day](a-good-day.md) - 8 mentions
+- [a great week](a-great-week.md) - 11 mentions
+- [a half century](a-half-century.md) - 5 mentions
+- [a later date](a-later-date.md) - 5 mentions
+- [a month](a-month.md) - 29 mentions
+- [a month ago](a-month-ago.md) - 12 mentions
+- [a month later](a-month-later.md) - 8 mentions
+- [a number of years](a-number-of-years.md) - 8 mentions
+- [a period of](a-period-of.md) - 6 mentions
+- [a quarter](a-quarter.md) - 9 mentions
+- [a week](a-week.md) - 51 mentions
+- [A week ago](a-week-ago.md) - 10 mentions
+- [a week later](a-week-later.md) - 13 mentions
+- [a year](a-year.md) - 111 mentions
+- [a year ago](a-year-ago.md) - 29 mentions
+- [a year and a half](a-year-and-a-half.md) - 6 mentions
+- [a year earlier](a-year-earlier.md) - 12 mentions
+- [a year from now](a-year-from-now.md) - 8 mentions
+- [a year later](a-year-later.md) - 20 mentions
+- [about 16](about-16.md) - 5 mentions
+- [about a month](about-a-month.md) - 6 mentions
+- [about a week](about-a-week.md) - 5 mentions
+- [about a year](about-a-year.md) - 17 mentions
+- [about two years](about-two-years.md) - 5 mentions
+- [afternoon](afternoon.md) - 36 mentions
+- [age 17](age-17.md) - 15 mentions
+- [age 18](age-18.md) - 5 mentions
+- [age 19](age-19.md) - 5 mentions
+- [age 8](age-8.md) - 6 mentions
+- [all day](all-day.md) - 26 mentions
+- [all week](all-week.md) - 21 mentions
+- [almost a year](almost-a-year.md) - 6 mentions
+- [almost daily](almost-daily.md) - 6 mentions
+- [almost every day](almost-every-day.md) - 5 mentions
+- [an election year](an-election-year.md) - 6 mentions
+- [annual](annual.md) - 155 mentions
+- [annually](annually.md) - 45 mentions
+- [another day](another-day.md) - 8 mentions
+- [another year](another-year.md) - 10 mentions
+- [Apr 18, 2019](apr-18-2019.md) - 5 mentions
+- [Apr 27, 2014](apr-27-2014.md) - 12 mentions
+- [Apr 28](apr-28.md) - 5 mentions
+- [Apr 28, 2016](apr-28-2016.md) - 12 mentions
+- [Apr 6, 2011](apr-6-2011.md) - 52 mentions
+- [April](april.md) - 68 mentions
+- [April 1](april-1.md) - 7 mentions
+- [April 11](april-11.md) - 6 mentions
+- [April 13](april-13.md) - 6 mentions
+- [April 14](april-14.md) - 7 mentions
+- [April 16, 2007](april-16-2007.md) - 5 mentions
+- [April 16, 2008](april-16-2008.md) - 10 mentions
+- [April 2000](april-2000.md) - 5 mentions
+- [April 2004](april-2004.md) - 5 mentions
+- [April 2007](april-2007.md) - 5 mentions
+- [April 2009](april-2009.md) - 7 mentions
+- [April 2010](april-2010.md) - 6 mentions
+- [April 2011](april-2011.md) - 28 mentions
+- [April 2012](april-2012.md) - 7 mentions
+- [April 2015](april-2015.md) - 8 mentions
+- [April 2016](april-2016.md) - 9 mentions
+- [April 2017](april-2017.md) - 22 mentions
+- [April 2018](april-2018.md) - 8 mentions
+- [April 28, 2016](april-28-2016.md) - 21 mentions
+- [April 28, 2016](april-28-2016.md) - 8 mentions
+- [April 29](april-29.md) - 6 mentions
+- [April 6, 2011](april-6-2011.md) - 15 mentions
+- [Aug 17, 2018](aug-17-2018.md) - 10 mentions
+- [Aug 26, 2015](aug-26-2015.md) - 9 mentions
+- [Aug. 1](aug-1.md) - 5 mentions
+- [Aug. 16](aug-16.md) - 5 mentions
+- [Aug. 29, 2016](aug-29-2016.md) - 5 mentions
+- [Aug. 30](aug-30.md) - 5 mentions
+- [August](august.md) - 89 mentions
+- [August 06, 2009](august-06-2009.md) - 27 mentions
+- [August 10, 2009](august-10-2009.md) - 20 mentions
+- [August 11](august-11.md) - 8 mentions
+- [August 11, 2009](august-11-2009.md) - 38 mentions
+- [August 11, 2016](august-11-2016.md) - 15 mentions
+- [August 14, 2006](august-14-2006.md) - 5 mentions
+- [August 16, 2016](august-16-2016.md) - 5 mentions
+- [August 17, 2009](august-17-2009.md) - 5 mentions
+- [August 18, 2009](august-18-2009.md) - 7 mentions
+- [August 2001](august-2001.md) - 8 mentions
+- [August 2006](august-2006.md) - 5 mentions
+- [August 2007](august-2007.md) - 7 mentions
+- [August 2009](august-2009.md) - 8 mentions
+- [August 2010](august-2010.md) - 9 mentions
+- [August 2011](august-2011.md) - 8 mentions
+- [August 2012](august-2012.md) - 7 mentions
+- [August 2013](august-2013.md) - 13 mentions
+- [August 2014](august-2014.md) - 5 mentions
+- [August 2015](august-2015.md) - 6 mentions
+- [August 2016](august-2016.md) - 13 mentions
+- [August 2017](august-2017.md) - 5 mentions
+- [August 2018](august-2018.md) - 5 mentions
+- [August 21, 2018](august-21-2018.md) - 9 mentions
+- [August 31](august-31.md) - 5 mentions
+
+### B {#b}
+
+- [between 2002 and 2005](between-2002-and-2005.md) - 6 mentions
+- [between 90 and 98 million](between-90-and-98-million.md) - 5 mentions
+- [between the ages of](between-the-ages-of.md) - 10 mentions
+- [By 2050](by-2050.md) - 6 mentions
+
+### C {#c}
+
+- [centuries](centuries.md) - 20 mentions
+- [Chopra 
+2013](chopra-2013.md) - 12 mentions
+- [Christmas](christmas.md) - 43 mentions
+- [Christmas Day](christmas-day.md) - 8 mentions
+- [coming months](coming-months.md) - 9 mentions
+- [coming weeks](coming-weeks.md) - 8 mentions
+- [Copyright 2013](copyright-2013.md) - 5 mentions
+- [Costa Del Mar Road](costa-del-mar-road.md) - 24 mentions
+
+### D {#d}
+
+- [daily](daily.md) - 184 mentions
+- [day](day.md) - 54 mentions
+- [day one](day-one.md) - 11 mentions
+- [days](days.md) - 55 mentions
+- [Dec 1, 2018](dec-1-2018.md) - 17 mentions
+- [Dec 10, 2017](dec-10-2017.md) - 7 mentions
+- [Dec 11, 2017](dec-11-2017.md) - 8 mentions
+- [Dec 2](dec-2.md) - 10 mentions
+- [Dec 22, 2018](dec-22-2018.md) - 15 mentions
+- [Dec 28, 2017](dec-28-2017.md) - 7 mentions
+- [Dec 29, 2017](dec-29-2017.md) - 26 mentions
+- [dec 31](dec-31.md) - 7 mentions
+- [Dec 5, 2017](dec-5-2017.md) - 18 mentions
+- [Dec 6, 2017](dec-6-2017.md) - 22 mentions
+- [Dec 8, 2015](dec-8-2015.md) - 8 mentions
+- [Dec 8, 2017](dec-8-2017.md) - 19 mentions
+- [Dec 9, 2017](dec-9-2017.md) - 10 mentions
+- [dec. 6-9](dec-6-9.md) - 6 mentions
+- [decade](decade.md) - 5 mentions
+- [decades](decades.md) - 116 mentions
+- [decades ago](decades-ago.md) - 6 mentions
+- [decades-old](decades-old.md) - 6 mentions
+- [December](december.md) - 72 mentions
+- [December 10, 2017](december-10-2017.md) - 6 mentions
+- [December 14](december-14.md) - 5 mentions
+- [December 16, 2010](december-16-2010.md) - 6 mentions
+- [December 2](december-2.md) - 6 mentions
+- [December 2002](december-2002.md) - 5 mentions
+- [December 2004](december-2004.md) - 9 mentions
+- [December 2005](december-2005.md) - 7 mentions
+- [December 2007](december-2007.md) - 5 mentions
+- [December 2008](december-2008.md) - 9 mentions
+- [December 2010](december-2010.md) - 7 mentions
+- [December 2011](december-2011.md) - 14 mentions
+- [December 2012](december-2012.md) - 5 mentions
+- [December 2013](december-2013.md) - 6 mentions
+- [December 2014](december-2014.md) - 13 mentions
+- [December 2015](december-2015.md) - 20 mentions
+- [December 2016](december-2016.md) - 16 mentions
+- [December 2017](december-2017.md) - 5 mentions
+- [December 23, 2014](december-23-2014.md) - 6 mentions
+- [December 30, 2014](december-30-2014.md) - 8 mentions
+- [December 31](december-31.md) - 13 mentions
+- [December of 2007](december-of-2007.md) - 11 mentions
+
+### E {#e}
+
+- [each day](each-day.md) - 28 mentions
+- [each month](each-month.md) - 10 mentions
+- [each week](each-week.md) - 8 mentions
+- [each year](each-year.md) - 50 mentions
+- [earlier in the week](earlier-in-the-week.md) - 5 mentions
+- [earlier in the year](earlier-in-the-year.md) - 7 mentions
+- [Earlier this month](earlier-this-month.md) - 25 mentions
+- [earlier this week](earlier-this-week.md) - 7 mentions
+- [earlier this year](earlier-this-year.md) - 41 mentions
+- [earlier years](earlier-years.md) - 5 mentions
+- [early
+August](early-august.md) - 8 mentions
+- [early 1960s](early-1960s.md) - 5 mentions
+- [early 2006](early-2006.md) - 6 mentions
+- [early 2009](early-2009.md) - 8 mentions
+- [early 2010](early-2010.md) - 7 mentions
+- [early 2011](early-2011.md) - 9 mentions
+- [early 2012](early-2012.md) - 5 mentions
+- [early 2013](early-2013.md) - 7 mentions
+- [early 2014](early-2014.md) - 5 mentions
+- [early 2016](early-2016.md) - 17 mentions
+- [early 2017](early-2017.md) - 12 mentions
+- [early 2018](early-2018.md) - 9 mentions
+- [early days](early-days.md) - 8 mentions
+- [early February](early-february.md) - 8 mentions
+- [early January](early-january.md) - 6 mentions
+- [early July](early-july.md) - 6 mentions
+- [early June](early-june.md) - 8 mentions
+- [early next year](early-next-year.md) - 6 mentions
+- [early November](early-november.md) - 12 mentions
+- [early October](early-october.md) - 9 mentions
+- [early September](early-september.md) - 18 mentions
+- [early this year](early-this-year.md) - 11 mentions
+- [early years](early-years.md) - 6 mentions
+- [eight weeks](eight-weeks.md) - 6 mentions
+- [eight years](eight-years.md) - 24 mentions
+- [eight-episode season](eight-episode-season.md) - 6 mentions
+- [eight-year](eight-year.md) - 9 mentions
+- [eighteen](eighteen.md) - 5 mentions
+- [eighteen months](eighteen-months.md) - 10 mentions
+- [eighteen years](eighteen-years.md) - 6 mentions
+- [election day](election-day.md) - 12 mentions
+- [end of month](end-of-month.md) - 6 mentions
+- [evening](evening.md) - 25 mentions
+- [every 90 days](every-90-days.md) - 5 mentions
+- [every day](every-day.md) - 55 mentions
+- [every month](every-month.md) - 6 mentions
+- [every single day](every-single-day.md) - 5 mentions
+- [every two years](every-two-years.md) - 8 mentions
+- [every week](every-week.md) - 7 mentions
+- [every year](every-year.md) - 39 mentions
+
+### F {#f}
+
+- [Fall](fall.md) - 6 mentions
+- [fall day](fall-day.md) - 7 mentions
+- [Feb](feb.md) - 11 mentions
+- [feb 14](feb-14.md) - 6 mentions
+- [Feb 14, 2017](feb-14-2017.md) - 5 mentions
+- [Feb 2018](feb-2018.md) - 12 mentions
+- [Feb 24](feb-24.md) - 5 mentions
+- [Feb 24, 2018](feb-24-2018.md) - 14 mentions
+- [Feb 28, 2019](feb-28-2019.md) - 5 mentions
+- [Feb.](feb.md) - 7 mentions
+- [Feb. 22](feb-22.md) - 8 mentions
+- [February](february.md) - 65 mentions
+- [February 1](february-1.md) - 5 mentions
+- [February 16, 2017](february-16-2017.md) - 5 mentions
+- [February 1989](february-1989.md) - 5 mentions
+- [February 2001](february-2001.md) - 8 mentions
+- [February 2005](february-2005.md) - 14 mentions
+- [February 2006](february-2006.md) - 6 mentions
+- [February 2007](february-2007.md) - 8 mentions
+- [February 2009](february-2009.md) - 6 mentions
+- [February 2010](february-2010.md) - 6 mentions
+- [February 2011](february-2011.md) - 6 mentions
+- [February 2012](february-2012.md) - 6 mentions
+- [February 2013](february-2013.md) - 10 mentions
+- [February 2014](february-2014.md) - 9 mentions
+- [February 2015](february-2015.md) - 5 mentions
+- [February 2016](february-2016.md) - 10 mentions
+- [February 2017](february-2017.md) - 8 mentions
+- [February 28, 2019](february-28-2019.md) - 7 mentions
+- [February 6](february-6.md) - 5 mentions
+- [February 8, 2013](february-8-2013.md) - 5 mentions
+- [few days](few-days.md) - 9 mentions
+- [fifteen years](fifteen-years.md) - 32 mentions
+- [fifth year](fifth-year.md) - 5 mentions
+- [fifty years](fifty-years.md) - 12 mentions
+- [fifty years ago](fifty-years-ago.md) - 8 mentions
+- [first year](first-year.md) - 6 mentions
+- [fiscal year](fiscal-year.md) - 15 mentions
+- [five days](five-days.md) - 17 mentions
+- [five months](five-months.md) - 7 mentions
+- [five years](five-years.md) - 74 mentions
+- [five years ago](five-years-ago.md) - 15 mentions
+- [five-day](five-day.md) - 6 mentions
+- [five-year](five-year.md) - 43 mentions
+- [forty years](forty-years.md) - 8 mentions
+- [four days](four-days.md) - 16 mentions
+- [four decades](four-decades.md) - 7 mentions
+- [four months](four-months.md) - 20 mentions
+- [four weeks](four-weeks.md) - 7 mentions
+- [four years](four-years.md) - 37 mentions
+- [four years ago](four-years-ago.md) - 20 mentions
+- [four years later](four-years-later.md) - 10 mentions
+- [four-day](four-day.md) - 7 mentions
+- [four-year](four-year.md) - 19 mentions
+- [four-year-old](four-year-old.md) - 11 mentions
+- [fourteen-year-old](fourteen-year-old.md) - 8 mentions
+- [fri](fri.md) - 16 mentions
+- [Fri, 4](fri-4.md) - 11 mentions
+- [Fri, Dec 29,](fri-dec-29.md) - 13 mentions
+- [Fri, Dec 8, 2017](fri-dec-8-2017.md) - 15 mentions
+- [Fri, Feb 10, 2017](fri-feb-10-2017.md) - 11 mentions
+- [Fri, Jan 16, 2015](fri-jan-16-2015.md) - 7 mentions
+- [Fri, Jan 20, 2017](fri-jan-20-2017.md) - 5 mentions
+- [Fri, Jan 9, 2015](fri-jan-9-2015.md) - 17 mentions
+- [Fri, Jul 20, 2018](fri-jul-20-2018.md) - 5 mentions
+- [Fri, Mar 4, 2011](fri-mar-4-2011.md) - 10 mentions
+- [Fri, Sep 16, 2016](fri-sep-16-2016.md) - 20 mentions
+- [Fri, Sep 16, 2016](fri-sep-16-2016.md) - 16 mentions
+- [Fri, Sep 19, 2014](fri-sep-19-2014.md) - 45 mentions
+- [Fri, Sep 19, 2014](fri-sep-19-2014.md) - 7 mentions
+- [Fri, Sep 22, 2017](fri-sep-22-2017.md) - 7 mentions
+- [Fri, Sep 8, 2017](fri-sep-8-2017.md) - 43 mentions
+- [Friday](friday.md) - 284 mentions
+- [Friday night](friday-night.md) - 10 mentions
+- [Friday, August 05](friday-august-05.md) - 15 mentions
+- [Friday, February 24](friday-february-24.md) - 5 mentions
+- [Friday, January 16, 2015](friday-january-16-2015.md) - 5 mentions
+- [Friday, January 28, 2011](friday-january-28-2011.md) - 6 mentions
+- [Friday, January 9, 2015](friday-january-9-2015.md) - 10 mentions
+- [Friday, July 13, 2018](friday-july-13-2018.md) - 15 mentions
+- [Friday, June 2, 2017](friday-june-2-2017.md) - 5 mentions
+- [Friday, June 22, 2018](friday-june-22-2018.md) - 5 mentions
+- [Friday, March 04, 2011](friday-march-04-2011.md) - 10 mentions
+- [Friday, March 4 2011](friday-march-4-2011.md) - 5 mentions
+
+### H {#h}
+
+- [half a century](half-a-century.md) - 7 mentions
+- [Halloween](halloween.md) - 7 mentions
+- [her year](her-year.md) - 17 mentions
+- [his day](his-day.md) - 11 mentions
+- [his days](his-days.md) - 8 mentions
+- [his first day](his-first-day.md) - 7 mentions
+- [his first week](his-first-week.md) - 6 mentions
+- [his first year](his-first-year.md) - 14 mentions
+- [his second year](his-second-year.md) - 6 mentions
+- [his second years](his-second-years.md) - 5 mentions
+- [Holocaust](holocaust.md) - 12 mentions
+- [hours](hours.md) - 21 mentions
+- [hundreds of years](hundreds-of-years.md) - 10 mentions
+
+### I {#i}
+
+- [In 2000](in-2000.md) - 5 mentions
+- [In 2005](in-2005.md) - 9 mentions
+- [In 2008](in-2008.md) - 12 mentions
+- [In 2012](in-2012.md) - 7 mentions
+- [In 2016](in-2016.md) - 6 mentions
+- [In 2018](in-2018.md) - 5 mentions
+- [Item 4](item-4.md) - 10 mentions
+
+### J {#j}
+
+- [jan](jan.md) - 12 mentions
+- [Jan 1](jan-1.md) - 8 mentions
+- [Jan 11, 2017](jan-11-2017.md) - 5 mentions
+- [Jan 12, 2012](jan-12-2012.md) - 8 mentions
+- [Jan 12, 2017](jan-12-2017.md) - 12 mentions
+- [Jan 20, 2017](jan-20-2017.md) - 5 mentions
+- [Jan 21, 2019](jan-21-2019.md) - 24 mentions
+- [Jan 22, 2019](jan-22-2019.md) - 24 mentions
+- [Jan 30, 2011](jan-30-2011.md) - 7 mentions
+- [Jan. 24](jan-24.md) - 6 mentions
+- [Jan. 5](jan-5.md) - 7 mentions
+- [January](january.md) - 81 mentions
+- [January 03, 2018](january-03-2018.md) - 14 mentions
+- [January 15](january-15.md) - 6 mentions
+- [January 15, 2015](january-15-2015.md) - 6 mentions
+- [January 16, 2015](january-16-2015.md) - 6 mentions
+- [January 19](january-19.md) - 9 mentions
+- [January 19, 2015](january-19-2015.md) - 6 mentions
+- [January 19, 2016](january-19-2016.md) - 8 mentions
+- [January 20, 1953](january-20-1953.md) - 9 mentions
+- [January 20, 1953](january-20-1953.md) - 7 mentions
+- [January 20, 2016](january-20-2016.md) - 7 mentions
+- [January 20, 2017](january-20-2017.md) - 6 mentions
+- [January 2003](january-2003.md) - 6 mentions
+- [January 2007](january-2007.md) - 11 mentions
+- [January 2008](january-2008.md) - 7 mentions
+- [January 2009](january-2009.md) - 13 mentions
+- [January 2010](january-2010.md) - 7 mentions
+- [January 2011](january-2011.md) - 8 mentions
+- [January 2012](january-2012.md) - 8 mentions
+- [January 2013](january-2013.md) - 8 mentions
+- [January 2014](january-2014.md) - 9 mentions
+- [January 2015](january-2015.md) - 10 mentions
+- [January 2016](january-2016.md) - 8 mentions
+- [January 2017](january-2017.md) - 17 mentions
+- [January 2018](january-2018.md) - 8 mentions
+- [January 21, 2019](january-21-2019.md) - 28 mentions
+- [January 22, 2019](january-22-2019.md) - 24 mentions
+- [January 27th](january-27th.md) - 5 mentions
+- [January 3, 2018](january-3-2018.md) - 9 mentions
+- [January 9, 2015](january-9-2015.md) - 9 mentions
+- [January-February](january-february.md) - 5 mentions
+- [Jul 15, 2018](jul-15-2018.md) - 7 mentions
+- [Jul 16, 2018](jul-16-2018.md) - 7 mentions
+- [Jul 17, 2018](jul-17-2018.md) - 10 mentions
+- [July](july.md) - 73 mentions
+- [July 07, 2008](july-07-2008.md) - 5 mentions
+- [July 1](july-1.md) - 20 mentions
+- [July 1, 2008](july-1-2008.md) - 8 mentions
+- [July 1, 2010](july-1-2010.md) - 6 mentions
+- [July 11, 2008](july-11-2008.md) - 5 mentions
+- [July 12](july-12.md) - 5 mentions
+- [July 16](july-16.md) - 12 mentions
+- [July 19](july-19.md) - 6 mentions
+- [July 2, 2008](july-2-2008.md) - 5 mentions
+- [July 20, 2010](july-20-2010.md) - 6 mentions
+- [July 2006](july-2006.md) - 15 mentions
+- [July 2008](july-2008.md) - 15 mentions
+- [July 2009](july-2009.md) - 13 mentions
+- [July 2010](july-2010.md) - 10 mentions
+- [July 2011](july-2011.md) - 9 mentions
+- [July 2012](july-2012.md) - 12 mentions
+- [July 2014](july-2014.md) - 7 mentions
+- [July 2016](july-2016.md) - 10 mentions
+- [July 2017](july-2017.md) - 7 mentions
+- [July 2018](july-2018.md) - 6 mentions
+- [July 22, 2018](july-22-2018.md) - 11 mentions
+- [July 25](july-25.md) - 5 mentions
+- [July 31, 2010](july-31-2010.md) - 5 mentions
+- [July 7, 2008](july-7-2008.md) - 8 mentions
+- [July 8](july-8.md) - 5 mentions
+- [July 9](july-9.md) - 7 mentions
+- [June](june.md) - 86 mentions
+- [June 12, 2008](june-12-2008.md) - 5 mentions
+- [June 13](june-13.md) - 7 mentions
+- [June 14](june-14.md) - 9 mentions
+- [June 14, 2012](june-14-2012.md) - 6 mentions
+- [June 15](june-15.md) - 6 mentions
+- [June 16](june-16.md) - 5 mentions
+- [JUNE 18, 2008](june-18-2008.md) - 5 mentions
+- [June 19, 2008](june-19-2008.md) - 7 mentions
+- [June 1992](june-1992.md) - 5 mentions
+- [June 2, 2008](june-2-2008.md) - 5 mentions
+- [June 2, 2017](june-2-2017.md) - 5 mentions
+- [June 2004](june-2004.md) - 7 mentions
+- [June 2007](june-2007.md) - 9 mentions
+- [June 2008](june-2008.md) - 13 mentions
+- [June 2009](june-2009.md) - 9 mentions
+- [June 2011](june-2011.md) - 9 mentions
+- [June 2012](june-2012.md) - 7 mentions
+- [June 2013](june-2013.md) - 7 mentions
+- [June 2014](june-2014.md) - 12 mentions
+- [June 2015](june-2015.md) - 6 mentions
+- [June 2016](june-2016.md) - 11 mentions
+- [June 2017](june-2017.md) - 11 mentions
+- [June 22](june-22.md) - 5 mentions
+- [June 22, 2018](june-22-2018.md) - 10 mentions
+- [June 23](june-23.md) - 6 mentions
+- [June 23, 2018](june-23-2018.md) - 15 mentions
+- [June 26](june-26.md) - 6 mentions
+- [June 26, 2008](june-26-2008.md) - 5 mentions
+- [June 27](june-27.md) - 5 mentions
+- [June 27, 2008](june-27-2008.md) - 5 mentions
+- [June 3](june-3.md) - 11 mentions
+- [June 30](june-30.md) - 6 mentions
+- [June 30, 2008](june-30-2008.md) - 14 mentions
+- [June 30, 2011](june-30-2011.md) - 5 mentions
+- [June 4](june-4.md) - 5 mentions
+- [June 6](june-6.md) - 5 mentions
+- [June 7, 2007](june-7-2007.md) - 5 mentions
+- [June 8](june-8.md) - 5 mentions
+- [June 9](june-9.md) - 7 mentions
+- [just a few days](just-a-few-days.md) - 5 mentions
+- [Just a few days ago](just-a-few-days-ago.md) - 7 mentions
+- [just a few weeks](just-a-few-weeks.md) - 5 mentions
+- [just days](just-days.md) - 13 mentions
+- [just months](just-months.md) - 5 mentions
+- [Just this week](just-this-week.md) - 5 mentions
+
+### L {#l}
+
+- [last 20 years](last-20-years.md) - 5 mentions
+- [last day](last-day.md) - 13 mentions
+- [last decade](last-decade.md) - 5 mentions
+- [last December](last-december.md) - 9 mentions
+- [last fall](last-fall.md) - 13 mentions
+- [last Friday](last-friday.md) - 10 mentions
+- [last May](last-may.md) - 5 mentions
+- [last minute](last-minute.md) - 7 mentions
+- [last month](last-month.md) - 89 mentions
+- [last night](last-night.md) - 18 mentions
+- [last November](last-november.md) - 7 mentions
+- [last October](last-october.md) - 8 mentions
+- [last quarter](last-quarter.md) - 7 mentions
+- [last summer](last-summer.md) - 22 mentions
+- [last Sunday](last-sunday.md) - 12 mentions
+- [last the December](last-the-december.md) - 7 mentions
+- [last week](last-week.md) - 187 mentions
+- [last weekend](last-weekend.md) - 6 mentions
+- [last week’s](last-weeks.md) - 17 mentions
+- [last year](last-year.md) - 209 mentions
+- [last year's](last-years.md) - 7 mentions
+- [last years](last-years.md) - 15 mentions
+- [last year’s](last-years.md) - 7 mentions
+- [late 2008](late-2008.md) - 5 mentions
+- [late 2015](late-2015.md) - 6 mentions
+- [late 2017](late-2017.md) - 5 mentions
+- [late December](late-december.md) - 5 mentions
+- [late July](late-july.md) - 12 mentions
+- [late June](late-june.md) - 6 mentions
+- [late last year](late-last-year.md) - 5 mentions
+- [late September](late-september.md) - 12 mentions
+- [late yesterday](late-yesterday.md) - 6 mentions
+- [late-afternoon](late-afternoon.md) - 12 mentions
+- [later that day](later-that-day.md) - 7 mentions
+- [Later that year](later-that-year.md) - 7 mentions
+- [later this year](later-this-year.md) - 12 mentions
+- [later years](later-years.md) - 7 mentions
+- [less than three years](less-than-three-years.md) - 6 mentions
+- [less than two years](less-than-two-years.md) - 7 mentions
+
+### M {#m}
+
+- [many years](many-years.md) - 111 mentions
+- [many years ago](many-years-ago.md) - 7 mentions
+- [many years later](many-years-later.md) - 7 mentions
+- [Mar 16, 2019](mar-16-2019.md) - 22 mentions
+- [Mar 17, 2019](mar-17-2019.md) - 59 mentions
+- [Mar 24, 2018](mar-24-2018.md) - 53 mentions
+- [Mar 4, 2019](mar-4-2019.md) - 5 mentions
+- [March](march.md) - 80 mentions
+- [March 04, 2011](march-04-2011.md) - 10 mentions
+- [March 1](march-1.md) - 5 mentions
+- [March 11, 2018](march-11-2018.md) - 5 mentions
+- [March 14](march-14.md) - 6 mentions
+- [March 15](march-15.md) - 8 mentions
+- [March 15, 2005](march-15-2005.md) - 8 mentions
+- [March 17, 2010](march-17-2010.md) - 7 mentions
+- [March 20](march-20.md) - 5 mentions
+- [March 2001](march-2001.md) - 15 mentions
+- [March 2005](march-2005.md) - 12 mentions
+- [March 2006](march-2006.md) - 5 mentions
+- [March 2007](march-2007.md) - 7 mentions
+- [March 2008](march-2008.md) - 13 mentions
+- [March 2009](march-2009.md) - 12 mentions
+- [March 2010](march-2010.md) - 6 mentions
+- [March 2011](march-2011.md) - 15 mentions
+- [March 2012](march-2012.md) - 6 mentions
+- [March 2014](march-2014.md) - 5 mentions
+- [March 2015](march-2015.md) - 10 mentions
+- [March 2016](march-2016.md) - 5 mentions
+- [March 2017](march-2017.md) - 11 mentions
+- [March 2018](march-2018.md) - 5 mentions
+- [March 24, 2018](march-24-2018.md) - 32 mentions
+- [March 28](march-28.md) - 5 mentions
+- [March 30](march-30.md) - 5 mentions
+- [March 4](march-4.md) - 6 mentions
+- [March 4 2011](march-4-2011.md) - 9 mentions
+- [March 8, 2011](march-8-2011.md) - 14 mentions
+- [May](may.md) - 92 mentions
+- [May 03, 2012](may-03-2012.md) - 7 mentions
+- [May 07, 2012](may-07-2012.md) - 13 mentions
+- [May 1](may-1.md) - 20 mentions
+- [May 11](may-11.md) - 5 mentions
+- [May 12](may-12.md) - 5 mentions
+- [May 14](may-14.md) - 5 mentions
+- [May 14, 2017](may-14-2017.md) - 5 mentions
+- [May 15](may-15.md) - 6 mentions
+- [May 15, 2017](may-15-2017.md) - 6 mentions
+- [May 17](may-17.md) - 10 mentions
+- [May 19](may-19.md) - 5 mentions
+- [May 19, 2008](may-19-2008.md) - 9 mentions
+- [May 20](may-20.md) - 7 mentions
+- [May 2002](may-2002.md) - 5 mentions
+- [May 2006](may-2006.md) - 11 mentions
+- [May 2007](may-2007.md) - 5 mentions
+- [May 2008](may-2008.md) - 7 mentions
+- [May 2009](may-2009.md) - 8 mentions
+- [May 2010](may-2010.md) - 10 mentions
+- [May 2011](may-2011.md) - 26 mentions
+- [May 2012](may-2012.md) - 14 mentions
+- [May 2013](may-2013.md) - 8 mentions
+- [May 2014](may-2014.md) - 10 mentions
+- [May 2015](may-2015.md) - 5 mentions
+- [May 2016](may-2016.md) - 7 mentions
+- [May 2017](may-2017.md) - 16 mentions
+- [May 2018](may-2018.md) - 5 mentions
+- [May 22](may-22.md) - 6 mentions
+- [May 22, 2017](may-22-2017.md) - 14 mentions
+- [May 22, 2019](may-22-2019.md) - 11 mentions
+- [May 23](may-23.md) - 9 mentions
+- [May 24](may-24.md) - 7 mentions
+- [May 25, 2016](may-25-2016.md) - 15 mentions
+- [May 27](may-27.md) - 7 mentions
+- [May 27, 2017](may-27-2017.md) - 10 mentions
+- [May 28, 2017](may-28-2017.md) - 15 mentions
+- [May 29](may-29.md) - 5 mentions
+- [May 29, 2015](may-29-2015.md) - 5 mentions
+- [May 29, 2017](may-29-2017.md) - 6 mentions
+- [May 29, 2019](may-29-2019.md) - 8 mentions
+- [May 3](may-3.md) - 6 mentions
+- [May 30, 2017](may-30-2017.md) - 16 mentions
+- [May 5](may-5.md) - 7 mentions
+- [May 6 2019](may-6-2019.md) - 5 mentions
+- [May 7](may-7.md) - 6 mentions
+- [May 7, 2012](may-7-2012.md) - 5 mentions
+- [May 8, 2017](may-8-2017.md) - 23 mentions
+- [mercredi 15](mercredi-15.md) - 9 mentions
+- [mid or end](mid-or-end.md) - 8 mentions
+- [mid-2011](mid-2011.md) - 5 mentions
+- [mid-August](mid-august.md) - 5 mentions
+- [Mid-day](mid-day.md) - 9 mentions
+- [mid-December](mid-december.md) - 7 mentions
+- [mid-July](mid-july.md) - 5 mentions
+- [mid-March](mid-march.md) - 8 mentions
+- [mid-May](mid-may.md) - 8 mentions
+- [mid-November](mid-november.md) - 8 mentions
+- [mid-October](mid-october.md) - 14 mentions
+- [mid-September](mid-september.md) - 7 mentions
+- [mid-year](mid-year.md) - 6 mentions
+- [Midnight](midnight.md) - 15 mentions
+- [millions of years](millions-of-years.md) - 5 mentions
+- [Minutes](minutes.md) - 8 mentions
+- [Mon, Dec 11, 2017](mon-dec-11-2017.md) - 23 mentions
+- [Mon, Dec 11, 2017](mon-dec-11-2017.md) - 8 mentions
+- [Mon, Jan 21, 2019](mon-jan-21-2019.md) - 24 mentions
+- [Mon, Jul 23, 2018](mon-jul-23-2018.md) - 9 mentions
+- [Mon, Nov 14, 2016](mon-nov-14-2016.md) - 11 mentions
+- [Mon, Nov 28](mon-nov-28.md) - 14 mentions
+- [Mon, Oct 10, 2016](mon-oct-10-2016.md) - 9 mentions
+- [Mon, Oct 17, 2016](mon-oct-17-2016.md) - 10 mentions
+- [Mon, Oct 2, 2017](mon-oct-2-2017.md) - 24 mentions
+- [Monday](monday.md) - 254 mentions
+- [Monday 12th January 2015](monday-12th-january-2015.md) - 6 mentions
+- [Monday 2nd February 2015](monday-2nd-february-2015.md) - 12 mentions
+- [Monday, August 10, 2009](monday-august-10-2009.md) - 20 mentions
+- [Monday, August 15, 2016](monday-august-15-2016.md) - 8 mentions
+- [Monday, January 21, 2019](monday-january-21-2019.md) - 28 mentions
+- [Monday, July 07, 2008](monday-july-07-2008.md) - 7 mentions
+- [Monday, March 07, 2011](monday-march-07-2011.md) - 7 mentions
+- [Monday, May 07, 2012](monday-may-07-2012.md) - 13 mentions
+- [Monday, May 22, 2017](monday-may-22-2017.md) - 7 mentions
+- [Monday, May 29](monday-may-29.md) - 6 mentions
+- [Monday, October 02,](monday-october-02.md) - 6 mentions
+- [Monday, October 02, 2017](monday-october-02-2017.md) - 18 mentions
+- [month](month.md) - 17 mentions
+- [month-long](month-long.md) - 12 mentions
+- [monthly](monthly.md) - 83 mentions
+- [months](months.md) - 121 mentions
+- [months ago](months-ago.md) - 18 mentions
+- [Months earlier](months-earlier.md) - 13 mentions
+- [more than 20 years](more-than-20-years.md) - 6 mentions
+- [more than a decade](more-than-a-decade.md) - 18 mentions
+- [more than a year](more-than-a-year.md) - 37 mentions
+- [more than a year ago](more-than-a-year-ago.md) - 7 mentions
+- [more than four decades](more-than-four-decades.md) - 6 mentions
+- [more than four months](more-than-four-months.md) - 5 mentions
+- [more than half a century](more-than-half-a-century.md) - 5 mentions
+- [more than ten years](more-than-ten-years.md) - 8 mentions
+- [more than ten years ago](more-than-ten-years-ago.md) - 5 mentions
+- [more than thirty years](more-than-thirty-years.md) - 6 mentions
+- [more than three decades](more-than-three-decades.md) - 7 mentions
+- [more than two decades](more-than-two-decades.md) - 6 mentions
+- [more than two years](more-than-two-years.md) - 11 mentions
+- [Morning](morning.md) - 41 mentions
+- [MSCI](msci.md) - 5 mentions
+- [my day](my-day.md) - 6 mentions
+
+### N {#n}
+
+- [nearly 30 years](nearly-30-years.md) - 5 mentions
+- [nearly a decade](nearly-a-decade.md) - 15 mentions
+- [nearly a year](nearly-a-year.md) - 7 mentions
+- [nearly two years](nearly-two-years.md) - 8 mentions
+- [New Year](new-year.md) - 8 mentions
+- [next 30 minutes](next-30-minutes.md) - 9 mentions
+- [next day](next-day.md) - 19 mentions
+- [next few years](next-few-years.md) - 5 mentions
+- [next May](next-may.md) - 11 mentions
+- [next monday](next-monday.md) - 5 mentions
+- [next month](next-month.md) - 28 mentions
+- [next spring](next-spring.md) - 5 mentions
+- [next two weeks](next-two-weeks.md) - 5 mentions
+- [next two years](next-two-years.md) - 8 mentions
+- [next week](next-week.md) - 83 mentions
+- [next year](next-year.md) - 76 mentions
+- [next years](next-years.md) - 7 mentions
+- [next year’s](next-years.md) - 5 mentions
+- [night](night.md) - 39 mentions
+- [nine days](nine-days.md) - 5 mentions
+- [nine months](nine-months.md) - 22 mentions
+- [nine years](nine-years.md) - 10 mentions
+- [nine-month](nine-month.md) - 6 mentions
+- [nine-year-old](nine-year-old.md) - 5 mentions
+- [nineteen](nineteen.md) - 9 mentions
+- [nineteen-year-old](nineteen-year-old.md) - 6 mentions
+- [noon](noon.md) - 13 mentions
+- [Nov 10, 2016](nov-10-2016.md) - 36 mentions
+- [Nov 10, 2016](nov-10-2016.md) - 15 mentions
+- [Nov 11, 2016](nov-11-2016.md) - 12 mentions
+- [Nov 13](nov-13.md) - 14 mentions
+- [Nov 16, 2017](nov-16-2017.md) - 21 mentions
+- [Nov 2016](nov-2016.md) - 10 mentions
+- [Nov 23, 2017](nov-23-2017.md) - 18 mentions
+- [Nov 25, 2018](nov-25-2018.md) - 42 mentions
+- [Nov 4, 2016](nov-4-2016.md) - 5 mentions
+- [Nov. 8, 2016](nov-8-2016.md) - 5 mentions
+- [November](november.md) - 106 mentions
+- [November 10 2016](november-10-2016.md) - 6 mentions
+- [November 2004](november-2004.md) - 10 mentions
+- [November 2005](november-2005.md) - 5 mentions
+- [November 2007](november-2007.md) - 6 mentions
+- [November 2008](november-2008.md) - 5 mentions
+- [November 2009](november-2009.md) - 16 mentions
+- [November 2010](november-2010.md) - 15 mentions
+- [November 2011](november-2011.md) - 5 mentions
+- [November 2012](november-2012.md) - 27 mentions
+- [November 2013](november-2013.md) - 7 mentions
+- [November 2015](november-2015.md) - 6 mentions
+- [November 2016](november-2016.md) - 38 mentions
+- [November 2017](november-2017.md) - 6 mentions
+- [November 2018](november-2018.md) - 6 mentions
+- [November 22, 2016](november-22-2016.md) - 7 mentions
+- [November 25](november-25.md) - 6 mentions
+- [November 25, 2018](november-25-2018.md) - 5 mentions
+- [November 28, 2016](november-28-2016.md) - 6 mentions
+- [November 8, 2016](november-8-2016.md) - 6 mentions
+- [November of 2006](november-of-2006.md) - 11 mentions
+
+### O {#o}
+
+- [Oct](oct.md) - 13 mentions
+- [OCT 10 2016](oct-10-2016.md) - 35 mentions
+- [Oct 15](oct-15.md) - 6 mentions
+- [Oct 18, 2013](oct-18-2013.md) - 8 mentions
+- [Oct 2, 2017](oct-2-2017.md) - 25 mentions
+- [Oct 30](oct-30.md) - 6 mentions
+- [Oct 9, 2016](oct-9-2016.md) - 13 mentions
+- [October](october.md) - 98 mentions
+- [October 02, 2017](october-02-2017.md) - 24 mentions
+- [October 13](october-13.md) - 7 mentions
+- [October 13, 2016](october-13-2016.md) - 6 mentions
+- [October 14](october-14.md) - 6 mentions
+- [October 17](october-17.md) - 7 mentions
+- [October 18](october-18.md) - 5 mentions
+- [October 18, 2013](october-18-2013.md) - 11 mentions
+- [October 19](october-19.md) - 9 mentions
+- [October 2, 2018](october-2-2018.md) - 7 mentions
+- [October 2001](october-2001.md) - 5 mentions
+- [October 2003](october-2003.md) - 5 mentions
+- [October 2005](october-2005.md) - 10 mentions
+- [October 2009](october-2009.md) - 6 mentions
+- [October 2010](october-2010.md) - 16 mentions
+- [October 2011](october-2011.md) - 6 mentions
+- [October 2012](october-2012.md) - 10 mentions
+- [October 2013](october-2013.md) - 5 mentions
+- [October 2014](october-2014.md) - 5 mentions
+- [October 2015](october-2015.md) - 9 mentions
+- [October 2016](october-2016.md) - 11 mentions
+- [October 2017](october-2017.md) - 15 mentions
+- [October 22, 2011](october-22-2011.md) - 8 mentions
+- [October 22, 2011 12:00AM](october-22-2011-1200am.md) - 8 mentions
+- [October 26, 2007](october-26-2007.md) - 6 mentions
+- [October 3, 2018](october-3-2018.md) - 7 mentions
+- [October 31](october-31.md) - 5 mentions
+- [October 7, 2016](october-7-2016.md) - 5 mentions
+- [October 9, 2009](october-9-2009.md) - 6 mentions
+- [one day](one-day.md) - 99 mentions
+- [one month](one-month.md) - 7 mentions
+- [One night](one-night.md) - 6 mentions
+- [one quarter](one-quarter.md) - 5 mentions
+- [one week](one-week.md) - 27 mentions
+- [one year](one-year.md) - 68 mentions
+- [one year ago](one-year-ago.md) - 5 mentions
+- [only a few months](only-a-few-months.md) - 5 mentions
+- [only a few years](only-a-few-years.md) - 7 mentions
+- [only a few years ago](only-a-few-years-ago.md) - 5 mentions
+- [only a year](only-a-year.md) - 6 mentions
+- [only months](only-months.md) - 8 mentions
+- [only the first quarter](only-the-first-quarter.md) - 6 mentions
+- [only weeks](only-weeks.md) - 10 mentions
+- [over 50 years](over-50-years.md) - 7 mentions
+- [over a decade](over-a-decade.md) - 9 mentions
+- [over past year](over-past-year.md) - 10 mentions
+- [Overnight](overnight.md) - 18 mentions
+
+### P {#p}
+
+- [past five years](past-five-years.md) - 5 mentions
+- [past year](past-year.md) - 10 mentions
+- [past years](past-years.md) - 6 mentions
+- [PM](pm.md) - 11 mentions
+- [previous years](previous-years.md) - 5 mentions
+- [prior years](prior-years.md) - 5 mentions
+
+### Q {#q}
+
+- [quarter](quarter.md) - 6 mentions
+- [quarter-century earlier](quarter-century-earlier.md) - 5 mentions
+- [quarterly](quarterly.md) - 37 mentions
+
+### R {#r}
+
+- [recent days](recent-days.md) - 8 mentions
+- [recent decades](recent-decades.md) - 11 mentions
+- [recent months](recent-months.md) - 26 mentions
+- [recent weeks](recent-weeks.md) - 28 mentions
+- [recent years](recent-years.md) - 90 mentions
+
+### S {#s}
+
+- [Sat](sat.md) - 139 mentions
+- [Sat, Feb 24, 2018](sat-feb-24-2018.md) - 12 mentions
+- [Sat, Nov 19, 2016](sat-nov-19-2016.md) - 16 mentions
+- [Saturday](saturday.md) - 178 mentions
+- [Saturday night](saturday-night.md) - 12 mentions
+- [Saturday, March 24, 2018](saturday-march-24-2018.md) - 32 mentions
+- [Saturday, September 20, 2014](saturday-september-20-2014.md) - 19 mentions
+- [Saturdays](saturdays.md) - 9 mentions
+- [season](season.md) - 10 mentions
+- [seasonal](seasonal.md) - 6 mentions
+- [seasonally](seasonally.md) - 10 mentions
+- [Sensations
+2010](sensations-2010.md) - 22 mentions
+- [Sep 11, 2017](sep-11-2017.md) - 12 mentions
+- [Sep 17](sep-17.md) - 10 mentions
+- [Sep 17, 2016](sep-17-2016.md) - 22 mentions
+- [Sep 19](sep-19.md) - 11 mentions
+- [Sep 19,](sep-19.md) - 7 mentions
+- [Sep 19, 2014](sep-19-2014.md) - 104 mentions
+- [Sep 19, 2014](sep-19-2014.md) - 7 mentions
+- [Sep 19, 2014 7:09 AM](sep-19-2014-709-am.md) - 9 mentions
+- [Sep 19, 2014 7:09 AM](sep-19-2014-709-am.md) - 7 mentions
+- [Sep 19, 2014 8:01 AM](sep-19-2014-801-am.md) - 7 mentions
+- [Sep 19, 2014 8:01 AM](sep-19-2014-801-am.md) - 7 mentions
+- [Sep 20, 2014](sep-20-2014.md) - 96 mentions
+- [Sep 20, 2014 10:01 AM](sep-20-2014-1001-am.md) - 6 mentions
+- [Sep 20, 2014 3:52 PM](sep-20-2014-352-pm.md) - 6 mentions
+- [Sep 20, 2014 7:12 PM](sep-20-2014-712-pm.md) - 5 mentions
+- [Sep 20, 2014 9:44 AM](sep-20-2014-944-am.md) - 6 mentions
+- [Sep 20, 2017](sep-20-2017.md) - 38 mentions
+- [Sep 21, 2017](sep-21-2017.md) - 64 mentions
+- [Sep 22, 2017](sep-22-2017.md) - 31 mentions
+- [Sep 23, 2017](sep-23-2017.md) - 5 mentions
+- [Sep 24](sep-24.md) - 5 mentions
+- [Sep 24, 2017](sep-24-2017.md) - 23 mentions
+- [Sep 25, 2016](sep-25-2016.md) - 16 mentions
+- [Sep 8, 2017](sep-8-2017.md) - 49 mentions
+- [Sep 9, 2017](sep-9-2017.md) - 76 mentions
+- [Sept](sept.md) - 25 mentions
+- [Sept
+23](sept-23.md) - 8 mentions
+- [Sept 200](sept-200.md) - 5 mentions
+- [Sept 27](sept-27.md) - 8 mentions
+- [sept 30](sept-30.md) - 6 mentions
+- [Sept. 11](sept-11.md) - 6 mentions
+- [September](september.md) - 123 mentions
+- [September
+2001](september-2001.md) - 5 mentions
+- [September 10, 2015](september-10-2015.md) - 8 mentions
+- [September 11](september-11.md) - 12 mentions
+- [September 11, 2001](september-11-2001.md) - 10 mentions
+- [September 18](september-18.md) - 5 mentions
+- [September 20 2014](september-20-2014.md) - 22 mentions
+- [September 2002](september-2002.md) - 9 mentions
+- [September 2004](september-2004.md) - 12 mentions
+- [September 2005](september-2005.md) - 7 mentions
+- [September 2007](september-2007.md) - 24 mentions
+- [September 2008](september-2008.md) - 9 mentions
+- [September 2009](september-2009.md) - 10 mentions
+- [September 2011](september-2011.md) - 8 mentions
+- [September 2012](september-2012.md) - 8 mentions
+- [September 2013](september-2013.md) - 9 mentions
+- [September 2014](september-2014.md) - 7 mentions
+- [September 2015](september-2015.md) - 7 mentions
+- [September 2016](september-2016.md) - 18 mentions
+- [September 2017](september-2017.md) - 6 mentions
+- [September 24, 2007](september-24-2007.md) - 7 mentions
+- [September 25, 2018](september-25-2018.md) - 8 mentions
+- [September 4, 2008](september-4-2008.md) - 10 mentions
+- [seven
+days](seven-days.md) - 9 mentions
+- [seven months](seven-months.md) - 6 mentions
+- [seven years](seven-years.md) - 21 mentions
+- [seven-year](seven-year.md) - 5 mentions
+- [several days](several-days.md) - 20 mentions
+- [Several days later](several-days-later.md) - 6 mentions
+- [several decades](several-decades.md) - 9 mentions
+- [several months](several-months.md) - 26 mentions
+- [several weeks](several-weeks.md) - 16 mentions
+- [several years](several-years.md) - 61 mentions
+- [Several years ago](several-years-ago.md) - 8 mentions
+- [several years later](several-years-later.md) - 6 mentions
+- [six days](six-days.md) - 20 mentions
+- [six months](six-months.md) - 52 mentions
+- [Six months later](six-months-later.md) - 10 mentions
+- [six weeks](six-weeks.md) - 11 mentions
+- [six years](six-years.md) - 32 mentions
+- [Six years later](six-years-later.md) - 7 mentions
+- [six-month](six-month.md) - 22 mentions
+- [six-year](six-year.md) - 5 mentions
+- [sixteen](sixteen.md) - 5 mentions
+- [sixteen year old](sixteen-year-old.md) - 5 mentions
+- [sixteen years old](sixteen-years-old.md) - 5 mentions
+- [some day](some-day.md) - 7 mentions
+- [some days](some-days.md) - 7 mentions
+- [some quarters](some-quarters.md) - 6 mentions
+- [some years ago](some-years-ago.md) - 11 mentions
+- [spring](spring.md) - 7 mentions
+- [spring 2019](spring-2019.md) - 11 mentions
+- [Square 
+1050](square-1050.md) - 5 mentions
+- [Suite 1000](suite-1000.md) - 9 mentions
+- [Suite 1100](suite-1100.md) - 5 mentions
+- [summer](summer.md) - 50 mentions
+- [Summers](summers.md) - 15 mentions
+- [Sunday](sunday.md) - 273 mentions
+- [Sunday 
+1](sunday-1.md) - 8 mentions
+- [sunday the 26th](sunday-the-26th.md) - 8 mentions
+- [Sunday, May 28](sunday-may-28.md) - 6 mentions
+- [Sunday, May 28, 2017](sunday-may-28-2017.md) - 9 mentions
+
+### T {#t}
+
+- [ten days](ten-days.md) - 16 mentions
+- [ten days later](ten-days-later.md) - 6 mentions
+- [ten years](ten-years.md) - 43 mentions
+- [ten-year](ten-year.md) - 14 mentions
+- [Thanksgiving](thanksgiving.md) - 26 mentions
+- [Thanksgiving weekend](thanksgiving-weekend.md) - 8 mentions
+- [that day](that-day.md) - 36 mentions
+- [that month](that-month.md) - 5 mentions
+- [That week](that-week.md) - 21 mentions
+- [that year](that-year.md) - 21 mentions
+- [the 
+month before](the-month-before.md) - 11 mentions
+- [the 17th or 18th](the-17th-or-18th.md) - 6 mentions
+- [the 18th century](the-18th-century.md) - 6 mentions
+- [the 1920s](the-1920s.md) - 17 mentions
+- [the 1930s](the-1930s.md) - 14 mentions
+- [the 1940s](the-1940s.md) - 15 mentions
+- [the 1950s](the-1950s.md) - 29 mentions
+- [the 1950s and 1960s](the-1950s-and-1960s.md) - 5 mentions
+- [the 1960s](the-1960s.md) - 32 mentions
+- [the 1970s](the-1970s.md) - 39 mentions
+- [the 1980s](the-1980s.md) - 71 mentions
+- [the 1980s and 1990s](the-1980s-and-1990s.md) - 7 mentions
+- [the 1990s](the-1990s.md) - 48 mentions
+- [the 19th](the-19th.md) - 5 mentions
+- [the 19th century](the-19th-century.md) - 6 mentions
+- [the 20 th century](the-20-th-century.md) - 6 mentions
+- [the 2000s](the-2000s.md) - 9 mentions
+- [the 20th century](the-20th-century.md) - 22 mentions
+- [the 21st century](the-21st-century.md) - 33 mentions
+- [the 80s](the-80s.md) - 10 mentions
+- [the 8th](the-8th.md) - 8 mentions
+- [the 90s](the-90s.md) - 8 mentions
+- [the 9th day of a month](the-9th-day-of-a-month.md) - 6 mentions
+- [the 9th day of the month](the-9th-day-of-the-month.md) - 6 mentions
+- [the 9th for the week](the-9th-for-the-week.md) - 8 mentions
+- [the age of](the-age-of.md) - 5 mentions
+- [the age of 13](the-age-of-13.md) - 5 mentions
+- [the age of 15](the-age-of-15.md) - 5 mentions
+- [the age of 17](the-age-of-17.md) - 11 mentions
+- [the age of 18](the-age-of-18.md) - 24 mentions
+- [the age of eighteen](the-age-of-eighteen.md) - 5 mentions
+- [the Arab Spring](the-arab-spring.md) - 15 mentions
+- [the beginning of the year](the-beginning-of-the-year.md) - 5 mentions
+- [the centuries](the-centuries.md) - 5 mentions
+- [the century](the-century.md) - 16 mentions
+- [the Cold War](the-cold-war.md) - 19 mentions
+- [the coming century](the-coming-century.md) - 5 mentions
+- [the coming few years](the-coming-few-years.md) - 5 mentions
+- [the coming months](the-coming-months.md) - 19 mentions
+- [the coming weeks](the-coming-weeks.md) - 5 mentions
+- [the coming year](the-coming-year.md) - 10 mentions
+- [the coming years](the-coming-years.md) - 16 mentions
+- [the day](the-day.md) - 178 mentions
+- [the day before](the-day-before.md) - 12 mentions
+- [the days](the-days.md) - 32 mentions
+- [the days ahead](the-days-ahead.md) - 6 mentions
+- [the decade](the-decade.md) - 15 mentions
+- [the decades](the-decades.md) - 8 mentions
+- [the early 1950s](the-early-1950s.md) - 5 mentions
+- [the early 1960s](the-early-1960s.md) - 12 mentions
+- [the early 1970s](the-early-1970s.md) - 12 mentions
+- [the early 1980s](the-early-1980s.md) - 26 mentions
+- [the early 1990s](the-early-1990s.md) - 29 mentions
+- [the early 2000s](the-early-2000s.md) - 7 mentions
+- [the early days](the-early-days.md) - 22 mentions
+- [the early years](the-early-years.md) - 17 mentions
+- [the end of](the-end-of.md) - 9 mentions
+- [the end of 2013](the-end-of-2013.md) - 5 mentions
+- [the end of 2016](the-end-of-2016.md) - 6 mentions
+- [the end of 2017](the-end-of-2017.md) - 10 mentions
+- [the end of 2018](the-end-of-2018.md) - 5 mentions
+- [the end of January](the-end-of-january.md) - 7 mentions
+- [the end of June](the-end-of-june.md) - 6 mentions
+- [the end of March](the-end-of-march.md) - 5 mentions
+- [the end of the](the-end-of-the.md) - 6 mentions
+- [the end of the day](the-end-of-the-day.md) - 35 mentions
+- [the end of the second month preceding the date](the-end-of-the-second-month-preceding-the-date.md) - 6 mentions
+- [the end of the summer](the-end-of-the-summer.md) - 7 mentions
+- [the end of the week](the-end-of-the-week.md) - 8 mentions
+- [the end of the year](the-end-of-the-year.md) - 28 mentions
+- [the end of this year](the-end-of-this-year.md) - 8 mentions
+- [the first 20 years](the-first-20-years.md) - 7 mentions
+- [the first day](the-first-day.md) - 18 mentions
+- [the first month](the-first-month.md) - 10 mentions
+- [the first quarter](the-first-quarter.md) - 7 mentions
+- [the first six months](the-first-six-months.md) - 5 mentions
+- [the first week](the-first-week.md) - 6 mentions
+- [the first year](the-first-year.md) - 20 mentions
+- [the following day](the-following-day.md) - 9 mentions
+- [the following month](the-following-month.md) - 7 mentions
+- [the following week](the-following-week.md) - 5 mentions
+- [the following year](the-following-year.md) - 13 mentions
+- [the Iraq war](the-iraq-war.md) - 9 mentions
+- [the June 23, 2018](the-june-23-2018.md) - 5 mentions
+- [the last
+decades](the-last-decades.md) - 5 mentions
+- [the last
+few weeks](the-last-few-weeks.md) - 13 mentions
+- [the last 10 years](the-last-10-years.md) - 5 mentions
+- [the last 12 months](the-last-12-months.md) - 13 mentions
+- [the last 20 years](the-last-20-years.md) - 9 mentions
+- [the last 25 years](the-last-25-years.md) - 5 mentions
+- [the last 30 years](the-last-30-years.md) - 7 mentions
+- [the last couple of years](the-last-couple-of-years.md) - 6 mentions
+- [the last day](the-last-day.md) - 18 mentions
+- [the last decade](the-last-decade.md) - 29 mentions
+- [the last eight years](the-last-eight-years.md) - 6 mentions
+- [the last few days](the-last-few-days.md) - 8 mentions
+- [the last few decades](the-last-few-decades.md) - 5 mentions
+- [the last few months](the-last-few-months.md) - 10 mentions
+- [the last few years](the-last-few-years.md) - 23 mentions
+- [the last five years](the-last-five-years.md) - 7 mentions
+- [the last four years](the-last-four-years.md) - 5 mentions
+- [the last month](the-last-month.md) - 8 mentions
+- [the last several years](the-last-several-years.md) - 7 mentions
+- [the last six months](the-last-six-months.md) - 5 mentions
+- [the last three years](the-last-three-years.md) - 9 mentions
+- [the last two decades](the-last-two-decades.md) - 13 mentions
+- [The last two weeks](the-last-two-weeks.md) - 5 mentions
+- [the last two years](the-last-two-years.md) - 15 mentions
+- [the last week](the-last-week.md) - 9 mentions
+- [the last year](the-last-year.md) - 22 mentions
+- [the late 1950s](the-late-1950s.md) - 8 mentions
+- [the late 1960s](the-late-1960s.md) - 9 mentions
+- [the late 1970s](the-late-1970s.md) - 20 mentions
+- [the late 1980s](the-late-1980s.md) - 14 mentions
+- [the late 1990s](the-late-1990s.md) - 14 mentions
+- [the late 70s](the-late-70s.md) - 5 mentions
+- [the mid 1950s](the-mid-1950s.md) - 9 mentions
+- [the mid 1960s](the-mid-1960s.md) - 6 mentions
+- [the mid 70s](the-mid-70s.md) - 7 mentions
+- [the mid-1990s](the-mid-1990s.md) - 11 mentions
+- [the middle of the](the-middle-of-the.md) - 5 mentions
+- [the month](the-month.md) - 14 mentions
+- [the months](the-months.md) - 14 mentions
+- [the months ahead](the-months-ahead.md) - 13 mentions
+- [the new year](the-new-year.md) - 20 mentions
+- [the next
+quarter](the-next-quarter.md) - 9 mentions
+- [the next 12 months](the-next-12-months.md) - 12 mentions
+- [the next 18 months](the-next-18-months.md) - 9 mentions
+- [the next 20 years](the-next-20-years.md) - 13 mentions
+- [the next couple of months](the-next-couple-of-months.md) - 5 mentions
+- [the next couple of years](the-next-couple-of-years.md) - 8 mentions
+- [the next day](the-next-day.md) - 82 mentions
+- [the next decade](the-next-decade.md) - 10 mentions
+- [the next few days](the-next-few-days.md) - 18 mentions
+- [the next few decades](the-next-few-decades.md) - 8 mentions
+- [the next few months](the-next-few-months.md) - 8 mentions
+- [the next few weeks](the-next-few-weeks.md) - 8 mentions
+- [the next few years](the-next-few-years.md) - 14 mentions
+- [the next five years](the-next-five-years.md) - 18 mentions
+- [the next morning](the-next-morning.md) - 21 mentions
+- [the next several years](the-next-several-years.md) - 10 mentions
+- [the next three months](the-next-three-months.md) - 11 mentions
+- [the next three years](the-next-three-years.md) - 13 mentions
+- [the next two days](the-next-two-days.md) - 6 mentions
+- [the next two months](the-next-two-months.md) - 8 mentions
+- [the next two weeks](the-next-two-weeks.md) - 6 mentions
+- [the next two years](the-next-two-years.md) - 13 mentions
+- [the next week](the-next-week.md) - 10 mentions
+- [the next year](the-next-year.md) - 28 mentions
+- [the other day](the-other-day.md) - 13 mentions
+- [the past 10 years](the-past-10-years.md) - 7 mentions
+- [the past 12 months](the-past-12-months.md) - 10 mentions
+- [the past 13 years](the-past-13-years.md) - 11 mentions
+- [the past 20 years](the-past-20-years.md) - 5 mentions
+- [the past century](the-past-century.md) - 6 mentions
+- [the past decade](the-past-decade.md) - 29 mentions
+- [the past few weeks](the-past-few-weeks.md) - 5 mentions
+- [the past few years](the-past-few-years.md) - 29 mentions
+- [the past five years](the-past-five-years.md) - 12 mentions
+- [the past four years](the-past-four-years.md) - 11 mentions
+- [the past half-century](the-past-half-century.md) - 6 mentions
+- [the past month](the-past-month.md) - 9 mentions
+- [the past several years](the-past-several-years.md) - 5 mentions
+- [the past three
+decades](the-past-three-decades.md) - 7 mentions
+- [the past three years](the-past-three-years.md) - 18 mentions
+- [the past twenty years](the-past-twenty-years.md) - 5 mentions
+- [the past two decades](the-past-two-decades.md) - 10 mentions
+- [the past two weeks](the-past-two-weeks.md) - 8 mentions
+- [the past two years](the-past-two-years.md) - 13 mentions
+- [the past week](the-past-week.md) - 11 mentions
+- [the past year](the-past-year.md) - 40 mentions
+- [the present day](the-present-day.md) - 6 mentions
+- [the previous month](the-previous-month.md) - 11 mentions
+- [the previous year](the-previous-year.md) - 16 mentions
+- [the same day](the-same-day.md) - 18 mentions
+- [the same month](the-same-month.md) - 8 mentions
+- [the same week](the-same-week.md) - 6 mentions
+- [the same year](the-same-year.md) - 18 mentions
+- [the school year](the-school-year.md) - 6 mentions
+- [the season](the-season.md) - 10 mentions
+- [the second year](the-second-year.md) - 7 mentions
+- [the six years](the-six-years.md) - 6 mentions
+- [The Six-Day War](the-six-day-war.md) - 20 mentions
+- [the spring](the-spring.md) - 13 mentions
+- [the spring of 2016](the-spring-of-2016.md) - 6 mentions
+- [the start of the year](the-start-of-the-year.md) - 5 mentions
+- [the summer](the-summer.md) - 32 mentions
+- [the summer and autumn of last year](the-summer-and-autumn-of-last-year.md) - 6 mentions
+- [the summer of 2002](the-summer-of-2002.md) - 5 mentions
+- [the summer of 2008](the-summer-of-2008.md) - 6 mentions
+- [the summer of 2011](the-summer-of-2011.md) - 5 mentions
+- [the summer of 2014](the-summer-of-2014.md) - 5 mentions
+- [the third year](the-third-year.md) - 6 mentions
+- [the three years](the-three-years.md) - 10 mentions
+- [the twentieth century](the-twentieth-century.md) - 7 mentions
+- [the week](the-week.md) - 44 mentions
+- [the weekend](the-weekend.md) - 43 mentions
+- [the weeks](the-weeks.md) - 28 mentions
+- [the winter](the-winter.md) - 8 mentions
+- [the World Economic 
+Forum](the-world-economic-forum.md) - 5 mentions
+- [the year](the-year.md) - 101 mentions
+- [the year 2000](the-year-2000.md) - 12 mentions
+- [the year ahead](the-year-ahead.md) - 8 mentions
+- [the year before](the-year-before.md) - 9 mentions
+- [the years](the-years.md) - 99 mentions
+- [the years ahead](the-years-ahead.md) - 9 mentions
+- [their day](their-day.md) - 5 mentions
+- [their late 20S and 30s](their-late-20s-and-30s.md) - 5 mentions
+- [their late 20s and early 30s](their-late-20s-and-early-30s.md) - 5 mentions
+- [their twenties and thirties](their-twenties-and-thirties.md) - 22 mentions
+- [these days](these-days.md) - 57 mentions
+- [these years](these-years.md) - 8 mentions
+- [thirteen](thirteen.md) - 7 mentions
+- [thirteen months](thirteen-months.md) - 7 mentions
+- [thirty years](thirty-years.md) - 13 mentions
+- [this afternoon](this-afternoon.md) - 19 mentions
+- [this century](this-century.md) - 8 mentions
+- [this coming week](this-coming-week.md) - 9 mentions
+- [this day](this-day.md) - 49 mentions
+- [this fall](this-fall.md) - 15 mentions
+- [this Friday](this-friday.md) - 6 mentions
+- [this month](this-month.md) - 46 mentions
+- [This morning](this-morning.md) - 29 mentions
+- [this past year](this-past-year.md) - 7 mentions
+- [this quarter](this-quarter.md) - 6 mentions
+- [this season](this-season.md) - 5 mentions
+- [this spring](this-spring.md) - 19 mentions
+- [this summer](this-summer.md) - 25 mentions
+- [this week](this-week.md) - 238 mentions
+- [this weekend](this-weekend.md) - 56 mentions
+- [this year](this-year.md) - 214 mentions
+- [This year’s](this-years.md) - 7 mentions
+- [those days](those-days.md) - 20 mentions
+- [those years](those-years.md) - 8 mentions
+- [thousands of years](thousands-of-years.md) - 15 mentions
+- [three days](three-days.md) - 40 mentions
+- [three days later](three-days-later.md) - 8 mentions
+- [three decades](three-decades.md) - 33 mentions
+- [three month](three-month.md) - 11 mentions
+- [three months](three-months.md) - 24 mentions
+- [three months later](three-months-later.md) - 8 mentions
+- [three weeks](three-weeks.md) - 13 mentions
+- [three years](three-years.md) - 72 mentions
+- [three years ago](three-years-ago.md) - 21 mentions
+- [three years later](three-years-later.md) - 13 mentions
+- [three-week](three-week.md) - 6 mentions
+- [three-year](three-year.md) - 33 mentions
+- [thrice-daily](thrice-daily.md) - 6 mentions
+- [Thu, Apr 28](thu-apr-28.md) - 10 mentions
+- [Thu, Apr 28](thu-apr-28.md) - 8 mentions
+- [Thu, Apr 7, 2011](thu-apr-7-2011.md) - 10 mentions
+- [Thu, Aug 24, 2017](thu-aug-24-2017.md) - 5 mentions
+- [Thu, Feb 28, 2019](thu-feb-28-2019.md) - 5 mentions
+- [Thu, Feb 9, 2017](thu-feb-9-2017.md) - 11 mentions
+- [Thu, Jan 12, 2017](thu-jan-12-2017.md) - 8 mentions
+- [Thu, Jan 18, 2018](thu-jan-18-2018.md) - 52 mentions
+- [Thu, Jan 28, 2010](thu-jan-28-2010.md) - 27 mentions
+- [Thu, Jan 4, 2018](thu-jan-4-2018.md) - 9 mentions
+- [Thu, Jul 12, 2018](thu-jul-12-2018.md) - 13 mentions
+- [Thu, May 30, 2019](thu-may-30-2019.md) - 34 mentions
+- [Thu, Nov 10, 2016](thu-nov-10-2016.md) - 35 mentions
+- [Thu, Nov 16, 2017](thu-nov-16-2017.md) - 13 mentions
+- [Thu, Nov 2, 2017](thu-nov-2-2017.md) - 13 mentions
+- [Thu, Sep 21, 2017](thu-sep-21-2017.md) - 27 mentions
+- [thurs](thurs.md) - 29 mentions
+- [Thursday](thursday.md) - 177 mentions
+- [Thursday, April 28](thursday-april-28.md) - 12 mentions
+- [Thursday, April 28](thursday-april-28.md) - 7 mentions
+- [Thursday, August 06, 2009](thursday-august-06-2009.md) - 22 mentions
+- [Thursday, August 06, 2009 9:59 AM](thursday-august-06-2009-959-am.md) - 5 mentions
+- [Thursday, February 28, 2019](thursday-february-28-2019.md) - 5 mentions
+- [Thursday, January 28 2010](thursday-january-28-2010.md) - 11 mentions
+- [Thursday, January 28, 2010](thursday-january-28-2010.md) - 25 mentions
+- [Thursday, May 03](thursday-may-03.md) - 7 mentions
+- [Thursday, November 2, 2017](thursday-november-2-2017.md) - 9 mentions
+- [Thursday, September 10, 2015](thursday-september-10-2015.md) - 7 mentions
+- [today](today.md) - 891 mentions
+- [tomorrow](tomorrow.md) - 315 mentions
+- [tonight](tonight.md) - 42 mentions
+- [Tue](tue.md) - 19 mentions
+- [Tue,](tue.md) - 8 mentions
+- [Tue, Dec 5, 2017](tue-dec-5-2017.md) - 8 mentions
+- [Tue, Dec 8, 2015](tue-dec-8-2015.md) - 26 mentions
+- [Tue, Jan 19, 2016](tue-jan-19-2016.md) - 7 mentions
+- [Tue, Jan 22, 2019](tue-jan-22-2019.md) - 24 mentions
+- [Tue, Nov 29](tue-nov-29.md) - 5 mentions
+- [Tue, Nov 7, 2017](tue-nov-7-2017.md) - 6 mentions
+- [Tue, Oct 18, 2016](tue-oct-18-2016.md) - 12 mentions
+- [Tue, Oct 2, 2018](tue-oct-2-2018.md) - 7 mentions
+- [Tue, Sep 23, 2014](tue-sep-23-2014.md) - 5 mentions
+- [tues](tues.md) - 7 mentions
+- [Tuesday](tuesday.md) - 162 mentions
+- [Tuesday, August 11, 2009](tuesday-august-11-2009.md) - 38 mentions
+- [Tuesday, August 21, 2018](tuesday-august-21-2018.md) - 9 mentions
+- [Tuesday, January 19, 2016](tuesday-january-19-2016.md) - 6 mentions
+- [Tuesday, January 22, 2019](tuesday-january-22-2019.md) - 24 mentions
+- [Tuesday, March 8 2011](tuesday-march-8-2011.md) - 7 mentions
+- [Tuesday, October 2, 2018 11:45](tuesday-october-2-2018-1145.md) - 7 mentions
+- [Tuesday, September 25, 2018](tuesday-september-25-2018.md) - 8 mentions
+- [twelve years](twelve-years.md) - 5 mentions
+- [twelve-year-old](twelve-year-old.md) - 5 mentions
+- [Twentieth Century](twentieth-century.md) - 23 mentions
+- [twenty years](twenty-years.md) - 20 mentions
+- [twenty years ago](twenty-years-ago.md) - 6 mentions
+- [twenty years later](twenty-years-later.md) - 5 mentions
+- [twenty-first century](twenty-first-century.md) - 5 mentions
+- [twenty-five years](twenty-five-years.md) - 7 mentions
+- [Twenty-five years ago](twenty-five-years-ago.md) - 5 mentions
+- [two days](two-days.md) - 45 mentions
+- [two days later](two-days-later.md) - 21 mentions
+- [two decades](two-decades.md) - 26 mentions
+- [two decades later](two-decades-later.md) - 6 mentions
+- [two hours](two-hours.md) - 6 mentions
+- [two months](two-months.md) - 34 mentions
+- [two months ago](two-months-ago.md) - 9 mentions
+- [Two months later](two-months-later.md) - 8 mentions
+- [two nights](two-nights.md) - 13 mentions
+- [two or three years](two-or-three-years.md) - 5 mentions
+- [two weeks](two-weeks.md) - 40 mentions
+- [two weeks ago](two-weeks-ago.md) - 10 mentions
+- [Two weeks later](two-weeks-later.md) - 11 mentions
+- [two years](two-years.md) - 120 mentions
+- [two years ago](two-years-ago.md) - 22 mentions
+- [two years earlier](two-years-earlier.md) - 10 mentions
+- [Two years later](two-years-later.md) - 22 mentions
+- [two-day](two-day.md) - 9 mentions
+- [two-week](two-week.md) - 12 mentions
+- [two-year](two-year.md) - 31 mentions
+- [two-year-old](two-year-old.md) - 8 mentions
+
+### U {#u}
+
+- [under 18](under-18.md) - 11 mentions
+- [under 30](under-30.md) - 14 mentions
+
+### V {#v}
+
+- [vendredi 10](vendredi-10.md) - 22 mentions
+
+### W {#w}
+
+- [Wed, Apr 6, 2011](wed-apr-6-2011.md) - 47 mentions
+- [Wed, Feb 15, 2017](wed-feb-15-2017.md) - 20 mentions
+- [Wed, Feb 8, 2017](wed-feb-8-2017.md) - 5 mentions
+- [Wed, Jan 11, 2017](wed-jan-11-2017.md) - 6 mentions
+- [Wed, Jan 3, 2018](wed-jan-3-2018.md) - 28 mentions
+- [Wed, Nov 1, 2017](wed-nov-1-2017.md) - 15 mentions
+- [Wed, Oct 19, 2016](wed-oct-19-2016.md) - 32 mentions
+- [Wed, Sep 20, 2017](wed-sep-20-2017.md) - 29 mentions
+- [Wednesday](wednesday.md) - 149 mentions
+- [Wednesday, January 20, 2016](wednesday-january-20-2016.md) - 9 mentions
+- [Wednesday, January 3, 2018](wednesday-january-3-2018.md) - 8 mentions
+- [Wednesday, November 1, 2017](wednesday-november-1-2017.md) - 20 mentions
+- [Wednesday, October 3, 2018](wednesday-october-3-2018.md) - 5 mentions
+- [week](week.md) - 48 mentions
+- [week-end](week-end.md) - 5 mentions
+- [weekday](weekday.md) - 5 mentions
+- [weekend](weekend.md) - 18 mentions
+- [weekly](weekly.md) - 72 mentions
+- [weeks](weeks.md) - 99 mentions
+- [winter](winter.md) - 29 mentions
+
+### Y {#y}
+
+- [year](year.md) - 126 mentions
+- [year's end](years-end.md) - 5 mentions
+- [year-end](year-end.md) - 28 mentions
+- [year-long](year-long.md) - 12 mentions
+- [year-old](year-old.md) - 10 mentions
+- [year-to-date](year-to-date.md) - 16 mentions
+- [yearly](yearly.md) - 9 mentions
+- [years](years.md) - 255 mentions
+- [years ago](years-ago.md) - 39 mentions
+- [years earlier](years-earlier.md) - 8 mentions
+- [years later](years-later.md) - 21 mentions
+- [yesterday](yesterday.md) - 166 mentions
+- [Yom Kippur](yom-kippur.md) - 8 mentions
+- [YTD](ytd.md) - 6 mentions

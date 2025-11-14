@@ -1,0 +1,129 @@
+# HOUSE_OVERSIGHT_029849
+
+## Document Metadata
+
+**Bates Range:** HOUSE_OVERSIGHT_029849 to HOUSE_OVERSIGHT_029850  
+**Pages:** 3  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [United 
+States](../entities/people/united-states.md) - 5 mentions
+- [Fareed Zakaria](../entities/people/fareed-zakaria.md) - 3 mentions
+- [Mr. 
+Trump](../entities/people/mr-trump.md) - 2 mentions
+- [Morgan Stanley](../entities/people/morgan-stanley.md) - 2 mentions
+- [Goldman Sachs](../entities/people/goldman-sachs.md) - 1 mention
+- [Deutsche Bank](../entities/people/deutsche-bank.md) - 1 mention
+- [Credit Suisse](../entities/people/credit-suisse.md) - 1 mention
+- [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 1 mention
+- [Donald 
+Trump](../entities/people/donald-trump.md) - 1 mention
+- [Bill 
+Clinton](../entities/people/bill-clinton.md) - 1 mention
+
+### Organizations
+- [Trump](../entities/organizations/trump.md) - 4 mentions
+- [HOUSE](../entities/organizations/house.md) - 2 mentions
+- [Morgan Stanley](../entities/organizations/morgan-stanley.md) - 2 mentions
+- [Barclays](../entities/organizations/barclays.md) - 2 mentions
+- [Goldman Sachs](../entities/organizations/goldman-sachs.md) - 1 mention
+- [Bank of America](../entities/organizations/bank-of-america.md) - 1 mention
+- [Deutsche Bank](../entities/organizations/deutsche-bank.md) - 1 mention
+- [The Wall Street Journal](../entities/organizations/the-wall-street-journal.md) - 1 mention
+- [Financial Times](../entities/organizations/financial-times.md) - 1 mention
+- [Credit Suisse](../entities/organizations/credit-suisse.md) - 1 mention
+
+### Locations
+- [Japan](../entities/locations/japan.md) - 8 mentions
+- [US](../entities/locations/us.md) - 8 mentions
+- [America](../entities/locations/america.md) - 6 mentions
+- [the United States](../entities/locations/the-united-states.md) - 6 mentions
+- [China](../entities/locations/china.md) - 6 mentions
+- [Mexico](../entities/locations/mexico.md) - 4 mentions
+- [Europe](../entities/locations/europe.md) - 3 mentions
+- [Beijing](../entities/locations/beijing.md) - 1 mention
+
+### Events/Dates
+- [2008](../entities/events/2008.md) - 2 mentions
+- [today](../entities/events/today.md) - 1 mention
+- [2007](../entities/events/2007.md) - 1 mention
+- [2014](../entities/events/2014.md) - 1 mention
+- [annual](../entities/events/annual.md) - 1 mention
+- [last week](../entities/events/last-week.md) - 1 mention
+- [this week](../entities/events/this-week.md) - 1 mention
+- [1987](../entities/events/1987.md) - 1 mention
+- [July](../entities/events/july.md) - 1 mention
+- [the past few years](../entities/events/the-past-few-years.md) - 1 mention
+
+## Document Text
+
+```
+From: **Sultan Bin Sulayem** 
+Sent: 9/18/2015 5:26:12 AM 
+To: **Jeffrey Epstein** [jeeyacation@gmail.com] 
+Subject: **Fareed Zakaria**: **Trump** sells **America** short 
+Importance: High 
+**Fareed Zakaria**: **Trump** sells **America** short 
+Dear Donald **Trump**: **China**, **Japan** and **Mexico** are not "killing us" 
+By **Fareed Zakaria**, Thursday, September 17, 2015 
+**Donald **Trump**'s** presidential bid is centered on the promise of his personal talents. He says he's the "most successful 
+person ever to run for the presidency, by far." (George Washington and Dwight Eisenhower, sit down!) But if there is an 
+idea animating his candidacy, it is that **the United States** is being badly beaten by its economic competitors. In his speech 
+on foreign policy **this week**, **Trump** explained that **America** is being bested by countries such as **China**, **Japan** and **Mexico** 
+because their leaders are "smarter, more cunning and sharper than our leaders." "They're killing us," he often says. 
+This is an odd moment to make these charges because the reality is almost entirely the opposite. **the United States** is 
+more dominant on the global economic landscape than at any point since the heyday of Bill Clinton's presidency — 
+perhaps even more so. 
+**last quarter**, the U.S. economy grew at a 3.7 percent clip. **annual** growth now is almost twice that of **Europe** and four 
+times that of **Japan**. Unemployment is at 5.1 percent, the lowest in **seven years**. The deficit as a percentage of gross 
+domestic product (2.8 percent in 2014) is at its lowest since 2007. 
+"The U.S. has come out of the **2008** crisis better than all the others," says Ruchir Sharma, head of global macro investing 
+at ****Morgan Stanley****. "Americans have reduced their debt burden more than the Europeans, while **China**'s debt has 
+skyrocketed to extremely dangerous levels. If you look outside of **China**, U.S. growth is actually faster even than the 
+emerging markets. Since the **2008** crisis, U.S. equity markets have outperformed all others — in fact 9 out of the 10 most 
+valuable companies in the world are now American. The dollar is the currency of choice. Global growth is not what it 
+used to be, but in a bad neighborhood, the U.S. has the best **HOUSE** by far." Sharma points out that for the past four 
+years, **the United States**' share of global GDP has increased while **Europe**'s and **Japan**'s have moved down. 
+When I was in **Europe** **last week**, businessmen there were concerned with what they saw as a new level of U.S. 
+dominance in everything from technology to entertainment to finance. Consider **America**'s big banks. They were at the 
+epicenter of the financial crisis and were badly battered by it. Since then, bankers have complained that they've faced 
+uncertainty about government policies, overzealous regulators trying to compensate for their laxness before the crisis 
+and the unwieldy burdens of the Dodd-Frank law. 
+Well, U.S. banks **today** are more dominant than ever. **The Wall Street Journal** notes that in **the past five years**, **JPMorgan** 
+**Chase**, **Bank of **America****, **Citigroup**, ****Goldman Sachs**** and ****Morgan Stanley**** have increased in value by $254.6 billion. In the 
+same period, their European competitors, **Barclays**, ****Credit Suisse****, ****Deutsche Bank****, UBS and Royal Bank of Scotland added 
+just $9.5 billion. **In July**, **Barclays** Chairman **John McFarlane** was asked if **America**'s banks were eating European lenders' 
+lunch. He replied: "They are doing a good job of it." He added that the U.S. banks "are the only ones that really claim to 
+be global and successful." 
+**HOUSE** OVERSIGHT 029849 
+To compare **the United States**' performance and leadership to **Mexico**'s, **Japan**'s and **China**'s is particularly ill-timed. 
+**Trump** might be stuck in a **1980s** time warp on **Japan**. When his "The Art of the Deal" was published in 1987, Americans 
+were envious of **Japan**'s brilliant leaders, who were said to be outsmarting **the United States** at every turn. Since then, 
+**Japan** has become the poster child for economic stagnation and political paralysis. Prime Minister Shinzo Abe has been 
+unwilling or unable to get his promised reforms enacted, and the country's economy continues to shrink. 
+**Mexico** is watching its growth collapse. While its president, Enrique Pena Nieto, is a courageous and intelligent leader 
+who has made some very bold decisions, he has also made some significant missteps. Most important, the country was 
+ill-prepared for plunging oil prices that have battered government revenues and growth. 
+**China** has had **three decades** of supercharged growth and competent government policy. But in **the past few years**, 
+**Beijing** went on a borrowing binge, running up its total debt to levels that are unprecedented, according to Sharma. And 
+in the past two months it has made mistakes in managing both its equity markets and currency — mistakes that have 
+cost $400 billion, the ****Financial Times**** reports. 
+Of course, **the United States** has problems that are worrying, such as wage stagnation and low labor-force participation. 
+But the important comparison is not to some ideal fantasy of what **America** might be but to other coun
+```
+
+*[Text truncated to 5000 characters]*
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_033482](HOUSE_OVERSIGHT_033482.md) - 48 shared entities
+- [HOUSE_OVERSIGHT_014532](HOUSE_OVERSIGHT_014532.md) - 25 shared entities
+- [HOUSE_OVERSIGHT_027849](HOUSE_OVERSIGHT_027849.md) - 21 shared entities
+- [HOUSE_OVERSIGHT_020824](HOUSE_OVERSIGHT_020824.md) - 20 shared entities
+- [HOUSE_OVERSIGHT_019874](HOUSE_OVERSIGHT_019874.md) - 20 shared entities

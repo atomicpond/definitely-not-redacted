@@ -1,0 +1,149 @@
+# HOUSE_OVERSIGHT_031992
+
+## Document Metadata
+
+**Bates Range:** HOUSE_OVERSIGHT_031992 to HOUSE_OVERSIGHT_031993  
+**Pages:** 3  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 5 mentions
+- [Jean Luc](../entities/people/jean-luc.md) - 1 mention
+
+### Organizations
+- [HOUSE](../entities/organizations/house.md) - 2 mentions
+
+### Locations
+- [Paris](../entities/locations/paris.md) - 3 mentions
+- [Barcelona](../entities/locations/barcelona.md) - 1 mention
+
+## Document Text
+
+```
+From: Daniel Siad 
+Sent: 7/24/2010 5:10:54 PM 
+To: **Jeffrey Epstein** [jeeyacation@gmail.com] 
+Subject: hello from ibiza 
+can you come to Ibiza or you can send us the ticket to come with 
+Tigrane and five girls to **Paris** because they have there return ticket 
+from **Barcelona** if they are living from here 
+it will be great if you can arrenge for us tickets for **Paris** 
+please let me know so we can get orgnized 
+On 7/24/10, **Jeffrey Epstein** <jeevacation@gmail.com> wrote: 
+> i will be in **Paris** tom000rw night 
+> • On Sat Jul 24 2010 at 9:32 AM, Daniel Siad 
+wrote: 
+»• the other girl name is 
+» On Sat, Jul 24, 2010 at 2:28 PM, Daniel Siad < 
+wrote: 
+>» Can you call me 
+>» I am with tigrane he would like to meet you he is here with me in Ibiza 
+>» with 8 top girls he said he would like to build some thing with you 
+>» can you come to Ibiza we have a huge **HOUSE** or how can we orgnise this 
+>» meeting even **Jean Luc** could doo a great biz also 
+>» he has the most amizing top models on stand by I told him not to do any 
+>» deals with anybody before he meet with you . 
+>» he stoped working with IMG and Trump wi here please call me and let me 
+>» know what is your plans 
+>» 
+>» warmest regards 
+>» Daniel 
+>» 
+>» 
+>» On Fri, Jul 23, 2010 at 2:38 PM, **Jeffrey Epstein** 
+>» <jeevacation@gmail.com>wrote: 
+>» 
+»» what is your schedule? 
+>>>> 
+>>>> 
+>>>> *********************************************************** 
+»» The information contained in this communication is 
+»» confidential, may be attorney-client privileged, may 
+»» constitute inside information, and is intended only for 
+»» the use of the addressee. It is the property of 
+»» **Jeffrey Epstein** 
+»» Unauthorized use, disclosure or copying of this 
+»» communication or any part thereof is strictly prohibited 
+»» and may be unlawful. If you have received this 
+»» communication in error, please notify us immediately by 
+»» return e-mail or by e-mail to jeevacation@gmail.com, and 
+»» destroy this communication and all copies thereof, 
+»» including all attachments. 
+>>>> 
+>>> 
+>>> 
+>>> 
+>» --
+>» Confidentiality Notice: The information contained in this electronic 
+>» message is PRIVILEGED and confidential information intended only for the 
+>» use 
+>» of the individual entity or entities named as recipient or recipients. If 
+>» the reader is not the intended recipient, be hereby notified that any 
+>» dissemination, distribution or copy of this communication is strictly 
+>» prohibited. If you have received this communication in error, please 
+>» notify 
+>» me immediately by electronic mail or by telephone and permanently delete 
+>» this message from your computer system. Thank you. 
+> > > 
+**HOUSE** OVERSIGHT 031992 
+» 
+» 
+» 
+» 
+» Confidentiality Notice: The information contained in this electronic 
+» message is PRIVILEGED and confidential information intended only for the 
+» use 
+» of the individual entity or entities named as recipient or recipients. If 
+» the reader is not the intended recipient, be hereby notified that any 
+» dissemination, distribution or copy of this communication is strictly 
+» prohibited. If you have received this communication in error, please 
+» notify 
+» me immediately by electronic mail or by telephone and permanently delete 
+» this message from your computer system. Thank you. 
+> > 
+> 
+> 
+> 
+> 
+> *********************************************************** 
+> The information contained in this communication is 
+> confidential, may be attorney-client privileged, may 
+> constitute inside information, and is intended only for 
+> the use of the addressee. It is the property of 
+> **Jeffrey Epstein** 
+> Unauthorized use, disclosure or copying of this 
+> communication or any part thereof is strictly prohibited 
+> and may be unlawful. If you have received this 
+> communication in error, please notify us immediately by 
+> return e-mail or by e-mail to jeevacation@gmail.com, and 
+> destroy this communication and all copies thereof, 
+> including all attachments. 
+> 
+- - 
+- - 
+--
+Confidentiality Notice: The information contained in this electronic 
+message is PRIVILEGED and confidential information intended only for 
+the use of the individual entity or entities named as recipient or 
+recipients. If the reader is not the intended recipient, be hereby 
+notified that any dissemination, distribution or copy of this 
+communication is strictly prohibited. If you have received this 
+communication in error, please notify me immediately by electronic 
+mail or by telephone and permanently delete this message from your 
+computer system. Thank you. 
+**HOUSE** OVERSIGHT 031993 
+
+```
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_031177](HOUSE_OVERSIGHT_031177.md) - 4 shared entities
+- [HOUSE_OVERSIGHT_030154](HOUSE_OVERSIGHT_030154.md) - 4 shared entities
+- [HOUSE_OVERSIGHT_032068](HOUSE_OVERSIGHT_032068.md) - 3 shared entities
+- [HOUSE_OVERSIGHT_031335](HOUSE_OVERSIGHT_031335.md) - 3 shared entities
+- [HOUSE_OVERSIGHT_031333](HOUSE_OVERSIGHT_031333.md) - 3 shared entities

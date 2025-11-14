@@ -1,0 +1,55 @@
+# HOUSE_OVERSIGHT_032828
+
+## Document Metadata
+
+**Bates ID:** HOUSE_OVERSIGHT_032828  
+**Pages:** 1  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [Michael Wolff](../entities/people/michael-wolff.md) - 1 mention
+- [High 
+He](../entities/people/high-he.md) - 1 mention
+- [Mr. 
+Trump](../entities/people/mr-trump.md) - 1 mention
+
+## Document Text
+
+```
+From: **Michael Wolff** 
+Sent: 11/8/2018 12:30:56 AM 
+To: J [jeevacation@gmail.com] 
+Subject: Re: 
+Importance: **High 
+He** was in good form. Thinks Trump is fucked. But likely that the Dems will screw it up too. 
+On Wed, Nov 7, 2018 at 6:33 PM J <jeevacation@gmail.com> wrote: 
+how was it? 
+please note 
+The information contained in this communication is 
+confidential, may be attorney-client privileged, may 
+constitute inside information, and is intended only for 
+the use of the addressee. It is the property of 
+JEE 
+Unauthorized use, disclosure or copying of this 
+communication or any part thereof is strictly prohibited 
+and may be unlawful. If you have received this 
+communication in error, please notify us immediately by 
+return e-mail or by e-mail to jeevacation@gmail.com, and 
+destroy this communication and all copies thereof, 
+including all attachments. copyright -all rights reserved 
+HOUSE OVERSIGHT 032828 
+
+```
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_032848](HOUSE_OVERSIGHT_032848.md) - 2 shared entities
+- [HOUSE_OVERSIGHT_032846](HOUSE_OVERSIGHT_032846.md) - 2 shared entities
+- [HOUSE_OVERSIGHT_032231](HOUSE_OVERSIGHT_032231.md) - 2 shared entities
+- [HOUSE_OVERSIGHT_032229](HOUSE_OVERSIGHT_032229.md) - 2 shared entities
+- [HOUSE_OVERSIGHT_032228](HOUSE_OVERSIGHT_032228.md) - 2 shared entities

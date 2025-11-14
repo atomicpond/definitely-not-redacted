@@ -1,0 +1,87 @@
+# HOUSE_OVERSIGHT_032650
+
+## Document Metadata
+
+**Bates Range:** HOUSE_OVERSIGHT_032650 to HOUSE_OVERSIGHT_032651  
+**Pages:** 3  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [Lesley Groff](../entities/people/lesley-groff.md) - 2 mentions
+- [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 1 mention
+- [larry](../entities/people/larry.md) - 1 mention
+- [jojo](../entities/people/jojo.md) - 1 mention
+
+### Locations
+- [New York](../entities/locations/new-york.md) - 1 mention
+
+### Events/Dates
+- [the week](../entities/events/the-week.md) - 2 mentions
+- [Nov 16, 2017](../entities/events/nov-16-2017.md) - 2 mentions
+- [That week](../entities/events/that-week.md) - 1 mention
+- [Thu, Nov 16, 2017](../entities/events/thu-nov-16-2017.md) - 1 mention
+- [sunday the 26th](../entities/events/sunday-the-26th.md) - 1 mention
+- [11/17/2017](../entities/events/11172017.md) - 1 mention
+
+## Document Text
+
+```
+From: **Lesley Groff** 
+Sent: **11/17/2017** 11:48:52 AM 
+To: **Jeffrey Epstein** [jeeyacation@gmail.com] 
+Subject: Marilyn 
+Importance: High 
+Reminder: **jojo** and Merwin both requested off Nov. 25 and 26 to be with family in town and celebrate 
+Brianna's 16th Birthday. We will need to bring Marilyn to NY to help prepare for your arrival. We should 
+have Sonam and Leo to help as well. Shall we get a flight for Marilyn early Sat. Nov. 25th morning? 
+On **Nov 16, 2017**, at 6:47 PM, jeffrey E. <jeevacation@gmail.com> wrote: 
+marilyn 
+On **Thu, **Nov 16, 2017**** at 6:37 PM, **Lesley Groff** • wrote: 
+Will you want to bring back Marilyn or Carluz/Arline for **the week** you are in NY? 
+Sent from my iPhone 
+On **Nov 16, 2017**, at 4:46 PM, jeffrey E. <jeevacation@gmail.com> wrote: 
+at the moment we will go to lsh on **sunday the 26th** early then to **New York** where i will stay **the week**, 
+**larry** , it will be assayay and I, trump is in town **That week**, 
+please note 
+The information contained in this communication is 
+confidential, may be attorney-client privileged, may 
+constitute inside information, and is intended only for 
+the use of the addressee. It is the property of 
+JEE 
+Unauthorized use, disclosure or copying of this 
+communication or any part thereof is strictly prohibited 
+and may be unlawful. If you have received this 
+communication in error, please notify us immediately by 
+return e-mail or by e-mail to jeevacation@gmail.com, and 
+destroy this communication and all copies thereof, 
+including all attachments. copyright -all rights reserved 
+please note 
+The information contained in this communication is 
+confidential, may be attorney-client privileged, may 
+constitute inside information, and is intended only for 
+the use of the addressee. It is the property of 
+JEE 
+HOUSE OVERSIGHT 032650 
+Unauthorized use, disclosure or copying of this 
+communication or any part thereof is strictly prohibited 
+and may be unlawful. If you have received this 
+communication in error, please notify us immediately by 
+return e-mail or by e-mail to jeevacation@gmail.com, and 
+destroy this communication and all copies thereof, 
+including all attachments. copyright -all rights reserved 
+HOUSE OVERSIGHT 032651 
+
+```
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_032652](HOUSE_OVERSIGHT_032652.md) - 11 shared entities
+- [HOUSE_OVERSIGHT_033047](HOUSE_OVERSIGHT_033047.md) - 10 shared entities
+- [HOUSE_OVERSIGHT_032654](HOUSE_OVERSIGHT_032654.md) - 10 shared entities
+- [HOUSE_OVERSIGHT_033045](HOUSE_OVERSIGHT_033045.md) - 8 shared entities
+- [HOUSE_OVERSIGHT_026459](HOUSE_OVERSIGHT_026459.md) - 8 shared entities

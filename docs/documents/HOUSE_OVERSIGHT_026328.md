@@ -1,0 +1,65 @@
+# HOUSE_OVERSIGHT_026328
+
+## Document Metadata
+
+**Bates ID:** HOUSE_OVERSIGHT_026328  
+**Pages:** 1  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [Michael Wolff](../entities/people/michael-wolff.md) - 1 mention
+- [Michael Wolff 
+Sent](../entities/people/michael-wolff-sent.md) - 1 mention
+- [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 1 mention
+- [On Tue](../entities/people/on-tue.md) - 1 mention
+
+### Organizations
+- [HOUSE](../entities/organizations/house.md) - 1 mention
+- [WSJ](../entities/organizations/wsj.md) - 1 mention
+
+### Events/Dates
+- [12/4/2018](../entities/events/1242018.md) - 1 mention
+
+## Document Text
+
+```
+From: ****Michael Wolff** 
+Sent**: **12/4/2018** 1:23:53 PM 
+To: **Jeffrey Epstein** [jeeyacation@gmail.com] 
+Subject: Re: 
+Importance: High 
+I think it's a useful point, potentially a powerful one. But I don't think anything is going to get attention now. I 
+would look for some reporter to do a more nuanced post-morten on the case--with it's Trump overtones, legal 
+joustings, #metoo-isms, and profit-motives. **WSJ** is probably right place. 
+**On Tue**, Dec 4, 2018 at 7:59 AM J <jeevacation@gmail.com> wrote: 
+do you think the press would react to the fact that all the settlement money is going to the attorney and none to 
+the girls.? react to the fact that the case was settled but the lawyers wanted to trumpet their success. 
+please note 
+The information contained in this communication is 
+confidential, may be attorney-client privileged, may 
+constitute inside information, and is intended only for 
+the use of the addressee. It is the property of 
+JEE 
+Unauthorized use, disclosure or copying of this 
+communication or any part thereof is strictly prohibited 
+and may be unlawful. If you have received this 
+communication in error, please notify us immediately by 
+return e-mail or by e-mail to jeevacation@gmail.com, and 
+destroy this communication and all copies thereof, 
+including all attachments. copyright -all rights reserved 
+**HOUSE** OVERSIGHT 026328 
+
+```
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_032832](HOUSE_OVERSIGHT_032832.md) - 4 shared entities
+- [HOUSE_OVERSIGHT_026326](HOUSE_OVERSIGHT_026326.md) - 4 shared entities
+- [HOUSE_OVERSIGHT_032304](HOUSE_OVERSIGHT_032304.md) - 3 shared entities
+- [HOUSE_OVERSIGHT_032263](HOUSE_OVERSIGHT_032263.md) - 3 shared entities
+- [HOUSE_OVERSIGHT_032250](HOUSE_OVERSIGHT_032250.md) - 3 shared entities

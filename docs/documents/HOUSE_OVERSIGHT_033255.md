@@ -1,0 +1,62 @@
+# HOUSE_OVERSIGHT_033255
+
+## Document Metadata
+
+**Bates ID:** HOUSE_OVERSIGHT_033255  
+**Pages:** 1  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [Lesley Groff](../entities/people/lesley-groff.md) - 1 mention
+- [Jefffrey Epstein](../entities/people/jefffrey-epstein.md) - 1 mention
+- [High 
+Hi](../entities/people/high-hi.md) - 1 mention
+
+### Locations
+- [Texas](../entities/locations/texas.md) - 1 mention
+- [Austin](../entities/locations/austin.md) - 1 mention
+
+### Events/Dates
+- [tomorrow](../entities/events/tomorrow.md) - 1 mention
+
+## Document Text
+
+```
+From: Lesley Groff___________________________ 
+Sent: 9/28/2017 8:27:09 PM 
+To: **Jefffrey Epstein** [jeevacation@gmail.com] 
+Subject: Dylan Love of TNW & Business Insider 
+Importance: **High 
+Hi** Jeffrey, I was happy to meet you this morning. 
+person) 
+You asked to see some things I've written. Here's my (only slightly out of date) professional web presence, including 
+Letterman clip: 
+www.thedylanlove.com  
+Here are a few stories I've written more recently that are not displayed on my site: 
+https://www.inverse.com/article/33173-virtual-reality-psychedelic-drugs  
+https://www.inverse.com/article/11766-how-instant-translation-tech-will-change-the-way-the-world-talks-and-listens 
+https://thenextweb.com/contributors/2017/09/14/russians-use-technology-influence-elections  
+http://www.businessinsider.com/quantum-technologies-conference-2017-8  
+You might get a special kick out of this Trump story: 
+https://www.inverse.com/article/20029-transhumanist-presidential-candidate-zoltan-istvan-donald-trump-new-technologies 
+What kinds of media goals/story ideas are interesting to you? Masha has made it clear that she wants me to write 
+something about you, but that's much more your call to make. I suggest that there is mileage to be gained by quoting you 
+in a story about how proper implementation of cryptocurrency might solve financial corruption issues. 
+I travel back to **Austin**, **Texas** **tomorrow** evening, but am of course reachable. Thanks again for your time this morning. 
+-Dylan 
+HOUSE OVERSIGHT 033255 
+
+```
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_029972](HOUSE_OVERSIGHT_029972.md) - 3 shared entities
+- [HOUSE_OVERSIGHT_023731](HOUSE_OVERSIGHT_023731.md) - 3 shared entities
+- [HOUSE_OVERSIGHT_017526](HOUSE_OVERSIGHT_017526.md) - 3 shared entities
+- [HOUSE_OVERSIGHT_011170](HOUSE_OVERSIGHT_011170.md) - 3 shared entities
+- [HOUSE_OVERSIGHT_033209](HOUSE_OVERSIGHT_033209.md) - 2 shared entities

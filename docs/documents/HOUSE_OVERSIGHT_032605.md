@@ -1,0 +1,42 @@
+# HOUSE_OVERSIGHT_032605
+
+## Document Metadata
+
+**Bates ID:** HOUSE_OVERSIGHT_032605  
+**Pages:** 1  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [High 
+Jeffrey](../entities/people/high-jeffrey.md) - 1 mention
+
+### Organizations
+- [Trump](../entities/organizations/trump.md) - 1 mention
+
+## Document Text
+
+```
+From: 
+Sent: 9/11/2017 6:33:39 PM 
+To: jeffrey E. [jeevacation@gmail.com] 
+Subject: Interview with Futurism 
+Importance: **High 
+Jeffrey**, https://futurism.com/ editor (fast-growing media about science with over 25m unique readers) 
+would like to have an interview with you. Same topic: **Trump**'s cuts on science and your philanthropy. 
+Would you be open to talk to them? 
+HOUSE OVERSIGHT 032605 
+
+```
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_032800](HOUSE_OVERSIGHT_032800.md) - 2 shared entities
+- [HOUSE_OVERSIGHT_032563](HOUSE_OVERSIGHT_032563.md) - 2 shared entities
+- [HOUSE_OVERSIGHT_032532](HOUSE_OVERSIGHT_032532.md) - 2 shared entities
+- [HOUSE_OVERSIGHT_032525](HOUSE_OVERSIGHT_032525.md) - 2 shared entities
+- [HOUSE_OVERSIGHT_032511](HOUSE_OVERSIGHT_032511.md) - 2 shared entities

@@ -1,0 +1,67 @@
+# Thu, Apr 28
+
+**Type:** Events  
+**Total Mentions:** 8  
+**Documents:** 8
+
+## Name Variants
+
+- Thu, Apr 28
+
+## Related Documents
+
+Top 8 documents by mention frequency:
+
+- [HOUSE_OVERSIGHT_028968](../../documents/HOUSE_OVERSIGHT_028968.md) - 1 mention
+- [HOUSE_OVERSIGHT_028970](../../documents/HOUSE_OVERSIGHT_028970.md) - 1 mention
+- [HOUSE_OVERSIGHT_028972](../../documents/HOUSE_OVERSIGHT_028972.md) - 1 mention
+- [HOUSE_OVERSIGHT_029255](../../documents/HOUSE_OVERSIGHT_029255.md) - 1 mention
+- [HOUSE_OVERSIGHT_029831](../../documents/HOUSE_OVERSIGHT_029831.md) - 1 mention
+- [HOUSE_OVERSIGHT_029833](../../documents/HOUSE_OVERSIGHT_029833.md) - 1 mention
+- [HOUSE_OVERSIGHT_029835](../../documents/HOUSE_OVERSIGHT_029835.md) - 1 mention
+- [HOUSE_OVERSIGHT_029837](../../documents/HOUSE_OVERSIGHT_029837.md) - 1 mention
+
+## Connections
+
+### Most Frequently Co-occurring Entities
+
+**People:**
+
+- [Alan M. Dershowitz](../people/alan-m-dershowitz.md) - 8 shared documents
+- [David](../people/david.md) - 8 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 8 shared documents
+- [Epstein](../people/epstein.md) - 8 shared documents
+- [Ingram](../people/ingram.md) - 8 shared documents
+- [Is Mr](../people/is-mr.md) - 8 shared documents
+- [jeff epstein](../people/jeff-epstein.md) - 8 shared documents
+- [Jeffrey E](../people/jeffrey-e.md) - 8 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 8 shared documents
+- [MARTIN G. WEINBERG](../people/martin-g-weinberg.md) - 8 shared documents
+
+**Organizations:**
+
+- [HOUSE](../organizations/house.md) - 8 shared documents
+- [Reuters](../organizations/reuters.md) - 8 shared documents
+- [Reuters News](../organizations/reuters-news.md) - 8 shared documents
+
+**Locations:**
+
+- [California](../locations/california.md) - 8 shared documents
+
+**Events:**
+
+- [Thursday, April 28](thursday-april-28.md) - 8 shared documents
+- [2016](2016.md) - 8 shared documents
+- [this week](this-week.md) - 8 shared documents
+- [1994](1994.md) - 8 shared documents
+- [April 28, 2016](april-28-2016.md) - 8 shared documents
+- [12:14 PM](1214-pm.md) - 8 shared documents
+- [12:14:37 PM EDT](121437-pm-edt.md) - 8 shared documents
+- [12:20 PM](1220-pm.md) - 8 shared documents
+- [4/28/2016](4282016.md) - 8 shared documents
+- [Apr 28, 2016](apr-28-2016.md) - 8 shared documents
+
+## Timeline
+
+*Timeline data will be available when document dates are fully processed.*

@@ -1,0 +1,37 @@
+# Tuesday, August 21, 2018
+
+**Type:** Events  
+**Total Mentions:** 9  
+**Documents:** 5
+
+## Name Variants
+
+- Tuesday, August 21, 2018
+
+## Related Documents
+
+Top 5 documents by mention frequency:
+
+- [HOUSE_OVERSIGHT_032796](../../documents/HOUSE_OVERSIGHT_032796.md) - 3 mentions
+- [HOUSE_OVERSIGHT_032798](../../documents/HOUSE_OVERSIGHT_032798.md) - 2 mentions
+- [HOUSE_OVERSIGHT_033108](../../documents/HOUSE_OVERSIGHT_033108.md) - 2 mentions
+- [HOUSE_OVERSIGHT_032795](../../documents/HOUSE_OVERSIGHT_032795.md) - 1 mention
+- [HOUSE_OVERSIGHT_033107](../../documents/HOUSE_OVERSIGHT_033107.md) - 1 mention
+
+## Connections
+
+### Most Frequently Co-occurring Entities
+
+**People:**
+
+- [Mr. Cohen](../people/cohen.md) - 5 shared documents
+- [Jeffrey E. 
+Sent](../people/jeffrey-e-sent.md) - 5 shared documents
+
+**Events:**
+
+- [August 21, 2018](august-21-2018.md) - 5 shared documents
+
+## Timeline
+
+*Timeline data will be available when document dates are fully processed.*

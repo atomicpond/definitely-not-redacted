@@ -1,0 +1,69 @@
+# HOUSE_OVERSIGHT_026010
+
+## Document Metadata
+
+**Bates ID:** HOUSE_OVERSIGHT_026010  
+**Pages:** 1  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [Thomas Jr](../entities/people/thomas-jr.md) - 1 mention
+- [Thomas Jr.](../entities/people/thomas-jr.md) - 1 mention
+
+### Organizations
+- [New York Times](../entities/organizations/new-york-times.md) - 1 mention
+
+### Locations
+- [India](../entities/locations/india.md) - 1 mention
+
+## Document Text
+
+```
+Date: Saturday, October 8 2016 08:28 PM 
+Subject: Re: Take a look at this... 
+From: Landon **Thomas Jr**. 
+To: jeffrey E. <jeevacation@gmail.com>; 
+What are the trump money guys saying now? 
+Sent from my iPhone 
+On Oct 8, 2016, at 4:24 PM, jeffrey E. <jeevacation(&,gmail.com > wrote: 
+ok 
+On Sat, Oct 8, 2016 at 3:11 PM, **Thomas Jr**., Landon <_______________________I> wrote: 
+Would interested to see what Bill Gates thinks of this story. He is backing these PE guys who are putting 
+their money in private hospitals in **India**/Africa. Pretty interesting stuff. 
+http ://www.nytimes c om/2016/ 10/09/bus iness/dealb o ok/an- investors-  plan-to-transplant-private-health-
+care-in- afric a. html?rref=collection%2Fbyline% 2F landon- thomas-jr. & action= c lick& c ontentC ollection=  
+undefined &region=stream &mo dule=stre am unit &version= latest& c ontentP lac ement=1  & 
+Pgtvpe=collection& r=0  
+Landon Thomas, Jr. 
+Financial Reporter 
+**New York Times** 
+http://topics.nytimes.com/top/ reference/timestopics/people/ t/landon jr thomas/index.html 
+please note 
+The information contained in this communication is 
+confidential, may be attorney-client privileged, may 
+constitute inside information, and is intended only for 
+the use of the addressee. It is the property of 
+JEE 
+Unauthorized use, disclosure or copying of this 
+communication or any part thereof is strictly prohibited 
+and may be unlawful. If you have received this 
+communication in error, please notify us immediately by 
+return e-mail or by e-mail to jeevacation@gmail.com , and 
+destroy this communication and all copies thereof, 
+including all attachments. copyright -all rights reserved 
+HOUSE OVERSIGHT 026010 
+
+```
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_026074](HOUSE_OVERSIGHT_026074.md) - 3 shared entities
+- [HOUSE_OVERSIGHT_025295](HOUSE_OVERSIGHT_025295.md) - 3 shared entities
+- [HOUSE_OVERSIGHT_023717](HOUSE_OVERSIGHT_023717.md) - 3 shared entities
+- [HOUSE_OVERSIGHT_023635](HOUSE_OVERSIGHT_023635.md) - 3 shared entities
+- [HOUSE_OVERSIGHT_022949](HOUSE_OVERSIGHT_022949.md) - 3 shared entities

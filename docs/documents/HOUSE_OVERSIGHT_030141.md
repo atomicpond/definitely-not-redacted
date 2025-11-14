@@ -1,0 +1,61 @@
+# HOUSE_OVERSIGHT_030141
+
+## Document Metadata
+
+**Bates ID:** HOUSE_OVERSIGHT_030141  
+**Pages:** 1  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [On Feb](../entities/people/on-feb.md) - 1 mention
+
+### Organizations
+- [HOUSE](../entities/organizations/house.md) - 1 mention
+
+### Locations
+- [Latham](../entities/locations/latham.md) - 1 mention
+
+### Events/Dates
+- [today](../entities/events/today.md) - 1 mention
+- [6:26 PM](../entities/events/626-pm.md) - 1 mention
+
+## Document Text
+
+```
+From: Kathy Ruemmle 
+Sent: 2/2/2019 12:56:59 AM 
+To: J [jeeyacation@gmail.com] 
+Subject: Re: 
+Importance: High 
+Got it. Quinn offered a $2 mm signing bonus **today**. I said not leaving **Latham**. 
+**On Feb** 1, 2019, at **6:26 PM**, J <jeevacation@gmail.com> wrote: 
+do you think trump has the power to declare a national emergency to build the wall? 
+please note 
+The information contained in this communication is 
+confidential, may be attorney-client privileged, may 
+constitute inside information, and is intended only for 
+the use of the addressee. It is the property of 
+JEE 
+Unauthorized use, disclosure or copying of this 
+communication or any part thereof is strictly prohibited 
+and may be unlawful. If you have received this 
+communication in error, please notify us immediately by 
+return e-mail or by e-mail to jeevacation@gmail.com, and 
+destroy this communication and all copies thereof, 
+including all attachments. copyright -all rights reserved 
+**HOUSE** OVERSIGHT 030141 
+
+```
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_029549](HOUSE_OVERSIGHT_029549.md) - 3 shared entities
+- [HOUSE_OVERSIGHT_029545](HOUSE_OVERSIGHT_029545.md) - 3 shared entities
+- [HOUSE_OVERSIGHT_028775](HOUSE_OVERSIGHT_028775.md) - 3 shared entities
+- [HOUSE_OVERSIGHT_028648](HOUSE_OVERSIGHT_028648.md) - 3 shared entities
+- [HOUSE_OVERSIGHT_026835](HOUSE_OVERSIGHT_026835.md) - 3 shared entities

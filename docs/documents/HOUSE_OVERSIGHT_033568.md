@@ -1,0 +1,130 @@
+# HOUSE_OVERSIGHT_033568
+
+## Document Metadata
+
+**Bates Range:** HOUSE_OVERSIGHT_033568 to HOUSE_OVERSIGHT_033574  
+**Pages:** 13  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [Jeff Bezos](../entities/people/jeff-bezos.md) - 2 mentions
+- [paul krassner](../entities/people/paul-krassner.md) - 2 mentions
+- [Donald 
+Trump](../entities/people/donald-trump.md) - 2 mentions
+- [Saudi Arabia](../entities/people/saudi-arabia.md) - 1 mention
+- [Danny](../entities/people/danny.md) - 1 mention
+- [Washington Post](../entities/people/washington-post.md) - 1 mention
+- [Roger stone](../entities/people/roger-stone.md) - 1 mention
+- [Schultz](../entities/people/schultz.md) - 1 mention
+
+### Organizations
+- [Starbucks](../entities/organizations/starbucks.md) - 7 mentions
+- [Amazon](../entities/organizations/amazon.md) - 1 mention
+- [the Washington Post](../entities/organizations/the-washington-post.md) - 1 mention
+
+### Locations
+- [Saudi Arabia](../entities/locations/saudi-arabia.md) - 1 mention
+- [Seattle](../entities/locations/seattle.md) - 1 mention
+
+### Events/Dates
+- [last year](../entities/events/last-year.md) - 1 mention
+- [these days](../entities/events/these-days.md) - 1 mention
+- [a day](../entities/events/a-day.md) - 1 mention
+- [week](../entities/events/week.md) - 1 mention
+
+## Document Text
+
+```
+From: 
+Sent: 
+To: 
+**paul krassner** 
+2/10/2019 12:09:30 AM 
+; Tom 
+Goldberg ; Kevin Bright 
+Michael Simmons ; Lee Quarnstrom 
+__________________________________; LARRY SLOMAN 
+; W&K 
+; Jay Levin 
+Subject: Fwd: Daryl Cagle's Blog 
+Begin forwarded message: 
+From: Daryl Cagle c> 
+Subject: Daryl Cagle's Blog 
+Date: February 9, 2019 at 3:03:36 PM PST 
+To: **paul krassner** < > 
+Reply-To: Daryl Cagle <.> 
+• George Krassner 
+; Daniel Dawson 
+; Walli Leff 
+; **Danny** 
+; Lanny Swerdlow 
+; HARRY SHEARER 
+HOUSE OVERSIGHT 033568 
+Howard Schult 
+By Daryl Cagle on Feb 09, 2019 12:13 pm 
+I forgot to post my cartoon from **week** before last, about Howard **Schultz**, the prospective independent presidential 
+candidate, billionaire and **Starbucks** magnate. **Schultz** threatens to split the vote for a Democratic party candidate, 
+possibly throwing the election to Donald Trump. 
+HOUSE OVERSIGHT 033569 
+The two legged **Starbucks** mermaid logo is so disturbing that I love to 
+draw it whenever I can. Here's the original **Starbucks** logo, that customers didn't like. 
+HOUSE OVERSIGHT 033570 
+The logo was intended to depict the merger of two coffee companies, the original **Starbucks** and Howard **Schultz**'s 
+company, // Gomale that purchased **Starbucks**. **Starbucks** has a nautical theme to go with the character of **Seattle**. 
+"Starbuck" was the name of the first mate in the novel Moby Dick. 
+This two legged, merger-mermaid is nasty, which makes it great fodder for cartoons. I drew the mermaid **last year** when 
+there was a racism scandal at **Starbucks**, leading the company to shut down for **a day** to do racial sensitivity training. This 
+logo-fish-girl would scare anybody! 
+Read in browser »  
+**Jeff Bezos** and David Pecker 
+By Daryl Cagle on Feb 08, 2019 06:04 pm 
+Here's my new cartoon on the world's richest man, **Amazon**'s **Jeff Bezos**, and the National Enquirer's (AM I) CEO David 
+Pecker, who was blackmailing Bezos. Pecker's AMI was extorting Bezos, demanding that **the **Washington Post**** (which 
+HOUSE OVERSIGHT 033571 
+Bezos owns) hold back publication on their investigation of AMI, and that Bezos stop a private investigator he hired to look 
+into AMI — otherwise they would publish photos of Bezos' penis. Bezos was brave to expose Pecker's extortion. 
+It is interesting that Pecker and AMI seems to have such success with blackmail that his attorneys didn't step back to think 
+of what would happen if the person they were blackmailing simply made their emails public. 
+AMI is looking pretty sleazy **these days**, with likely links to ****Saudi Arabia****, and a reported safe full of Donald Trump secrets, 
+among other tawdry stuff. So, I took advantage of Pecker's dickish name and pulled Pecker's pants down. Some cartoons 
+are fun to draw — even if editors won't publish them much. 
+Read in browser »  
+Recent Articles: 
+Chinese Hackers! Ouch!  
+Randy and the National Lampoon  
+Dik Browne: Hot Golfer  
+The Best of **Roger stone**  
+Trump Knocked Out!  
+HOUSE OVERSIGHT 033572 
+Share This Newsletter 
+Share 
+Tweet 
++1 
+Share 
+Forward 
+Follow Me Online 
+Facebook 
+Page 
+=X' 
+@dcagle 
+DarylCagle.com 
+HOUSE OVERSIGHT 033573 
+This email was sent to ______________ 
+why did I get this? unsubscribe from this list update subscription preferences 
+Cagle Cartoons, Inc. • P.O. Box 22342 • Santa Barbara, CA 93121 • USA 
+HOUSE OVERSIGHT 033574 
+
+```
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_015032](HOUSE_OVERSIGHT_015032.md) - 8 shared entities
+- [HOUSE_OVERSIGHT_019874](HOUSE_OVERSIGHT_019874.md) - 7 shared entities
+- [HOUSE_OVERSIGHT_019477](HOUSE_OVERSIGHT_019477.md) - 7 shared entities
+- [HOUSE_OVERSIGHT_013796](HOUSE_OVERSIGHT_013796.md) - 7 shared entities
+- [HOUSE_OVERSIGHT_027849](HOUSE_OVERSIGHT_027849.md) - 6 shared entities

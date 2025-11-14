@@ -1,0 +1,161 @@
+# HOUSE_OVERSIGHT_016695
+
+## Document Metadata
+
+**Bates ID:** HOUSE_OVERSIGHT_016695  
+**Pages:** 1  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [SUSAN S](../entities/people/susan-s.md) - 1 mention
+- [ROUSSEAU LILLIAN](../entities/people/rousseau-lillian.md) - 1 mention
+- [JAMES M](../entities/people/james-m.md) - 1 mention
+- [ROBERT L](../entities/people/robert-l.md) - 1 mention
+- [HOLLIS EARL](../entities/people/hollis-earl.md) - 1 mention
+- [NASSER JOSEPH](../entities/people/nasser-joseph.md) - 1 mention
+- [ROBERT G JR TRUST](../entities/people/robert-g-jr-trust.md) - 1 mention
+- [ROBERT G](../entities/people/robert-g.md) - 1 mention
+- [BARBARA FRED](../entities/people/barbara-fred.md) - 1 mention
+- [ACKERMAN JUDITH](../entities/people/ackerman-judith.md) - 1 mention
+
+### Organizations
+- [HOUSE](../entities/organizations/house.md) - 1 mention
+- [White House](../entities/organizations/white-house.md) - 1 mention
+- [LLC](../entities/organizations/llc.md) - 1 mention
+- [Apple](../entities/organizations/apple.md) - 1 mention
+- [Ford](../entities/organizations/ford.md) - 1 mention
+- [Chanel](../entities/organizations/chanel.md) - 1 mention
+- [ASSOC](../entities/organizations/assoc.md) - 1 mention
+- [McDonald](../entities/organizations/mcdonald.md) - 1 mention
+- [OCHSTEIN](../entities/organizations/ochstein.md) - 1 mention
+- [CASA](../entities/organizations/casa.md) - 1 mention
+
+### Locations
+- [Florida](../entities/locations/florida.md) - 1 mention
+- [Palm Beach](../entities/locations/palm-beach.md) - 1 mention
+- [Miami](../entities/locations/miami.md) - 1 mention
+- [Virginia](../entities/locations/virginia.md) - 1 mention
+- [Palm Beach County](../entities/locations/palm-beach-county.md) - 1 mention
+- [Georgia](../entities/locations/georgia.md) - 1 mention
+- [Orlando](../entities/locations/orlando.md) - 1 mention
+- [Holland](../entities/locations/holland.md) - 1 mention
+- [Cyprus](../entities/locations/cyprus.md) - 1 mention
+- [Charlotte](../entities/locations/charlotte.md) - 1 mention
+
+### Events/Dates
+- [2007](../entities/events/2007.md) - 1 mention
+- [2006](../entities/events/2006.md) - 1 mention
+- [2005](../entities/events/2005.md) - 1 mention
+- [2001](../entities/events/2001.md) - 1 mention
+- [2002](../entities/events/2002.md) - 1 mention
+- [2000](../entities/events/2000.md) - 1 mention
+- [2003](../entities/events/2003.md) - 1 mention
+- [1998](../entities/events/1998.md) - 1 mention
+- [1995](../entities/events/1995.md) - 1 mention
+- [1997](../entities/events/1997.md) - 1 mention
+
+## Document Text
+
+```
+﻿Sheet2
+EDQUAT Data Total 
+C Sum of EDUD47 3570472911 
+ Count of EDOFNM 1597 
+M Sum of EDUD47 4293658899 
+ Count of EDOFNM 2920 
+N Sum of EDUD47 3147055552 
+ Count of EDOFNM 1169 
+S Sum of EDUD47 1653300671 
+ Count of EDOFNM 3862 
+Total Sum of EDUD47  12664488033 
+Total Count of EDOFNM  9548 
+Legend 
+N North of Wells Road 
+M South of Wells Road to Hammon 
+C South of Hammon to Sloans Curve 
+S South of Sloans Curve 
+
+taxable
+EDQUAT EDAPN# EDOLNM EDOFNM EDPADD EDPSUT EDUD53 EDUD48 EDUD47 
+C 50-43-43-26-00-001-0010-001 PALM BEACH TOWN OF   65000 65000 0 
+C 50-43-43-26-00-001-0020-001 EVERGLADES CLUB INC   9014329 0 9014329 
+C 50-43-43-26-00-001-0040-001 EXTOR E & MARY J   745631 0 745631 
+C 50-43-43-26-00-001-0050-001 EXTOR MARY J   365370 25500 339870 
+C 50-43-43-26-00-001-0070-001 WETENHALL ROBERT C &   400000 0 400000 
+C 50-43-43-26-00-001-0080-001 COLONY HOTEL INC   6400000 0 6400000 
+C 50-43-43-26-00-001-0130-001 WETENHALL ROBERT C &   3200000 0 3200000 
+C 50-43-43-26-00-001-0160-001 PALM BEACH TOWN OF   65800 65800 0 
+C 50-43-43-26-00-001-0170-001 PALM BEACH TOWN OF   198383 198383 0 
+C 50-43-43-26-00-002-0020-001 MYERS STEPHEN E   16938315 25000 16913315 
+C 50-43-43-26-00-002-0030-001 KREHBIEL F A II & KATHLEEN K   9229356 0 9229356 
+C 50-43-43-26-00-002-0040-001 COHEN JACQUES &   1662890 25000 1637890 
+C 50-43-43-26-00-002-0050-001 EL VEDADO LLC   16291989 0 16291989 
+C 50-43-43-26-00-002-0060-001 BRUNNER FRED M   6595010 0 6595010 
+C 50-43-43-26-00-002-0070-001 SHALEK BERDONNA WEINGARTEN   2300301 25000 2275301 
+C 50-43-43-26-00-002-0080-001 SCHUSTER GERALD   11046789 25000 11021789 
+C 50-43-43-26-00-002-0090-001 FANJUL JOSE F & EMILIA M   3093283 25000 3068283 
+C 50-43-43-26-00-002-0110-001 TRUMP IVANA   7879455 25000 7854455 
+C 50-43-43-26-00-002-0120-001 SILVER LADY MANAGEMENT LLC   8084840 0 8084840 
+C 50-43-43-26-00-002-0130-001 CEMENT POND HOLDINGS LLC   4855645 0 4855645 
+C 50-43-43-26-00-002-0150-001 VLAHOS DEAN &   7599839 0 7599839 
+C 50-43-43-26-00-002-0160-001 BANYAN VENTURE   4705668 0 4705668 
+C 50-43-43-26-00-002-0170-001 700 SOUTH OCEAN LLC   7402510 0 7402510 
+C 50-43-43-26-00-002-0180-001 BERMAN MARTIN L   4534810 25000 4509810 
+C 50-43-43-26-00-002-0190-001 CHARLES S ROBERT FUND OAR LLC   17482684 0 17482684 
+C 50-43-43-26-00-002-0200-001 BARDES MERRILYN   6231971 25000 6206971 
+C 50-43-43-26-00-002-0210-001 TRUE 680   7667532 0 7667532 
+C 50-43-43-26-00-002-0220-001 CLOUD MARJORIE E   895727 25500 870227 
+C 50-43-43-26-00-002-0230-001 SCHWARTZ GERALD W   6732509 0 6732509 
+C 50-43-43-26-00-002-0240-001 SINCLAIR CHRISTOPHER A &   5228330 0 5228330 
+C 50-43-43-26-00-002-0250-001 VAN SCHAICK D L   5242121 25500 5216621 
+C 50-43-43-26-00-002-0260-001 ALLEN JOSEPH   5283582 25000 5258582 
+C 50-43-43-26-00-002-0270-001 DIXON F EUGENE JR   15889240 0 15889240 
+C 50-43-43-26-00-002-0280-001 POWELL WILLIAM W   6130174 25000 6105174 
+C 50-43-43-26-00-002-0290-001 SAMSON PB LLC   5250000 0 5250000 
+C 50-43-43-26-00-002-0300-001 SLIFKA ALFRED   6615600 25000 6590600 
+C 50-43-43-26-00-002-0310-001 KAHN GILBERT S &   6588338 0 6588338 
+C 50-43-43-26-00-002-0320-001 BOCKMANN MARIA K   2696780 25000 2671780 
+C 50-43-43-26-00-002-0330-001 NORRIS PATRICIA G   951134 25500 925634 
+C 50-43-43-26-00-002-0340-001 HANLEY WILLIAM L JR   3479292 25000 3454292 
+C 50-43-43-26-00-002-0350-001 MILLER FRANK A   2012912 25000 1987912 
+C 50-43-43-26-00-002-0360-001 LOW K PRESCOTT &   4139878 25000 4114878 
+C 50-43-43-26-00-002-0370-001 RAMSING THOR H   1604740 25000 1579740 
+C 50-43-43-26-00-002-0380-001 RATHBORNE CAROL SIMMONS   3719535 25000 3694535 
+C 50-43-43-26-00-002-0390-001 MCATEE JOHN J JR &   3066170 25000 3041170 
+C 50-43-43-26-00-002-0400-001 BALLINGER WYNNE S   2878253 25000 2853253 
+C 50-43-43-26-00-002-0410-001 BELL LOWRY M JR & DIANA M   4014741 25000 3989741 
+C 50-43-43-26-00-002-0420-001 KOZLOFF PAUL J   5624229 25000 5599229 
+C 50-43-43-26-00-002-0430-001 **ROUSSEAU LILLIAN**   3048608 25500 3023108 
+C 50-43-43-26-00-002-0450-001 TOLL BRUCE E &   14201516 25000 14176516 
+C 50-43-43-26-00-002-0460-001 DIAMOND JANICE   10132855 25000 10107855 
+C 50-43-43-26-00-002-0480-001 CURTIS ALAN & CHRISTINE W   6102258 25000 6077258 
+C 50-43-43-26-00-002-0500-001 LUMSDEN GARY R   1825735 25000 1800735 
+C 50-43-43-26-00-002-0510-001 BERGER DAVID TR   5923821 0 5923821 
+C 50-43-43-26-00-002-0520-001 ENGELSTEIN ALEC &   7946218 25000 7921218 
+C 50-43-43-26-00-002-0530-001 CONDREN WILLIAM J   4740532 25000 4715532 
+C 50-43-43-26-00-002-0540-001 DUNN WILLIAM A   7603667 25000 7578667 
+C 50-43-43-26-00-002-0550-001 CANTOR IRIS   9037026 25500 9011526 
+C 50-43-43-26-01-002-0011-001 BCD INVESTORS LLP   3566420 0 3566420 
+C 50-43-43-26-01-002-0012-001 SIRENITY INVESTORS LTD   1206253 0 1206253 
+C 50-43-43-26-01-002-0051-001 SLOANE A RICHARD   2761867 0 2761867 
+C 50-43-43-26-01-002-0052-001 CUMMINGS-KARP HELENE   2744538 25000 2719538 
+C 50-43-43-26-01-002-0061-001 LIGGETT **ROBERT G JR TRUST**   2560135 0 2560135 
+C 50-43-4
+```
+
+*[Text truncated to 5000 characters]*
+
+---
+
+## Related Documents
+
+**Parent Document:** [HOUSE_OVERSIGHT_016552](HOUSE_OVERSIGHT_016552.md)
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_016696](HOUSE_OVERSIGHT_016696.md) - 202 shared entities
+- [HOUSE_OVERSIGHT_016552](HOUSE_OVERSIGHT_016552.md) - 202 shared entities
+- [HOUSE_OVERSIGHT_016698](HOUSE_OVERSIGHT_016698.md) - 199 shared entities
+- [HOUSE_OVERSIGHT_016694](HOUSE_OVERSIGHT_016694.md) - 168 shared entities
+- [HOUSE_OVERSIGHT_016600](HOUSE_OVERSIGHT_016600.md) - 63 shared entities

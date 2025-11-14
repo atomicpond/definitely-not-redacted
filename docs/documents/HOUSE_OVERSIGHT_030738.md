@@ -1,0 +1,94 @@
+# HOUSE_OVERSIGHT_030738
+
+## Document Metadata
+
+**Bates Range:** HOUSE_OVERSIGHT_030738 to HOUSE_OVERSIGHT_030739  
+**Pages:** 3  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [Steve Bannon](../entities/people/steve-bannon.md) - 6 mentions
+- [Jeffrey E](../entities/people/jeffrey-e.md) - 2 mentions
+- [jeffrey E. <](../entities/people/jeffrey-e.md) - 1 mention
+
+### Organizations
+- [HOUSE](../entities/organizations/house.md) - 2 mentions
+- [Trump](../entities/organizations/trump.md) - 2 mentions
+- [GOP](../entities/organizations/gop.md) - 2 mentions
+- [AT&T](../entities/organizations/att.md) - 1 mention
+- [BlackBerry](../entities/organizations/blackberry.md) - 1 mention
+
+### Locations
+- [Sun](../entities/locations/sun.md) - 2 mentions
+- [Europe](../entities/locations/europe.md) - 1 mention
+
+### Events/Dates
+- [November](../entities/events/november.md) - 1 mention
+
+## Document Text
+
+```
+From: **Steve Bannon** 
+Sent: 8/20/2018 2:28:22 AM 
+To: **Jeffrey E**. [jeevacation@gmail.com] 
+Subject: Re: **Steve Bannon** says **GOP** must rally behind **Trump** to survive I News & Observer 
+Importance: High 
+Exactly 
+But somebody big has u in the gunsights 
+On Aug 19, 2018, at 10:27 PM, ****Jeffrey E**. <**jeevacation@gmail.com> wrote: 
+yes . no worry, **November** too important to risk diversion, mission first 
+On **Sun**, Aug 19, 2018 at 10:21 PM, **Steve Bannon** > wrote: 
+Yes 
+but let's discuss--their is a crazed jihad against u--ive never seen anything like it--and I've seen a lot 
+Sent via **BlackBerry** by **AT&T** 
+From: "**Jeffrey E**." <jeevacation@gmail.com> 
+Date: **Sun**, 19 Aug 2018 22:17:38 -0400 
+To: **Steve Bannon**< 
+Subject: Re: **Steve Bannon** says **GOP** must rally behind **Trump** to survive News & Observer 
+AHHHH thats more like it „ we need to find you the exorcist hat. ! . do you think you might want to 
+come to **Europe**? 
+On **Sun**, Aug 19, 2018 at 9:41 PM, **Steve Bannon** < > wrote: 
+https://www.newsobserver.com/news/business/article216997195.html 
+please note 
+The information contained in this communication is 
+confidential, may be attorney-client privileged, may 
+constitute inside information, and is intended only for 
+the use of the addressee. It is the property of 
+JEE 
+Unauthorized use, disclosure or copying of this 
+communication or any part thereof is strictly prohibited 
+and may be unlawful. If you have received this 
+communication in error, please notify us immediately by 
+return e-mail or by e-mail to jeevacation@gmail.com, and 
+destroy this communication and all copies thereof, 
+including all attachments. copyright -all rights reserved 
+**HOUSE** OVERSIGHT 030738 
+please note 
+The information contained in this communication is 
+confidential, may be attorney-client privileged, may 
+constitute inside information, and is intended only for 
+the use of the addressee. It is the property of 
+JEE 
+Unauthorized use, disclosure or copying of this 
+communication or any part thereof is strictly prohibited 
+and may be unlawful. If you have received this 
+communication in error, please notify us immediately by 
+return e-mail or by e-mail to jeevacation@gmail.com, and 
+destroy this communication and all copies thereof, 
+including all attachments. copyright -all rights reserved 
+**HOUSE** OVERSIGHT 030739 
+
+```
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_030797](HOUSE_OVERSIGHT_030797.md) - 11 shared entities
+- [HOUSE_OVERSIGHT_030737](HOUSE_OVERSIGHT_030737.md) - 9 shared entities
+- [HOUSE_OVERSIGHT_030781](HOUSE_OVERSIGHT_030781.md) - 7 shared entities
+- [HOUSE_OVERSIGHT_030734](HOUSE_OVERSIGHT_030734.md) - 7 shared entities
+- [HOUSE_OVERSIGHT_030712](HOUSE_OVERSIGHT_030712.md) - 7 shared entities

@@ -1,0 +1,72 @@
+# HOUSE_OVERSIGHT_029504
+
+## Document Metadata
+
+**Bates ID:** HOUSE_OVERSIGHT_029504  
+**Pages:** 1  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [Harvard University](../entities/people/harvard-university.md) - 1 mention
+- [Dear Jeff](../entities/people/dear-jeff.md) - 1 mention
+- [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 1 mention
+- [Prince 
+Andrew](../entities/people/prince-andrew.md) - 1 mention
+
+### Organizations
+- [Harvard](../entities/organizations/harvard.md) - 1 mention
+- [Harvard University](../entities/organizations/harvard-university.md) - 1 mention
+
+### Locations
+- [France](../entities/locations/france.md) - 1 mention
+
+### Events/Dates
+- [today](../entities/events/today.md) - 2 mentions
+- [19](../entities/events/19.md) - 1 mention
+
+## Document Text
+
+```
+Date: Wednesday, July 10 2019 08.07 AM 
+Subject: 
+From: 
+To: **Jeffrey Epstein** <jeevacation@grnail.corn>; 
+**Dear Jeff**, 
+I read the news papers **today**, I can't believe they arrested you again, you are the only man on the planet who 
+would never be bad with any women as you love them too much. 
+It is so untrue what they are saying. If you need my support I am there. 
+I was 19 when I meet you with our wonderful commun friend HRH Prince Andrew and you would have never 
+done anything wrong to me. 
+I meet the few lovely girls around you, they loved you and you were so good with them. They were bringing 
+you ideas, creativity, a touch of youth in this very difficult world and happiness like a young can do. 
+Nothing more! Then of course I am sure they were happy to hope to become your girlfriend as women are 
+always attracted by men of power! 
+I traveled with you to discuss my future in business, you introduced me amongst the most important scientists 
+and neuroscientists in the world at ******Harvard** University**** and you kindly advise me to continue to study. You also 
+explained to me that life is hard and business is difficult.You were feeling I should study more. All your advises 
+were so right. Thank you. 
+I feel sorry that these girls are only interested by your money. I feel sorry for that and they might be 
+manipulated by people of power who wish to do bad to the Trump gouvernement. 
+Do you remember that you asked me to be your girlfriend, I was back in **France** after our trip together in 
+**Harvard**, you tried to convince me on the phone, I refused and look **today** we stayed friends for ever. You never 
+did anything wrong as these girls are mentioning, it was up to them to be involved with you sexually, it was 
+their own decision, not your wish. 
+I don't know if you will read this message. I hope so. 
+Please receive my warmest wishes and love. 
+GMI Productions 
+HOUSE OVERSIGHT 029504 
+
+```
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_017088](HOUSE_OVERSIGHT_017088.md) - 6 shared entities
+- [HOUSE_OVERSIGHT_030030](HOUSE_OVERSIGHT_030030.md) - 5 shared entities
+- [HOUSE_OVERSIGHT_018872](HOUSE_OVERSIGHT_018872.md) - 5 shared entities
+- [HOUSE_OVERSIGHT_017526](HOUSE_OVERSIGHT_017526.md) - 5 shared entities
+- [HOUSE_OVERSIGHT_016996](HOUSE_OVERSIGHT_016996.md) - 5 shared entities

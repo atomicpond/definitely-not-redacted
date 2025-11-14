@@ -1,0 +1,60 @@
+# HOUSE_OVERSIGHT_025944
+
+## Document Metadata
+
+**Bates ID:** HOUSE_OVERSIGHT_025944  
+**Pages:** 1  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [Joe Biden](../entities/people/joe-biden.md) - 1 mention
+- [High 
+This](../entities/people/high-this.md) - 1 mention
+- [Bruce Moskowitz](../entities/people/bruce-moskowitz.md) - 1 mention
+
+### Organizations
+- [iPad](../entities/organizations/ipad.md) - 1 mention
+
+### Events/Dates
+- [yesterday](../entities/events/yesterday.md) - 1 mention
+
+## Document Text
+
+```
+From: **Bruce Moskowitz** 
+Sent: 6/30/2016 2:25:23 PM 
+To: jeffrey E. [jeeyacation@gmail.com] 
+Subject: Fwd: Research App 
+Importance: **High 
+This** is what my son Aaron developed. Read below from David Hayes at the Mayo Clinic. How do I get David's email to 
+Biden? Thanks 
+Sent from my **iPad** 
+**Bruce Moskowitz** M.D. 
+Begin forwarded message: 
+From: "Hayes, David L., M.D." < 
+Date: June 30, 2016 at 8:57:26 AM EDT 
+To: "**Bruce Moskowitz** 
+Subject: Research App 
+)" < 
+Bruce — thought of you when watching the evening news **yesterday**. **Joe Biden** was being interviewed about his work on 
+"Cancer Moonshot" or something like that. He said that they were working on or planned to work on a database/app 
+that has never before been done, that would allow a patient or a physician to see who was doing research on a specific 
+tumor anywhere in the world. 
+You've already got it. You have connections everywhere, you should get to Biden on that work group. 
+David 
+HOUSE OVERSIGHT 025944 
+
+```
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_023201](HOUSE_OVERSIGHT_023201.md) - 3 shared entities
+- [HOUSE_OVERSIGHT_033207](HOUSE_OVERSIGHT_033207.md) - 2 shared entities
+- [HOUSE_OVERSIGHT_033198](HOUSE_OVERSIGHT_033198.md) - 2 shared entities
+- [HOUSE_OVERSIGHT_032404](HOUSE_OVERSIGHT_032404.md) - 2 shared entities
+- [HOUSE_OVERSIGHT_032394](HOUSE_OVERSIGHT_032394.md) - 2 shared entities

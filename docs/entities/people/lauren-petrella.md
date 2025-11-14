@@ -1,0 +1,52 @@
+# lauren petrella
+
+**Type:** People  
+**Total Mentions:** 6  
+**Documents:** 6
+
+## Name Variants
+
+- lauren petrella
+
+## Related Documents
+
+Top 6 documents by mention frequency:
+
+- [HOUSE_OVERSIGHT_031452](../../documents/HOUSE_OVERSIGHT_031452.md) - 1 mention
+- [HOUSE_OVERSIGHT_031454](../../documents/HOUSE_OVERSIGHT_031454.md) - 1 mention
+- [HOUSE_OVERSIGHT_031457](../../documents/HOUSE_OVERSIGHT_031457.md) - 1 mention
+- [HOUSE_OVERSIGHT_031599](../../documents/HOUSE_OVERSIGHT_031599.md) - 1 mention
+- [HOUSE_OVERSIGHT_031601](../../documents/HOUSE_OVERSIGHT_031601.md) - 1 mention
+- [HOUSE_OVERSIGHT_031604](../../documents/HOUSE_OVERSIGHT_031604.md) - 1 mention
+
+## Connections
+
+### Most Frequently Co-occurring Entities
+
+**People:**
+
+- [Thomas Jr](thomas-jr.md) - 6 shared documents
+- [Jeffrey](jeffrey.md) - 6 shared documents
+- [Jeffrey E](jeffrey-e.md) - 6 shared documents
+- [DONALD](donald.md) - 6 shared documents
+- [Landon](landon.md) - 6 shared documents
+- [Landon Thomas](landon-thomas.md) - 6 shared documents
+- [jeffrey E. <](jeffrey-e.md) - 6 shared documents
+- [Landon Thomas Jr.](landon-thomas-jr.md) - 6 shared documents
+- [Jeff](jeff.md) - 6 shared documents
+- [jr thomas](jr-thomas.md) - 5 shared documents
+
+**Organizations:**
+
+- [HOUSE](../organizations/house.md) - 6 shared documents
+- [New York Times](../organizations/new-york-times.md) - 6 shared documents
+
+**Events:**
+
+- [fifteen years](../events/fifteen-years.md) - 6 shared documents
+- [Dec 8, 2015](../events/dec-8-2015.md) - 6 shared documents
+- [Tue, Dec 8, 2015](../events/tue-dec-8-2015.md) - 6 shared documents
+
+## Timeline
+
+*Timeline data will be available when document dates are fully processed.*

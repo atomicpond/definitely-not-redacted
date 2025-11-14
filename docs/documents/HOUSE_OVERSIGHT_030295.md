@@ -1,0 +1,163 @@
+# HOUSE_OVERSIGHT_030295
+
+## Document Metadata
+
+**Bates Range:** HOUSE_OVERSIGHT_030295 to HOUSE_OVERSIGHT_030298  
+**Pages:** 7  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [Jeffrey](../entities/people/jeffrey.md) - 2 mentions
+- [Jane Does](../entities/people/jane-does.md) - 1 mention
+- [CLINTON](../entities/people/clinton.md) - 1 mention
+- [Mr. 
+Dershowitz](../entities/people/mr-dershowitz.md) - 1 mention
+- [Maxwell](../entities/people/maxwell.md) - 1 mention
+- [andrew](../entities/people/andrew.md) - 1 mention
+- [Jeffery Epstein](../entities/people/jeffery-epstein.md) - 1 mention
+- [Jane](../entities/people/jane.md) - 1 mention
+- [J Jep](../entities/people/j-jep.md) - 1 mention
+
+### Organizations
+- [HOUSE](../entities/organizations/house.md) - 4 mentions
+- [JE](../entities/organizations/je.md) - 4 mentions
+- [Twitter](../entities/organizations/twitter.md) - 2 mentions
+- [Facebook](../entities/organizations/facebook.md) - 2 mentions
+- [Instagram](../entities/organizations/instagram.md) - 2 mentions
+- [TERRAMAR](../entities/organizations/terramar.md) - 2 mentions
+
+### Locations
+- [US](../entities/locations/us.md) - 3 mentions
+- [U.K.](../entities/locations/uk.md) - 1 mention
+
+### Events/Dates
+- [Monday](../entities/events/monday.md) - 4 mentions
+- [today](../entities/events/today.md) - 2 mentions
+- [daily](../entities/events/daily.md) - 2 mentions
+- [tomorrow](../entities/events/tomorrow.md) - 2 mentions
+- [years](../entities/events/years.md) - 1 mention
+- [January 2015](../entities/events/january-2015.md) - 1 mention
+- [the last few days](../entities/events/the-last-few-days.md) - 1 mention
+
+## Document Text
+
+```
+From: 
+Sent: 
+To: 
+Subject: 
+G **Maxwell** 
+1/11/2015 1:25:56 PM 
+**J Jep** [jeevacation@gmail.com] 
+Fw: 
+THE **TERRAMAR** PROJECT 
+**Facebook** 
+**Twitter** 
+G+ 
+PINTEREST 
+**Instagram** 
+PLEDGE 
+THE **daily** CATCH 
+From: Philip Barden 
+Sent: Sunday, 11 **January 2015** 05:27 
+To: __________ 
+Cc: G **Maxwell** 
+Subject: Re: 
+> 
+Saying nothing is reputational suicide. Even if. is discredited by people will know JE paid her off and 
+believe G was complicate absent a credible denial. 
+Now it is reported that G engaged in direct abuse - as I feared would happen. Next reports to the authorities will 
+be made. 
+It is necessary from a litigation, investigatory and reputational reason to issue a cogent denial. 
+I can see why JE doesn't want this as it may not suit him but he is already toast. 
+Philip 
+Sent from my iPhone 
+On 10 Jan 2015, at 18:42,' 
+> wrote: 
+Had Geordie on the phone half a dozen times **today**. 
+He would have give us a better hearing than most I figure. 
+Strongly believe saying nothing is the wrong thing - especially as Dershowitz has a big piece coming in The 
+Times on **Monday**. 
+Rest up and speak **Monday** 
+Best 
+Ross 
+Sent from my BlackBerry0 wireless device 
+**HOUSE** OVERSIGHT 030295 
+From: Philip Barden < 
+Date: Sat, 10 Jan 2015 18:27:12 +0000 
+To: G **Maxwell**>> 
+Cc: Ross G°w> 
+Subject: Re: 
+All 
+I am back on line now. 
+I see the statement didn't go. **Monday**? Maybe **tomorrow**? 
+> 
+I will speak to **Jeffery Epstein**'s lawyer but JE has a conflict with you and will want your silence as whilst you 
+are being attacked there is less heat on him. 
+Either is lying or not. If we let her lie without challenge then the lies become the reality and 
+that may lead to you facing investigation. These are serious allegations and In the UK prosecuting people who 
+face allegations of sex abuse is now common place and a lot of resources are focused on this. 
+We can't sit back and let you be a conspirator by silence. 
+Your are not guilty and must follow Dershowtiz line. He is a leading lawyer and he hasn't followed the don't say 
+anything for fear of litigation. He has rightly called . bluff and shouted his innocence. 
+You have to stand up and deny the allegations or be branded guilty by association and that may lead to other 
+investigations and worse. 
+I feel I am going around in circles. 
+I know what is right to do and that is to shout your innocence. 
+Try and get some rest. Call me **tomorrow** if you want anytime. 
+Speak to Deshowitz. 
+Don't allay yourself to JE as that is not the way to go. 
+Best 
+Philip 
+Sent from my iPhone 
+On 10 Jan 2015, at 16:02, "G **Maxwell**" 
+wrote: 
+I am out of my depth to understanding defamation and other legal hazards and don't want to end up in a law suit 
+**HOUSE** OVERSIGHT 030296 
+aimed at me from anyone if I can help it. Apparently even saying is a her has hazard! I have never 
+been in a suit criminal or civil and want it to stay that way. 
+The US lawyers for the ****Jane** Does** are filling additional discovery motions and if I speak I open my self to being 
+part of discovery apparently. I am trying to stay out of litigation and not have to employ lawyers for **years** as I 
+get lost in US legal nightmare. I stand no legal risk currently on these old charges and civil suits against **Jeffrey** 
+We need to consult with US lawyers on any statement I make and the complaints too 
+Perhaps we make a statement of the legal risk of saying anything for potential defamation or something that 
+prevents a full and frank detailed rebuttal + the press not being the place for that? Regardless, Philip plse call 
+**Jeffrey** lawyer and see what you can understand from him and pehaps craft something in conjunction with him? 
+Either way I think you need to speak to him to understand my risk so you can help me understand it - too may 
+cooks in the kitchen and I can't make good decisions. Plse reach out to him **today** 
++ I have already suffered such a terrible and painful loss over **the last few days** that I can't even see what life 
+after press he'll even looks like - statements that don't address all just lead to more questions. .what is my 
+relationship to **CLINTON** ? **andrew** on and on. 
+Let's rest till **Monday**. I need head space 
+THE **TERRAMAR** PROJECT 
+**Facebook** 
+**Twitter** 
+G+ 
+PINTEREST 
+**Instagram** 
+PLEDGE 
+THE **daily** CATCH 
+This email is intended for the addressee named within only. It may contain legally privileged or confidential 
+information. If you are not the named individual you should not read this email and if you do so, you must not 
+under any circumstances make use of the information therein. If you have read this email and it is not addressed 
+to you, please notify IT@devonshires.co.uk<mailto:IT@devonshires.co.uk> and confirm that it has been 
+deleted from your system and no copies made. 
+This Firm is authorised and regulated by the Solicitors Regulation Authority under the name of Devonshires 
+Solicitors and registration number 0049857. This Firm does not accept service by electronic mail or facsimile. 
+A list of partners, together with further legal statements, is avail
+```
+
+*[Text truncated to 5000 characters]*
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_031096](HOUSE_OVERSIGHT_031096.md) - 10 shared entities
+- [HOUSE_OVERSIGHT_030748](HOUSE_OVERSIGHT_030748.md) - 10 shared entities
+- [HOUSE_OVERSIGHT_030745](HOUSE_OVERSIGHT_030745.md) - 10 shared entities
+- [HOUSE_OVERSIGHT_031005](HOUSE_OVERSIGHT_031005.md) - 9 shared entities
+- [HOUSE_OVERSIGHT_032068](HOUSE_OVERSIGHT_032068.md) - 8 shared entities

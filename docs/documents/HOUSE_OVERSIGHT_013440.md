@@ -1,0 +1,103 @@
+# HOUSE_OVERSIGHT_013440
+
+## Document Metadata
+
+**Bates Range:** HOUSE_OVERSIGHT_013440 to HOUSE_OVERSIGHT_013441  
+**Pages:** 3  
+**Custodian:** Epstein, Jeffrey  
+**Date Created:** 07/29/2011  
+**Original Filename:** JudgeDeniesGagOrderinEpstienEdwardsLawsuitDismissComplaint - The Palm Beach News.pdf  
+**File Type:** PDF  
+**File Size:** 20.7 KB  
+**MD5 Hash:** `52f6e0463bff5152d254560f9cd30202`
+
+**Subject:** http://www.palmbeachdailynews.com/news/judge-denies-gag-order-i  
+
+## Entities Mentioned
+
+### People
+- [Brad Edwards](../entities/people/brad-edwards.md) - 1 mention
+- [Jack Scarola](../entities/people/jack-scarola.md) - 1 mention
+- [If Mr](../entities/people/if-mr.md) - 1 mention
+- [MICHELE DARGAN](../entities/people/michele-dargan.md) - 1 mention
+
+### Organizations
+- [Ponzi](../entities/organizations/ponzi.md) - 1 mention
+- [Daily News](../entities/organizations/daily-news.md) - 1 mention
+- [Scarola](../entities/organizations/scarola.md) - 1 mention
+- [Circuit](../entities/organizations/circuit.md) - 1 mention
+
+### Events/Dates
+- [Sunday](../entities/events/sunday.md) - 1 mention
+- [Wednesday](../entities/events/wednesday.md) - 1 mention
+- [13 months](../entities/events/13-months.md) - 1 mention
+- [58](../entities/events/58.md) - 1 mention
+- [30 days](../entities/events/30-days.md) - 1 mention
+- [earlier this year](../entities/events/earlier-this-year.md) - 1 mention
+
+## Document Text
+
+```
+﻿Print this page Close
+Judge denies gag order in Epstein, Edwards lawsuit; dismisses complaint
+By **MICHELE DARGAN**
+**Daily News** STAFF WRITER
+Updated: 7:25 p.m. **Wednesday**, July 13, 2011
+Posted: 7:11 p.m. **Wednesday**, July 13, 2011
+A **Circuit** judge **Wednesday** squashed an attempt by attorneys for Jeffrey Epstein to prevent parties in a civil lawsuit
+involving the billionaire sex offender from talking to the media.
+**Circuit** Judge David Crow denied the motion for a gag order.
+In addition, Crow dismissed the complaint by Epstein against attorney **Brad Edwards**, who has represented 10 underage
+girls in sex abuse claims brought against Epstein. Epstein alleged Edwards abused the court system by threatening to
+depose Epstein’s powerful friends, which included Donald Trump and President Bill Clinton.
+Other claims included that Edwards tried to obtain records from an alleged sex therapist who had never treated Epstein
+and that Edwards used investigative tools that included trespassing on Epstein’s property.
+Crow gave Epstein’s attorneys **30 days** to refile the lawsuit, which will be the second amended complaint and third
+evolution of the lawsuit.
+Epstein also named Edwards’ former boss, convicted **Ponzi** schemer Scott Rothstein, in the lawsuit, alleging Rothstein
+made “various representations to potential investors regarding the Epstein actions.”
+In dismissing the lawsuit, Crow said he found “serious problems” with the complaint. Crow called the lawsuit “vague.
+“You have to know, at this point in time, what he did or didn’t do that was an abuse of process,” Crow said.
+Epstein, 58, has confidentially settled more than two dozen lawsuits with young women who allege they were sexually
+abused by him when they were minors.
+Edwards filed a counterclaim, alleging Epstein filed the lawsuit to get Edwards to back down from representing the
+victims.
+“Mr. Epstein had to pay more to settle these cases than he would have **If Mr**. Edwards wasn’t out there putting all this
+pressure on him,” said attorney **Jack **Scarola****, who represents Edwards. “That’s Mr. Edwards’ job ... to put as much
+legitimate pressure on the defendant as he possibly could and he obviously did an extremely effective job.”
+Epstein pleaded guilty to two felony charges: soliciting prostitution and soliciting a minor for prostitution. He served 13
+months in the county jail and has to register as a lifelong sex offender.
+Representing Epstein, attorney Joseph Ackerman argued unsuccessfully for a gag order. Ackerman said **Scarola** has
+repeatedly made statements to several news organizations about the case.
+“Mr. **Scarola** has constantly referred to Mr. Epstein as a pedophile and there’s been no proof of that anywhere,”
+Ackerman said. “Muzzling lawyers who may wish to make public statements has been long recognized as within the
+court’s inherent power ... We don’t believe it’s appropriate to wage a media campaign and taint the jury pool.”
+**Scarola** said it would be unconstitutional to impose a gag order.
+“There is a complete and total absence of proof that we have engaged in any conduct whatsoever that could be
+prohibited,” **Scarola** said.
+**Scarola** said he and Edwards have been asked to appear on national television as well as received interview requests
+from the foreign press. **Scarola** said he has been selective in his interviews.
+There has been a frenzy in the British press ever since Virginia Roberts, an Epstein victim, spoke to the **Sunday** Daily
+Mail **earlier this year** about being introduced to Prince Andrew and spending time with him at Epstein’s behest. Roberts
+alleged she served as a sex slave to Epstein when she was a minor.
+“**If Mr**. Epstein is embarrassed by Mr. Epstein’s conduct, that’s Mr. Epstein’s problem,” **Scarola** said.
+“I’m pleased to hear he’s embarrassed by his conduct. Maybe it will serve as some deterrent in the future.”
+Find this article at:
+http://www.palmbeachdailynews.com/news/judge-denies-gag-order-in-epstein-edwards-lawsuit-1606397.html
+Print this page
+Close
+
+```
+
+---
+
+## Related Documents
+
+**Parent Document:** [HOUSE_OVERSIGHT_013403](HOUSE_OVERSIGHT_013403.md)
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_021569](HOUSE_OVERSIGHT_021569.md) - 9 shared entities
+- [HOUSE_OVERSIGHT_017935](HOUSE_OVERSIGHT_017935.md) - 8 shared entities
+- [HOUSE_OVERSIGHT_013415](HOUSE_OVERSIGHT_013415.md) - 7 shared entities
+- [HOUSE_OVERSIGHT_011908](HOUSE_OVERSIGHT_011908.md) - 6 shared entities
+- [HOUSE_OVERSIGHT_022118](HOUSE_OVERSIGHT_022118.md) - 5 shared entities

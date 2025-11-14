@@ -1,0 +1,19 @@
+# Business Expansion Portfolio
+
+**Type:** Organizations  
+**Total Mentions:** 14  
+**Documents:** 1
+
+## Name Variants
+
+- Business Expansion Portfolio
+
+## Related Documents
+
+Top 1 documents by mention frequency:
+
+- [HOUSE_OVERSIGHT_029475](../../documents/HOUSE_OVERSIGHT_029475.md) - 14 mentions
+
+## Timeline
+
+*Timeline data will be available when document dates are fully processed.*

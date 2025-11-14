@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "generated_at": "2025-11-13T22:42:52.571482",
+    "source_files": {
+      "opt": "/Users/am/Research/Epstein/Epstein Estate Documents - Seventh Production/DATA/HOUSE_OVERSIGHT_009.opt",
+      "dat": "/Users/am/Research/Epstein/Epstein Estate Documents - Seventh Production/DATA/HOUSE_OVERSIGHT_009.dat"
+    }
+  },
+  "statistics": {
+    "total_documents": 2897,
+    "total_pages": 43351,
+    "date_range": {
+      "earliest": "2005-03-21",
+      "latest": "2025-03-17"
+    },
+    "top_custodians": {
+      "Epstein, Jeffrey": 2897
+    },
+    "file_types": {
+      "pdf": 263,
+      "msg": 62,
+      "docx": 37,
+      "doc": 36,
+      "jpg": 36,
+      "ps1": 13,
+      "rtf": 12,
+      "png": 12,
+      "htm": 10,
+      "txt": 7,
+      "jpeg": 7,
+      "pptx": 3,
+      "eml": 2,
+      "4rtf": 1,
+      "mht": 1,
+      "xlsx": 1,
+      "mov": 1,
+      "dat": 1
+    },
+    "parsing_errors": 0
+  },
+  "sample_documents": [
+    {
+      "bates_id": "HOUSE_OVERSIGHT_010609",
+      "custodian": "Epstein, Jeffrey",
+      "date_created": "09/22/2016",
+      "email_subject": "No Subject",
+      "email_from": null,
+      "email_to": null,
+      "original_filename": "Trumps effect on MXN.pdf",
+      "file_extension": "pdf",
+      "page_count": 15,
+      "is_attachment": false
+    },
+    {
+      "bates_id": "HOUSE_OVERSIGHT_010735",
+      "custodian": "Epstein, Jeffrey",
+      "date_created": "02/02/2015",
+      "email_subject": "Microsoft Word - 1A6C.27.02",
+      "email_from": null,
+      "email_to": null,
+      "original_filename": "DE 306 Reply in Support of Mtn to Intervene.pdf",
+      "file_extension": "pdf",
+      "page_count": 37,
+      "is_attachment": false
+    },
+    {
+      "bates_id": "HOUSE_OVERSIGHT_011284",
+      "custodian": "Epstein, Jeffrey",
+      "date_created": null,
+      "email_subject": "AI Workshop - Adverse Outcomes & Teams",
+      "email_from": null,
+      "email_to": null,
+      "original_filename": "AI Workshop - Adverse Outcomes & Teams.pdf",
+      "file_extension": "pdf",
+      "page_count": 39,
+      "is_attachment": false
+    },
+    {
+      "bates_id": "HOUSE_OVERSIGHT_013403",
+      "custodian": "Epstein, Jeffrey",
+      "date_created": "10/19/2011",
+      "email_subject": null,
+      "email_from": null,
+      "email_to": null,
+      "original_filename": "City Spy.pdf",
+      "file_extension": "pdf",
+      "page_count": 3,
+      "is_attachment": true
+    },
+    {
+      "bates_id": "HOUSE_OVERSIGHT_014432",
+      "custodian": "Epstein, Jeffrey",
+      "date_created": "12/02/2016",
+      "email_subject": "Investment Strategy",
+      "email_from": null,
+      "email_to": null,
+      "original_filename": "Global Cross Asset Strategy - Year Ahead - The Trump inflection.pdf",
+      "file_extension": "pdf",
+      "page_count": 55,
+      "is_attachment": true
+    }
+  ],
+  "parsing_errors": []
+}

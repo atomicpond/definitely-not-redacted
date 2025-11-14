@@ -1,0 +1,81 @@
+# Monday, May 07, 2012
+
+**Type:** Events  
+**Total Mentions:** 13  
+**Documents:** 9
+
+## Name Variants
+
+- Monday, May 07, 2012
+
+## Related Documents
+
+Top 9 documents by mention frequency:
+
+- [HOUSE_OVERSIGHT_027053](../../documents/HOUSE_OVERSIGHT_027053.md) - 2 mentions
+- [HOUSE_OVERSIGHT_027056](../../documents/HOUSE_OVERSIGHT_027056.md) - 2 mentions
+- [HOUSE_OVERSIGHT_028762](../../documents/HOUSE_OVERSIGHT_028762.md) - 2 mentions
+- [HOUSE_OVERSIGHT_028765](../../documents/HOUSE_OVERSIGHT_028765.md) - 2 mentions
+- [HOUSE_OVERSIGHT_026563](../../documents/HOUSE_OVERSIGHT_026563.md) - 1 mention
+- [HOUSE_OVERSIGHT_027049](../../documents/HOUSE_OVERSIGHT_027049.md) - 1 mention
+- [HOUSE_OVERSIGHT_028768](../../documents/HOUSE_OVERSIGHT_028768.md) - 1 mention
+- [HOUSE_OVERSIGHT_028770](../../documents/HOUSE_OVERSIGHT_028770.md) - 1 mention
+- [HOUSE_OVERSIGHT_028773](../../documents/HOUSE_OVERSIGHT_028773.md) - 1 mention
+
+## Connections
+
+### Most Frequently Co-occurring Entities
+
+**People:**
+
+- [BILL](../people/bill.md) - 9 shared documents
+- [Boris Nikolic](../people/boris-nikolic.md) - 9 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 9 shared documents
+- [Boris Nikolic 
+Subject](../people/boris-nikolic-subject.md) - 7 shared documents
+- [CLINTON](../people/clinton.md) - 7 shared documents
+- [Floor New York](../people/floor-new-york.md) - 7 shared documents
+- [Guy](../people/guy.md) - 7 shared documents
+- [Hi Kevin](../people/hi-kevin.md) - 7 shared documents
+- [High 
+Boris](../people/high-boris.md) - 7 shared documents
+- [Jeffrey](../people/jeffrey.md) - 7 shared documents
+
+**Organizations:**
+
+- [HOUSE](../organizations/house.md) - 9 shared documents
+- [Jeffrey 
+Importance:](../organizations/jeffrey-importance.md) - 7 shared documents
+- [Lifeball](../organizations/lifeball.md) - 7 shared documents
+- [Mini](../organizations/mini.md) - 7 shared documents
+- [The 
+Foundation](../organizations/the-foundation.md) - 7 shared documents
+- [The Foundation for AIDS Research](../organizations/the-foundation-for-aids-research.md) - 7 shared documents
+- [Tix](../organizations/tix.md) - 7 shared documents
+- [Magdalena 
+Schuster](../organizations/magdalena-schuster.md) - 5 shared documents
+
+**Locations:**
+
+- [Vienna](../locations/vienna.md) - 9 shared documents
+- [Austria](../locations/austria.md) - 7 shared documents
+- [New York](../locations/new-york.md) - 7 shared documents
+- [NEW YORK NY](../locations/new-york-ny.md) - 7 shared documents
+- [N.Y.](../locations/ny.md) - 7 shared documents
+
+**Events:**
+
+- [2012](2012.md) - 9 shared documents
+- [5/7/2012](572012.md) - 9 shared documents
+- [Friday night](friday-night.md) - 9 shared documents
+- [May 07, 2012](may-07-2012.md) - 9 shared documents
+- [Friday](friday.md) - 8 shared documents
+- [Thursday, May 03](thursday-may-03.md) - 7 shared documents
+- [afternoon](afternoon.md) - 7 shared documents
+- [May 03, 2012](may-03-2012.md) - 7 shared documents
+- [6:39 AM](639-am.md) - 6 shared documents
+- [7:21 PM](721-pm.md) - 5 shared documents
+
+## Timeline
+
+*Timeline data will be available when document dates are fully processed.*

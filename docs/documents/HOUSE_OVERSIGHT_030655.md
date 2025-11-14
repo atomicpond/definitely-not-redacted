@@ -1,0 +1,68 @@
+# HOUSE_OVERSIGHT_030655
+
+## Document Metadata
+
+**Bates ID:** HOUSE_OVERSIGHT_030655  
+**Pages:** 1  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [Michael Wolff](../entities/people/michael-wolff.md) - 1 mention
+- [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
+- [Mr. Bannon](../entities/people/mr-bannon.md) - 1 mention
+- [kelly](../entities/people/kelly.md) - 1 mention
+- [Jared](../entities/people/jared.md) - 1 mention
+- [ivanka](../entities/people/ivanka.md) - 1 mention
+- [jeffrey E. <](../entities/people/jeffrey-e.md) - 1 mention
+
+### Organizations
+- [Trump](../entities/organizations/trump.md) - 2 mentions
+- [HOUSE](../entities/organizations/house.md) - 1 mention
+- [Priebus](../entities/organizations/priebus.md) - 1 mention
+
+### Events/Dates
+- [the first six months](../entities/events/the-first-six-months.md) - 1 mention
+
+## Document Text
+
+```
+From: **Michael Wolff** 
+Sent: 8/18/2017 8:08:31 PM 
+To: **Jeffrey E**. [jeeyacation@gmail.com] 
+Subject: Re: 
+Importance: High 
+Just spent two hours on the phone with Bannon. I saw Spicer and **Priebus** his week. I'd pretty much say that 
+nearly 100% of the non-family senior staff of **the first six months** now believe that **Trump** can't function in this 
+job. I think they all become part of a Republican initiative to take him down. I hear **kelly** trying to make **Trump** 
+understand that **Jared** and **ivanka** have to go. 
+On Fri, Aug 18, 2017 at 3:58 PM, ****Jeffrey E**. <**jeevacation@gmail.com> wrote: 
+I assume no dinner 
+please note 
+The information contained in this communication is 
+confidential, may be attorney-client privileged, may 
+constitute inside information, and is intended only for 
+the use of the addressee. It is the property of 
+JEE 
+Unauthorized use, disclosure or copying of this 
+communication or any part thereof is strictly prohibited 
+and may be unlawful. If you have received this 
+communication in error, please notify us immediately by 
+return e-mail or by e-mail to jeevacation@gmail.com, and 
+destroy this communication and all copies thereof, 
+including all attachments. copyright -all rights reserved 
+**HOUSE** OVERSIGHT 030655 
+
+```
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_026450](HOUSE_OVERSIGHT_026450.md) - 10 shared entities
+- [HOUSE_OVERSIGHT_030777](HOUSE_OVERSIGHT_030777.md) - 6 shared entities
+- [HOUSE_OVERSIGHT_030775](HOUSE_OVERSIGHT_030775.md) - 6 shared entities
+- [HOUSE_OVERSIGHT_030706](HOUSE_OVERSIGHT_030706.md) - 6 shared entities
+- [HOUSE_OVERSIGHT_030699](HOUSE_OVERSIGHT_030699.md) - 6 shared entities

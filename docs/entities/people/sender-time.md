@@ -1,0 +1,46 @@
+# Sender 
+Time
+
+**Type:** People  
+**Total Mentions:** 10  
+**Documents:** 5
+
+## Name Variants
+
+- Sender 
+Time
+
+## Related Documents
+
+Top 5 documents by mention frequency:
+
+- [HOUSE_OVERSIGHT_027184](../../documents/HOUSE_OVERSIGHT_027184.md) - 5 mentions
+- [HOUSE_OVERSIGHT_029744](../../documents/HOUSE_OVERSIGHT_029744.md) - 2 mentions
+- [HOUSE_OVERSIGHT_027232](../../documents/HOUSE_OVERSIGHT_027232.md) - 1 mention
+- [HOUSE_OVERSIGHT_027401](../../documents/HOUSE_OVERSIGHT_027401.md) - 1 mention
+- [HOUSE_OVERSIGHT_027428](../../documents/HOUSE_OVERSIGHT_027428.md) - 1 mention
+
+## Connections
+
+### Most Frequently Co-occurring Entities
+
+**People:**
+
+- [Start Time](start-time.md) - 5 shared documents
+- [Yes 
+Is Invitation](yes-is-invitation.md) - 5 shared documents
+- [End Time](end-time.md) - 5 shared documents
+- [Is Read](is-read.md) - 5 shared documents
+- [Last Message](last-message.md) - 5 shared documents
+- [Chat Room](chat-room.md) - 5 shared documents
+- [No 
+Is Invitation](no-is-invitation.md) - 5 shared documents
+
+**Organizations:**
+
+- [HOUSE](../organizations/house.md) - 5 shared documents
+- [GUID](../organizations/guid.md) - 5 shared documents
+
+## Timeline
+
+*Timeline data will be available when document dates are fully processed.*

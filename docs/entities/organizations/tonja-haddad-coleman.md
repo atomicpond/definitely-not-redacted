@@ -1,0 +1,32 @@
+# Tonja Haddad Coleman
+
+**Type:** Organizations  
+**Total Mentions:** 6  
+**Documents:** 6
+
+## Name Variants
+
+- Tonja Haddad Coleman
+
+## Related Documents
+
+Top 6 documents by mention frequency:
+
+- [HOUSE_OVERSIGHT_012898](../../documents/HOUSE_OVERSIGHT_012898.md) - 1 mention
+- [HOUSE_OVERSIGHT_023018](../../documents/HOUSE_OVERSIGHT_023018.md) - 1 mention
+- [HOUSE_OVERSIGHT_025790](../../documents/HOUSE_OVERSIGHT_025790.md) - 1 mention
+- [HOUSE_OVERSIGHT_031729](../../documents/HOUSE_OVERSIGHT_031729.md) - 1 mention
+- [HOUSE_OVERSIGHT_031994](../../documents/HOUSE_OVERSIGHT_031994.md) - 1 mention
+- [HOUSE_OVERSIGHT_033575](../../documents/HOUSE_OVERSIGHT_033575.md) - 1 mention
+
+## Connections
+
+### Most Frequently Co-occurring Entities
+
+**Locations:**
+
+- [Fort Lauderdale](../locations/fort-lauderdale.md) - 5 shared documents
+
+## Timeline
+
+*Timeline data will be available when document dates are fully processed.*

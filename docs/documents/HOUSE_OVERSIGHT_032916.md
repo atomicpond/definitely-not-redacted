@@ -1,0 +1,109 @@
+# HOUSE_OVERSIGHT_032916
+
+## Document Metadata
+
+**Bates Range:** HOUSE_OVERSIGHT_032916 to HOUSE_OVERSIGHT_032917  
+**Pages:** 3  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [Landon Thomas](../entities/people/landon-thomas.md) - 2 mentions
+- [Financial Reporter](../entities/people/financial-reporter.md) - 2 mentions
+- [jr thomas](../entities/people/jr-thomas.md) - 1 mention
+- [hillary](../entities/people/hillary.md) - 1 mention
+- [Reagan](../entities/people/reagan.md) - 1 mention
+- [Trump 
+Importance](../entities/people/trump-importance.md) - 1 mention
+- [Landon](../entities/people/landon.md) - 1 mention
+- [Landon 
+Subject](../entities/people/landon-subject.md) - 1 mention
+- [jr thomas/inde  
+x.html](../entities/people/jr-thomasinde-xhtml.md) - 1 mention
+- [Landon 
+Subject: Re:](../entities/people/landon-subject-re.md) - 1 mention
+
+### Organizations
+- [Treasury](../entities/organizations/treasury.md) - 2 mentions
+- [New York Times](../entities/organizations/new-york-times.md) - 2 mentions
+- [Priebus](../entities/organizations/priebus.md) - 1 mention
+- [MNUCHIN](../entities/organizations/mnuchin.md) - 1 mention
+
+### Events/Dates
+- [Mon, Nov 14, 2016](../entities/events/mon-nov-14-2016.md) - 3 mentions
+- [last week](../entities/events/last-week.md) - 1 mention
+- [11/14/2016](../entities/events/11142016.md) - 1 mention
+
+## Document Text
+
+```
+From: jeffrey E. [jeeyacation@gmail.com] 
+Sent: **11/14/2016** 2:56:18 PM 
+To: Thomas Jr., ****Landon** 
+Subject**: Re: **Trump 
+Importance**: High 
+no, they dont have many loyal people that have gravitas. . it will be somewhat random but he is 
+being advised to do as you suggest but he doesnt like advice in general. he has no loyalty ZERO tossed 
+christie after being his best friend, in four seconds flat 
+On **Mon, Nov 14, 2016** at 9:54 AM, Thomas Jr., **Landon** < > wrote: 
+do you agree with my thesis? 
+On **Mon, Nov 14, 2016** at 9:53 AM, jeffrey E. <jeevacation@gmail.com> wrote: 
+no intel but lots of profits 
+On **Mon, Nov 14, 2016** at 9:51 AM, Thomas Jr., **Landon** ‹> wrote: 
+Any further intel on **Treasury**? **Priebus** choice suggests to me that he may go for a bigger name in 
+**Treasury** than **MNUCHIN**. Someone to underscore/push forward this notion that he is **Reagan** 2.0 (as 
+some are suggesting). I am just not sure who that person would be. **The Trump** trade certainly 
+seems to have legs -- all the **hillary** loving hedgies I am talking to are congratulating themselves for 
+making so much money **last week**. They are all Trump lovers now! 
+****Landon** Thomas**, Jr. 
+**Financial Reporter** 
+**New York Times** 
+http://topics.nytimes.com/top/reference/timestopics/people/t/**Landon** ****jr thomas**/inde  
+x.html**  
+please note 
+The information contained in this communication is 
+confidential, may be attorney-client privileged, may 
+constitute inside information, and is intended only for 
+the use of the addressee. It is the property of 
+JEE 
+Unauthorized use, disclosure or copying of this 
+communication or any part thereof is strictly prohibited 
+and may be unlawful. If you have received this 
+communication in error, please notify us immediately by 
+return e-mail or by e-mail to jeevacation@gmail.com, and 
+destroy this communication and all copies thereof, 
+including all attachments. copyright -all rights reserved 
+HOUSE OVERSIGHT 032916 
+****Landon** Thomas**, Jr. 
+**Financial Reporter** 
+**New York Times** 
+http://topics.nytimes.com/top/reference/timestopics/people/t/**Landon** **jr thomas**/index.  
+html  
+please note 
+The information contained in this communication is 
+confidential, may be attorney-client privileged, may 
+constitute inside information, and is intended only for 
+the use of the addressee. It is the property of 
+JEE 
+Unauthorized use, disclosure or copying of this 
+communication or any part thereof is strictly prohibited 
+and may be unlawful. If you have received this 
+communication in error, please notify us immediately by 
+return e-mail or by e-mail to jeevacation@gmail.com, and 
+destroy this communication and all copies thereof, 
+including all attachments. copyright -all rights reserved 
+HOUSE OVERSIGHT 032917 
+
+```
+
+---
+
+## Related Documents
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_032915](HOUSE_OVERSIGHT_032915.md) - 17 shared entities
+- [HOUSE_OVERSIGHT_032372](HOUSE_OVERSIGHT_032372.md) - 16 shared entities
+- [HOUSE_OVERSIGHT_032370](HOUSE_OVERSIGHT_032370.md) - 15 shared entities
+- [HOUSE_OVERSIGHT_032369](HOUSE_OVERSIGHT_032369.md) - 12 shared entities
+- [HOUSE_OVERSIGHT_032888](HOUSE_OVERSIGHT_032888.md) - 9 shared entities

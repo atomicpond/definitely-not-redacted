@@ -1,0 +1,106 @@
+# HOUSE_OVERSIGHT_016696
+
+## Document Metadata
+
+**Bates ID:** HOUSE_OVERSIGHT_016696  
+**Pages:** 1  
+**Custodian:** Epstein, Jeffrey  
+
+## Entities Mentioned
+
+### People
+- [SUSAN S](../entities/people/susan-s.md) - 1 mention
+- [ROUSSEAU LILLIAN](../entities/people/rousseau-lillian.md) - 1 mention
+- [JAMES M](../entities/people/james-m.md) - 1 mention
+- [ROBERT L](../entities/people/robert-l.md) - 1 mention
+- [HOLLIS EARL](../entities/people/hollis-earl.md) - 1 mention
+- [NASSER JOSEPH](../entities/people/nasser-joseph.md) - 1 mention
+- [ROBERT G JR TRUST](../entities/people/robert-g-jr-trust.md) - 1 mention
+- [ROBERT G](../entities/people/robert-g.md) - 1 mention
+- [BARBARA FRED](../entities/people/barbara-fred.md) - 1 mention
+- [ACKERMAN JUDITH](../entities/people/ackerman-judith.md) - 1 mention
+
+### Organizations
+- [HOUSE](../entities/organizations/house.md) - 1 mention
+- [LLC](../entities/organizations/llc.md) - 1 mention
+- [ABC](../entities/organizations/abc.md) - 1 mention
+- [Apple](../entities/organizations/apple.md) - 1 mention
+- [Ford](../entities/organizations/ford.md) - 1 mention
+- [Wexner](../entities/organizations/wexner.md) - 1 mention
+- [Chanel](../entities/organizations/chanel.md) - 1 mention
+- [Navy](../entities/organizations/navy.md) - 1 mention
+- [Mercedes](../entities/organizations/mercedes.md) - 1 mention
+- [Palm](../entities/organizations/palm.md) - 1 mention
+
+### Locations
+- [Florida](../entities/locations/florida.md) - 1 mention
+- [Palm Beach](../entities/locations/palm-beach.md) - 1 mention
+- [Virginia](../entities/locations/virginia.md) - 1 mention
+- [Palm Beach County](../entities/locations/palm-beach-county.md) - 1 mention
+- [Jordan](../entities/locations/jordan.md) - 1 mention
+- [Illinois](../entities/locations/illinois.md) - 1 mention
+- [Nevada](../entities/locations/nevada.md) - 1 mention
+- [Holland](../entities/locations/holland.md) - 1 mention
+- [Charlotte](../entities/locations/charlotte.md) - 1 mention
+- [HENDERSON](../entities/locations/henderson.md) - 1 mention
+
+### Events/Dates
+- [2016](../entities/events/2016.md) - 1 mention
+- [2008](../entities/events/2008.md) - 1 mention
+- [2007](../entities/events/2007.md) - 1 mention
+- [2010](../entities/events/2010.md) - 1 mention
+- [2006](../entities/events/2006.md) - 1 mention
+- [2014](../entities/events/2014.md) - 1 mention
+- [2005](../entities/events/2005.md) - 1 mention
+- [2001](../entities/events/2001.md) - 1 mention
+- [2017](../entities/events/2017.md) - 1 mention
+- [2004](../entities/events/2004.md) - 1 mention
+
+## Document Text
+
+```
+﻿Royal-Southern
+PCN OWNERNAME1 OWNERNAME2 STREETNAME BLK SITEADDR PADDR1 PADDR2 PADDR3 TOTTAXVAL ACRES PROPUSE CAMA-RESBLD.YEAR BUILT CAMA-RESBLD.EFFECTIVE YEAR NUMBER OF BEDROOMS NUMBER OF FULL BATHROOMS NUMBER OF HALF BATHROOMS STORY HEIGHT CAMA-RESBLD.BUILDING VALUE CAMA-RESBLD.BUILDING AREA TOTAL AREA SQUARE FOOT LIVING AREA CAMA-COMBLD.YEAR BUILT CAMA-COMBLD.EFFECTIVE YEAR NUMBER OF UNITS STORIES CONSTRUCTION TYPE CONSTRUCTION TYPE DESC CAMA-COMBLD.BUILDING VALUE CAMA-COMBLD.BUILDING AREA COMPLEX ID COMPLEX NAME UNIT NUMBER CLASSIFICATION CODE CLASSIFICATION DESC CAMA-CONDO.YEAR BUILT AREA VALUE 
+50434322170000010 STEINDL ETHEL J        131,250.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0010 0400 CONDO 1969    210     131250 
+50434322170000020 5 E SOUTHLAKE TRUST ANN P FITZGERALD TR       131,250.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0020 0400 CONDO 1969    210     131250 
+50434322170000030 FITZGERALD ANN P TR & FITZGERALD W KEVIN TR       131,250.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0030 0400 CONDO 1969    210     131250 
+50434322170000040 GARDNER CLAIRE B TR        131,250.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0040 0400 CONDO 1969    210     131250 
+50434322170000050 GARDNER CLAIRE B TR        131,250.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0050 0400 CONDO 1969    210     131250 
+50434322170000060 BLACK SUSANNE TR        131,250.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0060 0400 CONDO 1969    210     131250 
+50434322170000070 DUPONT LEA        828,420.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0070 0400 CONDO 1969   1816    1283100 
+50434322170000080 HIGGINBOTHAM RICHARD A & HIGGINBOTHAM CAROLE M       1,273,150.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0080 0400 CONDO 1969   1741    1271550 
+50434322170000090 HIGGINBOTHAM RICHARD A &        895,650.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0090 0400 CONDO 1969   1283     895650 
+50434322170000100 HODNETT LESLIE Z TR        1,294,900.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0100 0400 CONDO 1969   1816    1293100 
+50434322170000110 LONG GORDON G LONG GORDON G TR       802,039.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0110 0400 CONDO 1969   1741    1281550 
+50434322170000120 NATORI KENNETH R &        1,281,550.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0120 0400 CONDO 1969   1741    1281550 
+50434322170000130 MACKINTOSH ELISABETH P ELISABETH PLANKINTON MACKINTOSH REV TRUS       760,342.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0130 0400 CONDO 1969   2064    1331400 
+50434322170000140 FREASE BELDEN A & FREASE DOLINA R       721,961.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0140 0400 CONDO 1969   1486    1013250 
+50434322170000150 WEISER EVELYN        250,624.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0150 0400 CONDO 1969   1816    1293100 
+50434322170000160 PLIMPTON HOLLIS W & PLIMPTON PEGGY L       1,304,900.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0160 0400 CONDO 1969   1816    1303100 
+50434322170000170 SENGE JURGEN & SENGE GABRIELE       1,293,350.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0170 0400 CONDO 1969   1741    1291550 
+50434322170000180 BLACK SUSANNE BLACK SUSANNE TR       287,225.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0180 0400 CONDO 1969   1741    1291550 
+50434322170000190 OLSHAN MARVIN L & OLSHAN ROSE       1,341,400.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0190 0400 CONDO 1969   2064    1341400 
+50434322170000200 SMITH ROBERT B        237,293.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0200 0400 CONDO 1969   1486    1023250 
+50434322170000210 HARTMAN CHARLOTTE B & BRYANT MARK       257,228.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0210 0400 CONDO 1969   1816    1303100 
+50434322170000220 EQUITABLE HOLDING CORP WILLIAM P VANNECK C/O       1,314,900.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0220 0400 CONDO 1969   1816    1313100 
+50434322170000230 MOORE WILLIAM H III & DOROTHY        1,301,550.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0230 0400 CONDO 1969   1741    1301550 
+50434322170000240 SOUTHLAKE ENTERPRISES CORP L S CHURCHILL C/O       1,301,550.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0240 0400 CONDO 1969   1741    1301550 
+50434322170000250 STEINDL ETHEL J        1,351,400.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0250 0400 CONDO 1969   2064    1351400 
+50434322170000260 FITZGERALD W KEVIN        1,034,150.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0260 0400 CONDO 1969   1486    1033250 
+50434322170000270 WATERMAN RICHARD        260,529.00 0 CONDOMINIUM                   5043432217 SOUTHLAKE CONDO 0270 0
+```
+
+*[Text truncated to 5000 characters]*
+
+---
+
+## Related Documents
+
+**Parent Document:** [HOUSE_OVERSIGHT_016552](HOUSE_OVERSIGHT_016552.md)
+
+**Similar Documents** (by shared entities):
+- [HOUSE_OVERSIGHT_016552](HOUSE_OVERSIGHT_016552.md) - 322 shared entities
+- [HOUSE_OVERSIGHT_016695](HOUSE_OVERSIGHT_016695.md) - 202 shared entities
+- [HOUSE_OVERSIGHT_016698](HOUSE_OVERSIGHT_016698.md) - 198 shared entities
+- [HOUSE_OVERSIGHT_016694](HOUSE_OVERSIGHT_016694.md) - 182 shared entities
+- [HOUSE_OVERSIGHT_018232](HOUSE_OVERSIGHT_018232.md) - 68 shared entities

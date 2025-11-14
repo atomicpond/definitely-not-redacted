@@ -1,0 +1,53 @@
+# early 2014
+
+**Type:** Events  
+**Total Mentions:** 5  
+**Documents:** 5
+
+## Name Variants
+
+- early 2014
+
+## Related Documents
+
+Top 5 documents by mention frequency:
+
+- [HOUSE_OVERSIGHT_014432](../../documents/HOUSE_OVERSIGHT_014432.md) - 1 mention
+- [HOUSE_OVERSIGHT_014460](../../documents/HOUSE_OVERSIGHT_014460.md) - 1 mention
+- [HOUSE_OVERSIGHT_019477](../../documents/HOUSE_OVERSIGHT_019477.md) - 1 mention
+- [HOUSE_OVERSIGHT_020153](../../documents/HOUSE_OVERSIGHT_020153.md) - 1 mention
+- [HOUSE_OVERSIGHT_024003](../../documents/HOUSE_OVERSIGHT_024003.md) - 1 mention
+
+## Connections
+
+### Most Frequently Co-occurring Entities
+
+**Locations:**
+
+- [Australia](../locations/australia.md) - 5 shared documents
+- [Brazil](../locations/brazil.md) - 5 shared documents
+- [Canada](../locations/canada.md) - 5 shared documents
+- [China](../locations/china.md) - 5 shared documents
+- [Dubai](../locations/dubai.md) - 5 shared documents
+- [France](../locations/france.md) - 5 shared documents
+- [Germany](../locations/germany.md) - 5 shared documents
+- [Hong Kong](../locations/hong-kong.md) - 5 shared documents
+- [India](../locations/india.md) - 5 shared documents
+- [Italy](../locations/italy.md) - 5 shared documents
+
+**Events:**
+
+- [2015](2015.md) - 5 shared documents
+- [2000](2000.md) - 5 shared documents
+- [2001](2001.md) - 5 shared documents
+- [2013](2013.md) - 5 shared documents
+- [2003](2003.md) - 4 shared documents
+- [2004](2004.md) - 4 shared documents
+- [2016](2016.md) - 4 shared documents
+- [annual](annual.md) - 4 shared documents
+- [2012](2012.md) - 4 shared documents
+- [2011](2011.md) - 4 shared documents
+
+## Timeline
+
+*Timeline data will be available when document dates are fully processed.*
