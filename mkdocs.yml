@@ -49,6 +49,15 @@ nav:
   - Documents:
       - Overview: documents/index.md
       - All Documents: documents/
+  - Duplicates:
+      - Overview: duplicates/index.md
+      - Canonical Map: duplicates/canonical_map.md
+      - Statistics: duplicates/statistics.md
+  - Deduplicated Content:
+      - Overview: deduplicated/index.md
+      - By Size: deduplicated/by_size.md
+      - By Completeness: deduplicated/by_completeness.md
+      - Navigation: deduplicated/navigation.md
   - Entities:
       - People: entities/people/index.md
       - Organizations: entities/organizations/index.md

@@ -1,0 +1,143 @@
+# Deduplicated Content: Group 193
+
+## Overview
+
+This group contains **2 related documents** with varying content completeness.
+
+**Most Complete Document:** [HOUSE_OVERSIGHT_031714](../documents/HOUSE_OVERSIGHT_031714.md)
+
+## Documents in This Group
+
+| Bates ID | Pages | Date | Characters | Relationship |
+|----------|-------|------|------------|-------------|
+| [HOUSE_OVERSIGHT_031714](../documents/HOUSE_OVERSIGHT_031714.md) | 3 | Unknown | 1,859 | Complete (100%) |
+| [HOUSE_OVERSIGHT_031710](../documents/HOUSE_OVERSIGHT_031710.md) | 3 | Unknown | 1,847 | Subset (99%) |
+
+## Content Comparison
+
+### Version 1: HOUSE_OVERSIGHT_031714 (Most Complete)
+
+??? info "Document Metadata"
+    - **Bates ID:** [HOUSE_OVERSIGHT_031714](../documents/HOUSE_OVERSIGHT_031714.md)
+    - **Pages:** 3
+    - **Characters:** 1,859
+    - **Words:** 252
+    - **Custodian:** Epstein, Jeffrey
+
+??? abstract "Content Preview"
+    From: Darren Indyke 
+    Sent: 10/20/2016 7:00:22 PM 
+    To: Jeffrey Epstein [jeeyacation@gmail.com] 
+    Subject: Fwd: Google Alert - Jeffrey Epstein 
+    Importance: High 
+    DARREN K. INDYKE 
+    DARREN K. INDYKE, PLLC 
+    575 Lexington Avenue, 4th Floor 
+    New York, New York 10022 
+    Telephone: 
+    Telecopier: 
+    Mobile: 
+    email: 
+    ****************************************************************************************** 
+    ************ 
+    The information contained in this communication is confidential, may be attorney-client 
+    privileged, and is intended only for the use of the addressee. It is the property of 
+    Darren K. Indyke, PLLC. Unauthorized use, disclosure or copying of this communication 
+    or any part thereof is strictly prohibited and may be unlawful. If you have received this 
+    communication in error, please notify us immediately by return e-mail, and destroy this 
+    communication and all copies thereof, including all attachments. 
+    Copyright of Darren K. Indyke, PLLC - 0 2016 Darren K. 
+    Indyke, PLLC — All rights reserved. 
+    ****************************************************************************************** 
+    ************* 
+    Begin forwarded message: 
+    From: Google Alerts <googlealerts-noreplygoogle.com> 
+    Subject: Google Alert - Jeffrey Epstein 
+    Date: October 20, 2016 at 2:50:58 PM EDT 
+    To: 
+    Jeffrey Epstein 
+    ,..,=.L.,UDer 20, 2016 
+    NEWS 
+    HOUSE OVERSIGHT 031714 
+    Woman Who Claims Trump Raped Her When She Was 13 Has Released Video. Here's 
+    What She ... 
+    Independent Journal Review 
+    Johnson claims Donald Trump, along with former banker and sex offender Jeffrey Epstein, raped her in 1994 when she 
+    was just thirteen years old. 
+    raz 7Iag as irrele\, 
+    See more results Edit this alert 
+    You have received this email because you have subscribed to Google Alerts. 
+    Unsubscribe I View all your alert, 
+    Receive this alert as RSS feed 
+    Send Feedback 
+    HOUSE OVERSIGHT 031715 
+    
+
+
+---
+
+### Version 2: HOUSE_OVERSIGHT_031710 (Subset Version)
+
+??? info "Document Metadata"
+    - **Bates ID:** [HOUSE_OVERSIGHT_031710](../documents/HOUSE_OVERSIGHT_031710.md)
+    - **Pages:** 3
+    - **Characters:** 1,847
+    - **Words:** 249
+    - **Custodian:** Epstein, Jeffrey
+
+??? abstract "Content Preview"
+    From: Darren Indyke 
+    Sent: 10/13/2016 5:48:10 PM 
+    To: Jeffrey Epstein [jeeyacation@gmail.com] 
+    Subject: Fwd: Google Alert - Jeffrey Epstein 
+    Importance: High 
+    DARREN K. INDYKE 
+    DARREN K. INDYKE, PLLC 
+    575 Lexington Avenue, 4th Floor 
+    New York, New York 10022 
+    Telephone: 
+    Telecopier: 
+    Mobile: 
+    email: 
+    ****************************************************************************************** 
+    ************ 
+    The information contained in this communication is confidential, may be attorney-client 
+    privileged, and is intended only for the use of the addressee. It is the property of 
+    Darren K. Indyke, PLLC. Unauthorized use, disclosure or copying of this communication 
+    or any part thereof is strictly prohibited and may be unlawful. If you have received this 
+    communication in error, please notify us immediately by return e-mail, and destroy this 
+    communication and all copies thereof, including all attachments. 
+    Copyright of Darren K. Indyke, PLLC - 0 2016 Darren K. 
+    Indyke, PLLC — All rights reserved. 
+    ****************************************************************************************** 
+    ************* 
+    Begin forwarded message: 
+    From: Google Alerts <googlealerts-noreplygoogle.com> 
+    Subject: Google Alert - Jeffrey Epstein 
+    Date: October 13, 2016 at 12:44:49 PM EDT 
+    To: 
+    Jeffrey Epstein 
+    . • October 13, 2016 
+    NEWS 
+    HOUSE OVERSIGHT 031710 
+    Anonymous Claims It Has Bill Clinton Underage Rape Video That Will 
+    'Plunge Race Into Chaos' 
+    Independent Journal Review 
+    Bill Clinton, a known associate of billionaire pedophile Jeffrey Epstein, is known to have taken 
+    26 trips aboard his planes and boats, including an ... 
+    lag as irrelev—
+    See more results 
+    You have received this email because you have subscribed to Google Alerts. 
+    Unsubscribe I View all your alert. 
+    Receive this alert as RSS feed 
+    Send Feedback 
+    HOUSE OVERSIGHT 031711 
+    
+
+**Compared to most complete version:**
+- Missing: 12 characters, 3 words
+
+---
+
+## Additional Information
+
