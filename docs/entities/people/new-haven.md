@@ -30,41 +30,37 @@ Top 9 documents by mention frequency:
 
 - [San Francisco](san-francisco.md) - 7 shared documents
 - [Yale University Press](yale-university-press.md) - 7 shared documents
-- [Middle East](middle-east.md) - 7 shared documents
 - [White House](white-house.md) - 6 shared documents
-- [President Obama](president-obama.md) - 5 shared documents
 
 **Organizations:**
 
 - [Yale University](../organizations/yale-university.md) - 8 shared documents
-- [Fed](../organizations/fed.md) - 7 shared documents
-- [Harvard](../organizations/harvard.md) - 7 shared documents
 
 **Locations:**
 
+- [Boston](../locations/boston.md) - 8 shared documents
 - [California](../locations/california.md) - 8 shared documents
 - [Earth](../locations/earth.md) - 8 shared documents
+- [England](../locations/england.md) - 8 shared documents
 - [France](../locations/france.md) - 8 shared documents
 - [Iraq](../locations/iraq.md) - 8 shared documents
-- [the United States](../locations/the-united-states.md) - 8 shared documents
-- [England](../locations/england.md) - 8 shared documents
-- [Boston](../locations/boston.md) - 8 shared documents
-- [Spain](../locations/spain.md) - 8 shared documents
 - [New Haven](../locations/new-haven.md) - 8 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 7 shared documents
+- [Spain](../locations/spain.md) - 8 shared documents
+- [the United States](../locations/the-united-states.md) - 8 shared documents
+- [Cambridge](../locations/cambridge.md) - 7 shared documents
 
 **Events:**
 
 - [daily](../events/daily.md) - 9 shared documents
 - [years](../events/years.md) - 9 shared documents
-- [2000](../events/2000.md) - 8 shared documents
+- [1980](../events/1980.md) - 8 shared documents
+- [1989](../events/1989.md) - 8 shared documents
 - [1999](../events/1999.md) - 8 shared documents
+- [2000](../events/2000.md) - 8 shared documents
 - [2002](../events/2002.md) - 8 shared documents
 - [a year](../events/a-year.md) - 8 shared documents
-- [1989](../events/1989.md) - 8 shared documents
 - [decades](../events/decades.md) - 8 shared documents
 - [the day](../events/the-day.md) - 8 shared documents
-- [1980](../events/1980.md) - 8 shared documents
 
 ## Timeline
 

@@ -42,41 +42,41 @@ Top 10 documents by mention frequency:
 
 **Organizations:**
 
-- [Times](times.md) - 10 shared documents
-- [ISIS](isis.md) - 10 shared documents
-- [Harvard](harvard.md) - 10 shared documents
-- [the New York Times](the-new-york-times.md) - 10 shared documents
-- [Treasury](treasury.md) - 10 shared documents
 - [Goldman Sachs](goldman-sachs.md) - 10 shared documents
-- [Rockefeller](rockefeller.md) - 10 shared documents
-- [Vanity Fair](vanity-fair.md) - 10 shared documents
-- [The New York Post](the-new-york-post.md) - 10 shared documents
+- [Harvard](harvard.md) - 10 shared documents
+- [ISIS](isis.md) - 10 shared documents
 - [philanthropy](philanthropy.md) - 10 shared documents
+- [Rockefeller](rockefeller.md) - 10 shared documents
+- [The New York Post](the-new-york-post.md) - 10 shared documents
+- [the New York Times](the-new-york-times.md) - 10 shared documents
+- [Times](times.md) - 10 shared documents
+- [Treasury](treasury.md) - 10 shared documents
+- [Vanity Fair](vanity-fair.md) - 10 shared documents
 
 **Locations:**
 
-- [Europe](../locations/europe.md) - 10 shared documents
-- [Qatar](../locations/qatar.md) - 10 shared documents
-- [Manhattan](../locations/manhattan.md) - 10 shared documents
-- [Queens](../locations/queens.md) - 10 shared documents
-- [Paris](../locations/paris.md) - 10 shared documents
-- [Palm Beach](../locations/palm-beach.md) - 10 shared documents
 - [Connecticut](../locations/connecticut.md) - 10 shared documents
+- [Europe](../locations/europe.md) - 10 shared documents
+- [Manhattan](../locations/manhattan.md) - 10 shared documents
+- [Palm Beach](../locations/palm-beach.md) - 10 shared documents
+- [Paris](../locations/paris.md) - 10 shared documents
+- [Qatar](../locations/qatar.md) - 10 shared documents
+- [Queens](../locations/queens.md) - 10 shared documents
 - [the Upper East Side](../locations/the-upper-east-side.md) - 10 shared documents
-- [Dallas](../locations/dallas.md) - 9 shared documents
-- [New Mexico](../locations/new-mexico.md) - 9 shared documents
+- [Caribbean Island](../locations/caribbean-island.md) - 9 shared documents
+- [Coney Island](../locations/coney-island.md) - 9 shared documents
 
 **Events:**
 
-- [the 1980s](../events/the-1980s.md) - 10 shared documents
-- [Sunday](../events/sunday.md) - 10 shared documents
-- [Saturday](../events/saturday.md) - 10 shared documents
-- [two years](../events/two-years.md) - 10 shared documents
-- [many years](../events/many-years.md) - 10 shared documents
 - [1994](../events/1994.md) - 10 shared documents
+- [many years](../events/many-years.md) - 10 shared documents
+- [Saturday](../events/saturday.md) - 10 shared documents
+- [Sunday](../events/sunday.md) - 10 shared documents
 - [ten years](../events/ten-years.md) - 10 shared documents
-- [last year](../events/last-year.md) - 9 shared documents
-- [more than a year](../events/more-than-a-year.md) - 9 shared documents
+- [the 1980s](../events/the-1980s.md) - 10 shared documents
+- [two years](../events/two-years.md) - 10 shared documents
+- [18 months](../events/18-months.md) - 9 shared documents
+- [1953](../events/1953.md) - 9 shared documents
 - [1974](../events/1974.md) - 9 shared documents
 
 ## Timeline

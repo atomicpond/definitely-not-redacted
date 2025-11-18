@@ -32,7 +32,7 @@ Top 10 documents by mention frequency:
 
 - [Middle East](../people/middle-east.md) - 9 shared documents
 - [White House](../people/white-house.md) - 9 shared documents
-- [Barack Obama](../people/barack-obama.md) - 8 shared documents
+- [San Francisco](../people/san-francisco.md) - 8 shared documents
 
 **Organizations:**
 

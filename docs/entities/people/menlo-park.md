@@ -24,8 +24,8 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [Harvard](../organizations/harvard.md) - 5 shared documents
 - [Google](../organizations/google.md) - 5 shared documents
+- [Harvard](../organizations/harvard.md) - 5 shared documents
 
 **Locations:**
 
@@ -34,8 +34,8 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
 - [2011](../events/2011.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
 
 ## Timeline
 

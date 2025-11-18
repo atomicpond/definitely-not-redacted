@@ -49,11 +49,11 @@ Top 10 documents by mention frequency:
 
 - [1998](1998.md) - 7 shared documents
 - [today](today.md) - 6 shared documents
+- [1995](1995.md) - 6 shared documents
+- [1997](1997.md) - 6 shared documents
 - [2004](2004.md) - 6 shared documents
 - [2007](2007.md) - 6 shared documents
 - [2011](2011.md) - 6 shared documents
-- [1997](1997.md) - 6 shared documents
-- [1995](1995.md) - 6 shared documents
 - [a week](a-week.md) - 5 shared documents
 - [annual](annual.md) - 5 shared documents
 - [daily](daily.md) - 5 shared documents

@@ -55,11 +55,11 @@ Top 10 documents by mention frequency:
 - [years](years.md) - 14 shared documents
 - [daily](daily.md) - 14 shared documents
 - [2003](2003.md) - 13 shared documents
-- [2011](2011.md) - 12 shared documents
 - [2005](2005.md) - 12 shared documents
+- [2011](2011.md) - 12 shared documents
 - [every day](every-day.md) - 11 shared documents
-- [2009](2009.md) - 11 shared documents
 - [2002](2002.md) - 11 shared documents
+- [2009](2009.md) - 11 shared documents
 
 ## Timeline
 

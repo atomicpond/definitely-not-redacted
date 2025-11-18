@@ -53,11 +53,11 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [today](today.md) - 11 shared documents
-- [2009](2009.md) - 10 shared documents
 - [2008](2008.md) - 10 shared documents
+- [2009](2009.md) - 10 shared documents
 - [years](years.md) - 9 shared documents
-- [2003](2003.md) - 9 shared documents
 - [1974](1974.md) - 9 shared documents
+- [2003](2003.md) - 9 shared documents
 - [daily](daily.md) - 8 shared documents
 - [decades](decades.md) - 8 shared documents
 - [December](december.md) - 8 shared documents

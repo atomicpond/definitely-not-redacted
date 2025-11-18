@@ -33,15 +33,12 @@ Top 9 documents by mention frequency:
 **Organizations:**
 
 - [Congress](../organizations/congress.md) - 7 shared documents
-- [S&P](../organizations/sp.md) - 6 shared documents
-- [ECB](../organizations/ecb.md) - 6 shared documents
 - [Bank](../organizations/bank.md) - 6 shared documents
+- [ECB](../organizations/ecb.md) - 6 shared documents
 - [European Central Bank](../organizations/european-central-bank.md) - 6 shared documents
+- [S&P](../organizations/sp.md) - 6 shared documents
 - [Bloomberg](../organizations/bloomberg.md) - 5 shared documents
 - [Treasury](../organizations/treasury.md) - 5 shared documents
-- [BoJ](../organizations/boj.md) - 4 shared documents
-- [Fed](../organizations/fed.md) - 4 shared documents
-- [NYSE](../organizations/nyse.md) - 4 shared documents
 
 **Locations:**
 
@@ -51,22 +48,23 @@ Top 9 documents by mention frequency:
 - [China](../locations/china.md) - 6 shared documents
 - [Europe](../locations/europe.md) - 6 shared documents
 - [Greece](../locations/greece.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
 - [Asia](../locations/asia.md) - 5 shared documents
+- [Belgium](../locations/belgium.md) - 5 shared documents
 - [France](../locations/france.md) - 5 shared documents
-- [Portugal](../locations/portugal.md) - 5 shared documents
+- [Ireland](../locations/ireland.md) - 5 shared documents
 
 **Events:**
 
 - [2012](../events/2012.md) - 7 shared documents
 - [2013](../events/2013.md) - 6 shared documents
-- [this year](../events/this-year.md) - 5 shared documents
 - [the year](../events/the-year.md) - 5 shared documents
-- [six months](../events/six-months.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [next year](../events/next-year.md) - 4 shared documents
-- [last week](../events/last-week.md) - 4 shared documents
+- [this year](../events/this-year.md) - 5 shared documents
 - [10-year](../events/10-year.md) - 4 shared documents
+- [10 years](../events/10-years.md) - 4 shared documents
+- [last week](../events/last-week.md) - 4 shared documents
+- [next year](../events/next-year.md) - 4 shared documents
+- [quarterly](../events/quarterly.md) - 4 shared documents
+- [six months](../events/six-months.md) - 4 shared documents
 
 ## Timeline
 

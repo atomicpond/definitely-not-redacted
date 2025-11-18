@@ -51,10 +51,10 @@ Top 6 documents by mention frequency:
 **Events:**
 
 - [two years](two-years.md) - 6 shared documents
-- [Sunday](sunday.md) - 6 shared documents
-- [2006](2006.md) - 6 shared documents
 - [1982](1982.md) - 6 shared documents
+- [2006](2006.md) - 6 shared documents
 - [September](september.md) - 6 shared documents
+- [Sunday](sunday.md) - 6 shared documents
 - [tomorrow](tomorrow.md) - 5 shared documents
 - [Twentieth Century](twentieth-century.md) - 5 shared documents
 - [two days later](two-days-later.md) - 5 shared documents

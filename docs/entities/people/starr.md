@@ -31,19 +31,18 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Ken Starr](ken-starr.md) - 6 shared documents
-- [Jeffrey E](jeffrey-e.md) - 5 shared documents
 - [Bill 
 Clinton](bill-clinton.md) - 5 shared documents
-- [CLINTON](clinton.md) - 5 shared documents
+- [Jeffrey E](jeffrey-e.md) - 5 shared documents
 - [Ken](ken.md) - 5 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 9 shared documents
 - [the Justice Department](../organizations/the-justice-department.md) - 5 shared documents
-- [Trump](../organizations/trump.md) - 4 shared documents
 - [the Department of Justice](../organizations/the-department-of-justice.md) - 4 shared documents
 - [the New York Times](../organizations/the-new-york-times.md) - 4 shared documents
+- [Trump](../organizations/trump.md) - 4 shared documents
 
 **Locations:**
 
@@ -51,8 +50,8 @@ Clinton](bill-clinton.md) - 5 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 4 shared documents
 - [the day](../events/the-day.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

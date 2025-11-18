@@ -23,8 +23,8 @@ Top 4 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](barack-obama.md) - 4 shared documents
 - [Middle East](middle-east.md) - 4 shared documents
-- [President Obama](president-obama.md) - 4 shared documents
 
 **Organizations:**
 
@@ -32,23 +32,23 @@ Top 4 documents by mention frequency:
 
 **Locations:**
 
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
+- [Britain](../locations/britain.md) - 4 shared documents
+- [Cairo](../locations/cairo.md) - 4 shared documents
 - [China](../locations/china.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
+- [Egypt](../locations/egypt.md) - 4 shared documents
 - [Iran](../locations/iran.md) - 4 shared documents
 - [Iraq](../locations/iraq.md) - 4 shared documents
-- [Libya](../locations/libya.md) - 4 shared documents
-- [Saudi Arabia](../locations/saudi-arabia.md) - 4 shared documents
-- [Syria](../locations/syria.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
 - [Israel](../locations/israel.md) - 4 shared documents
+- [Libya](../locations/libya.md) - 4 shared documents
+- [Russia](../locations/russia.md) - 4 shared documents
+- [Saudi Arabia](../locations/saudi-arabia.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
 - [2008](../events/2008.md) - 4 shared documents
 - [months](../events/months.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
+- [years](../events/years.md) - 4 shared documents
 
 ## Timeline
 

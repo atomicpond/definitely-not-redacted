@@ -26,34 +26,30 @@ Top 6 documents by mention frequency:
 **Organizations:**
 
 - [Harvard](harvard.md) - 5 shared documents
-- [Harvard University](harvard-university.md) - 4 shared documents
-- [Congress](congress.md) - 4 shared documents
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 5 shared documents
+- [America](../locations/america.md) - 5 shared documents
+- [Berlin](../locations/berlin.md) - 5 shared documents
 - [California](../locations/california.md) - 5 shared documents
 - [Irvine](../locations/irvine.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
 - [London](../locations/london.md) - 5 shared documents
-- [America](../locations/america.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [Berlin](../locations/berlin.md) - 5 shared documents
-- [Earth](../locations/earth.md) - 4 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 5 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 6 shared documents
-- [2012](../events/2012.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [one day](../events/one-day.md) - 5 shared documents
 - [1977](../events/1977.md) - 5 shared documents
-- [1986](../events/1986.md) - 4 shared documents
-- [2004](../events/2004.md) - 4 shared documents
-- [1996](../events/1996.md) - 4 shared documents
-- [2000](../events/2000.md) - 4 shared documents
-- [Monday](../events/monday.md) - 4 shared documents
+- [2012](../events/2012.md) - 5 shared documents
+- [one day](../events/one-day.md) - 5 shared documents
+- [years](../events/years.md) - 5 shared documents
+- [1951](../events/1951.md) - 4 shared documents
+- [1959](../events/1959.md) - 4 shared documents
+- [1961](../events/1961.md) - 4 shared documents
+- [1964](../events/1964.md) - 4 shared documents
+- [1967](../events/1967.md) - 4 shared documents
 
 ## Timeline
 

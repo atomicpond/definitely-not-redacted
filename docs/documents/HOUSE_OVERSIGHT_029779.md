@@ -9,7 +9,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Obama](../entities/people/mr-obama.md) - 37 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 37 mentions
 - [United 
 States](../entities/people/united-states.md) - 25 mentions
 - [Peres](../entities/people/peres.md) - 18 mentions

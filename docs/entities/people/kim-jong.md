@@ -25,8 +25,8 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
-- [Russia](../locations/russia.md) - 4 shared documents
 - [Iran](../locations/iran.md) - 4 shared documents
+- [Russia](../locations/russia.md) - 4 shared documents
 
 **Events:**
 

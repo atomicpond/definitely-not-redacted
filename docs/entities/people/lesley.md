@@ -31,7 +31,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Lesley Groff](lesley-groff.md) - 6 shared documents
-- [Mr. Obama](obama.md) - 5 shared documents
 - [Jeffrey](jeffrey.md) - 5 shared documents
 - [Jeffrey E](jeffrey-e.md) - 5 shared documents
 

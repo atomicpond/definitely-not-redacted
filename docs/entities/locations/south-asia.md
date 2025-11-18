@@ -42,8 +42,8 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [China](china.md) - 8 shared documents
 - [Asia](asia.md) - 8 shared documents
+- [China](china.md) - 8 shared documents
 - [the United States](the-united-states.md) - 7 shared documents
 - [Africa](africa.md) - 7 shared documents
 - [Europe](europe.md) - 7 shared documents
@@ -56,15 +56,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [2013](../events/2013.md) - 6 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
 - [2011](../events/2011.md) - 5 shared documents
 - [21st-century](../events/21st-century.md) - 5 shared documents
 - [decades](../events/decades.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
+- [years](../events/years.md) - 5 shared documents
+- [1990](../events/1990.md) - 4 shared documents
 - [2003](../events/2003.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
 - [2009](../events/2009.md) - 4 shared documents
-- [the 1980s](../events/the-1980s.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
 
 ## Timeline
 

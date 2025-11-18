@@ -56,24 +56,24 @@ Top 10 documents by mention frequency:
 - [Manhattan](../locations/manhattan.md) - 32 shared documents
 - [New Mexico](../locations/new-mexico.md) - 26 shared documents
 - [Florida](../locations/florida.md) - 25 shared documents
-- [London](../locations/london.md) - 24 shared documents
 - [America](../locations/america.md) - 24 shared documents
+- [London](../locations/london.md) - 24 shared documents
 - [New York City](../locations/new-york-city.md) - 24 shared documents
+- [England](../locations/england.md) - 23 shared documents
 - [New York](../locations/new-york.md) - 23 shared documents
-- [United States](../locations/united-states.md) - 23 shared documents
 
 **Events:**
 
 - [Sunday](../events/sunday.md) - 32 shared documents
 - [daily](../events/daily.md) - 31 shared documents
-- [2004](../events/2004.md) - 27 shared documents
 - [1982](../events/1982.md) - 27 shared documents
-- [today](../events/today.md) - 26 shared documents
+- [2004](../events/2004.md) - 27 shared documents
 - [2002](../events/2002.md) - 26 shared documents
+- [today](../events/today.md) - 26 shared documents
 - [two years](../events/two-years.md) - 26 shared documents
 - [years](../events/years.md) - 25 shared documents
 - [2006](../events/2006.md) - 24 shared documents
-- [last year](../events/last-year.md) - 23 shared documents
+- [2005](../events/2005.md) - 23 shared documents
 
 ## Timeline
 

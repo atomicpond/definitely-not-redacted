@@ -29,22 +29,22 @@ Top 8 documents by mention frequency:
 **Organizations:**
 
 - [Twitter](twitter.md) - 5 shared documents
-- [Trump](trump.md) - 4 shared documents
-- [the New York Times](the-new-york-times.md) - 4 shared documents
 - [Amazon](amazon.md) - 4 shared documents
+- [the New York Times](the-new-york-times.md) - 4 shared documents
+- [Trump](trump.md) - 4 shared documents
 
 **Locations:**
 
 - [China](../locations/china.md) - 7 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
 - [Asia](../locations/asia.md) - 4 shared documents
+- [Europe](../locations/europe.md) - 4 shared documents
 - [Pennsylvania](../locations/pennsylvania.md) - 4 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 5 shared documents
-- [annual](../events/annual.md) - 4 shared documents
 - [2017](../events/2017.md) - 4 shared documents
+- [annual](../events/annual.md) - 4 shared documents
 - [five years](../events/five-years.md) - 4 shared documents
 
 ## Timeline

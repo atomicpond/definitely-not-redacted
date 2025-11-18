@@ -50,14 +50,14 @@ Top 6 documents by mention frequency:
 
 - [May 2014](may-2014.md) - 5 shared documents
 - [year](year.md) - 5 shared documents
+- [1963](1963.md) - 5 shared documents
+- [1989](1989.md) - 5 shared documents
+- [1992](1992.md) - 5 shared documents
+- [2002](2002.md) - 5 shared documents
 - [2003](2003.md) - 5 shared documents
 - [2004](2004.md) - 5 shared documents
+- [2006](2006.md) - 5 shared documents
 - [2007](2007.md) - 5 shared documents
-- [2009](2009.md) - 5 shared documents
-- [2014](2014.md) - 5 shared documents
-- [2012](2012.md) - 5 shared documents
-- [2011](2011.md) - 5 shared documents
-- [2008](2008.md) - 5 shared documents
 
 ## Timeline
 

@@ -59,7 +59,7 @@ Sent](../people/redacted-sent.md) - 5 shared documents
 - [Sunday](sunday.md) - 11 shared documents
 - [age 17](age-17.md) - 11 shared documents
 - [Oct 18, 2013](oct-18,-2013.md) - 7 shared documents
-- [10/19/2013](10/19/2013.md) - 5 shared documents
+- **10/19/2013** - 5 shared documents
 
 ## Timeline
 

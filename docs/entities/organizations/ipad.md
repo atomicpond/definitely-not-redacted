@@ -30,16 +30,17 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jeffrey E](../people/jeffrey-e.md) - 52 shared documents
-- [Kathy 
-Ruemmler](../people/kathy-ruemmler.md) - 47 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 22 shared documents
-- [CLINTON](../people/clinton.md) - 18 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 18 shared documents
 - [On Sep](../people/on-sep.md) - 17 shared documents
 - [bill burns](../people/bill-burns.md) - 16 shared documents
 - [On Fri](../people/on-fri.md) - 16 shared documents
-- [Barack Obama](../people/barack-obama.md) - 14 shared documents
 - [jeffrey E. <](../people/jeffrey-e.md) - 14 shared documents
 - [On Sat](../people/on-sat.md) - 14 shared documents
+- [Kathy Ruemmler 
+Sent](../people/kathy-ruemmler-sent.md) - 13 shared documents
+- [sultan](../people/sultan.md) - 13 shared documents
+- [Jeffrey](../people/jeffrey.md) - 10 shared documents
 
 **Organizations:**
 
@@ -50,9 +51,9 @@ Ruemmler](../people/kathy-ruemmler.md) - 47 shared documents
 - [lenox hill](lenox-hill.md) - 14 shared documents
 - [council of europe](council-of-europe.md) - 14 shared documents
 - [Senate](senate.md) - 10 shared documents
-- [Fed](fed.md) - 10 shared documents
 - [Apple](apple.md) - 10 shared documents
 - [twitter glhsummers](twitter-glhsummers.md) - 9 shared documents
+- [Twitter](twitter.md) - 8 shared documents
 
 **Locations:**
 
@@ -64,8 +65,8 @@ Ruemmler](../people/kathy-ruemmler.md) - 47 shared documents
 - [England](../locations/england.md) - 14 shared documents
 - [New York](../locations/new-york.md) - 13 shared documents
 - [America](../locations/america.md) - 12 shared documents
+- [Boston](../locations/boston.md) - 11 shared documents
 - [Florida](../locations/florida.md) - 11 shared documents
-- [the United States](../locations/the-united-states.md) - 11 shared documents
 
 **Events:**
 
@@ -73,8 +74,8 @@ Ruemmler](../people/kathy-ruemmler.md) - 47 shared documents
 - [this week](../events/this-week.md) - 29 shared documents
 - [Sunday](../events/sunday.md) - 19 shared documents
 - [2016](../events/2016.md) - 18 shared documents
-- [Friday](../events/friday.md) - 17 shared documents
 - [all week](../events/all-week.md) - 17 shared documents
+- [Friday](../events/friday.md) - 17 shared documents
 - [2015](../events/2015.md) - 14 shared documents
 - [yesterday](../events/yesterday.md) - 14 shared documents
 - [tomorrow](../events/tomorrow.md) - 13 shared documents

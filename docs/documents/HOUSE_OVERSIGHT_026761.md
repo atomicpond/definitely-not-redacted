@@ -17,7 +17,7 @@
 Street](../entities/people/wall-street.md) - 2 mentions
 - [Joseph Biden](../entities/people/joseph-biden.md) - 1 mention
 - [Cancer Moonshot](../entities/people/cancer-moonshot.md) - 1 mention
-- [Dr. William](../entities/people/dr-william.md) - 1 mention
+- [Dr. William](../entities/people/william.md) - 1 mention
 
 ### Organizations
 - [Forbes](../entities/organizations/forbes.md) - 1 mention

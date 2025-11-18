@@ -33,8 +33,8 @@ Top 8 documents by mention frequency:
 - [Jane Doe](jane-doe.md) - 7 shared documents
 - [Jean Luc Brunel](jean-luc-brunel.md) - 7 shared documents
 - [Vanity Fair](vanity-fair.md) - 6 shared documents
-- [Bradley Edwards](bradley-edwards.md) - 6 shared documents
-- [Les Wexner](les-wexner.md) - 6 shared documents
+- [Brad Edwards](brad-edwards.md) - 6 shared documents
+- [El Brillo Way](el-brillo-way.md) - 6 shared documents
 - [Paul Cassell](paul-cassell.md) - 5 shared documents
 
 **Organizations:**
@@ -42,34 +42,34 @@ Top 8 documents by mention frequency:
 - [Maxwell](../organizations/maxwell.md) - 8 shared documents
 - [FBI](../organizations/fbi.md) - 6 shared documents
 - [Harvard](../organizations/harvard.md) - 6 shared documents
-- [Vanity Fair](../organizations/vanity-fair.md) - 6 shared documents
 - [MC2](../organizations/mc2.md) - 6 shared documents
+- [Vanity Fair](../organizations/vanity-fair.md) - 6 shared documents
 
 **Locations:**
 
-- [Florida](../locations/florida.md) - 8 shared documents
-- [the United States](../locations/the-united-states.md) - 8 shared documents
+- [Brunel](../locations/brunel.md) - 8 shared documents
 - [England](../locations/england.md) - 8 shared documents
+- [Florida](../locations/florida.md) - 8 shared documents
 - [New Mexico](../locations/new-mexico.md) - 8 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 8 shared documents
-- [Brunel](../locations/brunel.md) - 8 shared documents
+- [the United States](../locations/the-united-states.md) - 8 shared documents
 - [London](../locations/london.md) - 7 shared documents
-- [Virginia](../locations/virginia.md) - 7 shared documents
 - [Manhattan](../locations/manhattan.md) - 7 shared documents
+- [Virginia](../locations/virginia.md) - 7 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 7 shared documents
 
 **Events:**
 
 - [2009](../events/2009.md) - 7 shared documents
-- [today](../events/today.md) - 7 shared documents
 - [2010](../events/2010.md) - 7 shared documents
 - [the day](../events/the-day.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
 - [2003](../events/2003.md) - 6 shared documents
 - [2007](../events/2007.md) - 6 shared documents
-- [2015](../events/2015.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
-- [August](../events/august.md) - 6 shared documents
 - [2011](../events/2011.md) - 6 shared documents
+- [2015](../events/2015.md) - 6 shared documents
+- [a few weeks](../events/a-few-weeks.md) - 6 shared documents
+- [August](../events/august.md) - 6 shared documents
 
 ## Timeline
 

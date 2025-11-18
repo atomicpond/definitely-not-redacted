@@ -51,29 +51,29 @@ Top 9 documents by mention frequency:
 
 **Locations:**
 
-- [Russia](../locations/russia.md) - 8 shared documents
 - [Germany](../locations/germany.md) - 8 shared documents
 - [Iran](../locations/iran.md) - 8 shared documents
-- [United States](../locations/united-states.md) - 7 shared documents
-- [China](../locations/china.md) - 7 shared documents
-- [Washington](../locations/washington.md) - 7 shared documents
-- [the United States](../locations/the-united-states.md) - 7 shared documents
+- [Russia](../locations/russia.md) - 8 shared documents
 - [Beijing](../locations/beijing.md) - 7 shared documents
-- [Europe](../locations/europe.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
+- [China](../locations/china.md) - 7 shared documents
+- [the United States](../locations/the-united-states.md) - 7 shared documents
+- [United States](../locations/united-states.md) - 7 shared documents
+- [Washington](../locations/washington.md) - 7 shared documents
+- [America](../locations/america.md) - 6 shared documents
+- [Asia](../locations/asia.md) - 6 shared documents
 
 **Events:**
 
-- [annual](../events/annual.md) - 7 shared documents
+- [1989](../events/1989.md) - 7 shared documents
 - [2000](../events/2000.md) - 7 shared documents
 - [2012](../events/2012.md) - 7 shared documents
 - [2013](../events/2013.md) - 7 shared documents
-- [1989](../events/1989.md) - 7 shared documents
+- [annual](../events/annual.md) - 7 shared documents
+- [1979](../events/1979.md) - 6 shared documents
 - [2014](../events/2014.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
-- [the years](../events/the-years.md) - 6 shared documents
 - [a few years](../events/a-few-years.md) - 6 shared documents
+- [decades](../events/decades.md) - 6 shared documents
+- [the day](../events/the-day.md) - 6 shared documents
 
 ## Timeline
 

@@ -32,16 +32,16 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Epstein](epstein.md) - 28 shared documents
-- [Brad Edwards](brad-edwards.md) - 26 shared documents
-- [Jeffrey Epstein](jeffrey-epstein.md) - 25 shared documents
 - [New Mexico](new-mexico.md) - 24 shared documents
 - [Rights Act](rights-act.md) - 23 shared documents
 - [Jane Does](jane-does.md) - 22 shared documents
-- [Bradley Edwards](bradley-edwards.md) - 22 shared documents
 - [Paul Cassell](paul-cassell.md) - 21 shared documents
+- [Crime Victims](crime-victims.md) - 21 shared documents
 - [Sarah Kellen](sarah-kellen.md) - 20 shared documents
 - [Les Wexner](les-wexner.md) - 18 shared documents
+- [Vanity Fair](vanity-fair.md) - 17 shared documents
+- [Paul G. Cassell](paul-g-cassell.md) - 16 shared documents
+- [Jean Luc Brunel](jean-luc-brunel.md) - 14 shared documents
 
 **Organizations:**
 
@@ -61,20 +61,20 @@ Top 10 documents by mention frequency:
 - [the United States](../locations/the-united-states.md) - 31 shared documents
 - [Miami](../locations/miami.md) - 28 shared documents
 - [U.S.](../locations/us.md) - 27 shared documents
-- [Virginia](../locations/virginia.md) - 26 shared documents
 - [Manhattan](../locations/manhattan.md) - 26 shared documents
+- [Virginia](../locations/virginia.md) - 26 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 32 shared documents
 - [2001](../events/2001.md) - 32 shared documents
+- [today](../events/today.md) - 32 shared documents
 - [2007](../events/2007.md) - 31 shared documents
 - [2008](../events/2008.md) - 31 shared documents
-- [2011](../events/2011.md) - 28 shared documents
 - [2010](../events/2010.md) - 28 shared documents
+- [2011](../events/2011.md) - 28 shared documents
+- [2002](../events/2002.md) - 27 shared documents
 - [2009](../events/2009.md) - 27 shared documents
 - [daily](../events/daily.md) - 27 shared documents
-- [2002](../events/2002.md) - 27 shared documents
 - [Sunday](../events/sunday.md) - 26 shared documents
 
 ## Timeline

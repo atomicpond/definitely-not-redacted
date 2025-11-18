@@ -34,8 +34,8 @@ Top 7 documents by mention frequency:
 - [West Palm Beach](../locations/west-palm-beach.md) - 5 shared documents
 - [Africa](../locations/africa.md) - 4 shared documents
 - [Brooklyn](../locations/brooklyn.md) - 4 shared documents
-- [Paris](../locations/paris.md) - 4 shared documents
 - [New Mexico](../locations/new-mexico.md) - 4 shared documents
+- [Paris](../locations/paris.md) - 4 shared documents
 
 **Events:**
 

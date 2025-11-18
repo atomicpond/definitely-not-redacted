@@ -59,26 +59,26 @@ Top 10 documents by mention frequency:
 - [Palm Beach](../locations/palm-beach.md) - 22 shared documents
 - [Manhattan](../locations/manhattan.md) - 20 shared documents
 - [Europe](../locations/europe.md) - 18 shared documents
-- [Paris](../locations/paris.md) - 17 shared documents
 - [New Mexico](../locations/new-mexico.md) - 17 shared documents
+- [Paris](../locations/paris.md) - 17 shared documents
 - [Coney Island](../locations/coney-island.md) - 16 shared documents
 - [Britain](../locations/britain.md) - 15 shared documents
 - [Connecticut](../locations/connecticut.md) - 13 shared documents
 - [America](../locations/america.md) - 12 shared documents
-- [Florida](../locations/florida.md) - 12 shared documents
+- [Dalton](../locations/dalton.md) - 12 shared documents
 
 **Events:**
 
-- [the 1980s](../events/the-1980s.md) - 15 shared documents
+- [1982](../events/1982.md) - 15 shared documents
+- [2002](../events/2002.md) - 15 shared documents
+- [2006](../events/2006.md) - 15 shared documents
 - [last year](../events/last-year.md) - 15 shared documents
 - [Sunday](../events/sunday.md) - 15 shared documents
-- [2006](../events/2006.md) - 15 shared documents
-- [2002](../events/2002.md) - 15 shared documents
-- [1982](../events/1982.md) - 15 shared documents
+- [the 1980s](../events/the-1980s.md) - 15 shared documents
 - [the day](../events/the-day.md) - 15 shared documents
+- [18 months](../events/18-months.md) - 14 shared documents
 - [2004](../events/2004.md) - 14 shared documents
 - [Saturday](../events/saturday.md) - 14 shared documents
-- [18 months](../events/18-months.md) - 14 shared documents
 
 ## Timeline
 

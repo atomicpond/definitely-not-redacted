@@ -32,8 +32,8 @@ Top 7 documents by mention frequency:
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
 - [May](../events/may.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [July](../events/july.md) - 4 shared documents
 - [months](../events/months.md) - 4 shared documents
 

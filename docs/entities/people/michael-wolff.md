@@ -33,17 +33,18 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jeffrey E](jeffrey-e.md) - 58 shared documents
-- [Jeffrey Epstein](jeffrey-epstein.md) - 40 shared documents
 - [jeffrey E. <](jeffrey-e.md) - 34 shared documents
-- [Mr. Bannon](bannon.md) - 28 shared documents
 - [White House](white-house.md) - 27 shared documents
 - [jeffrey E.](jeffrey-e.md) - 25 shared documents
-- [Epstein](epstein.md) - 22 shared documents
 - [Kathy 
 Ruemmler](kathy-ruemmler.md) - 18 shared documents
-- [jeffrey E. <](jeffrey-e.md) - 17 shared documents
 - [Michael Wolff 
 Sent](michael-wolff-sent.md) - 15 shared documents
+- [Michael Wolff 
+Subject](michael-wolff-subject.md) - 14 shared documents
+- [Nigel Farage](nigel-farage.md) - 12 shared documents
+- [European Parliament](european-parliament.md) - 12 shared documents
+- [Freedom Caucus](freedom-caucus.md) - 12 shared documents
 
 **Organizations:**
 
@@ -78,8 +79,10 @@ Sent](michael-wolff-sent.md) - 15 shared documents
 - [Friday](../events/friday.md) - 17 shared documents
 - [2014](../events/2014.md) - 15 shared documents
 - [2019](../events/2019.md) - 13 shared documents
-- [Monday](../events/monday.md) - 12 shared documents
 - [65](../events/65.md) - 12 shared documents
+- [Monday](../events/monday.md) - 12 shared documents
+- [1984](../events/1984.md) - 11 shared documents
+- [2018-07-22](../events/2018-07-22.md) - 11 shared documents
 
 ## Timeline
 

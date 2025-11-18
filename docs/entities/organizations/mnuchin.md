@@ -29,11 +29,12 @@ Top 8 documents by mention frequency:
 
 **People:**
 
+- [Donald 
+Trump](../people/donald-trump.md) - 5 shared documents
 - [Financial Reporter](../people/financial-reporter.md) - 5 shared documents
-- [hillary](../people/hillary.md) - 5 shared documents
+- [Hillary Clinton](../people/hillary-clinton.md) - 5 shared documents
 - [Landon Thomas](../people/landon-thomas.md) - 5 shared documents
 - [Reagan](../people/reagan.md) - 5 shared documents
-- [The Trump](../people/the-trump.md) - 5 shared documents
 - [Trump 
 Importance](../people/trump-importance.md) - 5 shared documents
 
@@ -46,8 +47,8 @@ Importance](../people/trump-importance.md) - 5 shared documents
 
 **Events:**
 
-- [last week](../events/last-week.md) - 5 shared documents
 - [11/14/2016](../events/11142016.md) - 5 shared documents
+- [last week](../events/last-week.md) - 5 shared documents
 
 ## Timeline
 

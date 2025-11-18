@@ -30,15 +30,16 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 27 shared documents
-- [President Obama](../people/president-obama.md) - 23 shared documents
 - [Middle East](../people/middle-east.md) - 22 shared documents
-- [Barack Obama](../people/barack-obama.md) - 19 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 19 shared documents
-- [Mr. Obama](../people/obama.md) - 16 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 12 shared documents
 - [San Francisco](../people/san-francisco.md) - 11 shared documents
 - [Security Council](../people/security-council.md) - 11 shared documents
 - [Joe Biden](../people/joe-biden.md) - 9 shared documents
+- [Mexico City](../people/mexico-city.md) - 9 shared documents
+- [United 
+States](../people/united-states.md) - 9 shared documents
+- [Ali Akbar Salehi](../people/ali-akbar-salehi.md) - 8 shared documents
 
 **Organizations:**
 
@@ -49,22 +50,22 @@ Top 10 documents by mention frequency:
 - [State](state.md) - 22 shared documents
 - [CIA](cia.md) - 19 shared documents
 - [Harvard](harvard.md) - 18 shared documents
-- [the Washington Post](the-washington-post.md) - 17 shared documents
 - [Yahoo](yahoo.md) - 9 shared documents
 - [Yale](yale.md) - 8 shared documents
+- [YouTube](youtube.md) - 6 shared documents
 
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 33 shared documents
-- [Washington](../locations/washington.md) - 30 shared documents
 - [America](../locations/america.md) - 30 shared documents
+- [Washington](../locations/washington.md) - 30 shared documents
 - [Iraq](../locations/iraq.md) - 27 shared documents
 - [Russia](../locations/russia.md) - 26 shared documents
 - [Europe](../locations/europe.md) - 25 shared documents
 - [Iran](../locations/iran.md) - 25 shared documents
 - [Germany](../locations/germany.md) - 24 shared documents
 - [Syria](../locations/syria.md) - 24 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 23 shared documents
+- [France](../locations/france.md) - 23 shared documents
 
 **Events:**
 
@@ -76,8 +77,8 @@ Top 10 documents by mention frequency:
 - [2009](../events/2009.md) - 22 shared documents
 - [years](../events/years.md) - 22 shared documents
 - [2012](../events/2012.md) - 21 shared documents
-- [last week](../events/last-week.md) - 20 shared documents
 - [2010](../events/2010.md) - 20 shared documents
+- [last week](../events/last-week.md) - 20 shared documents
 
 ## Timeline
 

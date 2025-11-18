@@ -27,7 +27,7 @@ Top 6 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [White House](../people/white-house.md) - 5 shared documents
 - [Asia Pacific](../people/asia-pacific.md) - 4 shared documents
 - [General Partner](../people/general-partner.md) - 4 shared documents
@@ -42,30 +42,30 @@ Top 6 documents by mention frequency:
 - [MIT](mit.md) - 4 shared documents
 - [Stanford University](stanford-university.md) - 4 shared documents
 - [Treasury](treasury.md) - 4 shared documents
-- [HOUSE](house.md) - 4 shared documents
-- [Harvard University](harvard-university.md) - 4 shared documents
-- [CFO](cfo.md) - 4 shared documents
-- [Goldman Sachs](goldman-sachs.md) - 4 shared documents
 - [Business Development](business-development.md) - 4 shared documents
+- [CFO](cfo.md) - 4 shared documents
 - [COO](coo.md) - 4 shared documents
+- [Goldman Sachs](goldman-sachs.md) - 4 shared documents
+- [Harvard Business School](harvard-business-school.md) - 4 shared documents
+- [Harvard University](harvard-university.md) - 4 shared documents
 
 **Locations:**
 
 - [Los Angeles](../locations/los-angeles.md) - 5 shared documents
-- [U.S.](../locations/us.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
 - [Germany](../locations/germany.md) - 4 shared documents
-- [San Francisco](../locations/san-francisco.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
 - [Netherlands](../locations/netherlands.md) - 4 shared documents
+- [San Francisco](../locations/san-francisco.md) - 4 shared documents
+- [U.S.](../locations/us.md) - 4 shared documents
 - [Utah](../locations/utah.md) - 4 shared documents
 
 **Events:**
 
+- [2005-2006](../events/2005-2006.md) - 4 shared documents
 - [2007](../events/2007.md) - 4 shared documents
 - [2009](../events/2009.md) - 4 shared documents
 - [2014](../events/2014.md) - 4 shared documents
 - [weekly](../events/weekly.md) - 4 shared documents
-- [2005-2006](../events/2005-2006.md) - 4 shared documents
 
 ## Timeline
 

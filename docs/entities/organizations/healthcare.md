@@ -37,9 +37,9 @@ Top 10 documents by mention frequency:
 - [America Merrill Lynch](../people/america-merrill-lynch.md) - 6 shared documents
 - [Asia Pacific](../people/asia-pacific.md) - 6 shared documents
 - [Australian Securities](../people/australian-securities.md) - 6 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Exchange Act](../people/exchange-act.md) - 6 shared documents
 - [Exchange Board](../people/exchange-board.md) - 6 shared documents
-- [Federal Reserve](../people/federal-reserve.md) - 6 shared documents
 
 **Organizations:**
 
@@ -49,36 +49,36 @@ Top 10 documents by mention frequency:
 - [S&P](sp.md) - 10 shared documents
 - [Fed](fed.md) - 10 shared documents
 - [Treasury](treasury.md) - 9 shared documents
-- [ECB](ecb.md) - 9 shared documents
 - [USD](usd.md) - 8 shared documents
 - [HOUSE](house.md) - 7 shared documents
 - [JPY](jpy.md) - 7 shared documents
+- [MAS](mas.md) - 7 shared documents
 
 **Locations:**
 
-- [Japan](../locations/japan.md) - 15 shared documents
 - [Canada](../locations/canada.md) - 15 shared documents
-- [Germany](../locations/germany.md) - 14 shared documents
+- [Japan](../locations/japan.md) - 15 shared documents
 - [Asia](../locations/asia.md) - 14 shared documents
+- [Germany](../locations/germany.md) - 14 shared documents
 - [Brazil](../locations/brazil.md) - 13 shared documents
 - [India](../locations/india.md) - 13 shared documents
 - [Spain](../locations/spain.md) - 13 shared documents
-- [Russia](../locations/russia.md) - 12 shared documents
-- [France](../locations/france.md) - 12 shared documents
 - [Australia](../locations/australia.md) - 12 shared documents
+- [France](../locations/france.md) - 12 shared documents
+- [Russia](../locations/russia.md) - 12 shared documents
 
 **Events:**
 
 - [2013](../events/2013.md) - 16 shared documents
 - [2018](../events/2018.md) - 12 shared documents
-- [2015](../events/2015.md) - 11 shared documents
-- [today](../events/today.md) - 11 shared documents
 - [2012](../events/2012.md) - 11 shared documents
-- [this year](../events/this-year.md) - 11 shared documents
+- [2015](../events/2015.md) - 11 shared documents
 - [2017](../events/2017.md) - 11 shared documents
-- [annual](../events/annual.md) - 10 shared documents
+- [this year](../events/this-year.md) - 11 shared documents
+- [today](../events/today.md) - 11 shared documents
 - [2000](../events/2000.md) - 10 shared documents
-- [2014](../events/2014.md) - 9 shared documents
+- [annual](../events/annual.md) - 10 shared documents
+- [10-year](../events/10-year.md) - 9 shared documents
 
 ## Timeline
 

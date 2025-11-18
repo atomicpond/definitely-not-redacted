@@ -34,22 +34,23 @@ Top 10 documents by mention frequency:
 
 - [Middle East](../people/middle-east.md) - 23 shared documents
 - [White House](../people/white-house.md) - 18 shared documents
-- [President Obama](../people/president-obama.md) - 17 shared documents
-- [Barack Obama](../people/barack-obama.md) - 15 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 15 shared documents
 - [Goldman Sachs](../people/goldman-sachs.md) - 10 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 10 shared documents
 - [Vietnam War](../people/vietnam-war.md) - 10 shared documents
+- [Barack Obama](../people/barack-obama.md) - 9 shared documents
 - [Federal Reserve](../people/federal-reserve.md) - 9 shared documents
-- [Mr. Obama](../people/obama.md) - 9 shared documents
+- [San Francisco](../people/san-francisco.md) - 9 shared documents
+- [United 
+States](../people/united-states.md) - 9 shared documents
 
 **Organizations:**
 
 - [HOUSE](house.md) - 26 shared documents
 - [Congress](congress.md) - 23 shared documents
 - [CNN](cnn.md) - 19 shared documents
-- [the New York Times](the-new-york-times.md) - 19 shared documents
 - [New York Times](new-york-times.md) - 19 shared documents
+- [the New York Times](the-new-york-times.md) - 19 shared documents
 - [White House](white-house.md) - 18 shared documents
 - [the White House](the-white-house.md) - 16 shared documents
 - [Washington Post](washington-post.md) - 13 shared documents
@@ -66,8 +67,8 @@ Top 10 documents by mention frequency:
 - [Asia](../locations/asia.md) - 24 shared documents
 - [France](../locations/france.md) - 24 shared documents
 - [Germany](../locations/germany.md) - 23 shared documents
-- [Russia](../locations/russia.md) - 22 shared documents
 - [India](../locations/india.md) - 22 shared documents
+- [Russia](../locations/russia.md) - 22 shared documents
 
 **Events:**
 
@@ -75,12 +76,12 @@ Top 10 documents by mention frequency:
 - [2008](../events/2008.md) - 25 shared documents
 - [2009](../events/2009.md) - 24 shared documents
 - [2003](../events/2003.md) - 23 shared documents
-- [2011](../events/2011.md) - 22 shared documents
 - [2010](../events/2010.md) - 22 shared documents
-- [years](../events/years.md) - 20 shared documents
-- [last week](../events/last-week.md) - 20 shared documents
+- [2011](../events/2011.md) - 22 shared documents
 - [2013](../events/2013.md) - 20 shared documents
-- [2007](../events/2007.md) - 19 shared documents
+- [last week](../events/last-week.md) - 20 shared documents
+- [years](../events/years.md) - 20 shared documents
+- [1991](../events/1991.md) - 19 shared documents
 
 ## Timeline
 

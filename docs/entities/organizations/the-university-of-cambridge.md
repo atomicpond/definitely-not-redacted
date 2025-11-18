@@ -28,38 +28,28 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [Harvard University](harvard-university.md) - 5 shared documents
 - [Harvard](harvard.md) - 5 shared documents
+- [Harvard University](harvard-university.md) - 5 shared documents
 - [Stanford University](stanford-university.md) - 5 shared documents
-- [Facebook](facebook.md) - 4 shared documents
-- [the New York Times](the-new-york-times.md) - 4 shared documents
-- [New York Times](new-york-times.md) - 4 shared documents
 
 **Locations:**
 
 - [California](../locations/california.md) - 5 shared documents
 - [Cambridge](../locations/cambridge.md) - 5 shared documents
 - [India](../locations/india.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
-- [London](../locations/london.md) - 4 shared documents
-- [America](../locations/america.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
 
 **Events:**
 
 - [years](../events/years.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [2004](../events/2004.md) - 4 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [1996](../events/1996.md) - 4 shared documents
-- [daily](../events/daily.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
+- [1964](../events/1964.md) - 4 shared documents
+- [1972](../events/1972.md) - 4 shared documents
+- [1976](../events/1976.md) - 4 shared documents
+- [1982](../events/1982.md) - 4 shared documents
+- [1983](../events/1983.md) - 4 shared documents
 - [1985](../events/1985.md) - 4 shared documents
+- [1991](../events/1991.md) - 4 shared documents
 - [1993](../events/1993.md) - 4 shared documents
+- [1994](../events/1994.md) - 4 shared documents
 
 ## Timeline
 

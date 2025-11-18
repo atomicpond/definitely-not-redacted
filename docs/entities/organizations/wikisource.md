@@ -36,9 +36,10 @@ Sent](../people/attorney-general-sent.md) - 7 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 7 shared documents
 - [Kathy 
 Ruemmler](../people/kathy-ruemmler.md) - 7 shared documents
-- [Senator Barack Obama](../people/senator-barack-obama.md) - 7 shared documents
 - [Eric](../people/eric.md) - 6 shared documents
 - [jeffrey E. <jeevacation@gmail.com](../people/jeffrey-e-jeevacationgmailcom.md) - 6 shared documents
+- [Kathy Ruemmler 
+Sent](../people/kathy-ruemmler-sent.md) - 6 shared documents
 
 **Organizations:**
 
@@ -53,16 +54,16 @@ Ruemmler](../people/kathy-ruemmler.md) - 7 shared documents
 
 **Events:**
 
-- [September 20 2014](../events/september-20-2014.md) - 7 shared documents
 - [Saturday, September 20, 2014](../events/saturday-september-20-2014.md) - 7 shared documents
-- [a year](../events/a-year.md) - 6 shared documents
-- [Sat](../events/sat.md) - 6 shared documents
-- [mid-October](../events/mid-october.md) - 6 shared documents
+- [September 20 2014](../events/september-20-2014.md) - 7 shared documents
 - [10:03 AM](../events/1003-am.md) - 6 shared documents
 - [12:59 PM](../events/1259-pm.md) - 6 shared documents
 - [2:25 PM](../events/225-pm.md) - 6 shared documents
 - [3:49 PM](../events/349-pm.md) - 6 shared documents
 - [3:54 PM](../events/354-pm.md) - 6 shared documents
+- [a year](../events/a-year.md) - 6 shared documents
+- [mid-October](../events/mid-october.md) - 6 shared documents
+- [Sat](../events/sat.md) - 6 shared documents
 
 ## Timeline
 

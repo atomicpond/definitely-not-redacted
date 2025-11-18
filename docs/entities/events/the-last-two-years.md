@@ -69,7 +69,7 @@ Top 10 documents by mention frequency:
 - [the year](the-year.md) - 6 shared documents
 - [year](year.md) - 6 shared documents
 - [years](years.md) - 6 shared documents
-- [Monday](monday.md) - 6 shared documents
+- [1995](1995.md) - 6 shared documents
 
 ## Timeline
 

@@ -13,7 +13,7 @@
 - [Richard Kahn](../entities/people/richard-kahn.md) - 2 mentions
 - [Michelle Obama](../entities/people/michelle-obama.md) - 2 mentions
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Mr. 
 Trump](../entities/people/mr-trump.md) - 1 mention
 - [Mark](../entities/people/mark.md) - 1 mention

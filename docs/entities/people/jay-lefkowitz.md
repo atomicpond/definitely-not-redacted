@@ -34,7 +34,7 @@ Top 10 documents by mention frequency:
 - [Rights Act](rights-act.md) - 13 shared documents
 - [New Mexico](new-mexico.md) - 12 shared documents
 - [Jane Doe](jane-doe.md) - 11 shared documents
-- [Bradley Edwards](bradley-edwards.md) - 10 shared documents
+- [Brad Edwards](brad-edwards.md) - 10 shared documents
 - [Sarah Kellen](sarah-kellen.md) - 9 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 8 shared documents
 - [Jeffrey Sloman](jeffrey-sloman.md) - 8 shared documents
@@ -50,8 +50,8 @@ Top 10 documents by mention frequency:
 - [Kirkland & Ellis LLP](../organizations/kirkland-ellis-llp.md) - 13 shared documents
 - [Maxwell](../organizations/maxwell.md) - 11 shared documents
 - [the New York Times](../organizations/the-new-york-times.md) - 10 shared documents
-- [Trump](../organizations/trump.md) - 9 shared documents
 - [Court](../organizations/court.md) - 9 shared documents
+- [the Department of Justice](../organizations/the-department-of-justice.md) - 9 shared documents
 
 **Locations:**
 
@@ -60,11 +60,11 @@ Top 10 documents by mention frequency:
 - [West Palm Beach](../locations/west-palm-beach.md) - 15 shared documents
 - [Florida](../locations/florida.md) - 14 shared documents
 - [California](../locations/california.md) - 12 shared documents
-- [United States](../locations/united-states.md) - 12 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 12 shared documents
-- [the United States](../locations/the-united-states.md) - 12 shared documents
 - [New Mexico](../locations/new-mexico.md) - 12 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 12 shared documents
+- [the Southern District](../locations/the-southern-district.md) - 12 shared documents
+- [the United States](../locations/the-united-states.md) - 12 shared documents
+- [United States](../locations/united-states.md) - 12 shared documents
 
 **Events:**
 
@@ -73,11 +73,11 @@ Top 10 documents by mention frequency:
 - [18 months](../events/18-months.md) - 12 shared documents
 - [November](../events/november.md) - 11 shared documents
 - [the day](../events/the-day.md) - 11 shared documents
-- [2007](../events/2007.md) - 10 shared documents
-- [years](../events/years.md) - 10 shared documents
 - [2005](../events/2005.md) - 10 shared documents
 - [2006](../events/2006.md) - 10 shared documents
+- [2007](../events/2007.md) - 10 shared documents
 - [June 30, 2008](../events/june-30-2008.md) - 10 shared documents
+- [years](../events/years.md) - 10 shared documents
 
 ## Timeline
 

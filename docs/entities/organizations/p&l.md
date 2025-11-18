@@ -49,7 +49,7 @@ Top 9 documents by mention frequency:
 - [Pierce, Fenner & Smith Incorporated](pierce,-fenner-&-smith-incorporated.md) - 4 shared documents
 - [PRA](pra.md) - 4 shared documents
 - [Pte Ltd](pte-ltd.md) - 4 shared documents
-- [Pty) Ltd.](pty)-ltd..md) - 4 shared documents
+- **Pty) Ltd.**-ltd..md) - 4 shared documents
 - [Restricted](restricted.md) - 4 shared documents
 - [Review or Extended Review](review-or-extended-review.md) - 4 shared documents
 

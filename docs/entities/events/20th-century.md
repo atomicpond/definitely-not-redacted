@@ -31,11 +31,8 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 9 shared documents
-- [President Obama](../people/president-obama.md) - 8 shared documents
 - [Cold War](../people/cold-war.md) - 7 shared documents
 - [Communist Party](../people/communist-party.md) - 7 shared documents
-- [Mr. Obama](../people/obama.md) - 7 shared documents
 - [Alan Greenspan](../people/alan-greenspan.md) - 6 shared documents
 - [Angela Merkel](../people/angela-merkel.md) - 6 shared documents
 - [East Asia](../people/east-asia.md) - 6 shared documents

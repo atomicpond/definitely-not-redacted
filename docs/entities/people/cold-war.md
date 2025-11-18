@@ -29,16 +29,16 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](president-obama.md) - 28 shared documents
-- [Barack Obama](barack-obama.md) - 22 shared documents
 - [Middle East](middle-east.md) - 17 shared documents
 - [Saudi Arabia](saudi-arabia.md) - 13 shared documents
 - [White House](white-house.md) - 12 shared documents
 - [Communist Party](communist-party.md) - 10 shared documents
 - [East Asia](east-asia.md) - 10 shared documents
-- [Mr. Obama](obama.md) - 10 shared documents
 - [Soviet Union](soviet-union.md) - 10 shared documents
 - [West Bank](west-bank.md) - 10 shared documents
+- [Federal Reserve](federal-reserve.md) - 9 shared documents
+- [Islamic Republic](islamic-republic.md) - 9 shared documents
+- [Security Council](security-council.md) - 9 shared documents
 
 **Organizations:**
 
@@ -51,8 +51,8 @@ Top 10 documents by mention frequency:
 
 - [Russia](../locations/russia.md) - 31 shared documents
 - [China](../locations/china.md) - 29 shared documents
-- [Japan](../locations/japan.md) - 25 shared documents
 - [Germany](../locations/germany.md) - 25 shared documents
+- [Japan](../locations/japan.md) - 25 shared documents
 - [the Soviet Union](../locations/the-soviet-union.md) - 25 shared documents
 - [America](../locations/america.md) - 24 shared documents
 - [Europe](../locations/europe.md) - 22 shared documents
@@ -63,12 +63,12 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [years](../events/years.md) - 25 shared documents
-- [today](../events/today.md) - 21 shared documents
 - [decades](../events/decades.md) - 21 shared documents
+- [today](../events/today.md) - 21 shared documents
+- [1991](../events/1991.md) - 19 shared documents
 - [2008](../events/2008.md) - 19 shared documents
 - [2013](../events/2013.md) - 19 shared documents
 - [the day](../events/the-day.md) - 19 shared documents
-- [1991](../events/1991.md) - 19 shared documents
 - [1996](../events/1996.md) - 18 shared documents
 - [2003](../events/2003.md) - 17 shared documents
 - [2009](../events/2009.md) - 17 shared documents

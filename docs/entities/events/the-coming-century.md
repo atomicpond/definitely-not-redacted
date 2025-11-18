@@ -29,12 +29,12 @@ Top 5 documents by mention frequency:
 - [Angela Merkel](../people/angela-merkel.md) - 5 shared documents
 - [Australian Labor Party](../people/australian-labor-party.md) - 5 shared documents
 - [Barack Obama](../people/barack-obama.md) - 5 shared documents
-- [Barak Obama](../people/barak-obama.md) - 5 shared documents
 - [Berlin Wall](../people/berlin-wall.md) - 5 shared documents
 - [Bill 
 Clinton](../people/bill-clinton.md) - 5 shared documents
 - [Bob Hawke](../people/bob-hawke.md) - 5 shared documents
 - [Bush Sr](../people/bush-sr.md) - 5 shared documents
+- [Chancellor Merkel](../people/chancellor-merkel.md) - 5 shared documents
 
 **Organizations:**
 
@@ -63,13 +63,13 @@ Clinton](../people/bill-clinton.md) - 5 shared documents
 - [years](years.md) - 5 shared documents
 - [1990s](1990s.md) - 5 shared documents
 - [1996](1996.md) - 5 shared documents
-- [last week](last-week.md) - 5 shared documents
 - [2008](2008.md) - 5 shared documents
-- [the 1990s](the-1990s.md) - 5 shared documents
-- [20th Century](20th-century.md) - 5 shared documents
-- [the 21st century](the-21st-century.md) - 5 shared documents
 - [2050](2050.md) - 5 shared documents
-- [the 1980s and 1990s](the-1980s-and-1990s.md) - 5 shared documents
+- [20th Century](20th-century.md) - 5 shared documents
+- [25 years ago](25-years-ago.md) - 5 shared documents
+- [By 2050](by-2050.md) - 5 shared documents
+- [last week](last-week.md) - 5 shared documents
+- [October 22, 2011](october-22-2011.md) - 5 shared documents
 
 ## Timeline
 

@@ -35,8 +35,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 26 shared documents
-- [Barack Obama](../people/barack-obama.md) - 25 shared documents
-- [President Obama](../people/president-obama.md) - 21 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 21 shared documents
 - [Security Council](../people/security-council.md) - 19 shared documents
 - [West Bank](../people/west-bank.md) - 18 shared documents
@@ -44,6 +42,8 @@ Top 10 documents by mention frequency:
 - [Bashar al-Assad](../people/bashar-al-assad.md) - 16 shared documents
 - [Hosni Mubarak](../people/hosni-mubarak.md) - 13 shared documents
 - [Tel Aviv](../people/tel-aviv.md) - 13 shared documents
+- [Cold War](../people/cold-war.md) - 12 shared documents
+- [Barack Obama](../people/barack-obama.md) - 11 shared documents
 
 **Organizations:**
 
@@ -63,9 +63,9 @@ Top 10 documents by mention frequency:
 - [the United States](../locations/the-united-states.md) - 36 shared documents
 - [Washington](../locations/washington.md) - 32 shared documents
 - [Israel](../locations/israel.md) - 31 shared documents
-- [Russia](../locations/russia.md) - 30 shared documents
 - [Iran](../locations/iran.md) - 30 shared documents
 - [Iraq](../locations/iraq.md) - 30 shared documents
+- [Russia](../locations/russia.md) - 30 shared documents
 - [Syria](../locations/syria.md) - 30 shared documents
 - [China](../locations/china.md) - 29 shared documents
 - [Europe](../locations/europe.md) - 29 shared documents
@@ -79,8 +79,8 @@ Top 10 documents by mention frequency:
 - [2009](../events/2009.md) - 25 shared documents
 - [2012](../events/2012.md) - 24 shared documents
 - [the years](../events/the-years.md) - 24 shared documents
-- [years](../events/years.md) - 23 shared documents
 - [decades](../events/decades.md) - 23 shared documents
+- [years](../events/years.md) - 23 shared documents
 - [2010](../events/2010.md) - 21 shared documents
 
 ## Timeline

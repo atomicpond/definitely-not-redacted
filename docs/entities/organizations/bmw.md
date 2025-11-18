@@ -30,29 +30,29 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [California](../locations/california.md) - 4 shared documents
-- [China](../locations/china.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
+- [Australia](../locations/australia.md) - 4 shared documents
 - [Brazil](../locations/brazil.md) - 4 shared documents
+- [California](../locations/california.md) - 4 shared documents
 - [Canada](../locations/canada.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
+- [China](../locations/china.md) - 4 shared documents
+- [England](../locations/england.md) - 4 shared documents
+- [Europe](../locations/europe.md) - 4 shared documents
 - [France](../locations/france.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
-- [New York City](../locations/new-york-city.md) - 4 shared documents
+- [Germany](../locations/germany.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
 
 **Events:**
 
 - [May](../events/may.md) - 5 shared documents
-- [2004](../events/2004.md) - 4 shared documents
-- [2007](../events/2007.md) - 4 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
 - [1996](../events/1996.md) - 4 shared documents
-- [daily](../events/daily.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
-- [August](../events/august.md) - 4 shared documents
+- [2001](../events/2001.md) - 4 shared documents
+- [2002](../events/2002.md) - 4 shared documents
+- [2004](../events/2004.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
+- [2006](../events/2006.md) - 4 shared documents
+- [2007](../events/2007.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
+- [2009](../events/2009.md) - 4 shared documents
 
 ## Timeline
 

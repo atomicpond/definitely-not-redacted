@@ -29,14 +29,12 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 12 shared documents
 - [Bashar al-Assad](../people/bashar-al-assad.md) - 11 shared documents
 - [Middle East](../people/middle-east.md) - 10 shared documents
 - [Hosni Mubarak](../people/hosni-mubarak.md) - 9 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 8 shared documents
 - [Arab League](../people/arab-league.md) - 7 shared documents
 - [Mahmoud Abbas](../people/mahmoud-abbas.md) - 7 shared documents
-- [President Obama](../people/president-obama.md) - 7 shared documents
 
 **Organizations:**
 
@@ -57,12 +55,12 @@ Top 10 documents by mention frequency:
 - [Iraq](iraq.md) - 15 shared documents
 - [Syria](syria.md) - 14 shared documents
 - [the Middle East](the-middle-east.md) - 14 shared documents
-- [Israel](israel.md) - 14 shared documents
 - [Egypt](egypt.md) - 14 shared documents
+- [Israel](israel.md) - 14 shared documents
 - [Turkey](turkey.md) - 13 shared documents
 - [the United States](the-united-states.md) - 12 shared documents
+- [Afghanistan](afghanistan.md) - 12 shared documents
 - [Jordan](jordan.md) - 12 shared documents
-- [Libya](libya.md) - 12 shared documents
 
 **Events:**
 
@@ -71,11 +69,11 @@ Top 10 documents by mention frequency:
 - [the day](../events/the-day.md) - 10 shared documents
 - [2003](../events/2003.md) - 9 shared documents
 - [years](../events/years.md) - 9 shared documents
-- [2009](../events/2009.md) - 8 shared documents
+- [1948](../events/1948.md) - 8 shared documents
 - [2008](../events/2008.md) - 8 shared documents
+- [2009](../events/2009.md) - 8 shared documents
 - [Friday](../events/friday.md) - 8 shared documents
 - [the years](../events/the-years.md) - 8 shared documents
-- [1948](../events/1948.md) - 8 shared documents
 
 ## Timeline
 

@@ -32,27 +32,29 @@ Top 10 documents by mention frequency:
 - [Cold War](cold-war.md) - 10 shared documents
 - [United 
 States](united-states.md) - 9 shared documents
-- [President Obama](president-obama.md) - 9 shared documents
-- [Barack Obama](barack-obama.md) - 9 shared documents
-- [Mr. Obama](obama.md) - 9 shared documents
 - [Vladimir Putin](vladimir-putin.md) - 8 shared documents
-- [East Asia](east-asia.md) - 8 shared documents
 - [Bill 
 Clinton](bill-clinton.md) - 8 shared documents
+- [East Asia](east-asia.md) - 8 shared documents
 - [George W. Bush](george-w-bush.md) - 8 shared documents
-- [CLINTON](clinton.md) - 8 shared documents
+- [Labor
+Party](labor-party.md) - 8 shared documents
+- [Deng Xiaoping](deng-xiaoping.md) - 7 shared documents
+- [Federal Reserve](federal-reserve.md) - 7 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 7 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 13 shared documents
 - [NATO](../organizations/nato.md) - 8 shared documents
 - [Harvard](../organizations/harvard.md) - 7 shared documents
+- [Islam](../organizations/islam.md) - 7 shared documents
 
 **Locations:**
 
 - [China](../locations/china.md) - 15 shared documents
-- [Russia](../locations/russia.md) - 15 shared documents
 - [Germany](../locations/germany.md) - 15 shared documents
+- [Russia](../locations/russia.md) - 15 shared documents
 - [America](../locations/america.md) - 14 shared documents
 - [the Soviet Union](../locations/the-soviet-union.md) - 14 shared documents
 - [Asia](../locations/asia.md) - 13 shared documents
@@ -65,9 +67,9 @@ Clinton](bill-clinton.md) - 8 shared documents
 
 - [2008](../events/2008.md) - 13 shared documents
 - [years](../events/years.md) - 12 shared documents
-- [today](../events/today.md) - 10 shared documents
 - [last week](../events/last-week.md) - 10 shared documents
 - [the 21st century](../events/the-21st-century.md) - 10 shared documents
+- [today](../events/today.md) - 10 shared documents
 - [the Cold War](../events/the-cold-war.md) - 9 shared documents
 - [1996](../events/1996.md) - 8 shared documents
 

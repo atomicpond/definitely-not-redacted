@@ -58,11 +58,11 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [today](../events/today.md) - 20 shared documents
-- [annual](../events/annual.md) - 18 shared documents
-- [2012](../events/2012.md) - 18 shared documents
 - [2001](../events/2001.md) - 18 shared documents
-- [2015](../events/2015.md) - 17 shared documents
+- [2012](../events/2012.md) - 18 shared documents
+- [annual](../events/annual.md) - 18 shared documents
 - [2000](../events/2000.md) - 17 shared documents
+- [2015](../events/2015.md) - 17 shared documents
 - [2004](../events/2004.md) - 16 shared documents
 - [2013](../events/2013.md) - 16 shared documents
 - [daily](../events/daily.md) - 15 shared documents

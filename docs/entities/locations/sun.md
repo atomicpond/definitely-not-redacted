@@ -31,15 +31,16 @@ Top 10 documents by mention frequency:
 
 - [Jeffrey E](../people/jeffrey-e.md) - 47 shared documents
 - [On Sun](../people/on-sun.md) - 33 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 25 shared documents
-- [CLINTON](../people/clinton.md) - 21 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 21 shared documents
 - [Dear Jeffrey](../people/dear-jeffrey.md) - 19 shared documents
-- [jeffrey E. <](../people/jeffrey-e.md) - 13 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 13 shared documents
 - [Jeffrey](../people/jeffrey.md) - 12 shared documents
 - [Barker Center](../people/barker-center.md) - 11 shared documents
 - [Elisa New 
 Powell](../people/elisa-new-powell.md) - 11 shared documents
-- [jeffrey E. <](../people/jeffrey-e.md) - 11 shared documents
+- [Lisa New](../people/lisa-new.md) - 11 shared documents
+- [Steve Bannon](../people/steve-bannon.md) - 10 shared documents
 
 **Organizations:**
 
@@ -58,14 +59,14 @@ Powell](../people/elisa-new-powell.md) - 11 shared documents
 
 - [New York](new-york.md) - 21 shared documents
 - [Cambridge](cambridge.md) - 12 shared documents
-- [Europe](europe.md) - 11 shared documents
 - [America](america.md) - 11 shared documents
+- [Europe](europe.md) - 11 shared documents
 - [Mon](mon.md) - 11 shared documents
 - [China](china.md) - 10 shared documents
 - [Paris](paris.md) - 10 shared documents
 - [WA](wa.md) - 9 shared documents
 - [Australia](australia.md) - 9 shared documents
-- [Lolita](lolita.md) - 9 shared documents
+- [Barker Center](barker-center.md) - 9 shared documents
 
 **Events:**
 

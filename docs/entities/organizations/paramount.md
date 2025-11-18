@@ -50,35 +50,35 @@ Top 10 documents by mention frequency:
 - [Vanity Fair](vanity-fair.md) - 8 shared documents
 - [Viacom](viacom.md) - 8 shared documents
 - [Ford](ford.md) - 8 shared documents
-- [HOUSE](house.md) - 7 shared documents
+- [Academy](academy.md) - 7 shared documents
 - [Fox](fox.md) - 7 shared documents
 - [Google](google.md) - 7 shared documents
 
 **Locations:**
 
-- [Washington](../locations/washington.md) - 11 shared documents
 - [Paris](../locations/paris.md) - 11 shared documents
-- [New York](../locations/new-york.md) - 10 shared documents
+- [Washington](../locations/washington.md) - 11 shared documents
 - [America](../locations/america.md) - 10 shared documents
+- [New York](../locations/new-york.md) - 10 shared documents
+- [Beverly Hills](../locations/beverly-hills.md) - 9 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 9 shared documents
 - [Toronto](../locations/toronto.md) - 9 shared documents
-- [Beverly Hills](../locations/beverly-hills.md) - 9 shared documents
 - [California](../locations/california.md) - 8 shared documents
+- [Hollywood](../locations/hollywood.md) - 8 shared documents
 - [London](../locations/london.md) - 8 shared documents
-- [Manhattan](../locations/manhattan.md) - 8 shared documents
 
 **Events:**
 
 - [Sunday](../events/sunday.md) - 9 shared documents
-- [this year](../events/this-year.md) - 9 shared documents
 - [the year](../events/the-year.md) - 9 shared documents
+- [this year](../events/this-year.md) - 9 shared documents
+- [2005](../events/2005.md) - 8 shared documents
 - [annual](../events/annual.md) - 8 shared documents
 - [last year](../events/last-year.md) - 8 shared documents
 - [years](../events/years.md) - 8 shared documents
-- [2005](../events/2005.md) - 8 shared documents
-- [six months](../events/six-months.md) - 7 shared documents
-- [March](../events/march.md) - 7 shared documents
 - [2011](../events/2011.md) - 7 shared documents
+- [December](../events/december.md) - 7 shared documents
+- [March](../events/march.md) - 7 shared documents
 
 ## Timeline
 

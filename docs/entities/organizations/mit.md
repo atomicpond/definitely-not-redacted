@@ -31,7 +31,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Harvard University](../people/harvard-university.md) - 15 shared documents
-- [President Obama](../people/president-obama.md) - 15 shared documents
 - [San Francisco](../people/san-francisco.md) - 15 shared documents
 - [Los Angeles](../people/los-angeles.md) - 13 shared documents
 - [Middle East](../people/middle-east.md) - 13 shared documents
@@ -40,19 +39,20 @@ Top 10 documents by mention frequency:
 - [Computer Science](../people/computer-science.md) - 9 shared documents
 - [Public Policy](../people/public-policy.md) - 9 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 9 shared documents
+- [Harvard Law School](../people/harvard-law-school.md) - 8 shared documents
 
 **Organizations:**
 
 - [Harvard](harvard.md) - 33 shared documents
 - [HOUSE](house.md) - 21 shared documents
 - [Stanford University](stanford-university.md) - 17 shared documents
-- [Harvard University](harvard-university.md) - 17 shared documents
 - [Time](time.md) - 16 shared documents
 - [Stanford](stanford.md) - 15 shared documents
 - [State](state.md) - 14 shared documents
 - [the New York Times](the-new-york-times.md) - 13 shared documents
 - [UCLA](ucla.md) - 13 shared documents
 - [Supreme Court](supreme-court.md) - 12 shared documents
+- [New York Times](new-york-times.md) - 11 shared documents
 
 **Locations:**
 
@@ -60,8 +60,8 @@ Top 10 documents by mention frequency:
 - [the United States](../locations/the-united-states.md) - 25 shared documents
 - [Japan](../locations/japan.md) - 24 shared documents
 - [California](../locations/california.md) - 23 shared documents
-- [Russia](../locations/russia.md) - 22 shared documents
 - [Paris](../locations/paris.md) - 22 shared documents
+- [Russia](../locations/russia.md) - 22 shared documents
 - [United States](../locations/united-states.md) - 21 shared documents
 - [England](../locations/england.md) - 20 shared documents
 - [China](../locations/china.md) - 19 shared documents
@@ -73,12 +73,12 @@ Top 10 documents by mention frequency:
 - [daily](../events/daily.md) - 21 shared documents
 - [years](../events/years.md) - 21 shared documents
 - [2012](../events/2012.md) - 20 shared documents
-- [2009](../events/2009.md) - 19 shared documents
-- [the year](../events/the-year.md) - 19 shared documents
 - [1999](../events/1999.md) - 19 shared documents
+- [2009](../events/2009.md) - 19 shared documents
 - [decades](../events/decades.md) - 19 shared documents
-- [2003](../events/2003.md) - 18 shared documents
-- [1993](../events/1993.md) - 18 shared documents
+- [the year](../events/the-year.md) - 19 shared documents
+- [1982](../events/1982.md) - 18 shared documents
+- [1989](../events/1989.md) - 18 shared documents
 
 ## Timeline
 

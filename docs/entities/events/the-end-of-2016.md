@@ -38,8 +38,8 @@ Top 6 documents by mention frequency:
 
 - [the end of 2017](the-end-of-2017.md) - 5 shared documents
 - [the end of the year](the-end-of-the-year.md) - 5 shared documents
-- [many years](many-years.md) - 5 shared documents
 - [December 2016](december-2016.md) - 5 shared documents
+- [many years](many-years.md) - 5 shared documents
 
 ## Timeline
 

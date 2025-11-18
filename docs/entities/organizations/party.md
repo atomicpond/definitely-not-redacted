@@ -32,14 +32,15 @@ Top 10 documents by mention frequency:
 
 - [Barack Obama](../people/barack-obama.md) - 9 shared documents
 - [Communist Party](../people/communist-party.md) - 9 shared documents
-- [President Obama](../people/president-obama.md) - 9 shared documents
 - [Vanity Fair](../people/vanity-fair.md) - 9 shared documents
 - [White House](../people/white-house.md) - 9 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 8 shared documents
 - [Los Angeles](../people/los-angeles.md) - 8 shared documents
-- [President Trump](../people/president-trump.md) - 8 shared documents
 - [Human Rights](../people/human-rights.md) - 7 shared documents
 - [Middle East](../people/middle-east.md) - 7 shared documents
 - [New Jersey](../people/new-jersey.md) - 7 shared documents
+- [Cold War](../people/cold-war.md) - 6 shared documents
 
 **Organizations:**
 
@@ -58,27 +59,27 @@ Top 10 documents by mention frequency:
 
 - [the United States](../locations/the-united-states.md) - 19 shared documents
 - [China](../locations/china.md) - 18 shared documents
-- [Washington](../locations/washington.md) - 14 shared documents
 - [America](../locations/america.md) - 14 shared documents
 - [Beijing](../locations/beijing.md) - 14 shared documents
+- [Washington](../locations/washington.md) - 14 shared documents
 - [California](../locations/california.md) - 13 shared documents
-- [United States](../locations/united-states.md) - 13 shared documents
 - [Europe](../locations/europe.md) - 13 shared documents
-- [Japan](../locations/japan.md) - 13 shared documents
 - [Germany](../locations/germany.md) - 13 shared documents
+- [Japan](../locations/japan.md) - 13 shared documents
+- [London](../locations/london.md) - 13 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 15 shared documents
 - [1990](../events/1990.md) - 15 shared documents
+- [today](../events/today.md) - 15 shared documents
+- [1991](../events/1991.md) - 14 shared documents
 - [2004](../events/2004.md) - 14 shared documents
 - [2012](../events/2012.md) - 14 shared documents
-- [years](../events/years.md) - 14 shared documents
 - [the day](../events/the-day.md) - 14 shared documents
-- [1991](../events/1991.md) - 14 shared documents
-- [annual](../events/annual.md) - 13 shared documents
-- [2011](../events/2011.md) - 13 shared documents
+- [years](../events/years.md) - 14 shared documents
 - [2006](../events/2006.md) - 13 shared documents
+- [2011](../events/2011.md) - 13 shared documents
+- [annual](../events/annual.md) - 13 shared documents
 
 ## Timeline
 

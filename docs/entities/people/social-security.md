@@ -40,9 +40,9 @@ Trump](donald-trump.md) - 5 shared documents
 
 - [America](../locations/america.md) - 4 shared documents
 - [Iowa](../locations/iowa.md) - 4 shared documents
+- [Michigan](../locations/michigan.md) - 4 shared documents
 - [New Hampshire](../locations/new-hampshire.md) - 4 shared documents
 - [Wisconsin](../locations/wisconsin.md) - 4 shared documents
-- [Michigan](../locations/michigan.md) - 4 shared documents
 
 **Events:**
 

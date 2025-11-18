@@ -46,8 +46,8 @@ Top 8 documents by mention frequency:
 
 **Events:**
 
-- [years ago](../events/years-ago.md) - 4 shared documents
 - [September](../events/september.md) - 4 shared documents
+- [years ago](../events/years-ago.md) - 4 shared documents
 
 ## Timeline
 

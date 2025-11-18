@@ -48,27 +48,29 @@ CV](sa-de-cv.md) - 6 shared documents
 
 **Locations:**
 
-- [Dubai](../locations/dubai.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
+- [Argentina](../locations/argentina.md) - 6 shared documents
+- [Asia](../locations/asia.md) - 6 shared documents
+- [Australia](../locations/australia.md) - 6 shared documents
 - [Brazil](../locations/brazil.md) - 6 shared documents
 - [Canada](../locations/canada.md) - 6 shared documents
-- [Mexico](../locations/mexico.md) - 6 shared documents
-- [Asia](../locations/asia.md) - 6 shared documents
-- [Israel](../locations/israel.md) - 6 shared documents
-- [Australia](../locations/australia.md) - 6 shared documents
+- [Dubai](../locations/dubai.md) - 6 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 6 shared documents
-- [Singapore](../locations/singapore.md) - 6 shared documents
+- [India](../locations/india.md) - 6 shared documents
+- [Indonesia](../locations/indonesia.md) - 6 shared documents
+- [Israel](../locations/israel.md) - 6 shared documents
 
 **Events:**
 
-- [2000](../events/2000.md) - 6 shared documents
 - [10-year](../events/10-year.md) - 6 shared documents
+- [2000](../events/2000.md) - 6 shared documents
 - [5-year](../events/5-year.md) - 6 shared documents
 - [2001](../events/2001.md) - 5 shared documents
 - [weekly](../events/weekly.md) - 5 shared documents
+- [1-year](../events/1-year.md) - 4 shared documents
+- [12-month](../events/12-month.md) - 4 shared documents
+- [1959](../events/1959.md) - 4 shared documents
+- [198602883D](../events/198602883d.md) - 4 shared documents
 - [2015](../events/2015.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
 
 ## Timeline
 

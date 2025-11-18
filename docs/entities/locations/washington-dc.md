@@ -55,27 +55,27 @@ Top 10 documents by mention frequency:
 
 - [London](london.md) - 8 shared documents
 - [America](america.md) - 7 shared documents
-- [Florida](florida.md) - 7 shared documents
 - [Australia](australia.md) - 7 shared documents
+- [Florida](florida.md) - 7 shared documents
 - [United States](united-states.md) - 6 shared documents
 - [Virginia](virginia.md) - 6 shared documents
+- [Arizona](arizona.md) - 5 shared documents
 - [California](california.md) - 5 shared documents
-- [Los Angeles](los-angeles.md) - 5 shared documents
-- [Japan](japan.md) - 5 shared documents
-- [Russia](russia.md) - 5 shared documents
+- [England](england.md) - 5 shared documents
+- [France](france.md) - 5 shared documents
 
 **Events:**
 
-- [2007](../events/2007.md) - 7 shared documents
 - [2000](../events/2000.md) - 7 shared documents
 - [2006](../events/2006.md) - 7 shared documents
-- [2014](../events/2014.md) - 6 shared documents
-- [2008](../events/2008.md) - 6 shared documents
-- [weeks](../events/weeks.md) - 6 shared documents
-- [two years](../events/two-years.md) - 6 shared documents
+- [2007](../events/2007.md) - 7 shared documents
 - [1989](../events/1989.md) - 6 shared documents
-- [2003](../events/2003.md) - 5 shared documents
-- [October](../events/october.md) - 5 shared documents
+- [2008](../events/2008.md) - 6 shared documents
+- [2014](../events/2014.md) - 6 shared documents
+- [two years](../events/two-years.md) - 6 shared documents
+- [weeks](../events/weeks.md) - 6 shared documents
+- [18 months](../events/18-months.md) - 5 shared documents
+- [1969](../events/1969.md) - 5 shared documents
 
 ## Timeline
 

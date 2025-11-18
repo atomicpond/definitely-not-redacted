@@ -44,13 +44,13 @@ Top 6 documents by mention frequency:
 - [ten years](ten-years.md) - 6 shared documents
 - [many years](many-years.md) - 6 shared documents
 - [the late 1970s](the-late-1970s.md) - 5 shared documents
+- [1974](1974.md) - 5 shared documents
+- [1994](1994.md) - 5 shared documents
+- [2002](2002.md) - 5 shared documents
 - [last year](last-year.md) - 5 shared documents
 - [more than a year](more-than-a-year.md) - 5 shared documents
-- [1974](1974.md) - 5 shared documents
-- [2002](2002.md) - 5 shared documents
-- [1994](1994.md) - 5 shared documents
-- [2004](2004.md) - 4 shared documents
-- [2009](2009.md) - 4 shared documents
+- [18 months](18-months.md) - 4 shared documents
+- [1953](1953.md) - 4 shared documents
 
 ## Timeline
 

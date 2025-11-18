@@ -49,8 +49,8 @@ Top 10 documents by mention frequency:
 - [Google](../organizations/google.md) - 18 shared documents
 - [Congress](../organizations/congress.md) - 17 shared documents
 - [Facebook](../organizations/facebook.md) - 17 shared documents
-- [White House](../organizations/white-house.md) - 16 shared documents
 - [ISIS](../organizations/isis.md) - 16 shared documents
+- [White House](../organizations/white-house.md) - 16 shared documents
 - [Bloomberg](../organizations/bloomberg.md) - 15 shared documents
 
 **Locations:**
@@ -58,12 +58,12 @@ Top 10 documents by mention frequency:
 - [Europe](../locations/europe.md) - 27 shared documents
 - [Japan](../locations/japan.md) - 22 shared documents
 - [America](../locations/america.md) - 20 shared documents
-- [New York](../locations/new-york.md) - 19 shared documents
 - [China](../locations/china.md) - 19 shared documents
 - [Manhattan](../locations/manhattan.md) - 19 shared documents
+- [New York](../locations/new-york.md) - 19 shared documents
 - [the United States](../locations/the-united-states.md) - 18 shared documents
-- [Germany](../locations/germany.md) - 17 shared documents
 - [Asia](../locations/asia.md) - 17 shared documents
+- [Germany](../locations/germany.md) - 17 shared documents
 - [Paris](../locations/paris.md) - 17 shared documents
 
 **Events:**
@@ -71,13 +71,13 @@ Top 10 documents by mention frequency:
 - [2014](../events/2014.md) - 25 shared documents
 - [last year](../events/last-year.md) - 22 shared documents
 - [2008](../events/2008.md) - 19 shared documents
-- [today](../events/today.md) - 17 shared documents
 - [2006](../events/2006.md) - 17 shared documents
+- [today](../events/today.md) - 17 shared documents
 - [tomorrow](../events/tomorrow.md) - 17 shared documents
 - [2015](../events/2015.md) - 16 shared documents
 - [annual](../events/annual.md) - 16 shared documents
-- [years](../events/years.md) - 16 shared documents
 - [two years](../events/two-years.md) - 16 shared documents
+- [years](../events/years.md) - 16 shared documents
 
 ## Timeline
 

@@ -46,9 +46,9 @@ Top 8 documents by mention frequency:
 - [2012](../events/2012.md) - 7 shared documents
 - [2016](../events/2016.md) - 5 shared documents
 - [months](../events/months.md) - 5 shared documents
-- [more than a year](../events/more-than-a-year.md) - 4 shared documents
 - [1974](../events/1974.md) - 4 shared documents
 - [May 2017](../events/may-2017.md) - 4 shared documents
+- [more than a year](../events/more-than-a-year.md) - 4 shared documents
 
 ## Timeline
 

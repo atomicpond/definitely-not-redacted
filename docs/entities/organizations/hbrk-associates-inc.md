@@ -37,8 +37,8 @@ Top 7 documents by mention frequency:
 
 **Locations:**
 
-- [New York, NY](../locations/new-york-ny.md) - 7 shared documents
 - [575 Lexington Avenue](../locations/575-lexington-avenue.md) - 7 shared documents
+- [New York, NY](../locations/new-york-ny.md) - 7 shared documents
 - [New York](../locations/new-york.md) - 4 shared documents
 
 ## Timeline

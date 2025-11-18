@@ -67,13 +67,13 @@ Top 9 documents by mention frequency:
 
 **Events:**
 
-- [Sunday](../events/sunday.md) - 9 shared documents
-- [2002](../events/2002.md) - 9 shared documents
-- [two years](../events/two-years.md) - 9 shared documents
 - [1953](../events/1953.md) - 9 shared documents
 - [1982](../events/1982.md) - 9 shared documents
 - [1994](../events/1994.md) - 9 shared documents
+- [2002](../events/2002.md) - 9 shared documents
 - [20s and 30s](../events/20s-and-30s.md) - 9 shared documents
+- [Sunday](../events/sunday.md) - 9 shared documents
+- [two years](../events/two-years.md) - 9 shared documents
 - [2004](../events/2004.md) - 7 shared documents
 - [early September](../events/early-september.md) - 7 shared documents
 - [several years](../events/several-years.md) - 7 shared documents

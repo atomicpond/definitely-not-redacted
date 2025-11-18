@@ -19,7 +19,7 @@ Korea](../entities/people/north-korea.md) - 15 mentions
 - [Middle East](../entities/people/middle-east.md) - 3 mentions
 - [Security Council](../entities/people/security-council.md) - 3 mentions
 - [West Bank](../entities/people/west-bank.md) - 3 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 3 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 3 mentions
 - [Khamenei](../entities/people/khamenei.md) - 3 mentions
 
 ### Organizations

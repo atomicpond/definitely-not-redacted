@@ -29,17 +29,17 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Trump](../people/president-trump.md) - 12 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 12 shared documents
 - [Middle East](../people/middle-east.md) - 10 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 10 shared documents
 - [Jeff Bezos](../people/jeff-bezos.md) - 8 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 8 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Harvard Medical School](../people/harvard-medical-school.md) - 7 shared documents
 - [Joe Biden](../people/joe-biden.md) - 7 shared documents
 - [New Jersey](../people/new-jersey.md) - 7 shared documents
-- [President Obama](../people/president-obama.md) - 7 shared documents
 - [Pulitzer Prize](../people/pulitzer-prize.md) - 7 shared documents
+- [San Francisco](../people/san-francisco.md) - 7 shared documents
 
 **Organizations:**
 
@@ -59,13 +59,13 @@ Trump](../people/trump.md) - 10 shared documents
 - [China](../locations/china.md) - 24 shared documents
 - [America](../locations/america.md) - 21 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 18 shared documents
-- [Europe](../locations/europe.md) - 17 shared documents
 - [Asia](../locations/asia.md) - 17 shared documents
-- [the United States](../locations/the-united-states.md) - 17 shared documents
 - [Australia](../locations/australia.md) - 17 shared documents
+- [Europe](../locations/europe.md) - 17 shared documents
+- [the United States](../locations/the-united-states.md) - 17 shared documents
 - [Germany](../locations/germany.md) - 16 shared documents
-- [Washington](../locations/washington.md) - 16 shared documents
 - [Massachusetts](../locations/massachusetts.md) - 16 shared documents
+- [Washington](../locations/washington.md) - 16 shared documents
 
 **Events:**
 
@@ -76,9 +76,9 @@ Trump](../people/trump.md) - 10 shared documents
 - [the day](../events/the-day.md) - 15 shared documents
 - [2009](../events/2009.md) - 14 shared documents
 - [annual](../events/annual.md) - 14 shared documents
-- [years](../events/years.md) - 14 shared documents
-- [last week](../events/last-week.md) - 14 shared documents
 - [Friday](../events/friday.md) - 14 shared documents
+- [last week](../events/last-week.md) - 14 shared documents
+- [years](../events/years.md) - 14 shared documents
 
 ## Timeline
 

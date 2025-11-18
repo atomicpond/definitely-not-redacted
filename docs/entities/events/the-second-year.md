@@ -49,15 +49,15 @@ Top 7 documents by mention frequency:
 **Events:**
 
 - [the year](the-year.md) - 7 shared documents
-- [annual](annual.md) - 7 shared documents
 - [1982](1982.md) - 7 shared documents
+- [annual](annual.md) - 7 shared documents
 - [years](years.md) - 6 shared documents
 - [six months](six-months.md) - 6 shared documents
 - [this year](this-year.md) - 5 shared documents
 - [two days](two-days.md) - 5 shared documents
-- [last year](last-year.md) - 5 shared documents
+- [a few weeks](a-few-weeks.md) - 5 shared documents
 - [last week](last-week.md) - 5 shared documents
-- [summer](summer.md) - 5 shared documents
+- [last year](last-year.md) - 5 shared documents
 
 ## Timeline
 

@@ -54,28 +54,28 @@ Top 8 documents by mention frequency:
 **Locations:**
 
 - [Florida](florida.md) - 7 shared documents
+- [the United States](the-united-states.md) - 6 shared documents
 - [United States](united-states.md) - 6 shared documents
 - [Washington](washington.md) - 6 shared documents
-- [the United States](the-united-states.md) - 6 shared documents
-- [New York](new-york.md) - 5 shared documents
-- [U.S.](us.md) - 5 shared documents
-- [Europe](europe.md) - 5 shared documents
-- [Russia](russia.md) - 5 shared documents
-- [London](london.md) - 5 shared documents
 - [America](america.md) - 5 shared documents
+- [Europe](europe.md) - 5 shared documents
+- [London](london.md) - 5 shared documents
+- [New York](new-york.md) - 5 shared documents
+- [Russia](russia.md) - 5 shared documents
+- [U.S.](us.md) - 5 shared documents
 
 **Events:**
 
 - [2007](../events/2007.md) - 7 shared documents
 - [2001](../events/2001.md) - 6 shared documents
-- [2015](../events/2015.md) - 5 shared documents
-- [2016](../events/2016.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [2012](../events/2012.md) - 5 shared documents
-- [2011](../events/2011.md) - 5 shared documents
 - [18-month](../events/18-month.md) - 5 shared documents
 - [2008](../events/2008.md) - 5 shared documents
+- [2011](../events/2011.md) - 5 shared documents
+- [2012](../events/2012.md) - 5 shared documents
+- [2015](../events/2015.md) - 5 shared documents
+- [2016](../events/2016.md) - 5 shared documents
 - [Friday](../events/friday.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
 
 ## Timeline
 

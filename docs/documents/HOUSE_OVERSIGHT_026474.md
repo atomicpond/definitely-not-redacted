@@ -12,7 +12,7 @@
 - [Steve Bannon](../entities/people/steve-bannon.md) - 2 mentions
 - [Susan Rice](../entities/people/susan-rice.md) - 1 mention
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [On Sat](../entities/people/on-sat.md) - 1 mention
 - [michael-flynn-trump-423437](../entities/people/michael-flynn-trump-423437.md) - 1 mention
 - [flynn](../entities/people/flynn.md) - 1 mention

@@ -33,34 +33,30 @@ Top 7 documents by mention frequency:
 - [Fed](fed.md) - 7 shared documents
 - [the Supreme Court](the-supreme-court.md) - 6 shared documents
 - [U.S.C.](usc.md) - 5 shared documents
-- [Congress](congress.md) - 5 shared documents
-- [Court](court.md) - 5 shared documents
-- [FBI](fbi.md) - 5 shared documents
-- [State](state.md) - 5 shared documents
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 7 shared documents
 - [Florida](../locations/florida.md) - 7 shared documents
 - [the United States](../locations/the-united-states.md) - 7 shared documents
+- [United States](../locations/united-states.md) - 7 shared documents
+- [S.D.](../locations/sd.md) - 6 shared documents
 - [U.S.](../locations/us.md) - 6 shared documents
 - [Virginia](../locations/virginia.md) - 6 shared documents
-- [S.D.](../locations/sd.md) - 6 shared documents
 - [California](../locations/california.md) - 5 shared documents
-- [Texas](../locations/texas.md) - 5 shared documents
+- [N.Y.](../locations/ny.md) - 5 shared documents
 
 **Events:**
 
-- [1996](../events/1996.md) - 7 shared documents
+- [1984](../events/1984.md) - 7 shared documents
 - [1985](../events/1985.md) - 7 shared documents
 - [1993](../events/1993.md) - 7 shared documents
+- [1996](../events/1996.md) - 7 shared documents
 - [2001](../events/2001.md) - 7 shared documents
-- [1984](../events/1984.md) - 7 shared documents
 - [2002](../events/2002.md) - 7 shared documents
-- [2004](../events/2004.md) - 6 shared documents
-- [2000](../events/2000.md) - 6 shared documents
-- [1997](../events/1997.md) - 6 shared documents
-- [1998](../events/1998.md) - 6 shared documents
+- [14](../events/14.md) - 6 shared documents
+- [1976](../events/1976.md) - 6 shared documents
+- [1979](../events/1979.md) - 6 shared documents
+- [1983](../events/1983.md) - 6 shared documents
 
 ## Timeline
 

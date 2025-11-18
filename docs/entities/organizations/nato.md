@@ -31,16 +31,17 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 30 shared documents
-- [Mr. Obama](../people/obama.md) - 22 shared documents
-- [President Obama](../people/president-obama.md) - 22 shared documents
 - [Middle East](../people/middle-east.md) - 20 shared documents
 - [Cold War](../people/cold-war.md) - 16 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 16 shared documents
 - [White House](../people/white-house.md) - 15 shared documents
 - [Bashar al-Assad](../people/bashar-al-assad.md) - 14 shared documents
 - [Angela Merkel](../people/angela-merkel.md) - 12 shared documents
-- [CLINTON](../people/clinton.md) - 12 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 12 shared documents
+- [George W. Bush](../people/george-w-bush.md) - 12 shared documents
+- [Hosni Mubarak](../people/hosni-mubarak.md) - 12 shared documents
+- [West Bank](../people/west-bank.md) - 12 shared documents
 
 **Organizations:**
 
@@ -71,8 +72,8 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [today](../events/today.md) - 25 shared documents
-- [years](../events/years.md) - 21 shared documents
 - [last week](../events/last-week.md) - 21 shared documents
+- [years](../events/years.md) - 21 shared documents
 - [decades](../events/decades.md) - 18 shared documents
 - [2003](../events/2003.md) - 17 shared documents
 - [2008](../events/2008.md) - 17 shared documents

@@ -41,29 +41,29 @@ Top 7 documents by mention frequency:
 
 **Organizations:**
 
-- [HBO](../organizations/hbo.md) - 6 shared documents
-- [Viacom](../organizations/viacom.md) - 6 shared documents
 - [Academy](../organizations/academy.md) - 6 shared documents
 - [Disney](../organizations/disney.md) - 6 shared documents
+- [HBO](../organizations/hbo.md) - 6 shared documents
 - [Marchesa](../organizations/marchesa.md) - 6 shared documents
 - [MontBlanc](../organizations/montblanc.md) - 6 shared documents
 - [Paramount](../organizations/paramount.md) - 6 shared documents
 - [Sony](../organizations/sony.md) - 6 shared documents
 - [UTA](../organizations/uta.md) - 6 shared documents
+- [Viacom](../organizations/viacom.md) - 6 shared documents
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 6 shared documents
-- [Toronto](../locations/toronto.md) - 6 shared documents
-- [Paris](../locations/paris.md) - 6 shared documents
 - [Cannes](../locations/cannes.md) - 6 shared documents
-- [California](../locations/california.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 6 shared documents
+- [Paris](../locations/paris.md) - 6 shared documents
+- [Toronto](../locations/toronto.md) - 6 shared documents
 
 **Events:**
 
-- [this year](../events/this-year.md) - 6 shared documents
 - [March](../events/march.md) - 6 shared documents
-- [Sunday](../events/sunday.md) - 5 shared documents
+- [this year](../events/this-year.md) - 6 shared documents
+- [1982](../events/1982.md) - 5 shared documents
+- [January](../events/january.md) - 5 shared documents
 
 ## Timeline
 

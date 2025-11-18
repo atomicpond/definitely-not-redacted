@@ -36,28 +36,28 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
+- [America](../locations/america.md) - 5 shared documents
 - [California](../locations/california.md) - 5 shared documents
+- [Germany](../locations/germany.md) - 5 shared documents
 - [Middle East](../locations/middle-east.md) - 5 shared documents
 - [Russia](../locations/russia.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
-- [America](../locations/america.md) - 5 shared documents
 - [Virginia](../locations/virginia.md) - 5 shared documents
 - [Africa](../locations/africa.md) - 4 shared documents
+- [Canada](../locations/canada.md) - 4 shared documents
 - [China](../locations/china.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
+- [England](../locations/england.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
-- [last year](../events/last-year.md) - 5 shared documents
 - [decades](../events/decades.md) - 5 shared documents
-- [2007](../events/2007.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
-- [the past year](../events/the-past-year.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
-- [July](../events/july.md) - 4 shared documents
+- [last year](../events/last-year.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
+- [1989](../events/1989.md) - 4 shared documents
 - [1999](../events/1999.md) - 4 shared documents
+- [2007](../events/2007.md) - 4 shared documents
+- [a decade](../events/a-decade.md) - 4 shared documents
+- [January](../events/january.md) - 4 shared documents
+- [July](../events/july.md) - 4 shared documents
 - [months](../events/months.md) - 4 shared documents
 
 ## Timeline

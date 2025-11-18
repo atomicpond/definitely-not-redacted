@@ -15,7 +15,7 @@
 
 ### People
 - [Hugin](../entities/people/hugin.md) - 41 mentions
-- [Mr. Menendez](../entities/people/mr-menendez.md) - 19 mentions
+- [Mr. Menendez](../entities/people/menendez.md) - 19 mentions
 - [New Jersey](../entities/people/new-jersey.md) - 13 mentions
 - [Los Angeles](../entities/people/los-angeles.md) - 4 mentions
 - [Chris Christie](../entities/people/chris-christie.md) - 3 mentions

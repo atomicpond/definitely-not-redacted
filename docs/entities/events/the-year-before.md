@@ -59,13 +59,13 @@ Top 8 documents by mention frequency:
 - [the day](the-day.md) - 8 shared documents
 - [today](today.md) - 7 shared documents
 - [two years](two-years.md) - 7 shared documents
-- [daily](daily.md) - 7 shared documents
 - [a few years](a-few-years.md) - 7 shared documents
 - [A few years later](a-few-years-later.md) - 7 shared documents
+- [daily](daily.md) - 7 shared documents
 - [this day](this-day.md) - 6 shared documents
 - [two days](two-days.md) - 6 shared documents
 - [years](years.md) - 6 shared documents
-- [2009](2009.md) - 6 shared documents
+- [1961](1961.md) - 6 shared documents
 
 ## Timeline
 

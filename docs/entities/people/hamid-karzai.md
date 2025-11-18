@@ -43,19 +43,19 @@ Top 10 documents by mention frequency:
 **Organizations:**
 
 - [State](../organizations/state.md) - 9 shared documents
-- [HOUSE](../organizations/house.md) - 7 shared documents
-- [US Treasury](../organizations/us-treasury.md) - 7 shared documents
 - [BBC](../organizations/bbc.md) - 7 shared documents
-- [BBC World Service](../organizations/bbc-world-service.md) - 7 shared documents
 - [BBC News](../organizations/bbc-news.md) - 7 shared documents
 - [BBC Online](../organizations/bbc-online.md) - 7 shared documents
 - [BBC World](../organizations/bbc-world.md) - 7 shared documents
+- [BBC World Service](../organizations/bbc-world-service.md) - 7 shared documents
+- [HOUSE](../organizations/house.md) - 7 shared documents
 - [Today Programme](../organizations/today-programme.md) - 7 shared documents
+- [US Treasury](../organizations/us-treasury.md) - 7 shared documents
 
 **Locations:**
 
-- [Wales](../locations/wales.md) - 7 shared documents
 - [U.K.](../locations/uk.md) - 7 shared documents
+- [Wales](../locations/wales.md) - 7 shared documents
 - [York](../locations/york.md) - 7 shared documents
 
 **Events:**

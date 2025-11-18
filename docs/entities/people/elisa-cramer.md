@@ -34,16 +34,14 @@ Top 6 documents by mention frequency:
 - [New Mexico](new-mexico.md) - 6 shared documents
 - [Roy Black](roy-black.md) - 6 shared documents
 - [Sarah Kellen](sarah-kellen.md) - 6 shared documents
-- [Barry Krischer](barry-krischer.md) - 6 shared documents
+- [H.C. Clark II](hc-clark-ii.md) - 5 shared documents
 
 **Organizations:**
 
 - [FBI](../organizations/fbi.md) - 6 shared documents
-- [State](../organizations/state.md) - 6 shared documents
 - [Harvard](../organizations/harvard.md) - 6 shared documents
-- [Royal Palm Beach](../organizations/royal-palm-beach.md) - 6 shared documents
-- [the Palm Beach Police Department](../organizations/the-palm-beach-police-department.md) - 6 shared documents
-- [the University of Pittsburgh](../organizations/the-university-of-pittsburgh.md) - 6 shared documents
+- [Palm 
+Beach Atlantic University](../organizations/palm-beach-atlantic-university.md) - 6 shared documents
 
 **Locations:**
 
@@ -51,21 +49,22 @@ Top 6 documents by mention frequency:
 - [Manhattan](../locations/manhattan.md) - 6 shared documents
 - [New Mexico](../locations/new-mexico.md) - 6 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 6 shared documents
-- [West Palm Beach](../locations/west-palm-beach.md) - 6 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 6 shared documents
+- [Posh Palm Beach](../locations/posh-palm-beach.md) - 6 shared documents
+- [West Palm Beach](../locations/west-palm-beach.md) - 6 shared documents
 
 **Events:**
 
-- [October](../events/october.md) - 6 shared documents
-- [last year](../events/last-year.md) - 6 shared documents
-- [Monday](../events/monday.md) - 6 shared documents
-- [July](../events/july.md) - 6 shared documents
-- [last week](../events/last-week.md) - 6 shared documents
+- [11-month](../events/11-month.md) - 6 shared documents
+- [14](../events/14.md) - 6 shared documents
+- [14-year-old](../events/14-year-old.md) - 6 shared documents
+- [17-year-old](../events/17-year-old.md) - 6 shared documents
+- [18](../events/18.md) - 6 shared documents
+- [1981](../events/1981.md) - 6 shared documents
 - [1984](../events/1984.md) - 6 shared documents
-- [last month](../events/last-month.md) - 6 shared documents
+- [1991](../events/1991.md) - 6 shared documents
+- [20-year-old](../events/20-year-old.md) - 6 shared documents
 - [2006](../events/2006.md) - 6 shared documents
-- [five years](../events/five-years.md) - 6 shared documents
-- [May 1](../events/may-1.md) - 6 shared documents
 
 ## Timeline
 

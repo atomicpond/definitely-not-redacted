@@ -73,11 +73,11 @@ Top 10 documents by mention frequency:
 - [Saturday](../events/saturday.md) - 6 shared documents
 - [Monday](../events/monday.md) - 5 shared documents
 - [2016](../events/2016.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [Wednesday](../events/wednesday.md) - 4 shared documents
 - [daily](../events/daily.md) - 4 shared documents
 - [this week](../events/this-week.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
+- [three years](../events/three-years.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
+- [Tuesday](../events/tuesday.md) - 4 shared documents
 
 ## Timeline
 

@@ -37,12 +37,12 @@ Top 10 documents by mention frequency:
 - [Jack Scarola](jack-scarola.md) - 8 shared documents
 - [Jane Doe](jane-doe.md) - 8 shared documents
 - [Paul Cassell](paul-cassell.md) - 7 shared documents
-- [Bradley Edwards](bradley-edwards.md) - 7 shared documents
-- [Brad Edwards](brad-edwards.md) - 7 shared documents
 - [District Court](district-court.md) - 6 shared documents
 - [Juan Alessi](juan-alessi.md) - 6 shared documents
 - [New Mexico](new-mexico.md) - 6 shared documents
 - [Rights Act](rights-act.md) - 6 shared documents
+- [Sigrid McCawley](sigrid-mccawley.md) - 6 shared documents
+- [White House](white-house.md) - 6 shared documents
 
 **Organizations:**
 
@@ -51,8 +51,6 @@ Top 10 documents by mention frequency:
 - [Maxwell](../organizations/maxwell.md) - 8 shared documents
 - [Times](../organizations/times.md) - 7 shared documents
 - [University of Utah](../organizations/university-of-utah.md) - 7 shared documents
-- [Boies Schiller & Flexner](../organizations/boies-schiller-flexner.md) - 6 shared documents
-- [White House](../organizations/white-house.md) - 6 shared documents
 
 **Locations:**
 
@@ -60,12 +58,12 @@ Top 10 documents by mention frequency:
 - [Fort Lauderdale](../locations/fort-lauderdale.md) - 10 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 9 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 9 shared documents
-- [United States](../locations/united-states.md) - 8 shared documents
 - [London](../locations/london.md) - 8 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 8 shared documents
-- [U.S.](../locations/us.md) - 7 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 7 shared documents
-- [Virginia](../locations/virginia.md) - 7 shared documents
+- [United States](../locations/united-states.md) - 8 shared documents
+- [Australia](../locations/australia.md) - 7 shared documents
+- [Miami](../locations/miami.md) - 7 shared documents
+- [New York City](../locations/new-york-city.md) - 7 shared documents
 
 **Events:**
 
@@ -75,10 +73,10 @@ Top 10 documents by mention frequency:
 - [2007](../events/2007.md) - 10 shared documents
 - [2015](../events/2015.md) - 9 shared documents
 - [Wednesday](../events/wednesday.md) - 8 shared documents
-- [years](../events/years.md) - 7 shared documents
-- [2011](../events/2011.md) - 7 shared documents
 - [2008](../events/2008.md) - 7 shared documents
-- [a day](../events/a-day.md) - 6 shared documents
+- [2011](../events/2011.md) - 7 shared documents
+- [years](../events/years.md) - 7 shared documents
+- [18](../events/18.md) - 6 shared documents
 
 ## Timeline
 

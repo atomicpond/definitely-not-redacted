@@ -35,12 +35,13 @@ Top 10 documents by mention frequency:
 - [Rights Act](../people/rights-act.md) - 18 shared documents
 - [Crime Victims](../people/crime-victims.md) - 16 shared documents
 - [Daily News](../people/daily-news.md) - 16 shared documents
-- [Barack Obama](../people/barack-obama.md) - 12 shared documents
 - [Jane Doe](../people/jane-doe.md) - 12 shared documents
 - [New Jersey](../people/new-jersey.md) - 12 shared documents
 - [New Mexico](../people/new-mexico.md) - 12 shared documents
-- [President Obama](../people/president-obama.md) - 12 shared documents
 - [District Court](../people/district-court.md) - 11 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 11 shared documents
+- [Federal Bureau](../people/federal-bureau.md) - 10 shared documents
 
 **Organizations:**
 
@@ -74,12 +75,12 @@ Top 10 documents by mention frequency:
 - [2008](../events/2008.md) - 28 shared documents
 - [2004](../events/2004.md) - 27 shared documents
 - [years](../events/years.md) - 26 shared documents
-- [today](../events/today.md) - 25 shared documents
 - [2010](../events/2010.md) - 25 shared documents
-- [2003](../events/2003.md) - 24 shared documents
-- [2007](../events/2007.md) - 24 shared documents
-- [2005](../events/2005.md) - 24 shared documents
+- [today](../events/today.md) - 25 shared documents
 - [2002](../events/2002.md) - 24 shared documents
+- [2003](../events/2003.md) - 24 shared documents
+- [2005](../events/2005.md) - 24 shared documents
+- [2007](../events/2007.md) - 24 shared documents
 
 ## Timeline
 

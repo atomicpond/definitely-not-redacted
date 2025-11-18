@@ -65,13 +65,13 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [2014](../events/2014.md) - 22 shared documents
+- [2002](../events/2002.md) - 21 shared documents
 - [2004](../events/2004.md) - 21 shared documents
 - [2009](../events/2009.md) - 21 shared documents
-- [2002](../events/2002.md) - 21 shared documents
+- [2006](../events/2006.md) - 20 shared documents
+- [2010](../events/2010.md) - 20 shared documents
 - [daily](../events/daily.md) - 20 shared documents
 - [last year](../events/last-year.md) - 20 shared documents
-- [2010](../events/2010.md) - 20 shared documents
-- [2006](../events/2006.md) - 20 shared documents
 - [1982](../events/1982.md) - 19 shared documents
 - [1994](../events/1994.md) - 19 shared documents
 

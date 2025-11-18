@@ -47,15 +47,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [the year](the-year.md) - 7 shared documents
-- [annual](annual.md) - 7 shared documents
 - [2012](2012.md) - 7 shared documents
-- [2015](2015.md) - 6 shared documents
+- [annual](annual.md) - 7 shared documents
 - [2013](2013.md) - 6 shared documents
+- [2015](2015.md) - 6 shared documents
 - [three-year](three-year.md) - 5 shared documents
 - [two years](two-years.md) - 5 shared documents
-- [2018](2018.md) - 5 shared documents
-- [2017](2017.md) - 5 shared documents
 - [2011](2011.md) - 5 shared documents
+- [2017](2017.md) - 5 shared documents
+- [2018](2018.md) - 5 shared documents
 
 ## Timeline
 

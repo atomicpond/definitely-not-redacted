@@ -55,8 +55,8 @@ Top 10 documents by mention frequency:
 - [Washington](washington.md) - 29 shared documents
 - [Europe](europe.md) - 27 shared documents
 - [California](california.md) - 25 shared documents
-- [New York](new-york.md) - 23 shared documents
 - [Italy](italy.md) - 23 shared documents
+- [New York](new-york.md) - 23 shared documents
 - [the United States](the-united-states.md) - 22 shared documents
 - [Florida](florida.md) - 21 shared documents
 - [Russia](russia.md) - 20 shared documents
@@ -67,13 +67,13 @@ Top 10 documents by mention frequency:
 - [2016](../events/2016.md) - 31 shared documents
 - [1984](../events/1984.md) - 26 shared documents
 - [Friday](../events/friday.md) - 24 shared documents
+- [1987](../events/1987.md) - 22 shared documents
 - [2012](../events/2012.md) - 22 shared documents
 - [2019](../events/2019.md) - 22 shared documents
-- [1987](../events/1987.md) - 22 shared documents
-- [2009](../events/2009.md) - 21 shared documents
-- [2014](../events/2014.md) - 21 shared documents
 - [1998](../events/1998.md) - 21 shared documents
 - [1999](../events/1999.md) - 21 shared documents
+- [2009](../events/2009.md) - 21 shared documents
+- [2014](../events/2014.md) - 21 shared documents
 
 ## Timeline
 

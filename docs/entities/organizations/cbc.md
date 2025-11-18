@@ -32,9 +32,9 @@ Top 6 documents by mention frequency:
 
 **Events:**
 
-- [annual](../events/annual.md) - 5 shared documents
 - [2017](../events/2017.md) - 5 shared documents
 - [2019](../events/2019.md) - 5 shared documents
+- [annual](../events/annual.md) - 5 shared documents
 - [Tuesday](../events/tuesday.md) - 4 shared documents
 
 ## Timeline

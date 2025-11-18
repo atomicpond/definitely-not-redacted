@@ -19,7 +19,7 @@ Sent](../entities/people/richard-kahn-sent.md) - 1 mention
 Richard Kahn](../entities/people/high-richard-kahn.md) - 1 mention
 - [Jeffrey Goldberg](../entities/people/jeffrey-goldberg.md) - 1 mention
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [United 
 States](../entities/people/united-states.md) - 1 mention
 

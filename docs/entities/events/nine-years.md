@@ -50,15 +50,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [three years](three-years.md) - 7 shared documents
-- [annual](annual.md) - 7 shared documents
 - [2010](2010.md) - 7 shared documents
+- [annual](annual.md) - 7 shared documents
 - [today](today.md) - 6 shared documents
 - [two years](two-years.md) - 6 shared documents
 - [years](years.md) - 6 shared documents
+- [1980](1980.md) - 6 shared documents
+- [1995](1995.md) - 6 shared documents
 - [2000](2000.md) - 6 shared documents
 - [2012](2012.md) - 6 shared documents
-- [daily](daily.md) - 6 shared documents
-- [monthly](monthly.md) - 6 shared documents
 
 ## Timeline
 

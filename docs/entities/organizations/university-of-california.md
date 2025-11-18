@@ -38,8 +38,8 @@ Top 7 documents by mention frequency:
 
 - [Harvard](harvard.md) - 7 shared documents
 - [Stanford](stanford.md) - 7 shared documents
-- [HOUSE](house.md) - 6 shared documents
 - [Harvard University](harvard-university.md) - 6 shared documents
+- [HOUSE](house.md) - 6 shared documents
 - [MIT](mit.md) - 6 shared documents
 - [Stanford University](stanford-university.md) - 6 shared documents
 - [Facebook](facebook.md) - 5 shared documents
@@ -50,15 +50,15 @@ Top 7 documents by mention frequency:
 **Locations:**
 
 - [Japan](../locations/japan.md) - 7 shared documents
-- [the United States](../locations/the-united-states.md) - 7 shared documents
 - [San Francisco](../locations/san-francisco.md) - 7 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 6 shared documents
-- [Germany](../locations/germany.md) - 6 shared documents
+- [the United States](../locations/the-united-states.md) - 7 shared documents
 - [America](../locations/america.md) - 6 shared documents
+- [Germany](../locations/germany.md) - 6 shared documents
 - [Iraq](../locations/iraq.md) - 6 shared documents
-- [New York](../locations/new-york.md) - 5 shared documents
-- [California](../locations/california.md) - 5 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 6 shared documents
 - [Afghanistan](../locations/afghanistan.md) - 5 shared documents
+- [California](../locations/california.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
 
 **Events:**
 
@@ -67,11 +67,11 @@ Top 7 documents by mention frequency:
 - [2007](../events/2007.md) - 5 shared documents
 - [2008](../events/2008.md) - 5 shared documents
 - [2013](../events/2013.md) - 5 shared documents
-- [2014](../events/2014.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [1996](../events/1996.md) - 4 shared documents
-- [2000](../events/2000.md) - 4 shared documents
-- [daily](../events/daily.md) - 4 shared documents
+- [1964](../events/1964.md) - 4 shared documents
+- [1972](../events/1972.md) - 4 shared documents
+- [1974](../events/1974.md) - 4 shared documents
+- [1976](../events/1976.md) - 4 shared documents
+- [1980](../events/1980.md) - 4 shared documents
 
 ## Timeline
 

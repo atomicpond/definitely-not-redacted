@@ -42,11 +42,11 @@ Top 6 documents by mention frequency:
 
 **Events:**
 
-- [2009](2009.md) - 4 shared documents
-- [2000](2000.md) - 4 shared documents
-- [2012](2012.md) - 4 shared documents
 - [1949](1949.md) - 4 shared documents
 - [1979](1979.md) - 4 shared documents
+- [2000](2000.md) - 4 shared documents
+- [2009](2009.md) - 4 shared documents
+- [2012](2012.md) - 4 shared documents
 
 ## Timeline
 

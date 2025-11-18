@@ -44,13 +44,13 @@ Top 6 documents by mention frequency:
 - [July](july.md) - 5 shared documents
 - [May](may.md) - 5 shared documents
 - [this year](this-year.md) - 5 shared documents
-- [2015](2015.md) - 5 shared documents
 - [2012](2012.md) - 5 shared documents
 - [2013](2013.md) - 5 shared documents
+- [2015](2015.md) - 5 shared documents
+- [2006](2006.md) - 4 shared documents
+- [2008](2008.md) - 4 shared documents
 - [2009](2009.md) - 4 shared documents
-- [2014](2014.md) - 4 shared documents
-- [2016](2016.md) - 4 shared documents
-- [annual](annual.md) - 4 shared documents
+- [2010](2010.md) - 4 shared documents
 
 ## Timeline
 

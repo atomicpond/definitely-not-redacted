@@ -36,7 +36,6 @@ Top 10 documents by mention frequency:
 - [robert](robert.md) - 5 shared documents
 - [Trump 
 Importance](trump-importance.md) - 5 shared documents
-- [Trump Shuttle](trump-shuttle.md) - 5 shared documents
 
 **Organizations:**
 

@@ -30,24 +30,24 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [China](../locations/china.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
-- [Canada](../locations/canada.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
 - [Australia](../locations/australia.md) - 4 shared documents
-- [Singapore](../locations/singapore.md) - 4 shared documents
+- [Canada](../locations/canada.md) - 4 shared documents
+- [China](../locations/china.md) - 4 shared documents
+- [Germany](../locations/germany.md) - 4 shared documents
 - [India](../locations/india.md) - 4 shared documents
-- [Taiwan](../locations/taiwan.md) - 4 shared documents
 - [Indonesia](../locations/indonesia.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
+- [Singapore](../locations/singapore.md) - 4 shared documents
+- [Taiwan](../locations/taiwan.md) - 4 shared documents
 
 **Events:**
 
+- [2000](../events/2000.md) - 4 shared documents
+- [2013](../events/2013.md) - 4 shared documents
 - [2015](../events/2015.md) - 4 shared documents
 - [annual](../events/annual.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [2000](../events/2000.md) - 4 shared documents
 - [monthly](../events/monthly.md) - 4 shared documents
-- [2013](../events/2013.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

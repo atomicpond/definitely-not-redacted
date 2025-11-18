@@ -35,9 +35,10 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 6 shared documents
-- [CLINTON](../people/clinton.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 5 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
 
 **Organizations:**
 

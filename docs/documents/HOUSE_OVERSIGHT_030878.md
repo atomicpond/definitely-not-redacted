@@ -11,7 +11,7 @@
 ### People
 - [Moore](../entities/people/moore.md) - 7 mentions
 - [Steve Bannon](../entities/people/steve-bannon.md) - 4 mentions
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 3 mentions
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 3 mentions
 - [Richard Kahn](../entities/people/richard-kahn.md) - 2 mentions
 - [Charlie Rose](../entities/people/charlie-rose.md) - 1 mention
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 1 mention

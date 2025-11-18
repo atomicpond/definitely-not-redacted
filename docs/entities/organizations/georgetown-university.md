@@ -28,8 +28,7 @@ Top 7 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 6 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 
 **Organizations:**
 
@@ -40,29 +39,29 @@ Top 7 documents by mention frequency:
 
 **Locations:**
 
-- [Washington](../locations/washington.md) - 7 shared documents
 - [the United States](../locations/the-united-states.md) - 7 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
+- [Washington](../locations/washington.md) - 7 shared documents
+- [America](../locations/america.md) - 6 shared documents
+- [Britain](../locations/britain.md) - 6 shared documents
 - [China](../locations/china.md) - 6 shared documents
 - [Europe](../locations/europe.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
-- [Germany](../locations/germany.md) - 6 shared documents
-- [America](../locations/america.md) - 6 shared documents
 - [France](../locations/france.md) - 6 shared documents
+- [Germany](../locations/germany.md) - 6 shared documents
+- [Greece](../locations/greece.md) - 6 shared documents
+- [India](../locations/india.md) - 6 shared documents
 
 **Events:**
 
 - [2003](../events/2003.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
 - [2012](../events/2012.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
 - [decades](../events/decades.md) - 6 shared documents
+- [today](../events/today.md) - 6 shared documents
+- [years](../events/years.md) - 6 shared documents
+- [1980](../events/1980.md) - 5 shared documents
+- [1993](../events/1993.md) - 5 shared documents
+- [1998](../events/1998.md) - 5 shared documents
+- [2006](../events/2006.md) - 5 shared documents
 - [2007](../events/2007.md) - 5 shared documents
-- [2009](../events/2009.md) - 5 shared documents
-- [the 1980s](../events/the-1980s.md) - 5 shared documents
-- [last year](../events/last-year.md) - 5 shared documents
-- [2011](../events/2011.md) - 5 shared documents
 
 ## Timeline
 

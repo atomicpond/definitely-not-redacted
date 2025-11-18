@@ -37,7 +37,7 @@ Clinton](bill-clinton.md) - 10 shared documents
 - [Lisa New](lisa-new.md) - 9 shared documents
 - [Jeffrey](jeffrey.md) - 8 shared documents
 - [New Mexico](new-mexico.md) - 8 shared documents
-- [jeffrey E. <](jeffrey-e.md) - 7 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 7 shared documents
 - [Joe Biden](joe-biden.md) - 7 shared documents
 - [High School Teachers](high-school-teachers.md) - 6 shared documents
 
@@ -46,13 +46,11 @@ Clinton](bill-clinton.md) - 10 shared documents
 - [Harvard](../organizations/harvard.md) - 16 shared documents
 - [HOUSE](../organizations/house.md) - 14 shared documents
 - [FBI](../organizations/fbi.md) - 10 shared documents
-- [WGBH](../organizations/wgbh.md) - 10 shared documents
 - [PBS LearningMedia](../organizations/pbs-learningmedia.md) - 10 shared documents
+- [WGBH](../organizations/wgbh.md) - 10 shared documents
 - [Harvard University](../organizations/harvard-university.md) - 9 shared documents
 - [Treasury](../organizations/treasury.md) - 9 shared documents
 - [The New Yorker](../organizations/the-new-yorker.md) - 8 shared documents
-- [Trump](../organizations/trump.md) - 7 shared documents
-- [Congress](../organizations/congress.md) - 7 shared documents
 
 **Locations:**
 
@@ -60,25 +58,24 @@ Clinton](bill-clinton.md) - 10 shared documents
 - [the United States](../locations/the-united-states.md) - 13 shared documents
 - [Florida](../locations/florida.md) - 10 shared documents
 - [Miami](../locations/miami.md) - 10 shared documents
-- [Washington](../locations/washington.md) - 9 shared documents
 - [Boston](../locations/boston.md) - 9 shared documents
+- [Washington](../locations/washington.md) - 9 shared documents
 - [Manhattan](../locations/manhattan.md) - 8 shared documents
 - [New Mexico](../locations/new-mexico.md) - 8 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 8 shared documents
-- [California](../locations/california.md) - 7 shared documents
 
 **Events:**
 
 - [this year](../events/this-year.md) - 12 shared documents
-- [Wednesday](../events/wednesday.md) - 11 shared documents
 - [last year](../events/last-year.md) - 11 shared documents
+- [Wednesday](../events/wednesday.md) - 11 shared documents
 - [years](../events/years.md) - 11 shared documents
 - [today](../events/today.md) - 9 shared documents
-- [October](../events/october.md) - 8 shared documents
-- [2015](../events/2015.md) - 8 shared documents
-- [daily](../events/daily.md) - 8 shared documents
-- [2017](../events/2017.md) - 8 shared documents
 - [2005](../events/2005.md) - 8 shared documents
+- [2006](../events/2006.md) - 8 shared documents
+- [2015](../events/2015.md) - 8 shared documents
+- [2017](../events/2017.md) - 8 shared documents
+- [daily](../events/daily.md) - 8 shared documents
 
 ## Timeline
 

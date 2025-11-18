@@ -52,8 +52,8 @@ Top 10 documents by mention frequency:
 - [United States](united-states.md) - 10 shared documents
 - [Florida](florida.md) - 9 shared documents
 - [Russia](russia.md) - 9 shared documents
-- [California](california.md) - 9 shared documents
 - [Brazil](brazil.md) - 9 shared documents
+- [California](california.md) - 9 shared documents
 - [France](france.md) - 8 shared documents
 
 **Events:**
@@ -63,11 +63,11 @@ Top 10 documents by mention frequency:
 - [monthly](../events/monthly.md) - 13 shared documents
 - [2004](../events/2004.md) - 12 shared documents
 - [2015](../events/2015.md) - 12 shared documents
-- [annual](../events/annual.md) - 11 shared documents
 - [1990](../events/1990.md) - 11 shared documents
 - [2013](../events/2013.md) - 11 shared documents
+- [annual](../events/annual.md) - 11 shared documents
 - [1993](../events/1993.md) - 10 shared documents
-- [2003](../events/2003.md) - 9 shared documents
+- [1985](../events/1985.md) - 9 shared documents
 
 ## Timeline
 

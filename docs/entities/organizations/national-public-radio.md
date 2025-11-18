@@ -42,8 +42,6 @@ Top 8 documents by mention frequency:
 - [the University of Chicago](the-university-of-chicago.md) - 6 shared documents
 - [New York Times](new-york-times.md) - 5 shared documents
 - [Time](time.md) - 5 shared documents
-- [HOUSE](house.md) - 5 shared documents
-- [Harvard University](harvard-university.md) - 5 shared documents
 - [Stanford](stanford.md) - 4 shared documents
 - [Stanford University](stanford-university.md) - 4 shared documents
 - [the New York Times](the-new-york-times.md) - 4 shared documents
@@ -53,28 +51,27 @@ Top 8 documents by mention frequency:
 **Locations:**
 
 - [Africa](../locations/africa.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
-- [Germany](../locations/germany.md) - 6 shared documents
 - [Chicago](../locations/chicago.md) - 6 shared documents
-- [California](../locations/california.md) - 5 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [London](../locations/london.md) - 5 shared documents
+- [Germany](../locations/germany.md) - 6 shared documents
+- [Japan](../locations/japan.md) - 6 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [Australia](../locations/australia.md) - 5 shared documents
+- [California](../locations/california.md) - 5 shared documents
+- [England](../locations/england.md) - 5 shared documents
 - [France](../locations/france.md) - 5 shared documents
 
 **Events:**
 
 - [one day](../events/one-day.md) - 7 shared documents
-- [2009](../events/2009.md) - 6 shared documents
+- [1974](../events/1974.md) - 6 shared documents
+- [1980](../events/1980.md) - 6 shared documents
 - [1996](../events/1996.md) - 6 shared documents
+- [2008](../events/2008.md) - 6 shared documents
+- [2009](../events/2009.md) - 6 shared documents
+- [2010](../events/2010.md) - 6 shared documents
 - [2012](../events/2012.md) - 6 shared documents
 - [daily](../events/daily.md) - 6 shared documents
 - [years](../events/years.md) - 6 shared documents
-- [2008](../events/2008.md) - 6 shared documents
-- [2010](../events/2010.md) - 6 shared documents
-- [1974](../events/1974.md) - 6 shared documents
-- [1980](../events/1980.md) - 6 shared documents
 
 ## Timeline
 

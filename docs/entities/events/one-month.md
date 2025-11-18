@@ -35,11 +35,11 @@ Top 7 documents by mention frequency:
 - [six months](six-months.md) - 5 shared documents
 - [today](today.md) - 5 shared documents
 - [2004](2004.md) - 4 shared documents
+- [2006](2006.md) - 4 shared documents
 - [daily](daily.md) - 4 shared documents
+- [five years](five-years.md) - 4 shared documents
 - [May](may.md) - 4 shared documents
 - [one day](one-day.md) - 4 shared documents
-- [2006](2006.md) - 4 shared documents
-- [five years](five-years.md) - 4 shared documents
 
 ## Timeline
 

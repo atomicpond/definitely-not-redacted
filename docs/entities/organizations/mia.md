@@ -25,37 +25,31 @@ Top 7 documents by mention frequency:
 
 ### Most Frequently Co-occurring Entities
 
-**Organizations:**
-
-- [Congress](congress.md) - 4 shared documents
-- [CIA](cia.md) - 4 shared documents
-- [FBI](fbi.md) - 4 shared documents
-
 **Locations:**
 
 - [Germany](../locations/germany.md) - 7 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
 - [Israel](../locations/israel.md) - 6 shared documents
 - [Paris](../locations/paris.md) - 6 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [London](../locations/london.md) - 5 shared documents
+- [United States](../locations/united-states.md) - 6 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [Australia](../locations/australia.md) - 5 shared documents
+- [Europe](../locations/europe.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
-- [Virginia](../locations/virginia.md) - 5 shared documents
+- [London](../locations/london.md) - 5 shared documents
+- [Russia](../locations/russia.md) - 5 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
-- [this week](../events/this-week.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
 - [the years](../events/the-years.md) - 5 shared documents
+- [this week](../events/this-week.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [Tuesday](../events/tuesday.md) - 5 shared documents
+- [years](../events/years.md) - 5 shared documents
+- [1973](../events/1973.md) - 4 shared documents
+- [1989](../events/1989.md) - 4 shared documents
+- [1992](../events/1992.md) - 4 shared documents
 - [2000](../events/2000.md) - 4 shared documents
 - [2012](../events/2012.md) - 4 shared documents
-- [daily](../events/daily.md) - 4 shared documents
-- [monthly](../events/monthly.md) - 4 shared documents
-- [August](../events/august.md) - 4 shared documents
 
 ## Timeline
 

@@ -33,10 +33,10 @@ Top 10 documents by mention frequency:
 - [Middle East](../people/middle-east.md) - 5 shared documents
 - [San Francisco](../people/san-francisco.md) - 5 shared documents
 - [Al Qaeda](../people/al-qaeda.md) - 4 shared documents
+- [Barack Obama](../people/barack-obama.md) - 4 shared documents
 - [Barry Krischer](../people/barry-krischer.md) - 4 shared documents
 - [David Kennedy](../people/david-kennedy.md) - 4 shared documents
 - [Jack Goldberger](../people/jack-goldberger.md) - 4 shared documents
-- [Kenneth Starr](../people/kenneth-starr.md) - 4 shared documents
 
 **Organizations:**
 
@@ -61,21 +61,21 @@ Top 10 documents by mention frequency:
 - [Seattle](seattle.md) - 5 shared documents
 - [the United States](the-united-states.md) - 5 shared documents
 - [China](china.md) - 5 shared documents
-- [Germany](germany.md) - 5 shared documents
-- [France](france.md) - 5 shared documents
+- [Posh Palm Beach](posh-palm-beach.md) - 4 shared documents
+- [Russia](russia.md) - 4 shared documents
 
 **Events:**
 
 - [three years](../events/three-years.md) - 9 shared documents
-- [1984](../events/1984.md) - 8 shared documents
 - [18 months](../events/18-months.md) - 8 shared documents
-- [two years](../events/two-years.md) - 8 shared documents
 - [1981](../events/1981.md) - 8 shared documents
+- [1984](../events/1984.md) - 8 shared documents
+- [two years](../events/two-years.md) - 8 shared documents
+- [1991](../events/1991.md) - 7 shared documents
 - [last year](../events/last-year.md) - 7 shared documents
 - [Saturday](../events/saturday.md) - 7 shared documents
 - [two days](../events/two-days.md) - 7 shared documents
-- [1991](../events/1991.md) - 7 shared documents
-- [daily](../events/daily.md) - 6 shared documents
+- [14](../events/14.md) - 6 shared documents
 
 ## Timeline
 

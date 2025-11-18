@@ -27,7 +27,6 @@ Top 7 documents by mention frequency:
 **People:**
 
 - [Jeffrey](../people/jeffrey.md) - 7 shared documents
-- [Epstein](../people/epstein.md) - 6 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 6 shared documents
 
 **Organizations:**

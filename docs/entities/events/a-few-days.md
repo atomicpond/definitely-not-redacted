@@ -57,9 +57,9 @@ Top 10 documents by mention frequency:
 - [a year](a-year.md) - 15 shared documents
 - [two years](two-years.md) - 15 shared documents
 - [2009](2009.md) - 15 shared documents
+- [2005](2005.md) - 14 shared documents
 - [2007](2007.md) - 14 shared documents
 - [2012](2012.md) - 14 shared documents
-- [2005](2005.md) - 14 shared documents
 
 ## Timeline
 

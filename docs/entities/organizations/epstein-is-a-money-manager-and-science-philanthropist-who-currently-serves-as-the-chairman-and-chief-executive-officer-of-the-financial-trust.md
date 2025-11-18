@@ -54,20 +54,20 @@ He](../people/mystery-he.md) - 6 shared documents
 
 **Locations:**
 
-- [New York City](../locations/new-york-city.md) - 6 shared documents
-- [Miami](../locations/miami.md) - 6 shared documents
 - [Coney Island](../locations/coney-island.md) - 6 shared documents
+- [Miami](../locations/miami.md) - 6 shared documents
+- [New York City](../locations/new-york-city.md) - 6 shared documents
 
 **Events:**
 
-- [daily](../events/daily.md) - 6 shared documents
-- [2005](../events/2005.md) - 6 shared documents
 - [1994](../events/1994.md) - 6 shared documents
+- [2005](../events/2005.md) - 6 shared documents
+- [daily](../events/daily.md) - 6 shared documents
 - [January 20, 1953](../events/january-20-1953.md) - 6 shared documents
+- [12/16/2010](../events/12-16-2010.md) - 5 shared documents
+- [Dec 2](../events/dec-2.md) - 5 shared documents
 - [this day](../events/this-day.md) - 5 shared documents
 - [weekly](../events/weekly.md) - 5 shared documents
-- [Dec 2](../events/dec-2.md) - 5 shared documents
-- [12/16/2010](../events/12-16-2010.md) - 5 shared documents
 - [today](../events/today.md) - 4 shared documents
 
 ## Timeline

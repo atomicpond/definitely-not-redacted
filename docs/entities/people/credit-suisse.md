@@ -39,34 +39,34 @@ Top 10 documents by mention frequency:
 
 - [Credit Suisse](../organizations/credit-suisse.md) - 9 shared documents
 - [Deutsche Bank](../organizations/deutsche-bank.md) - 6 shared documents
+- [Goldman Sachs](../organizations/goldman-sachs.md) - 5 shared documents
 - [HOUSE](../organizations/house.md) - 5 shared documents
-- [Trump](../organizations/trump.md) - 5 shared documents
 - [JPMorgan](../organizations/jpmorgan.md) - 5 shared documents
 - [Morgan Stanley](../organizations/morgan-stanley.md) - 5 shared documents
 - [SEC](../organizations/sec.md) - 5 shared documents
-- [Goldman Sachs](../organizations/goldman-sachs.md) - 5 shared documents
 - [The Wall Street Journal](../organizations/the-wall-street-journal.md) - 5 shared documents
-- [Bank of America](../organizations/bank-of-america.md) - 4 shared documents
+- [Trump](../organizations/trump.md) - 5 shared documents
 
 **Locations:**
 
 - [China](../locations/china.md) - 8 shared documents
 - [Mexico](../locations/mexico.md) - 7 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
 - [Japan](../locations/japan.md) - 6 shared documents
+- [United States](../locations/united-states.md) - 6 shared documents
 - [Chicago](../locations/chicago.md) - 5 shared documents
 - [Miami](../locations/miami.md) - 5 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
-- [Brazil](../locations/brazil.md) - 4 shared documents
-- [Canada](../locations/canada.md) - 4 shared documents
+- [Argentina](../locations/argentina.md) - 4 shared documents
+- [Australia](../locations/australia.md) - 4 shared documents
+- [Bahrain](../locations/bahrain.md) - 4 shared documents
+- [Beijing](../locations/beijing.md) - 4 shared documents
 
 **Events:**
 
 - [annual](../events/annual.md) - 6 shared documents
-- [2014](../events/2014.md) - 4 shared documents
-- [2008](../events/2008.md) - 4 shared documents
 - [1987](../events/1987.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
+- [2014](../events/2014.md) - 4 shared documents
+- [seven years](../events/seven-years.md) - 4 shared documents
 
 ## Timeline
 

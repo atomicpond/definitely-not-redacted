@@ -61,11 +61,11 @@ Dignitatis Humanae Institute](benjamin-harnwell-founder-and-president-of-the-boa
 **Locations:**
 
 - [Italy](../locations/italy.md) - 15 shared documents
-- [USA](../locations/usa.md) - 14 shared documents
 - [Europe](../locations/europe.md) - 14 shared documents
 - [Pennsylvania](../locations/pennsylvania.md) - 14 shared documents
-- [London](../locations/london.md) - 13 shared documents
+- [USA](../locations/usa.md) - 14 shared documents
 - [Cambridge](../locations/cambridge.md) - 13 shared documents
+- [London](../locations/london.md) - 13 shared documents
 - [Brussels](../locations/brussels.md) - 12 shared documents
 - [Rome](../locations/rome.md) - 12 shared documents
 - [Charlottesville](../locations/charlottesville.md) - 11 shared documents
@@ -75,10 +75,10 @@ Dignitatis Humanae Institute](benjamin-harnwell-founder-and-president-of-the-boa
 
 - [2014](../events/2014.md) - 13 shared documents
 - [2016](../events/2016.md) - 13 shared documents
-- [Friday](../events/friday.md) - 12 shared documents
 - [1984](../events/1984.md) - 12 shared documents
 - [2019](../events/2019.md) - 12 shared documents
 - [65](../events/65.md) - 12 shared documents
+- [Friday](../events/friday.md) - 12 shared documents
 - [2018-07-22](../events/2018-07-22.md) - 11 shared documents
 - [July 22, 2018](../events/july-22-2018.md) - 11 shared documents
 - [last summer](../events/last-summer.md) - 11 shared documents

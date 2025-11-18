@@ -34,16 +34,16 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 111 shared documents
-- [President Obama](../people/president-obama.md) - 37 shared documents
 - [Middle East](../people/middle-east.md) - 32 shared documents
-- [Mr. Obama](../people/obama.md) - 32 shared documents
-- [President Trump](../people/president-trump.md) - 31 shared documents
-- [Barack Obama](../people/barack-obama.md) - 29 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 28 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 27 shared documents
 - [Michael Wolff](../people/michael-wolff.md) - 23 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 22 shared documents
+- [Saudi Arabia](../people/saudi-arabia.md) - 21 shared documents
+- [New
+York](../people/new-york.md) - 19 shared documents
+- [Security Council](../people/security-council.md) - 18 shared documents
+- [Vanity Fair](../people/vanity-fair.md) - 17 shared documents
+- [Goldman Sachs](../people/goldman-sachs.md) - 16 shared documents
+- [Daily News](../people/daily-news.md) - 15 shared documents
 
 **Organizations:**
 
@@ -53,9 +53,10 @@ Trump](../people/trump.md) - 27 shared documents
 - [Congress](congress.md) - 45 shared documents
 - [the New York Times](the-new-york-times.md) - 31 shared documents
 - [State](state.md) - 29 shared documents
-- [Times](times.md) - 28 shared documents
 - [Harvard](harvard.md) - 28 shared documents
+- [Times](times.md) - 28 shared documents
 - [Yahoo](yahoo.md) - 10 shared documents
+- [Yale](yale.md) - 9 shared documents
 
 **Locations:**
 
@@ -68,7 +69,7 @@ Trump](../people/trump.md) - 27 shared documents
 - [China](../locations/china.md) - 37 shared documents
 - [Europe](../locations/europe.md) - 37 shared documents
 - [US](../locations/us.md) - 35 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 32 shared documents
+- [Germany](../locations/germany.md) - 32 shared documents
 
 **Events:**
 
@@ -80,8 +81,8 @@ Trump](../people/trump.md) - 27 shared documents
 - [2007](../events/2007.md) - 31 shared documents
 - [2013](../events/2013.md) - 31 shared documents
 - [2016](../events/2016.md) - 30 shared documents
-- [last year](../events/last-year.md) - 29 shared documents
 - [2011](../events/2011.md) - 29 shared documents
+- [last year](../events/last-year.md) - 29 shared documents
 
 ## Timeline
 

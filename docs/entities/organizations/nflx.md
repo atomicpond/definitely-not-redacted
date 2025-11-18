@@ -47,27 +47,29 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
-- [Europe](../locations/europe.md) - 5 shared documents
 - [Canada](../locations/canada.md) - 5 shared documents
-- [Dubai](../locations/dubai.md) - 4 shared documents
-- [China](../locations/china.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
-- [Brazil](../locations/brazil.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
-- [Mexico](../locations/mexico.md) - 4 shared documents
+- [Europe](../locations/europe.md) - 5 shared documents
+- [Argentina](../locations/argentina.md) - 4 shared documents
 - [Asia](../locations/asia.md) - 4 shared documents
+- [Australia](../locations/australia.md) - 4 shared documents
+- [BaFin](../locations/bafin.md) - 4 shared documents
+- [Brazil](../locations/brazil.md) - 4 shared documents
+- [China](../locations/china.md) - 4 shared documents
+- [Dubai](../locations/dubai.md) - 4 shared documents
+- [Germany](../locations/germany.md) - 4 shared documents
 
 **Events:**
 
 - [5-year](../events/5-year.md) - 5 shared documents
+- [12-month](../events/12-month.md) - 4 shared documents
+- [1959](../events/1959.md) - 4 shared documents
+- [198602883D](../events/198602883d.md) - 4 shared documents
+- [2001](../events/2001.md) - 4 shared documents
 - [2015](../events/2015.md) - 4 shared documents
 - [2017](../events/2017.md) - 4 shared documents
-- [2001](../events/2001.md) - 4 shared documents
-- [1959](../events/1959.md) - 4 shared documents
+- [the 9th day of a month](../events/the-9th-day-of-a-month.md) - 4 shared documents
+- [the 9th day of the month](../events/the-9th-day-of-the-month.md) - 4 shared documents
 - [the day](../events/the-day.md) - 4 shared documents
-- [12-month](../events/12-month.md) - 4 shared documents
-- [198602883D](../events/198602883d.md) - 4 shared documents
 
 ## Timeline
 

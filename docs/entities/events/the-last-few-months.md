@@ -47,11 +47,11 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [this year](this-year.md) - 6 shared documents
-- [annual](annual.md) - 5 shared documents
 - [2013](2013.md) - 5 shared documents
-- [next year](next-year.md) - 4 shared documents
-- [March](march.md) - 4 shared documents
+- [annual](annual.md) - 5 shared documents
 - [Friday](friday.md) - 4 shared documents
+- [March](march.md) - 4 shared documents
+- [next year](next-year.md) - 4 shared documents
 - [the day](the-day.md) - 4 shared documents
 - [the end of the day](the-end-of-the-day.md) - 4 shared documents
 

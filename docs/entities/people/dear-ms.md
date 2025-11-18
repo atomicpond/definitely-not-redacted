@@ -44,14 +44,14 @@ Spektor](regina-spektor.md) - 5 shared documents
 **Organizations:**
 
 - [Amazon](../organizations/amazon.md) - 5 shared documents
-- [Kirkland & Ellis LLP](../organizations/kirkland-ellis-llp.md) - 5 shared documents
+- [HARVARD UNIVERSITY 
+DEPARTMENT](../organizations/harvard-university-department.md) - 5 shared documents
+- [Is he spending more time on The Jeffrey Epstein Science Foundation](../organizations/is-he-spending-more-time-on-the-jeffrey-epstein-science-foundation.md) - 5 shared documents
 - [It is the property of 
 Kirkland & Ellis LLP or Kirkland & Ellis International LLP](../organizations/it-is-the-property-of-kirkland-ellis-llp-or-kirkland-ellis-international-llp.md) - 5 shared documents
 - [Kirkland & Ellis International LLP](../organizations/kirkland-ellis-international-llp.md) - 5 shared documents
-- [HARVARD UNIVERSITY 
-DEPARTMENT](../organizations/harvard-university-department.md) - 5 shared documents
+- [Kirkland & Ellis LLP](../organizations/kirkland-ellis-llp.md) - 5 shared documents
 - [Quincy Street - Cambridge](../organizations/quincy-street-cambridge.md) - 5 shared documents
-- [Is he spending more time on The Jeffrey Epstein Science Foundation](../organizations/is-he-spending-more-time-on-the-jeffrey-epstein-science-foundation.md) - 5 shared documents
 - [The Jeffrey Epstein Science Foundation](../organizations/the-jeffrey-epstein-science-foundation.md) - 5 shared documents
 - [Harvard Medical School](../organizations/harvard-medical-school.md) - 4 shared documents
 
@@ -63,9 +63,9 @@ DEPARTMENT](../organizations/harvard-university-department.md) - 5 shared docume
 **Events:**
 
 - [2011](../events/2011.md) - 5 shared documents
-- [three years ago](../events/three-years-ago.md) - 5 shared documents
 - [3/7/2011](../events/3-7-2011.md) - 5 shared documents
 - [November 25, 2018](../events/november-25-2018.md) - 5 shared documents
+- [three years ago](../events/three-years-ago.md) - 5 shared documents
 
 ## Timeline
 

@@ -47,14 +47,14 @@ Top 5 documents by mention frequency:
 
 - [September](september.md) - 4 shared documents
 - [the year](the-year.md) - 4 shared documents
-- [2003](2003.md) - 4 shared documents
-- [daily](daily.md) - 4 shared documents
-- [July](july.md) - 4 shared documents
-- [April](april.md) - 4 shared documents
-- [1972](1972.md) - 4 shared documents
 - [1952](1952.md) - 4 shared documents
 - [1963](1963.md) - 4 shared documents
 - [1967](1967.md) - 4 shared documents
+- [1972](1972.md) - 4 shared documents
+- [1982](1982.md) - 4 shared documents
+- [1988](1988.md) - 4 shared documents
+- [1989](1989.md) - 4 shared documents
+- [2003](2003.md) - 4 shared documents
 
 ## Timeline
 

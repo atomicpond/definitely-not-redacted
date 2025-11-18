@@ -30,7 +30,7 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Paul G. Cassell](paul-g-cassell.md) - 12 shared documents
-- [Bradley J. Edwards](bradley-j-edwards.md) - 11 shared documents
+- [Brad Edwards](brad-edwards.md) - 11 shared documents
 - [Jane Doe](jane-doe.md) - 10 shared documents
 - [San Diego](san-diego.md) - 6 shared documents
 - [Secret Service](secret-service.md) - 6 shared documents
@@ -42,20 +42,20 @@ Top 10 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 10 shared documents
 - [FBI](../organizations/fbi.md) - 10 shared documents
+- [HOUSE](../organizations/house.md) - 10 shared documents
 - [State](../organizations/state.md) - 10 shared documents
 - [Court](../organizations/court.md) - 9 shared documents
-- [Harvard](../organizations/harvard.md) - 9 shared documents
 - [CVRA](../organizations/cvra.md) - 9 shared documents
+- [Harvard](../organizations/harvard.md) - 9 shared documents
 
 **Locations:**
 
 - [Salt Lake City](../locations/salt-lake-city.md) - 19 shared documents
 - [New York](../locations/new-york.md) - 17 shared documents
 - [U.S.](../locations/us.md) - 15 shared documents
-- [United States](../locations/united-states.md) - 14 shared documents
 - [Florida](../locations/florida.md) - 14 shared documents
+- [United States](../locations/united-states.md) - 14 shared documents
 - [the United States](../locations/the-united-states.md) - 13 shared documents
 - [Utah](../locations/utah.md) - 13 shared documents
 - [Virginia](../locations/virginia.md) - 11 shared documents
@@ -67,12 +67,12 @@ Top 10 documents by mention frequency:
 - [2011](../events/2011.md) - 15 shared documents
 - [2007](../events/2007.md) - 12 shared documents
 - [2009](../events/2009.md) - 12 shared documents
-- [daily](../events/daily.md) - 12 shared documents
 - [2013](../events/2013.md) - 12 shared documents
-- [2014](../events/2014.md) - 11 shared documents
+- [daily](../events/daily.md) - 12 shared documents
 - [1998](../events/1998.md) - 11 shared documents
 - [1999](../events/1999.md) - 11 shared documents
 - [2008](../events/2008.md) - 11 shared documents
+- [2014](../events/2014.md) - 11 shared documents
 - [today](../events/today.md) - 10 shared documents
 
 ## Timeline

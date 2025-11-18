@@ -12,7 +12,7 @@
 - [Lawrence Krauss](../entities/people/lawrence-krauss.md) - 2 mentions
 - [Noam Chomsky](../entities/people/noam-chomsky.md) - 2 mentions
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [jeffrey E. <](../entities/people/jeffrey-e.md) - 1 mention
 - [Lawrence](../entities/people/lawrence.md) - 1 mention
 - [Space Exploration](../entities/people/space-exploration.md) - 1 mention

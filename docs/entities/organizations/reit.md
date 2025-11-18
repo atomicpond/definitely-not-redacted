@@ -32,25 +32,25 @@ Top 8 documents by mention frequency:
 
 **Locations:**
 
-- [California](../locations/california.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
 - [Brazil](../locations/brazil.md) - 5 shared documents
+- [California](../locations/california.md) - 5 shared documents
 - [Canada](../locations/canada.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
 - [Mexico](../locations/mexico.md) - 5 shared documents
 - [South Africa](../locations/south-africa.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
+- [Argentina](../locations/argentina.md) - 4 shared documents
+- [Australia](../locations/australia.md) - 4 shared documents
+- [France](../locations/france.md) - 4 shared documents
 
 **Events:**
 
 - [2004](../events/2004.md) - 4 shared documents
-- [2018](../events/2018.md) - 4 shared documents
 - [2015](../events/2015.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
 - [2017](../events/2017.md) - 4 shared documents
+- [2018](../events/2018.md) - 4 shared documents
 - [the day](../events/the-day.md) - 4 shared documents
+- [this year](../events/this-year.md) - 4 shared documents
 
 ## Timeline
 

@@ -55,10 +55,10 @@ Sent](../people/ok-sent.md) - 5 shared documents
 **Locations:**
 
 - [Sun](../locations/sun.md) - 9 shared documents
-- [Washington DC](../locations/washington-dc.md) - 5 shared documents
 - [Mon](../locations/mon.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
+- [Washington DC](../locations/washington-dc.md) - 5 shared documents
 - [D.C.](../locations/dc.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
 
 **Events:**
 

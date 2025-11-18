@@ -30,8 +30,9 @@ Top 10 documents by mention frequency:
 
 **People:**
 
+- [Donald 
+Trump](../people/donald-trump.md) - 5 shared documents
 - [Following Plea That](../people/following-plea-that.md) - 5 shared documents
-- [Implicated Trump](../people/implicated-trump.md) - 5 shared documents
 - [Michael Cohen](../people/michael-cohen.md) - 5 shared documents
 - [Michael Cohen Sentenced](../people/michael-cohen-sentenced.md) - 5 shared documents
 - [Years In Prison](../people/years-in-prison.md) - 5 shared documents
@@ -59,12 +60,12 @@ Top 10 documents by mention frequency:
 - [years](years.md) - 7 shared documents
 - [the year](the-year.md) - 6 shared documents
 - [year](year.md) - 6 shared documents
-- [2015](2015.md) - 6 shared documents
 - [2013](2013.md) - 6 shared documents
+- [2015](2015.md) - 6 shared documents
 - [4 years](4-years.md) - 5 shared documents
 - [next year](next-year.md) - 5 shared documents
 - [this year](this-year.md) - 5 shared documents
-- [2012](2012.md) - 5 shared documents
+- [12/12/2018](12122018.md) - 5 shared documents
 
 ## Timeline
 

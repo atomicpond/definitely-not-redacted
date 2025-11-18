@@ -47,10 +47,10 @@ Top 7 documents by mention frequency:
 - [today](today.md) - 5 shared documents
 - [two years](two-years.md) - 5 shared documents
 - [years](years.md) - 5 shared documents
+- [23-year-old](23-year-old.md) - 5 shared documents
+- [Friday](friday.md) - 5 shared documents
 - [last year](last-year.md) - 5 shared documents
 - [May](may.md) - 5 shared documents
-- [Friday](friday.md) - 5 shared documents
-- [23-year-old](23-year-old.md) - 5 shared documents
 
 ## Timeline
 

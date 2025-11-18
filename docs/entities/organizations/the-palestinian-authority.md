@@ -30,16 +30,16 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 14 shared documents
+- [Barack Obama](../people/barack-obama.md) - 14 shared documents
 - [General Assembly](../people/general-assembly.md) - 12 shared documents
 - [Middle East](../people/middle-east.md) - 10 shared documents
 - [West Bank](../people/west-bank.md) - 10 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 9 shared documents
 - [Security Council](../people/security-council.md) - 9 shared documents
-- [Barack Obama](../people/barack-obama.md) - 8 shared documents
 - [Cold War](../people/cold-war.md) - 8 shared documents
 - [Gaza Strip](../people/gaza-strip.md) - 8 shared documents
 - [Hosni Mubarak](../people/hosni-mubarak.md) - 8 shared documents
+- [Mahmoud Abbas](../people/mahmoud-abbas.md) - 8 shared documents
 
 **Organizations:**
 
@@ -50,9 +50,9 @@ Top 10 documents by mention frequency:
 - [al-Qaeda](al-qaeda.md) - 9 shared documents
 - [Islam](islam.md) - 9 shared documents
 - [Pentagon](pentagon.md) - 9 shared documents
-- [Benghazi](benghazi.md) - 8 shared documents
 - [the State Department](the-state-department.md) - 6 shared documents
 - [Twitter](twitter.md) - 6 shared documents
+- [the Palestinian Media Watch's](the-palestinian-media-watchs.md) - 5 shared documents
 
 **Locations:**
 
@@ -61,24 +61,24 @@ Top 10 documents by mention frequency:
 - [Russia](../locations/russia.md) - 13 shared documents
 - [Syria](../locations/syria.md) - 12 shared documents
 - [the West Bank](../locations/the-west-bank.md) - 12 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 11 shared documents
 - [Iraq](../locations/iraq.md) - 11 shared documents
 - [Jerusalem](../locations/jerusalem.md) - 11 shared documents
-- [Middle East](../locations/middle-east.md) - 10 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 11 shared documents
+- [Egypt](../locations/egypt.md) - 10 shared documents
 - [Iran](../locations/iran.md) - 10 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 10 shared documents
 - [daily](../events/daily.md) - 10 shared documents
-- [years](../events/years.md) - 10 shared documents
 - [decades](../events/decades.md) - 10 shared documents
 - [the day](../events/the-day.md) - 10 shared documents
-- [last year](../events/last-year.md) - 9 shared documents
+- [today](../events/today.md) - 10 shared documents
+- [years](../events/years.md) - 10 shared documents
 - [1967](../events/1967.md) - 9 shared documents
+- [last year](../events/last-year.md) - 9 shared documents
+- [1991](../events/1991.md) - 8 shared documents
 - [last week](../events/last-week.md) - 8 shared documents
 - [September](../events/september.md) - 8 shared documents
-- [the 1950s](../events/the-1950s.md) - 8 shared documents
 
 ## Timeline
 

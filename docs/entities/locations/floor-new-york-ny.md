@@ -37,10 +37,10 @@ New](../people/floor-new.md) - 66 shared documents
 - [Lexington Avenue](../people/lexington-avenue.md) - 66 shared documents
 - [Richard Kahn](../people/richard-kahn.md) - 44 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 20 shared documents
-- [Mr. 
-Dershowitz](../people/dershowitz.md) - 6 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 6 shared documents
+- [Alan 
+Dershowitz](../people/alan-dershowitz.md) - 6 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 6 shared documents
 
 **Organizations:**
 

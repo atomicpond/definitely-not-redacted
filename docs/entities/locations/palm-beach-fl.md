@@ -29,16 +29,16 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Bradley J. Edwards](../people/bradley-j-edwards.md) - 13 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 13 shared documents
 - [Jane Doe](../people/jane-doe.md) - 13 shared documents
 - [New Mexico](../people/new-mexico.md) - 13 shared documents
 - [Alfredo Rodriguez](../people/alfredo-rodriguez.md) - 12 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 12 shared documents
 - [Jack Scarola](../people/jack-scarola.md) - 11 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 10 shared documents
 - [Rights Act](../people/rights-act.md) - 10 shared documents
 - [Sarah Kellen](../people/sarah-kellen.md) - 10 shared documents
 - [Vanity Fair](../people/vanity-fair.md) - 10 shared documents
+- [Crime Victims](../people/crime-victims.md) - 9 shared documents
+- [Jack Goldberger](../people/jack-goldberger.md) - 9 shared documents
 
 **Organizations:**
 
@@ -71,13 +71,13 @@ Top 10 documents by mention frequency:
 - [today](../events/today.md) - 17 shared documents
 - [2008](../events/2008.md) - 14 shared documents
 - [2004](../events/2004.md) - 13 shared documents
-- [daily](../events/daily.md) - 13 shared documents
 - [2006](../events/2006.md) - 13 shared documents
-- [2007](../events/2007.md) - 12 shared documents
+- [daily](../events/daily.md) - 13 shared documents
 - [2005](../events/2005.md) - 12 shared documents
+- [2007](../events/2007.md) - 12 shared documents
 - [2009](../events/2009.md) - 11 shared documents
-- [2011](../events/2011.md) - 10 shared documents
 - [14](../events/14.md) - 10 shared documents
+- [2011](../events/2011.md) - 10 shared documents
 
 ## Timeline
 

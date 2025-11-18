@@ -54,12 +54,12 @@ Top 6 documents by mention frequency:
 - [November](november.md) - 5 shared documents
 - [the 1980s](the-1980s.md) - 5 shared documents
 - [the years](the-years.md) - 5 shared documents
-- [1996](1996.md) - 5 shared documents
-- [last week](last-week.md) - 5 shared documents
+- [1981](1981.md) - 5 shared documents
+- [1987](1987.md) - 5 shared documents
+- [1991](1991.md) - 5 shared documents
 - [1993](1993.md) - 5 shared documents
+- [1996](1996.md) - 5 shared documents
 - [a few months](a-few-months.md) - 5 shared documents
-- [a few weeks](a-few-weeks.md) - 5 shared documents
-- [January](january.md) - 5 shared documents
 
 ## Timeline
 

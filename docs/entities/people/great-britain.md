@@ -29,29 +29,29 @@ Top 8 documents by mention frequency:
 
 - [HOUSE](../organizations/house.md) - 7 shared documents
 - [Twitter](../organizations/twitter.md) - 5 shared documents
-- [ISIS](../organizations/isis.md) - 4 shared documents
 - [Harvard](../organizations/harvard.md) - 4 shared documents
+- [ISIS](../organizations/isis.md) - 4 shared documents
 - [Islam](../organizations/islam.md) - 4 shared documents
 
 **Locations:**
 
-- [China](../locations/china.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [China](../locations/china.md) - 5 shared documents
 - [France](../locations/france.md) - 5 shared documents
 - [India](../locations/india.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
+- [Russia](../locations/russia.md) - 5 shared documents
 - [Asia](../locations/asia.md) - 4 shared documents
+- [Beijing](../locations/beijing.md) - 4 shared documents
+- [Britain](../locations/britain.md) - 4 shared documents
+- [Davos](../locations/davos.md) - 4 shared documents
+- [Europe](../locations/europe.md) - 4 shared documents
 
 **Events:**
 
 - [this week](../events/this-week.md) - 5 shared documents
+- [2008](../events/2008.md) - 4 shared documents
 - [2014](../events/2014.md) - 4 shared documents
 - [today](../events/today.md) - 4 shared documents
-- [2008](../events/2008.md) - 4 shared documents
 
 ## Timeline
 

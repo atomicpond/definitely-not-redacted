@@ -31,18 +31,18 @@ Top 10 documents by mention frequency:
 
 - [Space Exploration](space-exploration.md) - 16 shared documents
 - [Lawrence Krauss](lawrence-krauss.md) - 16 shared documents
-- [Lawrence M. Krauss](lawrence-m-krauss.md) - 16 shared documents
 - [Jeffrey E](jeffrey-e.md) - 12 shared documents
 - [Professor 
 School](professor-school.md) - 11 shared documents
 - [State University](state-university.md) - 10 shared documents
-- [Lawrence](lawrence.md) - 10 shared documents
 - [Cosmology Initiative 
 Foundation](cosmology-initiative-foundation.md) - 10 shared documents
 - [Krauss 
 Director](krauss-director.md) - 10 shared documents
 - [Physics Department 
 Arizona](physics-department-arizona.md) - 10 shared documents
+- [noam](noam.md) - 9 shared documents
+- [Noam Chomsky](noam-chomsky.md) - 9 shared documents
 
 **Organizations:**
 

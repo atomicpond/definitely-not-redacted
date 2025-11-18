@@ -55,29 +55,29 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [Qatar](qatar.md) - 10 shared documents
-- [Manhattan](manhattan.md) - 10 shared documents
 - [Caribbean](caribbean.md) - 10 shared documents
-- [Paris](paris.md) - 10 shared documents
-- [New Mexico](new-mexico.md) - 10 shared documents
 - [Coney Island](coney-island.md) - 10 shared documents
 - [Dalton](dalton.md) - 10 shared documents
+- [Manhattan](manhattan.md) - 10 shared documents
+- [New Mexico](new-mexico.md) - 10 shared documents
+- [Paris](paris.md) - 10 shared documents
+- [Qatar](qatar.md) - 10 shared documents
 - [Europe](europe.md) - 9 shared documents
 - [Palm Beach](palm-beach.md) - 9 shared documents
 - [U.K.](uk.md) - 7 shared documents
 
 **Events:**
 
-- [Sunday](../events/sunday.md) - 10 shared documents
-- [2002](../events/2002.md) - 10 shared documents
-- [two years](../events/two-years.md) - 10 shared documents
 - [1953](../events/1953.md) - 10 shared documents
 - [1982](../events/1982.md) - 10 shared documents
 - [1994](../events/1994.md) - 10 shared documents
+- [2002](../events/2002.md) - 10 shared documents
+- [Sunday](../events/sunday.md) - 10 shared documents
+- [two years](../events/two-years.md) - 10 shared documents
+- [20s and 30s](../events/20s-and-30s.md) - 9 shared documents
 - [daily](../events/daily.md) - 9 shared documents
 - [early September](../events/early-september.md) - 9 shared documents
 - [late September](../events/late-september.md) - 9 shared documents
-- [20s and 30s](../events/20s-and-30s.md) - 9 shared documents
 
 ## Timeline
 

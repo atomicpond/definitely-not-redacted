@@ -13,7 +13,7 @@
 - [jr thomas](../entities/people/jr-thomas.md) - 1 mention
 - [Maggie Haberman](../entities/people/maggie-haberman.md) - 1 mention
 - [Mr. 
-Dershowitz](../entities/people/mr-dershowitz.md) - 1 mention
+Dershowitz](../entities/people/alan-dershowitz.md) - 1 mention
 - [trumps](../entities/people/trumps.md) - 1 mention
 - [Landon Thomas](../entities/people/landon-thomas.md) - 1 mention
 - [Landon](../entities/people/landon.md) - 1 mention

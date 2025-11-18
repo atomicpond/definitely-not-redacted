@@ -31,7 +31,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 8 shared documents
+- [Barack Obama](../people/barack-obama.md) - 8 shared documents
 - [Harvard University](../people/harvard-university.md) - 7 shared documents
 
 **Organizations:**
@@ -61,12 +61,12 @@ Top 10 documents by mention frequency:
 
 - [today](today.md) - 9 shared documents
 - [years](years.md) - 9 shared documents
-- [2012](2012.md) - 9 shared documents
 - [2001](2001.md) - 9 shared documents
-- [one day](one-day.md) - 9 shared documents
 - [2002](2002.md) - 9 shared documents
-- [five years](five-years.md) - 9 shared documents
+- [2012](2012.md) - 9 shared documents
 - [decades](decades.md) - 9 shared documents
+- [five years](five-years.md) - 9 shared documents
+- [one day](one-day.md) - 9 shared documents
 - [the 1970s](the-1970s.md) - 9 shared documents
 - [the early 1980s](the-early-1980s.md) - 8 shared documents
 

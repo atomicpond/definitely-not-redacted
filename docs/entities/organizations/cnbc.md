@@ -31,16 +31,17 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Middle East](../people/middle-east.md) - 7 shared documents
 - [San Francisco](../people/san-francisco.md) - 7 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 6 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 6 shared documents
 - [Las Vegas](../people/las-vegas.md) - 6 shared documents
 - [Los Angeles](../people/los-angeles.md) - 6 shared documents
-- [President Trump](../people/president-trump.md) - 6 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Harvard University](../people/harvard-university.md) - 5 shared documents
-- [President Barack Obama](../people/president-barack-obama.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
+- [Vice President](../people/vice-president.md) - 5 shared documents
+- [White House](../people/white-house.md) - 5 shared documents
 
 **Organizations:**
 
@@ -60,26 +61,26 @@ Top 10 documents by mention frequency:
 - [China](../locations/china.md) - 18 shared documents
 - [Canada](../locations/canada.md) - 13 shared documents
 - [the United States](../locations/the-united-states.md) - 11 shared documents
-- [California](../locations/california.md) - 10 shared documents
-- [Japan](../locations/japan.md) - 10 shared documents
-- [Germany](../locations/germany.md) - 10 shared documents
-- [Mexico](../locations/mexico.md) - 10 shared documents
-- [London](../locations/london.md) - 10 shared documents
 - [Asia](../locations/asia.md) - 10 shared documents
 - [Australia](../locations/australia.md) - 10 shared documents
+- [California](../locations/california.md) - 10 shared documents
+- [Germany](../locations/germany.md) - 10 shared documents
+- [Japan](../locations/japan.md) - 10 shared documents
+- [London](../locations/london.md) - 10 shared documents
+- [Mexico](../locations/mexico.md) - 10 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 15 shared documents
 - [this year](../events/this-year.md) - 11 shared documents
-- [2015](../events/2015.md) - 10 shared documents
-- [years](../events/years.md) - 10 shared documents
-- [tomorrow](../events/tomorrow.md) - 10 shared documents
 - [2013](../events/2013.md) - 10 shared documents
-- [Thursday](../events/thursday.md) - 9 shared documents
+- [2015](../events/2015.md) - 10 shared documents
+- [tomorrow](../events/tomorrow.md) - 10 shared documents
+- [years](../events/years.md) - 10 shared documents
 - [Friday](../events/friday.md) - 9 shared documents
+- [Thursday](../events/thursday.md) - 9 shared documents
 - [yesterday](../events/yesterday.md) - 9 shared documents
-- [2016](../events/2016.md) - 8 shared documents
+- [1990](../events/1990.md) - 8 shared documents
 
 ## Timeline
 

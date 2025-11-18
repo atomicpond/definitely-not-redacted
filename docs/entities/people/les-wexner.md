@@ -38,9 +38,9 @@ Top 10 documents by mention frequency:
 - [Jane Doe](jane-doe.md) - 18 shared documents
 - [Ace Greenberg](ace-greenberg.md) - 15 shared documents
 - [Vicky Ward](vicky-ward.md) - 13 shared documents
-- [Daily Mail](daily-mail.md) - 13 shared documents
 - [Rockefeller University](rockefeller-university.md) - 12 shared documents
 - [Miss Universe](miss-universe.md) - 11 shared documents
+- [Mort Zuckerman](mort-zuckerman.md) - 11 shared documents
 
 **Organizations:**
 
@@ -50,37 +50,36 @@ Top 10 documents by mention frequency:
 - [Harvard](../organizations/harvard.md) - 18 shared documents
 - [Les 
 Wexner](../organizations/les-wexner.md) - 17 shared documents
-- [Ghislaine Maxwell](../organizations/ghislaine-maxwell.md) - 16 shared documents
 - [Ghislaine](../organizations/ghislaine.md) - 16 shared documents
+- [Ghislaine Maxwell](../organizations/ghislaine-maxwell.md) - 16 shared documents
 - [FBI](../organizations/fbi.md) - 14 shared documents
-- [Google](../organizations/google.md) - 13 shared documents
-- [Cooper Union](../organizations/cooper-union.md) - 13 shared documents
+- [Carnegie](../organizations/carnegie.md) - 13 shared documents
 
 **Locations:**
 
 - [Palm Beach](../locations/palm-beach.md) - 31 shared documents
-- [Manhattan](../locations/manhattan.md) - 20 shared documents
 - [England](../locations/england.md) - 20 shared documents
+- [Manhattan](../locations/manhattan.md) - 20 shared documents
 - [New Mexico](../locations/new-mexico.md) - 19 shared documents
 - [Mail](../locations/mail.md) - 18 shared documents
 - [Paris](../locations/paris.md) - 17 shared documents
-- [New York](../locations/new-york.md) - 15 shared documents
-- [Europe](../locations/europe.md) - 15 shared documents
 - [Coney Island](../locations/coney-island.md) - 15 shared documents
+- [Europe](../locations/europe.md) - 15 shared documents
+- [New York](../locations/new-york.md) - 15 shared documents
 - [Caribbean](../locations/caribbean.md) - 14 shared documents
 
 **Events:**
 
 - [Sunday](../events/sunday.md) - 27 shared documents
-- [tomorrow](../events/tomorrow.md) - 21 shared documents
 - [many years](../events/many-years.md) - 21 shared documents
+- [tomorrow](../events/tomorrow.md) - 21 shared documents
 - [a year](../events/a-year.md) - 18 shared documents
-- [years](../events/years.md) - 17 shared documents
 - [14](../events/14.md) - 17 shared documents
+- [years](../events/years.md) - 17 shared documents
 - [daily](../events/daily.md) - 16 shared documents
-- [2003](../events/2003.md) - 15 shared documents
-- [2002](../events/2002.md) - 15 shared documents
 - [1982](../events/1982.md) - 15 shared documents
+- [2002](../events/2002.md) - 15 shared documents
+- [2003](../events/2003.md) - 15 shared documents
 
 ## Timeline
 

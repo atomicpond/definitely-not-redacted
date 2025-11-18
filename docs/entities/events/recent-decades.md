@@ -55,10 +55,10 @@ Top 10 documents by mention frequency:
 - [2003](2003.md) - 8 shared documents
 - [annual](annual.md) - 8 shared documents
 - [years](years.md) - 7 shared documents
-- [2009](2009.md) - 7 shared documents
-- [2000](2000.md) - 7 shared documents
-- [2010](2010.md) - 7 shared documents
 - [1973](1973.md) - 7 shared documents
+- [2000](2000.md) - 7 shared documents
+- [2009](2009.md) - 7 shared documents
+- [2010](2010.md) - 7 shared documents
 - [decades](decades.md) - 7 shared documents
 
 ## Timeline

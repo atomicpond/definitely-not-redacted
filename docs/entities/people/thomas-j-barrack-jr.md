@@ -24,17 +24,17 @@ Top 5 documents by mention frequency:
 
 **People:**
 
-- [Democracy Dies](democracy-dies.md) - 4 shared documents
 - [Barrack Jr](barrack-jr.md) - 4 shared documents
+- [Democracy Dies](democracy-dies.md) - 4 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 4 shared documents
-- [Trump](../organizations/trump.md) - 4 shared documents
 - [iPad](../organizations/ipad.md) - 4 shared documents
 - [the Washington Post](../organizations/the-washington-post.md) - 4 shared documents
-- [twitter glhsummers](../organizations/twitter-glhsummers.md) - 4 shared documents
 - [Trending Now](../organizations/trending-now.md) - 4 shared documents
+- [Trump](../organizations/trump.md) - 4 shared documents
+- [twitter glhsummers](../organizations/twitter-glhsummers.md) - 4 shared documents
 
 **Locations:**
 

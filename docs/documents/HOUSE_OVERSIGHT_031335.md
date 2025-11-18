@@ -11,7 +11,7 @@
 ### People
 - [strauss Kahn](../entities/people/strauss-kahn.md) - 11 mentions
 - [Putin](../entities/people/putin.md) - 3 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 2 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 2 mentions
 - [Paul](../entities/people/paul.md) - 2 mentions
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 1 mention
 

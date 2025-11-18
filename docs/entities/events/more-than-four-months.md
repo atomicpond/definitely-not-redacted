@@ -29,14 +29,14 @@ Top 5 documents by mention frequency:
 **Events:**
 
 - [2011](2011.md) - 5 shared documents
+- [1999](1999.md) - 4 shared documents
+- [2002](2002.md) - 4 shared documents
 - [2003](2003.md) - 4 shared documents
+- [2006](2006.md) - 4 shared documents
+- [2008](2008.md) - 4 shared documents
 - [2014](2014.md) - 4 shared documents
 - [2015](2015.md) - 4 shared documents
 - [daily](daily.md) - 4 shared documents
-- [May](may.md) - 4 shared documents
-- [1999](1999.md) - 4 shared documents
-- [2008](2008.md) - 4 shared documents
-- [Friday](friday.md) - 4 shared documents
 - [December](december.md) - 4 shared documents
 
 ## Timeline

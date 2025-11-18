@@ -28,8 +28,8 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
 
 **Events:**
 

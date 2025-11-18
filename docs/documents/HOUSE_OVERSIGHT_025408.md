@@ -44,165 +44,294 @@ Sender](../entities/people/yep-sender.md) - 1 mention
 
 ## Document Text
 
+**Thread-like Conversation View:**
+
 ```
-Source Entr: H\Macintosh HD\root\Users\jee\Library\Messages\Archive\2019-02-13\II 
-on 2019-02-03 at 22.34.17.ichat 
-Service: iMessage 
-**Start Time**: 02/03/19 07:34:17 PM (570944057) 
-**End Time**: 02/13/19 03:19:31 PM (571792771) 
-**Last Message** ID: 25057 
-Chat Room: 
-Participants: jee, 
-Presentity IDs: e:jeeitunes@gmail.com,• 
-Messages - 
-Sender: 
-Time: 02/03/19 07:34:17 PM (570944057) 
-Flags: 1126401 
-**Is Read**: Yes 
-Is Invitation: No 
-**GUID**: 4CBF4837-AlAC-4E5D-BB2C-ABBDBD28E3A9 
-Message: https://www.axios.com/read-trumps-private-leaked-executive-time-schedules-
-00e9313a-3066-4988-a6dc-711a47de661e.html 
-Sender: 
-Time: 02/03/19 07:34:17 PM (570944057) 
-Flags: 1060865 
-**Is Read**: Yes 
-Is Invitation: No 
-**GUID**: 0A5490DC-5ABA-4D45-BA22-A17F52D66051 
-Message: Brother is out of gas 
-Sender: e:jeeitunes@gmail.com 
-Time: 02/03/19 07:48:18 PM (570944898) 
-Flags: 1085445 
-**Is Read**: No 
-Is Invitation: No 
-**GUID**: DA6F075E-602D-4971-87AA-4FE3511665F9 
-Message: **Wow 
-Sender**: e:jeeitunes@gmail.com 
-Time: 02/04/19 05:21:17 AM (570979277) 
-Flags: 1150981 
-**Is Read**: No 
-Is Invitation: No 
-**GUID**: OF8EACB2-6DD4-4EFD-A395-ABAFD82D6088 
-Message: https://www.nytimes.com/2018/02/01/science/axolotl-genes-
-HOUSE OVERSIGHT 025408 
-limbs.html?action=click&amp;module=RelatedLinks&amp;pgtype=Article 
-Sender: e:jeeitunes@gmail.com 
-Time: 02/04/19 05:21:17 AM (570979277) 
-Flags: 1085445 
-**Is Read**: No 
-Is Invitation: No 
-**GUID**: 90707CA7-FC38-4F06-AC46-5B235128D09F 
-Message: . Better than cancer cure 
-Sender: 
-Time: 02/04/19 05:48:02 AM (570980882) 
-Flags: 1060865 
-**Is Read**: Yes 
-Is Invitation: No 
-**GUID**: 9089C227-19A9-4835-9BD6-947F678COD82 
-Message: **Wow 
-Sender**: e:jeeitunes@gmail.com 
-Time: 02/05/19 03:10:02 AM (571057802) 
-Flags: 1085445 
-**Is Read**: No 
-Is Invitation: No 
-**GUID**: CC577998-8EAC-4B7B-A52D-F8B3E12BE82C 
-Message: n his **Facebook** page, Zuberi indicated that he visited Trump Tower in New York 
-in **December 2016** as the president-elect prepared to take office, writing that he was 
-with incoming That was **the same day** that a delegation from **Qatar**, including the 
-county's foreign minister, visited Trump Tower and met with Flynn and campaign chief 
-executive Stephen K. Bannon. 
-Sender: 
-Time: 02/05/19 03:57:13 AM (571060633) 
-Flags: 1060865 
-**Is Read**: Yes 
-Is Invitation: No 
-**GUID**: 41EE5130-BDC3-46EE-8F9B-A401AEB6E9A6 
-Message: Where is this? 
-Sender: e:jeeitunes@gmail.com 
-Time: 02/05/19 04:00:22 AM (571060822) 
-Flags: 1150981 
-**Is Read**: No 
-Is Invitation: No 
-**GUID**: 86B50792-BE40-4D6A-9E83-075BABEF6088 
-HOUSE OVERSIGHT 025409 
-Message: https://www.washingtonpost.com/politics/federal-prosecutors-issue-sweeping-
-subpoena-for-documents-from-trump-inaugural-committee-a-sign-of-a-deepening-criminal-
-probe/2019/02/04/b6382642-28e5-11e9-8eef-Od74f4bf0295 story.html?utm term=.6a6bcac26ef9 
-Sender: 
-Time: 02/05/19 04:06:47 AM (571061207) 
-Flags: 1060865 
-**Is Read**: Yes 
-Is Invitation: No 
-**GUID**: A322BD05-0F76-435B-8CF9-99DC10316B9C 
-Message: That link us to a **WaPo** article from **last year**--never attended a meeting with 
-flynn and anybody from ****Middle East**** during transition 
-Sender: e:jeeitunes@gmail.com 
-Time: 02/05/19 04:09:23 AM (571061363) 
-Flags: 1150981 
-**Is Read**: No 
-Is Invitation: No 
-**GUID**: E608D361-56D2-4615-854C-986B6250FDA0 
-Message: Sorry, the link is to an article from **yesterday**. **Mueller** believes inaug 
-committee not in his wheelhouse. So like more to come he's turned it to us attunes 
-Sender: e:jeeitunes@gmail.com 
-Time: 02/05/19 04:09:39 AM (571061379) 
-Flags: 1085445 
-**Is Read**: No 
-Is Invitation: No 
-**GUID**: 5AA6A658-C88F-4598-BOBF-ACD1A946E971 
-Message: attyns 
-Sender: e:jeeitunes@gmail.com 
-Time: 02/05/19 04:10:17 AM (571061417) 
-Flags: 1085445 
-**Is Read**: No 
-Is Invitation: No 
-**GUID**: 890A71E8-A671-4F82-90A5-3E950B7ADO3A 
-Message: No trouble for. You but barrack and hbj are starts of the show 
-Sender: e:jeeitunes@gmail.com 
-Time: 02/05/19 04:10:23 AM (571061423) 
-Flags: 1085445 
-**Is Read**: No 
-Is Invitation: No 
-**GUID**: 26335776-5BAA-4CD1-BEEA-049B66A3257A 
-HOUSE OVERSIGHT 025410 
-Message: Stars 
-Sender: 
-Time: 02/05/19 04:10:40 AM (571061440) 
-Flags: 1126401 
-**Is Read**: Yes 
-Is Invitation: No 
-**GUID**: B83B322F-BB10-42F7-8234-E0B6A556A0CF 
-Message: I'm saying the link to the graph with me goes back to a may 18 story about 
-**Qatar** and michael Cohen 
-Sender: e:jeeitunes@gmail.com 
-Time: 02/05/19 04:10:57 AM (571061457) 
-Flags: 1085445 
-**Is Read**: No 
-Is Invitation: No 
-**GUID**: E5CCB44B-706A-4F0A-88F4-0AFA8C54152D 
-Message: k 
-Sender: 
-Time: 02/05/19 04:11:03 AM (571061463) 
-Flags: 1060865 
-**Is Read**: Yes 
-Is Invitation: No 
-**GUID**: CDDED63D-28B6-4F23-9E26-89E2700B4BFA 
-Message: Barrack won't show well here 
-Sender: 
-Time: 02/05/19 04:11:17 AM (571061477) 
-Flags: 1060865 
-**Is Read**: Yes 
-Is Invitation: No 
-**GUID**: 9FFB7F9E-4EEF-4449-914C-756C5A8D7E6F 
-Message: Gates I'm sure out of control 
-Sender: e:jeeitunes@gmail.com 
-Time: 02/06/19 03:12:33 PM (571187553) 
-Flags: 1085445 
-**Is Read**: No 
-Is Invitation: No 
-**GUID**: 66B4CFC2-6447-4F22-9785-B8A30C09D8E4 
-Message: I sent you a question 
-HOUSE
+================================================================================
+CONVERSATION TRANSCRIPT
+================================================================================
+Service: iMessage
+Start Time: 02/03/19 07:34:17 PM (570944057)
+End Time: 02/13/19 03:19:31 PM (571792771)
+Participants: jee,
+Presentity IDs: e:jeeitunes@gmail.com,•
+================================================================================
+
+
+────────────────────────────────────────────────────────────────────────────────
+  Sunday, February 03, 2019
+────────────────────────────────────────────────────────────────────────────────
+
+[7:34 PM] Other Participant:
+    https://www.axios.com/read-trumps-private-leaked-executive-time-schedules- 00e9313a-3066-4988-a6dc-711a47de661e.html
+
+[7:34 PM] Other Participant:
+    Brother is out of gas
+
+[7:48 PM] Jeffrey Epstein:
+    Wow
+
+
+────────────────────────────────────────────────────────────────────────────────
+  Monday, February 04, 2019
+────────────────────────────────────────────────────────────────────────────────
+
+[5:21 AM] Jeffrey Epstein:
+    https://www.nytimes.com/2018/02/01/science/axolotl-genes- HOUSE OVERSIGHT 025408 limbs.html?action=click&amp;module=RelatedLinks&amp;pgtype=Article
+
+[5:21 AM] Jeffrey Epstein:
+    . Better than cancer cure
+
+[5:48 AM] Other Participant:
+    Wow
+
+
+────────────────────────────────────────────────────────────────────────────────
+  Tuesday, February 05, 2019
+────────────────────────────────────────────────────────────────────────────────
+
+[3:10 AM] Jeffrey Epstein:
+    n his Facebook page, Zuberi indicated that he visited Trump Tower in New York in December 2016 as the president-elect prepared to take office, writing that he was with incoming That was the same day that a delegation from Qatar, including the county's foreign minister, visited Trump Tower and met with Flynn and campaign chief executive Stephen K. Bannon.
+
+[3:57 AM] Other Participant:
+    Where is this?
+
+[4:00 AM] Jeffrey Epstein:
+    https://www.washingtonpost.com/politics/federal-prosecutors-issue-sweeping- subpoena-for-documents-from-trump-inaugural-committee-a-sign-of-a-deepening-criminal- probe/2019/02/04/b6382642-28e5-11e9-8eef-Od74f4bf0295 story.html?utm term=.6a6bcac26ef9
+
+[4:06 AM] Other Participant:
+    That link us to a WaPo article from last year--never attended a meeting with flynn and anybody from Middle East during transition
+
+[4:09 AM] Jeffrey Epstein:
+    Sorry, the link is to an article from yesterday. Mueller believes inaug committee not in his wheelhouse. So like more to come he's turned it to us attunes
+
+[4:09 AM] Jeffrey Epstein:
+    attyns
+
+[4:10 AM] Jeffrey Epstein:
+    No trouble for. You but barrack and hbj are starts of the show
+
+[4:10 AM] Jeffrey Epstein:
+    Stars
+
+[4:10 AM] Other Participant:
+    I'm saying the link to the graph with me goes back to a may 18 story about qatar and michael Cohen
+
+[4:10 AM] Jeffrey Epstein:
+    k
+
+[4:11 AM] Other Participant:
+    Barrack won't show well here
+
+[4:11 AM] Other Participant:
+    Gates I'm sure out of control
+
+
+────────────────────────────────────────────────────────────────────────────────
+  Wednesday, February 06, 2019
+────────────────────────────────────────────────────────────────────────────────
+
+[3:12 PM] Jeffrey Epstein:
+    I sent you a question HOUSE OVERSIGHT 025411
+
+[9:35 PM] Other Participant:
+    https://www.zerohedge.com/news/2019-02-06/senate-investigating-mueller-fbis- prosecution-orgy-island-billionaire-jeffrey
+
+[10:52 PM] Jeffrey Epstein:
+    Yes/ wild
+
+[10:53 PM] Jeffrey Epstein:
+    https://www.foxnews.com/politics/doj-opens-probe-into-plea-bargain-awarded-by- trump-official-to-alleged-pedophile-predator-jeffrey-epstein
+
+
+────────────────────────────────────────────────────────────────────────────────
+  Thursday, February 07, 2019
+────────────────────────────────────────────────────────────────────────────────
+
+[2:08 AM] Jeffrey Epstein:
+    Continue to ignore? Ann Coulter on hannity/. Attack? Op ed , ? Not my skill set
+
+[2:30 AM] Jeffrey Epstein:
+    What about the attunes penning something that suggests indignation and lays out some of the facts. . HOUSE OVERSIGHT 025412
+
+[3:04 AM] Other Participant:
+    That drives it a week
+
+[3:06 AM] Jeffrey Epstein:
+    sasse calling me a child rapist , is nuts!!! Sorry do. You mean ignore. , or responding makes it worse. ?
+
+[3:31 AM] Other Participant:
+    I think makes it way worse
+
+[3:32 AM] Jeffrey Epstein:
+    K, what about Ken talking directly to sasse
+
+[3:57 AM] Other Participant:
+    Won't help but yes
+
+[4:07 AM] Jeffrey Epstein:
+    K
+
+
+────────────────────────────────────────────────────────────────────────────────
+  Saturday, February 09, 2019
+────────────────────────────────────────────────────────────────────────────────
+
+[3:36 PM] Other Participant:
+    I'm in Tucson -- can Chomsky meet tomorrow afternoon???
+
+[3:37 PM] Jeffrey Epstein:
+    Great. , ill check.
+
+[3:42 PM] Jeffrey Epstein:
+    Irving
+
+[7:00 PM] Jeffrey Epstein:
+    Yes, he'd like that. His wife is Brazilian so go gently re bolsonaro. They are friends with Lula . But he is an iconic figure and you shouldn't pass up the chance to talk history and politics. I will connect you on email . So you can coordinate directly .
+
+[7:25 PM] Other Participant:
+    Thanks
+
+
+────────────────────────────────────────────────────────────────────────────────
+  Sunday, February 10, 2019
+────────────────────────────────────────────────────────────────────────────────
+
+[3:03 AM] Jeffrey Epstein:
+    Im very glad that it worked out, it is better than the apple watch for xmas. 0
+
+[3:03 AM] Jeffrey Epstein:
+    you two have more in common than you think, workers party. Little guy. History, pr. . etc
+
+[3:03 AM] Other Participant:
+    He lives right down the street from my brother
+
+[3:04 AM] Jeffrey Epstein:
+    Ha
+
+[1:00 PM] Jeffrey Epstein:
+    He will want to know how if you are for the little guys- tax cut health care attack and bolsonari threats to organized workers
+
+[1:00 PM] Other Participant:
+    Yep
+
+[1:03 PM] Jeffrey Epstein:
+    Have fun!!
+
+[6:23 PM] Jeffrey Epstein:
+    Well?
+
+[6:25 PM] Other Participant:
+    Great gentleman
+
+[6:28 PM] Other Participant:
+    Love the wife
+
+[6:29 PM] Other Participant:
+    3 hour punch out
+
+[6:30 PM] Jeffrey Epstein:
+    Glad you had the opportunity- he could not choose a college major so he created a field from scratch/ linguistic s
+
+[6:31 PM] Jeffrey Epstein:
+    <Unsupported Message Content>
+
+[6:31 PM] Other Participant:
+    Brilliant--- but short on some basic facts
+
+[6:31 PM] Jeffrey Epstein:
+    Agreed almost 90 HOUSE OVERSIGHT 025417
+
+[6:33 PM] Other Participant:
+    3 hours dude@ 90
+
+[6:33 PM] Other Participant:
+    I'm wasted
+
+
+────────────────────────────────────────────────────────────────────────────────
+  Monday, February 11, 2019
+────────────────────────────────────────────────────────────────────────────────
+
+[8:35 AM] Jeffrey Epstein:
+    Im in ny Thursday Friday and Saturday morning
+
+[8:36 AM] Jeffrey Epstein:
+    U?
+
+[8:36 AM] Other Participant:
+    All up in air
+
+[8:36 AM] Jeffrey Epstein:
+    How unusual:)
+
+
+────────────────────────────────────────────────────────────────────────────────
+  Tuesday, February 12, 2019
+────────────────────────────────────────────────────────────────────────────────
+
+[6:22 AM] Jeffrey Epstein:
+    Pompeo was with miro inslovakia
+
+[6:22 AM] Other Participant:
+    Today???
+
+[6:23 AM] Jeffrey Epstein:
+    Yes
+
+[6:23 AM] Other Participant:
+    Very cool
+
+[6:23 AM] Jeffrey Epstein:
+    So complex. wow
+
+[6:26 AM] Other Participant:
+    u revel in complexity
+
+[6:26 AM] Jeffrey Epstein:
+    So true
+
+[6:42 AM] Jeffrey Epstein:
+    I had a briefing that was one holy shit after another. Wild times. Everyone angry distrustful. Looking for daddy
+
+[6:43 AM] Jeffrey Epstein:
+    America pulling out from authority role is like the teacher leaving the classroom with all boys high school. . fights name calling all old suspicions raised to the fore
+
+[7:15 AM] Other Participant:
+    But America ain't pulling out-- just making ourselves a priority
+
+[9:43 AM] Jeffrey Epstein:
+    <Unsupported Message Content>
+
+[9:54 AM] Other Participant:
+    Epic
+
+
+────────────────────────────────────────────────────────────────────────────────
+  Wednesday, February 13, 2019
+────────────────────────────────────────────────────────────────────────────────
+
+[7:43 AM] Jeffrey Epstein:
+    Weingarten coming for breakfast sat , if you are around, I'm here until sat non
+
+[7:43 AM] Jeffrey Epstein:
+    noon
+
+[7:45 AM] Other Participant:
+    What time breakfast HOUSE OVERSIGHT 025421
+
+[7:46 AM] Jeffrey Epstein:
+    9
+
+[1:58 PM] Jeffrey Epstein:
+    u aorund?
+
+[3:19 PM] Other Participant:
+    DC HOUSE OVERSIGHT 025422
+
+================================================================================
+END OF CONVERSATION
+================================================================================
 ```
 
 *[Text truncated to 5000 characters]*

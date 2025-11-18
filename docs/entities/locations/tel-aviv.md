@@ -34,15 +34,15 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Tel Aviv](../people/tel-aviv.md) - 21 shared documents
-- [Barack Obama](../people/barack-obama.md) - 17 shared documents
 - [Middle East](../people/middle-east.md) - 15 shared documents
-- [President Obama](../people/president-obama.md) - 15 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 12 shared documents
 - [Security Council](../people/security-council.md) - 12 shared documents
 - [Gaza Strip](../people/gaza-strip.md) - 11 shared documents
 - [Mahmoud Abbas](../people/mahmoud-abbas.md) - 11 shared documents
 - [West Bank](../people/west-bank.md) - 11 shared documents
 - [White House](../people/white-house.md) - 11 shared documents
+- [Bashar al-Assad](../people/bashar-al-assad.md) - 10 shared documents
+- [East Jerusalem](../people/east-jerusalem.md) - 10 shared documents
 
 **Organizations:**
 
@@ -75,8 +75,8 @@ Top 10 documents by mention frequency:
 - [last week](../events/last-week.md) - 16 shared documents
 - [today](../events/today.md) - 15 shared documents
 - [the years](../events/the-years.md) - 14 shared documents
-- [a year](../events/a-year.md) - 13 shared documents
 - [1967](../events/1967.md) - 13 shared documents
+- [a year](../events/a-year.md) - 13 shared documents
 - [2003](../events/2003.md) - 12 shared documents
 - [2007](../events/2007.md) - 12 shared documents
 - [2009](../events/2009.md) - 12 shared documents

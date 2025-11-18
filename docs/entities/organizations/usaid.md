@@ -36,34 +36,32 @@ Top 10 documents by mention frequency:
 
 - [HOUSE](house.md) - 7 shared documents
 - [Congress](congress.md) - 6 shared documents
-- [Senate](senate.md) - 5 shared documents
-- [the White House](the-white-house.md) - 5 shared documents
 
 **Locations:**
 
 - [Africa](../locations/africa.md) - 8 shared documents
-- [Washington](../locations/washington.md) - 7 shared documents
 - [the United States](../locations/the-united-states.md) - 7 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
+- [Washington](../locations/washington.md) - 7 shared documents
 - [France](../locations/france.md) - 6 shared documents
-- [Paris](../locations/paris.md) - 6 shared documents
 - [Haiti](../locations/haiti.md) - 6 shared documents
+- [Japan](../locations/japan.md) - 6 shared documents
+- [Paris](../locations/paris.md) - 6 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 6 shared documents
 - [China](../locations/china.md) - 5 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
+- [Ethiopia](../locations/ethiopia.md) - 5 shared documents
 
 **Events:**
 
 - [2010](../events/2010.md) - 9 shared documents
-- [today](../events/today.md) - 8 shared documents
 - [2006](../events/2006.md) - 8 shared documents
+- [today](../events/today.md) - 8 shared documents
 - [2003](../events/2003.md) - 7 shared documents
 - [2007](../events/2007.md) - 7 shared documents
 - [2009](../events/2009.md) - 7 shared documents
 - [annual](../events/annual.md) - 7 shared documents
 - [annually](../events/annually.md) - 7 shared documents
+- [1995](../events/1995.md) - 6 shared documents
 - [2000](../events/2000.md) - 6 shared documents
-- [recent years](../events/recent-years.md) - 6 shared documents
 
 ## Timeline
 

@@ -33,37 +33,34 @@ Top 9 documents by mention frequency:
 
 **Organizations:**
 
-- [Senate](../organizations/senate.md) - 8 shared documents
 - [FBI](../organizations/fbi.md) - 8 shared documents
+- [Senate](../organizations/senate.md) - 8 shared documents
 - [the Justice Department](../organizations/the-justice-department.md) - 8 shared documents
 - [Congress](../organizations/congress.md) - 7 shared documents
 - [State](../organizations/state.md) - 7 shared documents
-- [Fed](../organizations/fed.md) - 6 shared documents
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 8 shared documents
-- [the United States](../locations/the-united-states.md) - 8 shared documents
 - [the Eastern District](../locations/the-eastern-district.md) - 8 shared documents
-- [Washington](../locations/washington.md) - 7 shared documents
+- [the United States](../locations/the-united-states.md) - 8 shared documents
+- [United States](../locations/united-states.md) - 8 shared documents
 - [Texas](../locations/texas.md) - 7 shared documents
-- [Virginia](../locations/virginia.md) - 7 shared documents
 - [Utah](../locations/utah.md) - 7 shared documents
-- [New York](../locations/new-york.md) - 6 shared documents
-- [U.S.](../locations/us.md) - 6 shared documents
+- [Virginia](../locations/virginia.md) - 7 shared documents
+- [Washington](../locations/washington.md) - 7 shared documents
 
 **Events:**
 
-- [2003](../events/2003.md) - 8 shared documents
-- [2004](../events/2004.md) - 8 shared documents
-- [1996](../events/1996.md) - 8 shared documents
 - [1990](../events/1990.md) - 8 shared documents
+- [1996](../events/1996.md) - 8 shared documents
 - [1999](../events/1999.md) - 8 shared documents
 - [2002](../events/2002.md) - 8 shared documents
-- [2000](../events/2000.md) - 7 shared documents
-- [daily](../events/daily.md) - 7 shared documents
+- [2003](../events/2003.md) - 8 shared documents
+- [2004](../events/2004.md) - 8 shared documents
+- [1977](../events/1977.md) - 7 shared documents
+- [1979](../events/1979.md) - 7 shared documents
+- [1982](../events/1982.md) - 7 shared documents
 - [1985](../events/1985.md) - 7 shared documents
-- [1997](../events/1997.md) - 7 shared documents
 
 ## Timeline
 

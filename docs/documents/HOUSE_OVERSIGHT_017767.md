@@ -38,7 +38,7 @@
 - [Tuesday](../entities/events/tuesday.md) - 1 mention
 - [several years](../entities/events/several-years.md) - 1 mention
 - [Christmas](../entities/events/christmas.md) - 1 mention
-- [04/16/19](../entities/events/041619.md) - 1 mention
+- [04/16/19](../entities/events/04-16-19.md) - 1 mention
 - [about a week](../entities/events/about-a-week.md) - 1 mention
 
 ## Document Text

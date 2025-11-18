@@ -28,9 +28,8 @@ Top 7 documents by mention frequency:
 
 **People:**
 
-- [Lawrence Krauss](../people/lawrence-krauss.md) - 7 shared documents
-- [Lawrence M. Krauss](../people/lawrence-m-krauss.md) - 5 shared documents
-- [jeffrey E. <](../people/jeffrey-e.md) - 4 shared documents
+- [Lawrence Krauss](../people/lawrence-krauss.md) - 5 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 4 shared documents
 
 **Organizations:**
 
@@ -38,12 +37,12 @@ Top 7 documents by mention frequency:
 - [ASU 
 Foundation](asu-foundation.md) - 7 shared documents
 - [The Origins Project](the-origins-project.md) - 7 shared documents
-- [School of Earth & Space Exploration and Physics Department](school-of-earth-space-exploration-and-physics-department.md) - 6 shared documents
 - [Research Office](research-office.md) - 6 shared documents
+- [School of Earth & Space Exploration and Physics Department](school-of-earth-space-exploration-and-physics-department.md) - 6 shared documents
+- [ASU](asu.md) - 5 shared documents
 - [P.O. Box 871404](po-box-871404.md) - 5 shared documents
 - [Space Exploration and Physics Department 
 Arizona State University](space-exploration-and-physics-department-arizona-state-university.md) - 5 shared documents
-- [ASU](asu.md) - 5 shared documents
 - [Cosmology Initiative 
 Foundation](cosmology-initiative-foundation.md) - 4 shared documents
 

@@ -31,8 +31,9 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Los Angeles](../people/los-angeles.md) - 6 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 5 shared documents
 - [New Mexico](../people/new-mexico.md) - 5 shared documents
-- [President Trump](../people/president-trump.md) - 5 shared documents
 - [San Francisco](../people/san-francisco.md) - 5 shared documents
 
 **Organizations:**
@@ -64,10 +65,10 @@ Top 10 documents by mention frequency:
 - [the day](the-day.md) - 7 shared documents
 - [today](today.md) - 6 shared documents
 - [years](years.md) - 6 shared documents
-- [2018](2018.md) - 6 shared documents
 - [2012](2012.md) - 6 shared documents
-- [daily](daily.md) - 6 shared documents
 - [2017](2017.md) - 6 shared documents
+- [2018](2018.md) - 6 shared documents
+- [daily](daily.md) - 6 shared documents
 
 ## Timeline
 

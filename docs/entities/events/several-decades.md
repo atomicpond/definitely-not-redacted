@@ -51,10 +51,10 @@ Top 9 documents by mention frequency:
 - [today](today.md) - 8 shared documents
 - [2005](2005.md) - 8 shared documents
 - [years](years.md) - 7 shared documents
-- [2007](2007.md) - 7 shared documents
+- [1984](1984.md) - 7 shared documents
 - [1997](1997.md) - 7 shared documents
 - [1999](1999.md) - 7 shared documents
-- [1984](1984.md) - 7 shared documents
+- [2007](2007.md) - 7 shared documents
 - [decades](decades.md) - 7 shared documents
 - [year](year.md) - 6 shared documents
 

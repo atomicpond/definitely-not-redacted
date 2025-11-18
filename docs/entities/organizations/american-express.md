@@ -31,11 +31,11 @@ Top 8 documents by mention frequency:
 - [San Francisco](../people/san-francisco.md) - 6 shared documents
 - [Harvard Law School](../people/harvard-law-school.md) - 5 shared documents
 - [Asia Pacific](../people/asia-pacific.md) - 4 shared documents
+- [Barack Obama](../people/barack-obama.md) - 4 shared documents
 - [General Partner](../people/general-partner.md) - 4 shared documents
 - [Global Head](../people/global-head.md) - 4 shared documents
 - [Goldman Sachs](../people/goldman-sachs.md) - 4 shared documents
 - [Mexico City](../people/mexico-city.md) - 4 shared documents
-- [President Obama](../people/president-obama.md) - 4 shared documents
 - [San Diego](../people/san-diego.md) - 4 shared documents
 
 **Organizations:**
@@ -54,25 +54,25 @@ Top 8 documents by mention frequency:
 **Locations:**
 
 - [Japan](../locations/japan.md) - 7 shared documents
-- [New York](../locations/new-york.md) - 6 shared documents
-- [U.S.](../locations/us.md) - 6 shared documents
 - [Germany](../locations/germany.md) - 6 shared documents
-- [the United States](../locations/the-united-states.md) - 6 shared documents
+- [New York](../locations/new-york.md) - 6 shared documents
 - [New York City](../locations/new-york-city.md) - 6 shared documents
 - [San Francisco](../locations/san-francisco.md) - 6 shared documents
+- [the United States](../locations/the-united-states.md) - 6 shared documents
+- [U.S.](../locations/us.md) - 6 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 5 shared documents
-- [California](../locations/california.md) - 4 shared documents
+- [America](../locations/america.md) - 4 shared documents
 - [Brazil](../locations/brazil.md) - 4 shared documents
 
 **Events:**
 
 - [2007](../events/2007.md) - 6 shared documents
-- [2009](../events/2009.md) - 5 shared documents
-- [2014](../events/2014.md) - 5 shared documents
-- [2011](../events/2011.md) - 5 shared documents
 - [2008](../events/2008.md) - 5 shared documents
-- [2004](../events/2004.md) - 4 shared documents
+- [2009](../events/2009.md) - 5 shared documents
+- [2011](../events/2011.md) - 5 shared documents
+- [2014](../events/2014.md) - 5 shared documents
 - [2001](../events/2001.md) - 4 shared documents
+- [2004](../events/2004.md) - 4 shared documents
 - [weekly](../events/weekly.md) - 4 shared documents
 
 ## Timeline

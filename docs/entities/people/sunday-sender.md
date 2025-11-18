@@ -34,9 +34,9 @@ Top 6 documents by mention frequency:
 - [Yes 
 Is Invitation](yes-is-invitation.md) - 5 shared documents
 - [Chat Room](chat-room.md) - 5 shared documents
+- [Is Invitation](is-invitation.md) - 5 shared documents
 - [No 
 Is Invitation](no-is-invitation.md) - 5 shared documents
-- [Is Invitation](is-invitation.md) - 5 shared documents
 
 **Organizations:**
 
@@ -46,14 +46,14 @@ Is Invitation](no-is-invitation.md) - 5 shared documents
 **Locations:**
 
 - [Paris](../locations/paris.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
 - [China](../locations/china.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
 - [Sunday](../events/sunday.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [tomorrow](../events/tomorrow.md) - 5 shared documents
 
 ## Timeline

@@ -35,10 +35,10 @@ Top 6 documents by mention frequency:
 
 **Events:**
 
-- [this week](../events/this-week.md) - 6 shared documents
 - [2017](../events/2017.md) - 6 shared documents
 - [May 28, 2017](../events/may-28-2017.md) - 6 shared documents
 - [Sunday, May 28](../events/sunday-may-28.md) - 6 shared documents
+- [this week](../events/this-week.md) - 6 shared documents
 
 ## Timeline
 

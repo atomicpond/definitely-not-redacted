@@ -43,38 +43,40 @@ Top 10 documents by mention frequency:
 
 - [Bloomberg](bloomberg.md) - 12 shared documents
 - [Utilities](utilities.md) - 10 shared documents
-- [Fed](fed.md) - 10 shared documents
 - [ECB](ecb.md) - 10 shared documents
+- [Fed](fed.md) - 10 shared documents
 - [S&P](sp.md) - 9 shared documents
 - [FTSE](ftse.md) - 9 shared documents
 - [the Dubai Financial Services Authority](the-dubai-financial-services-authority.md) - 8 shared documents
-- [BoJ](boj.md) - 8 shared documents
-- [CFA](cfa.md) - 8 shared documents
 - [MSCI EM](msci-em.md) - 7 shared documents
+- [SA de
+CV](sa-de-cv.md) - 7 shared documents
+- [Treasury](treasury.md) - 7 shared documents
 
 **Locations:**
 
 - [Brazil](../locations/brazil.md) - 13 shared documents
-- [China](../locations/china.md) - 12 shared documents
-- [Japan](../locations/japan.md) - 12 shared documents
 - [Asia](../locations/asia.md) - 12 shared documents
+- [China](../locations/china.md) - 12 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 12 shared documents
-- [Russia](../locations/russia.md) - 11 shared documents
+- [Japan](../locations/japan.md) - 12 shared documents
 - [Germany](../locations/germany.md) - 11 shared documents
-- [Mexico](../locations/mexico.md) - 11 shared documents
-- [Singapore](../locations/singapore.md) - 11 shared documents
 - [India](../locations/india.md) - 11 shared documents
+- [Korea](../locations/korea.md) - 11 shared documents
+- [Mexico](../locations/mexico.md) - 11 shared documents
+- [Russia](../locations/russia.md) - 11 shared documents
 
 **Events:**
 
 - [2015](../events/2015.md) - 11 shared documents
-- [today](../events/today.md) - 10 shared documents
 - [2000](../events/2000.md) - 10 shared documents
 - [2013](../events/2013.md) - 10 shared documents
-- [2017](../events/2017.md) - 9 shared documents
+- [today](../events/today.md) - 10 shared documents
 - [2001](../events/2001.md) - 9 shared documents
+- [2017](../events/2017.md) - 9 shared documents
+- [10-year](../events/10-year.md) - 8 shared documents
 - [2018](../events/2018.md) - 8 shared documents
-- [this year](../events/this-year.md) - 8 shared documents
+- [5-year](../events/5-year.md) - 8 shared documents
 - [monthly](../events/monthly.md) - 8 shared documents
 
 ## Timeline

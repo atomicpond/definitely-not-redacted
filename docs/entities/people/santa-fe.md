@@ -40,8 +40,8 @@ Top 10 documents by mention frequency:
 **Organizations:**
 
 - [Harvard](../organizations/harvard.md) - 12 shared documents
-- [HOUSE](../organizations/house.md) - 8 shared documents
 - [FBI](../organizations/fbi.md) - 8 shared documents
+- [HOUSE](../organizations/house.md) - 8 shared documents
 - [Maxwell](../organizations/maxwell.md) - 8 shared documents
 - [Santa Fe](../organizations/santa-fe.md) - 7 shared documents
 
@@ -52,10 +52,10 @@ Top 10 documents by mention frequency:
 - [London](../locations/london.md) - 11 shared documents
 - [Florida](../locations/florida.md) - 10 shared documents
 - [France](../locations/france.md) - 10 shared documents
-- [the United States](../locations/the-united-states.md) - 10 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 10 shared documents
-- [United States](../locations/united-states.md) - 9 shared documents
+- [the United States](../locations/the-united-states.md) - 10 shared documents
 - [Paris](../locations/paris.md) - 9 shared documents
+- [United States](../locations/united-states.md) - 9 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 9 shared documents
 
 **Events:**
@@ -64,12 +64,12 @@ Top 10 documents by mention frequency:
 - [daily](../events/daily.md) - 10 shared documents
 - [the next day](../events/the-next-day.md) - 9 shared documents
 - [the day](../events/the-day.md) - 8 shared documents
+- [a year](../events/a-year.md) - 7 shared documents
+- [monthly](../events/monthly.md) - 7 shared documents
+- [months](../events/months.md) - 7 shared documents
 - [Sunday](../events/sunday.md) - 7 shared documents
 - [this week](../events/this-week.md) - 7 shared documents
 - [years](../events/years.md) - 7 shared documents
-- [monthly](../events/monthly.md) - 7 shared documents
-- [months](../events/months.md) - 7 shared documents
-- [a year](../events/a-year.md) - 7 shared documents
 
 ## Timeline
 

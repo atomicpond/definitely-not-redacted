@@ -48,24 +48,24 @@ Top 10 documents by mention frequency:
 - [Palm Beach](palm-beach.md) - 10 shared documents
 - [the United States](the-united-states.md) - 9 shared documents
 - [New York City](new-york-city.md) - 8 shared documents
-- [Washington](washington.md) - 7 shared documents
 - [Manhattan](manhattan.md) - 7 shared documents
 - [Thailand](thailand.md) - 7 shared documents
+- [Washington](washington.md) - 7 shared documents
 - [Africa](africa.md) - 6 shared documents
-- [Europe](europe.md) - 6 shared documents
+- [America](america.md) - 6 shared documents
 
 **Events:**
 
 - [2007](../events/2007.md) - 9 shared documents
-- [today](../events/today.md) - 9 shared documents
 - [2010](../events/2010.md) - 9 shared documents
+- [today](../events/today.md) - 9 shared documents
 - [2008](../events/2008.md) - 8 shared documents
-- [the years](../events/the-years.md) - 8 shared documents
-- [the next day](../events/the-next-day.md) - 8 shared documents
 - [the day](../events/the-day.md) - 8 shared documents
-- [2003](../events/2003.md) - 7 shared documents
+- [the next day](../events/the-next-day.md) - 8 shared documents
+- [the years](../events/the-years.md) - 8 shared documents
+- [1987](../events/1987.md) - 7 shared documents
 - [2001](../events/2001.md) - 7 shared documents
-- [months](../events/months.md) - 7 shared documents
+- [2003](../events/2003.md) - 7 shared documents
 
 ## Timeline
 

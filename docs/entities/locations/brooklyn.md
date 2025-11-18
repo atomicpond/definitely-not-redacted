@@ -62,16 +62,16 @@ City](../people/new-york-city.md) - 11 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 21 shared documents
 - [2011](../events/2011.md) - 21 shared documents
+- [today](../events/today.md) - 21 shared documents
 - [years](../events/years.md) - 18 shared documents
 - [2007](../events/2007.md) - 17 shared documents
 - [2009](../events/2009.md) - 17 shared documents
 - [this year](../events/this-year.md) - 17 shared documents
-- [2008](../events/2008.md) - 16 shared documents
-- [2006](../events/2006.md) - 16 shared documents
 - [1987](../events/1987.md) - 16 shared documents
-- [2014](../events/2014.md) - 15 shared documents
+- [2006](../events/2006.md) - 16 shared documents
+- [2008](../events/2008.md) - 16 shared documents
+- [1995](../events/1995.md) - 15 shared documents
 
 ## Timeline
 

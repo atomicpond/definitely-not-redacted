@@ -29,7 +29,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](president-obama.md) - 12 shared documents
 - [New Mexico](new-mexico.md) - 7 shared documents
 - [Treasury Department](treasury-department.md) - 7 shared documents
 - [White House](white-house.md) - 7 shared documents
@@ -37,15 +36,16 @@ Top 10 documents by mention frequency:
 York](new-york.md) - 6 shared documents
 - [New York 
 City](new-york-city.md) - 6 shared documents
-- [President Barack Obama](president-barack-obama.md) - 6 shared documents
 - [Rights Act](rights-act.md) - 6 shared documents
 - [Salt Lake City](salt-lake-city.md) - 6 shared documents
 - [San Francisco](san-francisco.md) - 6 shared documents
+- [Saudi Arabia](saudi-arabia.md) - 6 shared documents
+- [Sixth Amendment](sixth-amendment.md) - 6 shared documents
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 20 shared documents
 - [Congress](../organizations/congress.md) - 20 shared documents
+- [HOUSE](../organizations/house.md) - 20 shared documents
 - [State](../organizations/state.md) - 18 shared documents
 
 **Locations:**
@@ -55,23 +55,23 @@ City](new-york-city.md) - 6 shared documents
 - [California](../locations/california.md) - 25 shared documents
 - [New York](../locations/new-york.md) - 23 shared documents
 - [United States](../locations/united-states.md) - 23 shared documents
-- [Washington](../locations/washington.md) - 21 shared documents
 - [Florida](../locations/florida.md) - 21 shared documents
 - [New York City](../locations/new-york-city.md) - 21 shared documents
+- [Washington](../locations/washington.md) - 21 shared documents
 - [Texas](../locations/texas.md) - 20 shared documents
 
 **Events:**
 
 - [2004](../events/2004.md) - 24 shared documents
 - [2005](../events/2005.md) - 23 shared documents
-- [2006](../events/2006.md) - 21 shared documents
 - [1995](../events/1995.md) - 21 shared documents
-- [2003](../events/2003.md) - 20 shared documents
+- [2006](../events/2006.md) - 21 shared documents
 - [2000](../events/2000.md) - 20 shared documents
-- [2012](../events/2012.md) - 20 shared documents
 - [2001](../events/2001.md) - 20 shared documents
 - [2002](../events/2002.md) - 20 shared documents
-- [1996](../events/1996.md) - 19 shared documents
+- [2003](../events/2003.md) - 20 shared documents
+- [2012](../events/2012.md) - 20 shared documents
+- [1984](../events/1984.md) - 19 shared documents
 
 ## Timeline
 

@@ -42,7 +42,7 @@ Top 10 documents by mention frequency:
 - [Alfredo Rodriguez](../people/alfredo-rodriguez.md) - 23 shared documents
 - [Robert Maxwell](../people/robert-maxwell.md) - 22 shared documents
 - [Gerald Lefcourt](../people/gerald-lefcourt.md) - 21 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 20 shared documents
+- [Jack Goldberger](../people/jack-goldberger.md) - 19 shared documents
 
 **Organizations:**
 
@@ -81,7 +81,7 @@ Top 10 documents by mention frequency:
 - [Sunday](../events/sunday.md) - 28 shared documents
 - [2005](../events/2005.md) - 27 shared documents
 - [the day](../events/the-day.md) - 27 shared documents
-- [last year](../events/last-year.md) - 26 shared documents
+- [14](../events/14.md) - 26 shared documents
 
 ## Timeline
 

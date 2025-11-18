@@ -37,9 +37,7 @@ Top 10 documents by mention frequency:
 - [Saudi Arabia](../people/saudi-arabia.md) - 12 shared documents
 - [Jack Scarola](../people/jack-scarola.md) - 11 shared documents
 - [Paul Cassell](../people/paul-cassell.md) - 11 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 10 shared documents
 - [Little St](../people/little-st.md) - 9 shared documents
-- [President Obama](../people/president-obama.md) - 9 shared documents
 
 **Organizations:**
 
@@ -60,9 +58,9 @@ Top 10 documents by mention frequency:
 - [Europe](europe.md) - 25 shared documents
 - [London](london.md) - 25 shared documents
 - [the United States](the-united-states.md) - 24 shared documents
-- [Japan](japan.md) - 24 shared documents
 - [Asia](asia.md) - 24 shared documents
 - [Australia](australia.md) - 24 shared documents
+- [Japan](japan.md) - 24 shared documents
 - [Washington](washington.md) - 23 shared documents
 - [Germany](germany.md) - 23 shared documents
 - [China](china.md) - 22 shared documents
@@ -75,10 +73,10 @@ Top 10 documents by mention frequency:
 - [2009](../events/2009.md) - 23 shared documents
 - [2012](../events/2012.md) - 23 shared documents
 - [years](../events/years.md) - 23 shared documents
-- [2011](../events/2011.md) - 21 shared documents
 - [2005](../events/2005.md) - 21 shared documents
 - [2006](../events/2006.md) - 21 shared documents
-- [last year](../events/last-year.md) - 20 shared documents
+- [2011](../events/2011.md) - 21 shared documents
+- [2013](../events/2013.md) - 20 shared documents
 
 ## Timeline
 

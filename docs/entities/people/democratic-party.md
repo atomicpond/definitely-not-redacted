@@ -35,20 +35,20 @@ Trump](donald-trump.md) - 5 shared documents
 
 - [the Democratic party](../organizations/the-democratic-party.md) - 6 shared documents
 - [HOUSE](../organizations/house.md) - 5 shared documents
-- [Trump](../organizations/trump.md) - 5 shared documents
 - [Supreme Court](../organizations/supreme-court.md) - 5 shared documents
-- [Senate](../organizations/senate.md) - 4 shared documents
+- [Trump](../organizations/trump.md) - 5 shared documents
 - [Congress](../organizations/congress.md) - 4 shared documents
+- [Senate](../organizations/senate.md) - 4 shared documents
 
 **Locations:**
 
 - [America](../locations/america.md) - 6 shared documents
 - [US](../locations/us.md) - 6 shared documents
-- [London](../locations/london.md) - 4 shared documents
 - [Florida](../locations/florida.md) - 4 shared documents
-- [Silicon Valley](../locations/silicon-valley.md) - 4 shared documents
-- [Pennsylvania](../locations/pennsylvania.md) - 4 shared documents
+- [London](../locations/london.md) - 4 shared documents
 - [New Hampshire](../locations/new-hampshire.md) - 4 shared documents
+- [Pennsylvania](../locations/pennsylvania.md) - 4 shared documents
+- [Silicon Valley](../locations/silicon-valley.md) - 4 shared documents
 
 **Events:**
 

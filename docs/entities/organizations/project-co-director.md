@@ -31,22 +31,18 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Lawrence Krauss](../people/lawrence-krauss.md) - 13 shared documents
-- [Epstein](../people/epstein.md) - 12 shared documents
 - [Jeffrey](../people/jeffrey.md) - 12 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 12 shared documents
-- [Krauss](../people/krauss.md) - 12 shared documents
-- [Lawrence M. Krauss](../people/lawrence-m-krauss.md) - 12 shared documents
+- [Lawrence Krauss](../people/lawrence-krauss.md) - 12 shared documents
 - [Rebecca Watson](../people/rebecca-watson.md) - 12 shared documents
-- [Lawrence](../people/lawrence.md) - 8 shared documents
 
 **Organizations:**
 
 - [Sciences 
 School of Earth and Space Exploration](sciences-school-of-earth-and-space-exploration.md) - 13 shared documents
-- [ASU](asu.md) - 13 shared documents
 - [ARIZONA STATE UNIVERSITY 
 College of Liberal Arts and](arizona-state-university-college-of-liberal-arts-and.md) - 13 shared documents
+- [ASU](asu.md) - 13 shared documents
 - [Dir, Beyond Center](dir-beyond-center.md) - 13 shared documents
 - [Krauss 
 Foundation](krauss-foundation.md) - 13 shared documents
@@ -65,10 +61,10 @@ Sent](arizona-state-university-sent.md) - 10 shared documents
 **Events:**
 
 - [85287-1404](../events/85287-1404.md) - 13 shared documents
-- [today](../events/today.md) - 12 shared documents
-- [April 6, 2011](../events/april-6-2011.md) - 12 shared documents
 - [a few months ago](../events/a-few-months-ago.md) - 12 shared documents
 - [Apr 6, 2011](../events/apr-6-2011.md) - 12 shared documents
+- [April 6, 2011](../events/april-6-2011.md) - 12 shared documents
+- [today](../events/today.md) - 12 shared documents
 - [Wed, Apr 6, 2011](../events/wed-apr-6-2011.md) - 12 shared documents
 - [this weekend](../events/this-weekend.md) - 10 shared documents
 - [Thu, Apr 7, 2011](../events/thu-apr-7-2011.md) - 9 shared documents

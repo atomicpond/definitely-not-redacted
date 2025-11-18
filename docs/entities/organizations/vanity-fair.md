@@ -36,11 +36,11 @@ Top 10 documents by mention frequency:
 - [Les Wexner](../people/les-wexner.md) - 28 shared documents
 - [New Mexico](../people/new-mexico.md) - 26 shared documents
 - [Vicky Ward](../people/vicky-ward.md) - 26 shared documents
-- [Epstein](../people/epstein.md) - 25 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 24 shared documents
 - [Jeffrey](../people/jeffrey.md) - 21 shared documents
 - [Prince 
 Andrew](../people/prince-andrew.md) - 21 shared documents
+- [Alfredo Rodriguez](../people/alfredo-rodriguez.md) - 20 shared documents
+- [BILL](../people/bill.md) - 20 shared documents
 
 **Organizations:**
 
@@ -62,24 +62,24 @@ Andrew](../people/prince-andrew.md) - 21 shared documents
 - [Paris](../locations/paris.md) - 36 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 34 shared documents
 - [Manhattan](../locations/manhattan.md) - 31 shared documents
-- [New York's](../locations/new-yorks.md) - 26 shared documents
 - [New Mexico](../locations/new-mexico.md) - 26 shared documents
-- [Florida](../locations/florida.md) - 25 shared documents
+- [New York's](../locations/new-yorks.md) - 26 shared documents
 - [Central Park](../locations/central-park.md) - 25 shared documents
+- [Florida](../locations/florida.md) - 25 shared documents
 - [United States](../locations/united-states.md) - 24 shared documents
 
 **Events:**
 
 - [years](../events/years.md) - 43 shared documents
-- [a year](../events/a-year.md) - 36 shared documents
 - [14](../events/14.md) - 36 shared documents
+- [a year](../events/a-year.md) - 36 shared documents
 - [many years](../events/many-years.md) - 36 shared documents
 - [2003](../events/2003.md) - 33 shared documents
-- [Sunday](../events/sunday.md) - 33 shared documents
 - [last week](../events/last-week.md) - 33 shared documents
+- [Sunday](../events/sunday.md) - 33 shared documents
 - [weeks](../events/weeks.md) - 32 shared documents
-- [daily](../events/daily.md) - 31 shared documents
 - [1981](../events/1981.md) - 31 shared documents
+- [daily](../events/daily.md) - 31 shared documents
 
 ## Timeline
 

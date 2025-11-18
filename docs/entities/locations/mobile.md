@@ -48,19 +48,19 @@ Top 9 documents by mention frequency:
 - [New York](new-york.md) - 5 shared documents
 - [Russia](russia.md) - 4 shared documents
 - [Salt Lake City](salt-lake-city.md) - 4 shared documents
-- [Japan](japan.md) - 4 shared documents
-- [Germany](germany.md) - 4 shared documents
-- [London](london.md) - 4 shared documents
 - [America](america.md) - 4 shared documents
-- [Iraq](iraq.md) - 4 shared documents
 - [Colorado](colorado.md) - 4 shared documents
+- [Germany](germany.md) - 4 shared documents
+- [Iraq](iraq.md) - 4 shared documents
+- [Japan](japan.md) - 4 shared documents
+- [London](london.md) - 4 shared documents
 
 **Events:**
 
 - [2007](../events/2007.md) - 4 shared documents
 - [2009](../events/2009.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
 - [last year](../events/last-year.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 - [years](../events/years.md) - 4 shared documents
 
 ## Timeline

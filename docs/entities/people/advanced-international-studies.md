@@ -31,44 +31,45 @@ Top 5 documents by mention frequency:
 - [Israeli Prime Minister](israeli-prime-minister.md) - 5 shared documents
 - [Middle East](middle-east.md) - 5 shared documents
 - [Mr. Mubarak](mubarak.md) - 5 shared documents
-- [Mr. Obama](obama.md) - 5 shared documents
-- [President Obama](president-obama.md) - 5 shared documents
 - [Saudi Arabia](saudi-arabia.md) - 5 shared documents
+- [United 
+States](united-states.md) - 5 shared documents
 
 **Organizations:**
 
 - [Congress](../organizations/congress.md) - 5 shared documents
-- [Washington Post](../organizations/washington-post.md) - 5 shared documents
 - [Defense](../organizations/defense.md) - 5 shared documents
 - [Fatah](../organizations/fatah.md) - 5 shared documents
 - [Hamas](../organizations/hamas.md) - 5 shared documents
 - [Islam](../organizations/islam.md) - 5 shared documents
 - [NYT](../organizations/nyt.md) - 5 shared documents
-- [HOUSE](../organizations/house.md) - 4 shared documents
-- [White House](../organizations/white-house.md) - 4 shared documents
-- [the White House](../organizations/the-white-house.md) - 4 shared documents
+- [Washington Post](../organizations/washington-post.md) - 5 shared documents
 
 **Locations:**
 
-- [Middle East](../locations/middle-east.md) - 5 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
-- [China](../locations/china.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [Baghdad](../locations/baghdad.md) - 5 shared documents
+- [Cairo](../locations/cairo.md) - 5 shared documents
+- [China](../locations/china.md) - 5 shared documents
+- [Egypt](../locations/egypt.md) - 5 shared documents
 - [France](../locations/france.md) - 5 shared documents
+- [Gaza](../locations/gaza.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
 - [Iraq](../locations/iraq.md) - 5 shared documents
-- [Jordan](../locations/jordan.md) - 5 shared documents
+- [Israel](../locations/israel.md) - 5 shared documents
 
 **Events:**
 
 - [2003](../events/2003.md) - 5 shared documents
 - [2009](../events/2009.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [last week](../events/last-week.md) - 5 shared documents
 - [2011](../events/2011.md) - 5 shared documents
 - [2013](../events/2013.md) - 5 shared documents
+- [last week](../events/last-week.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
+- [1979](../events/1979.md) - 4 shared documents
+- [1993](../events/1993.md) - 4 shared documents
+- [December](../events/december.md) - 4 shared documents
+- [January](../events/january.md) - 4 shared documents
 
 ## Timeline
 

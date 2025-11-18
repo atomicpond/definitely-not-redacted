@@ -30,7 +30,6 @@ Top 8 documents by mention frequency:
 **People:**
 
 - [Lesley Groff](lesley-groff.md) - 8 shared documents
-- [Mr. Obama](obama.md) - 5 shared documents
 
 **Organizations:**
 

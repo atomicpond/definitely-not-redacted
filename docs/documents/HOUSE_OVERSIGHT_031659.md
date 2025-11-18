@@ -12,7 +12,7 @@
 - [larry](../entities/people/larry.md) - 3 mentions
 - [jeffrey E. <](../entities/people/jeffrey-e.md) - 2 mentions
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
-- [Ms. Ruemmler](../entities/people/ms-ruemmler.md) - 1 mention
+- [Ms. Ruemmler](../entities/people/kathy-ruemmler.md) - 1 mention
 
 ### Organizations
 - [HOUSE](../entities/organizations/house.md) - 2 mentions

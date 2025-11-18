@@ -29,21 +29,21 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Washington](../locations/washington.md) - 5 shared documents
 - [Iraq](../locations/iraq.md) - 5 shared documents
 - [Syria](../locations/syria.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 - [Pennsylvania](../locations/pennsylvania.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
 - [Turkey](../locations/turkey.md) - 4 shared documents
 
 **Events:**
 
-- [Thursday](../events/thursday.md) - 4 shared documents
-- [July](../events/july.md) - 4 shared documents
-- [May](../events/may.md) - 4 shared documents
 - [1999](../events/1999.md) - 4 shared documents
 - [Friday](../events/friday.md) - 4 shared documents
+- [July](../events/july.md) - 4 shared documents
 - [June](../events/june.md) - 4 shared documents
+- [May](../events/may.md) - 4 shared documents
+- [Thursday](../events/thursday.md) - 4 shared documents
 
 ## Timeline
 

@@ -36,12 +36,12 @@ Top 6 documents by mention frequency:
 - [this year](this-year.md) - 6 shared documents
 - [two years](two-years.md) - 6 shared documents
 - [yesterday](yesterday.md) - 6 shared documents
-- [2018](2018.md) - 6 shared documents
-- [2015](2015.md) - 6 shared documents
-- [last year](last-year.md) - 6 shared documents
-- [last week](last-week.md) - 6 shared documents
-- [months](months.md) - 6 shared documents
 - [2013](2013.md) - 6 shared documents
+- [2015](2015.md) - 6 shared documents
+- [2018](2018.md) - 6 shared documents
+- [last week](last-week.md) - 6 shared documents
+- [last year](last-year.md) - 6 shared documents
+- [months](months.md) - 6 shared documents
 
 ## Timeline
 

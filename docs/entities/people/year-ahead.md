@@ -27,42 +27,36 @@ Top 6 documents by mention frequency:
 
 - [America Merrill Lynch](america-merrill-lynch.md) - 6 shared documents
 - [Merrill Lynch](merrill-lynch.md) - 6 shared documents
-- [Merrill Lynch Global](merrill-lynch-global.md) - 4 shared documents
-- [Asia Pacific](asia-pacific.md) - 4 shared documents
 
 **Organizations:**
 
 - [Merrill Lynch](../organizations/merrill-lynch.md) - 6 shared documents
-- [Pierce, Fenner & Smith Incorporated](../organizations/pierce-fenner-smith-incorporated.md) - 5 shared documents
 - [Bank of America Merrill Lynch](../organizations/bank-of-america-merrill-lynch.md) - 5 shared documents
+- [Pierce, Fenner & Smith Incorporated](../organizations/pierce-fenner-smith-incorporated.md) - 5 shared documents
 - [USD](../organizations/usd.md) - 5 shared documents
-- [HOUSE](../organizations/house.md) - 4 shared documents
-- [S&P](../organizations/sp.md) - 4 shared documents
-- [Trump](../organizations/trump.md) - 4 shared documents
-- [BofA Merrill Lynch Global Research](../organizations/bofa-merrill-lynch-global-research.md) - 4 shared documents
-- [Bank of America](../organizations/bank-of-america.md) - 4 shared documents
-- [Bank of America
-Corporation](../organizations/bank-of-america-corporation.md) - 4 shared documents
 
 **Locations:**
 
-- [Europe](../locations/europe.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [USD](../locations/usd.md) - 5 shared documents
 - [Brazil](../locations/brazil.md) - 5 shared documents
 - [Canada](../locations/canada.md) - 5 shared documents
+- [Europe](../locations/europe.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
 - [Mexico](../locations/mexico.md) - 5 shared documents
-- [Dubai](../locations/dubai.md) - 4 shared documents
+- [Russia](../locations/russia.md) - 5 shared documents
+- [USD](../locations/usd.md) - 5 shared documents
+- [Argentina](../locations/argentina.md) - 4 shared documents
 - [Asia](../locations/asia.md) - 4 shared documents
 
 **Events:**
 
-- [2018](../events/2018.md) - 5 shared documents
 - [2017](../events/2017.md) - 5 shared documents
-- [2016](../events/2016.md) - 4 shared documents
+- [2018](../events/2018.md) - 5 shared documents
+- [1959](../events/1959.md) - 4 shared documents
+- [198602883D](../events/198602883d.md) - 4 shared documents
 - [2001](../events/2001.md) - 4 shared documents
+- [2016](../events/2016.md) - 4 shared documents
+- [the day](../events/the-day.md) - 4 shared documents
 
 ## Timeline
 

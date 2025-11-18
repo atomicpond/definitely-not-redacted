@@ -35,22 +35,22 @@ Top 10 documents by mention frequency:
 - [Cabot Professor](cabot-professor.md) - 27 shared documents
 - [Powell M. Cabot](powell-m-cabot.md) - 27 shared documents
 - [Jeffrey](jeffrey.md) - 23 shared documents
-- [Lisa New](lisa-new.md) - 22 shared documents
 - [Lisa 
 Elisa](lisa-elisa.md) - 22 shared documents
 - [Lisa 
 Elisa New](lisa-elisa-new.md) - 22 shared documents
+- [Lisa New](lisa-new.md) - 22 shared documents
+- [American Literature 
+Harvard](american-literature-harvard.md) - 18 shared documents
 - [Dear Jeffrey](dear-jeffrey.md) - 18 shared documents
 - [Elisa New 
 Powell](elisa-new-powell.md) - 18 shared documents
-- [American Literature 
-Harvard](american-literature-harvard.md) - 18 shared documents
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 27 shared documents
-- [Harvard University](../organizations/harvard-university.md) - 27 shared documents
 - [American Literature](../organizations/american-literature.md) - 27 shared documents
+- [Harvard University](../organizations/harvard-university.md) - 27 shared documents
+- [HOUSE](../organizations/house.md) - 27 shared documents
 - [Cabot Professor of American Literature 
 Harvard University](../organizations/cabot-professor-of-american-literature-harvard-university.md) - 18 shared documents
 - [Harvard](../organizations/harvard.md) - 14 shared documents
@@ -60,17 +60,17 @@ Harvard University](../organizations/poetry-in-america-harvard-university.md) - 
 
 **Locations:**
 
+- [Barker Center](../locations/barker-center.md) - 27 shared documents
 - [Cambridge](../locations/cambridge.md) - 27 shared documents
 - [MA](../locations/ma.md) - 27 shared documents
-- [Barker Center](../locations/barker-center.md) - 27 shared documents
 - [Quincy Street](../locations/quincy-street.md) - 27 shared documents
 - [Street 
 Cambridge, MA](../locations/street-cambridge-ma.md) - 27 shared documents
 - [America](../locations/america.md) - 19 shared documents
 - [WA](../locations/wa.md) - 11 shared documents
-- [Sun](../locations/sun.md) - 9 shared documents
 - [Australia](../locations/australia.md) - 9 shared documents
 - [Lolita](../locations/lolita.md) - 9 shared documents
+- [Sun](../locations/sun.md) - 9 shared documents
 
 **Events:**
 

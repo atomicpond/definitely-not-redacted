@@ -37,29 +37,29 @@ Top 8 documents by mention frequency:
 
 - [CTT](../organizations/ctt.md) - 7 shared documents
 - [CNN](../organizations/cnn.md) - 5 shared documents
-- [HOUSE](../organizations/house.md) - 4 shared documents
 - [Harvard](../organizations/harvard.md) - 4 shared documents
+- [HOUSE](../organizations/house.md) - 4 shared documents
 - [Skype](../organizations/skype.md) - 4 shared documents
 
 **Locations:**
 
 - [China](../locations/china.md) - 8 shared documents
 - [Cambridge](../locations/cambridge.md) - 7 shared documents
-- [New York](../locations/new-york.md) - 5 shared documents
 - [Beijing](../locations/beijing.md) - 5 shared documents
-- [London](../locations/london.md) - 4 shared documents
-- [Chicago](../locations/chicago.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
 - [Boston](../locations/boston.md) - 4 shared documents
+- [Chicago](../locations/chicago.md) - 4 shared documents
+- [London](../locations/london.md) - 4 shared documents
 - [Oxford](../locations/oxford.md) - 4 shared documents
 
 **Events:**
 
-- [2018](../events/2018.md) - 4 shared documents
+- [12 years](../events/12-years.md) - 4 shared documents
 - [2012](../events/2012.md) - 4 shared documents
 - [2017](../events/2017.md) - 4 shared documents
+- [2018](../events/2018.md) - 4 shared documents
 - [a month](../events/a-month.md) - 4 shared documents
 - [recent years](../events/recent-years.md) - 4 shared documents
-- [12 years](../events/12-years.md) - 4 shared documents
 
 ## Timeline
 

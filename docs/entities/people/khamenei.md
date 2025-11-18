@@ -27,10 +27,9 @@ Top 7 documents by mention frequency:
 **People:**
 
 - [Mahmoud Ahmadinejad](mahmoud-ahmadinejad.md) - 6 shared documents
-- [Mr. Obama](obama.md) - 6 shared documents
-- [Barack Obama](barack-obama.md) - 6 shared documents
 - [Ali Khamenei](ali-khamenei.md) - 6 shared documents
 - [Assad](assad.md) - 6 shared documents
+- [Barack Obama](barack-obama.md) - 6 shared documents
 - [Middle East](middle-east.md) - 5 shared documents
 - [Mr. Mubarak](mubarak.md) - 5 shared documents
 - [United 
@@ -44,16 +43,16 @@ States](united-states.md) - 5 shared documents
 
 **Locations:**
 
-- [Middle East](../locations/middle-east.md) - 7 shared documents
-- [Washington](../locations/washington.md) - 7 shared documents
 - [America](../locations/america.md) - 7 shared documents
 - [France](../locations/france.md) - 7 shared documents
 - [Iran](../locations/iran.md) - 7 shared documents
 - [Iraq](../locations/iraq.md) - 7 shared documents
-- [the United States](../locations/the-united-states.md) - 7 shared documents
 - [Israel](../locations/israel.md) - 7 shared documents
+- [Middle East](../locations/middle-east.md) - 7 shared documents
 - [Tehran](../locations/tehran.md) - 7 shared documents
+- [the United States](../locations/the-united-states.md) - 7 shared documents
 - [US](../locations/us.md) - 7 shared documents
+- [Washington](../locations/washington.md) - 7 shared documents
 
 **Events:**
 
@@ -61,10 +60,10 @@ States](united-states.md) - 5 shared documents
 - [today](../events/today.md) - 7 shared documents
 - [last year](../events/last-year.md) - 6 shared documents
 - [2003](../events/2003.md) - 5 shared documents
-- [2007](../events/2007.md) - 5 shared documents
-- [2011](../events/2011.md) - 5 shared documents
-- [2010](../events/2010.md) - 5 shared documents
 - [2006](../events/2006.md) - 5 shared documents
+- [2007](../events/2007.md) - 5 shared documents
+- [2010](../events/2010.md) - 5 shared documents
+- [2011](../events/2011.md) - 5 shared documents
 
 ## Timeline
 

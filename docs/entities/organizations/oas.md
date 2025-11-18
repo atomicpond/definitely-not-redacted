@@ -31,14 +31,14 @@ Top 6 documents by mention frequency:
 
 - [Canada](../locations/canada.md) - 5 shared documents
 - [Mexico](../locations/mexico.md) - 5 shared documents
+- [America](../locations/america.md) - 4 shared documents
 - [California](../locations/california.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
 - [Germany](../locations/germany.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
+- [Israel](../locations/israel.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
+- [Kenya](../locations/kenya.md) - 4 shared documents
 - [London](../locations/london.md) - 4 shared documents
-- [America](../locations/america.md) - 4 shared documents
 
 **Events:**
 

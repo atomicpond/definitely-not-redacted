@@ -30,7 +30,7 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jeffrey E](../people/jeffrey-e.md) - 10 shared documents
-- [jeffrey E. <](../people/jeffrey-e.md) - 8 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 8 shared documents
 - [Biological Breakthrough](../people/biological-breakthrough.md) - 7 shared documents
 - [Blahblahs](../people/blahblahs.md) - 7 shared documents
 - [Closer To Truth](../people/closer-to-truth.md) - 7 shared documents
@@ -64,13 +64,13 @@ Top 10 documents by mention frequency:
 - [today](today.md) - 13 shared documents
 - [2016](2016.md) - 9 shared documents
 - [2017](2017.md) - 8 shared documents
-- [2018](2018.md) - 7 shared documents
-- [May](may.md) - 7 shared documents
-- [recent years](recent-years.md) - 7 shared documents
-- [late-afternoon](late-afternoon.md) - 7 shared documents
-- [Dec 11, 2017](dec-11-2017.md) - 7 shared documents
 - [12:50 AM](1250-am.md) - 7 shared documents
 - [1:45 AM](145-am.md) - 7 shared documents
+- [2018](2018.md) - 7 shared documents
+- [5:30 pm / early evening](530-pm-early-evening.md) - 7 shared documents
+- [6:19 AM](619-am.md) - 7 shared documents
+- [7:40 AM](740-am.md) - 7 shared documents
+- [Dec 11, 2017](dec-11-2017.md) - 7 shared documents
 
 ## Timeline
 

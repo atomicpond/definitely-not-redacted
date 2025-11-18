@@ -26,13 +26,10 @@ Top 7 documents by mention frequency:
 
 **People:**
 
-- [jeff epstein](../people/jeff-epstein.md) - 7 shared documents
-- [Jeffrey Edward Epstein](../people/jeffrey-edward-epstein.md) - 7 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 7 shared documents
 - [Jeffrey Epstein - Wikipedia](../people/jeffrey-epstein-wikipedia.md) - 7 shared documents
 - [Donald 
 Trump](../people/donald-trump.md) - 6 shared documents
-- [Epstein](../people/epstein.md) - 6 shared documents
 - [Leslie Wexner](../people/leslie-wexner.md) - 6 shared documents
 - [Ghislaine Maxwell](../people/ghislaine-maxwell.md) - 5 shared documents
 - [Jeffrey Epstein Philanthropy](../people/jeffrey-epstein-philanthropy.md) - 5 shared documents
@@ -44,9 +41,9 @@ Trump](../people/donald-trump.md) - 6 shared documents
 - [The Jeffrey Epstein VI Foundation](the-jeffrey-epstein-vi-foundation.md) - 6 shared documents
 - [CEOs like Leslie Wexner of the Limited](ceos-like-leslie-wexner-of-the-limited.md) - 6 shared documents
 - [New York Magazine](new-york-magazine.md) - 5 shared documents
-- [HOUSE](house.md) - 5 shared documents
 - [Ghislaine Maxwell](ghislaine-maxwell.md) - 5 shared documents
 - [Google](google.md) - 5 shared documents
+- [HOUSE](house.md) - 5 shared documents
 - [Jeffrey Epstein VI Foundation](jeffrey-epstein-vi-foundation.md) - 5 shared documents
 
 **Locations:**
@@ -58,9 +55,9 @@ Trump](../people/donald-trump.md) - 6 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 4 shared documents
 - [2000](../events/2000.md) - 4 shared documents
 - [next week](../events/next-week.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

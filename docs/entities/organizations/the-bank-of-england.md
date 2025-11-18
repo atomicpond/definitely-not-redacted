@@ -30,37 +30,36 @@ Top 6 documents by mention frequency:
 - [Bloomberg](bloomberg.md) - 6 shared documents
 - [Congress](congress.md) - 6 shared documents
 - [ECB](ecb.md) - 6 shared documents
-- [S&P](sp.md) - 5 shared documents
-- [Fed](fed.md) - 5 shared documents
 - [Bank](bank.md) - 5 shared documents
+- [Fed](fed.md) - 5 shared documents
 - [MSCI](msci.md) - 5 shared documents
-- [HOUSE](house.md) - 4 shared documents
+- [S&P](sp.md) - 5 shared documents
 
 **Locations:**
 
-- [China](../locations/china.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
-- [Brazil](../locations/brazil.md) - 6 shared documents
-- [Germany](../locations/germany.md) - 6 shared documents
-- [Mexico](../locations/mexico.md) - 6 shared documents
 - [Asia](../locations/asia.md) - 6 shared documents
+- [Brazil](../locations/brazil.md) - 6 shared documents
+- [China](../locations/china.md) - 6 shared documents
 - [France](../locations/france.md) - 6 shared documents
-- [Italy](../locations/italy.md) - 6 shared documents
+- [Germany](../locations/germany.md) - 6 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 6 shared documents
+- [India](../locations/india.md) - 6 shared documents
+- [Indonesia](../locations/indonesia.md) - 6 shared documents
+- [Italy](../locations/italy.md) - 6 shared documents
+- [Japan](../locations/japan.md) - 6 shared documents
 
 **Events:**
 
 - [2013](../events/2013.md) - 6 shared documents
+- [10-year](../events/10-year.md) - 5 shared documents
+- [12-month](../events/12-month.md) - 5 shared documents
+- [June](../events/june.md) - 5 shared documents
 - [last year](../events/last-year.md) - 5 shared documents
 - [monthly](../events/monthly.md) - 5 shared documents
 - [the year](../events/the-year.md) - 5 shared documents
-- [10-year](../events/10-year.md) - 5 shared documents
-- [June](../events/june.md) - 5 shared documents
-- [12-month](../events/12-month.md) - 5 shared documents
-- [6-month](../events/6-month.md) - 4 shared documents
-- [year-end](../events/year-end.md) - 4 shared documents
-- [2015](../events/2015.md) - 4 shared documents
+- [2000](../events/2000.md) - 4 shared documents
+- [2001](../events/2001.md) - 4 shared documents
+- [2012](../events/2012.md) - 4 shared documents
 
 ## Timeline
 

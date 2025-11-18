@@ -10,7 +10,7 @@
 
 ### People
 - [Epstein](../entities/people/epstein.md) - 9 mentions
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 9 mentions
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 9 mentions
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 3 mentions
 - [Steve Bannon](../entities/people/steve-bannon.md) - 3 mentions
 - [Ivanka Trump](../entities/people/ivanka-trump.md) - 1 mention

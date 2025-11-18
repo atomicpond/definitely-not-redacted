@@ -51,14 +51,14 @@ Alston & Bird LLP](whitley-alston-bird-llp.md) - 6 shared documents
 
 **Locations:**
 
-- [Los Angeles](../locations/los-angeles.md) - 6 shared documents
-- [USA](../locations/usa.md) - 6 shared documents
-- [D.C.](../locations/dc.md) - 6 shared documents
-- [Street, NW](../locations/street-nw.md) - 6 shared documents
-- [N.W.](../locations/nw.md) - 6 shared documents
 - [777 South Figueroa Street](../locations/777-south-figueroa-street.md) - 6 shared documents
 - [950 Pennsylvania Avenue](../locations/950-pennsylvania-avenue.md) - 6 shared documents
+- [D.C.](../locations/dc.md) - 6 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 6 shared documents
 - [Los Angeles, CA](../locations/los-angeles-ca.md) - 6 shared documents
+- [N.W.](../locations/nw.md) - 6 shared documents
+- [Street, NW](../locations/street-nw.md) - 6 shared documents
+- [USA](../locations/usa.md) - 6 shared documents
 - [California](../locations/california.md) - 5 shared documents
 - [South Figueroa Street](../locations/south-figueroa-street.md) - 5 shared documents
 

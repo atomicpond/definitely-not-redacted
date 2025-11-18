@@ -32,33 +32,32 @@ Top 7 documents by mention frequency:
 
 - [Congress](../organizations/congress.md) - 4 shared documents
 - [Defense](../organizations/defense.md) - 4 shared documents
-- [the European Union](../organizations/the-european-union.md) - 4 shared documents
 
 **Locations:**
 
-- [Middle East](../locations/middle-east.md) - 5 shared documents
 - [China](../locations/china.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
 - [Iraq](../locations/iraq.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
 - [Israel](../locations/israel.md) - 5 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
+- [Middle East](../locations/middle-east.md) - 5 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 4 shared documents
 - [Africa](../locations/africa.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
+- [America](../locations/america.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
 - [the years](../events/the-years.md) - 5 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [the 1980s](../events/the-1980s.md) - 4 shared documents
-- [last year](../events/last-year.md) - 4 shared documents
-- [the past year](../events/the-past-year.md) - 4 shared documents
-- [2006](../events/2006.md) - 4 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [1989](../events/1989.md) - 4 shared documents
+- [2006](../events/2006.md) - 4 shared documents
+- [2009](../events/2009.md) - 4 shared documents
+- [annually](../events/annually.md) - 4 shared documents
 - [decades](../events/decades.md) - 4 shared documents
-- [the day](../events/the-day.md) - 4 shared documents
+- [last year](../events/last-year.md) - 4 shared documents
+- [the 1980s](../events/the-1980s.md) - 4 shared documents
+- [the 20th century](../events/the-20th-century.md) - 4 shared documents
 
 ## Timeline
 

@@ -30,7 +30,7 @@ Top 7 documents by mention frequency:
 
 - [ANU](../people/anu.md) - 7 shared documents
 - [Azeen Ghorayshi](../people/azeen-ghorayshi.md) - 7 shared documents
-- [Barack Obama's](../people/barack-obamas.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Cynthia Jewett](../people/cynthia-jewett.md) - 7 shared documents
 - [Dawkins](../people/dawkins.md) - 7 shared documents
 - [Donald 
@@ -38,7 +38,7 @@ Trump](../people/donald-trump.md) - 7 shared documents
 - [Erin Ellison](../people/erin-ellison.md) - 7 shared documents
 - [Jewett](../people/jewett.md) - 7 shared documents
 - [Kiaran Kirk](../people/kiaran-kirk.md) - 7 shared documents
-- [Krauss](../people/krauss.md) - 7 shared documents
+- [Lawrence Krauss](../people/lawrence-krauss.md) - 7 shared documents
 
 **Organizations:**
 
@@ -55,29 +55,29 @@ Trump](../people/donald-trump.md) - 7 shared documents
 
 **Locations:**
 
-- [Tempe](../locations/tempe.md) - 7 shared documents
-- [London](../locations/london.md) - 7 shared documents
 - [America](../locations/america.md) - 7 shared documents
 - [Arizona State](../locations/arizona-state.md) - 7 shared documents
 - [Australia](../locations/australia.md) - 7 shared documents
+- [AZ](../locations/az.md) - 7 shared documents
 - [Canberra](../locations/canberra.md) - 7 shared documents
 - [Des Moines](../locations/des-moines.md) - 7 shared documents
 - [Iowa](../locations/iowa.md) - 7 shared documents
 - [Las Vegas](../locations/las-vegas.md) - 7 shared documents
+- [London](../locations/london.md) - 7 shared documents
 - [Melbourne](../locations/melbourne.md) - 7 shared documents
 
 **Events:**
 
-- [October](../events/october.md) - 7 shared documents
-- [85287-1404](../events/85287-1404.md) - 7 shared documents
+- [2006](../events/2006.md) - 7 shared documents
 - [2007](../events/2007.md) - 7 shared documents
+- [2008](../events/2008.md) - 7 shared documents
 - [2014](../events/2014.md) - 7 shared documents
 - [2016](../events/2016.md) - 7 shared documents
-- [2008](../events/2008.md) - 7 shared documents
+- [85287-1404](../events/85287-1404.md) - 7 shared documents
+- [April 16, 2008](../events/april-16-2008.md) - 7 shared documents
 - [April 2011](../events/april-2011.md) - 7 shared documents
-- [May 2011](../events/may-2011.md) - 7 shared documents
-- [November 2016](../events/november-2016.md) - 7 shared documents
-- [2006](../events/2006.md) - 7 shared documents
+- [April 2017](../events/april-2017.md) - 7 shared documents
+- [December of 2007](../events/december-of-2007.md) - 7 shared documents
 
 ## Timeline
 

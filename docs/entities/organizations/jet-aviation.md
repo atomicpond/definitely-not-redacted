@@ -45,10 +45,10 @@ Subject](../people/cohen-subject.md) - 5 shared documents
 **Events:**
 
 - [2017](../events/2017.md) - 6 shared documents
-- [4:23 PM](../events/423-pm.md) - 6 shared documents
 - [2:33 PM](../events/233-pm.md) - 6 shared documents
 - [3:42 PM](../events/342-pm.md) - 6 shared documents
 - [4:13 PM](../events/413-pm.md) - 6 shared documents
+- [4:23 PM](../events/423-pm.md) - 6 shared documents
 - [Mon, Oct 2, 2017](../events/mon-oct-2-2017.md) - 6 shared documents
 - [Monday, October 02,](../events/monday-october-02.md) - 6 shared documents
 - [Monday, October 02, 2017](../events/monday-october-02-2017.md) - 6 shared documents

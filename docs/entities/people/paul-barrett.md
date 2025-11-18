@@ -35,9 +35,9 @@ Top 7 documents by mention frequency:
 
 - [Paul Barrett 
 Alpha Group Capital LLC](../organizations/paul-barrett-alpha-group-capital-llc.md) - 6 shared documents
-- [HOUSE](../organizations/house.md) - 5 shared documents
 - [Aug](../organizations/aug.md) - 5 shared documents
 - [AVGO](../organizations/avgo.md) - 5 shared documents
+- [HOUSE](../organizations/house.md) - 5 shared documents
 
 **Locations:**
 
@@ -46,16 +46,16 @@ Alpha Group Capital LLC](../organizations/paul-barrett-alpha-group-capital-llc.m
 
 **Events:**
 
-- [one day](../events/one-day.md) - 6 shared documents
 - [months ago](../events/months-ago.md) - 6 shared documents
+- [one day](../events/one-day.md) - 6 shared documents
 - [the same month](../events/the-same-month.md) - 6 shared documents
 - [August](../events/august.md) - 5 shared documents
-- [yesterday](../events/yesterday.md) - 5 shared documents
-- [Sept](../events/sept.md) - 5 shared documents
-- [the weekend](../events/the-weekend.md) - 5 shared documents
-- [many years](../events/many-years.md) - 5 shared documents
 - [Friday, July 13, 2018](../events/friday-july-13-2018.md) - 5 shared documents
+- [many years](../events/many-years.md) - 5 shared documents
+- [Sept](../events/sept.md) - 5 shared documents
 - [Sept 200](../events/sept-200.md) - 5 shared documents
+- [the weekend](../events/the-weekend.md) - 5 shared documents
+- [yesterday](../events/yesterday.md) - 5 shared documents
 
 ## Timeline
 

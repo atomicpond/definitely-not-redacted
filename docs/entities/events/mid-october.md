@@ -32,12 +32,12 @@ Top 10 documents by mention frequency:
 
 - [Jeffrey E](../people/jeffrey-e.md) - 10 shared documents
 - [On Sat](../people/on-sat.md) - 9 shared documents
-- [Barack Obama](../people/barack-obama.md) - 8 shared documents
 - [Alberto Gonzales](../people/alberto-gonzales.md) - 6 shared documents
 - [Attorney 
 General](../people/attorney-general.md) - 6 shared documents
 - [Attorney General  
 Sent](../people/attorney-general-sent.md) - 6 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Eric](../people/eric.md) - 6 shared documents
 - [Floor Statement](../people/floor-statement.md) - 6 shared documents
 - [jeffrey E. <jeevacation@gmail.com](../people/jeffrey-e-jeevacationgmailcom.md) - 6 shared documents
@@ -52,6 +52,7 @@ Ruemmler](../people/kathy-ruemmler.md) - 6 shared documents
 - [Wikisource](../organizations/wikisource.md) - 6 shared documents
 - [CNN](../organizations/cnn.md) - 5 shared documents
 - [Harvard](../organizations/harvard.md) - 5 shared documents
+- [Skype](../organizations/skype.md) - 5 shared documents
 
 **Locations:**
 

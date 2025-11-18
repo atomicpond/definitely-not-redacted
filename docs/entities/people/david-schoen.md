@@ -30,7 +30,8 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [CLINTON](clinton.md) - 8 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 8 shared documents
 - [Jeffrey E](jeffrey-e.md) - 6 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 6 shared documents
 
@@ -40,34 +41,31 @@ Top 10 documents by mention frequency:
 - [FBI](../organizations/fbi.md) - 7 shared documents
 - [Fox News](../organizations/fox-news.md) - 7 shared documents
 - [Trump](../organizations/trump.md) - 6 shared documents
-- [Fed](../organizations/fed.md) - 4 shared documents
-- [Congress](../organizations/congress.md) - 4 shared documents
-- [State](../organizations/state.md) - 4 shared documents
-- [the Department of Justice](../organizations/the-department-of-justice.md) - 4 shared documents
-- [Justice](../organizations/justice.md) - 4 shared documents
-- [Mueller](../organizations/mueller.md) - 4 shared documents
 
 **Locations:**
 
 - [New York](../locations/new-york.md) - 5 shared documents
+- [Fla.](../locations/fla.md) - 4 shared documents
+- [Md.](../locations/md.md) - 4 shared documents
+- [New Jersey](../locations/new-jersey.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
 - [U.S.](../locations/us.md) - 4 shared documents
 - [United States](../locations/united-states.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
+- [Utah](../locations/utah.md) - 4 shared documents
 - [Virginia](../locations/virginia.md) - 4 shared documents
-- [Md.](../locations/md.md) - 4 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 7 shared documents
 - [2019](../events/2019.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [2004](../events/2004.md) - 4 shared documents
-- [2018](../events/2018.md) - 4 shared documents
-- [1996](../events/1996.md) - 4 shared documents
-- [2000](../events/2000.md) - 4 shared documents
+- [1972](../events/1972.md) - 4 shared documents
+- [1976](../events/1976.md) - 4 shared documents
+- [1977](../events/1977.md) - 4 shared documents
+- [1979](../events/1979.md) - 4 shared documents
+- [1984](../events/1984.md) - 4 shared documents
 - [1985](../events/1985.md) - 4 shared documents
+- [1987](../events/1987.md) - 4 shared documents
 - [1990](../events/1990.md) - 4 shared documents
-- [1993](../events/1993.md) - 4 shared documents
 
 ## Timeline
 

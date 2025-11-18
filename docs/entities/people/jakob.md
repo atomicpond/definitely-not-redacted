@@ -23,18 +23,18 @@ Top 4 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 4 shared documents
 - [Arizona State University](../organizations/arizona-state-university.md) - 4 shared documents
-- [The Origins Project](../organizations/the-origins-project.md) - 4 shared documents
 - [ASU](../organizations/asu.md) - 4 shared documents
+- [HOUSE](../organizations/house.md) - 4 shared documents
 - [Research Office](../organizations/research-office.md) - 4 shared documents
+- [The Origins Project](../organizations/the-origins-project.md) - 4 shared documents
 
 **Locations:**
 
-- [Tempe](../locations/tempe.md) - 4 shared documents
+- [Australia](../locations/australia.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
 - [Germany](../locations/germany.md) - 4 shared documents
-- [Australia](../locations/australia.md) - 4 shared documents
+- [Tempe](../locations/tempe.md) - 4 shared documents
 
 **Events:**
 

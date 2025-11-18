@@ -30,8 +30,6 @@ Top 7 documents by mention frequency:
 - [Steptoe](steptoe.md) - 7 shared documents
 - [Michael 
 Subject](michael-subject.md) - 5 shared documents
-- [Mr. 
-Trump](trump.md) - 5 shared documents
 - [Jane Doe](jane-doe.md) - 5 shared documents
 - [Jeffrey E](jeffrey-e.md) - 5 shared documents
 

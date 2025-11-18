@@ -57,8 +57,8 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
-- [next year](next-year.md) - 7 shared documents
 - [five-year](five-year.md) - 7 shared documents
+- [next year](next-year.md) - 7 shared documents
 - [this year](this-year.md) - 6 shared documents
 - [three years](three-years.md) - 6 shared documents
 - [today](today.md) - 6 shared documents
@@ -66,7 +66,7 @@ Top 10 documents by mention frequency:
 - [the next 12 months](the-next-12-months.md) - 5 shared documents
 - [year](year.md) - 5 shared documents
 - [year-end](year-end.md) - 5 shared documents
-- [annual](annual.md) - 5 shared documents
+- [1959](1959.md) - 5 shared documents
 
 ## Timeline
 

@@ -44,10 +44,10 @@ Top 10 documents by mention frequency:
 - [London](london.md) - 9 shared documents
 - [the United States](the-united-states.md) - 8 shared documents
 - [Washington](washington.md) - 8 shared documents
+- [England](england.md) - 7 shared documents
 - [Europe](europe.md) - 7 shared documents
 - [Germany](germany.md) - 7 shared documents
 - [Italy](italy.md) - 7 shared documents
-- [England](england.md) - 7 shared documents
 - [New York](new-york.md) - 6 shared documents
 - [Peru](peru.md) - 6 shared documents
 
@@ -56,13 +56,13 @@ Top 10 documents by mention frequency:
 - [daily](../events/daily.md) - 9 shared documents
 - [decades](../events/decades.md) - 9 shared documents
 - [annual](../events/annual.md) - 8 shared documents
-- [years](../events/years.md) - 8 shared documents
 - [the year](../events/the-year.md) - 8 shared documents
+- [years](../events/years.md) - 8 shared documents
+- [1995](../events/1995.md) - 7 shared documents
+- [1997](../events/1997.md) - 7 shared documents
 - [2004](../events/2004.md) - 7 shared documents
 - [2009](../events/2009.md) - 7 shared documents
 - [2012](../events/2012.md) - 7 shared documents
-- [Monday](../events/monday.md) - 7 shared documents
-- [1997](../events/1997.md) - 7 shared documents
 
 ## Timeline
 

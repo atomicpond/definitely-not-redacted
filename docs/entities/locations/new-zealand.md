@@ -52,12 +52,12 @@ Top 10 documents by mention frequency:
 
 - [France](france.md) - 20 shared documents
 - [Italy](italy.md) - 20 shared documents
-- [Germany](germany.md) - 19 shared documents
 - [Australia](australia.md) - 19 shared documents
-- [China](china.md) - 18 shared documents
+- [Germany](germany.md) - 19 shared documents
 - [Canada](canada.md) - 18 shared documents
-- [Japan](japan.md) - 17 shared documents
+- [China](china.md) - 18 shared documents
 - [India](india.md) - 17 shared documents
+- [Japan](japan.md) - 17 shared documents
 - [Russia](russia.md) - 16 shared documents
 - [Spain](spain.md) - 16 shared documents
 
@@ -65,14 +65,14 @@ Top 10 documents by mention frequency:
 
 - [years](../events/years.md) - 17 shared documents
 - [2004](../events/2004.md) - 16 shared documents
-- [today](../events/today.md) - 16 shared documents
 - [2012](../events/2012.md) - 16 shared documents
+- [today](../events/today.md) - 16 shared documents
 - [2000](../events/2000.md) - 15 shared documents
 - [2005](../events/2005.md) - 15 shared documents
-- [2015](../events/2015.md) - 14 shared documents
-- [annual](../events/annual.md) - 14 shared documents
-- [daily](../events/daily.md) - 14 shared documents
 - [2001](../events/2001.md) - 14 shared documents
+- [2008](../events/2008.md) - 14 shared documents
+- [2013](../events/2013.md) - 14 shared documents
+- [2015](../events/2015.md) - 14 shared documents
 
 ## Timeline
 

@@ -34,7 +34,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Vanity Fair](vanity-fair.md) - 21 shared documents
-- [Brad Edwards](brad-edwards.md) - 20 shared documents
 - [New Mexico](new-mexico.md) - 20 shared documents
 - [Sarah Kellen](sarah-kellen.md) - 16 shared documents
 - [Jane Doe](jane-doe.md) - 15 shared documents
@@ -43,6 +42,7 @@ Top 10 documents by mention frequency:
 - [Michael Reiter](michael-reiter.md) - 14 shared documents
 - [Robert Maxwell](robert-maxwell.md) - 14 shared documents
 - [El Brillo Way](el-brillo-way.md) - 13 shared documents
+- [Fifth Amendment](fifth-amendment.md) - 13 shared documents
 
 **Organizations:**
 
@@ -52,7 +52,6 @@ Top 10 documents by mention frequency:
 - [Maxwell](../organizations/maxwell.md) - 19 shared documents
 - [Ponzi](../organizations/ponzi.md) - 15 shared documents
 - [the Justice Department](../organizations/the-justice-department.md) - 14 shared documents
-- [State](../organizations/state.md) - 13 shared documents
 
 **Locations:**
 
@@ -60,9 +59,9 @@ Top 10 documents by mention frequency:
 - [Florida](../locations/florida.md) - 23 shared documents
 - [New Mexico](../locations/new-mexico.md) - 23 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 23 shared documents
-- [United States](../locations/united-states.md) - 18 shared documents
 - [New York City](../locations/new-york-city.md) - 18 shared documents
 - [Paris](../locations/paris.md) - 18 shared documents
+- [United States](../locations/united-states.md) - 18 shared documents
 - [Manhattan](../locations/manhattan.md) - 16 shared documents
 - [Miami](../locations/miami.md) - 16 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 16 shared documents
@@ -70,12 +69,12 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [daily](../events/daily.md) - 21 shared documents
-- [2004](../events/2004.md) - 20 shared documents
 - [18 months](../events/18-months.md) - 20 shared documents
+- [2004](../events/2004.md) - 20 shared documents
 - [the day](../events/the-day.md) - 19 shared documents
 - [2006](../events/2006.md) - 18 shared documents
-- [today](../events/today.md) - 17 shared documents
 - [2010](../events/2010.md) - 17 shared documents
+- [today](../events/today.md) - 17 shared documents
 - [2002](../events/2002.md) - 16 shared documents
 - [2005](../events/2005.md) - 15 shared documents
 - [2008](../events/2008.md) - 15 shared documents

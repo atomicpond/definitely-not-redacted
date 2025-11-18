@@ -43,40 +43,40 @@ York](new-york.md) - 4 shared documents
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 9 shared documents
 - [Harvard](../organizations/harvard.md) - 9 shared documents
+- [HOUSE](../organizations/house.md) - 9 shared documents
 - [Skype](../organizations/skype.md) - 7 shared documents
-- [Washington Post](../organizations/washington-post.md) - 5 shared documents
-- [Facebook](../organizations/facebook.md) - 5 shared documents
-- [NASA](../organizations/nasa.md) - 5 shared documents
 - [CNN](../organizations/cnn.md) - 5 shared documents
+- [Facebook](../organizations/facebook.md) - 5 shared documents
 - [Google](../organizations/google.md) - 5 shared documents
-- [White House](../organizations/white-house.md) - 4 shared documents
-- [Harvard University](../organizations/harvard-university.md) - 4 shared documents
+- [NASA](../organizations/nasa.md) - 5 shared documents
+- [Washington Post](../organizations/washington-post.md) - 5 shared documents
+- [Claremont McKenna College](../organizations/claremont-mckenna-college.md) - 4 shared documents
+- [Council on Foreign Relations](../organizations/council-on-foreign-relations.md) - 4 shared documents
 
 **Locations:**
 
 - [New York](../locations/new-york.md) - 9 shared documents
+- [America](../locations/america.md) - 6 shared documents
 - [China](../locations/china.md) - 6 shared documents
 - [London](../locations/london.md) - 6 shared documents
-- [America](../locations/america.md) - 6 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
-- [U.S.](../locations/us.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Beijing](../locations/beijing.md) - 5 shared documents
+- [Boston](../locations/boston.md) - 5 shared documents
 - [Cambridge](../locations/cambridge.md) - 5 shared documents
 - [Chicago](../locations/chicago.md) - 5 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
 - [New York City](../locations/new-york-city.md) - 5 shared documents
 
 **Events:**
 
 - [weekly](../events/weekly.md) - 5 shared documents
-- [2007](../events/2007.md) - 4 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [2014](../events/2014.md) - 4 shared documents
-- [2011](../events/2011.md) - 4 shared documents
-- [2008](../events/2008.md) - 4 shared documents
-- [2013](../events/2013.md) - 4 shared documents
 - [12 years](../events/12-years.md) - 4 shared documents
+- [2007](../events/2007.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
+- [2009](../events/2009.md) - 4 shared documents
+- [2011](../events/2011.md) - 4 shared documents
+- [2013](../events/2013.md) - 4 shared documents
+- [2014](../events/2014.md) - 4 shared documents
 
 ## Timeline
 

@@ -32,7 +32,7 @@ Top 10 documents by mention frequency:
 - [Jeffrey E](jeffrey-e.md) - 9 shared documents
 - [On Fri](on-fri.md) - 6 shared documents
 - [Jeffrey](jeffrey.md) - 5 shared documents
-- [jeffrey E. <](jeffrey-e.md) - 5 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 5 shared documents
 
 **Organizations:**
 

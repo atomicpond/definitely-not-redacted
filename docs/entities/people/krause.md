@@ -28,7 +28,7 @@ Top 7 documents by mention frequency:
 
 - [Deepak Chopra](deepak-chopra.md) - 5 shared documents
 - [Jeffrey E](jeffrey-e.md) - 5 shared documents
-- [jeffrey E. <](jeffrey-e.md) - 5 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 5 shared documents
 
 **Organizations:**
 
@@ -43,8 +43,8 @@ Top 7 documents by mention frequency:
 
 - [Sunday](../events/sunday.md) - 5 shared documents
 - [2016](../events/2016.md) - 4 shared documents
-- [yesterday](../events/yesterday.md) - 4 shared documents
 - [Sat](../events/sat.md) - 4 shared documents
+- [yesterday](../events/yesterday.md) - 4 shared documents
 
 ## Timeline
 

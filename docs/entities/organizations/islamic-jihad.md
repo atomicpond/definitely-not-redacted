@@ -27,16 +27,16 @@ Top 4 documents by mention frequency:
 
 **Locations:**
 
-- [Japan](../locations/japan.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
+- [Egypt](../locations/egypt.md) - 4 shared documents
 - [France](../locations/france.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
 - [Jordan](../locations/jordan.md) - 4 shared documents
 - [Libya](../locations/libya.md) - 4 shared documents
+- [Palestine](../locations/palestine.md) - 4 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 4 shared documents
 - [Syria](../locations/syria.md) - 4 shared documents
 - [the United States](../locations/the-united-states.md) - 4 shared documents
-- [Egypt](../locations/egypt.md) - 4 shared documents
-- [Palestine](../locations/palestine.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 

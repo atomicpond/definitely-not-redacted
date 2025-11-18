@@ -65,9 +65,9 @@ Top 8 documents by mention frequency:
 - [two years](two-years.md) - 6 shared documents
 - [2014](2014.md) - 6 shared documents
 - [three years](three-years.md) - 5 shared documents
-- [a day](a-day.md) - 5 shared documents
-- [daily](daily.md) - 5 shared documents
-- [last year](last-year.md) - 5 shared documents
+- [14](14.md) - 5 shared documents
+- [1980](1980.md) - 5 shared documents
+- [2002](2002.md) - 5 shared documents
 - [2006](2006.md) - 5 shared documents
 
 ## Timeline

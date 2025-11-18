@@ -29,16 +29,16 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Brad Edwards](brad-edwards.md) - 26 shared documents
 - [Paul Cassell](paul-cassell.md) - 21 shared documents
 - [Jane Doe](jane-doe.md) - 19 shared documents
-- [Bradley Edwards](bradley-edwards.md) - 18 shared documents
 - [New Mexico](new-mexico.md) - 15 shared documents
-- [Bradley J. Edwards](bradley-j-edwards.md) - 15 shared documents
 - [Rights Act](rights-act.md) - 13 shared documents
 - [Sarah Kellen](sarah-kellen.md) - 12 shared documents
 - [Paul G. Cassell](paul-g-cassell.md) - 11 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 10 shared documents
+- [Jean Luc Brunel](jean-luc-brunel.md) - 9 shared documents
+- [Kenneth Starr](kenneth-starr.md) - 9 shared documents
+- [Jane Does](jane-does.md) - 8 shared documents
 
 **Organizations:**
 
@@ -49,7 +49,6 @@ Top 10 documents by mention frequency:
 - [Court](../organizations/court.md) - 13 shared documents
 - [CVRA](../organizations/cvra.md) - 13 shared documents
 - [Office](../organizations/office.md) - 13 shared documents
-- [HOUSE](../organizations/house.md) - 11 shared documents
 
 **Locations:**
 
@@ -59,10 +58,10 @@ Top 10 documents by mention frequency:
 - [Miami](../locations/miami.md) - 24 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 22 shared documents
 - [New York](../locations/new-york.md) - 20 shared documents
-- [United States](../locations/united-states.md) - 16 shared documents
 - [Fort Lauderdale](../locations/fort-lauderdale.md) - 16 shared documents
+- [United States](../locations/united-states.md) - 16 shared documents
 - [New Mexico](../locations/new-mexico.md) - 15 shared documents
-- [U.S.](../locations/us.md) - 14 shared documents
+- [Australia](../locations/australia.md) - 14 shared documents
 
 **Events:**
 
@@ -70,12 +69,12 @@ Top 10 documents by mention frequency:
 - [2008](../events/2008.md) - 23 shared documents
 - [13 months](../events/13-months.md) - 17 shared documents
 - [2007](../events/2007.md) - 14 shared documents
-- [today](../events/today.md) - 14 shared documents
-- [2011](../events/2011.md) - 14 shared documents
 - [2010](../events/2010.md) - 14 shared documents
+- [2011](../events/2011.md) - 14 shared documents
+- [today](../events/today.md) - 14 shared documents
+- [2002](../events/2002.md) - 13 shared documents
 - [2017](../events/2017.md) - 13 shared documents
 - [Tuesday](../events/tuesday.md) - 13 shared documents
-- [2002](../events/2002.md) - 13 shared documents
 
 ## Timeline
 

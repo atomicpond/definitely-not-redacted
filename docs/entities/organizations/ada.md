@@ -41,28 +41,25 @@ Top 9 documents by mention frequency:
 **Locations:**
 
 - [Miami](../locations/miami.md) - 7 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
 - [Florida](../locations/florida.md) - 6 shared documents
+- [United States](../locations/united-states.md) - 6 shared documents
 - [California](../locations/california.md) - 5 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
 - [D.C.](../locations/dc.md) - 5 shared documents
+- [Europe](../locations/europe.md) - 5 shared documents
 - [Virginia](../locations/virginia.md) - 5 shared documents
-- [New York, NY](../locations/new-york-ny.md) - 4 shared documents
-- [U.S.](../locations/us.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 
 - [1993](../events/1993.md) - 7 shared documents
-- [2015](../events/2015.md) - 6 shared documents
 - [2012](../events/2012.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
+- [2015](../events/2015.md) - 6 shared documents
 - [monthly](../events/monthly.md) - 6 shared documents
-- [weeks](../events/weeks.md) - 5 shared documents
-- [one year](../events/one-year.md) - 5 shared documents
-- [three years](../events/three-years.md) - 5 shared documents
+- [years](../events/years.md) - 6 shared documents
 - [1983](../events/1983.md) - 5 shared documents
 - [1995](../events/1995.md) - 5 shared documents
+- [one year](../events/one-year.md) - 5 shared documents
+- [three years](../events/three-years.md) - 5 shared documents
+- [weeks](../events/weeks.md) - 5 shared documents
 
 ## Timeline
 

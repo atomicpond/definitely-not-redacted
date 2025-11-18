@@ -29,7 +29,6 @@ Top 8 documents by mention frequency:
 
 - [Middle East](middle-east.md) - 6 shared documents
 - [White House](white-house.md) - 6 shared documents
-- [President Obama](president-obama.md) - 5 shared documents
 - [Los Angeles](los-angeles.md) - 4 shared documents
 - [New Jersey](new-jersey.md) - 4 shared documents
 - [San Francisco](san-francisco.md) - 4 shared documents
@@ -42,29 +41,29 @@ Top 8 documents by mention frequency:
 
 **Locations:**
 
-- [California](../locations/california.md) - 8 shared documents
 - [Brooklyn](../locations/brooklyn.md) - 8 shared documents
+- [California](../locations/california.md) - 8 shared documents
 - [Paris](../locations/paris.md) - 8 shared documents
 - [Europe](../locations/europe.md) - 7 shared documents
-- [Germany](../locations/germany.md) - 7 shared documents
 - [Florida](../locations/florida.md) - 7 shared documents
 - [France](../locations/france.md) - 7 shared documents
-- [the United States](../locations/the-united-states.md) - 7 shared documents
+- [Germany](../locations/germany.md) - 7 shared documents
+- [Israel](../locations/israel.md) - 7 shared documents
 - [New York City](../locations/new-york-city.md) - 7 shared documents
 - [Ohio](../locations/ohio.md) - 7 shared documents
 
 **Events:**
 
 - [years](../events/years.md) - 8 shared documents
-- [2009](../events/2009.md) - 7 shared documents
-- [May](../events/may.md) - 7 shared documents
-- [every day](../events/every-day.md) - 7 shared documents
 - [1981](../events/1981.md) - 7 shared documents
+- [2009](../events/2009.md) - 7 shared documents
 - [decades](../events/decades.md) - 7 shared documents
+- [every day](../events/every-day.md) - 7 shared documents
+- [May](../events/may.md) - 7 shared documents
 - [September](../events/september.md) - 7 shared documents
+- [1995](../events/1995.md) - 6 shared documents
+- [1996](../events/1996.md) - 6 shared documents
 - [2003](../events/2003.md) - 6 shared documents
-- [2007](../events/2007.md) - 6 shared documents
-- [annual](../events/annual.md) - 6 shared documents
 
 ## Timeline
 

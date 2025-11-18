@@ -37,14 +37,15 @@ Ruemmler](kathy-ruemmler.md) - 9 shared documents
 - [sultan](sultan.md) - 9 shared documents
 - [Mr. Thiel](thiel.md) - 9 shared documents
 - [bill burns](bill-burns.md) - 9 shared documents
-- [CLINTON](clinton.md) - 9 shared documents
-- [boris](boris.md) - 9 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 9 shared documents
+- [Boris Nikolic](boris-nikolic.md) - 9 shared documents
 
 **Organizations:**
 
+- [Harvard](../organizations/harvard.md) - 9 shared documents
 - [HOUSE](../organizations/house.md) - 9 shared documents
 - [iPad](../organizations/ipad.md) - 9 shared documents
-- [Harvard](../organizations/harvard.md) - 9 shared documents
 - [mongolia pres](../organizations/mongolia-pres.md) - 9 shared documents
 - [council of europe](../organizations/council-of-europe.md) - 7 shared documents
 - [lenox hill](../organizations/lenox-hill.md) - 7 shared documents
@@ -53,14 +54,13 @@ Ruemmler](kathy-ruemmler.md) - 9 shared documents
 **Locations:**
 
 - [Dubai](../locations/dubai.md) - 9 shared documents
-- [Qatar](../locations/qatar.md) - 9 shared documents
 - [India](../locations/india.md) - 9 shared documents
-- [N.Y.](../locations/ny.md) - 7 shared documents
+- [Qatar](../locations/qatar.md) - 9 shared documents
 - [D.C.](../locations/dc.md) - 7 shared documents
+- [N.Y.](../locations/ny.md) - 7 shared documents
 
 **Events:**
 
-- [this week](../events/this-week.md) - 9 shared documents
 - [1:21 AM](../events/121-am.md) - 9 shared documents
 - [6:15 AM](../events/615-am.md) - 9 shared documents
 - [7:15 AM](../events/715-am.md) - 9 shared documents
@@ -69,6 +69,7 @@ Ruemmler](kathy-ruemmler.md) - 9 shared documents
 - [next 30 minutes](../events/next-30-minutes.md) - 9 shared documents
 - [Sep 19, 2014](../events/sep-19-2014.md) - 9 shared documents
 - [Sep 19, 2014 7:09 AM](../events/sep-19-2014-709-am.md) - 9 shared documents
+- [this week](../events/this-week.md) - 9 shared documents
 - [all week](../events/all-week.md) - 8 shared documents
 
 ## Timeline

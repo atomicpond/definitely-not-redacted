@@ -31,16 +31,16 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 11 shared documents
-- [President Obama](../people/president-obama.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Merrill Lynch](../people/merrill-lynch.md) - 6 shared documents
 - [America Merrill Lynch](../people/america-merrill-lynch.md) - 5 shared documents
 - [jeffrey E.](../people/jeffrey-e.md) - 5 shared documents
 - [Paul Ryan](../people/paul-ryan.md) - 5 shared documents
-- [Barack Obama](../people/barack-obama.md) - 4 shared documents
 - [Donald 
 Trump](../people/donald-trump.md) - 4 shared documents
 - [Goldman Sachs](../people/goldman-sachs.md) - 4 shared documents
 - [Harry Reid](../people/harry-reid.md) - 4 shared documents
+- [Wealth Management](../people/wealth-management.md) - 4 shared documents
 
 **Organizations:**
 
@@ -48,8 +48,8 @@ Trump](../people/donald-trump.md) - 4 shared documents
 - [Senate](senate.md) - 14 shared documents
 - [Congress](congress.md) - 14 shared documents
 - [Trump](trump.md) - 13 shared documents
-- [GOP](gop.md) - 9 shared documents
 - [Fed](fed.md) - 9 shared documents
+- [GOP](gop.md) - 9 shared documents
 - [the White House](the-white-house.md) - 8 shared documents
 - [White House](white-house.md) - 8 shared documents
 - [ACA](aca.md) - 7 shared documents
@@ -60,25 +60,22 @@ Trump](../people/donald-trump.md) - 4 shared documents
 - [America](../locations/america.md) - 9 shared documents
 - [Europe](../locations/europe.md) - 8 shared documents
 - [Washington](../locations/washington.md) - 8 shared documents
+- [Canada](../locations/canada.md) - 7 shared documents
 - [China](../locations/china.md) - 7 shared documents
 - [Japan](../locations/japan.md) - 7 shared documents
-- [Canada](../locations/canada.md) - 7 shared documents
 - [the United States](../locations/the-united-states.md) - 7 shared documents
-- [New York](../locations/new-york.md) - 6 shared documents
-- [California](../locations/california.md) - 6 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 12 shared documents
 - [this year](../events/this-year.md) - 10 shared documents
-- [2018](../events/2018.md) - 9 shared documents
 - [2009](../events/2009.md) - 9 shared documents
 - [2014](../events/2014.md) - 9 shared documents
 - [2015](../events/2015.md) - 9 shared documents
+- [2018](../events/2018.md) - 9 shared documents
 - [annual](../events/annual.md) - 9 shared documents
-- [2016](../events/2016.md) - 8 shared documents
 - [2012](../events/2012.md) - 8 shared documents
+- [2016](../events/2016.md) - 8 shared documents
 - [2017](../events/2017.md) - 8 shared documents
 
 ## Timeline

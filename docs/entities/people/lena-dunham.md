@@ -34,8 +34,8 @@ Top 10 documents by mention frequency:
 - [David Brooks](david-brooks.md) - 6 shared documents
 - [Lisa New 
 Sent](lisa-new-sent.md) - 5 shared documents
-- [jeffrey E.](jeffrey-e.md) - 5 shared documents
 - [Alfre Woodard](alfre-woodard.md) - 5 shared documents
+- [jeffrey E.](jeffrey-e.md) - 5 shared documents
 - [Rafael Campo](rafael-campo.md) - 4 shared documents
 - [Herbie Hancock](herbie-hancock.md) - 4 shared documents
 
@@ -48,8 +48,8 @@ Sent](lisa-new-sent.md) - 5 shared documents
 
 - [templeton](../locations/templeton.md) - 6 shared documents
 - [Harlem](../locations/harlem.md) - 5 shared documents
-- [London](../locations/london.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
+- [London](../locations/london.md) - 4 shared documents
 
 **Events:**
 

@@ -25,7 +25,6 @@ Top 6 documents by mention frequency:
 
 **People:**
 
-- [President Obama](president-obama.md) - 5 shared documents
 - [President Reagan](president-reagan.md) - 5 shared documents
 - [White House](white-house.md) - 5 shared documents
 - [Jimmy Carter](jimmy-carter.md) - 5 shared documents
@@ -39,31 +38,27 @@ Top 6 documents by mention frequency:
 **Organizations:**
 
 - [State](../organizations/state.md) - 6 shared documents
-- [White House](../organizations/white-house.md) - 4 shared documents
 
 **Locations:**
 
 - [California](../locations/california.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 - [West Virginia](../locations/west-virginia.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
 
 **Events:**
 
-- [year](../events/year.md) - 6 shared documents
 - [1981](../events/1981.md) - 6 shared documents
 - [two-year](../events/two-year.md) - 6 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [monthly](../events/monthly.md) - 5 shared documents
-- [May](../events/may.md) - 5 shared documents
-- [months](../events/months.md) - 5 shared documents
-- [1984](../events/1984.md) - 5 shared documents
-- [the years](../events/the-years.md) - 5 shared documents
+- [year](../events/year.md) - 6 shared documents
+- [1961](../events/1961.md) - 5 shared documents
 - [1976](../events/1976.md) - 5 shared documents
+- [1984](../events/1984.md) - 5 shared documents
+- [1988](../events/1988.md) - 5 shared documents
+- [1992](../events/1992.md) - 5 shared documents
+- [May](../events/may.md) - 5 shared documents
+- [monthly](../events/monthly.md) - 5 shared documents
 
 ## Timeline
 

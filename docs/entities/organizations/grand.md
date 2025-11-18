@@ -33,29 +33,29 @@ Top 7 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
 - [Miami](../locations/miami.md) - 5 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 5 shared documents
-- [West Palm Beach](../locations/west-palm-beach.md) - 5 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 5 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [United States](../locations/united-states.md) - 5 shared documents
+- [West Palm Beach](../locations/west-palm-beach.md) - 5 shared documents
+- [Africa](../locations/africa.md) - 4 shared documents
 - [California](../locations/california.md) - 4 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 4 shared documents
-- [Africa](../locations/africa.md) - 4 shared documents
 
 **Events:**
 
+- [14](../events/14.md) - 4 shared documents
+- [14-year-old](../events/14-year-old.md) - 4 shared documents
+- [16](../events/16.md) - 4 shared documents
 - [2003](../events/2003.md) - 4 shared documents
 - [2004](../events/2004.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
+- [April](../events/april.md) - 4 shared documents
 - [daily](../events/daily.md) - 4 shared documents
-- [this week](../events/this-week.md) - 4 shared documents
+- [last month](../events/last-month.md) - 4 shared documents
 - [May](../events/may.md) - 4 shared documents
 - [months](../events/months.md) - 4 shared documents
-- [last month](../events/last-month.md) - 4 shared documents
-- [April](../events/april.md) - 4 shared documents
-- [16](../events/16.md) - 4 shared documents
 
 ## Timeline
 

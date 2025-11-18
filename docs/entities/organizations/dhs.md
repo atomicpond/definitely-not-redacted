@@ -36,20 +36,20 @@ Top 10 documents by mention frequency:
 - [Pentagon](pentagon.md) - 5 shared documents
 - [Senate](senate.md) - 5 shared documents
 - [the Department of Justice](the-department-of-justice.md) - 5 shared documents
-- [Congress](congress.md) - 5 shared documents
 - [CIA](cia.md) - 5 shared documents
+- [Congress](congress.md) - 5 shared documents
 
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 7 shared documents
 - [Washington](../locations/washington.md) - 6 shared documents
-- [California](../locations/california.md) - 5 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
-- [USA](../locations/usa.md) - 5 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
-- [London](../locations/london.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [California](../locations/california.md) - 5 shared documents
+- [England](../locations/england.md) - 5 shared documents
+- [Europe](../locations/europe.md) - 5 shared documents
+- [Hong Kong](../locations/hong-kong.md) - 5 shared documents
+- [London](../locations/london.md) - 5 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
 - [Miami](../locations/miami.md) - 5 shared documents
 
 **Events:**
@@ -57,13 +57,13 @@ Top 10 documents by mention frequency:
 - [annual](../events/annual.md) - 6 shared documents
 - [July](../events/july.md) - 6 shared documents
 - [2004](../events/2004.md) - 5 shared documents
-- [Thursday](../events/thursday.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [August](../events/august.md) - 5 shared documents
-- [May](../events/may.md) - 5 shared documents
 - [2005](../events/2005.md) - 5 shared documents
+- [2006](../events/2006.md) - 5 shared documents
 - [2008](../events/2008.md) - 5 shared documents
+- [2010](../events/2010.md) - 5 shared documents
+- [August](../events/august.md) - 5 shared documents
+- [December](../events/december.md) - 5 shared documents
+- [Friday](../events/friday.md) - 5 shared documents
 
 ## Timeline
 

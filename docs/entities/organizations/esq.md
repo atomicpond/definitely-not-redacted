@@ -32,27 +32,27 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 5 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
-- [U.S.](../locations/us.md) - 4 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 5 shared documents
 - [Miami](../locations/miami.md) - 4 shared documents
 - [New Mexico](../locations/new-mexico.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
+- [the Southern District](../locations/the-southern-district.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
+- [U.S.](../locations/us.md) - 4 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
 - [one year](../events/one-year.md) - 5 shared documents
-- [Thursday](../events/thursday.md) - 4 shared documents
-- [2005](../events/2005.md) - 4 shared documents
-- [16](../events/16.md) - 4 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [14](../events/14.md) - 4 shared documents
+- [16](../events/16.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
 - [25](../events/25.md) - 4 shared documents
 - [the day](../events/the-day.md) - 4 shared documents
+- [Thursday](../events/thursday.md) - 4 shared documents
 
 ## Timeline
 

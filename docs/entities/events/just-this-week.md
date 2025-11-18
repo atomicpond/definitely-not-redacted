@@ -54,11 +54,11 @@ Top 5 documents by mention frequency:
 - [the day](the-day.md) - 5 shared documents
 - [the mid 1950s](the-mid-1950s.md) - 5 shared documents
 - [week](week.md) - 5 shared documents
+- [1991](1991.md) - 5 shared documents
+- [2/8/2013](2-8-2013.md) - 5 shared documents
 - [70](70.md) - 5 shared documents
 - [daily](daily.md) - 5 shared documents
 - [decades](decades.md) - 5 shared documents
-- [1991](1991.md) - 5 shared documents
-- [2/8/2013](2-8-2013.md) - 5 shared documents
 - [February 8, 2013](february-8-2013.md) - 5 shared documents
 
 ## Timeline

@@ -34,9 +34,10 @@ Top 10 documents by mention frequency:
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 9 shared documents
 - [Wall 
 Street](../people/wall-street.md) - 8 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 7 shared documents
 - [Boris Nikolic 
 Subject](../people/boris-nikolic-subject.md) - 7 shared documents
-- [CLINTON](../people/clinton.md) - 7 shared documents
 - [Floor New York](../people/floor-new-york.md) - 7 shared documents
 - [Guy](../people/guy.md) - 7 shared documents
 - [Hi Kevin](../people/hi-kevin.md) - 7 shared documents
@@ -70,8 +71,8 @@ Schuster](../organizations/magdalena-schuster.md) - 5 shared documents
 - [May 07, 2012](may-07-2012.md) - 9 shared documents
 - [Monday, May 07, 2012](monday-may-07-2012.md) - 9 shared documents
 - [2012](2012.md) - 9 shared documents
-- [Friday](friday.md) - 9 shared documents
 - [5/7/2012](572012.md) - 9 shared documents
+- [Friday](friday.md) - 9 shared documents
 - [May 03, 2012](may-03-2012.md) - 7 shared documents
 - [Thursday, May 03](thursday-may-03.md) - 7 shared documents
 - [afternoon](afternoon.md) - 7 shared documents

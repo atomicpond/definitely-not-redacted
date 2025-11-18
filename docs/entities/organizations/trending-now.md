@@ -28,7 +28,7 @@ Top 7 documents by mention frequency:
 
 - [Barrack Jr](../people/barrack-jr.md) - 7 shared documents
 - [Democracy Dies](../people/democracy-dies.md) - 7 shared documents
-- [Lawrence Summers](../people/lawrence-summers.md) - 6 shared documents
+- [Larry Summers](../people/larry-summers.md) - 6 shared documents
 - [barrack](../people/barrack.md) - 4 shared documents
 - [Thomas J. Barrack Jr.](../people/thomas-j-barrack-jr.md) - 4 shared documents
 
@@ -39,8 +39,8 @@ Top 7 documents by mention frequency:
 - [Trump](trump.md) - 4 shared documents
 - [HOUSE](house.md) - 4 shared documents
 - [iPad](ipad.md) - 4 shared documents
-- [Softbank](softbank.md) - 4 shared documents
 - [PIF](pif.md) - 4 shared documents
+- [Softbank](softbank.md) - 4 shared documents
 
 **Locations:**
 

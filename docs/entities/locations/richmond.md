@@ -31,8 +31,9 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 5 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 4 shared documents
 - [Los Angeles](../people/los-angeles.md) - 4 shared documents
-- [President Trump](../people/president-trump.md) - 4 shared documents
 - [San Francisco](../people/san-francisco.md) - 4 shared documents
 
 **Organizations:**
@@ -58,21 +59,21 @@ Top 10 documents by mention frequency:
 - [the United States](the-united-states.md) - 5 shared documents
 - [United States](united-states.md) - 5 shared documents
 - [Washington](washington.md) - 5 shared documents
-- [New York, NY](new-york-ny.md) - 5 shared documents
+- [America](america.md) - 5 shared documents
 - [Europe](europe.md) - 5 shared documents
 
 **Events:**
 
 - [2007](../events/2007.md) - 6 shared documents
+- [2013](../events/2013.md) - 6 shared documents
 - [today](../events/today.md) - 6 shared documents
 - [years](../events/years.md) - 6 shared documents
-- [2013](../events/2013.md) - 6 shared documents
-- [2003](../events/2003.md) - 5 shared documents
-- [2015](../events/2015.md) - 5 shared documents
-- [annual](../events/annual.md) - 5 shared documents
-- [Thursday](../events/thursday.md) - 5 shared documents
+- [1983](../events/1983.md) - 5 shared documents
+- [1987](../events/1987.md) - 5 shared documents
+- [1995](../events/1995.md) - 5 shared documents
+- [1997](../events/1997.md) - 5 shared documents
 - [2000](../events/2000.md) - 5 shared documents
-- [2012](../events/2012.md) - 5 shared documents
+- [2001](../events/2001.md) - 5 shared documents
 
 ## Timeline
 

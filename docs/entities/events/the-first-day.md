@@ -57,9 +57,9 @@ Top 10 documents by mention frequency:
 - [three years](three-years.md) - 8 shared documents
 - [two years](two-years.md) - 8 shared documents
 - [yesterday](yesterday.md) - 8 shared documents
-- [months](months.md) - 8 shared documents
-- [many years](many-years.md) - 8 shared documents
 - [decades](decades.md) - 8 shared documents
+- [many years](many-years.md) - 8 shared documents
+- [months](months.md) - 8 shared documents
 - [Wednesday](wednesday.md) - 7 shared documents
 
 ## Timeline

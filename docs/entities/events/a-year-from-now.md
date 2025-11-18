@@ -30,11 +30,10 @@ Top 8 documents by mention frequency:
 - [Brown](../people/brown.md) - 7 shared documents
 - [Charlie Rose](../people/charlie-rose.md) - 7 shared documents
 - [Connolly](../people/connolly.md) - 7 shared documents
-- [Epstein](../people/epstein.md) - 7 shared documents
 - [JAMES PATTERSON](../people/james-patterson.md) - 7 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 7 shared documents
 - [john Connolly](../people/john-connolly.md) - 7 shared documents
 - [Patterson](../people/patterson.md) - 7 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 6 shared documents
 - [Kathy 
 Ruemmler](../people/kathy-ruemmler.md) - 6 shared documents
 - [Michael Wolff](../people/michael-wolff.md) - 6 shared documents

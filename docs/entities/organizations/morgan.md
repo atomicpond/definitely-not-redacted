@@ -41,23 +41,23 @@ Top 8 documents by mention frequency:
 - [U.S.](../locations/us.md) - 6 shared documents
 - [United States](../locations/united-states.md) - 6 shared documents
 - [Virginia](../locations/virginia.md) - 5 shared documents
+- [Denver](../locations/denver.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
 - [London](../locations/london.md) - 4 shared documents
-- [Denver](../locations/denver.md) - 4 shared documents
 - [Salt Lake City](../locations/salt-lake-city.md) - 4 shared documents
 
 **Events:**
 
-- [2009](../events/2009.md) - 5 shared documents
-- [2015](../events/2015.md) - 5 shared documents
-- [2016](../events/2016.md) - 5 shared documents
-- [2012](../events/2012.md) - 5 shared documents
-- [2011](../events/2011.md) - 5 shared documents
 - [1999](../events/1999.md) - 5 shared documents
 - [2002](../events/2002.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
+- [2009](../events/2009.md) - 5 shared documents
+- [2011](../events/2011.md) - 5 shared documents
+- [2012](../events/2012.md) - 5 shared documents
+- [2015](../events/2015.md) - 5 shared documents
+- [2016](../events/2016.md) - 5 shared documents
+- [1976](../events/1976.md) - 4 shared documents
 - [2001](../events/2001.md) - 4 shared documents
+- [2003](../events/2003.md) - 4 shared documents
 
 ## Timeline
 

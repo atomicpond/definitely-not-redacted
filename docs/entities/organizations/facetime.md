@@ -26,7 +26,7 @@ Top 6 documents by mention frequency:
 **People:**
 
 - [Jeffrey E](../people/jeffrey-e.md) - 6 shared documents
-- [jeffrey E. <](../people/jeffrey-e.md) - 6 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 6 shared documents
 - [On Fri](../people/on-fri.md) - 6 shared documents
 - [Biological Breakthrough](../people/biological-breakthrough.md) - 5 shared documents
 - [Blahblahs](../people/blahblahs.md) - 5 shared documents
@@ -60,14 +60,14 @@ Top 6 documents by mention frequency:
 
 - [2016](../events/2016.md) - 6 shared documents
 - [today](../events/today.md) - 6 shared documents
-- [2018](../events/2018.md) - 5 shared documents
-- [2017](../events/2017.md) - 5 shared documents
-- [May](../events/may.md) - 5 shared documents
-- [recent years](../events/recent-years.md) - 5 shared documents
-- [weekend](../events/weekend.md) - 5 shared documents
-- [late-afternoon](../events/late-afternoon.md) - 5 shared documents
-- [This morning](../events/this-morning.md) - 5 shared documents
 - [12/31/2017](../events/12312017.md) - 5 shared documents
+- [12:50 AM](../events/1250-am.md) - 5 shared documents
+- [1:45 AM](../events/145-am.md) - 5 shared documents
+- [2017](../events/2017.md) - 5 shared documents
+- [2018](../events/2018.md) - 5 shared documents
+- [3:21 PM](../events/321-pm.md) - 5 shared documents
+- [3:27 PM](../events/327-pm.md) - 5 shared documents
+- [5:30 pm / early evening](../events/530-pm-early-evening.md) - 5 shared documents
 
 ## Timeline
 

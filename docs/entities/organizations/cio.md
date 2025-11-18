@@ -44,27 +44,27 @@ Top 10 documents by mention frequency:
 
 - [China](../locations/china.md) - 7 shared documents
 - [Singapore](../locations/singapore.md) - 7 shared documents
-- [Germany](../locations/germany.md) - 6 shared documents
-- [London](../locations/london.md) - 6 shared documents
 - [Florida](../locations/florida.md) - 6 shared documents
 - [France](../locations/france.md) - 6 shared documents
+- [Germany](../locations/germany.md) - 6 shared documents
+- [London](../locations/london.md) - 6 shared documents
 - [New York City](../locations/new-york-city.md) - 6 shared documents
 - [Paris](../locations/paris.md) - 6 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
+- [Asia](../locations/asia.md) - 5 shared documents
+- [Australia](../locations/australia.md) - 5 shared documents
 
 **Events:**
 
 - [monthly](../events/monthly.md) - 6 shared documents
 - [the year](../events/the-year.md) - 6 shared documents
+- [2002](../events/2002.md) - 5 shared documents
 - [2003](../events/2003.md) - 5 shared documents
 - [2004](../events/2004.md) - 5 shared documents
-- [six months](../events/six-months.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
 - [last year](../events/last-year.md) - 5 shared documents
-- [this year](../events/this-year.md) - 5 shared documents
-- [2002](../events/2002.md) - 5 shared documents
 - [September](../events/september.md) - 5 shared documents
+- [six months](../events/six-months.md) - 5 shared documents
+- [this year](../events/this-year.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
 
 ## Timeline
 

@@ -34,37 +34,37 @@ Top 5 documents by mention frequency:
 **Organizations:**
 
 - [Facebook](facebook.md) - 5 shared documents
-- [Harvard](harvard.md) - 5 shared documents
 - [Google](google.md) - 5 shared documents
+- [Harvard](harvard.md) - 5 shared documents
 - [Microsoft](microsoft.md) - 5 shared documents
 - [Stanford University](stanford-university.md) - 5 shared documents
 - [Yahoo](yahoo.md) - 4 shared documents
-- [HOUSE](house.md) - 4 shared documents
-- [Harvard University](harvard-university.md) - 4 shared documents
-- [Supreme Court](supreme-court.md) - 4 shared documents
-- [NASA](nasa.md) - 4 shared documents
+- [American Express](american-express.md) - 4 shared documents
+- [Business Development](business-development.md) - 4 shared documents
+- [CFO](cfo.md) - 4 shared documents
+- [eBay](ebay.md) - 4 shared documents
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 5 shared documents
-- [U.S.](../locations/us.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [Germany](../locations/germany.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
+- [U.S.](../locations/us.md) - 5 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 4 shared documents
+- [Indiana](../locations/indiana.md) - 4 shared documents
 - [Iraq](../locations/iraq.md) - 4 shared documents
-- [New York City](../locations/new-york-city.md) - 4 shared documents
-- [San Francisco](../locations/san-francisco.md) - 4 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
 
 **Events:**
 
 - [2007](../events/2007.md) - 5 shared documents
 - [2009](../events/2009.md) - 5 shared documents
 - [2011](../events/2011.md) - 5 shared documents
-- [2014](../events/2014.md) - 4 shared documents
 - [2008](../events/2008.md) - 4 shared documents
 - [2013](../events/2013.md) - 4 shared documents
+- [2014](../events/2014.md) - 4 shared documents
 - [weekly](../events/weekly.md) - 4 shared documents
 
 ## Timeline

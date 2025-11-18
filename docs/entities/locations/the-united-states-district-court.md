@@ -49,23 +49,23 @@ Top 8 documents by mention frequency:
 - [the Southern District](the-southern-district.md) - 6 shared documents
 - [the United States](the-united-states.md) - 6 shared documents
 - [West Palm Beach](west-palm-beach.md) - 5 shared documents
-- [Florida](florida.md) - 5 shared documents
-- [Salt Lake City](salt-lake-city.md) - 5 shared documents
 - [Fla.](fla.md) - 5 shared documents
+- [Florida](florida.md) - 5 shared documents
 - [Palm Beach County](palm-beach-county.md) - 5 shared documents
+- [Salt Lake City](salt-lake-city.md) - 5 shared documents
 
 **Events:**
 
 - [2008](../events/2008.md) - 6 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [1999](../events/1999.md) - 5 shared documents
 - [1989](../events/1989.md) - 5 shared documents
-- [2015](../events/2015.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
-- [2011](../events/2011.md) - 4 shared documents
-- [1993](../events/1993.md) - 4 shared documents
-- [1998](../events/1998.md) - 4 shared documents
-- [2001](../events/2001.md) - 4 shared documents
+- [1999](../events/1999.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
+- [13](../events/13.md) - 4 shared documents
+- [16](../events/16.md) - 4 shared documents
+- [1972](../events/1972.md) - 4 shared documents
+- [1983](../events/1983.md) - 4 shared documents
+- [1984](../events/1984.md) - 4 shared documents
+- [1988](../events/1988.md) - 4 shared documents
 
 ## Timeline
 

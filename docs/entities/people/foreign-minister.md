@@ -36,27 +36,27 @@ States](united-states.md) - 5 shared documents
 **Locations:**
 
 - [Africa](../locations/africa.md) - 5 shared documents
-- [China](../locations/china.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [China](../locations/china.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
 - [US](../locations/us.md) - 5 shared documents
-- [Middle East](../locations/middle-east.md) - 4 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 4 shared documents
+- [Asia](../locations/asia.md) - 4 shared documents
+- [Egypt](../locations/egypt.md) - 4 shared documents
+- [France](../locations/france.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
 - [decades](../events/decades.md) - 5 shared documents
-- [last week](../events/last-week.md) - 4 shared documents
+- [today](../events/today.md) - 5 shared documents
+- [1967](../events/1967.md) - 4 shared documents
+- [1991](../events/1991.md) - 4 shared documents
 - [1993](../events/1993.md) - 4 shared documents
 - [January](../events/january.md) - 4 shared documents
+- [last week](../events/last-week.md) - 4 shared documents
 - [recent years](../events/recent-years.md) - 4 shared documents
-- [1967](../events/1967.md) - 4 shared documents
 - [the day](../events/the-day.md) - 4 shared documents
-- [1991](../events/1991.md) - 4 shared documents
 
 ## Timeline
 

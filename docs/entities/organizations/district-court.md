@@ -49,11 +49,11 @@ Top 10 documents by mention frequency:
 - [Court](court.md) - 17 shared documents
 - [State](state.md) - 14 shared documents
 - [White House](white-house.md) - 12 shared documents
-- [Congress](congress.md) - 12 shared documents
 - [Justice](justice.md) - 11 shared documents
 - [Senate](senate.md) - 11 shared documents
 - [the Justice Department](the-justice-department.md) - 11 shared documents
 - [Harvard](harvard.md) - 10 shared documents
+- [Maxwell](maxwell.md) - 9 shared documents
 
 **Locations:**
 
@@ -63,8 +63,8 @@ Top 10 documents by mention frequency:
 - [the United States](../locations/the-united-states.md) - 19 shared documents
 - [California](../locations/california.md) - 17 shared documents
 - [Virginia](../locations/virginia.md) - 16 shared documents
-- [U.S.](../locations/us.md) - 15 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 15 shared documents
+- [U.S.](../locations/us.md) - 15 shared documents
 - [London](../locations/london.md) - 14 shared documents
 - [the Southern District](../locations/the-southern-district.md) - 14 shared documents
 
@@ -73,13 +73,13 @@ Top 10 documents by mention frequency:
 - [today](../events/today.md) - 20 shared documents
 - [2004](../events/2004.md) - 16 shared documents
 - [2007](../events/2007.md) - 16 shared documents
-- [annual](../events/annual.md) - 15 shared documents
-- [2011](../events/2011.md) - 15 shared documents
 - [2008](../events/2008.md) - 15 shared documents
-- [Wednesday](../events/wednesday.md) - 14 shared documents
+- [2011](../events/2011.md) - 15 shared documents
+- [annual](../events/annual.md) - 15 shared documents
 - [1999](../events/1999.md) - 14 shared documents
 - [2001](../events/2001.md) - 14 shared documents
 - [2005](../events/2005.md) - 14 shared documents
+- [Wednesday](../events/wednesday.md) - 14 shared documents
 
 ## Timeline
 

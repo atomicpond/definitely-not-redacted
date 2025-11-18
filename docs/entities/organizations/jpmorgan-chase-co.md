@@ -41,8 +41,8 @@ Chief](../people/michael-cembalest-chief.md) - 7 shared documents
 **Organizations:**
 
 - [the Federal Deposit Insurance Corporation](the-federal-deposit-insurance-corporation.md) - 11 shared documents
-- [Congress](congress.md) - 11 shared documents
 - [Bank](bank.md) - 11 shared documents
+- [Congress](congress.md) - 11 shared documents
 - [NYSE](nyse.md) - 10 shared documents
 - [SIPC](sipc.md) - 10 shared documents
 - [FINRA](finra.md) - 10 shared documents
@@ -58,9 +58,9 @@ Morgan](jp-morgan.md) - 9 shared documents
 - [Asia](../locations/asia.md) - 10 shared documents
 - [Spain](../locations/spain.md) - 10 shared documents
 - [Japan](../locations/japan.md) - 9 shared documents
-- [Russia](../locations/russia.md) - 8 shared documents
 - [Italy](../locations/italy.md) - 8 shared documents
 - [N.A](../locations/na.md) - 8 shared documents
+- [Russia](../locations/russia.md) - 8 shared documents
 - [China](../locations/china.md) - 7 shared documents
 - [Europe](../locations/europe.md) - 7 shared documents
 - [Greece](../locations/greece.md) - 7 shared documents
@@ -72,8 +72,11 @@ Morgan](jp-morgan.md) - 9 shared documents
 - [2012](../events/2012.md) - 7 shared documents
 - [next year](../events/next-year.md) - 6 shared documents
 - [the year](../events/the-year.md) - 6 shared documents
-- [today](../events/today.md) - 5 shared documents
 - [1970](../events/1970.md) - 5 shared documents
+- [1980](../events/1980.md) - 5 shared documents
+- [2013](../events/2013.md) - 5 shared documents
+- [January](../events/january.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
 
 ## Timeline
 

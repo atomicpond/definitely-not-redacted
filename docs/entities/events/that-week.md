@@ -30,7 +30,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [larry](../people/larry.md) - 8 shared documents
+- [Lawrence Krauss](../people/lawrence-krauss.md) - 8 shared documents
 - [Ken Starr](../people/ken-starr.md) - 7 shared documents
 - [Lesley Groff](../people/lesley-groff.md) - 7 shared documents
 - [Vanity Fair](../people/vanity-fair.md) - 6 shared documents
@@ -62,15 +62,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [the week](the-week.md) - 9 shared documents
-- [Sunday](sunday.md) - 8 shared documents
 - [Nov 16, 2017](nov-16-2017.md) - 8 shared documents
+- [Sunday](sunday.md) - 8 shared documents
 - [sunday the 26th](sunday-the-26th.md) - 8 shared documents
 - [Thu, Nov 16, 2017](thu-nov-16-2017.md) - 7 shared documents
 - [today](today.md) - 7 shared documents
 - [the day](the-day.md) - 6 shared documents
 - [the next day](the-next-day.md) - 6 shared documents
+- [2005](2005.md) - 6 shared documents
 - [2007](2007.md) - 6 shared documents
-- [2016](2016.md) - 6 shared documents
 
 ## Timeline
 

@@ -68,9 +68,9 @@ Clinton](../people/bill-clinton.md) - 20 shared documents
 - [2003](../events/2003.md) - 34 shared documents
 - [2001](../events/2001.md) - 31 shared documents
 - [last week](../events/last-week.md) - 28 shared documents
-- [today](../events/today.md) - 27 shared documents
-- [a year](../events/a-year.md) - 27 shared documents
 - [1981](../events/1981.md) - 27 shared documents
+- [a year](../events/a-year.md) - 27 shared documents
+- [today](../events/today.md) - 27 shared documents
 - [2015](../events/2015.md) - 26 shared documents
 - [weeks](../events/weeks.md) - 26 shared documents
 - [many years](../events/many-years.md) - 25 shared documents

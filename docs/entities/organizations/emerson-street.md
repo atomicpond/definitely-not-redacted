@@ -40,21 +40,21 @@ Alto](../people/palo-alto.md) - 5 shared documents
 - [Flipboard, Inc.](flipboard-inc.md) - 7 shared documents
 - [Trump](trump.md) - 6 shared documents
 - [Flipboard, Inc.](flipboard-inc.md) - 5 shared documents
-- [CNN](cnn.md) - 4 shared documents
 - [Apple](apple.md) - 4 shared documents
+- [CNN](cnn.md) - 4 shared documents
 
 **Locations:**
 
 - [Palo Alto](../locations/palo-alto.md) - 13 shared documents
 - [735 Emerson Street](../locations/735-emerson-street.md) - 9 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 - [New York City](../locations/new-york-city.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 
 - [2019](../events/2019.md) - 13 shared documents
-- [Thursday](../events/thursday.md) - 4 shared documents
 - [Friday](../events/friday.md) - 4 shared documents
+- [Thursday](../events/thursday.md) - 4 shared documents
 
 ## Timeline
 

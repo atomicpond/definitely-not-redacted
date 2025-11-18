@@ -46,25 +46,25 @@ Top 5 documents by mention frequency:
 - [New Mexico](../locations/new-mexico.md) - 5 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 5 shared documents
 - [California](../locations/california.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
 - [London](../locations/london.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
 - [Manhattan](../locations/manhattan.md) - 4 shared documents
 - [New York City](../locations/new-york-city.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 4 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
-- [Sunday](../events/sunday.md) - 5 shared documents
 - [2005](../events/2005.md) - 5 shared documents
-- [the next day](../events/the-next-day.md) - 5 shared documents
+- [Sunday](../events/sunday.md) - 5 shared documents
 - [the day](../events/the-day.md) - 5 shared documents
+- [the next day](../events/the-next-day.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
+- [16](../events/16.md) - 4 shared documents
 - [2004](../events/2004.md) - 4 shared documents
-- [daily](../events/daily.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
-- [May](../events/may.md) - 4 shared documents
-- [months](../events/months.md) - 4 shared documents
+- [2006](../events/2006.md) - 4 shared documents
+- [a year](../events/a-year.md) - 4 shared documents
+- [Christmas](../events/christmas.md) - 4 shared documents
 
 ## Timeline
 

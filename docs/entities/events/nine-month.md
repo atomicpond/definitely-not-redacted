@@ -24,8 +24,8 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [August](august.md) - 5 shared documents
 - [2013](2013.md) - 5 shared documents
+- [August](august.md) - 5 shared documents
 
 ## Timeline
 

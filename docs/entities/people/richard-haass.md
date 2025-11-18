@@ -26,7 +26,7 @@ Top 5 documents by mention frequency:
 
 - [Security Council](security-council.md) - 4 shared documents
 - [White House](white-house.md) - 4 shared documents
-- [President Obama](president-obama.md) - 4 shared documents
+- [Barack Obama](barack-obama.md) - 4 shared documents
 
 **Organizations:**
 
@@ -35,9 +35,9 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
+- [Afghanistan](../locations/afghanistan.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
 - [Iraq](../locations/iraq.md) - 5 shared documents
-- [Afghanistan](../locations/afghanistan.md) - 5 shared documents
 - [America](../locations/america.md) - 4 shared documents
 - [the United States](../locations/the-united-states.md) - 4 shared documents
 

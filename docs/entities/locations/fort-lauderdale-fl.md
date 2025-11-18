@@ -29,12 +29,10 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Bradley J. Edwards](../people/bradley-j-edwards.md) - 9 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 8 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 9 shared documents
 - [Jack Scarola](../people/jack-scarola.md) - 8 shared documents
 - [Jane Doe](../people/jane-doe.md) - 7 shared documents
 - [Rights Act](../people/rights-act.md) - 7 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 6 shared documents
 - [Crime Victims](../people/crime-victims.md) - 6 shared documents
 - [Paul G. Cassell](../people/paul-g-cassell.md) - 6 shared documents
 
@@ -67,15 +65,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [today](../events/today.md) - 8 shared documents
-- [daily](../events/daily.md) - 7 shared documents
 - [2008](../events/2008.md) - 7 shared documents
+- [daily](../events/daily.md) - 7 shared documents
 - [2009](../events/2009.md) - 6 shared documents
 - [weeks](../events/weeks.md) - 6 shared documents
+- [11](../events/11.md) - 5 shared documents
+- [12](../events/12.md) - 5 shared documents
+- [12-year-old](../events/12-year-old.md) - 5 shared documents
 - [2004](../events/2004.md) - 5 shared documents
 - [2010](../events/2010.md) - 5 shared documents
-- [12-year-old](../events/12-year-old.md) - 5 shared documents
-- [12](../events/12.md) - 5 shared documents
-- [11](../events/11.md) - 5 shared documents
 
 ## Timeline
 

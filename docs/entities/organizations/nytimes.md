@@ -31,9 +31,9 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jeffrey E](../people/jeffrey-e.md) - 13 shared documents
-- [jeffrey E. <](../people/jeffrey-e.md) - 9 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 9 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 9 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 9 shared documents
 - [Jeffrey E. 
 Sent](../people/jeffrey-e-sent.md) - 8 shared documents
 - [On Mon](../people/on-mon.md) - 8 shared documents
@@ -50,19 +50,19 @@ Sent](../people/jeffrey-e-sent.md) - 8 shared documents
 - [Radical Breakthroughs](radical-breakthroughs.md) - 7 shared documents
 - [Replicability Crisis - Problems](replicability-crisis-problems.md) - 7 shared documents
 - [UN](un.md) - 7 shared documents
-- [Harvard](harvard.md) - 7 shared documents
 - [CNN Intl](cnn-intl.md) - 7 shared documents
 - [Family](family.md) - 7 shared documents
 - [Foundations of Mathematics / Philosophy/Meaning of Math](foundations-of-mathematics-philosophymeaning-of-math.md) - 7 shared documents
+- [Harvard](harvard.md) - 7 shared documents
 - [Mathematics and Truth / Overview / Show Excitement/Importance 
 2](mathematics-and-truth-overview-show-excitementimportance-2.md) - 7 shared documents
 
 **Locations:**
 
 - [N.Y.](../locations/ny.md) - 10 shared documents
-- [New York](../locations/new-york.md) - 7 shared documents
 - [China](../locations/china.md) - 7 shared documents
 - [Florida](../locations/florida.md) - 7 shared documents
+- [New York](../locations/new-york.md) - 7 shared documents
 
 **Events:**
 
@@ -72,10 +72,10 @@ Sent](../people/jeffrey-e-sent.md) - 8 shared documents
 - [2017](../events/2017.md) - 9 shared documents
 - [September 25, 2018](../events/september-25-2018.md) - 8 shared documents
 - [Tuesday, September 25, 2018](../events/tuesday-september-25-2018.md) - 8 shared documents
-- [May](../events/may.md) - 7 shared documents
-- [recent years](../events/recent-years.md) - 7 shared documents
-- [late-afternoon](../events/late-afternoon.md) - 7 shared documents
-- [This morning](../events/this-morning.md) - 7 shared documents
+- [12:50 AM](../events/1250-am.md) - 7 shared documents
+- [1:45 AM](../events/145-am.md) - 7 shared documents
+- [5:30 pm / early evening](../events/530-pm-early-evening.md) - 7 shared documents
+- [6:19 AM](../events/619-am.md) - 7 shared documents
 
 ## Timeline
 

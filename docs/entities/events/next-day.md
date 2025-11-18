@@ -60,9 +60,9 @@ Top 10 documents by mention frequency:
 - [weeks](weeks.md) - 9 shared documents
 - [Friday](friday.md) - 9 shared documents
 - [one day](one-day.md) - 8 shared documents
+- [1992](1992.md) - 8 shared documents
 - [2007](2007.md) - 8 shared documents
-- [daily](daily.md) - 8 shared documents
-- [months](months.md) - 8 shared documents
+- [A few years later](a-few-years-later.md) - 8 shared documents
 - [a year](a-year.md) - 8 shared documents
 
 ## Timeline

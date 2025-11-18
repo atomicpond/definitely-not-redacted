@@ -25,36 +25,32 @@ Top 5 documents by mention frequency:
 **Organizations:**
 
 - [Harvard](../organizations/harvard.md) - 5 shared documents
-- [Time](../organizations/time.md) - 5 shared documents
-- [linear](../organizations/linear.md) - 5 shared documents
-- [MIT](../organizations/mit.md) - 5 shared documents
-- [Renaissance](../organizations/renaissance.md) - 5 shared documents
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 5 shared documents
-- [California](../locations/california.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
-- [London](../locations/london.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
-- [Paris](../locations/paris.md) - 5 shared documents
-- [England](../locations/england.md) - 5 shared documents
 - [Boston](../locations/boston.md) - 5 shared documents
+- [California](../locations/california.md) - 5 shared documents
+- [England](../locations/england.md) - 5 shared documents
+- [Germany](../locations/germany.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
+- [London](../locations/london.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
+- [Oxford](../locations/oxford.md) - 5 shared documents
+- [Paris](../locations/paris.md) - 5 shared documents
+- [Philadelphia](../locations/philadelphia.md) - 5 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
-- [1996](../events/1996.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [the year](../events/the-year.md) - 5 shared documents
-- [1970](../events/1970.md) - 5 shared documents
-- [1990](../events/1990.md) - 5 shared documents
-- [1993](../events/1993.md) - 5 shared documents
-- [one day](../events/one-day.md) - 5 shared documents
+- [1936](../events/1936.md) - 5 shared documents
+- [1937](../events/1937.md) - 5 shared documents
+- [1960](../events/1960.md) - 5 shared documents
+- [1961](../events/1961.md) - 5 shared documents
+- [1964](../events/1964.md) - 5 shared documents
+- [1966](../events/1966.md) - 5 shared documents
+- [1967](../events/1967.md) - 5 shared documents
 - [1968](../events/1968.md) - 5 shared documents
-- [2002](../events/2002.md) - 5 shared documents
+- [1970](../events/1970.md) - 5 shared documents
+- [1972](../events/1972.md) - 5 shared documents
 
 ## Timeline
 

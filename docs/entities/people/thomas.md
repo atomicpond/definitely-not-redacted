@@ -32,15 +32,15 @@ Top 7 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 4 shared documents
 - [District Court](../organizations/district-court.md) - 4 shared documents
+- [HOUSE](../organizations/house.md) - 4 shared documents
 
 **Locations:**
 
 - [US](../locations/us.md) - 6 shared documents
 - [New York](../locations/new-york.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
 - [Southern District](../locations/southern-district.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 4 shared documents
 
 ## Timeline
 

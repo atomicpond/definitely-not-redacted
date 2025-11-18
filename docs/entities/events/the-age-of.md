@@ -32,12 +32,12 @@ Top 5 documents by mention frequency:
 - [daily](daily.md) - 5 shared documents
 - [last year](last-year.md) - 5 shared documents
 - [many years](many-years.md) - 5 shared documents
-- [2004](2004.md) - 4 shared documents
-- [2014](2014.md) - 4 shared documents
-- [a day](a-day.md) - 4 shared documents
-- [the 1980s](the-1980s.md) - 4 shared documents
-- [Sunday](sunday.md) - 4 shared documents
 - [10-year](10-year.md) - 4 shared documents
+- [14](14.md) - 4 shared documents
+- [15 years](15-years.md) - 4 shared documents
+- [18 months](18-months.md) - 4 shared documents
+- [1953](1953.md) - 4 shared documents
+- [1974](1974.md) - 4 shared documents
 
 ## Timeline
 

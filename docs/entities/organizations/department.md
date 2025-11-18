@@ -31,11 +31,11 @@ Top 10 documents by mention frequency:
 
 - [Crime Victims](../people/crime-victims.md) - 7 shared documents
 - [Los Angeles](../people/los-angeles.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Kenneth W. Starr](../people/kenneth-w-starr.md) - 6 shared documents
 - [Pennsylvania Avenue](../people/pennsylvania-avenue.md) - 6 shared documents
-- [President Obama](../people/president-obama.md) - 6 shared documents
 - [White House](../people/white-house.md) - 6 shared documents
-- [Barack Obama](../people/barack-obama.md) - 5 shared documents
+- [District Court](../people/district-court.md) - 5 shared documents
 
 **Organizations:**
 
@@ -52,29 +52,29 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 18 shared documents
 - [the United States](../locations/the-united-states.md) - 18 shared documents
-- [Washington](../locations/washington.md) - 14 shared documents
+- [United States](../locations/united-states.md) - 18 shared documents
 - [Florida](../locations/florida.md) - 14 shared documents
-- [New York](../locations/new-york.md) - 10 shared documents
+- [Washington](../locations/washington.md) - 14 shared documents
 - [California](../locations/california.md) - 10 shared documents
 - [Miami](../locations/miami.md) - 10 shared documents
+- [New York](../locations/new-york.md) - 10 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 9 shared documents
 - [U.S.](../locations/us.md) - 9 shared documents
-- [Europe](../locations/europe.md) - 8 shared documents
+- [D.C.](../locations/dc.md) - 8 shared documents
 
 **Events:**
 
 - [2008](../events/2008.md) - 15 shared documents
 - [2011](../events/2011.md) - 14 shared documents
+- [2005](../events/2005.md) - 13 shared documents
 - [2007](../events/2007.md) - 13 shared documents
 - [2009](../events/2009.md) - 13 shared documents
-- [2005](../events/2005.md) - 13 shared documents
 - [2003](../events/2003.md) - 12 shared documents
 - [2006](../events/2006.md) - 12 shared documents
 - [today](../events/today.md) - 11 shared documents
 - [years](../events/years.md) - 11 shared documents
-- [2004](../events/2004.md) - 10 shared documents
+- [1996](../events/1996.md) - 10 shared documents
 
 ## Timeline
 

@@ -26,7 +26,7 @@ Trump](../entities/people/mr-trump.md) - 2 mentions
 - [HOUSE](../entities/organizations/house.md) - 2 mentions
 - [Trump](../entities/organizations/trump.md) - 2 mentions
 - [BuzzFeed News](../entities/organizations/buzzfeed-news.md) - 1 mention
-- [jr thomas/ind](../entities/organizations/jr-thomasind.md) - 1 mention
+- [jr thomas/ind](../entities/organizations/jr-thomas-ind.md) - 1 mention
 
 ### Events/Dates
 - [Tue, Dec 8, 2015](../entities/events/tue-dec-8-2015.md) - 5 mentions

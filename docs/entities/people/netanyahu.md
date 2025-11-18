@@ -29,11 +29,9 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Mr. Obama](obama.md) - 16 shared documents
 - [Saudi Arabia](saudi-arabia.md) - 10 shared documents
-- [Middle East](middle-east.md) - 10 shared documents
 - [Barack Obama](barack-obama.md) - 10 shared documents
-- [President Obama](president-obama.md) - 9 shared documents
+- [Middle East](middle-east.md) - 10 shared documents
 - [United 
 States](united-states.md) - 9 shared documents
 - [Benjamin Netanyahu](benjamin-netanyahu.md) - 9 shared documents
@@ -42,13 +40,16 @@ States](united-states.md) - 9 shared documents
 Korea](north-korea.md) - 6 shared documents
 - [Palestinian 
 Authority](palestinian-authority.md) - 6 shared documents
+- [Saddam Hussein](saddam-hussein.md) - 6 shared documents
+- [State
+Department](state-department.md) - 6 shared documents
 
 **Organizations:**
 
 - [Hamas](../organizations/hamas.md) - 10 shared documents
 - [State](../organizations/state.md) - 9 shared documents
-- [HOUSE](../organizations/house.md) - 8 shared documents
 - [Congress](../organizations/congress.md) - 8 shared documents
+- [HOUSE](../organizations/house.md) - 8 shared documents
 - [UN](../organizations/un.md) - 8 shared documents
 
 **Locations:**
@@ -58,9 +59,9 @@ Authority](palestinian-authority.md) - 6 shared documents
 - [US](../locations/us.md) - 15 shared documents
 - [America](../locations/america.md) - 13 shared documents
 - [Syria](../locations/syria.md) - 13 shared documents
+- [Egypt](../locations/egypt.md) - 12 shared documents
 - [Middle East](../locations/middle-east.md) - 12 shared documents
 - [the United States](../locations/the-united-states.md) - 12 shared documents
-- [Egypt](../locations/egypt.md) - 12 shared documents
 - [the Middle East](../locations/the-middle-east.md) - 11 shared documents
 - [Europe](../locations/europe.md) - 10 shared documents
 
@@ -72,7 +73,7 @@ Authority](palestinian-authority.md) - 6 shared documents
 - [last week](../events/last-week.md) - 9 shared documents
 - [2003](../events/2003.md) - 7 shared documents
 - [2007](../events/2007.md) - 7 shared documents
-- [the 1980s](../events/the-1980s.md) - 7 shared documents
+- [2008](../events/2008.md) - 7 shared documents
 
 ## Timeline
 

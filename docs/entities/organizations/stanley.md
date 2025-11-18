@@ -34,36 +34,29 @@ Top 7 documents by mention frequency:
 **Organizations:**
 
 - [Time](time.md) - 5 shared documents
-- [CIA](cia.md) - 5 shared documents
-- [Harvard](harvard.md) - 5 shared documents
 - [State](state.md) - 4 shared documents
 - [Yale](yale.md) - 4 shared documents
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
-- [London](../locations/london.md) - 6 shared documents
 - [France](../locations/france.md) - 6 shared documents
+- [London](../locations/london.md) - 6 shared documents
+- [New York](../locations/new-york.md) - 6 shared documents
 - [Paris](../locations/paris.md) - 6 shared documents
-- [California](../locations/california.md) - 5 shared documents
-- [Africa](../locations/africa.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
-- [America](../locations/america.md) - 5 shared documents
-- [Iraq](../locations/iraq.md) - 5 shared documents
+- [Russia](../locations/russia.md) - 6 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 7 shared documents
 - [years](../events/years.md) - 7 shared documents
-- [1993](../events/1993.md) - 6 shared documents
-- [months](../events/months.md) - 6 shared documents
-- [one day](../events/one-day.md) - 6 shared documents
-- [1984](../events/1984.md) - 6 shared documents
-- [2002](../events/2002.md) - 6 shared documents
-- [1972](../events/1972.md) - 6 shared documents
 - [1971](../events/1971.md) - 6 shared documents
+- [1972](../events/1972.md) - 6 shared documents
 - [1981](../events/1981.md) - 6 shared documents
+- [1984](../events/1984.md) - 6 shared documents
+- [1993](../events/1993.md) - 6 shared documents
+- [2002](../events/2002.md) - 6 shared documents
+- [decades](../events/decades.md) - 6 shared documents
+- [months](../events/months.md) - 6 shared documents
 
 ## Timeline
 

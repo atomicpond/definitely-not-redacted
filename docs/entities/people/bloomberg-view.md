@@ -28,36 +28,32 @@ Top 6 documents by mention frequency:
 - [Reuters](../organizations/reuters.md) - 6 shared documents
 - [Justice Department](../organizations/justice-department.md) - 5 shared documents
 - [The Wall Street Journal](../organizations/the-wall-street-journal.md) - 5 shared documents
-- [Senate](../organizations/senate.md) - 4 shared documents
-- [GOP](../organizations/gop.md) - 4 shared documents
-- [Washington Post](../organizations/washington-post.md) - 4 shared documents
-- [State](../organizations/state.md) - 4 shared documents
 
 **Locations:**
 
 - [Russia](../locations/russia.md) - 5 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
+- [America](../locations/america.md) - 4 shared documents
+- [Asia](../locations/asia.md) - 4 shared documents
+- [Atlantic](../locations/atlantic.md) - 4 shared documents
+- [Beijing](../locations/beijing.md) - 4 shared documents
 - [China](../locations/china.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
+- [France](../locations/france.md) - 4 shared documents
 - [Germany](../locations/germany.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
-- [London](../locations/london.md) - 4 shared documents
-- [America](../locations/america.md) - 4 shared documents
+- [India](../locations/india.md) - 4 shared documents
 
 **Events:**
 
 - [2017](../events/2017.md) - 5 shared documents
+- [1994](../events/1994.md) - 4 shared documents
+- [2001](../events/2001.md) - 4 shared documents
 - [2003](../events/2003.md) - 4 shared documents
 - [2004](../events/2004.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
+- [2006](../events/2006.md) - 4 shared documents
 - [2007](../events/2007.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
 - [2009](../events/2009.md) - 4 shared documents
-- [2014](../events/2014.md) - 4 shared documents
-- [2015](../events/2015.md) - 4 shared documents
-- [2016](../events/2016.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

@@ -35,33 +35,33 @@ The search covers:
 
 If you're not sure what to search for, try browsing by category:
 
-### [👥 People](entities/people/)
-Search through 2,195 individuals mentioned in the documents
+### [👥 People](entities/people/index.md)
+Search through 2,099 individuals mentioned in the documents
 
-### [🏢 Organizations](entities/organizations/)
+### [🏢 Organizations](entities/organizations/index.md)
 Search through 1,882 organizations, companies, and institutions
 
-### [📍 Locations](entities/locations/)
+### [📍 Locations](entities/locations/index.md)
 Search through 565 geographic locations and properties
 
-### [📅 Events & Dates](entities/events/)
+### [📅 Events & Dates](entities/events/index.md)
 Search through 1,965 significant dates and events
 
-### [📄 Documents](documents/)
+### [📄 Documents](documents/index.md)
 Browse all 2,897 documents with full text
 
 ## Common Searches
 
 Here are some common search queries to get you started:
 
-- [Jeffrey Epstein](../search.html?q=Jeffrey+Epstein)
-- [Bill Clinton](../search.html?q=Bill+Clinton)
-- [Donald Trump](../search.html?q=Donald+Trump)
-- [Email communications](../search.html?q=email)
-- [Financial documents](../search.html?q=financial)
-- [House Oversight](../search.html?q=House+Oversight)
+- Jeffrey Epstein <!-- Use search bar above to search for: Jeffrey Epstein -->
+- Bill Clinton <!-- Use search bar above to search for: Bill Clinton -->
+- Donald Trump <!-- Use search bar above to search for: Donald Trump -->
+- Email communications <!-- Use search bar above to search for: email -->
+- Financial documents <!-- Use search bar above to search for: financial -->
+- House Oversight <!-- Use search bar above to search for: House Oversight -->
 - [2008 events](entities/events/2008.md)
-- [New York locations](../search.html?q=New+York)
+- New York locations <!-- Use search bar above to search for: New York -->
 
 ## Filter by Type
 
@@ -98,16 +98,7 @@ Navigate to the person's entity page and view the "Related Entities" section.
 
 ## Visual Search
 
-For a visual exploration of entity relationships:
-
-### [🕸️ View the Relationship Graph](graph.md)
-
-The interactive graph shows connections between entities and allows you to:
-
-- See clusters of related entities
-- Identify key figures and organizations
-- Explore relationship networks
-- Filter by entity type
+For a visual exploration of entity relationships, use the search and entity pages to explore connections between people, organizations, locations, and events.
 
 ## Export Search Results
 
@@ -125,7 +116,7 @@ MkDocs search results cannot be exported directly, but you can:
 - Check spelling and try alternative names
 - Try broader search terms
 - Use the browse categories to explore
-- Check the [Relationship Graph](graph.md) for entity connections
+- Browse entity pages for connections
 
 **Too many results?**
 
@@ -137,7 +128,7 @@ MkDocs search results cannot be exported directly, but you can:
 **Looking for related information?**
 
 - Visit entity pages to see "Related Entities"
-- Use the [Relationship Graph](graph.md) to explore connections
+- Browse entity pages to explore connections
 - Check document metadata for cross-references
 
 ---

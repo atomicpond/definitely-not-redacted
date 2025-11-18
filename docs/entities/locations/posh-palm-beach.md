@@ -65,21 +65,19 @@ Beach Atlantic University](../organizations/palm-beach-atlantic-university.md) -
 - [Miami-Dade State](miami-dade-state.md) - 8 shared documents
 - [Va.](va.md) - 7 shared documents
 - [Miami](miami.md) - 7 shared documents
-- [Florida](florida.md) - 6 shared documents
-- [Manhattan](manhattan.md) - 6 shared documents
 
 **Events:**
 
-- [last year](../events/last-year.md) - 10 shared documents
-- [1984](../events/1984.md) - 10 shared documents
-- [last month](../events/last-month.md) - 10 shared documents
-- [May 1](../events/may-1.md) - 10 shared documents
 - [14](../events/14.md) - 10 shared documents
-- [1981](../events/1981.md) - 10 shared documents
-- [1991](../events/1991.md) - 10 shared documents
-- [48](../events/48.md) - 10 shared documents
 - [18](../events/18.md) - 10 shared documents
+- [1981](../events/1981.md) - 10 shared documents
+- [1984](../events/1984.md) - 10 shared documents
+- [1991](../events/1991.md) - 10 shared documents
+- [24 years](../events/24-years.md) - 10 shared documents
+- [32 years](../events/32-years.md) - 10 shared documents
+- [48](../events/48.md) - 10 shared documents
 - [53](../events/53.md) - 10 shared documents
+- [last month](../events/last-month.md) - 10 shared documents
 
 ## Timeline
 

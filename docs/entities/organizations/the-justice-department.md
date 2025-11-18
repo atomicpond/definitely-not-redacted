@@ -38,18 +38,17 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Mr. 
-Trump](../people/trump.md) - 25 shared documents
 - [Justice 
 Department](../people/justice-department.md) - 23 shared documents
 - [White House](../people/white-house.md) - 21 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 20 shared documents
-- [President Trump](../people/president-trump.md) - 20 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 19 shared documents
 - [Crime Victims](../people/crime-victims.md) - 19 shared documents
 - [Jack Goldberger](../people/jack-goldberger.md) - 19 shared documents
 - [Kenneth Starr](../people/kenneth-starr.md) - 19 shared documents
-- [Epstein](../people/epstein.md) - 17 shared documents
+- [Ken Starr](../people/ken-starr.md) - 17 shared documents
+- [New Mexico](../people/new-mexico.md) - 17 shared documents
+- [Rights Act](../people/rights-act.md) - 17 shared documents
+- [Vanity Fair](../people/vanity-fair.md) - 17 shared documents
+- [Eric Holder](../people/eric-holder.md) - 16 shared documents
 
 **Organizations:**
 
@@ -73,8 +72,8 @@ Department](../people/justice-department.md) - 23 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 35 shared documents
 - [New York](../locations/new-york.md) - 33 shared documents
 - [the United States](../locations/the-united-states.md) - 30 shared documents
-- [United States](../locations/united-states.md) - 29 shared documents
 - [America](../locations/america.md) - 29 shared documents
+- [United States](../locations/united-states.md) - 29 shared documents
 - [Europe](../locations/europe.md) - 24 shared documents
 
 **Events:**
@@ -85,9 +84,9 @@ Department](../people/justice-department.md) - 23 shared documents
 - [2009](../events/2009.md) - 26 shared documents
 - [Monday](../events/monday.md) - 26 shared documents
 - [the day](../events/the-day.md) - 26 shared documents
-- [today](../events/today.md) - 25 shared documents
-- [daily](../events/daily.md) - 25 shared documents
 - [2005](../events/2005.md) - 25 shared documents
+- [daily](../events/daily.md) - 25 shared documents
+- [today](../events/today.md) - 25 shared documents
 - [2006](../events/2006.md) - 24 shared documents
 
 ## Timeline

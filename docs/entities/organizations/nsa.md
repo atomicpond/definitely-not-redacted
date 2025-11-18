@@ -46,8 +46,8 @@ Top 10 documents by mention frequency:
 - [the New York Times](the-new-york-times.md) - 12 shared documents
 - [White House](white-house.md) - 12 shared documents
 - [FBI](fbi.md) - 12 shared documents
-- [Harvard](harvard.md) - 12 shared documents
 - [Google](google.md) - 12 shared documents
+- [Harvard](harvard.md) - 12 shared documents
 - [Facebook](facebook.md) - 11 shared documents
 - [Times](times.md) - 10 shared documents
 - [Vanity Fair](vanity-fair.md) - 10 shared documents
@@ -58,27 +58,27 @@ Top 10 documents by mention frequency:
 
 - [Paris](../locations/paris.md) - 14 shared documents
 - [Europe](../locations/europe.md) - 13 shared documents
-- [Manhattan](../locations/manhattan.md) - 12 shared documents
 - [Israel](../locations/israel.md) - 12 shared documents
+- [Manhattan](../locations/manhattan.md) - 12 shared documents
 - [America](../locations/america.md) - 11 shared documents
 - [Britain](../locations/britain.md) - 10 shared documents
 - [China](../locations/china.md) - 9 shared documents
-- [Russia](../locations/russia.md) - 9 shared documents
-- [Qatar](../locations/qatar.md) - 9 shared documents
-- [New York City](../locations/new-york-city.md) - 9 shared documents
+- [Connecticut](../locations/connecticut.md) - 9 shared documents
+- [Dallas](../locations/dallas.md) - 9 shared documents
+- [Lafayette](../locations/lafayette.md) - 9 shared documents
 
 **Events:**
 
-- [two years](../events/two-years.md) - 13 shared documents
 - [1994](../events/1994.md) - 13 shared documents
-- [daily](../events/daily.md) - 12 shared documents
-- [2006](../events/2006.md) - 12 shared documents
+- [two years](../events/two-years.md) - 13 shared documents
 - [2002](../events/2002.md) - 12 shared documents
+- [2006](../events/2006.md) - 12 shared documents
+- [daily](../events/daily.md) - 12 shared documents
 - [ten years](../events/ten-years.md) - 12 shared documents
-- [2004](../events/2004.md) - 11 shared documents
-- [the 1980s](../events/the-1980s.md) - 11 shared documents
-- [Sunday](../events/sunday.md) - 11 shared documents
+- [1980](../events/1980.md) - 11 shared documents
 - [1982](../events/1982.md) - 11 shared documents
+- [2004](../events/2004.md) - 11 shared documents
+- [Sunday](../events/sunday.md) - 11 shared documents
 
 ## Timeline
 

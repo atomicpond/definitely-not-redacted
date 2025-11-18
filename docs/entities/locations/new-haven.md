@@ -53,27 +53,27 @@ Top 9 documents by mention frequency:
 
 - [Spain](spain.md) - 7 shared documents
 - [the United States](the-united-states.md) - 7 shared documents
+- [Boston](boston.md) - 7 shared documents
 - [California](california.md) - 7 shared documents
 - [Earth](earth.md) - 7 shared documents
+- [England](england.md) - 7 shared documents
 - [France](france.md) - 7 shared documents
 - [Iraq](iraq.md) - 7 shared documents
-- [England](england.md) - 7 shared documents
-- [Boston](boston.md) - 7 shared documents
 - [San Francisco](san-francisco.md) - 6 shared documents
 - [Texas](texas.md) - 6 shared documents
 
 **Events:**
 
 - [daily](../events/daily.md) - 8 shared documents
-- [years](../events/years.md) - 8 shared documents
 - [the day](../events/the-day.md) - 8 shared documents
-- [2000](../events/2000.md) - 7 shared documents
-- [1999](../events/1999.md) - 7 shared documents
-- [2002](../events/2002.md) - 7 shared documents
-- [a year](../events/a-year.md) - 7 shared documents
+- [years](../events/years.md) - 8 shared documents
+- [1980](../events/1980.md) - 7 shared documents
 - [1989](../events/1989.md) - 7 shared documents
 - [1992](../events/1992.md) - 7 shared documents
-- [decades](../events/decades.md) - 7 shared documents
+- [1999](../events/1999.md) - 7 shared documents
+- [2000](../events/2000.md) - 7 shared documents
+- [2002](../events/2002.md) - 7 shared documents
+- [a year](../events/a-year.md) - 7 shared documents
 
 ## Timeline
 

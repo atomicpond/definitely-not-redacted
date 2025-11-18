@@ -34,12 +34,7 @@ Top 10 documents by mention frequency:
 - [Middle East](../people/middle-east.md) - 27 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 25 shared documents
 - [White House](../people/white-house.md) - 25 shared documents
-- [Barack Obama](../people/barack-obama.md) - 24 shared documents
-- [President Obama](../people/president-obama.md) - 24 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 21 shared documents
 - [Cold War](../people/cold-war.md) - 17 shared documents
-- [Gates](../people/gates.md) - 15 shared documents
 - [Federal Bureau](../people/federal-bureau.md) - 14 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 14 shared documents
 
@@ -61,8 +56,8 @@ Trump](../people/trump.md) - 21 shared documents
 - [Russia](../locations/russia.md) - 49 shared documents
 - [France](../locations/france.md) - 43 shared documents
 - [the United States](../locations/the-united-states.md) - 40 shared documents
-- [Washington](../locations/washington.md) - 39 shared documents
 - [London](../locations/london.md) - 39 shared documents
+- [Washington](../locations/washington.md) - 39 shared documents
 - [Israel](../locations/israel.md) - 37 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 36 shared documents
 - [Iraq](../locations/iraq.md) - 33 shared documents
@@ -79,8 +74,8 @@ Trump](../people/trump.md) - 21 shared documents
 - [months](../events/months.md) - 27 shared documents
 - [2003](../events/2003.md) - 26 shared documents
 - [Friday](../events/friday.md) - 26 shared documents
+- [2001](../events/2001.md) - 25 shared documents
 - [2007](../events/2007.md) - 25 shared documents
-- [2009](../events/2009.md) - 25 shared documents
 
 ## Timeline
 

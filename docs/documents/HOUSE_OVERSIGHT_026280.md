@@ -13,10 +13,10 @@
 - [Mr. 
 Trump](../entities/people/mr-trump.md) - 17 mentions
 - [Mr. 
-Comey](../entities/people/mr-comey.md) - 14 mentions
+Comey](../entities/people/james-comey.md) - 14 mentions
 - [mueller](../entities/people/mueller.md) - 10 mentions
 - [horowitz](../entities/people/horowitz.md) - 8 mentions
-- [Mr. Rivkin](../entities/people/mr-rivkin.md) - 5 mentions
+- [Mr. Rivkin](../entities/people/rivkin.md) - 5 mentions
 - [Donald 
 Trump](../entities/people/donald-trump.md) - 3 mentions
 - [Justice 

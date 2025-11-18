@@ -54,15 +54,15 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [Japan](../locations/japan.md) - 22 shared documents
-- [Brazil](../locations/brazil.md) - 22 shared documents
-- [Canada](../locations/canada.md) - 22 shared documents
-- [Mexico](../locations/mexico.md) - 22 shared documents
 - [Asia](../locations/asia.md) - 22 shared documents
 - [Australia](../locations/australia.md) - 22 shared documents
+- [Brazil](../locations/brazil.md) - 22 shared documents
+- [Canada](../locations/canada.md) - 22 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 22 shared documents
-- [Singapore](../locations/singapore.md) - 22 shared documents
+- [Japan](../locations/japan.md) - 22 shared documents
+- [Mexico](../locations/mexico.md) - 22 shared documents
 - [non-US](../locations/non-us.md) - 22 shared documents
+- [Singapore](../locations/singapore.md) - 22 shared documents
 - [Dubai](../locations/dubai.md) - 21 shared documents
 
 **Events:**

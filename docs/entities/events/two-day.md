@@ -28,7 +28,7 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 6 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Harvard University](../people/harvard-university.md) - 5 shared documents
 - [Public Policy](../people/public-policy.md) - 5 shared documents
 
@@ -61,15 +61,15 @@ Top 9 documents by mention frequency:
 **Events:**
 
 - [2009](2009.md) - 8 shared documents
-- [2011](2011.md) - 7 shared documents
 - [2008](2008.md) - 7 shared documents
+- [2011](2011.md) - 7 shared documents
 - [2013](2013.md) - 7 shared documents
 - [weekly](weekly.md) - 6 shared documents
 - [2014](2014.md) - 6 shared documents
 - [five years](five-years.md) - 6 shared documents
 - [years](years.md) - 5 shared documents
-- [2007](2007.md) - 5 shared documents
-- [today](today.md) - 5 shared documents
+- [1961](1961.md) - 5 shared documents
+- [1972](1972.md) - 5 shared documents
 
 ## Timeline
 

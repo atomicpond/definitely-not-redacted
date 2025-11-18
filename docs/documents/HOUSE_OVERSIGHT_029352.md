@@ -13,9 +13,9 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Obama](../entities/people/mr-obama.md) - 2 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 2 mentions
 - [Mr. 
-President](../entities/people/mr-president.md) - 1 mention
+President](../entities/people/president.md) - 1 mention
 
 ### Organizations
 - [att](../entities/organizations/att.md) - 1 mention

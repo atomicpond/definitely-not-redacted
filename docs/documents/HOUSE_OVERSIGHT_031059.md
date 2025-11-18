@@ -14,7 +14,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Kavanaugh](../entities/people/mr-kavanaugh.md) - 4 mentions
+- [Mr. Kavanaugh](../entities/people/kavanaugh.md) - 4 mentions
 - [Christine Blasey Ford](../entities/people/christine-blasey-ford.md) - 2 mentions
 - [Mr. 
 Trump](../entities/people/mr-trump.md) - 1 mention

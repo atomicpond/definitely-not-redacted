@@ -35,8 +35,6 @@ Top 10 documents by mention frequency:
 - [Saudi Arabia](../people/saudi-arabia.md) - 25 shared documents
 - [White House](../people/white-house.md) - 21 shared documents
 - [bill burns](../people/bill-burns.md) - 16 shared documents
-- [Barack Obama](../people/barack-obama.md) - 15 shared documents
-- [President Obama](../people/president-obama.md) - 14 shared documents
 - [Security Council](../people/security-council.md) - 14 shared documents
 - [Larry Summers](../people/larry-summers.md) - 13 shared documents
 - [Vanity Fair](../people/vanity-fair.md) - 13 shared documents
@@ -61,16 +59,16 @@ Top 10 documents by mention frequency:
 - [India](india.md) - 30 shared documents
 - [Dubai](dubai.md) - 28 shared documents
 - [Russia](russia.md) - 27 shared documents
-- [Middle East](middle-east.md) - 27 shared documents
 - [Israel](israel.md) - 27 shared documents
+- [Middle East](middle-east.md) - 27 shared documents
 - [Paris](paris.md) - 27 shared documents
 - [Saudi Arabia](saudi-arabia.md) - 25 shared documents
 - [America](america.md) - 24 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 34 shared documents
 - [Sunday](../events/sunday.md) - 34 shared documents
+- [today](../events/today.md) - 34 shared documents
 - [two years](../events/two-years.md) - 27 shared documents
 - [2004](../events/2004.md) - 23 shared documents
 - [this week](../events/this-week.md) - 22 shared documents
@@ -78,7 +76,7 @@ Top 10 documents by mention frequency:
 - [1994](../events/1994.md) - 20 shared documents
 - [2002](../events/2002.md) - 19 shared documents
 - [many years](../events/many-years.md) - 19 shared documents
-- [the 1980s](../events/the-1980s.md) - 18 shared documents
+- [1982](../events/1982.md) - 18 shared documents
 
 ## Timeline
 

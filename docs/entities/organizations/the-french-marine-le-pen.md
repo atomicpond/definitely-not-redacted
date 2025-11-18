@@ -43,11 +43,11 @@ Top 9 documents by mention frequency:
 
 - [Trump](trump.md) - 9 shared documents
 - [Twitter](twitter.md) - 9 shared documents
-- [HOUSE](house.md) - 9 shared documents
-- [Facebook](facebook.md) - 9 shared documents
 - [Benjamin Harnwell 
 Founder and President of the Board of Trustees 
 Dignitatis Humanae Institute](benjamin-harnwell-founder-and-president-of-the-board-of-trustees-dignitatis-humanae-institute.md) - 9 shared documents
+- [Facebook](facebook.md) - 9 shared documents
+- [HOUSE](house.md) - 9 shared documents
 - [Lega](lega.md) - 9 shared documents
 - [Movement](movement.md) - 9 shared documents
 - [Movimento](movimento.md) - 9 shared documents
@@ -56,26 +56,26 @@ Dignitatis Humanae Institute](benjamin-harnwell-founder-and-president-of-the-boa
 
 **Locations:**
 
-- [USA](../locations/usa.md) - 9 shared documents
-- [Europe](../locations/europe.md) - 9 shared documents
-- [London](../locations/london.md) - 9 shared documents
 - [Brussels](../locations/brussels.md) - 9 shared documents
 - [Cambridge](../locations/cambridge.md) - 9 shared documents
 - [Charlottesville](../locations/charlottesville.md) - 9 shared documents
 - [East](../locations/east.md) - 9 shared documents
+- [Europe](../locations/europe.md) - 9 shared documents
 - [Italy](../locations/italy.md) - 9 shared documents
+- [London](../locations/london.md) - 9 shared documents
 - [Lost Paradise](../locations/lost-paradise.md) - 9 shared documents
 - [Paradise](../locations/paradise.md) - 9 shared documents
+- [Pennsylvania](../locations/pennsylvania.md) - 9 shared documents
 
 **Events:**
 
+- [1984](../events/1984.md) - 9 shared documents
 - [2014](../events/2014.md) - 9 shared documents
 - [2016](../events/2016.md) - 9 shared documents
-- [Friday](../events/friday.md) - 9 shared documents
-- [1984](../events/1984.md) - 9 shared documents
 - [2018-07-22](../events/2018-07-22.md) - 9 shared documents
 - [2019](../events/2019.md) - 9 shared documents
 - [65](../events/65.md) - 9 shared documents
+- [Friday](../events/friday.md) - 9 shared documents
 - [July 22, 2018](../events/july-22-2018.md) - 9 shared documents
 - [last summer](../events/last-summer.md) - 9 shared documents
 - [next May](../events/next-may.md) - 9 shared documents

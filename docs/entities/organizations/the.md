@@ -34,28 +34,26 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 6 shared documents
-- [Barack Obama](../people/barack-obama.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Middle East](../people/middle-east.md) - 5 shared documents
 
 **Organizations:**
 
 - [HOUSE](house.md) - 7 shared documents
-- [Islam](islam.md) - 5 shared documents
 - [IMF](imf.md) - 5 shared documents
 
 **Locations:**
 
 - [Japan](../locations/japan.md) - 8 shared documents
 - [West](../locations/west.md) - 8 shared documents
-- [United States](../locations/united-states.md) - 7 shared documents
-- [China](../locations/china.md) - 7 shared documents
 - [America](../locations/america.md) - 7 shared documents
+- [China](../locations/china.md) - 7 shared documents
 - [France](../locations/france.md) - 7 shared documents
-- [Iraq](../locations/iraq.md) - 7 shared documents
 - [India](../locations/india.md) - 7 shared documents
-- [Middle East](../locations/middle-east.md) - 6 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 6 shared documents
+- [Iraq](../locations/iraq.md) - 7 shared documents
+- [United States](../locations/united-states.md) - 7 shared documents
+- [Asia](../locations/asia.md) - 6 shared documents
+- [Europe](../locations/europe.md) - 6 shared documents
 
 **Events:**
 
@@ -66,8 +64,8 @@ Top 10 documents by mention frequency:
 - [1993](../events/1993.md) - 6 shared documents
 - [2013](../events/2013.md) - 6 shared documents
 - [a year](../events/a-year.md) - 6 shared documents
+- [1975](../events/1975.md) - 5 shared documents
 - [2009](../events/2009.md) - 5 shared documents
-- [the 1980s](../events/the-1980s.md) - 5 shared documents
 - [21st-century](../events/21st-century.md) - 5 shared documents
 
 ## Timeline

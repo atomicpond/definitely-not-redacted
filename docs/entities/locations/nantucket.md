@@ -52,14 +52,14 @@ Top 8 documents by mention frequency:
 
 **Locations:**
 
-- [Massachusetts](massachusetts.md) - 7 shared documents
 - [Boston](boston.md) - 7 shared documents
+- [Massachusetts](massachusetts.md) - 7 shared documents
 - [Vermont](vermont.md) - 6 shared documents
+- [Amherst](amherst.md) - 5 shared documents
 - [California](california.md) - 5 shared documents
 - [Connecticut](connecticut.md) - 5 shared documents
-- [Amherst](amherst.md) - 5 shared documents
-- [Jamaica](jamaica.md) - 4 shared documents
 - [Aspen](aspen.md) - 4 shared documents
+- [Jamaica](jamaica.md) - 4 shared documents
 
 ## Timeline
 

@@ -39,7 +39,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 21 shared documents
-- [President Obama](../people/president-obama.md) - 18 shared documents
 
 **Organizations:**
 

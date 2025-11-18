@@ -57,23 +57,23 @@ Top 10 documents by mention frequency:
 - [Israel](israel.md) - 10 shared documents
 - [Texas](texas.md) - 9 shared documents
 - [Africa](africa.md) - 9 shared documents
-- [China](china.md) - 9 shared documents
-- [Japan](japan.md) - 9 shared documents
 - [Canada](canada.md) - 9 shared documents
+- [Chicago](chicago.md) - 9 shared documents
+- [China](china.md) - 9 shared documents
 - [France](france.md) - 9 shared documents
 
 **Events:**
 
+- [1995](../events/1995.md) - 9 shared documents
 - [1996](../events/1996.md) - 9 shared documents
 - [2000](../events/2000.md) - 9 shared documents
 - [last year](../events/last-year.md) - 9 shared documents
 - [three years](../events/three-years.md) - 9 shared documents
 - [two years](../events/two-years.md) - 9 shared documents
-- [1995](../events/1995.md) - 9 shared documents
+- [1978](../events/1978.md) - 8 shared documents
 - [annual](../events/annual.md) - 8 shared documents
-- [today](../events/today.md) - 8 shared documents
+- [Friday](../events/friday.md) - 8 shared documents
 - [Sunday](../events/sunday.md) - 8 shared documents
-- [years](../events/years.md) - 8 shared documents
 
 ## Timeline
 

@@ -14,7 +14,7 @@
 - [Ed Boyden](../entities/people/ed-boyden.md) - 3 mentions
 - [Media Lab](../entities/people/media-lab.md) - 1 mention
 - [Neil Gershenfeld](../entities/people/neil-gershenfeld.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Jeffrey](../entities/people/jeffrey.md) - 1 mention
 - [Ed](../entities/people/ed.md) - 1 mention
 - [lesley](../entities/people/lesley.md) - 1 mention

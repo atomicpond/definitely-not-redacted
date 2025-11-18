@@ -33,9 +33,9 @@ Top 6 documents by mention frequency:
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 6 shared documents
+- [1285 Avenue](../organizations/1285-avenue.md) - 5 shared documents
 - [Rifkind](../organizations/rifkind.md) - 5 shared documents
 - [Wharton & Garrison LLP](../organizations/wharton-garrison-llp.md) - 5 shared documents
-- [1285 Avenue](../organizations/1285-avenue.md) - 5 shared documents
 
 **Locations:**
 

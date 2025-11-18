@@ -28,40 +28,40 @@ Top 9 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 8 shared documents
 - [Middle East](../people/middle-east.md) - 8 shared documents
-- [President Obama](../people/president-obama.md) - 8 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 8 shared documents
-- [Mr. Obama](../people/obama.md) - 7 shared documents
 - [Arab Spring](../people/arab-spring.md) - 6 shared documents
-- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Bush](../people/bush.md) - 6 shared documents
 - [Mahmoud Abbas](../people/mahmoud-abbas.md) - 6 shared documents
 - [United 
 States](../people/united-states.md) - 6 shared documents
 - [Bibi](../people/bibi.md) - 5 shared documents
+- [Dennis Ross](../people/dennis-ross.md) - 5 shared documents
+- [East Jerusalem](../people/east-jerusalem.md) - 5 shared documents
 
 **Organizations:**
 
 - [State](state.md) - 8 shared documents
 - [Harvard](harvard.md) - 7 shared documents
 - [White House](white-house.md) - 6 shared documents
-- [CIA](cia.md) - 6 shared documents
 - [PLO](plo.md) - 5 shared documents
 - [the State Department](the-state-department.md) - 5 shared documents
 - [United Nations](united-nations.md) - 5 shared documents
 - [Pentagon](pentagon.md) - 4 shared documents
 - [Supreme Court](supreme-court.md) - 4 shared documents
 - [the Arab League](the-arab-league.md) - 4 shared documents
+- [the United Nations](the-united-nations.md) - 4 shared documents
 
 **Locations:**
 
-- [Russia](../locations/russia.md) - 9 shared documents
+- [Egypt](../locations/egypt.md) - 9 shared documents
 - [Iran](../locations/iran.md) - 9 shared documents
+- [Israel](../locations/israel.md) - 9 shared documents
+- [Russia](../locations/russia.md) - 9 shared documents
 - [Syria](../locations/syria.md) - 9 shared documents
 - [the United States](../locations/the-united-states.md) - 9 shared documents
-- [Israel](../locations/israel.md) - 9 shared documents
-- [Egypt](../locations/egypt.md) - 9 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 8 shared documents
+- [Cairo](../locations/cairo.md) - 8 shared documents
 - [Iraq](../locations/iraq.md) - 8 shared documents
 - [Libya](../locations/libya.md) - 8 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 8 shared documents
@@ -70,12 +70,12 @@ States](../people/united-states.md) - 6 shared documents
 
 - [today](../events/today.md) - 7 shared documents
 - [years](../events/years.md) - 7 shared documents
+- [1967](../events/1967.md) - 6 shared documents
 - [2003](../events/2003.md) - 6 shared documents
 - [2008](../events/2008.md) - 6 shared documents
-- [three years](../events/three-years.md) - 6 shared documents
 - [recent years](../events/recent-years.md) - 6 shared documents
-- [1967](../events/1967.md) - 6 shared documents
 - [the day](../events/the-day.md) - 6 shared documents
+- [three years](../events/three-years.md) - 6 shared documents
 
 ## Timeline
 

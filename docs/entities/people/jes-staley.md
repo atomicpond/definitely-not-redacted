@@ -30,7 +30,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jeffrey Epstein](jeffrey-epstein.md) - 11 shared documents
-- [Mr. Obama](obama.md) - 8 shared documents
 
 **Organizations:**
 

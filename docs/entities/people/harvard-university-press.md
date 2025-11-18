@@ -46,10 +46,10 @@ Top 10 documents by mention frequency:
 - [Princeton University](../organizations/princeton-university.md) - 9 shared documents
 - [Cambridge University](../organizations/cambridge-university.md) - 8 shared documents
 - [Cambridge University Press](../organizations/cambridge-university-press.md) - 8 shared documents
-- [Stanford](../organizations/stanford.md) - 7 shared documents
-- [Yale University](../organizations/yale-university.md) - 7 shared documents
 - [Oxford University Press](../organizations/oxford-university-press.md) - 7 shared documents
 - [Princeton University Press](../organizations/princeton-university-press.md) - 7 shared documents
+- [Stanford](../organizations/stanford.md) - 7 shared documents
+- [Yale University](../organizations/yale-university.md) - 7 shared documents
 
 **Locations:**
 
@@ -60,16 +60,16 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
-- [1997](../events/1997.md) - 9 shared documents
 - [1988](../events/1988.md) - 9 shared documents
-- [2004](../events/2004.md) - 8 shared documents
-- [2000](../events/2000.md) - 8 shared documents
-- [1990](../events/1990.md) - 8 shared documents
-- [1998](../events/1998.md) - 8 shared documents
-- [2001](../events/2001.md) - 8 shared documents
+- [1997](../events/1997.md) - 9 shared documents
 - [1974](../events/1974.md) - 8 shared documents
-- [2002](../events/2002.md) - 8 shared documents
 - [1980](../events/1980.md) - 8 shared documents
+- [1990](../events/1990.md) - 8 shared documents
+- [1995](../events/1995.md) - 8 shared documents
+- [1998](../events/1998.md) - 8 shared documents
+- [2000](../events/2000.md) - 8 shared documents
+- [2001](../events/2001.md) - 8 shared documents
+- [2002](../events/2002.md) - 8 shared documents
 
 ## Timeline
 

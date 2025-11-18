@@ -35,7 +35,6 @@ Top 10 documents by mention frequency:
 - [West Bank](../people/west-bank.md) - 6 shared documents
 - [White House](../people/white-house.md) - 6 shared documents
 - [Barack Obama](../people/barack-obama.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
 
 **Organizations:**
 
@@ -58,9 +57,9 @@ Top 10 documents by mention frequency:
 - [Syria](syria.md) - 8 shared documents
 - [the Middle East](the-middle-east.md) - 8 shared documents
 - [the United States](the-united-states.md) - 8 shared documents
+- [Afghanistan](afghanistan.md) - 8 shared documents
 - [Cairo](cairo.md) - 8 shared documents
 - [Egypt](egypt.md) - 8 shared documents
-- [Afghanistan](afghanistan.md) - 8 shared documents
 
 **Events:**
 
@@ -69,11 +68,11 @@ Top 10 documents by mention frequency:
 - [2003](../events/2003.md) - 6 shared documents
 - [2009](../events/2009.md) - 6 shared documents
 - [the past decade](../events/the-past-decade.md) - 6 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [November](../events/november.md) - 5 shared documents
 - [1967](../events/1967.md) - 5 shared documents
+- [November](../events/november.md) - 5 shared documents
 - [September](../events/september.md) - 5 shared documents
-- [the 1980s](../events/the-1980s.md) - 4 shared documents
+- [years](../events/years.md) - 5 shared documents
+- [1979](../events/1979.md) - 4 shared documents
 
 ## Timeline
 

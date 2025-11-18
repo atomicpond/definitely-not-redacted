@@ -32,12 +32,13 @@ Top 10 documents by mention frequency:
 - [Miami Herald](../people/miami-herald.md) - 18 shared documents
 - [Crime Victims](../people/crime-victims.md) - 10 shared documents
 - [Rights Act](../people/rights-act.md) - 10 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 8 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 8 shared documents
 - [Emily Michot](../people/emily-michot.md) - 8 shared documents
 - [Jay Lefkowitz](../people/jay-lefkowitz.md) - 8 shared documents
 - [New Mexico](../people/new-mexico.md) - 8 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 7 shared documents
 - [Francey Hakes](../people/francey-hakes.md) - 7 shared documents
-- [President Trump](../people/president-trump.md) - 7 shared documents
 - [Jane Doe](../people/jane-doe.md) - 6 shared documents
 
 **Organizations:**
@@ -71,13 +72,13 @@ Top 10 documents by mention frequency:
 - [2011](../events/2011.md) - 12 shared documents
 - [2019](../events/2019.md) - 10 shared documents
 - [2005](../events/2005.md) - 9 shared documents
+- [13 months](../events/13-months.md) - 8 shared documents
 - [2015](../events/2015.md) - 8 shared documents
 - [Tuesday](../events/tuesday.md) - 8 shared documents
-- [13 months](../events/13-months.md) - 8 shared documents
+- [2006](../events/2006.md) - 7 shared documents
+- [2008](../events/2008.md) - 7 shared documents
 - [2016](../events/2016.md) - 7 shared documents
 - [2017](../events/2017.md) - 7 shared documents
-- [2008](../events/2008.md) - 7 shared documents
-- [November](../events/november.md) - 7 shared documents
 
 ## Timeline
 

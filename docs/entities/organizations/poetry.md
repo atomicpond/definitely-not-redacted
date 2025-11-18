@@ -35,7 +35,7 @@ Harvard](../people/american-literature-harvard.md) - 7 shared documents
 - [Herbie Hancock](../people/herbie-hancock.md) - 7 shared documents
 - [Jeffrey](../people/jeffrey.md) - 7 shared documents
 - [Katie Couric](../people/katie-couric.md) - 7 shared documents
-- [larry](../people/larry.md) - 7 shared documents
+- [Lawrence Krauss](../people/lawrence-krauss.md) - 7 shared documents
 - [Nautilus Magazine](../people/nautilus-magazine.md) - 7 shared documents
 - [Powell M. Cabot](../people/powell-m-cabot.md) - 7 shared documents
 
@@ -44,11 +44,11 @@ Harvard](../people/american-literature-harvard.md) - 7 shared documents
 - [WGBH](wgbh.md) - 8 shared documents
 - [Harvard](harvard.md) - 8 shared documents
 - [the Harvard Graduate School of Education](the-harvard-graduate-school-of-education.md) - 7 shared documents
-- [HOUSE](house.md) - 7 shared documents
-- [Harvard University](harvard-university.md) - 7 shared documents
 - [American Literature](american-literature.md) - 7 shared documents
 - [Cabot Professor of American Literature 
 Harvard University](cabot-professor-of-american-literature-harvard-university.md) - 7 shared documents
+- [Harvard University](harvard-university.md) - 7 shared documents
+- [HOUSE](house.md) - 7 shared documents
 - [Nautilus Magazine](nautilus-magazine.md) - 7 shared documents
 - [Poetry in](poetry-in.md) - 6 shared documents
 - [Sky](sky.md) - 6 shared documents
@@ -56,29 +56,29 @@ Harvard University](cabot-professor-of-american-literature-harvard-university.md
 **Locations:**
 
 - [America](../locations/america.md) - 7 shared documents
+- [Barker Center](../locations/barker-center.md) - 7 shared documents
 - [Cambridge](../locations/cambridge.md) - 7 shared documents
 - [MA](../locations/ma.md) - 7 shared documents
-- [Barker Center](../locations/barker-center.md) - 7 shared documents
 - [Quincy Street](../locations/quincy-street.md) - 7 shared documents
 - [Street 
 Cambridge, MA](../locations/street-cambridge-ma.md) - 7 shared documents
-- [templeton](../locations/templeton.md) - 6 shared documents
 - [Boston](../locations/boston.md) - 6 shared documents
-- [US](../locations/us.md) - 6 shared documents
 - [Broadway](../locations/broadway.md) - 6 shared documents
+- [templeton](../locations/templeton.md) - 6 shared documents
+- [US](../locations/us.md) - 6 shared documents
 
 **Events:**
 
-- [last year](../events/last-year.md) - 7 shared documents
 - [2017](../events/2017.md) - 7 shared documents
-- [this year](../events/this-year.md) - 6 shared documents
-- [the new year](../events/the-new-year.md) - 6 shared documents
+- [last year](../events/last-year.md) - 7 shared documents
+- [12/2/2015](../events/1222015.md) - 6 shared documents
 - [a year ago](../events/a-year-ago.md) - 6 shared documents
 - [a year later](../events/a-year-later.md) - 6 shared documents
-- [the last year](../events/the-last-year.md) - 6 shared documents
-- [this spring](../events/this-spring.md) - 6 shared documents
 - [early 2016](../events/early-2016.md) - 6 shared documents
+- [eight-episode season](../events/eight-episode-season.md) - 6 shared documents
 - [Overnight](../events/overnight.md) - 6 shared documents
+- [the 17th or 18th](../events/the-17th-or-18th.md) - 6 shared documents
+- [the coming year](../events/the-coming-year.md) - 6 shared documents
 
 ## Timeline
 

@@ -27,33 +27,33 @@ Top 8 documents by mention frequency:
 
 **Organizations:**
 
-- [State](../organizations/state.md) - 4 shared documents
 - [Harvard](../organizations/harvard.md) - 4 shared documents
+- [State](../organizations/state.md) - 4 shared documents
 
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 - [California](../locations/california.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
 - [France](../locations/france.md) - 4 shared documents
-- [Miami](../locations/miami.md) - 4 shared documents
-- [Massachusetts](../locations/massachusetts.md) - 4 shared documents
 - [India](../locations/india.md) - 4 shared documents
+- [Massachusetts](../locations/massachusetts.md) - 4 shared documents
+- [Miami](../locations/miami.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 4 shared documents
 
 **Events:**
 
-- [2004](../events/2004.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
 - [2001](../events/2001.md) - 5 shared documents
+- [2004](../events/2004.md) - 5 shared documents
 - [annually](../events/annually.md) - 5 shared documents
+- [years](../events/years.md) - 5 shared documents
+- [1970](../events/1970.md) - 4 shared documents
+- [1988](../events/1988.md) - 4 shared documents
+- [1990](../events/1990.md) - 4 shared documents
 - [2003](../events/2003.md) - 4 shared documents
 - [2007](../events/2007.md) - 4 shared documents
-- [1970](../events/1970.md) - 4 shared documents
-- [1990](../events/1990.md) - 4 shared documents
 - [2010](../events/2010.md) - 4 shared documents
-- [1988](../events/1988.md) - 4 shared documents
 
 ## Timeline
 

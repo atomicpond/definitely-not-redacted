@@ -25,7 +25,6 @@ Top 6 documents by mention frequency:
 
 **People:**
 
-- [Mr. Obama](obama.md) - 6 shared documents
 - [United 
 States](united-states.md) - 6 shared documents
 - [Middle East](middle-east.md) - 6 shared documents
@@ -38,24 +37,24 @@ States](united-states.md) - 6 shared documents
 
 **Locations:**
 
-- [the United States](../locations/the-united-states.md) - 6 shared documents
 - [Israel](../locations/israel.md) - 6 shared documents
 - [North Africa](../locations/north-africa.md) - 6 shared documents
+- [the United States](../locations/the-united-states.md) - 6 shared documents
 - [US](../locations/us.md) - 6 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
+- [Egypt](../locations/egypt.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
 - [Syria](../locations/syria.md) - 5 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
 - [Turkey](../locations/turkey.md) - 5 shared documents
-- [Egypt](../locations/egypt.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
+- [America](../locations/america.md) - 4 shared documents
 
 **Events:**
 
 - [2003](../events/2003.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [2012](../events/2012.md) - 4 shared documents
 - [2010](../events/2010.md) - 4 shared documents
+- [2012](../events/2012.md) - 4 shared documents
 - [decades](../events/decades.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

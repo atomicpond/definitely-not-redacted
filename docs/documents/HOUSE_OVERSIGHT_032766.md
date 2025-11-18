@@ -11,7 +11,7 @@
 ### People
 - [Michael Wolff](../entities/people/michael-wolff.md) - 1 mention
 - [Mr. 
-Dershowitz](../entities/people/mr-dershowitz.md) - 1 mention
+Dershowitz](../entities/people/alan-dershowitz.md) - 1 mention
 
 ### Organizations
 - [4/10/2018](../entities/organizations/4102018.md) - 1 mention

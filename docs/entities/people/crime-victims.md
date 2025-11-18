@@ -35,23 +35,23 @@ Top 10 documents by mention frequency:
 - [Jane Doe](jane-doe.md) - 21 shared documents
 - [New Mexico](new-mexico.md) - 17 shared documents
 - [Paul Cassell](paul-cassell.md) - 16 shared documents
-- [Brad Edwards](brad-edwards.md) - 15 shared documents
 - [Jay Lefkowitz](jay-lefkowitz.md) - 14 shared documents
 - [Jane Does](jane-does.md) - 13 shared documents
 - [Paul G. Cassell](paul-g-cassell.md) - 12 shared documents
 - [Sarah Kellen](sarah-kellen.md) - 12 shared documents
 - [District Court](district-court.md) - 11 shared documents
+- [Jack Scarola](jack-scarola.md) - 11 shared documents
 
 **Organizations:**
 
 - [FBI](../organizations/fbi.md) - 25 shared documents
 - [Maxwell](../organizations/maxwell.md) - 20 shared documents
 - [Court](../organizations/court.md) - 19 shared documents
-- [the Justice Department](../organizations/the-justice-department.md) - 19 shared documents
 - [Office](../organizations/office.md) - 19 shared documents
+- [the Justice Department](../organizations/the-justice-department.md) - 19 shared documents
 - [State](../organizations/state.md) - 18 shared documents
-- [Justice](../organizations/justice.md) - 16 shared documents
 - [CVRA](../organizations/cvra.md) - 16 shared documents
+- [Justice](../organizations/justice.md) - 16 shared documents
 
 **Locations:**
 
@@ -59,25 +59,25 @@ Top 10 documents by mention frequency:
 - [Florida](../locations/florida.md) - 26 shared documents
 - [United States](../locations/united-states.md) - 25 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 24 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 22 shared documents
 - [Miami](../locations/miami.md) - 22 shared documents
+- [the Southern District](../locations/the-southern-district.md) - 22 shared documents
 - [U.S.](../locations/us.md) - 21 shared documents
 - [New York](../locations/new-york.md) - 20 shared documents
-- [the United States](../locations/the-united-states.md) - 18 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 18 shared documents
+- [the United States](../locations/the-united-states.md) - 18 shared documents
 
 **Events:**
 
 - [2008](../events/2008.md) - 23 shared documents
-- [2011](../events/2011.md) - 18 shared documents
 - [2005](../events/2005.md) - 18 shared documents
-- [2010](../events/2010.md) - 18 shared documents
 - [2006](../events/2006.md) - 18 shared documents
+- [2010](../events/2010.md) - 18 shared documents
+- [2011](../events/2011.md) - 18 shared documents
 - [2009](../events/2009.md) - 17 shared documents
 - [today](../events/today.md) - 17 shared documents
-- [2002](../events/2002.md) - 16 shared documents
 - [14](../events/14.md) - 16 shared documents
-- [2004](../events/2004.md) - 15 shared documents
+- [2002](../events/2002.md) - 16 shared documents
+- [2001](../events/2001.md) - 15 shared documents
 
 ## Timeline
 

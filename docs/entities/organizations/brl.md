@@ -51,15 +51,15 @@ Top 9 documents by mention frequency:
 
 **Locations:**
 
-- [Japan](../locations/japan.md) - 8 shared documents
-- [Brazil](../locations/brazil.md) - 8 shared documents
-- [Canada](../locations/canada.md) - 8 shared documents
-- [Mexico](../locations/mexico.md) - 8 shared documents
+- [Argentina](../locations/argentina.md) - 8 shared documents
 - [Asia](../locations/asia.md) - 8 shared documents
 - [Australia](../locations/australia.md) - 8 shared documents
+- [Brazil](../locations/brazil.md) - 8 shared documents
+- [Canada](../locations/canada.md) - 8 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 8 shared documents
+- [Japan](../locations/japan.md) - 8 shared documents
+- [Mexico](../locations/mexico.md) - 8 shared documents
 - [Singapore](../locations/singapore.md) - 8 shared documents
-- [Argentina](../locations/argentina.md) - 8 shared documents
 - [China](../locations/china.md) - 7 shared documents
 
 **Events:**
@@ -67,13 +67,13 @@ Top 9 documents by mention frequency:
 - [today](../events/today.md) - 7 shared documents
 - [2001](../events/2001.md) - 6 shared documents
 - [5-year](../events/5-year.md) - 6 shared documents
-- [2015](../events/2015.md) - 5 shared documents
-- [2000](../events/2000.md) - 5 shared documents
-- [this year](../events/this-year.md) - 5 shared documents
 - [10-year](../events/10-year.md) - 5 shared documents
+- [2000](../events/2000.md) - 5 shared documents
+- [2015](../events/2015.md) - 5 shared documents
 - [recent months](../events/recent-months.md) - 5 shared documents
-- [weekly](../events/weekly.md) - 5 shared documents
 - [the last 12 months](../events/the-last-12-months.md) - 5 shared documents
+- [this year](../events/this-year.md) - 5 shared documents
+- [weekly](../events/weekly.md) - 5 shared documents
 
 ## Timeline
 

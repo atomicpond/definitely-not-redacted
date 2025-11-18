@@ -53,21 +53,21 @@ Top 10 documents by mention frequency:
 - [Spain](spain.md) - 8 shared documents
 - [Switzerland](switzerland.md) - 8 shared documents
 - [United States](united-states.md) - 8 shared documents
+- [Australia](australia.md) - 8 shared documents
 - [China](china.md) - 8 shared documents
-- [Germany](germany.md) - 8 shared documents
 
 **Events:**
 
 - [2005](../events/2005.md) - 9 shared documents
 - [2010](../events/2010.md) - 8 shared documents
+- [1998](../events/1998.md) - 7 shared documents
+- [2000](../events/2000.md) - 7 shared documents
 - [2003](../events/2003.md) - 7 shared documents
 - [2004](../events/2004.md) - 7 shared documents
-- [annual](../events/annual.md) - 7 shared documents
-- [2000](../events/2000.md) - 7 shared documents
 - [2011](../events/2011.md) - 7 shared documents
-- [1998](../events/1998.md) - 7 shared documents
+- [annual](../events/annual.md) - 7 shared documents
 - [three years](../events/three-years.md) - 7 shared documents
-- [2015](../events/2015.md) - 6 shared documents
+- [1974](../events/1974.md) - 6 shared documents
 
 ## Timeline
 

@@ -35,9 +35,10 @@ Harvard University](../people/america-harvard-university.md) - 9 shared document
 - [American Literature 
 Director](../people/american-literature-director.md) - 9 shared documents
 - [Barker Center](../people/barker-center.md) - 9 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 9 shared documents
 - [Cabot Professor](../people/cabot-professor.md) - 9 shared documents
 - [Cather](../people/cather.md) - 9 shared documents
-- [CLINTON](../people/clinton.md) - 9 shared documents
 - [Dear Jeffrey](../people/dear-jeffrey.md) - 9 shared documents
 - [Elisa New 
 Powell](../people/elisa-new-powell.md) - 9 shared documents
@@ -47,29 +48,29 @@ Elisa](../people/lisa-elisa.md) - 9 shared documents
 
 **Organizations:**
 
-- [HOUSE](house.md) - 9 shared documents
-- [Harvard University](harvard-university.md) - 9 shared documents
 - [American Literature](american-literature.md) - 9 shared documents
+- [Harvard University](harvard-university.md) - 9 shared documents
+- [HOUSE](house.md) - 9 shared documents
 
 **Locations:**
 
 - [America](../locations/america.md) - 9 shared documents
-- [Cambridge](../locations/cambridge.md) - 9 shared documents
-- [Sun](../locations/sun.md) - 9 shared documents
 - [Australia](../locations/australia.md) - 9 shared documents
+- [Barker Center](../locations/barker-center.md) - 9 shared documents
+- [Cambridge](../locations/cambridge.md) - 9 shared documents
 - [Lolita](../locations/lolita.md) - 9 shared documents
 - [MA](../locations/ma.md) - 9 shared documents
-- [WA](../locations/wa.md) - 9 shared documents
-- [Barker Center](../locations/barker-center.md) - 9 shared documents
 - [Quincy Street](../locations/quincy-street.md) - 9 shared documents
 - [Street 
 Cambridge, MA](../locations/street-cambridge-ma.md) - 9 shared documents
+- [Sun](../locations/sun.md) - 9 shared documents
+- [WA](../locations/wa.md) - 9 shared documents
 
 **Events:**
 
-- [2018](../events/2018.md) - 9 shared documents
 - [10:52 AM](../events/1052-am.md) - 9 shared documents
 - [11:05 AM](../events/1105-am.md) - 9 shared documents
+- [2018](../events/2018.md) - 9 shared documents
 - [Nov 25, 2018](../events/nov-25-2018.md) - 9 shared documents
 - [7:30 pm](../events/730-pm.md) - 8 shared documents
 - [11/25/2018](../events/11252018.md) - 5 shared documents

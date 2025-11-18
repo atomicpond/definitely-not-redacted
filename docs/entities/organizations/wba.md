@@ -29,25 +29,25 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [Merrill Lynch](merrill-lynch.md) - 4 shared documents
-- [CFA](cfa.md) - 4 shared documents
 - [Amazon](amazon.md) - 4 shared documents
+- [CFA](cfa.md) - 4 shared documents
+- [Merrill Lynch](merrill-lynch.md) - 4 shared documents
 
 **Locations:**
 
+- [Asia](../locations/asia.md) - 4 shared documents
+- [Australia](../locations/australia.md) - 4 shared documents
 - [Brazil](../locations/brazil.md) - 4 shared documents
 - [Canada](../locations/canada.md) - 4 shared documents
 - [Mexico](../locations/mexico.md) - 4 shared documents
-- [Asia](../locations/asia.md) - 4 shared documents
-- [Australia](../locations/australia.md) - 4 shared documents
 - [U.K.](../locations/uk.md) - 4 shared documents
 
 **Events:**
 
+- [12-month](../events/12-month.md) - 4 shared documents
 - [2000](../events/2000.md) - 4 shared documents
 - [2017](../events/2017.md) - 4 shared documents
 - [monthly](../events/monthly.md) - 4 shared documents
-- [12-month](../events/12-month.md) - 4 shared documents
 
 ## Timeline
 

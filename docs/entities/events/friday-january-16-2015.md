@@ -26,8 +26,8 @@ Top 5 documents by mention frequency:
 
 - [January 16, 2015](january-16-2015.md) - 5 shared documents
 - [38 years old](38-years-old.md) - 5 shared documents
-- [Fri, Jan 16, 2015](fri-jan-16-2015.md) - 4 shared documents
 - [22 - 24](22-24.md) - 4 shared documents
+- [Fri, Jan 16, 2015](fri-jan-16-2015.md) - 4 shared documents
 
 ## Timeline
 

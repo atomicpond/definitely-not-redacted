@@ -15,14 +15,14 @@
 
 ### People
 - [Assad](../entities/people/assad.md) - 34 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 11 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 11 mentions
 - [bin Laden](../entities/people/bin-laden.md) - 11 mentions
 - [Qaddafi](../entities/people/qaddafi.md) - 6 mentions
 - [Bashar al-Assad](../entities/people/bashar-al-assad.md) - 5 mentions
 - [Barack Obama](../entities/people/barack-obama.md) - 3 mentions
 - [Golda Meir](../entities/people/golda-meir.md) - 3 mentions
 - [Gaddafi](../entities/people/gaddafi.md) - 3 mentions
-- [Mr. Mubarak](../entities/people/mr-mubarak.md) - 2 mentions
+- [Mr. Mubarak](../entities/people/mubarak.md) - 2 mentions
 - [Hosni Mubarak](../entities/people/hosni-mubarak.md) - 1 mention
 
 ### Organizations

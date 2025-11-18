@@ -31,9 +31,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Mr. Obama](../people/obama.md) - 11 shared documents
-- [Barack Obama](../people/barack-obama.md) - 8 shared documents
-- [President Obama](../people/president-obama.md) - 7 shared documents
 - [Alan Greenspan](../people/alan-greenspan.md) - 6 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 6 shared documents
 
@@ -42,6 +39,9 @@ Top 10 documents by mention frequency:
 - [HOUSE](../organizations/house.md) - 13 shared documents
 - [Fed](../organizations/fed.md) - 5 shared documents
 - [Labor](../organizations/labor.md) - 5 shared documents
+- [NATO](../organizations/nato.md) - 5 shared documents
+- [the Australian Labor Party](../organizations/the-australian-labor-party.md) - 5 shared documents
+- [the Federal Reserve](../organizations/the-federal-reserve.md) - 5 shared documents
 
 **Locations:**
 

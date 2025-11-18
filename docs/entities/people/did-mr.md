@@ -33,16 +33,16 @@ Top 5 documents by mention frequency:
 - [California](../locations/california.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 5 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 5 shared documents
-- [U.S.](../locations/us.md) - 4 shared documents
-- [London](../locations/london.md) - 4 shared documents
 - [Chicago](../locations/chicago.md) - 4 shared documents
+- [London](../locations/london.md) - 4 shared documents
+- [U.S.](../locations/us.md) - 4 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 4 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 5 shared documents
-- [2007](../events/2007.md) - 4 shared documents
 - [1998](../events/1998.md) - 4 shared documents
+- [2007](../events/2007.md) - 4 shared documents
 - [the next day](../events/the-next-day.md) - 4 shared documents
 
 ## Timeline

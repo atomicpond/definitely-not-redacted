@@ -42,7 +42,6 @@ Top 10 documents by mention frequency:
 
 **Organizations:**
 
-- [Harvard](harvard.md) - 6 shared documents
 - [Princeton University](princeton-university.md) - 5 shared documents
 - [Stanford](stanford.md) - 5 shared documents
 - [Stanford University](stanford-university.md) - 5 shared documents
@@ -52,32 +51,33 @@ Top 10 documents by mention frequency:
 - [NBC](nbc.md) - 4 shared documents
 - [New York Times](new-york-times.md) - 4 shared documents
 - [Oxford University](oxford-university.md) - 4 shared documents
+- [Random House](random-house.md) - 4 shared documents
 
 **Locations:**
 
 - [California](../locations/california.md) - 9 shared documents
-- [the United States](../locations/the-united-states.md) - 8 shared documents
 - [England](../locations/england.md) - 8 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 7 shared documents
+- [the United States](../locations/the-united-states.md) - 8 shared documents
 - [Africa](../locations/africa.md) - 7 shared documents
+- [France](../locations/france.md) - 7 shared documents
 - [Germany](../locations/germany.md) - 7 shared documents
 - [London](../locations/london.md) - 7 shared documents
-- [France](../locations/france.md) - 7 shared documents
-- [USA](../locations/usa.md) - 6 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 7 shared documents
 - [America](../locations/america.md) - 6 shared documents
+- [Australia](../locations/australia.md) - 6 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 7 shared documents
-- [daily](../events/daily.md) - 7 shared documents
-- [years](../events/years.md) - 7 shared documents
-- [one day](../events/one-day.md) - 7 shared documents
-- [a year](../events/a-year.md) - 7 shared documents
-- [three years](../events/three-years.md) - 7 shared documents
-- [decades](../events/decades.md) - 7 shared documents
 - [1980](../events/1980.md) - 7 shared documents
-- [1996](../events/1996.md) - 6 shared documents
-- [summer](../events/summer.md) - 6 shared documents
+- [a year](../events/a-year.md) - 7 shared documents
+- [daily](../events/daily.md) - 7 shared documents
+- [decades](../events/decades.md) - 7 shared documents
+- [one day](../events/one-day.md) - 7 shared documents
+- [three years](../events/three-years.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
+- [years](../events/years.md) - 7 shared documents
+- [1968](../events/1968.md) - 6 shared documents
+- [1984](../events/1984.md) - 6 shared documents
 
 ## Timeline
 

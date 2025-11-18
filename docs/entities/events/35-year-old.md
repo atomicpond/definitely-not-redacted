@@ -43,11 +43,11 @@ Top 6 documents by mention frequency:
 
 - [September](september.md) - 6 shared documents
 - [the next day](the-next-day.md) - 5 shared documents
+- ['60s](60s.md) - 5 shared documents
 - [1985](1985.md) - 5 shared documents
 - [1987](1987.md) - 5 shared documents
-- ['60s](60s.md) - 5 shared documents
-- [2008](2008.md) - 4 shared documents
 - [13-year-old](13-year-old.md) - 4 shared documents
+- [2008](2008.md) - 4 shared documents
 
 ## Timeline
 

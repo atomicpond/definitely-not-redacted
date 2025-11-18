@@ -29,24 +29,24 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [NATO](../organizations/nato.md) - 5 shared documents
 - [Islam](../organizations/islam.md) - 5 shared documents
-- [the European Union](../organizations/the-european-union.md) - 5 shared documents
+- [NATO](../organizations/nato.md) - 5 shared documents
 - [NYT](../organizations/nyt.md) - 5 shared documents
-- [Congress](../organizations/congress.md) - 4 shared documents
+- [the European Union](../organizations/the-european-union.md) - 5 shared documents
 - [al-Qaeda](../organizations/al-qaeda.md) - 4 shared documents
+- [Congress](../organizations/congress.md) - 4 shared documents
 
 **Locations:**
 
-- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
 - [China](../locations/china.md) - 5 shared documents
+- [Egypt](../locations/egypt.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [France](../locations/france.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
 - [Iraq](../locations/iraq.md) - 5 shared documents
 - [Libya](../locations/libya.md) - 5 shared documents
 - [Syria](../locations/syria.md) - 5 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
 
 **Events:**

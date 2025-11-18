@@ -30,16 +30,16 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Germany](../locations/germany.md) - 4 shared documents
 - [France](../locations/france.md) - 4 shared documents
+- [Germany](../locations/germany.md) - 4 shared documents
 - [Virginia](../locations/virginia.md) - 4 shared documents
 
 **Events:**
 
-- [2004](../events/2004.md) - 4 shared documents
-- [2000](../events/2000.md) - 4 shared documents
-- [monthly](../events/monthly.md) - 4 shared documents
 - [1999](../events/1999.md) - 4 shared documents
+- [2000](../events/2000.md) - 4 shared documents
+- [2004](../events/2004.md) - 4 shared documents
+- [monthly](../events/monthly.md) - 4 shared documents
 - [three years](../events/three-years.md) - 4 shared documents
 
 ## Timeline

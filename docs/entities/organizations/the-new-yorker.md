@@ -31,16 +31,15 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 13 shared documents
-- [Barack Obama](../people/barack-obama.md) - 11 shared documents
 - [Cynthia Jewett](../people/cynthia-jewett.md) - 11 shared documents
 - [Kiaran Kirk](../people/kiaran-kirk.md) - 11 shared documents
-- [Lawrence Krauss](../people/lawrence-krauss.md) - 11 shared documents
 - [Peter Aldhous](../people/peter-aldhous.md) - 11 shared documents
-- [Barack Obama's](../people/barack-obamas.md) - 10 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 10 shared documents
-- [Donald 
-Trump](../people/donald-trump.md) - 9 shared documents
+- [Barack Obama](../people/barack-obama.md) - 10 shared documents
 - [New Year](../people/new-year.md) - 9 shared documents
+- [San Francisco](../people/san-francisco.md) - 9 shared documents
+- [ANU](../people/anu.md) - 8 shared documents
+- [Azeen Ghorayshi](../people/azeen-ghorayshi.md) - 8 shared documents
+- [Dawkins](../people/dawkins.md) - 8 shared documents
 
 **Organizations:**
 
@@ -52,8 +51,8 @@ Trump](../people/donald-trump.md) - 9 shared documents
 - [The University](the-university.md) - 14 shared documents
 - [New York Times](new-york-times.md) - 14 shared documents
 - [the Washington Post](the-washington-post.md) - 12 shared documents
-- [Harvard University](harvard-university.md) - 12 shared documents
 - [The Origins Project](the-origins-project.md) - 11 shared documents
+- [the Origins Project at](the-origins-project-at.md) - 11 shared documents
 
 **Locations:**
 
@@ -61,12 +60,12 @@ Trump](../people/donald-trump.md) - 9 shared documents
 - [London](../locations/london.md) - 24 shared documents
 - [Australia](../locations/australia.md) - 19 shared documents
 - [Boston](../locations/boston.md) - 17 shared documents
-- [Washington](../locations/washington.md) - 16 shared documents
-- [Florida](../locations/florida.md) - 16 shared documents
 - [Cambridge](../locations/cambridge.md) - 16 shared documents
-- [the United States](../locations/the-united-states.md) - 15 shared documents
+- [Florida](../locations/florida.md) - 16 shared documents
+- [Washington](../locations/washington.md) - 16 shared documents
 - [Arizona](../locations/arizona.md) - 15 shared documents
 - [Iowa](../locations/iowa.md) - 15 shared documents
+- [Las Vegas](../locations/las-vegas.md) - 15 shared documents
 
 **Events:**
 
@@ -75,9 +74,9 @@ Trump](../people/donald-trump.md) - 9 shared documents
 - [2008](../events/2008.md) - 22 shared documents
 - [2006](../events/2006.md) - 21 shared documents
 - [weeks](../events/weeks.md) - 21 shared documents
-- [October](../events/october.md) - 18 shared documents
 - [2014](../events/2014.md) - 18 shared documents
 - [2016](../events/2016.md) - 18 shared documents
+- [October](../events/october.md) - 18 shared documents
 - [today](../events/today.md) - 17 shared documents
 - [2015](../events/2015.md) - 13 shared documents
 

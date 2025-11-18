@@ -29,7 +29,7 @@ Top 8 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 6 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [San Francisco](../people/san-francisco.md) - 5 shared documents
 
 **Organizations:**
@@ -53,15 +53,15 @@ Top 8 documents by mention frequency:
 
 **Events:**
 
-- [2000](2000.md) - 7 shared documents
 - [1980](1980.md) - 7 shared documents
-- [annual](annual.md) - 6 shared documents
-- [2012](2012.md) - 6 shared documents
+- [2000](2000.md) - 7 shared documents
 - [1990](1990.md) - 6 shared documents
+- [1995](1995.md) - 6 shared documents
 - [2001](2001.md) - 6 shared documents
 - [2002](2002.md) - 6 shared documents
+- [2012](2012.md) - 6 shared documents
 - [2013](2013.md) - 6 shared documents
-- [1995](1995.md) - 6 shared documents
+- [annual](annual.md) - 6 shared documents
 - [decades](decades.md) - 5 shared documents
 
 ## Timeline

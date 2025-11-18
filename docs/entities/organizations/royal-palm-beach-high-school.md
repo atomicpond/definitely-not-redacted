@@ -37,16 +37,16 @@ Top 5 documents by mention frequency:
 
 - [Miami](../locations/miami.md) - 5 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 - [Manhattan](../locations/manhattan.md) - 4 shared documents
 - [New Mexico](../locations/new-mexico.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 4 shared documents
 
 **Events:**
 
+- [18 months](../events/18-months.md) - 4 shared documents
 - [October](../events/october.md) - 4 shared documents
 - [years](../events/years.md) - 4 shared documents
-- [18 months](../events/18-months.md) - 4 shared documents
 
 ## Timeline
 

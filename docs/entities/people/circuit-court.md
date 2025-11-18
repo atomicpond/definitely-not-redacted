@@ -38,7 +38,8 @@ Top 10 documents by mention frequency:
 - [Rights Act](rights-act.md) - 5 shared documents
 - [Secret Service](secret-service.md) - 5 shared documents
 - [County Road](county-road.md) - 4 shared documents
-- [New Mexico](new-mexico.md) - 4 shared documents
+- [Donald 
+Trump](donald-trump.md) - 4 shared documents
 
 **Organizations:**
 
@@ -47,34 +48,32 @@ Top 10 documents by mention frequency:
 - [Court](../organizations/court.md) - 8 shared documents
 - [LLC](../organizations/llc.md) - 7 shared documents
 - [Time](../organizations/time.md) - 7 shared documents
-- [HOUSE](../organizations/house.md) - 6 shared documents
-- [District Court](../organizations/district-court.md) - 6 shared documents
 
 **Locations:**
 
 - [Palm Beach](../locations/palm-beach.md) - 11 shared documents
-- [Washington](../locations/washington.md) - 10 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 10 shared documents
+- [Washington](../locations/washington.md) - 10 shared documents
 - [Florida](../locations/florida.md) - 9 shared documents
 - [Miami](../locations/miami.md) - 9 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 9 shared documents
 - [California](../locations/california.md) - 8 shared documents
 - [United States](../locations/united-states.md) - 8 shared documents
-- [D.C.](../locations/dc.md) - 7 shared documents
 - [Britain](../locations/britain.md) - 7 shared documents
+- [D.C.](../locations/dc.md) - 7 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 10 shared documents
 - [Friday](../events/friday.md) - 10 shared documents
-- [August](../events/august.md) - 9 shared documents
+- [today](../events/today.md) - 10 shared documents
 - [2008](../events/2008.md) - 9 shared documents
+- [August](../events/august.md) - 9 shared documents
 - [December](../events/december.md) - 9 shared documents
 - [annual](../events/annual.md) - 8 shared documents
 - [last year](../events/last-year.md) - 8 shared documents
 - [weeks](../events/weeks.md) - 8 shared documents
-- [October](../events/october.md) - 7 shared documents
-- [daily](../events/daily.md) - 7 shared documents
+- [14](../events/14.md) - 7 shared documents
+- [2011](../events/2011.md) - 7 shared documents
 
 ## Timeline
 

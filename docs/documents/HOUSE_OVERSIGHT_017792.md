@@ -31,7 +31,7 @@
 ### Events/Dates
 - [the day](../entities/events/the-day.md) - 1 mention
 - [the next day](../entities/events/the-next-day.md) - 1 mention
-- [04/16/19](../entities/events/041619.md) - 1 mention
+- [04/16/19](../entities/events/04-16-19.md) - 1 mention
 - [13-month](../entities/events/13-month.md) - 1 mention
 
 ## Document Text

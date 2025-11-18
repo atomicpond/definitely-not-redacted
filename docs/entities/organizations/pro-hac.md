@@ -25,7 +25,7 @@ Top 6 documents by mention frequency:
 
 **People:**
 
-- [Bradley J. Edwards](../people/bradley-j-edwards.md) - 6 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 6 shared documents
 - [Paul G. Cassell](../people/paul-g-cassell.md) - 6 shared documents
 - [Salt Lake City](../people/salt-lake-city.md) - 6 shared documents
 - [Jane Doe](../people/jane-doe.md) - 5 shared documents
@@ -42,25 +42,25 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 6 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
 - [Florida](../locations/florida.md) - 6 shared documents
-- [West Palm Beach](../locations/west-palm-beach.md) - 6 shared documents
-- [Salt Lake City](../locations/salt-lake-city.md) - 6 shared documents
-- [P.L.](../locations/pl.md) - 6 shared documents
 - [Lake City, UT](../locations/lake-city-ut.md) - 6 shared documents
+- [New York](../locations/new-york.md) - 6 shared documents
+- [P.L.](../locations/pl.md) - 6 shared documents
+- [Salt Lake City](../locations/salt-lake-city.md) - 6 shared documents
+- [United States](../locations/united-states.md) - 6 shared documents
 - [Weissing](../locations/weissing.md) - 6 shared documents
-- [Miami](../locations/miami.md) - 5 shared documents
+- [West Palm Beach](../locations/west-palm-beach.md) - 6 shared documents
+- [425 North Andrews Avenue](../locations/425-north-andrews-avenue.md) - 5 shared documents
 - [Fla.](../locations/fla.md) - 5 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 4 shared documents
+- [13](../events/13.md) - 4 shared documents
+- [14](../events/14.md) - 4 shared documents
 - [2011](../events/2011.md) - 4 shared documents
 - [21](../events/21.md) - 4 shared documents
 - [4](../events/4.md) - 4 shared documents
-- [13](../events/13.md) - 4 shared documents
-- [14](../events/14.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

@@ -32,12 +32,12 @@ Top 6 documents by mention frequency:
 **Events:**
 
 - [two years](two-years.md) - 5 shared documents
-- [2019](2019.md) - 5 shared documents
 - [1952](1952.md) - 5 shared documents
-- [1992](1992.md) - 5 shared documents
 - [1980](1980.md) - 5 shared documents
-- [1970](1970.md) - 4 shared documents
+- [1992](1992.md) - 5 shared documents
+- [2019](2019.md) - 5 shared documents
 - [1969](1969.md) - 4 shared documents
+- [1970](1970.md) - 4 shared documents
 - [A few years later](a-few-years-later.md) - 4 shared documents
 
 ## Timeline

@@ -29,9 +29,6 @@ Top 9 documents by mention frequency:
 **People:**
 
 - [White House](white-house.md) - 8 shared documents
-- [President Trump](president-trump.md) - 6 shared documents
-- [Mr. 
-Trump](trump.md) - 6 shared documents
 - [Hillary Clinton](hillary-clinton.md) - 5 shared documents
 - [Michael Flynn](michael-flynn.md) - 4 shared documents
 
@@ -39,12 +36,12 @@ Trump](trump.md) - 6 shared documents
 
 - [White House](../organizations/white-house.md) - 7 shared documents
 - [Trump](../organizations/trump.md) - 6 shared documents
-- [the White House](../organizations/the-white-house.md) - 5 shared documents
 - [FBI](../organizations/fbi.md) - 5 shared documents
-- [HOUSE](../organizations/house.md) - 4 shared documents
+- [the White House](../organizations/the-white-house.md) - 5 shared documents
+- [Comey](../organizations/comey.md) - 4 shared documents
 - [Congress](../organizations/congress.md) - 4 shared documents
-- [Supreme Court](../organizations/supreme-court.md) - 4 shared documents
 - [DOJ](../organizations/doj.md) - 4 shared documents
+- [HOUSE](../organizations/house.md) - 4 shared documents
 - [Justice](../organizations/justice.md) - 4 shared documents
 - [Mueller](../organizations/mueller.md) - 4 shared documents
 
@@ -57,11 +54,11 @@ Trump](trump.md) - 6 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 4 shared documents
+- [April](../events/april.md) - 4 shared documents
 - [daily](../events/daily.md) - 4 shared documents
 - [November](../events/november.md) - 4 shared documents
-- [April](../events/april.md) - 4 shared documents
 - [three days](../events/three-days.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

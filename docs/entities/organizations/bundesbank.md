@@ -50,18 +50,18 @@ Chief](../people/michael-cembalest-chief.md) - 5 shared documents
 - [Italy](../locations/italy.md) - 8 shared documents
 - [Greece](../locations/greece.md) - 7 shared documents
 - [Asia](../locations/asia.md) - 5 shared documents
-- [Spain](../locations/spain.md) - 5 shared documents
 - [Ireland](../locations/ireland.md) - 5 shared documents
 - [N.A](../locations/na.md) - 5 shared documents
+- [Spain](../locations/spain.md) - 5 shared documents
+- [Belgium](../locations/belgium.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
-- [Portugal](../locations/portugal.md) - 4 shared documents
+- [Latin America](../locations/latin-america.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
 - [2012](../events/2012.md) - 5 shared documents
 - [this year](../events/this-year.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [last week](../events/last-week.md) - 4 shared documents
 
 ## Timeline

@@ -46,8 +46,6 @@ Top 8 documents by mention frequency:
 - [FBI](fbi.md) - 7 shared documents
 - [State](state.md) - 7 shared documents
 - [Town](town.md) - 6 shared documents
-- [Royal Palm Beach](royal-palm-beach.md) - 6 shared documents
-- [the Palm Beach Police Department](the-palm-beach-police-department.md) - 6 shared documents
 
 **Locations:**
 
@@ -56,21 +54,19 @@ Top 8 documents by mention frequency:
 - [Miami](../locations/miami.md) - 6 shared documents
 - [New Mexico](../locations/new-mexico.md) - 6 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 6 shared documents
-- [West Palm Beach](../locations/west-palm-beach.md) - 6 shared documents
-- [Palm Beach County](../locations/palm-beach-county.md) - 6 shared documents
 
 **Events:**
 
-- [October](../events/october.md) - 7 shared documents
-- [Monday](../events/monday.md) - 7 shared documents
-- [last week](../events/last-week.md) - 7 shared documents
-- [1984](../events/1984.md) - 7 shared documents
-- [five years](../events/five-years.md) - 7 shared documents
 - [14](../events/14.md) - 7 shared documents
-- [Christmas](../events/christmas.md) - 7 shared documents
-- [1981](../events/1981.md) - 7 shared documents
-- [1991](../events/1991.md) - 7 shared documents
 - [17-year-old](../events/17-year-old.md) - 7 shared documents
+- [1981](../events/1981.md) - 7 shared documents
+- [1984](../events/1984.md) - 7 shared documents
+- [1991](../events/1991.md) - 7 shared documents
+- [Christmas](../events/christmas.md) - 7 shared documents
+- [five years](../events/five-years.md) - 7 shared documents
+- [last week](../events/last-week.md) - 7 shared documents
+- [Monday](../events/monday.md) - 7 shared documents
+- [October](../events/october.md) - 7 shared documents
 
 ## Timeline
 

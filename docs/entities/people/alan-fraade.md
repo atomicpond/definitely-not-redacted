@@ -24,7 +24,6 @@ Top 5 documents by mention frequency:
 
 **People:**
 
-- [jeff epstein](jeff-epstein.md) - 5 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 5 shared documents
 - [Steven J. Hoffenberg](steven-j-hoffenberg.md) - 5 shared documents
 
@@ -33,9 +32,9 @@ Top 5 documents by mention frequency:
 - [HOUSE](../organizations/house.md) - 5 shared documents
 - [New York Post Publishing Inc.](../organizations/new-york-post-publishing-inc.md) - 5 shared documents
 - [WHAM INC](../organizations/wham-inc.md) - 5 shared documents
-- [Trump](../organizations/trump.md) - 4 shared documents
 - [Lexington Avenue](../organizations/lexington-avenue.md) - 4 shared documents
 - [the White House](../organizations/the-white-house.md) - 4 shared documents
+- [Trump](../organizations/trump.md) - 4 shared documents
 
 **Locations:**
 

@@ -25,19 +25,19 @@ Top 5 documents by mention frequency:
 **Locations:**
 
 - [Florida](../locations/florida.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
 - [California](../locations/california.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
 - [the United States](../locations/the-united-states.md) - 4 shared documents
 
 **Events:**
 
-- [years](../events/years.md) - 4 shared documents
+- [1987](../events/1987.md) - 4 shared documents
 - [1990](../events/1990.md) - 4 shared documents
 - [1993](../events/1993.md) - 4 shared documents
 - [2001](../events/2001.md) - 4 shared documents
 - [2010](../events/2010.md) - 4 shared documents
-- [1987](../events/1987.md) - 4 shared documents
 - [each year](../events/each-year.md) - 4 shared documents
+- [years](../events/years.md) - 4 shared documents
 
 ## Timeline
 

@@ -33,20 +33,18 @@ Top 10 documents by mention frequency:
 
 - [United 
 States](united-states.md) - 5 shared documents
-- [European 
-Union](european-union.md) - 5 shared documents
 - [Ayn 
 Rand](ayn-rand.md) - 5 shared documents
+- [European 
+Union](european-union.md) - 5 shared documents
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 5 shared documents
 - [Congress](../organizations/congress.md) - 5 shared documents
 - [Harvard](../organizations/harvard.md) - 5 shared documents
-- [Trump](../organizations/trump.md) - 4 shared documents
-- [Facebook](../organizations/facebook.md) - 4 shared documents
+- [HOUSE](../organizations/house.md) - 5 shared documents
 - [CNN](../organizations/cnn.md) - 4 shared documents
-- [the Financial Times](../organizations/the-financial-times.md) - 4 shared documents
+- [Facebook](../organizations/facebook.md) - 4 shared documents
 
 **Locations:**
 
@@ -55,11 +53,11 @@ Rand](ayn-rand.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 8 shared documents
 - [Africa](../locations/africa.md) - 7 shared documents
 - [China](../locations/china.md) - 7 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
-- [Germany](../locations/germany.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
 - [America](../locations/america.md) - 6 shared documents
+- [Germany](../locations/germany.md) - 6 shared documents
+- [Russia](../locations/russia.md) - 6 shared documents
 - [US](../locations/us.md) - 6 shared documents
+- [Washington](../locations/washington.md) - 6 shared documents
 
 **Events:**
 

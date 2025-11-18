@@ -30,7 +30,7 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 7 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 5 shared documents
 - [Abu Dhabi](../people/abu-dhabi.md) - 4 shared documents
 - [Central Bank](../people/central-bank.md) - 4 shared documents
@@ -52,11 +52,11 @@ Top 10 documents by mention frequency:
 - [the Middle East](the-middle-east.md) - 8 shared documents
 - [Russia](russia.md) - 7 shared documents
 - [Dubai](dubai.md) - 6 shared documents
+- [Egypt](egypt.md) - 6 shared documents
+- [Hong Kong](hong-kong.md) - 6 shared documents
 - [Middle East](middle-east.md) - 6 shared documents
 - [Saudi Arabia](saudi-arabia.md) - 6 shared documents
-- [Hong Kong](hong-kong.md) - 6 shared documents
-- [Egypt](egypt.md) - 6 shared documents
-- [Germany](germany.md) - 5 shared documents
+- [Abu Dhabi](abu-dhabi.md) - 5 shared documents
 - [Asia](asia.md) - 5 shared documents
 
 **Events:**
@@ -64,13 +64,13 @@ Top 10 documents by mention frequency:
 - [today](../events/today.md) - 7 shared documents
 - [annual](../events/annual.md) - 6 shared documents
 - [2015](../events/2015.md) - 5 shared documents
-- [last year](../events/last-year.md) - 5 shared documents
-- [this year](../events/this-year.md) - 5 shared documents
-- [five-year](../events/five-year.md) - 5 shared documents
-- [the day](../events/the-day.md) - 5 shared documents
 - [annually](../events/annually.md) - 5 shared documents
+- [five-year](../events/five-year.md) - 5 shared documents
+- [last year](../events/last-year.md) - 5 shared documents
+- [the day](../events/the-day.md) - 5 shared documents
+- [this year](../events/this-year.md) - 5 shared documents
+- [12-month](../events/12-month.md) - 4 shared documents
 - [2012](../events/2012.md) - 4 shared documents
-- [daily](../events/daily.md) - 4 shared documents
 
 ## Timeline
 

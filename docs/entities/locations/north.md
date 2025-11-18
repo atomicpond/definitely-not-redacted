@@ -34,22 +34,22 @@ Top 8 documents by mention frequency:
 - [the United States](the-united-states.md) - 4 shared documents
 - [United States](united-states.md) - 4 shared documents
 - [Washington](washington.md) - 4 shared documents
-- [New York](new-york.md) - 4 shared documents
+- [Canada](canada.md) - 4 shared documents
+- [Chicago](chicago.md) - 4 shared documents
 - [China](china.md) - 4 shared documents
-- [Europe](europe.md) - 4 shared documents
 
 **Events:**
 
 - [this week](../events/this-week.md) - 6 shared documents
 - [years](../events/years.md) - 5 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [last year](../events/last-year.md) - 4 shared documents
-- [Monday](../events/monday.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
+- [1981](../events/1981.md) - 4 shared documents
 - [2010](../events/2010.md) - 4 shared documents
 - [Friday](../events/friday.md) - 4 shared documents
+- [last year](../events/last-year.md) - 4 shared documents
+- [Monday](../events/monday.md) - 4 shared documents
 - [Saturday](../events/saturday.md) - 4 shared documents
-- [Tuesday](../events/tuesday.md) - 4 shared documents
+- [this year](../events/this-year.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

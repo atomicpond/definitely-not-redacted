@@ -11,7 +11,7 @@
 ### People
 - [Reid](../entities/people/reid.md) - 2 mentions
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [jeffrey E. <](../entities/people/jeffrey-e.md) - 1 mention
 - [On Thu](../entities/people/on-thu.md) - 1 mention
 - [Joi Ito](../entities/people/joi-ito.md) - 1 mention

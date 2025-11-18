@@ -31,45 +31,45 @@ Top 6 documents by mention frequency:
 - [Queen Elizabeth](queen-elizabeth.md) - 5 shared documents
 - [Steven Spielberg](steven-spielberg.md) - 5 shared documents
 - [Vanity Fair](vanity-fair.md) - 5 shared documents
-- [Los Angeles](los-angeles.md) - 5 shared documents
 
 **Organizations:**
 
 - [CBS](../organizations/cbs.md) - 6 shared documents
+- [Disney](../organizations/disney.md) - 6 shared documents
 - [Google](../organizations/google.md) - 6 shared documents
 - [HBO](../organizations/hbo.md) - 6 shared documents
-- [Viacom](../organizations/viacom.md) - 6 shared documents
-- [Disney](../organizations/disney.md) - 6 shared documents
 - [Paramount](../organizations/paramount.md) - 6 shared documents
 - [The Huffington Post](../organizations/the-huffington-post.md) - 6 shared documents
-- [HOUSE](../organizations/house.md) - 5 shared documents
+- [Viacom](../organizations/viacom.md) - 6 shared documents
 - [Ford](../organizations/ford.md) - 5 shared documents
+- [HOUSE](../organizations/house.md) - 5 shared documents
+- [Sony](../organizations/sony.md) - 5 shared documents
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 6 shared documents
+- [America](../locations/america.md) - 6 shared documents
+- [Beverly Hills](../locations/beverly-hills.md) - 6 shared documents
 - [California](../locations/california.md) - 6 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
-- [America](../locations/america.md) - 6 shared documents
 - [Manhattan](../locations/manhattan.md) - 6 shared documents
+- [New York](../locations/new-york.md) - 6 shared documents
 - [Paris](../locations/paris.md) - 6 shared documents
-- [Beverly Hills](../locations/beverly-hills.md) - 6 shared documents
-- [Toronto](../locations/toronto.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 6 shared documents
 - [New York City](../locations/new-york-city.md) - 5 shared documents
+- [Switzerland](../locations/switzerland.md) - 5 shared documents
 
 **Events:**
 
+- [Christmas](../events/christmas.md) - 6 shared documents
 - [last year](../events/last-year.md) - 6 shared documents
 - [Sunday](../events/sunday.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
-- [Christmas](../events/christmas.md) - 6 shared documents
 - [two days](../events/two-days.md) - 6 shared documents
-- [October](../events/october.md) - 5 shared documents
+- [years](../events/years.md) - 6 shared documents
+- [1982](../events/1982.md) - 5 shared documents
+- [2005](../events/2005.md) - 5 shared documents
 - [annual](../events/annual.md) - 5 shared documents
-- [six months](../events/six-months.md) - 5 shared documents
-- [this year](../events/this-year.md) - 5 shared documents
 - [last week](../events/last-week.md) - 5 shared documents
+- [October](../events/october.md) - 5 shared documents
 
 ## Timeline
 

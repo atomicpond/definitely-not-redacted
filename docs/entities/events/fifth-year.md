@@ -24,6 +24,7 @@ Top 5 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Boies Schiller](../people/boies-schiller.md) - 5 shared documents
 - [David Boies](../people/david-boies.md) - 5 shared documents
 - [District Court](../people/district-court.md) - 5 shared documents
@@ -32,7 +33,6 @@ Top 5 documents by mention frequency:
 - [Lubna Qassim](../people/lubna-qassim.md) - 5 shared documents
 - [Middle East](../people/middle-east.md) - 5 shared documents
 - [Middle Eastern](../people/middle-eastern.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
 - [Santa Ana](../people/santa-ana.md) - 5 shared documents
 
 **Organizations:**

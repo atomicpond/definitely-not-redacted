@@ -35,9 +35,7 @@ Top 10 documents by mention frequency:
 - [White House](../people/white-house.md) - 38 shared documents
 - [Vanity Fair](../people/vanity-fair.md) - 35 shared documents
 - [New Mexico](../people/new-mexico.md) - 32 shared documents
-- [President Obama](../people/president-obama.md) - 32 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 28 shared documents
-- [Barack Obama](../people/barack-obama.md) - 26 shared documents
 
 **Organizations:**
 
@@ -76,7 +74,7 @@ Top 10 documents by mention frequency:
 - [the day](../events/the-day.md) - 51 shared documents
 - [2004](../events/2004.md) - 50 shared documents
 - [2009](../events/2009.md) - 49 shared documents
-- [2010](../events/2010.md) - 48 shared documents
+- [2002](../events/2002.md) - 48 shared documents
 
 ## Timeline
 

@@ -29,7 +29,6 @@ Top 7 documents by mention frequency:
 **People:**
 
 - [Cold War](cold-war.md) - 7 shared documents
-- [President Obama](president-obama.md) - 7 shared documents
 - [Bill Siegel](bill-siegel.md) - 5 shared documents
 - [Bill Siegel 
 Sent](bill-siegel-sent.md) - 5 shared documents
@@ -39,6 +38,7 @@ Sent](bill-siegel-sent.md) - 5 shared documents
 - [General Assembly](general-assembly.md) - 5 shared documents
 - [Genesis Chapter](genesis-chapter.md) - 5 shared documents
 - [Good Muslims](good-muslims.md) - 5 shared documents
+- [Islamic Enemy](islamic-enemy.md) - 5 shared documents
 
 **Organizations:**
 
@@ -49,22 +49,22 @@ Sent](bill-siegel-sent.md) - 5 shared documents
 - [Islam](../organizations/islam.md) - 7 shared documents
 - [Pentagon](../organizations/pentagon.md) - 7 shared documents
 - [the Palestinian Authority](../organizations/the-palestinian-authority.md) - 7 shared documents
-- [Genesis](../organizations/genesis.md) - 5 shared documents
-- [OIC](../organizations/oic.md) - 5 shared documents
+- [& quot;them](../organizations/quotthem.md) - 5 shared documents
+- [Brotherhood](../organizations/brotherhood.md) - 5 shared documents
 - [CAIR](../organizations/cair.md) - 5 shared documents
 
 **Locations:**
 
+- [Gaza](../locations/gaza.md) - 7 shared documents
+- [Israel](../locations/israel.md) - 7 shared documents
 - [Russia](../locations/russia.md) - 7 shared documents
 - [the Soviet Union](../locations/the-soviet-union.md) - 7 shared documents
-- [Israel](../locations/israel.md) - 7 shared documents
-- [Gaza](../locations/gaza.md) - 7 shared documents
 - [the State of Israel](../locations/the-state-of-israel.md) - 7 shared documents
 - [Vietnam](../locations/vietnam.md) - 7 shared documents
 - [Earth](../locations/earth.md) - 6 shared documents
-- [Rome](../locations/rome.md) - 5 shared documents
-- [Pearl Harbor](../locations/pearl-harbor.md) - 5 shared documents
 - [anti-Israel](../locations/anti-israel.md) - 5 shared documents
+- [Cincinnati](../locations/cincinnati.md) - 5 shared documents
+- [Pearl Harbor](../locations/pearl-harbor.md) - 5 shared documents
 
 **Events:**
 
@@ -72,12 +72,12 @@ Sent](bill-siegel-sent.md) - 5 shared documents
 - [decades](../events/decades.md) - 7 shared documents
 - [the 1950s](../events/the-1950s.md) - 7 shared documents
 - [the day](../events/the-day.md) - 7 shared documents
+- [1991](../events/1991.md) - 6 shared documents
 - [last year](../events/last-year.md) - 6 shared documents
 - [years](../events/years.md) - 6 shared documents
-- [1991](../events/1991.md) - 6 shared documents
+- [2/8/2013](../events/2-8-2013.md) - 5 shared documents
 - [70](../events/70.md) - 5 shared documents
-- [week](../events/week.md) - 5 shared documents
-- [the mid 1950s](../events/the-mid-1950s.md) - 5 shared documents
+- [February 8, 2013](../events/february-8-2013.md) - 5 shared documents
 
 ## Timeline
 

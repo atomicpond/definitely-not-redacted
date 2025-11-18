@@ -42,42 +42,42 @@ Top 10 documents by mention frequency:
 
 **Organizations:**
 
-- [Harvard](harvard.md) - 8 shared documents
 - [Google](google.md) - 8 shared documents
+- [Harvard](harvard.md) - 8 shared documents
 - [White House](white-house.md) - 7 shared documents
 - [New York Magazine](new-york-magazine.md) - 6 shared documents
 - [Punch Sulzberger](punch-sulzberger.md) - 6 shared documents
 - [Vanity Fair](vanity-fair.md) - 6 shared documents
-- [HOUSE](house.md) - 6 shared documents
-- [ISIS](isis.md) - 6 shared documents
-- [Cooper Union](cooper-union.md) - 6 shared documents
+- [Bill and Melinda Gates Foundation](bill-and-melinda-gates-foundation.md) - 6 shared documents
 - [Carnegie](carnegie.md) - 6 shared documents
+- [Cooper Union](cooper-union.md) - 6 shared documents
+- [HOUSE](house.md) - 6 shared documents
 
 **Locations:**
 
 - [Europe](../locations/europe.md) - 9 shared documents
 - [Manhattan](../locations/manhattan.md) - 9 shared documents
 - [Paris](../locations/paris.md) - 8 shared documents
-- [Qatar](../locations/qatar.md) - 6 shared documents
-- [Queens](../locations/queens.md) - 6 shared documents
-- [New Mexico](../locations/new-mexico.md) - 6 shared documents
 - [Coney Island](../locations/coney-island.md) - 6 shared documents
 - [Dalton](../locations/dalton.md) - 6 shared documents
 - [Kairat Kelimbetov](../locations/kairat-kelimbetov.md) - 6 shared documents
+- [New Mexico](../locations/new-mexico.md) - 6 shared documents
+- [Qatar](../locations/qatar.md) - 6 shared documents
+- [Queens](../locations/queens.md) - 6 shared documents
 - [New York](../locations/new-york.md) - 5 shared documents
 
 **Events:**
 
 - [two years](../events/two-years.md) - 9 shared documents
 - [Sunday](../events/sunday.md) - 8 shared documents
-- [2012](../events/2012.md) - 7 shared documents
-- [2002](../events/2002.md) - 7 shared documents
 - [1994](../events/1994.md) - 7 shared documents
+- [2002](../events/2002.md) - 7 shared documents
+- [2012](../events/2012.md) - 7 shared documents
 - [several years](../events/several-years.md) - 7 shared documents
+- [1953](../events/1953.md) - 6 shared documents
+- [1982](../events/1982.md) - 6 shared documents
 - [2004](../events/2004.md) - 6 shared documents
-- [the 1980s](../events/the-1980s.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [last year](../events/last-year.md) - 6 shared documents
+- [20s and 30s](../events/20s-and-30s.md) - 6 shared documents
 
 ## Timeline
 

@@ -35,7 +35,7 @@ Subject](../people/charles-subject.md) - 7 shared documents
 - [Darren Indyke'](../people/darren-indyke.md) - 6 shared documents
 - [DARREN K. INDYKE](../people/darren-k-indyke.md) - 6 shared documents
 - [JAMES PATTERSON](../people/james-patterson.md) - 6 shared documents
-- [jeff epstein](../people/jeff-epstein.md) - 6 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 6 shared documents
 - [Michael](../people/michael.md) - 6 shared documents
 - [Roger stone](../people/roger-stone.md) - 6 shared documents
 

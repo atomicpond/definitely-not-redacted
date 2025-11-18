@@ -9,7 +9,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Obama](../entities/people/mr-obama.md) - 6 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 6 mentions
 - [Breaking News](../entities/people/breaking-news.md) - 2 mentions
 - [Privacy Policy](../entities/people/privacy-policy.md) - 1 mention
 - [High 

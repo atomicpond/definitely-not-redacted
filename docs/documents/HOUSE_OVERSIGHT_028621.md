@@ -9,8 +9,8 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Ballmer](../entities/people/mr-ballmer.md) - 28 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 11 mentions
+- [Mr. Ballmer](../entities/people/ballmer.md) - 28 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 11 mentions
 - [New 
 York Times](../entities/people/new-york-times.md) - 10 mentions
 - [United 

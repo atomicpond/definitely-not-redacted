@@ -37,38 +37,37 @@ Top 9 documents by mention frequency:
 - [Congress](../organizations/congress.md) - 7 shared documents
 - [the Supreme Court](../organizations/the-supreme-court.md) - 7 shared documents
 - [Supreme Court](../organizations/supreme-court.md) - 6 shared documents
-- [the Justice Department](../organizations/the-justice-department.md) - 6 shared documents
 - [the Judiciary Committee](../organizations/the-judiciary-committee.md) - 6 shared documents
+- [the Justice Department](../organizations/the-justice-department.md) - 6 shared documents
 - [HOUSE](../organizations/house.md) - 5 shared documents
 - [the Department of Justice](../organizations/the-department-of-justice.md) - 5 shared documents
 - [the New York Times](../organizations/the-new-york-times.md) - 5 shared documents
-- [White House](../organizations/white-house.md) - 4 shared documents
 
 **Locations:**
 
 - [Washington](../locations/washington.md) - 8 shared documents
-- [New York](../locations/new-york.md) - 6 shared documents
 - [California](../locations/california.md) - 6 shared documents
+- [New York](../locations/new-york.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 6 shared documents
-- [U.S.](../locations/us.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
+- [Arizona](../locations/arizona.md) - 5 shared documents
 - [D.C.](../locations/dc.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 5 shared documents
-- [Arizona](../locations/arizona.md) - 5 shared documents
+- [U.S.](../locations/us.md) - 5 shared documents
+- [United States](../locations/united-states.md) - 5 shared documents
 - [Utah](../locations/utah.md) - 5 shared documents
 
 **Events:**
 
 - [Thursday](../events/thursday.md) - 6 shared documents
-- [today](../events/today.md) - 5 shared documents
 - [1996](../events/1996.md) - 5 shared documents
 - [daily](../events/daily.md) - 5 shared documents
 - [Monday](../events/monday.md) - 5 shared documents
-- [Sunday](../events/sunday.md) - 5 shared documents
 - [November](../events/november.md) - 5 shared documents
+- [Sunday](../events/sunday.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [weeks](../events/weeks.md) - 5 shared documents
-- [2007](../events/2007.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
+- [1967](../events/1967.md) - 4 shared documents
+- [1972](../events/1972.md) - 4 shared documents
 
 ## Timeline
 

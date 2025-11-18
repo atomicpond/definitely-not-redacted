@@ -37,7 +37,7 @@ Top 8 documents by mention frequency:
 - [Jack Scarola](../people/jack-scarola.md) - 5 shared documents
 - [New Mexico Gov](../people/new-mexico-gov.md) - 5 shared documents
 - [Paul Cassell](../people/paul-cassell.md) - 5 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 4 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 4 shared documents
 
 **Organizations:**
 
@@ -45,9 +45,9 @@ Top 8 documents by mention frequency:
 - [Maxwell](maxwell.md) - 7 shared documents
 - [Boeing](boeing.md) - 6 shared documents
 - [Treasury](treasury.md) - 5 shared documents
+- [Cassell](cassell.md) - 5 shared documents
 - [Court](court.md) - 5 shared documents
 - [FBI](fbi.md) - 5 shared documents
-- [Cassell](cassell.md) - 5 shared documents
 - [the Palm Beach Police Department](the-palm-beach-police-department.md) - 4 shared documents
 
 **Locations:**
@@ -59,22 +59,22 @@ Top 8 documents by mention frequency:
 - [West Palm Beach](../locations/west-palm-beach.md) - 7 shared documents
 - [Manhattan](../locations/manhattan.md) - 6 shared documents
 - [Thailand](../locations/thailand.md) - 6 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
 - [Africa](../locations/africa.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
+- [England](../locations/england.md) - 5 shared documents
+- [Massachusetts](../locations/massachusetts.md) - 5 shared documents
 
 **Events:**
 
+- [2002](../events/2002.md) - 7 shared documents
 - [2003](../events/2003.md) - 7 shared documents
 - [2004](../events/2004.md) - 7 shared documents
 - [2005](../events/2005.md) - 7 shared documents
 - [2006](../events/2006.md) - 7 shared documents
-- [2002](../events/2002.md) - 7 shared documents
-- [2009](../events/2009.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [last week](../events/last-week.md) - 5 shared documents
+- [14](../events/14.md) - 5 shared documents
+- [16](../events/16.md) - 5 shared documents
+- [18](../events/18.md) - 5 shared documents
 - [2001](../events/2001.md) - 5 shared documents
-- [2010](../events/2010.md) - 5 shared documents
+- [2009](../events/2009.md) - 5 shared documents
 
 ## Timeline
 

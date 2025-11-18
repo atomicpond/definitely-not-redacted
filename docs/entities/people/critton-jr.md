@@ -24,7 +24,6 @@ Top 5 documents by mention frequency:
 
 **People:**
 
-- [Epstein](epstein.md) - 5 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 5 shared documents
 - [West Palm Beach](west-palm-beach.md) - 5 shared documents
 

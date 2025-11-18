@@ -12,7 +12,7 @@
 - [Kim](../entities/people/kim.md) - 8 mentions
 - [Jim](../entities/people/jim.md) - 6 mentions
 - [World Bank](../entities/people/world-bank.md) - 4 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 3 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 3 mentions
 - [Paul](../entities/people/paul.md) - 3 mentions
 - [President Obama](../entities/people/president-obama.md) - 1 mention
 - [Eastern Europe](../entities/people/eastern-europe.md) - 1 mention

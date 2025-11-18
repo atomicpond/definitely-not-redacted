@@ -13,41 +13,30 @@
 
 ## Document Text
 
-```
-Source Entry: H\Macintosh HD\root\Users\jee\Library\Messages\Archive\2019-02-19\Arda on 
-2018-11-30 at 17.05.35.ichat 
-Service: iMessage 
-Start Time: 02/19/19 07:59:43 AM (572284783) 
-End Time: 02/19/19 08:15:56 AM (572285756) 
-Last Message ID: 25343 
-Chat Room: 
-Participants: jee, Ards 
-Presentity IDs: e:jeeitunes@gmail.com, 
-Messages - 
-Sender: 
-Time: 02/19/19 07:59:43 AM (572284783) 
-Flags: 1060865 
-Is Read: Yes 
-Is Invitation: No 
-GUID: 5B5709A3-560E-429B-AFE4-E5249A48CFE0 
-Message: greetings from Gibraltar. need anything? 
-Sender: e:jeeitunes@gmail.com 
-Time: 02/19/19 08:04:38 AM (572285078) 
-Flags: 1085445 
-Is Read: No 
-Is Invitation: No 
-GUID: 3CAA3A98-B462-4033-A879-565077D68802 
-Message: Funny. New client? 
-Sender: 
-Time: 02/19/19 08:15:56 AM (572285756) 
-Flags: 1060865 
-Is Read: Yes 
-Is Invitation: No 
-GUID: 8FE44F3A-A8C4-4590-9DD8-7A62A3FFFE6C 
-Message: working on it. the quality of potential immigrants seriously declined since 
-trump. 
-**HOUSE** OVERSIGHT 031173 
+**Thread-like Conversation View:**
 
+```
+================================================================================
+CHAT CONVERSATION - HOUSE_OVERSIGHT_031173.txt
+================================================================================
+
+
+--------------------------------------------------------------------------------
+  Tuesday, February 19, 2019
+--------------------------------------------------------------------------------
+
+[7:59 AM] Ards:
+  greetings from Gibraltar. need anything?
+
+[8:04 AM] Jeffrey E.:
+  Funny. New client?
+
+[8:15 AM] Ards:
+  working on it. the quality of potential immigrants seriously declined since trump.
+
+================================================================================
+END OF CONVERSATION
+================================================================================
 ```
 
 ---

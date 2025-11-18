@@ -45,10 +45,10 @@ Top 10 documents by mention frequency:
 - [Florida](florida.md) - 7 shared documents
 - [Palm Beach, FL](palm-beach-fl.md) - 7 shared documents
 - [United States](united-states.md) - 6 shared documents
-- [New York](new-york.md) - 6 shared documents
 - [Miami](miami.md) - 6 shared documents
-- [New Mexico](new-mexico.md) - 5 shared documents
+- [New York](new-york.md) - 6 shared documents
 - [Fort Lauderdale](fort-lauderdale.md) - 5 shared documents
+- [New Mexico](new-mexico.md) - 5 shared documents
 - [California](california.md) - 4 shared documents
 - [New York City](new-york-city.md) - 4 shared documents
 
@@ -57,13 +57,13 @@ Top 10 documents by mention frequency:
 - [2008](../events/2008.md) - 6 shared documents
 - [2004](../events/2004.md) - 5 shared documents
 - [weeks](../events/weeks.md) - 5 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
+- [14](../events/14.md) - 4 shared documents
+- [18 months](../events/18-months.md) - 4 shared documents
+- [1976](../events/1976.md) - 4 shared documents
 - [one day](../events/one-day.md) - 4 shared documents
 - [the years](../events/the-years.md) - 4 shared documents
-- [18 months](../events/18-months.md) - 4 shared documents
-- [14](../events/14.md) - 4 shared documents
-- [1976](../events/1976.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
+- [years](../events/years.md) - 4 shared documents
 
 ## Timeline
 

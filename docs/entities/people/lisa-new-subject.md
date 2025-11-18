@@ -44,12 +44,12 @@ Elisa New](lisa-elisa-new.md) - 4 shared documents
 
 **Organizations:**
 
-- [Harvard University](../organizations/harvard-university.md) - 7 shared documents
 - [American Literature](../organizations/american-literature.md) - 7 shared documents
-- [HOUSE](../organizations/house.md) - 5 shared documents
+- [Harvard University](../organizations/harvard-university.md) - 7 shared documents
 - [Cabot Professor of American Literature 
 Harvard University](../organizations/cabot-professor-of-american-literature-harvard-university.md) - 5 shared documents
 - [Harvard](../organizations/harvard.md) - 5 shared documents
+- [HOUSE](../organizations/house.md) - 5 shared documents
 - [WGBH](../organizations/wgbh.md) - 4 shared documents
 
 **Locations:**

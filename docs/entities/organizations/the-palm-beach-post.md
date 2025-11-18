@@ -40,10 +40,10 @@ Top 10 documents by mention frequency:
 - [Michael Reiter](../people/michael-reiter.md) - 12 shared documents
 - [Sarah Kellen](../people/sarah-kellen.md) - 11 shared documents
 - [Barry Krischer](../people/barry-krischer.md) - 10 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 10 shared documents
 - [Chief Reiter](../people/chief-reiter.md) - 10 shared documents
 - [Gerald Lefcourt](../people/gerald-lefcourt.md) - 10 shared documents
 - [Eliot Spitzer](../people/eliot-spitzer.md) - 9 shared documents
+- [Kenneth Starr](../people/kenneth-starr.md) - 9 shared documents
 
 **Organizations:**
 
@@ -53,10 +53,10 @@ Top 10 documents by mention frequency:
 - [HOUSE](house.md) - 12 shared documents
 - [Fed](fed.md) - 10 shared documents
 - [State](state.md) - 10 shared documents
-- [Ghislaine Maxwell](ghislaine-maxwell.md) - 9 shared documents
-- [Boeing](boeing.md) - 9 shared documents
 - [Xanadu](xanadu.md) - 7 shared documents
 - [the University of Miami](the-university-of-miami.md) - 6 shared documents
+- [the University of Pittsburgh](the-university-of-pittsburgh.md) - 6 shared documents
+- [Town](town.md) - 6 shared documents
 
 **Locations:**
 
@@ -65,23 +65,23 @@ Top 10 documents by mention frequency:
 - [Manhattan](../locations/manhattan.md) - 19 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 16 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 15 shared documents
-- [the United States](../locations/the-united-states.md) - 13 shared documents
 - [New Mexico](../locations/new-mexico.md) - 13 shared documents
-- [New York City](../locations/new-york-city.md) - 10 shared documents
+- [the United States](../locations/the-united-states.md) - 13 shared documents
 - [Miami](../locations/miami.md) - 10 shared documents
+- [New York City](../locations/new-york-city.md) - 10 shared documents
 
 **Events:**
 
+- [2006](../events/2006.md) - 12 shared documents
 - [Sunday](../events/sunday.md) - 12 shared documents
 - [years](../events/years.md) - 12 shared documents
-- [2006](../events/2006.md) - 12 shared documents
 - [daily](../events/daily.md) - 11 shared documents
-- [last year](../events/last-year.md) - 11 shared documents
 - [last week](../events/last-week.md) - 11 shared documents
-- [July](../events/july.md) - 10 shared documents
+- [last year](../events/last-year.md) - 11 shared documents
+- [14](../events/14.md) - 10 shared documents
 - [2005](../events/2005.md) - 10 shared documents
 - [Friday](../events/friday.md) - 10 shared documents
-- [14](../events/14.md) - 10 shared documents
+- [July](../events/july.md) - 10 shared documents
 
 ## Timeline
 

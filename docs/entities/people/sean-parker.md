@@ -27,44 +27,42 @@ Top 7 documents by mention frequency:
 **People:**
 
 - [Larry Gagosian](larry-gagosian.md) - 6 shared documents
-- [Jean Pigozzi](jean-pigozzi.md) - 5 shared documents
 - [Eric Schmidt](eric-schmidt.md) - 5 shared documents
+- [Jean Pigozzi](jean-pigozzi.md) - 5 shared documents
 - [Jeff Bezos](jeff-bezos.md) - 5 shared documents
 - [Mark Zuckerberg](mark-zuckerberg.md) - 5 shared documents
 
 **Organizations:**
 
+- [Academy](../organizations/academy.md) - 4 shared documents
+- [AOL](../organizations/aol.md) - 4 shared documents
 - [CBS](../organizations/cbs.md) - 4 shared documents
-- [Ford](../organizations/ford.md) - 4 shared documents
-- [Google](../organizations/google.md) - 4 shared documents
-- [HBO](../organizations/hbo.md) - 4 shared documents
-- [Viacom](../organizations/viacom.md) - 4 shared documents
 
 **Locations:**
 
 - [Carolina](../locations/carolina.md) - 6 shared documents
 - [New York City](../locations/new-york-city.md) - 6 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
+- [Cairo](../locations/cairo.md) - 4 shared documents
+- [California](../locations/california.md) - 4 shared documents
+- [Cannes](../locations/cannes.md) - 4 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
 - [Manhattan](../locations/manhattan.md) - 4 shared documents
-- [Toronto](../locations/toronto.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
 - [Paris](../locations/paris.md) - 4 shared documents
 
 **Events:**
 
 - [this year](../events/this-year.md) - 5 shared documents
-- [October](../events/october.md) - 4 shared documents
+- [1982](../events/1982.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
+- [a few weeks](../events/a-few-weeks.md) - 4 shared documents
 - [annual](../events/annual.md) - 4 shared documents
-- [six months](../events/six-months.md) - 4 shared documents
-- [last year](../events/last-year.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
+- [Christmas](../events/christmas.md) - 4 shared documents
 - [last week](../events/last-week.md) - 4 shared documents
+- [last year](../events/last-year.md) - 4 shared documents
 - [March](../events/march.md) - 4 shared documents
-- [the year](../events/the-year.md) - 4 shared documents
+- [mid-November](../events/mid-november.md) - 4 shared documents
 
 ## Timeline
 

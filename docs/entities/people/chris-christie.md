@@ -30,8 +30,8 @@ Top 9 documents by mention frequency:
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 5 shared documents
-- [Trump](../organizations/trump.md) - 5 shared documents
 - [the White House](../organizations/the-white-house.md) - 5 shared documents
+- [Trump](../organizations/trump.md) - 5 shared documents
 - [Senate](../organizations/senate.md) - 4 shared documents
 - [White House](../organizations/white-house.md) - 4 shared documents
 

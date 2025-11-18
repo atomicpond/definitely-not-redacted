@@ -32,13 +32,11 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](middle-east.md) - 14 shared documents
-- [President Obama](president-obama.md) - 14 shared documents
-- [Barack Obama](barack-obama.md) - 14 shared documents
 - [Security Council](security-council.md) - 12 shared documents
 - [West Bank](west-bank.md) - 11 shared documents
 - [White House](white-house.md) - 11 shared documents
-- [Saudi Arabia](saudi-arabia.md) - 11 shared documents
 - [Gaza Strip](gaza-strip.md) - 11 shared documents
+- [Saudi Arabia](saudi-arabia.md) - 11 shared documents
 - [Western Europe](western-europe.md) - 7 shared documents
 - [Tzipi Livni](tzipi-livni.md) - 4 shared documents
 
@@ -54,25 +52,25 @@ Top 10 documents by mention frequency:
 - [Israel](../locations/israel.md) - 16 shared documents
 - [Germany](../locations/germany.md) - 15 shared documents
 - [Iran](../locations/iran.md) - 15 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 14 shared documents
 - [Iraq](../locations/iraq.md) - 14 shared documents
 - [Syria](../locations/syria.md) - 14 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 14 shared documents
 - [Europe](../locations/europe.md) - 13 shared documents
-- [Washington](../locations/washington.md) - 13 shared documents
 - [France](../locations/france.md) - 13 shared documents
+- [Jerusalem](../locations/jerusalem.md) - 13 shared documents
 
 **Events:**
 
 - [last week](../events/last-week.md) - 14 shared documents
 - [the years](../events/the-years.md) - 13 shared documents
 - [a year](../events/a-year.md) - 12 shared documents
+- [1967](../events/1967.md) - 11 shared documents
 - [2003](../events/2003.md) - 11 shared documents
-- [today](../events/today.md) - 11 shared documents
 - [2012](../events/2012.md) - 11 shared documents
 - [Friday](../events/friday.md) - 11 shared documents
-- [1967](../events/1967.md) - 11 shared documents
+- [today](../events/today.md) - 11 shared documents
+- [1989](../events/1989.md) - 10 shared documents
 - [2007](../events/2007.md) - 10 shared documents
-- [2009](../events/2009.md) - 10 shared documents
 
 ## Timeline
 

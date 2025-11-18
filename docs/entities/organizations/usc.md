@@ -43,37 +43,36 @@ Top 10 documents by mention frequency:
 **Organizations:**
 
 - [State](state.md) - 14 shared documents
-- [Fed](fed.md) - 13 shared documents
 - [Congress](congress.md) - 13 shared documents
+- [Fed](fed.md) - 13 shared documents
 - [FBI](fbi.md) - 12 shared documents
 - [Court](court.md) - 11 shared documents
 - [the Supreme Court](the-supreme-court.md) - 11 shared documents
-- [Senate](senate.md) - 10 shared documents
 - [Justice](justice.md) - 10 shared documents
 
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 16 shared documents
 - [United States](../locations/united-states.md) - 15 shared documents
-- [U.S.](../locations/us.md) - 12 shared documents
 - [Florida](../locations/florida.md) - 12 shared documents
+- [U.S.](../locations/us.md) - 12 shared documents
 - [Virginia](../locations/virginia.md) - 12 shared documents
-- [Washington](../locations/washington.md) - 11 shared documents
 - [S.D.](../locations/sd.md) - 11 shared documents
+- [Washington](../locations/washington.md) - 11 shared documents
 - [California](../locations/california.md) - 10 shared documents
 
 **Events:**
 
 - [2004](../events/2004.md) - 15 shared documents
-- [2000](../events/2000.md) - 13 shared documents
 - [1998](../events/1998.md) - 13 shared documents
-- [2003](../events/2003.md) - 12 shared documents
+- [2000](../events/2000.md) - 13 shared documents
 - [1990](../events/1990.md) - 12 shared documents
+- [1994](../events/1994.md) - 12 shared documents
 - [1997](../events/1997.md) - 12 shared documents
 - [1999](../events/1999.md) - 12 shared documents
 - [2001](../events/2001.md) - 12 shared documents
 - [2002](../events/2002.md) - 12 shared documents
-- [1994](../events/1994.md) - 12 shared documents
+- [2003](../events/2003.md) - 12 shared documents
 
 ## Timeline
 

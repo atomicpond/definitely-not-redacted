@@ -13,7 +13,7 @@
 - [Epstein](../entities/people/epstein.md) - 3 mentions
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 2 mentions
 - [Mr. 
-Dershowitz](../entities/people/mr-dershowitz.md) - 2 mentions
+Dershowitz](../entities/people/alan-dershowitz.md) - 2 mentions
 - [MARTIN G. WEINBERG](../entities/people/martin-g-weinberg.md) - 2 mentions
 - [High 
 Privileged](../entities/people/high-privileged.md) - 1 mention

@@ -29,7 +29,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](president-obama.md) - 14 shared documents
 - [Middle East](middle-east.md) - 14 shared documents
 - [Saudi Arabia](saudi-arabia.md) - 11 shared documents
 - [White House](white-house.md) - 9 shared documents
@@ -39,6 +38,7 @@ Top 10 documents by mention frequency:
 - [President Hosni Mubarak](president-hosni-mubarak.md) - 5 shared documents
 - [Pulitzer Prize](pulitzer-prize.md) - 5 shared documents
 - [Tel Aviv](tel-aviv.md) - 5 shared documents
+- [West Bank](west-bank.md) - 5 shared documents
 
 **Organizations:**
 
@@ -48,28 +48,28 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 15 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 14 shared documents
 - [Russia](../locations/russia.md) - 14 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 14 shared documents
 - [California](../locations/california.md) - 13 shared documents
 - [Israel](../locations/israel.md) - 13 shared documents
-- [United States](../locations/united-states.md) - 12 shared documents
 - [China](../locations/china.md) - 12 shared documents
 - [France](../locations/france.md) - 12 shared documents
+- [United States](../locations/united-states.md) - 12 shared documents
 - [Iraq](../locations/iraq.md) - 11 shared documents
 - [Jordan](../locations/jordan.md) - 11 shared documents
 
 **Events:**
 
+- [1994](../events/1994.md) - 13 shared documents
+- [2000](../events/2000.md) - 13 shared documents
+- [2002](../events/2002.md) - 13 shared documents
 - [2003](../events/2003.md) - 13 shared documents
 - [2004](../events/2004.md) - 13 shared documents
 - [today](../events/today.md) - 13 shared documents
-- [2000](../events/2000.md) - 13 shared documents
 - [years](../events/years.md) - 13 shared documents
-- [2002](../events/2002.md) - 13 shared documents
-- [1994](../events/1994.md) - 13 shared documents
+- [1998](../events/1998.md) - 12 shared documents
 - [annual](../events/annual.md) - 12 shared documents
 - [daily](../events/daily.md) - 12 shared documents
-- [1998](../events/1998.md) - 12 shared documents
 
 ## Timeline
 

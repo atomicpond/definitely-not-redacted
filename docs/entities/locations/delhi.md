@@ -29,7 +29,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 
 **Organizations:**
 
@@ -62,12 +62,12 @@ Top 10 documents by mention frequency:
 - [Thursday](../events/thursday.md) - 7 shared documents
 - [today](../events/today.md) - 7 shared documents
 - [2015](../events/2015.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
-- [Friday](../events/friday.md) - 6 shared documents
-- [December](../events/december.md) - 6 shared documents
-- [three years](../events/three-years.md) - 6 shared documents
 - [decades](../events/decades.md) - 6 shared documents
+- [December](../events/december.md) - 6 shared documents
+- [Friday](../events/friday.md) - 6 shared documents
+- [ten years](../events/ten-years.md) - 6 shared documents
 - [the day](../events/the-day.md) - 6 shared documents
+- [three years](../events/three-years.md) - 6 shared documents
 
 ## Timeline
 

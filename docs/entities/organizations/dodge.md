@@ -44,28 +44,28 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [Florida](../locations/florida.md) - 8 shared documents
-- [Virginia](../locations/virginia.md) - 8 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 8 shared documents
+- [Virginia](../locations/virginia.md) - 8 shared documents
 - [California](../locations/california.md) - 5 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
+- [Holland](../locations/holland.md) - 5 shared documents
 - [London](../locations/london.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
 - [Miami](../locations/miami.md) - 5 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 5 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
 
 **Events:**
 
-- [2007](../events/2007.md) - 8 shared documents
 - [2005](../events/2005.md) - 8 shared documents
-- [2006](../events/2006.md) - 7 shared documents
+- [2007](../events/2007.md) - 8 shared documents
 - [1983](../events/1983.md) - 7 shared documents
-- [August](../events/august.md) - 6 shared documents
+- [2006](../events/2006.md) - 7 shared documents
+- [1960](../events/1960.md) - 6 shared documents
+- [1991](../events/1991.md) - 6 shared documents
+- [1995](../events/1995.md) - 6 shared documents
 - [1997](../events/1997.md) - 6 shared documents
 - [1998](../events/1998.md) - 6 shared documents
-- [the day](../events/the-day.md) - 6 shared documents
-- [winter](../events/winter.md) - 6 shared documents
-- [1960](../events/1960.md) - 6 shared documents
+- [August](../events/august.md) - 6 shared documents
 
 ## Timeline
 

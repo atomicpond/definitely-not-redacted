@@ -61,23 +61,23 @@ Authority](the-australian-prudential-regulation-authority.md) - 17 shared docume
 
 **Locations:**
 
-- [Dubai](../locations/dubai.md) - 19 shared documents
-- [Japan](../locations/japan.md) - 19 shared documents
+- [Argentina](../locations/argentina.md) - 19 shared documents
+- [Asia](../locations/asia.md) - 19 shared documents
+- [Australia](../locations/australia.md) - 19 shared documents
 - [Brazil](../locations/brazil.md) - 19 shared documents
 - [Canada](../locations/canada.md) - 19 shared documents
-- [Mexico](../locations/mexico.md) - 19 shared documents
-- [Asia](../locations/asia.md) - 19 shared documents
-- [Israel](../locations/israel.md) - 19 shared documents
-- [Australia](../locations/australia.md) - 19 shared documents
+- [Dubai](../locations/dubai.md) - 19 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 19 shared documents
-- [Singapore](../locations/singapore.md) - 19 shared documents
+- [India](../locations/india.md) - 19 shared documents
+- [Indonesia](../locations/indonesia.md) - 19 shared documents
+- [Israel](../locations/israel.md) - 19 shared documents
 
 **Events:**
 
 - [2001](../events/2001.md) - 18 shared documents
 - [1959](../events/1959.md) - 17 shared documents
-- [the day](../events/the-day.md) - 17 shared documents
 - [198602883D](../events/198602883d.md) - 17 shared documents
+- [the day](../events/the-day.md) - 17 shared documents
 
 ## Timeline
 

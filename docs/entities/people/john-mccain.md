@@ -47,22 +47,22 @@ Spektor](regina-spektor.md) - 5 shared documents
 
 - [HOUSE](../organizations/house.md) - 10 shared documents
 - [Harvard](../organizations/harvard.md) - 7 shared documents
-- [Supreme Court](../organizations/supreme-court.md) - 6 shared documents
 - [HARVARD UNIVERSITY 
 DEPARTMENT](../organizations/harvard-university-department.md) - 6 shared documents
 - [Quincy Street - Cambridge](../organizations/quincy-street-cambridge.md) - 6 shared documents
-- [American Literature](../organizations/american-literature.md) - 5 shared documents
+- [Supreme Court](../organizations/supreme-court.md) - 6 shared documents
 - [Amazon](../organizations/amazon.md) - 5 shared documents
-- [Harvard University](../organizations/harvard-university.md) - 4 shared documents
+- [American Literature](../organizations/american-literature.md) - 5 shared documents
 - [Cabot Professor of American Literature 
 Harvard University](../organizations/cabot-professor-of-american-literature-harvard-university.md) - 4 shared documents
 - [Harvard Medical School](../organizations/harvard-medical-school.md) - 4 shared documents
+- [Harvard University](../organizations/harvard-university.md) - 4 shared documents
 
 **Locations:**
 
 - [America](../locations/america.md) - 11 shared documents
-- [the United States](../locations/the-united-states.md) - 6 shared documents
 - [Massachusetts](../locations/massachusetts.md) - 6 shared documents
+- [the United States](../locations/the-united-states.md) - 6 shared documents
 - [Cambridge](../locations/cambridge.md) - 4 shared documents
 
 **Events:**

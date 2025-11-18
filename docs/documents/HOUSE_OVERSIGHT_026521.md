@@ -23,7 +23,7 @@
 - [John Maynard](../entities/people/john-maynard.md) - 1 mention
 - [John Maynard
 Keynes](../entities/people/john-maynard-keynes.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Evolutionary Dynamics](../entities/people/evolutionary-dynamics.md) - 1 mention
 
 ### Organizations

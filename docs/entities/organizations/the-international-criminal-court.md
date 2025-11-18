@@ -26,32 +26,32 @@ Top 5 documents by mention frequency:
 
 - [the State Department](the-state-department.md) - 5 shared documents
 - [State](state.md) - 5 shared documents
-- [Congress](congress.md) - 4 shared documents
 - [al-Qaeda](al-qaeda.md) - 4 shared documents
-- [Taliban](taliban.md) - 4 shared documents
+- [Congress](congress.md) - 4 shared documents
 - [Hamas](hamas.md) - 4 shared documents
+- [Taliban](taliban.md) - 4 shared documents
 - [the Arab League](the-arab-league.md) - 4 shared documents
 
 **Locations:**
 
-- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
-- [Iran](../locations/iran.md) - 5 shared documents
-- [Iraq](../locations/iraq.md) - 5 shared documents
-- [Libya](../locations/libya.md) - 5 shared documents
-- [Syria](../locations/syria.md) - 5 shared documents
-- [Israel](../locations/israel.md) - 5 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 5 shared documents
 - [Egypt](../locations/egypt.md) - 5 shared documents
 - [Gaza](../locations/gaza.md) - 5 shared documents
-- [Afghanistan](../locations/afghanistan.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
+- [Iran](../locations/iran.md) - 5 shared documents
+- [Iraq](../locations/iraq.md) - 5 shared documents
+- [Israel](../locations/israel.md) - 5 shared documents
+- [Libya](../locations/libya.md) - 5 shared documents
+- [Syria](../locations/syria.md) - 5 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
+- [Cairo](../locations/cairo.md) - 4 shared documents
 
 **Events:**
 
 - [2003](../events/2003.md) - 5 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [Friday](../events/friday.md) - 4 shared documents
 - [1967](../events/1967.md) - 4 shared documents
+- [Friday](../events/friday.md) - 4 shared documents
 - [the day](../events/the-day.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

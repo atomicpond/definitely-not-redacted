@@ -29,14 +29,14 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Bradley J. Edwards](../people/bradley-j-edwards.md) - 8 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 7 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 8 shared documents
 - [Jack Scarola](../people/jack-scarola.md) - 7 shared documents
 - [Jane Doe](../people/jane-doe.md) - 6 shared documents
 - [New Mexico](../people/new-mexico.md) - 6 shared documents
 - [Paul G. Cassell](../people/paul-g-cassell.md) - 6 shared documents
 - [Salt Lake City](../people/salt-lake-city.md) - 6 shared documents
 - [Alfredo Rodriguez](../people/alfredo-rodriguez.md) - 5 shared documents
+- [Secret Service](../people/secret-service.md) - 5 shared documents
 
 **Organizations:**
 
@@ -66,16 +66,16 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
-- [today](../events/today.md) - 6 shared documents
 - [14](../events/14.md) - 6 shared documents
-- [2011](../events/2011.md) - 5 shared documents
-- [6](../events/6.md) - 5 shared documents
+- [today](../events/today.md) - 6 shared documents
 - [10](../events/10.md) - 5 shared documents
 - [19](../events/19.md) - 5 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [2014](../events/2014.md) - 4 shared documents
-- [daily](../events/daily.md) - 4 shared documents
+- [2011](../events/2011.md) - 5 shared documents
+- [6](../events/6.md) - 5 shared documents
+- [13](../events/13.md) - 4 shared documents
 - [1999](../events/1999.md) - 4 shared documents
+- [2002](../events/2002.md) - 4 shared documents
+- [2006](../events/2006.md) - 4 shared documents
 
 ## Timeline
 

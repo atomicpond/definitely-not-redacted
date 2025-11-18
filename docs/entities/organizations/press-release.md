@@ -29,18 +29,18 @@ Top 5 documents by mention frequency:
 **Organizations:**
 
 - [Congress](congress.md) - 4 shared documents
-- [LLC](llc.md) - 4 shared documents
 - [Google](google.md) - 4 shared documents
+- [LLC](llc.md) - 4 shared documents
 
 **Locations:**
 
-- [China](../locations/china.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
 - [Brazil](../locations/brazil.md) - 4 shared documents
 - [Canada](../locations/canada.md) - 4 shared documents
+- [China](../locations/china.md) - 4 shared documents
+- [Europe](../locations/europe.md) - 4 shared documents
+- [Italy](../locations/italy.md) - 4 shared documents
 - [Mexico](../locations/mexico.md) - 4 shared documents
 - [the United States](../locations/the-united-states.md) - 4 shared documents
-- [Italy](../locations/italy.md) - 4 shared documents
 
 **Events:**
 

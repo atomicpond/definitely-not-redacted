@@ -34,7 +34,7 @@ Top 10 documents by mention frequency:
 - [Saudi Arabia](../people/saudi-arabia.md) - 13 shared documents
 - [White House](../people/white-house.md) - 13 shared documents
 - [Security Council](../people/security-council.md) - 12 shared documents
-- [President Obama](../people/president-obama.md) - 11 shared documents
+- [Barack Obama](../people/barack-obama.md) - 11 shared documents
 - [Rockefeller University](../people/rockefeller-university.md) - 11 shared documents
 - [San Francisco](../people/san-francisco.md) - 11 shared documents
 
@@ -58,24 +58,24 @@ Top 10 documents by mention frequency:
 - [Paris](paris.md) - 22 shared documents
 - [the United States](the-united-states.md) - 21 shared documents
 - [United States](united-states.md) - 21 shared documents
-- [Europe](europe.md) - 21 shared documents
 - [America](america.md) - 21 shared documents
+- [Europe](europe.md) - 21 shared documents
 - [California](california.md) - 20 shared documents
 - [Germany](germany.md) - 20 shared documents
-- [Japan](japan.md) - 19 shared documents
+- [Israel](israel.md) - 19 shared documents
 
 **Events:**
 
 - [2004](../events/2004.md) - 24 shared documents
 - [2000](../events/2000.md) - 23 shared documents
 - [2002](../events/2002.md) - 23 shared documents
-- [2012](../events/2012.md) - 22 shared documents
-- [years](../events/years.md) - 22 shared documents
-- [two years](../events/two-years.md) - 22 shared documents
 - [1982](../events/1982.md) - 22 shared documents
+- [2012](../events/2012.md) - 22 shared documents
+- [two years](../events/two-years.md) - 22 shared documents
+- [years](../events/years.md) - 22 shared documents
 - [1994](../events/1994.md) - 21 shared documents
-- [2010](../events/2010.md) - 20 shared documents
 - [1981](../events/1981.md) - 20 shared documents
+- [2010](../events/2010.md) - 20 shared documents
 
 ## Timeline
 

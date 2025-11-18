@@ -28,12 +28,10 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [Jeffrey Epstein](jeffrey-epstein.md) - 8 shared documents
 - [Esq](esq.md) - 8 shared documents
-- [Epstein](epstein.md) - 7 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 7 shared documents
 - [Darren Indyke](darren-indyke.md) - 6 shared documents
-- [Bradley Edwards](bradley-edwards.md) - 5 shared documents
-- [Mr. Edwards](edwards.md) - 5 shared documents
+- [Brad Edwards](brad-edwards.md) - 5 shared documents
 - [Debbie Fein](debbie-fein.md) - 5 shared documents
 
 **Organizations:**
@@ -43,16 +41,16 @@ Top 9 documents by mention frequency:
 **Locations:**
 
 - [Fort Lauderdale](../locations/fort-lauderdale.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
-- [London](../locations/london.md) - 4 shared documents
 - [England](../locations/england.md) - 4 shared documents
+- [London](../locations/london.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
-- [Saturday](../events/saturday.md) - 4 shared documents
 - [age 17](../events/age-17.md) - 4 shared documents
+- [Saturday](../events/saturday.md) - 4 shared documents
+- [Sunday](../events/sunday.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

@@ -57,16 +57,16 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
-- [2012](../events/2012.md) - 7 shared documents
 - [2008](../events/2008.md) - 7 shared documents
 - [2010](../events/2010.md) - 7 shared documents
+- [2012](../events/2012.md) - 7 shared documents
 - [2004](../events/2004.md) - 6 shared documents
-- [2018](../events/2018.md) - 6 shared documents
 - [2009](../events/2009.md) - 6 shared documents
 - [2015](../events/2015.md) - 6 shared documents
+- [2018](../events/2018.md) - 6 shared documents
 - [daily](../events/daily.md) - 6 shared documents
+- [fifteen years](../events/fifteen-years.md) - 6 shared documents
 - [the year](../events/the-year.md) - 6 shared documents
-- [the years](../events/the-years.md) - 6 shared documents
 
 ## Timeline
 

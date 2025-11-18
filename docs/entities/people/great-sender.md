@@ -35,8 +35,8 @@ Entry](source-entry.md) - 6 shared documents
 - [Start Time](start-time.md) - 6 shared documents
 - [Yes 
 Is Invitation](yes-is-invitation.md) - 6 shared documents
-- [End Time](end-time.md) - 6 shared documents
 - [Chat Room](chat-room.md) - 6 shared documents
+- [End Time](end-time.md) - 6 shared documents
 - [Miro](miro.md) - 5 shared documents
 - [No 
 Is Invitation](no-is-invitation.md) - 5 shared documents

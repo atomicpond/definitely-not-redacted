@@ -42,31 +42,36 @@ Top 8 documents by mention frequency:
 - [the Financial Conduct Authority](the-financial-conduct-authority.md) - 8 shared documents
 - [the Monetary Authority](the-monetary-authority.md) - 8 shared documents
 - [the Prudential Regulation Authority](the-prudential-regulation-authority.md) - 8 shared documents
+- [Bank](bank.md) - 8 shared documents
 - [Bank of America](bank-of-america.md) - 8 shared documents
 - [Bloomberg](bloomberg.md) - 8 shared documents
-- [Bank](bank.md) - 8 shared documents
 - [Central Bank](central-bank.md) - 8 shared documents
 - [DIFC](difc.md) - 8 shared documents
 
 **Locations:**
 
-- [Dubai](../locations/dubai.md) - 8 shared documents
-- [China](../locations/china.md) - 8 shared documents
-- [Japan](../locations/japan.md) - 8 shared documents
-- [Russia](../locations/russia.md) - 8 shared documents
+- [Argentina](../locations/argentina.md) - 8 shared documents
+- [Asia](../locations/asia.md) - 8 shared documents
+- [Australia](../locations/australia.md) - 8 shared documents
 - [Brazil](../locations/brazil.md) - 8 shared documents
 - [Canada](../locations/canada.md) - 8 shared documents
+- [China](../locations/china.md) - 8 shared documents
+- [Dubai](../locations/dubai.md) - 8 shared documents
 - [Germany](../locations/germany.md) - 8 shared documents
-- [Mexico](../locations/mexico.md) - 8 shared documents
-- [Asia](../locations/asia.md) - 8 shared documents
-- [Israel](../locations/israel.md) - 8 shared documents
+- [Hong Kong](../locations/hong-kong.md) - 8 shared documents
+- [India](../locations/india.md) - 8 shared documents
 
 **Events:**
 
 - [2001](../events/2001.md) - 8 shared documents
+- [12-month](../events/12-month.md) - 7 shared documents
+- [1959](../events/1959.md) - 7 shared documents
+- [198602883D](../events/198602883d.md) - 7 shared documents
 - [2016](../events/2016.md) - 7 shared documents
-- [this year](../events/this-year.md) - 7 shared documents
 - [2017](../events/2017.md) - 7 shared documents
+- [monthly](../events/monthly.md) - 7 shared documents
+- [the day](../events/the-day.md) - 7 shared documents
+- [this year](../events/this-year.md) - 7 shared documents
 
 ## Timeline
 

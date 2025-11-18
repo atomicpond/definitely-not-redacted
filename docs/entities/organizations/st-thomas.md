@@ -34,26 +34,26 @@ Top 6 documents by mention frequency:
 
 **Organizations:**
 
-- [Senate](senate.md) - 4 shared documents
 - [Congress](congress.md) - 4 shared documents
+- [Senate](senate.md) - 4 shared documents
 
 **Locations:**
 
-- [the United States](../locations/the-united-states.md) - 5 shared documents
 - [St. Thomas](../locations/st-thomas.md) - 5 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
 - [Virgin Islands](../locations/virgin-islands.md) - 5 shared documents
-- [U.S.](../locations/us.md) - 4 shared documents
 - [Puerto Rico](../locations/puerto-rico.md) - 4 shared documents
 - [the Virgin Islands](../locations/the-virgin-islands.md) - 4 shared documents
+- [U.S.](../locations/us.md) - 4 shared documents
 - [USVI](../locations/usvi.md) - 4 shared documents
 
 **Events:**
 
 - [annual](../events/annual.md) - 5 shared documents
 - [2016](../events/2016.md) - 4 shared documents
+- [daily](../events/daily.md) - 4 shared documents
 - [today](../events/today.md) - 4 shared documents
 - [Wednesday](../events/wednesday.md) - 4 shared documents
-- [daily](../events/daily.md) - 4 shared documents
 - [years](../events/years.md) - 4 shared documents
 
 ## Timeline

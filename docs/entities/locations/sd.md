@@ -32,7 +32,7 @@ Top 10 documents by mention frequency:
 - [Jane Doe](../people/jane-doe.md) - 10 shared documents
 - [Paul G. Cassell](../people/paul-g-cassell.md) - 10 shared documents
 - [Rights Act](../people/rights-act.md) - 10 shared documents
-- [Bradley J. Edwards](../people/bradley-j-edwards.md) - 9 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 9 shared documents
 - [Crime Victims](../people/crime-victims.md) - 9 shared documents
 - [District Court](../people/district-court.md) - 9 shared documents
 - [New Jersey](../people/new-jersey.md) - 9 shared documents
@@ -70,14 +70,14 @@ Top 10 documents by mention frequency:
 
 - [1993](../events/1993.md) - 15 shared documents
 - [2001](../events/2001.md) - 15 shared documents
-- [2002](../events/2002.md) - 14 shared documents
 - [1989](../events/1989.md) - 14 shared documents
-- [2004](../events/2004.md) - 13 shared documents
+- [2002](../events/2002.md) - 14 shared documents
 - [1998](../events/1998.md) - 13 shared documents
 - [1999](../events/1999.md) - 13 shared documents
-- [2003](../events/2003.md) - 12 shared documents
-- [1996](../events/1996.md) - 12 shared documents
-- [1985](../events/1985.md) - 12 shared documents
+- [2004](../events/2004.md) - 13 shared documents
+- [14](../events/14.md) - 12 shared documents
+- [1976](../events/1976.md) - 12 shared documents
+- [1984](../events/1984.md) - 12 shared documents
 
 ## Timeline
 

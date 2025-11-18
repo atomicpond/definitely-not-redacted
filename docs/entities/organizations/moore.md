@@ -41,37 +41,33 @@ Top 8 documents by mention frequency:
 - [Princeton University](princeton-university.md) - 5 shared documents
 - [Time](time.md) - 5 shared documents
 - [University Press](university-press.md) - 5 shared documents
-- [Harvard University](harvard-university.md) - 5 shared documents
-- [Harvard](harvard.md) - 5 shared documents
 - [NASA](nasa.md) - 4 shared documents
 - [Neuroscience](neuroscience.md) - 4 shared documents
 - [Princeton](princeton.md) - 4 shared documents
+- [Renaissance](renaissance.md) - 4 shared documents
+- [Stanford University](stanford-university.md) - 4 shared documents
 
 **Locations:**
 
 - [New York](../locations/new-york.md) - 7 shared documents
 - [California](../locations/california.md) - 6 shared documents
+- [England](../locations/england.md) - 6 shared documents
 - [London](../locations/london.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 6 shared documents
-- [England](../locations/england.md) - 6 shared documents
-- [Earth](../locations/earth.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
+- [America](../locations/america.md) - 5 shared documents
 
 **Events:**
 
 - [1997](../events/1997.md) - 7 shared documents
-- [2003](../events/2003.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [1996](../events/1996.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
 - [1993](../events/1993.md) - 6 shared documents
-- [2001](../events/2001.md) - 6 shared documents
-- [decades](../events/decades.md) - 6 shared documents
 - [1995](../events/1995.md) - 6 shared documents
-- [daily](../events/daily.md) - 5 shared documents
+- [1996](../events/1996.md) - 6 shared documents
+- [2001](../events/2001.md) - 6 shared documents
+- [2003](../events/2003.md) - 6 shared documents
+- [decades](../events/decades.md) - 6 shared documents
+- [today](../events/today.md) - 6 shared documents
+- [years](../events/years.md) - 6 shared documents
+- [1936](../events/1936.md) - 5 shared documents
 
 ## Timeline
 

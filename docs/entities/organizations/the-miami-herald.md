@@ -32,14 +32,14 @@ Top 10 documents by mention frequency:
 
 - [Miami Herald](../people/miami-herald.md) - 14 shared documents
 - [Paul Cassell](../people/paul-cassell.md) - 13 shared documents
-- [Epstein](../people/epstein.md) - 12 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 12 shared documents
 - [Emily Michot](../people/emily-michot.md) - 11 shared documents
 - [Jack Goldberger](../people/jack-goldberger.md) - 11 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 11 shared documents
 - [Acosta](../people/acosta.md) - 10 shared documents
 - [Alexander Acosta](../people/alexander-acosta.md) - 10 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 10 shared documents
 - [Jack Scarola](../people/jack-scarola.md) - 10 shared documents
+- [Kenneth Starr](../people/kenneth-starr.md) - 10 shared documents
+- [Ann Sanchez](../people/ann-sanchez.md) - 9 shared documents
 
 **Organizations:**
 
@@ -52,7 +52,7 @@ Top 10 documents by mention frequency:
 - [Justice Department](justice-department.md) - 11 shared documents
 - [Times](times.md) - 9 shared documents
 - [Congress](congress.md) - 9 shared documents
-- [the Department of Justice](the-department-of-justice.md) - 9 shared documents
+- [Scarola](scarola.md) - 9 shared documents
 
 **Locations:**
 
@@ -62,23 +62,23 @@ Top 10 documents by mention frequency:
 - [Caribbean](../locations/caribbean.md) - 12 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 12 shared documents
 - [US](../locations/us.md) - 12 shared documents
-- [New York](../locations/new-york.md) - 10 shared documents
 - [Miami Herald](../locations/miami-herald.md) - 10 shared documents
-- [Georgia](../locations/georgia.md) - 8 shared documents
+- [New York](../locations/new-york.md) - 10 shared documents
 - [Fort Lauderdale](../locations/fort-lauderdale.md) - 8 shared documents
+- [Georgia](../locations/georgia.md) - 8 shared documents
 
 **Events:**
 
 - [2008](../events/2008.md) - 17 shared documents
 - [13 months](../events/13-months.md) - 16 shared documents
 - [2009](../events/2009.md) - 12 shared documents
-- [Monday](../events/monday.md) - 12 shared documents
 - [2017](../events/2017.md) - 12 shared documents
+- [Monday](../events/monday.md) - 12 shared documents
 - [Tuesday](../events/tuesday.md) - 12 shared documents
 - [Friday](../events/friday.md) - 11 shared documents
 - [2019](../events/2019.md) - 10 shared documents
-- [September](../events/september.md) - 9 shared documents
 - [66](../events/66.md) - 9 shared documents
+- [September](../events/september.md) - 9 shared documents
 
 ## Timeline
 

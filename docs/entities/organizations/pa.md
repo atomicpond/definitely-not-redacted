@@ -31,8 +31,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Bradley J. Edwards](../people/bradley-j-edwards.md) - 9 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 8 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 9 shared documents
 - [Jack Scarola](../people/jack-scarola.md) - 8 shared documents
 - [Jane Doe](../people/jane-doe.md) - 8 shared documents
 - [New Mexico](../people/new-mexico.md) - 8 shared documents
@@ -40,8 +39,9 @@ Top 10 documents by mention frequency:
 - [Vanity Fair](../people/vanity-fair.md) - 7 shared documents
 - [Boulevard
 West Palm](../people/boulevard-west-palm.md) - 6 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 6 shared documents
 - [Crime Victims](../people/crime-victims.md) - 6 shared documents
+- [Paul G. Cassell](../people/paul-g-cassell.md) - 6 shared documents
+- [Rights Act](../people/rights-act.md) - 6 shared documents
 
 **Organizations:**
 
@@ -51,8 +51,8 @@ West Palm](../people/boulevard-west-palm.md) - 6 shared documents
 - [Florida Bar No](florida-bar-no.md) - 8 shared documents
 - [Suite 2](suite-2.md) - 7 shared documents
 - [Vanity Fair](vanity-fair.md) - 7 shared documents
-- [HOUSE](house.md) - 7 shared documents
 - [Goldberger & Weiss](goldberger-weiss.md) - 7 shared documents
+- [HOUSE](house.md) - 7 shared documents
 - [Searcy Denney Scarola Barnhart & Shipley](searcy-denney-scarola-barnhart-shipley.md) - 6 shared documents
 - [State](state.md) - 6 shared documents
 
@@ -61,26 +61,26 @@ West Palm](../people/boulevard-west-palm.md) - 6 shared documents
 - [Florida](../locations/florida.md) - 12 shared documents
 - [United States](../locations/united-states.md) - 11 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 11 shared documents
-- [New York](../locations/new-york.md) - 10 shared documents
+- [Fort Lauderdale](../locations/fort-lauderdale.md) - 10 shared documents
 - [Miami](../locations/miami.md) - 10 shared documents
+- [New York](../locations/new-york.md) - 10 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 10 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 10 shared documents
-- [Fort Lauderdale](../locations/fort-lauderdale.md) - 10 shared documents
-- [U.S.](../locations/us.md) - 9 shared documents
 - [Palm Beach, FL](../locations/palm-beach-fl.md) - 9 shared documents
+- [U.S.](../locations/us.md) - 9 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 11 shared documents
 - [daily](../events/daily.md) - 10 shared documents
 - [2008](../events/2008.md) - 8 shared documents
+- [2006](../events/2006.md) - 7 shared documents
 - [2007](../events/2007.md) - 7 shared documents
 - [2011](../events/2011.md) - 7 shared documents
 - [one day](../events/one-day.md) - 7 shared documents
-- [2006](../events/2006.md) - 7 shared documents
-- [weeks](../events/weeks.md) - 7 shared documents
-- [the next day](../events/the-next-day.md) - 7 shared documents
 - [the day](../events/the-day.md) - 7 shared documents
+- [the next day](../events/the-next-day.md) - 7 shared documents
+- [weeks](../events/weeks.md) - 7 shared documents
 
 ## Timeline
 

@@ -45,8 +45,8 @@ Top 10 documents by mention frequency:
 
 - [Goldman Sachs](goldman-sachs.md) - 15 shared documents
 - [Times](times.md) - 14 shared documents
-- [Harvard](harvard.md) - 14 shared documents
 - [Google](google.md) - 14 shared documents
+- [Harvard](harvard.md) - 14 shared documents
 - [the New York Times](the-new-york-times.md) - 13 shared documents
 - [Treasury](treasury.md) - 12 shared documents
 - [Forbes](forbes.md) - 12 shared documents
@@ -65,20 +65,20 @@ Top 10 documents by mention frequency:
 - [America](../locations/america.md) - 11 shared documents
 - [Britain](../locations/britain.md) - 11 shared documents
 - [Lafayette](../locations/lafayette.md) - 11 shared documents
-- [Palm Beach](../locations/palm-beach.md) - 10 shared documents
+- [Connecticut](../locations/connecticut.md) - 10 shared documents
 
 **Events:**
 
 - [Sunday](../events/sunday.md) - 15 shared documents
-- [two years](../events/two-years.md) - 15 shared documents
 - [ten years](../events/ten-years.md) - 15 shared documents
-- [last year](../events/last-year.md) - 13 shared documents
-- [Saturday](../events/saturday.md) - 13 shared documents
+- [two years](../events/two-years.md) - 15 shared documents
 - [2006](../events/2006.md) - 13 shared documents
+- [last year](../events/last-year.md) - 13 shared documents
 - [many years](../events/many-years.md) - 13 shared documents
+- [Saturday](../events/saturday.md) - 13 shared documents
+- [1994](../events/1994.md) - 12 shared documents
+- [2002](../events/2002.md) - 12 shared documents
 - [2014](../events/2014.md) - 12 shared documents
-- [daily](../events/daily.md) - 12 shared documents
-- [tomorrow](../events/tomorrow.md) - 12 shared documents
 
 ## Timeline
 

@@ -57,24 +57,24 @@ Top 10 documents by mention frequency:
 
 - [London](../locations/london.md) - 12 shared documents
 - [Paris](../locations/paris.md) - 12 shared documents
-- [Washington](../locations/washington.md) - 11 shared documents
 - [Hollywood](../locations/hollywood.md) - 11 shared documents
-- [New York](../locations/new-york.md) - 10 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 10 shared documents
+- [Washington](../locations/washington.md) - 11 shared documents
 - [America](../locations/america.md) - 10 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 10 shared documents
+- [New York](../locations/new-york.md) - 10 shared documents
 - [California](../locations/california.md) - 9 shared documents
+- [New York City](../locations/new-york-city.md) - 9 shared documents
 - [Rome](../locations/rome.md) - 9 shared documents
-- [Toronto](../locations/toronto.md) - 9 shared documents
 
 **Events:**
 
 - [this year](../events/this-year.md) - 14 shared documents
 - [Sunday](../events/sunday.md) - 11 shared documents
 - [years](../events/years.md) - 11 shared documents
-- [annual](../events/annual.md) - 10 shared documents
-- [the year](../events/the-year.md) - 10 shared documents
 - [2005](../events/2005.md) - 10 shared documents
+- [annual](../events/annual.md) - 10 shared documents
 - [the next day](../events/the-next-day.md) - 10 shared documents
+- [the year](../events/the-year.md) - 10 shared documents
 - [last year](../events/last-year.md) - 9 shared documents
 - [March](../events/march.md) - 9 shared documents
 - [September](../events/september.md) - 9 shared documents

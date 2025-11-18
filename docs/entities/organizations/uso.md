@@ -29,7 +29,7 @@ Top 8 documents by mention frequency:
 **People:**
 
 - [Asia Pacific](../people/asia-pacific.md) - 6 shared documents
-- [President Obama](../people/president-obama.md) - 4 shared documents
+- [Barack Obama](../people/barack-obama.md) - 4 shared documents
 
 **Organizations:**
 
@@ -40,8 +40,8 @@ Top 8 documents by mention frequency:
 **Locations:**
 
 - [Japan](../locations/japan.md) - 6 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [Germany](../locations/germany.md) - 5 shared documents
 - [U.S.](../locations/us.md) - 4 shared documents
 
 **Events:**

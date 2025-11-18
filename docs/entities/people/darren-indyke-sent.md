@@ -40,8 +40,8 @@ Top 10 documents by mention frequency:
 
 - [Lexington Avenue](../organizations/lexington-avenue.md) - 10 shared documents
 - [PLLC](../organizations/pllc.md) - 10 shared documents
-- [HOUSE](../organizations/house.md) - 9 shared documents
 - [4th Floor](../organizations/4th-floor.md) - 9 shared documents
+- [HOUSE](../organizations/house.md) - 9 shared documents
 - [Trump](../organizations/trump.md) - 4 shared documents
 
 **Locations:**

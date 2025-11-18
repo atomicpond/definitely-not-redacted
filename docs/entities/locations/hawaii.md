@@ -52,21 +52,21 @@ Top 10 documents by mention frequency:
 - [Miami](miami.md) - 9 shared documents
 - [the United States](the-united-states.md) - 9 shared documents
 - [Utah](utah.md) - 9 shared documents
-- [California](california.md) - 9 shared documents
 - [Brazil](brazil.md) - 9 shared documents
+- [California](california.md) - 9 shared documents
 
 **Events:**
 
 - [2000](../events/2000.md) - 11 shared documents
-- [2012](../events/2012.md) - 11 shared documents
-- [years](../events/years.md) - 11 shared documents
 - [2008](../events/2008.md) - 11 shared documents
 - [2010](../events/2010.md) - 11 shared documents
+- [2012](../events/2012.md) - 11 shared documents
+- [years](../events/years.md) - 11 shared documents
 - [2004](../events/2004.md) - 10 shared documents
 - [2007](../events/2007.md) - 10 shared documents
 - [2009](../events/2009.md) - 10 shared documents
 - [today](../events/today.md) - 10 shared documents
-- [2014](../events/2014.md) - 9 shared documents
+- [1998](../events/1998.md) - 9 shared documents
 
 ## Timeline
 

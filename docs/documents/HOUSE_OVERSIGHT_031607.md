@@ -14,7 +14,7 @@
 - [Kennedy](../entities/people/kennedy.md) - 2 mentions
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
 - [Epstein](../entities/people/epstein.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [George W. Bush](../entities/people/george-w-bush.md) - 1 mention
 - [Johnson](../entities/people/johnson.md) - 1 mention
 - [Abraham Lincoln](../entities/people/abraham-lincoln.md) - 1 mention

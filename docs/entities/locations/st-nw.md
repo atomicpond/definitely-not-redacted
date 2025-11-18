@@ -30,9 +30,9 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Democracy Dies](../people/democracy-dies.md) - 8 shared documents
-- [Lawrence Summers](../people/lawrence-summers.md) - 8 shared documents
+- [Larry Summers](../people/larry-summers.md) - 8 shared documents
 - [Barrack Jr](../people/barrack-jr.md) - 7 shared documents
-- [Lawrence](../people/lawrence.md) - 5 shared documents
+- [Lawrence Krauss](../people/lawrence-krauss.md) - 5 shared documents
 - [barrack](../people/barrack.md) - 4 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 4 shared documents
 - [On Wed](../people/on-wed.md) - 4 shared documents

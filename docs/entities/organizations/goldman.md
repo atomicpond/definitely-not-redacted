@@ -33,10 +33,10 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
-- [Mexico](../locations/mexico.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 - [Asia](../locations/asia.md) - 4 shared documents
 - [Australia](../locations/australia.md) - 4 shared documents
+- [Mexico](../locations/mexico.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 

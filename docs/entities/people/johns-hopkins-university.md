@@ -32,28 +32,28 @@ States](united-states.md) - 6 shared documents
 **Organizations:**
 
 - [Defense](../organizations/defense.md) - 4 shared documents
-- [State](../organizations/state.md) - 4 shared documents
 - [Hamas](../organizations/hamas.md) - 4 shared documents
+- [State](../organizations/state.md) - 4 shared documents
 
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 6 shared documents
-- [Middle East](../locations/middle-east.md) - 5 shared documents
-- [China](../locations/china.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [Asia](../locations/asia.md) - 5 shared documents
+- [China](../locations/china.md) - 5 shared documents
+- [Middle East](../locations/middle-east.md) - 5 shared documents
 - [US](../locations/us.md) - 5 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 4 shared documents
 - [Africa](../locations/africa.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
+- [America](../locations/america.md) - 4 shared documents
+- [Egypt](../locations/egypt.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 4 shared documents
-- [last week](../events/last-week.md) - 4 shared documents
 - [2011](../events/2011.md) - 4 shared documents
 - [decades](../events/decades.md) - 4 shared documents
+- [last week](../events/last-week.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

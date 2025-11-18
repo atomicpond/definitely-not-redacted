@@ -29,7 +29,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 9 shared documents
+- [Barack Obama](../people/barack-obama.md) - 9 shared documents
 - [Cold War](../people/cold-war.md) - 6 shared documents
 - [General Assembly](../people/general-assembly.md) - 6 shared documents
 - [Mia farrow](../people/mia-farrow.md) - 6 shared documents
@@ -52,26 +52,26 @@ Top 10 documents by mention frequency:
 - [West](../locations/west.md) - 10 shared documents
 - [Israel](../locations/israel.md) - 9 shared documents
 - [Earth](../locations/earth.md) - 8 shared documents
-- [Russia](../locations/russia.md) - 7 shared documents
 - [Rome](../locations/rome.md) - 7 shared documents
+- [Russia](../locations/russia.md) - 7 shared documents
 - [Vietnam](../locations/vietnam.md) - 7 shared documents
-- [the Soviet Union](../locations/the-soviet-union.md) - 6 shared documents
+- [anti-Israel](../locations/anti-israel.md) - 6 shared documents
+- [Cincinnati](../locations/cincinnati.md) - 6 shared documents
 - [Gaza](../locations/gaza.md) - 6 shared documents
 - [Pearl Harbor](../locations/pearl-harbor.md) - 6 shared documents
-- [anti-Israel](../locations/anti-israel.md) - 6 shared documents
 
 **Events:**
 
 - [decades](../events/decades.md) - 10 shared documents
 - [the day](../events/the-day.md) - 10 shared documents
 - [years](../events/years.md) - 9 shared documents
+- [1991](../events/1991.md) - 8 shared documents
 - [daily](../events/daily.md) - 8 shared documents
 - [the 1950s](../events/the-1950s.md) - 8 shared documents
-- [1991](../events/1991.md) - 8 shared documents
-- [70](../events/70.md) - 7 shared documents
 - [2013](../events/2013.md) - 7 shared documents
+- [70](../events/70.md) - 7 shared documents
 - [last year](../events/last-year.md) - 6 shared documents
-- [2003](../events/2003.md) - 5 shared documents
+- [1978](../events/1978.md) - 5 shared documents
 
 ## Timeline
 

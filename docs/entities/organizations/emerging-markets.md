@@ -38,14 +38,14 @@ Top 6 documents by mention frequency:
 
 - [Italy](../locations/italy.md) - 6 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
-- [China](../locations/china.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
-- [USD](../locations/usd.md) - 4 shared documents
+- [Asia](../locations/asia.md) - 4 shared documents
+- [Australia](../locations/australia.md) - 4 shared documents
+- [Austria](../locations/austria.md) - 4 shared documents
 - [Brazil](../locations/brazil.md) - 4 shared documents
 - [Canada](../locations/canada.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
-- [Mexico](../locations/mexico.md) - 4 shared documents
+- [Chile](../locations/chile.md) - 4 shared documents
+- [China](../locations/china.md) - 4 shared documents
+- [France](../locations/france.md) - 4 shared documents
 
 **Events:**
 

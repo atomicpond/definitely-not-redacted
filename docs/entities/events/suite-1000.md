@@ -26,7 +26,8 @@ Top 7 documents by mention frequency:
 
 **People:**
 
-- [CLINTON](../people/clinton.md) - 5 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 5 shared documents
 - [Esq](../people/esq.md) - 5 shared documents
 - [Law Office](../people/law-office.md) - 5 shared documents
 - [MARTIN G. WEINBERG](../people/martin-g-weinberg.md) - 5 shared documents

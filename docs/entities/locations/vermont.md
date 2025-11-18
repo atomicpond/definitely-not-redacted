@@ -62,22 +62,22 @@ Top 10 documents by mention frequency:
 - [Canada](canada.md) - 7 shared documents
 - [France](france.md) - 7 shared documents
 - [Washington](washington.md) - 6 shared documents
-- [United States](united-states.md) - 6 shared documents
-- [Mexico](mexico.md) - 6 shared documents
-- [the United States](the-united-states.md) - 6 shared documents
+- [Amherst](amherst.md) - 6 shared documents
+- [Aspen](aspen.md) - 6 shared documents
+- [Colorado](colorado.md) - 6 shared documents
 
 **Events:**
 
-- [2000](../events/2000.md) - 7 shared documents
 - [1997](../events/1997.md) - 7 shared documents
-- [2003](../events/2003.md) - 6 shared documents
-- [annual](../events/annual.md) - 6 shared documents
-- [2012](../events/2012.md) - 6 shared documents
+- [2000](../events/2000.md) - 7 shared documents
 - [1999](../events/1999.md) - 6 shared documents
 - [2002](../events/2002.md) - 6 shared documents
-- [2004](../events/2004.md) - 5 shared documents
-- [1998](../events/1998.md) - 5 shared documents
+- [2003](../events/2003.md) - 6 shared documents
+- [2012](../events/2012.md) - 6 shared documents
+- [annual](../events/annual.md) - 6 shared documents
 - [10 years](../events/10-years.md) - 5 shared documents
+- [1994](../events/1994.md) - 5 shared documents
+- [1998](../events/1998.md) - 5 shared documents
 
 ## Timeline
 

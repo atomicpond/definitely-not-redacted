@@ -29,7 +29,7 @@ Top 8 documents by mention frequency:
 
 - [Woody](woody.md) - 7 shared documents
 - [Jeffrey E](jeffrey-e.md) - 7 shared documents
-- [jeffrey E. <](jeffrey-e.md) - 7 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 7 shared documents
 - [Deepak Chopra](deepak-chopra.md) - 4 shared documents
 
 **Organizations:**
@@ -44,9 +44,9 @@ Top 8 documents by mention frequency:
 **Events:**
 
 - [2016](../events/2016.md) - 4 shared documents
+- [Sat](../events/sat.md) - 4 shared documents
 - [Sunday](../events/sunday.md) - 4 shared documents
 - [yesterday](../events/yesterday.md) - 4 shared documents
-- [Sat](../events/sat.md) - 4 shared documents
 
 ## Timeline
 

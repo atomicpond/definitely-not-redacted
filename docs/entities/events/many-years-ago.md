@@ -41,8 +41,8 @@ Top 7 documents by mention frequency:
 - [today](today.md) - 5 shared documents
 - [tomorrow](tomorrow.md) - 5 shared documents
 - [a year](a-year.md) - 5 shared documents
-- [Friday](friday.md) - 4 shared documents
 - [1980](1980.md) - 4 shared documents
+- [Friday](friday.md) - 4 shared documents
 
 ## Timeline
 

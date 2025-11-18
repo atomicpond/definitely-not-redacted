@@ -27,8 +27,8 @@ Top 6 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 5 shared documents
 - [Congress](../organizations/congress.md) - 5 shared documents
+- [HOUSE](../organizations/house.md) - 5 shared documents
 
 **Locations:**
 

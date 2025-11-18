@@ -30,19 +30,19 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jeffrey](jeffrey.md) - 6 shared documents
-- [Jeffrey E](jeffrey-e.md) - 5 shared documents
 - [andy](andy.md) - 5 shared documents
+- [Jeffrey E](jeffrey-e.md) - 5 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 14 shared documents
-- [Trump](../organizations/trump.md) - 5 shared documents
 - [Congress](../organizations/congress.md) - 5 shared documents
+- [Trump](../organizations/trump.md) - 5 shared documents
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
 - [California](../locations/california.md) - 4 shared documents
 - [NYC](../locations/nyc.md) - 4 shared documents
 

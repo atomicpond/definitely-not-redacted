@@ -14,7 +14,7 @@
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
 - [Brad Wechsler](../entities/people/brad-wechsler.md) - 1 mention
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Leon Black](../entities/people/leon-black.md) - 1 mention
 - [Alan](../entities/people/alan.md) - 1 mention
 

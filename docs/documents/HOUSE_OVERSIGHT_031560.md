@@ -9,7 +9,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Strzok](../entities/people/mr-strzok.md) - 4 mentions
+- [Mr. Strzok](../entities/people/strzok.md) - 4 mentions
 - [mccabe](../entities/people/mccabe.md) - 4 mentions
 - [DAVID SCHOEN](../entities/people/david-schoen.md) - 2 mentions
 - [CLINTON](../entities/people/clinton.md) - 2 mentions
@@ -17,7 +17,7 @@
 - [Michael Flynn](../entities/people/michael-flynn.md) - 1 mention
 - [Michael Cohen](../entities/people/michael-cohen.md) - 1 mention
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [David](../entities/people/david.md) - 1 mention
 
 ### Organizations

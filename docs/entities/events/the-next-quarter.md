@@ -45,8 +45,8 @@ Top 9 documents by mention frequency:
 
 **Events:**
 
-- [few days](few-days.md) - 6 shared documents
 - [3/17/2019](3172019.md) - 6 shared documents
+- [few days](few-days.md) - 6 shared documents
 - [Mar 17, 2019](mar-17-2019.md) - 6 shared documents
 - [only the first quarter](only-the-first-quarter.md) - 6 shared documents
 

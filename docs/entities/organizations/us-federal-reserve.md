@@ -29,45 +29,45 @@ Top 5 documents by mention frequency:
 - [Angela Merkel](../people/angela-merkel.md) - 5 shared documents
 - [Australian Labor Party](../people/australian-labor-party.md) - 5 shared documents
 - [Barack Obama](../people/barack-obama.md) - 5 shared documents
-- [Barak Obama](../people/barak-obama.md) - 5 shared documents
 - [Berlin Wall](../people/berlin-wall.md) - 5 shared documents
 - [Bill 
 Clinton](../people/bill-clinton.md) - 5 shared documents
 - [Bob Hawke](../people/bob-hawke.md) - 5 shared documents
 - [Bush Sr](../people/bush-sr.md) - 5 shared documents
+- [Chancellor Merkel](../people/chancellor-merkel.md) - 5 shared documents
 
 **Organizations:**
 
 - [HOUSE](house.md) - 5 shared documents
 - [Labor](labor.md) - 5 shared documents
 - [NATO](nato.md) - 5 shared documents
-- [the Federal Reserve](the-federal-reserve.md) - 5 shared documents
+- [the Australian Labor Party](the-australian-labor-party.md) - 5 shared documents
 
 **Locations:**
 
-- [China](../locations/china.md) - 5 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [Brazil](../locations/brazil.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
 - [Asia](../locations/asia.md) - 5 shared documents
+- [Australia](../locations/australia.md) - 5 shared documents
+- [Brazil](../locations/brazil.md) - 5 shared documents
+- [Britain](../locations/britain.md) - 5 shared documents
+- [China](../locations/china.md) - 5 shared documents
+- [East Asia](../locations/east-asia.md) - 5 shared documents
+- [Europe](../locations/europe.md) - 5 shared documents
 - [France](../locations/france.md) - 5 shared documents
-- [the Soviet Union](../locations/the-soviet-union.md) - 5 shared documents
+- [Germany](../locations/germany.md) - 5 shared documents
 
 **Events:**
 
 - [1990s](../events/1990s.md) - 5 shared documents
 - [1996](../events/1996.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [last week](../events/last-week.md) - 5 shared documents
 - [2008](../events/2008.md) - 5 shared documents
-- [the 1990s](../events/the-1990s.md) - 5 shared documents
-- [20th Century](../events/20th-century.md) - 5 shared documents
-- [the 21st century](../events/the-21st-century.md) - 5 shared documents
 - [2050](../events/2050.md) - 5 shared documents
-- [the 1980s and 1990s](../events/the-1980s-and-1990s.md) - 5 shared documents
+- [20th Century](../events/20th-century.md) - 5 shared documents
+- [25 years ago](../events/25-years-ago.md) - 5 shared documents
+- [By 2050](../events/by-2050.md) - 5 shared documents
+- [last week](../events/last-week.md) - 5 shared documents
+- [October 22, 2011](../events/october-22-2011.md) - 5 shared documents
+- [October 22, 2011 12:00AM](../events/october-22-2011-1200am.md) - 5 shared documents
 
 ## Timeline
 

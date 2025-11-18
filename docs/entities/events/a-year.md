@@ -34,7 +34,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 32 shared documents
 - [Robert Maxwell](../people/robert-maxwell.md) - 31 shared documents
 
 **Organizations:**

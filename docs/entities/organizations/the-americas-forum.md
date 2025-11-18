@@ -39,36 +39,32 @@ Top 5 documents by mention frequency:
 - [the Justice Department](the-justice-department.md) - 5 shared documents
 - [the Palm Beach Police Department](the-palm-beach-police-department.md) - 5 shared documents
 - [MC2](mc2.md) - 5 shared documents
-- [HOUSE](house.md) - 4 shared documents
-- [CBS](cbs.md) - 4 shared documents
-- [FBI](fbi.md) - 4 shared documents
-- [Maxwell](maxwell.md) - 4 shared documents
 
 **Locations:**
 
 - [America](../locations/america.md) - 5 shared documents
+- [Beirut](../locations/beirut.md) - 5 shared documents
+- [Brunel](../locations/brunel.md) - 5 shared documents
+- [Caribbean](../locations/caribbean.md) - 5 shared documents
+- [Eastern Europe](../locations/eastern-europe.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 5 shared documents
 - [France](../locations/france.md) - 5 shared documents
-- [South America](../locations/south-america.md) - 5 shared documents
-- [Caribbean](../locations/caribbean.md) - 5 shared documents
+- [Kabul](../locations/kabul.md) - 5 shared documents
 - [New Mexico](../locations/new-mexico.md) - 5 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 5 shared documents
-- [Beirut](../locations/beirut.md) - 5 shared documents
-- [Eastern Europe](../locations/eastern-europe.md) - 5 shared documents
-- [Kabul](../locations/kabul.md) - 5 shared documents
 
 **Events:**
 
-- [Wednesday](../events/wednesday.md) - 5 shared documents
-- [daily](../events/daily.md) - 5 shared documents
-- [this week](../events/this-week.md) - 5 shared documents
-- [last week](../events/last-week.md) - 5 shared documents
-- [2005](../events/2005.md) - 5 shared documents
 - [13 months](../events/13-months.md) - 5 shared documents
-- [2002](../events/2002.md) - 5 shared documents
-- [every day](../events/every-day.md) - 5 shared documents
-- [one year](../events/one-year.md) - 5 shared documents
 - [20-year](../events/20-year.md) - 5 shared documents
+- [2002](../events/2002.md) - 5 shared documents
+- [2005](../events/2005.md) - 5 shared documents
+- [daily](../events/daily.md) - 5 shared documents
+- [each day](../events/each-day.md) - 5 shared documents
+- [every day](../events/every-day.md) - 5 shared documents
+- [last week](../events/last-week.md) - 5 shared documents
+- [one year](../events/one-year.md) - 5 shared documents
+- [this week](../events/this-week.md) - 5 shared documents
 
 ## Timeline
 

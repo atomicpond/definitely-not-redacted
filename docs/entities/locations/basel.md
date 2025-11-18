@@ -42,12 +42,12 @@ Top 8 documents by mention frequency:
 
 - [annual](../events/annual.md) - 5 shared documents
 - [2007](../events/2007.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
-- [2011](../events/2011.md) - 4 shared documents
 - [2008](../events/2008.md) - 4 shared documents
 - [2010](../events/2010.md) - 4 shared documents
+- [2011](../events/2011.md) - 4 shared documents
 - [2013](../events/2013.md) - 4 shared documents
+- [this year](../events/this-year.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

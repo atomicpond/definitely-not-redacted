@@ -35,29 +35,29 @@ Top 7 documents by mention frequency:
 
 **Locations:**
 
-- [London](../locations/london.md) - 6 shared documents
 - [Hollywood](../locations/hollywood.md) - 6 shared documents
+- [London](../locations/london.md) - 6 shared documents
 - [France](../locations/france.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
-- [Toronto](../locations/toronto.md) - 5 shared documents
 - [Paris](../locations/paris.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
+- [Toronto](../locations/toronto.md) - 5 shared documents
+- [Berlin](../locations/berlin.md) - 4 shared documents
 - [California](../locations/california.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
+- [England](../locations/england.md) - 4 shared documents
 - [Israel](../locations/israel.md) - 4 shared documents
 
 **Events:**
 
 - [2011](../events/2011.md) - 6 shared documents
 - [that day](../events/that-day.md) - 5 shared documents
+- [1973](../events/1973.md) - 4 shared documents
 - [1986](../events/1986.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
-- [August](../events/august.md) - 4 shared documents
+- [1987](../events/1987.md) - 4 shared documents
+- [1989](../events/1989.md) - 4 shared documents
 - [1998](../events/1998.md) - 4 shared documents
 - [1999](../events/1999.md) - 4 shared documents
-- [December](../events/december.md) - 4 shared documents
-- [year](../events/year.md) - 4 shared documents
 - [a year](../events/a-year.md) - 4 shared documents
+- [August](../events/august.md) - 4 shared documents
 
 ## Timeline
 

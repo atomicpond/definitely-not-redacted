@@ -55,13 +55,13 @@ Top 7 documents by mention frequency:
 - [three years](three-years.md) - 7 shared documents
 - [today](today.md) - 7 shared documents
 - [years](years.md) - 7 shared documents
+- [a year](a-year.md) - 7 shared documents
 - [daily](daily.md) - 7 shared documents
 - [monthly](monthly.md) - 7 shared documents
-- [a year](a-year.md) - 7 shared documents
 - [the day](the-day.md) - 7 shared documents
 - [this day](this-day.md) - 6 shared documents
-- [annual](annual.md) - 6 shared documents
-- [August](august.md) - 6 shared documents
+- [1969](1969.md) - 6 shared documents
+- [1991](1991.md) - 6 shared documents
 
 ## Timeline
 

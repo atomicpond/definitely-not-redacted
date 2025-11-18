@@ -39,39 +39,35 @@ Top 5 documents by mention frequency:
 **Organizations:**
 
 - [the United Nations](the-united-nations.md) - 5 shared documents
-- [State](state.md) - 5 shared documents
 - [Hamas](hamas.md) - 5 shared documents
+- [State](state.md) - 5 shared documents
 - [White House](white-house.md) - 4 shared documents
-- [CIA](cia.md) - 4 shared documents
-- [Defense](defense.md) - 4 shared documents
-- [Justice](justice.md) - 4 shared documents
-- [NATO](nato.md) - 4 shared documents
 
 **Locations:**
 
-- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [Iraq](../locations/iraq.md) - 5 shared documents
-- [Jordan](../locations/jordan.md) - 5 shared documents
-- [Syria](../locations/syria.md) - 5 shared documents
-- [Israel](../locations/israel.md) - 5 shared documents
-- [Turkey](../locations/turkey.md) - 5 shared documents
 - [Egypt](../locations/egypt.md) - 5 shared documents
 - [Gaza](../locations/gaza.md) - 5 shared documents
+- [Iraq](../locations/iraq.md) - 5 shared documents
+- [Israel](../locations/israel.md) - 5 shared documents
 - [Jerusalem](../locations/jerusalem.md) - 5 shared documents
+- [Jordan](../locations/jordan.md) - 5 shared documents
+- [Palestine](../locations/palestine.md) - 5 shared documents
+- [Russia](../locations/russia.md) - 5 shared documents
+- [Syria](../locations/syria.md) - 5 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
 
 **Events:**
 
-- [1993](../events/1993.md) - 5 shared documents
 - [1947](../events/1947.md) - 5 shared documents
 - [1967](../events/1967.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [six months](../events/six-months.md) - 4 shared documents
-- [May](../events/may.md) - 4 shared documents
+- [1993](../events/1993.md) - 5 shared documents
+- [1932](../events/1932.md) - 4 shared documents
+- [1948](../events/1948.md) - 4 shared documents
+- [1994](../events/1994.md) - 4 shared documents
 - [1998](../events/1998.md) - 4 shared documents
-- [the years](../events/the-years.md) - 4 shared documents
-- [weeks](../events/weeks.md) - 4 shared documents
+- [2003](../events/2003.md) - 4 shared documents
 - [a few weeks](../events/a-few-weeks.md) - 4 shared documents
+- [decades](../events/decades.md) - 4 shared documents
 
 ## Timeline
 

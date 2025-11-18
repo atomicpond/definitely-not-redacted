@@ -28,39 +28,36 @@ Top 7 documents by mention frequency:
 
 - [Harvard University](harvard-university.md) - 6 shared documents
 - [Public Policy](public-policy.md) - 6 shared documents
-- [President Obama](president-obama.md) - 5 shared documents
+- [Barack Obama](barack-obama.md) - 5 shared documents
 - [Harvard Law School](harvard-law-school.md) - 5 shared documents
 - [Modern Art](modern-art.md) - 5 shared documents
 - [White House](white-house.md) - 4 shared documents
-- [Asia Pacific](asia-pacific.md) - 4 shared documents
-- [Global Head](global-head.md) - 4 shared documents
-- [San Francisco](san-francisco.md) - 4 shared documents
 
 **Organizations:**
 
 - [MIT](../organizations/mit.md) - 6 shared documents
-- [Harvard University](../organizations/harvard-university.md) - 5 shared documents
-- [State](../organizations/state.md) - 5 shared documents
 - [Harvard](../organizations/harvard.md) - 5 shared documents
-- [Treasury](../organizations/treasury.md) - 5 shared documents
-- [PBS](../organizations/pbs.md) - 5 shared documents
+- [Harvard University](../organizations/harvard-university.md) - 5 shared documents
 - [MIT Sloan School of Management](../organizations/mit-sloan-school-of-management.md) - 5 shared documents
+- [PBS](../organizations/pbs.md) - 5 shared documents
 - [Stanford University](../organizations/stanford-university.md) - 5 shared documents
-- [HOUSE](../organizations/house.md) - 4 shared documents
-- [White House](../organizations/white-house.md) - 4 shared documents
+- [State](../organizations/state.md) - 5 shared documents
+- [Treasury](../organizations/treasury.md) - 5 shared documents
+- [Boston Globe](../organizations/boston-globe.md) - 4 shared documents
+- [Claremont McKenna College](../organizations/claremont-mckenna-college.md) - 4 shared documents
 
 **Locations:**
 
 - [Japan](../locations/japan.md) - 7 shared documents
 - [Germany](../locations/germany.md) - 6 shared documents
-- [New York](../locations/new-york.md) - 5 shared documents
 - [California](../locations/california.md) - 5 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
 - [Latin America](../locations/latin-america.md) - 5 shared documents
-- [U.S.](../locations/us.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 4 shared documents
+- [America](../locations/america.md) - 4 shared documents
+- [Iraq](../locations/iraq.md) - 4 shared documents
 
 **Events:**
 
@@ -68,6 +65,7 @@ Top 7 documents by mention frequency:
 - [2013](../events/2013.md) - 5 shared documents
 - [2007](../events/2007.md) - 4 shared documents
 - [2009](../events/2009.md) - 4 shared documents
+- [weekly](../events/weekly.md) - 4 shared documents
 
 ## Timeline
 

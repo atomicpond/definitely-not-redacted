@@ -29,10 +29,10 @@ Top 7 documents by mention frequency:
 - [john Connolly](../people/john-connolly.md) - 6 shared documents
 - [Landon Thomas](../people/landon-thomas.md) - 6 shared documents
 - [Thomas Jr](../people/thomas-jr.md) - 6 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 5 shared documents
 - [jr thomas](../people/jr-thomas.md) - 5 shared documents
 - [Landon](../people/landon.md) - 5 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 5 shared documents
 
 **Organizations:**
 

@@ -39,8 +39,8 @@ Top 8 documents by mention frequency:
 
 - [US](../locations/us.md) - 6 shared documents
 - [New York](../locations/new-york.md) - 4 shared documents
-- [Turkey](../locations/turkey.md) - 4 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 4 shared documents
+- [Turkey](../locations/turkey.md) - 4 shared documents
 
 **Events:**
 

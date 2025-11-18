@@ -53,8 +53,8 @@ Top 7 documents by mention frequency:
 - [Friday](friday.md) - 7 shared documents
 - [summer](summer.md) - 6 shared documents
 - [the next day](the-next-day.md) - 6 shared documents
-- [daily](daily.md) - 6 shared documents
 - [2002](2002.md) - 6 shared documents
+- [daily](daily.md) - 6 shared documents
 - [the 1960s](the-1960s.md) - 5 shared documents
 - [the year](the-year.md) - 5 shared documents
 

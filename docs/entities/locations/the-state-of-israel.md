@@ -29,8 +29,8 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 11 shared documents
-- [Bibi Netanyahu](../people/bibi-netanyahu.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 11 shared documents
+- [Bibi](../people/bibi.md) - 7 shared documents
 - [Cold War](../people/cold-war.md) - 7 shared documents
 - [General Assembly](../people/general-assembly.md) - 6 shared documents
 - [Islamic Republic](../people/islamic-republic.md) - 6 shared documents
@@ -54,13 +54,13 @@ Top 10 documents by mention frequency:
 
 - [Israel](israel.md) - 11 shared documents
 - [Russia](russia.md) - 10 shared documents
-- [the Soviet Union](the-soviet-union.md) - 8 shared documents
 - [Gaza](gaza.md) - 8 shared documents
+- [the Soviet Union](the-soviet-union.md) - 8 shared documents
 - [Vietnam](vietnam.md) - 7 shared documents
 - [the United States](the-united-states.md) - 6 shared documents
 - [Turkey](turkey.md) - 6 shared documents
 - [Earth](earth.md) - 6 shared documents
-- [the Middle East](the-middle-east.md) - 6 shared documents
+- [Egypt](egypt.md) - 6 shared documents
 - [Europe](europe.md) - 6 shared documents
 
 **Events:**
@@ -70,11 +70,11 @@ Top 10 documents by mention frequency:
 - [the day](../events/the-day.md) - 8 shared documents
 - [daily](../events/daily.md) - 7 shared documents
 - [the 1950s](../events/the-1950s.md) - 7 shared documents
-- [last year](../events/last-year.md) - 6 shared documents
-- [2013](../events/2013.md) - 6 shared documents
 - [1991](../events/1991.md) - 6 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [70](../events/70.md) - 5 shared documents
+- [2013](../events/2013.md) - 6 shared documents
+- [last year](../events/last-year.md) - 6 shared documents
+- [1994](../events/1994.md) - 5 shared documents
+- [2/8/2013](../events/2-8-2013.md) - 5 shared documents
 
 ## Timeline
 

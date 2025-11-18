@@ -53,14 +53,14 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [today](../events/today.md) - 6 shared documents
+- [last month](../events/last-month.md) - 5 shared documents
 - [last year](../events/last-year.md) - 5 shared documents
 - [Monday](../events/monday.md) - 5 shared documents
-- [last month](../events/last-month.md) - 5 shared documents
+- [August](../events/august.md) - 4 shared documents
+- [January](../events/january.md) - 4 shared documents
+- [recent months](../events/recent-months.md) - 4 shared documents
 - [this week](../events/this-week.md) - 4 shared documents
 - [this year](../events/this-year.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
-- [August](../events/august.md) - 4 shared documents
-- [recent months](../events/recent-months.md) - 4 shared documents
 - [tomorrow](../events/tomorrow.md) - 4 shared documents
 
 ## Timeline

@@ -29,10 +29,10 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Tempe](../locations/tempe.md) - 4 shared documents
+- [Australia](../locations/australia.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
 - [Germany](../locations/germany.md) - 4 shared documents
-- [Australia](../locations/australia.md) - 4 shared documents
+- [Tempe](../locations/tempe.md) - 4 shared documents
 
 **Events:**
 

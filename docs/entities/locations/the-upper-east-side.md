@@ -60,10 +60,10 @@ Top 10 documents by mention frequency:
 - [Palm Beach](palm-beach.md) - 15 shared documents
 - [Europe](europe.md) - 14 shared documents
 - [New Mexico](new-mexico.md) - 13 shared documents
-- [Queens](queens.md) - 12 shared documents
 - [Lafayette](lafayette.md) - 12 shared documents
-- [Israel](israel.md) - 11 shared documents
+- [Queens](queens.md) - 12 shared documents
 - [Britain](britain.md) - 11 shared documents
+- [Coney Island](coney-island.md) - 11 shared documents
 - [Connecticut](connecticut.md) - 11 shared documents
 
 **Events:**
@@ -71,13 +71,13 @@ Top 10 documents by mention frequency:
 - [two years](../events/two-years.md) - 14 shared documents
 - [daily](../events/daily.md) - 13 shared documents
 - [last year](../events/last-year.md) - 13 shared documents
-- [Sunday](../events/sunday.md) - 13 shared documents
 - [Saturday](../events/saturday.md) - 13 shared documents
-- [the day](../events/the-day.md) - 13 shared documents
+- [Sunday](../events/sunday.md) - 13 shared documents
 - [ten years](../events/ten-years.md) - 13 shared documents
-- [the 1980s](../events/the-1980s.md) - 11 shared documents
-- [2010](../events/2010.md) - 11 shared documents
-- [2006](../events/2006.md) - 11 shared documents
+- [the day](../events/the-day.md) - 13 shared documents
+- [1982](../events/1982.md) - 11 shared documents
+- [1994](../events/1994.md) - 11 shared documents
+- [2002](../events/2002.md) - 11 shared documents
 
 ## Timeline
 

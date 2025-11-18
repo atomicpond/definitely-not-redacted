@@ -38,8 +38,8 @@ Top 5 documents by mention frequency:
 - [tomorrow](tomorrow.md) - 5 shared documents
 - [two years](two-years.md) - 5 shared documents
 - [years](years.md) - 5 shared documents
-- [Friday](friday.md) - 5 shared documents
 - [April](april.md) - 5 shared documents
+- [Friday](friday.md) - 5 shared documents
 - [that day](that-day.md) - 4 shared documents
 - [the next day](the-next-day.md) - 4 shared documents
 - [the weekend](the-weekend.md) - 4 shared documents

@@ -43,15 +43,15 @@ On](../people/florida-on.md) - 6 shared documents
 **Events:**
 
 - [Tuesday, September 25, 2018](tuesday-september-25-2018.md) - 7 shared documents
-- [September 25, 2018](september-25-2018.md) - 7 shared documents
 - [October 2, 2018](october-2-2018.md) - 7 shared documents
+- [September 25, 2018](september-25-2018.md) - 7 shared documents
 - [Tue, Oct 2, 2018](tue-oct-2-2018.md) - 7 shared documents
 - [Wednesday, October 3, 2018](wednesday-october-3-2018.md) - 5 shared documents
-- [today](today.md) - 5 shared documents
 - [20 years](20-years.md) - 5 shared documents
-- [the same year](the-same-year.md) - 5 shared documents
 - [3 year old](3-year-old.md) - 5 shared documents
+- [age 8](age-8.md) - 5 shared documents
 - [October 3, 2018](october-3-2018.md) - 5 shared documents
+- [the same year](the-same-year.md) - 5 shared documents
 
 ## Timeline
 

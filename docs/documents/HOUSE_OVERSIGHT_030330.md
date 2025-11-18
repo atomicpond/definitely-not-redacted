@@ -12,7 +12,7 @@
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 5 mentions
 - [Jes Staley](../entities/people/jes-staley.md) - 4 mentions
 - [Gates](../entities/people/gates.md) - 3 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 2 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 2 mentions
 - [larry](../entities/people/larry.md) - 1 mention
 
 ### Organizations

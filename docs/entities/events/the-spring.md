@@ -63,12 +63,12 @@ Top 10 documents by mention frequency:
 
 - [today](today.md) - 5 shared documents
 - [years](years.md) - 5 shared documents
+- [1982](1982.md) - 5 shared documents
+- [1984](1984.md) - 5 shared documents
+- [a few weeks](a-few-weeks.md) - 5 shared documents
 - [annual](annual.md) - 5 shared documents
 - [August](august.md) - 5 shared documents
 - [months](months.md) - 5 shared documents
-- [1984](1984.md) - 5 shared documents
-- [a few weeks](a-few-weeks.md) - 5 shared documents
-- [1982](1982.md) - 5 shared documents
 - [the summer](the-summer.md) - 4 shared documents
 - [the years](the-years.md) - 4 shared documents
 

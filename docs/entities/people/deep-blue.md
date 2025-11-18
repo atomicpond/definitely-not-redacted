@@ -25,38 +25,35 @@ Top 6 documents by mention frequency:
 
 **Organizations:**
 
+- [Google](../organizations/google.md) - 6 shared documents
 - [IBM](../organizations/ibm.md) - 6 shared documents
 - [NASA](../organizations/nasa.md) - 6 shared documents
-- [Google](../organizations/google.md) - 6 shared documents
-- [Twitter](../organizations/twitter.md) - 5 shared documents
-- [Harvard](../organizations/harvard.md) - 5 shared documents
-- [Time](../organizations/time.md) - 5 shared documents
 
 **Locations:**
 
-- [Earth](../locations/earth.md) - 6 shared documents
 - [China](../locations/china.md) - 6 shared documents
+- [Earth](../locations/earth.md) - 6 shared documents
 - [Europe](../locations/europe.md) - 6 shared documents
+- [India](../locations/india.md) - 6 shared documents
 - [London](../locations/london.md) - 6 shared documents
 - [Paris](../locations/paris.md) - 6 shared documents
-- [India](../locations/india.md) - 6 shared documents
-- [U.S.](../locations/us.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
+- [America](../locations/america.md) - 5 shared documents
+- [Boston](../locations/boston.md) - 5 shared documents
+- [Cambridge](../locations/cambridge.md) - 5 shared documents
+- [England](../locations/england.md) - 5 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 6 shared documents
+- [1976](../events/1976.md) - 5 shared documents
+- [1994](../events/1994.md) - 5 shared documents
+- [1997](../events/1997.md) - 5 shared documents
+- [1999](../events/1999.md) - 5 shared documents
+- [2001](../events/2001.md) - 5 shared documents
+- [2002](../events/2002.md) - 5 shared documents
 - [2003](../events/2003.md) - 5 shared documents
 - [2004](../events/2004.md) - 5 shared documents
-- [2009](../events/2009.md) - 5 shared documents
-- [2014](../events/2014.md) - 5 shared documents
-- [2015](../events/2015.md) - 5 shared documents
-- [the 1980s](../events/the-1980s.md) - 5 shared documents
-- [2012](../events/2012.md) - 5 shared documents
-- [the year](../events/the-year.md) - 5 shared documents
-- [2011](../events/2011.md) - 5 shared documents
+- [2005](../events/2005.md) - 5 shared documents
 
 ## Timeline
 

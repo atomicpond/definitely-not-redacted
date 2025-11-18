@@ -28,8 +28,8 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 5 shared documents
 - [Google](../organizations/google.md) - 5 shared documents
+- [HOUSE](../organizations/house.md) - 5 shared documents
 
 ## Timeline
 

@@ -14,14 +14,14 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Obama](../entities/people/mr-obama.md) - 23 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 23 mentions
 - [United 
 States](../entities/people/united-states.md) - 13 mentions
 - [Middle East](../entities/people/middle-east.md) - 8 mentions
 - [Ferguson](../entities/people/ferguson.md) - 8 mentions
 - [Qaddafi](../entities/people/qaddafi.md) - 7 mentions
 - [President Obama](../entities/people/president-obama.md) - 5 mentions
-- [Mr. Mubarak](../entities/people/mr-mubarak.md) - 5 mentions
+- [Mr. Mubarak](../entities/people/mubarak.md) - 5 mentions
 - [Assad](../entities/people/assad.md) - 3 mentions
 - [Barack Obama](../entities/people/barack-obama.md) - 2 mentions
 - [President Barack Obama](../entities/people/president-barack-obama.md) - 2 mentions

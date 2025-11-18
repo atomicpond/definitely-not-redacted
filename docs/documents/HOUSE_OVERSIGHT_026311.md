@@ -12,7 +12,7 @@
 - [Steve Bannon](../entities/people/steve-bannon.md) - 2 mentions
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
 - [jeffrey E. <](../entities/people/jeffrey-e.md) - 1 mention
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 1 mention
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 1 mention
 - [On Fri](../entities/people/on-fri.md) - 1 mention
 - [On Aug](../entities/people/on-aug.md) - 1 mention
 - [Steve Bannon 

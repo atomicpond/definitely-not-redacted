@@ -37,45 +37,46 @@ Top 10 documents by mention frequency:
 - [Middle East](../people/middle-east.md) - 6 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 6 shared documents
 - [Angela Merkel](../people/angela-merkel.md) - 5 shared documents
-- [President Trump](../people/president-trump.md) - 5 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 5 shared documents
 - [White House](../people/white-house.md) - 5 shared documents
 
 **Organizations:**
 
 - [State](state.md) - 7 shared documents
 - [Trump](trump.md) - 6 shared documents
-- [HOUSE](house.md) - 6 shared documents
 - [Congress](congress.md) - 6 shared documents
-- [Reuters](reuters.md) - 6 shared documents
+- [HOUSE](house.md) - 6 shared documents
 - [Party](party.md) - 6 shared documents
+- [Reuters](reuters.md) - 6 shared documents
 - [the New York Times](the-new-york-times.md) - 5 shared documents
 - [Times](times.md) - 5 shared documents
 
 **Locations:**
 
 - [China](../locations/china.md) - 12 shared documents
-- [Russia](../locations/russia.md) - 9 shared documents
 - [America](../locations/america.md) - 9 shared documents
 - [Australia](../locations/australia.md) - 9 shared documents
-- [Japan](../locations/japan.md) - 8 shared documents
+- [Russia](../locations/russia.md) - 9 shared documents
 - [Asia](../locations/asia.md) - 8 shared documents
-- [Iran](../locations/iran.md) - 8 shared documents
-- [the United States](../locations/the-united-states.md) - 8 shared documents
 - [India](../locations/india.md) - 8 shared documents
-- [Europe](../locations/europe.md) - 7 shared documents
+- [Iran](../locations/iran.md) - 8 shared documents
+- [Japan](../locations/japan.md) - 8 shared documents
+- [the United States](../locations/the-united-states.md) - 8 shared documents
+- [Beijing](../locations/beijing.md) - 7 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 8 shared documents
 - [decades](../events/decades.md) - 8 shared documents
-- [years](../events/years.md) - 7 shared documents
+- [today](../events/today.md) - 8 shared documents
 - [the day](../events/the-day.md) - 7 shared documents
-- [annual](../events/annual.md) - 6 shared documents
-- [2012](../events/2012.md) - 6 shared documents
-- [daily](../events/daily.md) - 6 shared documents
-- [last week](../events/last-week.md) - 6 shared documents
+- [years](../events/years.md) - 7 shared documents
 - [2001](../events/2001.md) - 6 shared documents
 - [2008](../events/2008.md) - 6 shared documents
+- [2012](../events/2012.md) - 6 shared documents
+- [annual](../events/annual.md) - 6 shared documents
+- [daily](../events/daily.md) - 6 shared documents
+- [last week](../events/last-week.md) - 6 shared documents
 
 ## Timeline
 

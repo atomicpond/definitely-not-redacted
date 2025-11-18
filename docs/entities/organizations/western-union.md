@@ -29,8 +29,8 @@ Top 9 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 8 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [District Court](../people/district-court.md) - 7 shared documents
-- [President Obama](../people/president-obama.md) - 7 shared documents
 - [White House](../people/white-house.md) - 7 shared documents
 - [Los Angeles Times](../people/los-angeles-times.md) - 6 shared documents
 - [Boies Schiller](../people/boies-schiller.md) - 5 shared documents
@@ -42,8 +42,8 @@ Top 9 documents by mention frequency:
 **Organizations:**
 
 - [White House](white-house.md) - 7 shared documents
-- [HOUSE](house.md) - 7 shared documents
 - [District Court](district-court.md) - 7 shared documents
+- [HOUSE](house.md) - 7 shared documents
 - [Times](times.md) - 7 shared documents
 - [Los Angeles Times](los-angeles-times.md) - 6 shared documents
 - [Emirates Bank](emirates-bank.md) - 5 shared documents
@@ -61,9 +61,6 @@ Top 9 documents by mention frequency:
 - [Irvine](../locations/irvine.md) - 5 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 5 shared documents
 - [Orange County](../locations/orange-county.md) - 5 shared documents
-- [Earth](../locations/earth.md) - 4 shared documents
-- [Middle East](../locations/middle-east.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
 
 **Events:**
 

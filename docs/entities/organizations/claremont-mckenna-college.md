@@ -48,16 +48,16 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
 - [Iraq](../locations/iraq.md) - 4 shared documents
-- [New York City](../locations/new-york-city.md) - 4 shared documents
-- [San Francisco](../locations/san-francisco.md) - 4 shared documents
+- [Latin America](../locations/latin-america.md) - 4 shared documents
 - [Maryland](../locations/maryland.md) - 4 shared documents
-- [Afghanistan](../locations/afghanistan.md) - 4 shared documents
+- [New York City](../locations/new-york-city.md) - 4 shared documents
 
 **Events:**
 
@@ -65,8 +65,8 @@ Top 5 documents by mention frequency:
 - [weekly](../events/weekly.md) - 5 shared documents
 - [2007](../events/2007.md) - 4 shared documents
 - [2009](../events/2009.md) - 4 shared documents
-- [2014](../events/2014.md) - 4 shared documents
 - [2011](../events/2011.md) - 4 shared documents
+- [2014](../events/2014.md) - 4 shared documents
 
 ## Timeline
 

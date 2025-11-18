@@ -35,7 +35,7 @@ Top 10 documents by mention frequency:
 
 - [New Mexico](../people/new-mexico.md) - 11 shared documents
 - [Jane Doe](../people/jane-doe.md) - 9 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 7 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 7 shared documents
 - [El Brillo Way](../people/el-brillo-way.md) - 7 shared documents
 - [Sarah Kellen](../people/sarah-kellen.md) - 6 shared documents
 - [Jack Goldberger](../people/jack-goldberger.md) - 5 shared documents
@@ -64,24 +64,24 @@ Top 10 documents by mention frequency:
 - [New Mexico](new-mexico.md) - 10 shared documents
 - [Washington](washington.md) - 9 shared documents
 - [West Palm Beach](west-palm-beach.md) - 9 shared documents
-- [the United States](the-united-states.md) - 9 shared documents
-- [Manhattan](manhattan.md) - 9 shared documents
 - [England](england.md) - 9 shared documents
+- [Manhattan](manhattan.md) - 9 shared documents
+- [the United States](the-united-states.md) - 9 shared documents
 - [New York City](new-york-city.md) - 8 shared documents
 - [Paris](paris.md) - 8 shared documents
 
 **Events:**
 
-- [2007](../events/2007.md) - 9 shared documents
 - [2005](../events/2005.md) - 9 shared documents
+- [2007](../events/2007.md) - 9 shared documents
 - [2010](../events/2010.md) - 9 shared documents
 - [the day](../events/the-day.md) - 8 shared documents
 - [2003](../events/2003.md) - 7 shared documents
+- [2006](../events/2006.md) - 7 shared documents
 - [2009](../events/2009.md) - 7 shared documents
+- [2011](../events/2011.md) - 7 shared documents
 - [2015](../events/2015.md) - 7 shared documents
 - [2016](../events/2016.md) - 7 shared documents
-- [today](../events/today.md) - 7 shared documents
-- [daily](../events/daily.md) - 7 shared documents
 
 ## Timeline
 

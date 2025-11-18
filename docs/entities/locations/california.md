@@ -31,11 +31,8 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Donald 
-Trump](../people/donald-trump.md) - 35 shared documents
 - [Los Angeles](../people/los-angeles.md) - 34 shared documents
 - [White House](../people/white-house.md) - 33 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 31 shared documents
 - [Middle East](../people/middle-east.md) - 31 shared documents
 
 **Organizations:**
@@ -68,10 +65,10 @@ Trump](../people/donald-trump.md) - 35 shared documents
 - [years](../events/years.md) - 58 shared documents
 - [2007](../events/2007.md) - 50 shared documents
 - [daily](../events/daily.md) - 47 shared documents
-- [2016](../events/2016.md) - 46 shared documents
+- [1994](../events/1994.md) - 46 shared documents
 - [2008](../events/2008.md) - 46 shared documents
 - [2010](../events/2010.md) - 46 shared documents
-- [1994](../events/1994.md) - 46 shared documents
+- [2016](../events/2016.md) - 46 shared documents
 - [this week](../events/this-week.md) - 45 shared documents
 - [2009](../events/2009.md) - 44 shared documents
 

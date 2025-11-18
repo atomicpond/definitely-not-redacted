@@ -46,31 +46,31 @@ Top 9 documents by mention frequency:
 - [Hamas](hamas.md) - 5 shared documents
 - [the General Assembly](the-general-assembly.md) - 5 shared documents
 - [the Security Council](the-security-council.md) - 5 shared documents
-- [Congress](congress.md) - 4 shared documents
 
 **Locations:**
 
-- [the Middle East](../locations/the-middle-east.md) - 7 shared documents
-- [Russia](../locations/russia.md) - 7 shared documents
 - [Iran](../locations/iran.md) - 7 shared documents
 - [Israel](../locations/israel.md) - 7 shared documents
+- [Russia](../locations/russia.md) - 7 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 7 shared documents
 - [Turkey](../locations/turkey.md) - 7 shared documents
-- [China](../locations/china.md) - 6 shared documents
 - [Asia](../locations/asia.md) - 6 shared documents
+- [China](../locations/china.md) - 6 shared documents
+- [Egypt](../locations/egypt.md) - 6 shared documents
 - [Iraq](../locations/iraq.md) - 6 shared documents
 - [Jordan](../locations/jordan.md) - 6 shared documents
-- [Syria](../locations/syria.md) - 6 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 6 shared documents
 - [recent years](../events/recent-years.md) - 5 shared documents
+- [1947](../events/1947.md) - 4 shared documents
+- [1967](../events/1967.md) - 4 shared documents
+- [1998](../events/1998.md) - 4 shared documents
+- [2000](../events/2000.md) - 4 shared documents
 - [2003](../events/2003.md) - 4 shared documents
 - [2004](../events/2004.md) - 4 shared documents
-- [2000](../events/2000.md) - 4 shared documents
-- [this week](../events/this-week.md) - 4 shared documents
-- [last week](../events/last-week.md) - 4 shared documents
-- [1998](../events/1998.md) - 4 shared documents
+- [decades](../events/decades.md) - 4 shared documents
 - [Friday](../events/friday.md) - 4 shared documents
 
 ## Timeline

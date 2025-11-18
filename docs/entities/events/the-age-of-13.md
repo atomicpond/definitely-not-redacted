@@ -48,12 +48,12 @@ Top 5 documents by mention frequency:
 
 - [today](today.md) - 5 shared documents
 - [weekly](weekly.md) - 5 shared documents
+- [1999](1999.md) - 5 shared documents
 - [2007](2007.md) - 5 shared documents
 - [annual](annual.md) - 5 shared documents
-- [Sunday](sunday.md) - 5 shared documents
-- [summer](summer.md) - 5 shared documents
-- [1999](1999.md) - 5 shared documents
 - [six years](six-years.md) - 5 shared documents
+- [summer](summer.md) - 5 shared documents
+- [Sunday](sunday.md) - 5 shared documents
 - [the day](the-day.md) - 4 shared documents
 - [the early 1980s](the-early-1980s.md) - 4 shared documents
 

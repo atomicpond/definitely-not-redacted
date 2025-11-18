@@ -39,158 +39,155 @@ Entry](../entities/people/source-entry.md) - 1 mention
 
 ## Document Text
 
+**Thread-like Conversation View:**
+
 ```
-Source Entry: H\Macintosh HD\root\Users\jee\Library\Messages\Archive\2018-12-05\E E-
-2018-12-05 at 09.00.09.ichat 
-Service: iMessage 
-**Start Time**: **12/05/18** 04:09:01 AM (565704541) 
-**End Time**: **12/05/18** 06:00:09 AM (565711209) 
-**Last Message** ID: 24330 
-**Chat Room**: 
-Participants: jee, E E 
-Presentity IDs: e:jeeitunes@gmail.com, 
-Messages - 
-lE on 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/05/18** 04:09:01 AM (565704541) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: BA52AB7C-85A9-495C-A7D5-28C6083AC964 
-Message: so many guys caught in the me too . reaching out to me. asking when does the madness stop. funny 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/05/18** 04:25:01 AM (565705501) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 3DA4691D-A78B-49C8-BOEA-21EE513F9353 
-Message: uk you should kick boris johnson in the butt , he can do it 
-**Sender 
-Time**: **12/05/18** 04:35:43 AM (565706143) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 806C80E0-4F08-421A-B621-CAFB4C75FB06 
-Message: Madness just starting because now it has political power 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/05/18** 04:36:26 AM (565706186) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 03D9626E-4C60-47F3-AC32-8B7796328275 
-Message: yup 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/05/18** 04:38:08 AM (565706288) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 4153A74D-0854-4629-A52A-DBFDFCB11198 
-Message: it is very biological, first a cell splits left-right, then divides further. gender etc. , breaks into 
-**HOUSE** OVERSIGHT 029744 
-smaller groups forming multi cells. . ripe for a central nervous system. authority, direction strength winning 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/05/18** 04:38:52 AM (565706332) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: DC1DA180-3F11-4731-A5D9-B84F58CADC4C 
-Message: it is culture exhibiting biological processes , it is simple. 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/05/18** 04:40:53 AM (565706453) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: A65EF366-8A8E-4ED3-B3C7-737BE196E7A1 
-Message: in cells there is a message to kill oneself if not part of the group. it is called apothosis. a protection 
-against cancer. I have asked to start a new game theory course at **Harvard** called the gangster game. it describes. 
-**Trump**. putin assad xi, duerte erdogan. gambino 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/05/18** 04:50:25 AM (565707025) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: BEE80441-11E0-4559-98B7-D38397215852 
-Message: if me too is political shouldn't you expect a counter party? 
-Sender: 
-Time: **12/05/18** 04:55:08 AM (565707308) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: C0710CB6-37A0-494D-A3C0-17D8FCAA6C76 
-Message: That's the populist nationalist party-- haven't u been taking notes 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/05/18** 04:55:46 AM (565707346) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 6735EB8E-457C-4D36-B9CE-65FB81CB9F65 
-Message: I've missed the we've had enough slogan, and hat 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/05/18** 04:55:55 AM (565707355) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 92B59042-E9DC-4473-9AC1-C3FFBOC63702 
-**HOUSE** OVERSIGHT 029745 
-Message: imagine pink dick hats 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/05/18** 04:57:36 AM (565707456) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 1719AB87-2BF6-4A75-B175-5CAE8807DB34 
-Message: a million man march on wash. all wearing the hat 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/05/18** 04:58:47 AM (565707527) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 6E7F5EA9-3C97-473C-A51B-10A18AC9DCEC 
-Message: or a multi message lesbian deplorable march as, both groups can champion the idea of not doing dick! 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/05/18** 05:31:56 AM (565709516) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: CFCOCCB2-47C0-4834-B940-8B711668B847 
-Message: hey, kwok steve wynn. careful 
-Sender: 
-Time: **12/05/18** 05:32:27 AM (565709547) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 5FOOBACA-86B1-4340-8FD2-68E6C3 968921 
-Message: ??? 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/05/18** 05:33:27 AM (565709607) 
-Flags: 1150981 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 3228CE55-F2DD-4464-B6E4-54AC58306CEB 
-Message: 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/05/18** 05:39:26 AM (565709966) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: DABF8710-90AC-4D2O-B8A8-DOFF52BD2949 
-Message: as a reminder chinatown. you would nt look very good with that bandage under your nose. no rush but 
-not for text 
-**HOUSE** OVERSIGHT 029746 
-Sender: __________________ 
-Time: **12/05/18** 05:41:48 AM (565710108) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: EFF6E78D-7493-4A28-842E-142FFDB32970 
-Message: It's what I tell folks about kwok- last line in the film "geez boss , this is chinatown" 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/05/18** 05:44:19 AM (565710259) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 25B10E28-046B-4274-AA23-F0812EA4F168 
-Message: my very clo
+======================================================================
+FORMATTED CONVERSATION
+======================================================================
+
+Participants: Jeeitunes, __________________
+Total Messages: 45
+
+======================================================================
+
+[] E E:
+  no pun intended but yellow flag
+
+Wednesday, December 05, 2018
+----------------------------------------------------------------------
+[4:25:01 AM] Jeeitunes:
+  so many guys caught in the me too . reaching out to me. asking when does the madness stop. funny
+
+[4:35:43 AM] E E:
+  uk you should kick boris johnson in the butt , he can do it Sender
+
+[4:36:26 AM] Jeeitunes:
+  Madness just starting because now it has political power
+
+[4:38:08 AM] Jeeitunes:
+  yup
+
+[4:38:52 AM] Jeeitunes:
+  it is very biological, first a cell splits left-right, then divides further. gender etc. , breaks into smaller groups forming multi cells. . ripe for a central nervous system. authority, direction strength winning
+
+[4:40:53 AM] Jeeitunes:
+  it is culture exhibiting biological processes , it is simple.
+
+[4:50:25 AM] Jeeitunes:
+  in cells there is a message to kill oneself if not part of the group. it is called apothosis. a protection against cancer. I have asked to start a new game theory course at harvard called the gangster game. it describes. trump. putin assad xi, duerte erdogan. gambino
+
+[4:55:08 AM] E E:
+  if me too is political shouldn't you expect a counter party?
+
+[4:55:46 AM] Jeeitunes:
+  That's the populist nationalist party-- haven't u been taking notes
+
+[4:55:55 AM] Jeeitunes:
+  I've missed the we've had enough slogan, and hat
+
+[4:57:36 AM] Jeeitunes:
+  imagine pink dick hats
+
+[4:58:47 AM] Jeeitunes:
+  a million man march on wash. all wearing the hat
+
+[5:31:56 AM] Jeeitunes:
+  or a multi message lesbian deplorable march as, both groups can champion the idea of not doing dick!
+
+[5:32:27 AM] E E:
+  hey, kwok steve wynn. careful
+
+[5:33:27 AM] Jeeitunes:
+  ???
+
+[5:41:48 AM] __________________:
+  as a reminder chinatown. you would nt look very good with that bandage under your nose. no rush but not for text
+
+[5:44:19 AM] Jeeitunes:
+  It's what I tell folks about kwok- last line in the film "geez boss , this is chinatown"
+
+[5:45:51 AM] Jeeitunes:
+  my very close friends as a favor, also would like you safe
+
+[5:47:19 AM] E E:
+  if either one of us , in different investigations will need to testify publicly, it would be preferred to do it with two nostrils instead of one
+
+[5:47:58 AM] Jeeitunes:
+  You don't have to worry personally because I'm sending u somewhere beyond extradition
+
+[5:48:20 AM] Jeeitunes:
+  faust
+
+[5:48:49 AM] E E:
+  as i didn't think you meant paradise
+
+[5:49:17 AM] Jeeitunes:
+  Faust exactly
+
+[5:49:28 AM] __________________:
+  surprise surprise surprise gomer
+
+[5:49:44 AM] Jeeitunes:
+  How's our curing breast cancer coming
+
+[5:50:27 AM] Jeeitunes:
+  im doing hands on research
+
+[5:50:28 AM] E E:
+  breast cancer easier to cure than the me too movment
+
+[5:50:52 AM] Jeeitunes:
+  You are a brilliant guy--- go all in and organize a real effort to leave a mark
+
+[5:51:16 AM] __________________:
+  I started
+
+[5:51:17 AM] Jeeitunes:
+  Not 'me too'-- Times Up-- not about the act of sex-- about power dynamics
+
+[5:51:37 AM] E E:
+  dubin breast center mount sinai I m all over it Sender
+
+[5:51:48 AM] Jeeitunes:
+  Is that the best in the world ?
+
+[5:51:59 AM] Jeeitunes:
+  of course,
+
+[5:52:32 AM] Jeeitunes:
+  jews
+
+[5:52:32 AM] E E:
+  just hired ssomoen this morning. I follow directions well
+
+[5:52:45 AM] E E:
+  Love being a junior partner to chosen people of Yawweh
+
+[5:53:13 AM] Jeeitunes:
+  Smart:: let's get rolling
+
+[5:54:10 AM] Jeeitunes:
+  yah weh. like mish a gas. got to get the spelling right
+
+[5:55:38 AM] Jeeitunes:
+  not sure beezelbub is considered a junior partner. more like outside counsel
+
+[5:58:17 AM] E E:
+  re kwok , honybear ok. icarus not
+
+[5:58:45 AM] E E:
+  I was referring to ALL Christians!
+
+[5:59:01 AM] Jeeitunes:
+  Will explain kwok later-- like trump an instrument
+
+[5:59:26 AM] Jeeitunes:
+  I am very well informed there. , didn't know it was him
+
+[6:00:09 AM] Jeeitunes:
+  as they use his chinese name
+
 ```
 
 *[Text truncated to 5000 characters]*

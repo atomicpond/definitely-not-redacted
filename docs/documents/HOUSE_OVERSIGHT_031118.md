@@ -11,7 +11,7 @@
 ### People
 - [Oscar](../entities/people/oscar.md) - 4 mentions
 - [Peggy Siegal](../entities/people/peggy-siegal.md) - 2 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 2 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 2 mentions
 - [Steven Spielberg](../entities/people/steven-spielberg.md) - 1 mention
 - [Jennifer Lawrence](../entities/people/jennifer-lawrence.md) - 1 mention
 - [Russell Crowe](../entities/people/russell-crowe.md) - 1 mention

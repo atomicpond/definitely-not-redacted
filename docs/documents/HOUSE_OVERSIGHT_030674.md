@@ -14,7 +14,7 @@
 - [Jeffrey E. 
 Sent](../entities/people/jeffrey-e-sent.md) - 8 mentions
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 1 mention
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 1 mention
 - [Brett Ratner](../entities/people/brett-ratner.md) - 1 mention
 - [Charlie](../entities/people/charlie.md) - 1 mention
 

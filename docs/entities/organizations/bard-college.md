@@ -24,8 +24,8 @@ Top 5 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Bard College](../people/bard-college.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
 
 **Organizations:**
 

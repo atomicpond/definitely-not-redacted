@@ -23,35 +23,28 @@ Top 6 documents by mention frequency:
 
 ### Most Frequently Co-occurring Entities
 
-**Organizations:**
-
-- [IBM](ibm.md) - 4 shared documents
-
 **Locations:**
 
-- [Russia](../locations/russia.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
 - [Iraq](../locations/iraq.md) - 5 shared documents
 - [Israel](../locations/israel.md) - 5 shared documents
+- [Russia](../locations/russia.md) - 5 shared documents
+- [Boston](../locations/boston.md) - 4 shared documents
+- [Cambridge](../locations/cambridge.md) - 4 shared documents
 - [Earth](../locations/earth.md) - 4 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
-- [USA](../locations/usa.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
-- [France](../locations/france.md) - 4 shared documents
 
 **Events:**
 
 - [1999](../events/1999.md) - 6 shared documents
-- [2009](../events/2009.md) - 5 shared documents
+- [1976](../events/1976.md) - 5 shared documents
+- [1994](../events/1994.md) - 5 shared documents
 - [1997](../events/1997.md) - 5 shared documents
 - [1998](../events/1998.md) - 5 shared documents
 - [2001](../events/2001.md) - 5 shared documents
 - [2002](../events/2002.md) - 5 shared documents
-- [1976](../events/1976.md) - 5 shared documents
-- [1994](../events/1994.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [2004](../events/2004.md) - 4 shared documents
+- [2009](../events/2009.md) - 5 shared documents
+- [1949](../events/1949.md) - 4 shared documents
+- [1973](../events/1973.md) - 4 shared documents
 
 ## Timeline
 

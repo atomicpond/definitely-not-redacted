@@ -31,7 +31,7 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [General Assembly](../people/general-assembly.md) - 11 shared documents
-- [President Obama](../people/president-obama.md) - 8 shared documents
+- [Barack Obama](../people/barack-obama.md) - 8 shared documents
 - [Security Council](../people/security-council.md) - 8 shared documents
 - [Middle East](../people/middle-east.md) - 7 shared documents
 - [Tel Aviv](../people/tel-aviv.md) - 6 shared documents
@@ -56,29 +56,29 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [Russia](../locations/russia.md) - 8 shared documents
 - [Iran](../locations/iran.md) - 8 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 7 shared documents
-- [China](../locations/china.md) - 7 shared documents
+- [Russia](../locations/russia.md) - 8 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 7 shared documents
 - [Asia](../locations/asia.md) - 7 shared documents
-- [Iraq](../locations/iraq.md) - 7 shared documents
-- [Syria](../locations/syria.md) - 7 shared documents
-- [Israel](../locations/israel.md) - 7 shared documents
-- [Turkey](../locations/turkey.md) - 7 shared documents
+- [China](../locations/china.md) - 7 shared documents
 - [Egypt](../locations/egypt.md) - 7 shared documents
+- [Gaza](../locations/gaza.md) - 7 shared documents
+- [Iraq](../locations/iraq.md) - 7 shared documents
+- [Israel](../locations/israel.md) - 7 shared documents
+- [Jerusalem](../locations/jerusalem.md) - 7 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 7 shared documents
 - [1967](../events/1967.md) - 7 shared documents
-- [Monday](../events/monday.md) - 6 shared documents
-- [last week](../events/last-week.md) - 6 shared documents
+- [today](../events/today.md) - 7 shared documents
 - [Friday](../events/friday.md) - 6 shared documents
-- [Tuesday](../events/tuesday.md) - 6 shared documents
+- [last week](../events/last-week.md) - 6 shared documents
+- [Monday](../events/monday.md) - 6 shared documents
 - [September](../events/september.md) - 6 shared documents
-- [2003](../events/2003.md) - 5 shared documents
-- [Thursday](../events/thursday.md) - 5 shared documents
+- [Tuesday](../events/tuesday.md) - 6 shared documents
+- [1949](../events/1949.md) - 5 shared documents
 - [2000](../events/2000.md) - 5 shared documents
+- [2003](../events/2003.md) - 5 shared documents
 
 ## Timeline
 

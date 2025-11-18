@@ -29,18 +29,17 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Trump](../people/president-trump.md) - 11 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 9 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 8 shared documents
 - [jeffrey E.](../people/jeffrey-e.md) - 8 shared documents
 - [Michael Wolff](../people/michael-wolff.md) - 8 shared documents
 - [Carter Page](../people/carter-page.md) - 7 shared documents
-- [Donald 
-Trump](../people/donald-trump.md) - 7 shared documents
 - [Ed](../people/ed.md) - 7 shared documents
 - [Federal Bureau](../people/federal-bureau.md) - 7 shared documents
-- [CLINTON](../people/clinton.md) - 6 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 6 shared documents
+- [David](../people/david.md) - 6 shared documents
+- [George H.W. Bush](../people/george-hw-bush.md) - 6 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 6 shared documents
 
 **Organizations:**
 
@@ -51,33 +50,30 @@ Trump](../people/donald-trump.md) - 7 shared documents
 - [FBI](fbi.md) - 8 shared documents
 - [Mueller](mueller.md) - 8 shared documents
 - [Senate](senate.md) - 7 shared documents
-- [Times](times.md) - 7 shared documents
 - [the Justice Department](the-justice-department.md) - 7 shared documents
 - [the New York Times](the-new-york-times.md) - 7 shared documents
+- [Times](times.md) - 7 shared documents
 
 **Locations:**
 
 - [Russia](../locations/russia.md) - 12 shared documents
+- [London](../locations/london.md) - 9 shared documents
 - [New York](../locations/new-york.md) - 9 shared documents
 - [Washington](../locations/washington.md) - 9 shared documents
-- [London](../locations/london.md) - 9 shared documents
 - [US](../locations/us.md) - 8 shared documents
-- [Americas](../locations/americas.md) - 5 shared documents
-- [China](../locations/china.md) - 5 shared documents
-- [Pennsylvania](../locations/pennsylvania.md) - 5 shared documents
 
 **Events:**
 
 - [2016](../events/2016.md) - 11 shared documents
 - [tomorrow](../events/tomorrow.md) - 10 shared documents
 - [2012](../events/2012.md) - 8 shared documents
+- [1987](../events/1987.md) - 7 shared documents
 - [2018](../events/2018.md) - 7 shared documents
-- [Thursday](../events/thursday.md) - 7 shared documents
 - [Monday](../events/monday.md) - 7 shared documents
 - [months](../events/months.md) - 7 shared documents
-- [1987](../events/1987.md) - 7 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [more than a year](../events/more-than-a-year.md) - 6 shared documents
+- [Thursday](../events/thursday.md) - 7 shared documents
+- [1973](../events/1973.md) - 6 shared documents
+- [Feb.](../events/feb.md) - 6 shared documents
 
 ## Timeline
 

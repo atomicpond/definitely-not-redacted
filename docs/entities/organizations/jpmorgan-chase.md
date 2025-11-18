@@ -30,8 +30,8 @@ Top 5 documents by mention frequency:
 **Locations:**
 
 - [Washington](../locations/washington.md) - 5 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
 - [Asia](../locations/asia.md) - 4 shared documents
+- [Europe](../locations/europe.md) - 4 shared documents
 - [the United States](../locations/the-united-states.md) - 4 shared documents
 
 **Events:**

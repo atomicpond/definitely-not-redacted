@@ -31,9 +31,9 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Columbia University](../people/columbia-university.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Los Angeles](../people/los-angeles.md) - 6 shared documents
 - [New Jersey](../people/new-jersey.md) - 6 shared documents
-- [President Obama](../people/president-obama.md) - 6 shared documents
 - [Middle East](../people/middle-east.md) - 5 shared documents
 - [San Francisco](../people/san-francisco.md) - 5 shared documents
 
@@ -54,27 +54,27 @@ Top 10 documents by mention frequency:
 
 - [United States](../locations/united-states.md) - 11 shared documents
 - [China](../locations/china.md) - 10 shared documents
-- [Russia](../locations/russia.md) - 9 shared documents
 - [Germany](../locations/germany.md) - 9 shared documents
+- [Russia](../locations/russia.md) - 9 shared documents
 - [Texas](../locations/texas.md) - 9 shared documents
 - [the United States](../locations/the-united-states.md) - 9 shared documents
-- [Japan](../locations/japan.md) - 8 shared documents
-- [Washington](../locations/washington.md) - 8 shared documents
-- [France](../locations/france.md) - 8 shared documents
 - [Chicago](../locations/chicago.md) - 8 shared documents
+- [France](../locations/france.md) - 8 shared documents
+- [Israel](../locations/israel.md) - 8 shared documents
+- [Japan](../locations/japan.md) - 8 shared documents
 
 **Events:**
 
 - [2000](../events/2000.md) - 11 shared documents
 - [2012](../events/2012.md) - 10 shared documents
 - [years](../events/years.md) - 10 shared documents
-- [2004](../events/2004.md) - 9 shared documents
-- [annual](../events/annual.md) - 9 shared documents
-- [daily](../events/daily.md) - 9 shared documents
-- [2001](../events/2001.md) - 9 shared documents
 - [1988](../events/1988.md) - 9 shared documents
 - [1992](../events/1992.md) - 9 shared documents
+- [2001](../events/2001.md) - 9 shared documents
+- [2004](../events/2004.md) - 9 shared documents
+- [annual](../events/annual.md) - 9 shared documents
 - [annually](../events/annually.md) - 9 shared documents
+- [daily](../events/daily.md) - 9 shared documents
 
 ## Timeline
 

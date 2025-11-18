@@ -50,35 +50,34 @@ Top 10 documents by mention frequency:
 - [Times](times.md) - 11 shared documents
 - [FBI](fbi.md) - 11 shared documents
 - [Treasury](treasury.md) - 10 shared documents
+- [Google](google.md) - 10 shared documents
 - [Ponzi](ponzi.md) - 10 shared documents
 - [Rockefeller](rockefeller.md) - 10 shared documents
-- [Google](google.md) - 10 shared documents
 
 **Locations:**
 
 - [Europe](../locations/europe.md) - 13 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 13 shared documents
 - [Paris](../locations/paris.md) - 12 shared documents
-- [Manhattan](../locations/manhattan.md) - 11 shared documents
 - [Britain](../locations/britain.md) - 11 shared documents
+- [Manhattan](../locations/manhattan.md) - 11 shared documents
 - [America](../locations/america.md) - 10 shared documents
-- [Dallas](../locations/dallas.md) - 10 shared documents
-- [Connecticut](../locations/connecticut.md) - 10 shared documents
 - [Coney Island](../locations/coney-island.md) - 10 shared documents
-- [Qatar](../locations/qatar.md) - 9 shared documents
+- [Connecticut](../locations/connecticut.md) - 10 shared documents
+- [Dallas](../locations/dallas.md) - 10 shared documents
 
 **Events:**
 
 - [Sunday](../events/sunday.md) - 12 shared documents
+- [18 months](../events/18-months.md) - 11 shared documents
+- [1974](../events/1974.md) - 11 shared documents
 - [daily](../events/daily.md) - 11 shared documents
 - [Saturday](../events/saturday.md) - 11 shared documents
-- [1974](../events/1974.md) - 11 shared documents
-- [18 months](../events/18-months.md) - 11 shared documents
 - [two years](../events/two-years.md) - 11 shared documents
-- [last year](../events/last-year.md) - 10 shared documents
-- [2010](../events/2010.md) - 10 shared documents
+- [1982](../events/1982.md) - 10 shared documents
+- [1994](../events/1994.md) - 10 shared documents
 - [2002](../events/2002.md) - 10 shared documents
-- [many years](../events/many-years.md) - 10 shared documents
+- [2010](../events/2010.md) - 10 shared documents
 
 ## Timeline
 

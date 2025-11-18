@@ -24,13 +24,13 @@ Top 5 documents by mention frequency:
 
 **People:**
 
-- [Larry Summers](larry-summers.md) - 4 shared documents
 - [Harvard Law School](harvard-law-school.md) - 4 shared documents
+- [Larry Summers](larry-summers.md) - 4 shared documents
 
 **Organizations:**
 
-- [State](../organizations/state.md) - 4 shared documents
 - [Harvard Law School](../organizations/harvard-law-school.md) - 4 shared documents
+- [State](../organizations/state.md) - 4 shared documents
 
 ## Timeline
 

@@ -16,7 +16,7 @@
 ### People
 - [J.P. Morgan](../entities/people/jp-morgan.md) - 9 mentions
 - [Jan Loeys](../entities/people/jan-loeys.md) - 9 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 5 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 5 mentions
 - [Hong 
 Kong](../entities/people/hong-kong.md) - 5 mentions
 - [New Zealand](../entities/people/new-zealand.md) - 4 mentions

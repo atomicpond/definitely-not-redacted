@@ -32,13 +32,12 @@ Top 6 documents by mention frequency:
 Sent](jeffrey-e-sent.md) - 5 shared documents
 - [Reid](reid.md) - 5 shared documents
 - [Weingarten](weingarten.md) - 5 shared documents
-- [Mr. Bannon](bannon.md) - 5 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 6 shared documents
-- [Trump](../organizations/trump.md) - 5 shared documents
 - [Mueller](../organizations/mueller.md) - 5 shared documents
+- [Trump](../organizations/trump.md) - 5 shared documents
 
 **Events:**
 

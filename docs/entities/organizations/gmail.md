@@ -33,18 +33,18 @@ Top 7 documents by mention frequency:
 **Locations:**
 
 - [China](../locations/china.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 - [Massachusetts](../locations/massachusetts.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 6 shared documents
 - [tomorrow](../events/tomorrow.md) - 6 shared documents
-- [Wednesday](../events/wednesday.md) - 4 shared documents
-- [last year](../events/last-year.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
 - [Friday](../events/friday.md) - 4 shared documents
+- [last year](../events/last-year.md) - 4 shared documents
 - [the next few days](../events/the-next-few-days.md) - 4 shared documents
+- [Wednesday](../events/wednesday.md) - 4 shared documents
+- [years](../events/years.md) - 4 shared documents
 
 ## Timeline
 

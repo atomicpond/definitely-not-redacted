@@ -21,7 +21,7 @@ States](../entities/people/united-states.md) - 3 mentions
 - [President Barack Obama](../entities/people/president-barack-obama.md) - 1 mention
 - [Treasury Department](../entities/people/treasury-department.md) - 1 mention
 - [John Kerry](../entities/people/john-kerry.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 
 ### Organizations
 - [JASTA](../entities/organizations/jasta.md) - 3 mentions

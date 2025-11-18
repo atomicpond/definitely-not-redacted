@@ -39,8 +39,6 @@ Top 8 documents by mention frequency:
 
 - [Goldman Sachs](goldman-sachs.md) - 7 shared documents
 - [Morgan Stanley](morgan-stanley.md) - 6 shared documents
-- [LLC](llc.md) - 5 shared documents
-- [SEC](sec.md) - 5 shared documents
 
 **Locations:**
 
@@ -50,23 +48,22 @@ Top 8 documents by mention frequency:
 - [Japan](../locations/japan.md) - 6 shared documents
 - [Brazil](../locations/brazil.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
-- [Mexico](../locations/mexico.md) - 5 shared documents
+- [India](../locations/india.md) - 5 shared documents
 - [London](../locations/london.md) - 5 shared documents
-- [Miami](../locations/miami.md) - 5 shared documents
-- [Paris](../locations/paris.md) - 5 shared documents
+- [Mexico](../locations/mexico.md) - 5 shared documents
 
 **Events:**
 
 - [last year](../events/last-year.md) - 7 shared documents
 - [years](../events/years.md) - 7 shared documents
+- [1993](../events/1993.md) - 6 shared documents
 - [2014](../events/2014.md) - 6 shared documents
 - [2015](../events/2015.md) - 6 shared documents
-- [monthly](../events/monthly.md) - 6 shared documents
-- [the year](../events/the-year.md) - 6 shared documents
-- [1993](../events/1993.md) - 6 shared documents
-- [year](../events/year.md) - 6 shared documents
 - [five years](../events/five-years.md) - 6 shared documents
 - [January](../events/january.md) - 6 shared documents
+- [monthly](../events/monthly.md) - 6 shared documents
+- [September](../events/september.md) - 6 shared documents
+- [the year](../events/the-year.md) - 6 shared documents
 
 ## Timeline
 

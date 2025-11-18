@@ -54,10 +54,10 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [years](years.md) - 9 shared documents
+- [1995](1995.md) - 9 shared documents
 - [2007](2007.md) - 9 shared documents
 - [2009](2009.md) - 9 shared documents
 - [a year](a-year.md) - 9 shared documents
-- [1995](1995.md) - 9 shared documents
 - [ten years](ten-years.md) - 8 shared documents
 - [the day](the-day.md) - 8 shared documents
 - [three years](three-years.md) - 8 shared documents

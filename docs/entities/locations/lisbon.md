@@ -31,7 +31,6 @@ Top 9 documents by mention frequency:
 - [Barack Obama](../people/barack-obama.md) - 4 shared documents
 - [Daniel Kahneman](../people/daniel-kahneman.md) - 4 shared documents
 - [Dear Jeff](../people/dear-jeff.md) - 4 shared documents
-- [President Obama](../people/president-obama.md) - 4 shared documents
 
 **Organizations:**
 
@@ -61,13 +60,13 @@ Top 9 documents by mention frequency:
 - [many years](../events/many-years.md) - 6 shared documents
 - [the end of the year](../events/the-end-of-the-year.md) - 6 shared documents
 - [the next few months](../events/the-next-few-months.md) - 5 shared documents
-- [the 1980s](../events/the-1980s.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [last year](../events/last-year.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
-- [the end of 2017](../events/the-end-of-2017.md) - 4 shared documents
-- [one day](../events/one-day.md) - 4 shared documents
+- [1981](../events/1981.md) - 4 shared documents
+- [1987](../events/1987.md) - 4 shared documents
 - [a year](../events/a-year.md) - 4 shared documents
+- [December 2016](../events/december-2016.md) - 4 shared documents
+- [last year](../events/last-year.md) - 4 shared documents
+- [one day](../events/one-day.md) - 4 shared documents
+- [several years](../events/several-years.md) - 4 shared documents
 
 ## Timeline
 

@@ -29,13 +29,13 @@ Top 8 documents by mention frequency:
 
 - [Supreme Court](supreme-court.md) - 5 shared documents
 - [White House](white-house.md) - 5 shared documents
+- [Barack Obama](barack-obama.md) - 5 shared documents
 - [Biden](biden.md) - 5 shared documents
-- [Mr. Obama](obama.md) - 5 shared documents
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 7 shared documents
 - [Congress](../organizations/congress.md) - 7 shared documents
+- [HOUSE](../organizations/house.md) - 7 shared documents
 - [Supreme Court](../organizations/supreme-court.md) - 5 shared documents
 - [GOP](../organizations/gop.md) - 4 shared documents
 - [the Democratic party](../organizations/the-democratic-party.md) - 4 shared documents
@@ -44,8 +44,8 @@ Top 8 documents by mention frequency:
 
 - [America](../locations/america.md) - 8 shared documents
 - [US](../locations/us.md) - 8 shared documents
-- [Israel](../locations/israel.md) - 5 shared documents
 - [Indiana](../locations/indiana.md) - 5 shared documents
+- [Israel](../locations/israel.md) - 5 shared documents
 - [Mexico](../locations/mexico.md) - 4 shared documents
 - [Washington](../locations/washington.md) - 4 shared documents
 

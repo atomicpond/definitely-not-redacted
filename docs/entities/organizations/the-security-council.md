@@ -34,11 +34,11 @@ Top 10 documents by mention frequency:
 - [Saudi Arabia](../people/saudi-arabia.md) - 9 shared documents
 - [General Assembly](../people/general-assembly.md) - 8 shared documents
 - [West Bank](../people/west-bank.md) - 8 shared documents
-- [President Obama](../people/president-obama.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Arab League](../people/arab-league.md) - 6 shared documents
-- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Hosni Mubarak](../people/hosni-mubarak.md) - 6 shared documents
 - [White House](../people/white-house.md) - 6 shared documents
+- [Ehud Olmert](../people/ehud-olmert.md) - 5 shared documents
 
 **Organizations:**
 
@@ -46,23 +46,23 @@ Top 10 documents by mention frequency:
 - [State](state.md) - 10 shared documents
 - [Congress](congress.md) - 9 shared documents
 - [United Nations](united-nations.md) - 8 shared documents
-- [the New York Times](the-new-york-times.md) - 8 shared documents
 - [Hamas](hamas.md) - 8 shared documents
 - [the Muslim Brotherhood](the-muslim-brotherhood.md) - 8 shared documents
+- [the New York Times](the-new-york-times.md) - 8 shared documents
 - [White House](white-house.md) - 7 shared documents
 - [UN](un.md) - 6 shared documents
 - [the State Department](the-state-department.md) - 5 shared documents
 
 **Locations:**
 
-- [Russia](../locations/russia.md) - 12 shared documents
-- [Israel](../locations/israel.md) - 12 shared documents
 - [Egypt](../locations/egypt.md) - 12 shared documents
+- [Israel](../locations/israel.md) - 12 shared documents
 - [Lebanon](../locations/lebanon.md) - 12 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 11 shared documents
+- [Russia](../locations/russia.md) - 12 shared documents
 - [Iran](../locations/iran.md) - 11 shared documents
 - [Iraq](../locations/iraq.md) - 11 shared documents
 - [Syria](../locations/syria.md) - 11 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 11 shared documents
 - [the United States](../locations/the-united-states.md) - 11 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 10 shared documents
 
@@ -70,12 +70,14 @@ Top 10 documents by mention frequency:
 
 - [today](../events/today.md) - 11 shared documents
 - [2003](../events/2003.md) - 9 shared documents
+- [1967](../events/1967.md) - 7 shared documents
+- [2000](../events/2000.md) - 7 shared documents
 - [2004](../events/2004.md) - 7 shared documents
 - [2009](../events/2009.md) - 7 shared documents
-- [2000](../events/2000.md) - 7 shared documents
+- [decades](../events/decades.md) - 7 shared documents
 - [last week](../events/last-week.md) - 7 shared documents
 - [recent years](../events/recent-years.md) - 7 shared documents
-- [1967](../events/1967.md) - 7 shared documents
+- [September](../events/september.md) - 7 shared documents
 
 ## Timeline
 

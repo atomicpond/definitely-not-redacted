@@ -30,13 +30,13 @@ Top 6 documents by mention frequency:
 **Organizations:**
 
 - [Harvard](../organizations/harvard.md) - 6 shared documents
-- [HOUSE](../organizations/house.md) - 5 shared documents
 - [Harvard University](../organizations/harvard-university.md) - 5 shared documents
+- [HOUSE](../organizations/house.md) - 5 shared documents
 
 **Locations:**
 
-- [London](../locations/london.md) - 6 shared documents
 - [America](../locations/america.md) - 6 shared documents
+- [London](../locations/london.md) - 6 shared documents
 - [Cambridge](../locations/cambridge.md) - 5 shared documents
 - [Chicago](../locations/chicago.md) - 5 shared documents
 - [Harlem](../locations/harlem.md) - 4 shared documents

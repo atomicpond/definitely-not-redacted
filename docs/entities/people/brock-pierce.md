@@ -43,42 +43,40 @@ Top 10 documents by mention frequency:
 
 **Organizations:**
 
-- [ISIS](../organizations/isis.md) - 10 shared documents
 - [Harvard](../organizations/harvard.md) - 10 shared documents
+- [ISIS](../organizations/isis.md) - 10 shared documents
 - [Vanity Fair](../organizations/vanity-fair.md) - 10 shared documents
-- [Google](../organizations/google.md) - 9 shared documents
-- [Cooper Union](../organizations/cooper-union.md) - 9 shared documents
 - [Carnegie](../organizations/carnegie.md) - 9 shared documents
-- [White House](../organizations/white-house.md) - 8 shared documents
+- [Cooper Union](../organizations/cooper-union.md) - 9 shared documents
+- [Google](../organizations/google.md) - 9 shared documents
 - [New York Magazine](../organizations/new-york-magazine.md) - 8 shared documents
-- [Times](../organizations/times.md) - 7 shared documents
-- [the New York Times](../organizations/the-new-york-times.md) - 7 shared documents
+- [White House](../organizations/white-house.md) - 8 shared documents
 
 **Locations:**
 
-- [Qatar](../locations/qatar.md) - 10 shared documents
 - [Manhattan](../locations/manhattan.md) - 10 shared documents
 - [Paris](../locations/paris.md) - 10 shared documents
-- [Europe](../locations/europe.md) - 9 shared documents
-- [New Mexico](../locations/new-mexico.md) - 9 shared documents
-- [Palm Beach](../locations/palm-beach.md) - 9 shared documents
+- [Qatar](../locations/qatar.md) - 10 shared documents
 - [Coney Island](../locations/coney-island.md) - 9 shared documents
 - [Dalton](../locations/dalton.md) - 9 shared documents
+- [Europe](../locations/europe.md) - 9 shared documents
 - [Kairat Kelimbetov](../locations/kairat-kelimbetov.md) - 9 shared documents
-- [Queens](../locations/queens.md) - 7 shared documents
+- [New Mexico](../locations/new-mexico.md) - 9 shared documents
+- [Palm Beach](../locations/palm-beach.md) - 9 shared documents
+- [Caribbean](../locations/caribbean.md) - 7 shared documents
 
 **Events:**
 
+- [1994](../events/1994.md) - 10 shared documents
 - [Sunday](../events/sunday.md) - 10 shared documents
 - [two years](../events/two-years.md) - 10 shared documents
-- [1994](../events/1994.md) - 10 shared documents
-- [2002](../events/2002.md) - 9 shared documents
 - [1953](../events/1953.md) - 9 shared documents
 - [1982](../events/1982.md) - 9 shared documents
+- [2002](../events/2002.md) - 9 shared documents
 - [20s and 30s](../events/20s-and-30s.md) - 9 shared documents
 - [2004](../events/2004.md) - 8 shared documents
 - [several years](../events/several-years.md) - 8 shared documents
-- [the 1980s](../events/the-1980s.md) - 7 shared documents
+- [daily](../events/daily.md) - 7 shared documents
 
 ## Timeline
 

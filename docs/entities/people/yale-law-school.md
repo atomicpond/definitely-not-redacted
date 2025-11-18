@@ -23,41 +23,30 @@ Top 6 documents by mention frequency:
 
 ### Most Frequently Co-occurring Entities
 
-**People:**
-
-- [President Obama](president-obama.md) - 5 shared documents
-
 **Organizations:**
 
 - [Party](../organizations/party.md) - 6 shared documents
-- [FBI](../organizations/fbi.md) - 5 shared documents
-- [Harvard](../organizations/harvard.md) - 5 shared documents
 
 **Locations:**
 
 - [California](../locations/california.md) - 6 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
-- [China](../locations/china.md) - 5 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
-- [London](../locations/london.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [Australia](../locations/australia.md) - 5 shared documents
+- [China](../locations/china.md) - 5 shared documents
+- [Connecticut](../locations/connecticut.md) - 5 shared documents
 
 **Events:**
 
-- [1990](../events/1990.md) - 6 shared documents
 - [1964](../events/1964.md) - 6 shared documents
+- [1990](../events/1990.md) - 6 shared documents
 - [1991](../events/1991.md) - 6 shared documents
-- [2009](../events/2009.md) - 5 shared documents
-- [2015](../events/2015.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
+- [1968](../events/1968.md) - 5 shared documents
+- [1970](../events/1970.md) - 5 shared documents
+- [1972](../events/1972.md) - 5 shared documents
+- [1981](../events/1981.md) - 5 shared documents
+- [1983](../events/1983.md) - 5 shared documents
+- [1985](../events/1985.md) - 5 shared documents
 - [1996](../events/1996.md) - 5 shared documents
-- [2012](../events/2012.md) - 5 shared documents
-- [daily](../events/daily.md) - 5 shared documents
-- [Sunday](../events/sunday.md) - 5 shared documents
 
 ## Timeline
 

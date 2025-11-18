@@ -37,10 +37,10 @@ Top 10 documents by mention frequency:
 - [David Copperfield](david-copperfield.md) - 9 shared documents
 - [Paul Cassell](paul-cassell.md) - 9 shared documents
 - [Vanity Fair](vanity-fair.md) - 9 shared documents
-- [Bradley Edwards](bradley-edwards.md) - 9 shared documents
 - [Alfredo Rodriguez](alfredo-rodriguez.md) - 9 shared documents
 - [Crime Victims](crime-victims.md) - 8 shared documents
 - [Leslie Wexner](leslie-wexner.md) - 8 shared documents
+- [Rights Act](rights-act.md) - 8 shared documents
 
 **Organizations:**
 
@@ -53,7 +53,6 @@ Top 10 documents by mention frequency:
 - [Court](../organizations/court.md) - 9 shared documents
 - [FBI](../organizations/fbi.md) - 9 shared documents
 - [Vanity Fair](../organizations/vanity-fair.md) - 9 shared documents
-- [Trump](../organizations/trump.md) - 8 shared documents
 
 **Locations:**
 
@@ -63,23 +62,23 @@ Top 10 documents by mention frequency:
 - [New Mexico](../locations/new-mexico.md) - 14 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 13 shared documents
 - [Manhattan](../locations/manhattan.md) - 12 shared documents
-- [United States](../locations/united-states.md) - 10 shared documents
 - [England](../locations/england.md) - 10 shared documents
-- [the Virgin Islands](../locations/the-virgin-islands.md) - 10 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 10 shared documents
+- [the Virgin Islands](../locations/the-virgin-islands.md) - 10 shared documents
+- [United States](../locations/united-states.md) - 10 shared documents
 
 **Events:**
 
-- [last week](../events/last-week.md) - 12 shared documents
-- [2010](../events/2010.md) - 12 shared documents
 - [2006](../events/2006.md) - 12 shared documents
+- [2010](../events/2010.md) - 12 shared documents
+- [last week](../events/last-week.md) - 12 shared documents
+- [2002](../events/2002.md) - 11 shared documents
 - [2004](../events/2004.md) - 11 shared documents
+- [2008](../events/2008.md) - 11 shared documents
 - [2009](../events/2009.md) - 11 shared documents
 - [today](../events/today.md) - 11 shared documents
-- [2008](../events/2008.md) - 11 shared documents
-- [2002](../events/2002.md) - 11 shared documents
 - [18 months](../events/18-months.md) - 10 shared documents
-- [2003](../events/2003.md) - 9 shared documents
+- [13 months](../events/13-months.md) - 9 shared documents
 
 ## Timeline
 

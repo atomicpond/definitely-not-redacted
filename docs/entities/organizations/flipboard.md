@@ -47,18 +47,18 @@ Alto](../people/palo-alto.md) - 5 shared documents
 
 - [Palo Alto](../locations/palo-alto.md) - 13 shared documents
 - [735 Emerson Street](../locations/735-emerson-street.md) - 9 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [New York City](../locations/new-york-city.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 - [China](../locations/china.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
 - [England](../locations/england.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
 
 **Events:**
 
 - [2019](../events/2019.md) - 13 shared documents
-- [Thursday](../events/thursday.md) - 4 shared documents
-- [Friday](../events/friday.md) - 4 shared documents
 - [earlier this year](../events/earlier-this-year.md) - 4 shared documents
+- [Friday](../events/friday.md) - 4 shared documents
+- [Thursday](../events/thursday.md) - 4 shared documents
 
 ## Timeline
 

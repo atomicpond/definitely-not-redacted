@@ -11,7 +11,7 @@
 ### People
 - [Richard Kahn](../entities/people/richard-kahn.md) - 2 mentions
 - [Mr. 
-Dershowitz](../entities/people/mr-dershowitz.md) - 2 mentions
+Dershowitz](../entities/people/alan-dershowitz.md) - 2 mentions
 - [Lexington Avenue](../entities/people/lexington-avenue.md) - 1 mention
 - [Associates Inc](../entities/people/associates-inc.md) - 1 mention
 - [Darren](../entities/people/darren.md) - 1 mention

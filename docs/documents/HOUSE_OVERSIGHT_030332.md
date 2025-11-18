@@ -9,9 +9,9 @@
 ## Entities Mentioned
 
 ### People
-- [Ms. Ruemmler](../entities/people/ms-ruemmler.md) - 3 mentions
+- [Ms. Ruemmler](../entities/people/kathy-ruemmler.md) - 3 mentions
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 2 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Kathryn Ruemmler](../entities/people/kathryn-ruemmler.md) - 1 mention
 - [Jes Staley](../entities/people/jes-staley.md) - 1 mention
 

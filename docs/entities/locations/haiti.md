@@ -29,9 +29,9 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 9 shared documents
+- [Barack Obama](../people/barack-obama.md) - 9 shared documents
 - [Harvard University](../people/harvard-university.md) - 5 shared documents
-- [Mr. Obama](../people/obama.md) - 5 shared documents
+- [Vanity Fair](../people/vanity-fair.md) - 5 shared documents
 
 **Organizations:**
 
@@ -65,12 +65,12 @@ Top 10 documents by mention frequency:
 - [2003](../events/2003.md) - 12 shared documents
 - [2004](../events/2004.md) - 11 shared documents
 - [2006](../events/2006.md) - 11 shared documents
-- [2007](../events/2007.md) - 10 shared documents
-- [2005](../events/2005.md) - 10 shared documents
 - [2002](../events/2002.md) - 10 shared documents
-- [2009](../events/2009.md) - 9 shared documents
+- [2005](../events/2005.md) - 10 shared documents
+- [2007](../events/2007.md) - 10 shared documents
 - [2000](../events/2000.md) - 9 shared documents
-- [this year](../events/this-year.md) - 9 shared documents
+- [2009](../events/2009.md) - 9 shared documents
+- [2010](../events/2010.md) - 9 shared documents
 
 ## Timeline
 

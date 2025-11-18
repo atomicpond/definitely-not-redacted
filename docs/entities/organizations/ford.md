@@ -35,12 +35,12 @@ Top 10 documents by mention frequency:
 - [Los Angeles](../people/los-angeles.md) - 12 shared documents
 - [San Francisco](../people/san-francisco.md) - 11 shared documents
 - [Middle East](../people/middle-east.md) - 10 shared documents
+- [Barack Obama](../people/barack-obama.md) - 8 shared documents
 - [Beverly Hills](../people/beverly-hills.md) - 8 shared documents
-- [President Obama](../people/president-obama.md) - 8 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 8 shared documents
 - [Vanity Fair](../people/vanity-fair.md) - 8 shared documents
 - [Vietnam War](../people/vietnam-war.md) - 8 shared documents
-- [Barack Obama](../people/barack-obama.md) - 7 shared documents
+- [District Court](../people/district-court.md) - 7 shared documents
 
 **Organizations:**
 
@@ -60,9 +60,9 @@ Top 10 documents by mention frequency:
 - [New York](../locations/new-york.md) - 22 shared documents
 - [America](../locations/america.md) - 20 shared documents
 - [California](../locations/california.md) - 19 shared documents
-- [Washington](../locations/washington.md) - 19 shared documents
 - [Florida](../locations/florida.md) - 19 shared documents
 - [Virginia](../locations/virginia.md) - 19 shared documents
+- [Washington](../locations/washington.md) - 19 shared documents
 - [the United States](../locations/the-united-states.md) - 17 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 16 shared documents
 - [Paris](../locations/paris.md) - 16 shared documents
@@ -72,14 +72,14 @@ Top 10 documents by mention frequency:
 
 - [2007](../events/2007.md) - 21 shared documents
 - [2005](../events/2005.md) - 20 shared documents
-- [Sunday](../events/sunday.md) - 17 shared documents
 - [1997](../events/1997.md) - 17 shared documents
-- [today](../events/today.md) - 16 shared documents
-- [the year](../events/the-year.md) - 16 shared documents
+- [Sunday](../events/sunday.md) - 17 shared documents
+- [1987](../events/1987.md) - 16 shared documents
 - [2008](../events/2008.md) - 16 shared documents
 - [2010](../events/2010.md) - 16 shared documents
-- [1987](../events/1987.md) - 16 shared documents
-- [annual](../events/annual.md) - 15 shared documents
+- [the year](../events/the-year.md) - 16 shared documents
+- [today](../events/today.md) - 16 shared documents
+- [1995](../events/1995.md) - 15 shared documents
 
 ## Timeline
 

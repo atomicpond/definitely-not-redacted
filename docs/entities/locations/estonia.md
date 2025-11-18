@@ -28,7 +28,7 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 6 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 
 **Organizations:**
 
@@ -46,21 +46,21 @@ Top 9 documents by mention frequency:
 - [Russia](russia.md) - 7 shared documents
 - [the United States](the-united-states.md) - 7 shared documents
 - [Washington](washington.md) - 7 shared documents
-- [China](china.md) - 7 shared documents
 - [America](america.md) - 7 shared documents
+- [Australia](australia.md) - 7 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 8 shared documents
 - [1990](../events/1990.md) - 8 shared documents
+- [today](../events/today.md) - 8 shared documents
+- [2001](../events/2001.md) - 7 shared documents
 - [2003](../events/2003.md) - 7 shared documents
 - [2004](../events/2004.md) - 7 shared documents
+- [2005](../events/2005.md) - 7 shared documents
 - [2015](../events/2015.md) - 7 shared documents
 - [2016](../events/2016.md) - 7 shared documents
 - [daily](../events/daily.md) - 7 shared documents
-- [years](../events/years.md) - 7 shared documents
-- [2001](../events/2001.md) - 7 shared documents
-- [2005](../events/2005.md) - 7 shared documents
+- [months](../events/months.md) - 7 shared documents
 
 ## Timeline
 

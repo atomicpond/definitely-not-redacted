@@ -10,7 +10,7 @@
 
 ### People
 - [Mr. 
-Dershowitz](../entities/people/mr-dershowitz.md) - 1 mention
+Dershowitz](../entities/people/alan-dershowitz.md) - 1 mention
 - [Lexington Avenue](../entities/people/lexington-avenue.md) - 1 mention
 - [Associates Inc](../entities/people/associates-inc.md) - 1 mention
 - [Floor 

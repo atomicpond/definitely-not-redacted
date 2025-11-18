@@ -33,7 +33,6 @@ Top 10 documents by mention frequency:
 
 - [Middle East](middle-east.md) - 55 shared documents
 - [White House](white-house.md) - 38 shared documents
-- [President Obama](president-obama.md) - 34 shared documents
 - [United 
 States](united-states.md) - 25 shared documents
 - [West Bank](west-bank.md) - 20 shared documents
@@ -42,6 +41,7 @@ States](united-states.md) - 25 shared documents
 - [Tel Aviv](tel-aviv.md) - 11 shared documents
 - [Secret Service](secret-service.md) - 10 shared documents
 - [Vice President](vice-president.md) - 10 shared documents
+- [Vietnam War](vietnam-war.md) - 10 shared documents
 
 **Organizations:**
 
@@ -55,8 +55,8 @@ States](united-states.md) - 25 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 73 shared documents
 - [Iran](../locations/iran.md) - 57 shared documents
 - [the United States](../locations/the-united-states.md) - 53 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 48 shared documents
 - [Israel](../locations/israel.md) - 48 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 48 shared documents
 - [Russia](../locations/russia.md) - 47 shared documents
 - [China](../locations/china.md) - 44 shared documents
 - [Europe](../locations/europe.md) - 43 shared documents
@@ -73,6 +73,7 @@ States](united-states.md) - 25 shared documents
 - [2009](../events/2009.md) - 30 shared documents
 - [2000](../events/2000.md) - 29 shared documents
 - [2010](../events/2010.md) - 29 shared documents
+- [decades](../events/decades.md) - 29 shared documents
 
 ## Timeline
 

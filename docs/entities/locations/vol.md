@@ -32,8 +32,8 @@ Top 10 documents by mention frequency:
 
 - [America Merrill Lynch](../people/america-merrill-lynch.md) - 7 shared documents
 - [Merrill Lynch](../people/merrill-lynch.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Merrill Lynch Global](../people/merrill-lynch-global.md) - 6 shared documents
-- [President Obama](../people/president-obama.md) - 6 shared documents
 
 **Organizations:**
 
@@ -50,29 +50,29 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [Japan](japan.md) - 11 shared documents
 - [India](india.md) - 11 shared documents
+- [Japan](japan.md) - 11 shared documents
 - [Europe](europe.md) - 10 shared documents
 - [U.K.](uk.md) - 10 shared documents
+- [Australia](australia.md) - 9 shared documents
 - [China](china.md) - 9 shared documents
 - [Germany](germany.md) - 9 shared documents
-- [Australia](australia.md) - 9 shared documents
 - [Indonesia](indonesia.md) - 9 shared documents
 - [Washington](washington.md) - 8 shared documents
-- [Russia](russia.md) - 8 shared documents
+- [London](london.md) - 8 shared documents
 
 **Events:**
 
 - [the day](../events/the-day.md) - 11 shared documents
-- [2004](../events/2004.md) - 10 shared documents
-- [today](../events/today.md) - 10 shared documents
 - [2000](../events/2000.md) - 10 shared documents
 - [2001](../events/2001.md) - 10 shared documents
+- [2004](../events/2004.md) - 10 shared documents
+- [today](../events/today.md) - 10 shared documents
 - [2009](../events/2009.md) - 9 shared documents
 - [daily](../events/daily.md) - 9 shared documents
 - [this year](../events/this-year.md) - 9 shared documents
 - [weekly](../events/weekly.md) - 9 shared documents
-- [2003](../events/2003.md) - 8 shared documents
+- [1959](../events/1959.md) - 8 shared documents
 
 ## Timeline
 

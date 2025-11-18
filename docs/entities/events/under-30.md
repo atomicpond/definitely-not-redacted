@@ -30,10 +30,10 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [the years](the-years.md) - 5 shared documents
 - [the 21st century](the-21st-century.md) - 5 shared documents
-- [this week](this-week.md) - 4 shared documents
+- [the years](the-years.md) - 5 shared documents
 - [2008](2008.md) - 4 shared documents
+- [this week](this-week.md) - 4 shared documents
 
 ## Timeline
 

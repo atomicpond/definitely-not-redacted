@@ -50,21 +50,20 @@ Top 10 documents by mention frequency:
 - [HBO](hbo.md) - 7 shared documents
 - [Sony](sony.md) - 7 shared documents
 - [Viacom](viacom.md) - 6 shared documents
-- [Ford](ford.md) - 6 shared documents
-- [Marchesa](marchesa.md) - 6 shared documents
+- [ABC-TV](abc-tv.md) - 6 shared documents
+- [DGA](dga.md) - 6 shared documents
 
 **Locations:**
 
 - [America](../locations/america.md) - 8 shared documents
-- [Paris](../locations/paris.md) - 8 shared documents
 - [Beverly Hills](../locations/beverly-hills.md) - 8 shared documents
-- [Hollywood](../locations/hollywood.md) - 7 shared documents
+- [Paris](../locations/paris.md) - 8 shared documents
 - [Cannes](../locations/cannes.md) - 7 shared documents
+- [Hollywood](../locations/hollywood.md) - 7 shared documents
 - [New York](../locations/new-york.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
 - [Rome](../locations/rome.md) - 6 shared documents
 - [Toronto](../locations/toronto.md) - 6 shared documents
-- [California](../locations/california.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 6 shared documents
 
 **Events:**
 
@@ -73,11 +72,11 @@ Top 10 documents by mention frequency:
 - [Sunday](../events/sunday.md) - 8 shared documents
 - [March](../events/march.md) - 7 shared documents
 - [the year](../events/the-year.md) - 7 shared documents
-- [years](../events/years.md) - 6 shared documents
 - [December](../events/december.md) - 6 shared documents
 - [January](../events/january.md) - 6 shared documents
 - [the next day](../events/the-next-day.md) - 6 shared documents
-- [October](../events/october.md) - 5 shared documents
+- [years](../events/years.md) - 6 shared documents
+- [2005](../events/2005.md) - 5 shared documents
 
 ## Timeline
 

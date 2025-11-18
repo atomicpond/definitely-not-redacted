@@ -32,18 +32,17 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Mr. 
-Trump](trump.md) - 7 shared documents
 - [Donald 
-Trump](donald-trump.md) - 6 shared documents
-- [CLINTON](clinton.md) - 5 shared documents
+Trump](donald-trump.md) - 7 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 5 shared documents
 
 **Organizations:**
 
 - [Trump](../organizations/trump.md) - 7 shared documents
+- [CNN](../organizations/cnn.md) - 5 shared documents
 - [HOUSE](../organizations/house.md) - 5 shared documents
 - [the White House](../organizations/the-white-house.md) - 5 shared documents
-- [CNN](../organizations/cnn.md) - 5 shared documents
 
 **Locations:**
 
@@ -53,12 +52,12 @@ Trump](donald-trump.md) - 6 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
 - [last month](../events/last-month.md) - 5 shared documents
-- [Thursday](../events/thursday.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
-- [recent weeks](../events/recent-weeks.md) - 4 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [January](../events/january.md) - 4 shared documents
+- [recent weeks](../events/recent-weeks.md) - 4 shared documents
+- [this year](../events/this-year.md) - 4 shared documents
+- [Thursday](../events/thursday.md) - 4 shared documents
 
 ## Timeline
 

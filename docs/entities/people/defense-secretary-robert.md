@@ -29,7 +29,6 @@ Top 6 documents by mention frequency:
 
 - [Middle East](middle-east.md) - 6 shared documents
 - [Barack Obama](barack-obama.md) - 6 shared documents
-- [President Obama](president-obama.md) - 5 shared documents
 - [Saudi Arabia](saudi-arabia.md) - 5 shared documents
 
 **Organizations:**
@@ -39,30 +38,30 @@ Top 6 documents by mention frequency:
 - [Hamas](../organizations/hamas.md) - 6 shared documents
 - [Islam](../organizations/islam.md) - 6 shared documents
 - [NYT](../organizations/nyt.md) - 6 shared documents
-- [State](../organizations/state.md) - 5 shared documents
 - [Fatah](../organizations/fatah.md) - 5 shared documents
 - [Hezbollah](../organizations/hezbollah.md) - 5 shared documents
+- [State](../organizations/state.md) - 5 shared documents
 
 **Locations:**
 
-- [the Middle East](../locations/the-middle-east.md) - 6 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 6 shared documents
+- [Cairo](../locations/cairo.md) - 6 shared documents
 - [China](../locations/china.md) - 6 shared documents
+- [Egypt](../locations/egypt.md) - 6 shared documents
 - [France](../locations/france.md) - 6 shared documents
 - [Iran](../locations/iran.md) - 6 shared documents
 - [Iraq](../locations/iraq.md) - 6 shared documents
+- [Israel](../locations/israel.md) - 6 shared documents
 - [Jordan](../locations/jordan.md) - 6 shared documents
 - [Libya](../locations/libya.md) - 6 shared documents
-- [Syria](../locations/syria.md) - 6 shared documents
-- [Israel](../locations/israel.md) - 6 shared documents
-- [Cairo](../locations/cairo.md) - 6 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
-- [last week](../events/last-week.md) - 5 shared documents
 - [decades](../events/decades.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [2009](../events/2009.md) - 4 shared documents
+- [last week](../events/last-week.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
+- [1979](../events/1979.md) - 4 shared documents
+- [1991](../events/1991.md) - 4 shared documents
 
 ## Timeline
 

@@ -29,7 +29,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Jeffrey Epstein](jeffrey-epstein.md) - 13 shared documents
 - [Peggy Siegal 
 Sent](peggy-siegal-sent.md) - 10 shared documents
 - [Jean Pigozzi](jean-pigozzi.md) - 10 shared documents
@@ -40,7 +39,8 @@ Sent](peggy-siegal-sent.md) - 10 shared documents
 Subject](peggy-siegal-subject.md) - 8 shared documents
 - [Jeffrey](jeffrey.md) - 8 shared documents
 - [Steven](steven.md) - 7 shared documents
-- [Gwyneth Paltrow](gwyneth-paltrow.md) - 7 shared documents
+- [Al Gore](al-gore.md) - 7 shared documents
+- [Beth Kseniak](beth-kseniak.md) - 7 shared documents
 
 **Organizations:**
 
@@ -56,25 +56,26 @@ Subject](peggy-siegal-subject.md) - 8 shared documents
 
 - [New York City](../locations/new-york-city.md) - 12 shared documents
 - [New York](../locations/new-york.md) - 11 shared documents
+- [Hollywood](../locations/hollywood.md) - 8 shared documents
 - [London](../locations/london.md) - 8 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 8 shared documents
-- [Hollywood](../locations/hollywood.md) - 8 shared documents
 - [America](../locations/america.md) - 7 shared documents
+- [Beverly Hills](../locations/beverly-hills.md) - 6 shared documents
+- [Cannes](../locations/cannes.md) - 6 shared documents
 - [Florida](../locations/florida.md) - 6 shared documents
 - [Paris](../locations/paris.md) - 6 shared documents
-- [Cannes](../locations/cannes.md) - 6 shared documents
 
 **Events:**
 
 - [this year](../events/this-year.md) - 15 shared documents
-- [today](../events/today.md) - 9 shared documents
+- [September](../events/september.md) - 9 shared documents
 - [Sunday](../events/sunday.md) - 9 shared documents
 - [the next day](../events/the-next-day.md) - 9 shared documents
-- [September](../events/september.md) - 9 shared documents
-- [last year](../events/last-year.md) - 7 shared documents
-- [year](../events/year.md) - 7 shared documents
+- [today](../events/today.md) - 9 shared documents
 - [all day](../events/all-day.md) - 7 shared documents
+- [last year](../events/last-year.md) - 7 shared documents
 - [Mid-day](../events/mid-day.md) - 7 shared documents
+- [year](../events/year.md) - 7 shared documents
 - [annual](../events/annual.md) - 6 shared documents
 
 ## Timeline

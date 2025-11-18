@@ -38,8 +38,8 @@ Top 10 documents by mention frequency:
 - [Kenneth Starr](kenneth-starr.md) - 17 shared documents
 - [Barry Krischer](barry-krischer.md) - 16 shared documents
 - [Sarah Kellen](sarah-kellen.md) - 15 shared documents
-- [Chief Michael Reiter](chief-michael-reiter.md) - 14 shared documents
 - [Alfredo Rodriguez](alfredo-rodriguez.md) - 14 shared documents
+- [Chief Michael Reiter](chief-michael-reiter.md) - 14 shared documents
 - [Robert Maxwell](robert-maxwell.md) - 13 shared documents
 
 **Organizations:**
@@ -60,22 +60,22 @@ Top 10 documents by mention frequency:
 - [America](../locations/america.md) - 18 shared documents
 - [Miami](../locations/miami.md) - 16 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 16 shared documents
-- [Europe](../locations/europe.md) - 15 shared documents
 - [Caribbean](../locations/caribbean.md) - 15 shared documents
-- [United States](../locations/united-states.md) - 14 shared documents
+- [Europe](../locations/europe.md) - 15 shared documents
+- [Palm Beach County](../locations/palm-beach-county.md) - 14 shared documents
 
 **Events:**
 
 - [18 months](../events/18-months.md) - 19 shared documents
 - [2004](../events/2004.md) - 18 shared documents
-- [last year](../events/last-year.md) - 17 shared documents
 - [2006](../events/2006.md) - 17 shared documents
+- [last year](../events/last-year.md) - 17 shared documents
+- [18](../events/18.md) - 16 shared documents
 - [last week](../events/last-week.md) - 16 shared documents
 - [the day](../events/the-day.md) - 16 shared documents
-- [18](../events/18.md) - 16 shared documents
 - [2007](../events/2007.md) - 15 shared documents
 - [Sunday](../events/sunday.md) - 15 shared documents
-- [Wednesday](../events/wednesday.md) - 14 shared documents
+- [14](../events/14.md) - 14 shared documents
 
 ## Timeline
 

@@ -31,12 +31,12 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 19 shared documents
-- [President Obama](../people/president-obama.md) - 18 shared documents
 
 **Organizations:**
 
 - [Congress](../organizations/congress.md) - 25 shared documents
 - [State](../organizations/state.md) - 23 shared documents
+- [HOUSE](../organizations/house.md) - 15 shared documents
 
 **Locations:**
 
@@ -53,16 +53,16 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
-- [annual](annual.md) - 30 shared documents
 - [2010](2010.md) - 30 shared documents
+- [annual](annual.md) - 30 shared documents
 - [today](today.md) - 25 shared documents
 - [2012](2012.md) - 25 shared documents
 - [years](years.md) - 24 shared documents
-- [2015](2015.md) - 24 shared documents
 - [2006](2006.md) - 24 shared documents
+- [2015](2015.md) - 24 shared documents
 - [recent years](recent-years.md) - 23 shared documents
-- [2007](2007.md) - 23 shared documents
 - [2000](2000.md) - 23 shared documents
+- [2007](2007.md) - 23 shared documents
 
 ## Timeline
 

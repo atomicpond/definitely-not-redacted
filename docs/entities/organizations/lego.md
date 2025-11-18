@@ -39,36 +39,28 @@ Top 7 documents by mention frequency:
 - [NASA](nasa.md) - 6 shared documents
 - [Oxford University Press](oxford-university-press.md) - 6 shared documents
 - [Turing](turing.md) - 6 shared documents
-- [Harvard University](harvard-university.md) - 6 shared documents
 - [Microsoft](microsoft.md) - 5 shared documents
 - [MIT](mit.md) - 5 shared documents
 - [Quantum](quantum.md) - 5 shared documents
+- [Stanford University](stanford-university.md) - 5 shared documents
 
 **Locations:**
 
 - [Cambridge](../locations/cambridge.md) - 7 shared documents
 - [Princeton](../locations/princeton.md) - 7 shared documents
-- [New York](../locations/new-york.md) - 6 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
-- [China](../locations/china.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
-- [Germany](../locations/germany.md) - 6 shared documents
-- [America](../locations/america.md) - 6 shared documents
-- [the United States](../locations/the-united-states.md) - 6 shared documents
-- [Boston](../locations/boston.md) - 6 shared documents
 
 **Events:**
 
-- [2003](../events/2003.md) - 7 shared documents
-- [2004](../events/2004.md) - 7 shared documents
-- [2009](../events/2009.md) - 7 shared documents
-- [1996](../events/1996.md) - 7 shared documents
-- [2012](../events/2012.md) - 7 shared documents
-- [years](../events/years.md) - 7 shared documents
-- [2011](../events/2011.md) - 7 shared documents
+- [1973](../events/1973.md) - 7 shared documents
+- [1976](../events/1976.md) - 7 shared documents
+- [1981](../events/1981.md) - 7 shared documents
 - [1990](../events/1990.md) - 7 shared documents
+- [1991](../events/1991.md) - 7 shared documents
+- [1995](../events/1995.md) - 7 shared documents
+- [1996](../events/1996.md) - 7 shared documents
 - [1997](../events/1997.md) - 7 shared documents
 - [2001](../events/2001.md) - 7 shared documents
+- [2002](../events/2002.md) - 7 shared documents
 
 ## Timeline
 

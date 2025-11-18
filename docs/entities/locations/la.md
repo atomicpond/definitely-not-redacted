@@ -62,15 +62,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [years](../events/years.md) - 8 shared documents
-- [today](../events/today.md) - 7 shared documents
-- [this year](../events/this-year.md) - 7 shared documents
 - [one day](../events/one-day.md) - 7 shared documents
+- [this year](../events/this-year.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
+- [1990](../events/1990.md) - 6 shared documents
 - [daily](../events/daily.md) - 6 shared documents
+- [each year](../events/each-year.md) - 6 shared documents
 - [last year](../events/last-year.md) - 6 shared documents
-- [Sunday](../events/sunday.md) - 6 shared documents
-- [summer](../events/summer.md) - 6 shared documents
-- [the year](../events/the-year.md) - 6 shared documents
-- [these days](../events/these-days.md) - 6 shared documents
+- [months](../events/months.md) - 6 shared documents
+- [Saturday](../events/saturday.md) - 6 shared documents
 
 ## Timeline
 

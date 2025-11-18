@@ -24,16 +24,16 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [2000](2000.md) - 4 shared documents
-- [1985](1985.md) - 4 shared documents
-- [1998](1998.md) - 4 shared documents
-- [1984](1984.md) - 4 shared documents
 - [1976](1976.md) - 4 shared documents
 - [1981](1981.md) - 4 shared documents
-- [1989](1989.md) - 4 shared documents
-- [1992](1992.md) - 4 shared documents
 - [1983](1983.md) - 4 shared documents
+- [1984](1984.md) - 4 shared documents
+- [1985](1985.md) - 4 shared documents
+- [1989](1989.md) - 4 shared documents
 - [1991](1991.md) - 4 shared documents
+- [1992](1992.md) - 4 shared documents
+- [1998](1998.md) - 4 shared documents
+- [2000](2000.md) - 4 shared documents
 
 ## Timeline
 

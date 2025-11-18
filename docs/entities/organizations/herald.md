@@ -33,12 +33,12 @@ Top 10 documents by mention frequency:
 - [Paul Cassell](../people/paul-cassell.md) - 13 shared documents
 - [Emily Michot](../people/emily-michot.md) - 12 shared documents
 - [Acosta](../people/acosta.md) - 11 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 11 shared documents
-- [Epstein](../people/epstein.md) - 11 shared documents
 - [Jack Goldberger](../people/jack-goldberger.md) - 11 shared documents
 - [Jack Scarola](../people/jack-scarola.md) - 11 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 11 shared documents
 - [Ben Sasse](../people/ben-sasse.md) - 10 shared documents
+- [Kenneth Starr](../people/kenneth-starr.md) - 10 shared documents
+- [Alexander Acosta](../people/alexander-acosta.md) - 9 shared documents
 
 **Organizations:**
 
@@ -61,10 +61,10 @@ Top 10 documents by mention frequency:
 - [Palm Beach County](../locations/palm-beach-county.md) - 13 shared documents
 - [Caribbean](../locations/caribbean.md) - 12 shared documents
 - [US](../locations/us.md) - 11 shared documents
-- [New York](../locations/new-york.md) - 10 shared documents
 - [Miami Herald](../locations/miami-herald.md) - 10 shared documents
+- [New York](../locations/new-york.md) - 10 shared documents
 - [Atlanta](../locations/atlanta.md) - 8 shared documents
-- [New Mexico](../locations/new-mexico.md) - 8 shared documents
+- [Georgia](../locations/georgia.md) - 8 shared documents
 
 **Events:**
 
@@ -75,8 +75,8 @@ Top 10 documents by mention frequency:
 - [2019](../events/2019.md) - 12 shared documents
 - [Monday](../events/monday.md) - 11 shared documents
 - [Friday](../events/friday.md) - 10 shared documents
-- [Tuesday](../events/tuesday.md) - 10 shared documents
 - [September](../events/september.md) - 10 shared documents
+- [Tuesday](../events/tuesday.md) - 10 shared documents
 - [October 2017](../events/october-2017.md) - 9 shared documents
 
 ## Timeline

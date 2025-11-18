@@ -27,7 +27,7 @@ Top 7 documents by mention frequency:
 **People:**
 
 - [bill burns](../people/bill-burns.md) - 7 shared documents
-- [jeffrey E. <](../people/jeffrey-e.md) - 4 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 4 shared documents
 
 **Organizations:**
 

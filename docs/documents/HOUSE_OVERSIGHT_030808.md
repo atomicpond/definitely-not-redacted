@@ -16,7 +16,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Obama](../entities/people/mr-obama.md) - 3 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 3 mentions
 - [J.P. Morgan](../entities/people/jp-morgan.md) - 3 mentions
 - [Michael Cembalest](../entities/people/michael-cembalest.md) - 2 mentions
 - [Bloomberg](../entities/people/bloomberg.md) - 1 mention

@@ -29,16 +29,16 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 19 shared documents
 - [Middle East](../people/middle-east.md) - 16 shared documents
-- [President Obama](../people/president-obama.md) - 15 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 14 shared documents
 - [Bashar al-Assad](../people/bashar-al-assad.md) - 12 shared documents
-- [Mr. Obama](../people/obama.md) - 12 shared documents
 - [West Bank](../people/west-bank.md) - 12 shared documents
 - [White House](../people/white-house.md) - 12 shared documents
 - [Hosni Mubarak](../people/hosni-mubarak.md) - 11 shared documents
 - [Mahmoud Abbas](../people/mahmoud-abbas.md) - 11 shared documents
+- [Assad](../people/assad.md) - 10 shared documents
+- [Gaza Strip](../people/gaza-strip.md) - 9 shared documents
+- [Mr. Mubarak](../people/mubarak.md) - 9 shared documents
 
 **Organizations:**
 
@@ -55,21 +55,21 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [the Middle East](../locations/the-middle-east.md) - 19 shared documents
 - [Iran](../locations/iran.md) - 19 shared documents
 - [Iraq](../locations/iraq.md) - 19 shared documents
-- [Syria](../locations/syria.md) - 19 shared documents
 - [Israel](../locations/israel.md) - 19 shared documents
+- [Syria](../locations/syria.md) - 19 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 19 shared documents
 - [the United States](../locations/the-united-states.md) - 18 shared documents
-- [Middle East](../locations/middle-east.md) - 17 shared documents
-- [Washington](../locations/washington.md) - 17 shared documents
-- [Jordan](../locations/jordan.md) - 17 shared documents
 - [Egypt](../locations/egypt.md) - 17 shared documents
+- [Gaza](../locations/gaza.md) - 17 shared documents
+- [Jordan](../locations/jordan.md) - 17 shared documents
+- [Lebanon](../locations/lebanon.md) - 17 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 16 shared documents
 - [last week](../events/last-week.md) - 16 shared documents
+- [today](../events/today.md) - 16 shared documents
 - [2009](../events/2009.md) - 12 shared documents
 - [2003](../events/2003.md) - 11 shared documents
 

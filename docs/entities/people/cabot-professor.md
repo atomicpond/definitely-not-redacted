@@ -47,8 +47,8 @@ Harvard](american-literature-harvard.md) - 18 shared documents
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 28 shared documents
 - [American Literature](../organizations/american-literature.md) - 28 shared documents
+- [HOUSE](../organizations/house.md) - 28 shared documents
 - [Harvard University](../organizations/harvard-university.md) - 27 shared documents
 - [Cabot Professor of American Literature 
 Harvard University](../organizations/cabot-professor-of-american-literature-harvard-university.md) - 18 shared documents
@@ -58,21 +58,20 @@ Harvard University](../organizations/cabot-professor-of-american-literature-harv
 Harvard University](../organizations/poetry-in-america-harvard-university.md) - 9 shared documents
 - [Nautilus Magazine](../organizations/nautilus-magazine.md) - 7 shared documents
 - [Poetry](../organizations/poetry.md) - 7 shared documents
-- [Greenwich Country Day School](../organizations/greenwich-country-day-school.md) - 6 shared documents
 
 **Locations:**
 
+- [Barker Center](../locations/barker-center.md) - 27 shared documents
 - [Cambridge](../locations/cambridge.md) - 27 shared documents
 - [MA](../locations/ma.md) - 27 shared documents
-- [Barker Center](../locations/barker-center.md) - 27 shared documents
 - [Quincy Street](../locations/quincy-street.md) - 27 shared documents
 - [Street 
 Cambridge, MA](../locations/street-cambridge-ma.md) - 27 shared documents
 - [America](../locations/america.md) - 25 shared documents
 - [WA](../locations/wa.md) - 11 shared documents
-- [Sun](../locations/sun.md) - 9 shared documents
 - [Australia](../locations/australia.md) - 9 shared documents
 - [Lolita](../locations/lolita.md) - 9 shared documents
+- [Sun](../locations/sun.md) - 9 shared documents
 
 **Events:**
 
@@ -81,11 +80,11 @@ Cambridge, MA](../locations/street-cambridge-ma.md) - 27 shared documents
 - [11:05 AM](../events/1105-am.md) - 9 shared documents
 - [Nov 25, 2018](../events/nov-25-2018.md) - 9 shared documents
 - [7:30 pm](../events/730-pm.md) - 8 shared documents
-- [last year](../events/last-year.md) - 7 shared documents
 - [2017](../events/2017.md) - 7 shared documents
-- [this year](../events/this-year.md) - 6 shared documents
-- [the new year](../events/the-new-year.md) - 6 shared documents
+- [last year](../events/last-year.md) - 7 shared documents
+- [12/2/2015](../events/1222015.md) - 6 shared documents
 - [a year ago](../events/a-year-ago.md) - 6 shared documents
+- [a year later](../events/a-year-later.md) - 6 shared documents
 
 ## Timeline
 

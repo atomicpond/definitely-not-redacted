@@ -34,17 +34,17 @@ Top 6 documents by mention frequency:
 
 - [Florida](../locations/florida.md) - 5 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 4 shared documents
 - [Miami](../locations/miami.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 4 shared documents
+- [the Southern District](../locations/the-southern-district.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 4 shared documents
 - [13](../events/13.md) - 4 shared documents
 - [16](../events/16.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

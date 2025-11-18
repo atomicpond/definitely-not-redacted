@@ -40,8 +40,8 @@ Top 8 documents by mention frequency:
 - [Harvard University](harvard-university.md) - 8 shared documents
 - [Princeton University](princeton-university.md) - 7 shared documents
 - [Science](science.md) - 7 shared documents
-- [Harvard](harvard.md) - 7 shared documents
 - [Cambridge University](cambridge-university.md) - 7 shared documents
+- [Harvard](harvard.md) - 7 shared documents
 - [New York Times](new-york-times.md) - 6 shared documents
 - [Oxford University Press](oxford-university-press.md) - 6 shared documents
 - [Stanford](stanford.md) - 6 shared documents
@@ -50,28 +50,21 @@ Top 8 documents by mention frequency:
 **Locations:**
 
 - [Cambridge](../locations/cambridge.md) - 8 shared documents
-- [Earth](../locations/earth.md) - 7 shared documents
 - [Boston](../locations/boston.md) - 7 shared documents
-- [New York](../locations/new-york.md) - 6 shared documents
-- [California](../locations/california.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
-- [Germany](../locations/germany.md) - 6 shared documents
-- [London](../locations/london.md) - 6 shared documents
-- [America](../locations/america.md) - 6 shared documents
+- [Earth](../locations/earth.md) - 7 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 7 shared documents
-- [1996](../events/1996.md) - 7 shared documents
-- [daily](../events/daily.md) - 7 shared documents
-- [years](../events/years.md) - 7 shared documents
+- [1973](../events/1973.md) - 7 shared documents
+- [1982](../events/1982.md) - 7 shared documents
 - [1993](../events/1993.md) - 7 shared documents
+- [1995](../events/1995.md) - 7 shared documents
+- [1996](../events/1996.md) - 7 shared documents
 - [1997](../events/1997.md) - 7 shared documents
 - [1999](../events/1999.md) - 7 shared documents
 - [2001](../events/2001.md) - 7 shared documents
-- [one day](../events/one-day.md) - 7 shared documents
 - [2002](../events/2002.md) - 7 shared documents
+- [daily](../events/daily.md) - 7 shared documents
 
 ## Timeline
 

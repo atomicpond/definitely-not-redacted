@@ -45,27 +45,23 @@ Top 7 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 7 shared documents
-- [the United States](../locations/the-united-states.md) - 7 shared documents
 - [S.D.](../locations/sd.md) - 7 shared documents
+- [the United States](../locations/the-united-states.md) - 7 shared documents
+- [United States](../locations/united-states.md) - 7 shared documents
 - [Fla.](../locations/fla.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
-- [D.C.](../locations/dc.md) - 5 shared documents
-- [Florida](../locations/florida.md) - 5 shared documents
-- [Virginia](../locations/virginia.md) - 5 shared documents
 
 **Events:**
 
-- [2003](../events/2003.md) - 7 shared documents
-- [2004](../events/2004.md) - 7 shared documents
-- [2000](../events/2000.md) - 7 shared documents
 - [1990](../events/1990.md) - 7 shared documents
 - [1993](../events/1993.md) - 7 shared documents
+- [1994](../events/1994.md) - 7 shared documents
 - [1997](../events/1997.md) - 7 shared documents
 - [1998](../events/1998.md) - 7 shared documents
+- [2000](../events/2000.md) - 7 shared documents
 - [2001](../events/2001.md) - 7 shared documents
-- [2005](../events/2005.md) - 7 shared documents
 - [2002](../events/2002.md) - 7 shared documents
+- [2003](../events/2003.md) - 7 shared documents
+- [2004](../events/2004.md) - 7 shared documents
 
 ## Timeline
 

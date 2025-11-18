@@ -19,7 +19,7 @@
 ### Organizations
 - [New York Times](../entities/organizations/new-york-times.md) - 1 mention
 - [AIG](../entities/organizations/aig.md) - 1 mention
-- [jr thomas/ind](../entities/organizations/jr-thomasind.md) - 1 mention
+- [jr thomas/ind](../entities/organizations/jr-thomas-ind.md) - 1 mention
 
 ### Events/Dates
 - [Tue, Nov 7, 2017](../entities/events/tue-nov-7-2017.md) - 1 mention

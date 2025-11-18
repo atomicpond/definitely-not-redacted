@@ -43,10 +43,10 @@ Top 6 documents by mention frequency:
 - [last week](last-week.md) - 5 shared documents
 - [May](may.md) - 5 shared documents
 - [two years](two-years.md) - 5 shared documents
+- [1981](1981.md) - 5 shared documents
 - [1993](1993.md) - 5 shared documents
 - [Christmas](christmas.md) - 5 shared documents
-- [1981](1981.md) - 5 shared documents
-- [2004](2004.md) - 4 shared documents
+- [1995](1995.md) - 4 shared documents
 
 ## Timeline
 

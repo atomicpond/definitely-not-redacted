@@ -10,7 +10,7 @@
 
 ### People
 - [Bill Siegel](../entities/people/bill-siegel.md) - 4 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 3 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 3 mentions
 - [Bush](../entities/people/bush.md) - 1 mention
 
 ### Organizations

@@ -33,14 +33,14 @@ Top 10 documents by mention frequency:
 - [ACKERMAN JUDITH](../people/ackerman-judith.md) - 5 shared documents
 - [As Lee Harris](../people/as-lee-harris.md) - 5 shared documents
 - [As Omar Ahmad](../people/as-omar-ahmad.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [BARBARA FRED](../people/barbara-fred.md) - 5 shared documents
 - [BARBARA W        ](../people/barbara-w.md) - 5 shared documents
-- [Bibi Netanyahu](../people/bibi-netanyahu.md) - 5 shared documents
+- [Bibi](../people/bibi.md) - 5 shared documents
 - [Bill Siegel](../people/bill-siegel.md) - 5 shared documents
 - [Bill Siegel 
 Sent](../people/bill-siegel-sent.md) - 5 shared documents
 - [CARL III TR        ](../people/carl-iii-tr.md) - 5 shared documents
-- [Cold War](../people/cold-war.md) - 5 shared documents
 
 **Organizations:**
 
@@ -58,28 +58,28 @@ Sent](../people/bill-siegel-sent.md) - 5 shared documents
 **Locations:**
 
 - [Russia](../locations/russia.md) - 6 shared documents
+- [anti-Israel](../locations/anti-israel.md) - 5 shared documents
+- [Cincinnati](../locations/cincinnati.md) - 5 shared documents
 - [Earth](../locations/earth.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 5 shared documents
-- [the Soviet Union](../locations/the-soviet-union.md) - 5 shared documents
-- [Virginia](../locations/virginia.md) - 5 shared documents
-- [Rome](../locations/rome.md) - 5 shared documents
-- [Israel](../locations/israel.md) - 5 shared documents
-- [Palm Beach](../locations/palm-beach.md) - 5 shared documents
 - [Gaza](../locations/gaza.md) - 5 shared documents
-- [the State of Israel](../locations/the-state-of-israel.md) - 5 shared documents
+- [HENDERSON](../locations/henderson.md) - 5 shared documents
+- [Holland](../locations/holland.md) - 5 shared documents
+- [Israel](../locations/israel.md) - 5 shared documents
+- [NORTH LAKE](../locations/north-lake.md) - 5 shared documents
 
 **Events:**
 
 - [1991](../events/1991.md) - 7 shared documents
+- [1995](../events/1995.md) - 5 shared documents
+- [1997](../events/1997.md) - 5 shared documents
+- [2/8/2013](../events/2-8-2013.md) - 5 shared documents
+- [2005](../events/2005.md) - 5 shared documents
 - [70](../events/70.md) - 5 shared documents
 - [daily](../events/daily.md) - 5 shared documents
-- [1997](../events/1997.md) - 5 shared documents
-- [2005](../events/2005.md) - 5 shared documents
-- [week](../events/week.md) - 5 shared documents
 - [decades](../events/decades.md) - 5 shared documents
-- [the 1950s](../events/the-1950s.md) - 5 shared documents
-- [the day](../events/the-day.md) - 5 shared documents
-- [winter](../events/winter.md) - 5 shared documents
+- [February 8, 2013](../events/february-8-2013.md) - 5 shared documents
+- [Just this week](../events/just-this-week.md) - 5 shared documents
 
 ## Timeline
 

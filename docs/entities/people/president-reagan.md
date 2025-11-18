@@ -29,8 +29,8 @@ Top 10 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](barack-obama.md) - 6 shared documents
 - [Middle East](middle-east.md) - 6 shared documents
-- [President Obama](president-obama.md) - 6 shared documents
 - [White House](white-house.md) - 5 shared documents
 - [President Carter](president-carter.md) - 5 shared documents
 - [Reagan](reagan.md) - 4 shared documents
@@ -40,21 +40,20 @@ Top 10 documents by mention frequency:
 
 - [Congress](../organizations/congress.md) - 6 shared documents
 - [State](../organizations/state.md) - 6 shared documents
-- [White House](../organizations/white-house.md) - 5 shared documents
 - [Bank](../organizations/bank.md) - 5 shared documents
+- [White House](../organizations/white-house.md) - 5 shared documents
 
 **Locations:**
 
-- [Middle East](../locations/middle-east.md) - 6 shared documents
 - [Europe](../locations/europe.md) - 6 shared documents
 - [Germany](../locations/germany.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
+- [Middle East](../locations/middle-east.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 6 shared documents
+- [Washington](../locations/washington.md) - 6 shared documents
 - [California](../locations/california.md) - 5 shared documents
 - [China](../locations/china.md) - 5 shared documents
-- [Paris](../locations/paris.md) - 5 shared documents
 - [Maryland](../locations/maryland.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
+- [Paris](../locations/paris.md) - 5 shared documents
 
 **Events:**
 
@@ -62,12 +61,12 @@ Top 10 documents by mention frequency:
 - [annual](../events/annual.md) - 6 shared documents
 - [last week](../events/last-week.md) - 6 shared documents
 - [the year](../events/the-year.md) - 6 shared documents
-- [2007](../events/2007.md) - 5 shared documents
-- [one day](../events/one-day.md) - 5 shared documents
-- [year](../events/year.md) - 5 shared documents
 - [1976](../events/1976.md) - 5 shared documents
+- [1980](../events/1980.md) - 5 shared documents
 - [1981](../events/1981.md) - 5 shared documents
 - [1992](../events/1992.md) - 5 shared documents
+- [2007](../events/2007.md) - 5 shared documents
+- [one day](../events/one-day.md) - 5 shared documents
 
 ## Timeline
 

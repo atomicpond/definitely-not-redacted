@@ -29,17 +29,17 @@ Top 7 documents by mention frequency:
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Asia](../locations/asia.md) - 4 shared documents
 - [China](../locations/china.md) - 4 shared documents
 - [Japan](../locations/japan.md) - 4 shared documents
-- [Asia](../locations/asia.md) - 4 shared documents
 
 **Events:**
 
-- [2004](../events/2004.md) - 5 shared documents
 - [1992](../events/1992.md) - 5 shared documents
+- [2004](../events/2004.md) - 5 shared documents
+- [1983](../events/1983.md) - 4 shared documents
 - [1996](../events/1996.md) - 4 shared documents
 - [2000](../events/2000.md) - 4 shared documents
-- [1983](../events/1983.md) - 4 shared documents
 
 ## Timeline
 

@@ -36,34 +36,32 @@ Top 8 documents by mention frequency:
 - [FBI](fbi.md) - 5 shared documents
 - [Harvard](harvard.md) - 5 shared documents
 - [the Justice Department](the-justice-department.md) - 4 shared documents
-- [Fed](fed.md) - 4 shared documents
-- [CIA](cia.md) - 4 shared documents
 
 **Locations:**
 
 - [Japan](../locations/japan.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
 - [Paris](../locations/paris.md) - 6 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
-- [London](../locations/london.md) - 5 shared documents
-- [France](../locations/france.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
-- [Virginia](../locations/virginia.md) - 5 shared documents
+- [Russia](../locations/russia.md) - 6 shared documents
 - [Australia](../locations/australia.md) - 5 shared documents
+- [Britain](../locations/britain.md) - 5 shared documents
 - [England](../locations/england.md) - 5 shared documents
+- [Europe](../locations/europe.md) - 5 shared documents
+- [France](../locations/france.md) - 5 shared documents
+- [London](../locations/london.md) - 5 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
 
 **Events:**
 
 - [2016](../events/2016.md) - 6 shared documents
-- [2015](../events/2015.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [2012](../events/2012.md) - 5 shared documents
-- [daily](../events/daily.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
 - [1990](../events/1990.md) - 5 shared documents
+- [2012](../events/2012.md) - 5 shared documents
+- [2015](../events/2015.md) - 5 shared documents
+- [daily](../events/daily.md) - 5 shared documents
 - [the day](../events/the-day.md) - 5 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [A few days later](../events/a-few-days-later.md) - 4 shared documents
+- [today](../events/today.md) - 5 shared documents
+- [years](../events/years.md) - 5 shared documents
+- [1995](../events/1995.md) - 4 shared documents
+- [2000](../events/2000.md) - 4 shared documents
 
 ## Timeline
 

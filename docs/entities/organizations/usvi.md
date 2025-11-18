@@ -41,10 +41,10 @@ Top 10 documents by mention frequency:
 - [Florida](../locations/florida.md) - 5 shared documents
 - [the Virgin Islands](../locations/the-virgin-islands.md) - 5 shared documents
 - [Virgin Islands](../locations/virgin-islands.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
-- [New York City](../locations/new-york-city.md) - 4 shared documents
 - [Miami](../locations/miami.md) - 4 shared documents
+- [New York City](../locations/new-york-city.md) - 4 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
 
 **Events:**
 

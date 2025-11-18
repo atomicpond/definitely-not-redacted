@@ -9,7 +9,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Strzok](../entities/people/mr-strzok.md) - 3 mentions
+- [Mr. Strzok](../entities/people/strzok.md) - 3 mentions
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 2 mentions
 - [CLINTON](../entities/people/clinton.md) - 2 mentions
 - [On Wed](../entities/people/on-wed.md) - 2 mentions

@@ -33,11 +33,11 @@ Top 6 documents by mention frequency:
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 6 shared documents
-- [Trump](../organizations/trump.md) - 4 shared documents
-- [Google](../organizations/google.md) - 4 shared documents
 - [Atari](../organizations/atari.md) - 4 shared documents
+- [Google](../organizations/google.md) - 4 shared documents
 - [KZ Buchenwald](../organizations/kz-buchenwald.md) - 4 shared documents
 - [the Latent Semantic Analysis](../organizations/the-latent-semantic-analysis.md) - 4 shared documents
+- [Trump](../organizations/trump.md) - 4 shared documents
 
 **Locations:**
 
@@ -46,15 +46,15 @@ Top 6 documents by mention frequency:
 **Events:**
 
 - [2016](../events/2016.md) - 6 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [these days](../events/these-days.md) - 4 shared documents
-- [more than a year](../events/more-than-a-year.md) - 4 shared documents
-- [2 months](../events/2-months.md) - 4 shared documents
-- [a few months ago](../events/a-few-months-ago.md) - 4 shared documents
 - [10-12 years](../events/10-12-years.md) - 4 shared documents
+- [2 months](../events/2-months.md) - 4 shared documents
 - [3d](../events/3d.md) - 4 shared documents
+- [a few months ago](../events/a-few-months-ago.md) - 4 shared documents
 - [last the December](../events/last-the-december.md) - 4 shared documents
 - [many years](../events/many-years.md) - 4 shared documents
+- [more than a year](../events/more-than-a-year.md) - 4 shared documents
+- [nine months](../events/nine-months.md) - 4 shared documents
+- [the first 20 years](../events/the-first-20-years.md) - 4 shared documents
 
 ## Timeline
 

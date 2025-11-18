@@ -32,7 +32,8 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Trump](../people/president-trump.md) - 6 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 6 shared documents
 - [White House](../people/white-house.md) - 6 shared documents
 - [Getty Images](../people/getty-images.md) - 5 shared documents
 
@@ -47,27 +48,27 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 5 shared documents
 - [California](../locations/california.md) - 5 shared documents
 - [Miami](../locations/miami.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
+- [Florida](../locations/florida.md) - 4 shared documents
+- [New York City](../locations/new-york-city.md) - 4 shared documents
+- [Texas](../locations/texas.md) - 4 shared documents
 - [U.S.](../locations/us.md) - 4 shared documents
 - [United States](../locations/united-states.md) - 4 shared documents
-- [Florida](../locations/florida.md) - 4 shared documents
-- [Texas](../locations/texas.md) - 4 shared documents
-- [New York City](../locations/new-york-city.md) - 4 shared documents
 
 **Events:**
 
 - [Monday](../events/monday.md) - 7 shared documents
 - [last month](../events/last-month.md) - 6 shared documents
-- [Sunday](../events/sunday.md) - 5 shared documents
-- [2011](../events/2011.md) - 5 shared documents
+- [10 years](../events/10-years.md) - 5 shared documents
 - [2005](../events/2005.md) - 5 shared documents
+- [2011](../events/2011.md) - 5 shared documents
 - [Friday](../events/friday.md) - 5 shared documents
 - [November](../events/november.md) - 5 shared documents
-- [10 years](../events/10-years.md) - 5 shared documents
-- [2016](../events/2016.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
+- [Sunday](../events/sunday.md) - 5 shared documents
+- [14-year-old](../events/14-year-old.md) - 4 shared documents
+- [15-year-old](../events/15-year-old.md) - 4 shared documents
 
 ## Timeline
 

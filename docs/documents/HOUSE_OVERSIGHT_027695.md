@@ -44,168 +44,202 @@ Is Invitation](../entities/people/yes-is-invitation.md) - 23 mentions
 
 ## Document Text
 
+**Thread-like Conversation View:**
+
 ```
-Source Entry:  H\Macintosh HD\root\Users\jee\Library\Messages\Archive\2019-05-211111 
-on 2019-05-10 at 06.15.03.ichat 
-Service: iMessage 
-**Start Time**: 05/07/19 03:21:59 PM (578960519) 
-**End Time**: **05/21/19** 10:26:08 AM (580152368) 
-**Last Message** ID: 29345 
-**Chat Room**: 
-Participants: jee, 
-Presentity IDs: e:jeeitunes@gmail.com, 
-Messages - 
-Sender: 
-Time: 05/07/19 03:21:59 PM (578960519) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: B884A61A-C37E-4140-B8ED-F02CC47E7798 
-Message: You were strong , I was beat 
-Sender: 
-Time: 05/07/19 07:11:29 PM (578974289) 
-Flags: 1126401 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 8A4EBOBA-122F-495B-A886-4402F5172168 
-Message: https://www.dailymail.co.uk/news/article-7003473/Prosecutors-demand-Robert-
-Krafts-lawyer-held-criminal-contempt-making-false-statement.html 
-Sender: e:jeeitunes@gmail.com 
-Time: **05/08/19** 03:17:39 AM (579003459) 
-Flags: 1150981 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: BC050B99-B8F3-4409-BE03-9FFECC088FFB 
-Message: https://www.nbcnews.com/news/world/**Iran**-steps-away-parts-nuclear-deal-
-anniversary-u-s-withdrawal-n1003156 
-Sender: 
-Time: **05/08/19** 03:24:49 AM (579003889) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: FCF14B18-ABA6-4B0C-8621-312E909FCB49 
-**HOUSE** OVERSIGHT 027695 
-Message: Saw that-- we jump in here trump done , American people not teed up for this 
-Sender: e:jeeitunes@gmail.com 
-Time: **05/08/19** 03:25:30 AM (579003930) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 882864D5-192E-4E72-8E4D-E882A6D2A75B 
-Message: **Iran** put it on a 60 day clock. 
-Sender: 
-Time: **05/08/19** 03:26:54 AM (579004014) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: EF791194-543C-4773-B9BF-61F191C24928 
-Message: Yep yep yep 
-Sender: 
-Time: **05/08/19** 03:30:34 AM (579004234) 
-Flags: 1126401 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: A94A9C05-D258-4BD9-8771-180414EC819C 
-Message: https://www.thedailybeast.com/trump-administration-inflated-**Iran**-intelligence-
-us-officials-say?ref=home 
-Sender: e:jeeitunes@gmail.com 
-Time: **05/08/19** 04:19:26 AM (579007166) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 10AEAO0B-17C1-47D8-BAB3-BE1OB2CF09B6 
-Message: **steve** did not send me anything directly, but I have now requested a meeting on 
-the 15th in **Berlin**. I will see if I can be there at the same time. From terje 
-Sender: e:jeeitunes@gmail.com 
-Time: **05/08/19** 04:22:12 AM (579007332) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 9E558B63-FF8F-4E3C-8288-23B43B843430 
-Message: lets talk structure for **Dan** and group when you are less tired 
-**HOUSE** OVERSIGHT 027696 
-Sender: 
-Time: **05/08/19** 04:28:37 AM (579007717) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 1166DB2C-678F-4341-87CA-C2BC94F4D69D 
-Message: K 
-Sender: e:jeeitunes@gmail.com 
-Time: **05/08/19** 06:27:32 AM (579014852) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 5086F492-1D63-4632-BF7A-289CBDC72FB3 
-Message: Who managed the bond holder negotiation in the ny times article. 
-**Wilbur Ross** 
-Sender: e:jeeitunes@gmail.com 
-Time: **05/08/19** 07:11:30 AM (579017490) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: A0A9A550-C765-409A-8EAE-410D621842E7 
-Message: They just got back to me. They will be in **Riyadh** on 13, 14 and 15. But they 
-can do 11 or 12 in **Berlin**. 
-Sender: 
-Time: **05/08/19** 07:24:22 AM (579018262) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: B10451B1-E99A-4D11-A10C-597D12C57632 
-Message: K 
-Sender: e:jeeitunes@gmail.com 
-Time: **05/08/19** 09:00:23 AM (579024023) 
-Flags: 1150981 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: BO4C4913-4AD8-48C3-B968-C3E131478C89 
-Message: https://finance.yahoo.com/news/saudis-said-planning-meet-orders-142632339.html 
-Sender: e:jeeitunes@gmail.com 
-**HOUSE** OVERSIGHT 027697 
-Time: **05/08/19** 09:21:05 AM (579025265) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 729575DB-36FD-4354-928B-431DA02FA9AC 
-Message: Have **Dan** call me re invoices. Want to send you guys money 
-Sender: ___________________ 
-Time: **05/08/19** 09:21:37 AM (579025297) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 8B4B2481-238C-4A0A-9F06-FABE63CA4D6B 
-Message: Chill we are working thru that and production schedule 
-Sender: e:jeeitunes@gmail.com 
-Time: **05/08/19** 09:21:47 AM (579025307) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 9590AF32-122C-4E76-BB4B-E0066A5A5572 
-Message: K 
-Sender: e:jeeitunes@gmail.com 
-Time: **05/08/19** 09:22:11 AM (579025331) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 6CD094ED-E086-493D-8B30-CE655C66EDE6 
-Message: Unlike some refusing to provide only 1 very deserved dollar. , I m trying to 
-take the lead 0 
-Sender: 
-Time: **05/08/19** 09:23:19 AM (579025399) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 74E53C34-767C-4270-ACE2-B4DAAA78E091 
-Message: Take the lead on getting me potential names and ideas -- we are begging 
-process of pulling footage 
-Sender: e:jeeitunes@gmail.com 
-Time: **05/08/19** 09:31:03 AM (579025863) 
-**HOUSE** OVERSIGHT 027698 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: A76A95DF-DCED-4939-9CA1-15281
+
+======================================================================
+Tuesday, May 07, 2019
+======================================================================
+
+Unknown [3:21 PM]:
+  
+
+Unknown [7:11 PM]:
+  You were strong , I was beat
+
+
+======================================================================
+Wednesday, May 08, 2019
+======================================================================
+
+E:jeeitunes [3:17 AM]:
+  https://www.dailymail.co.uk/news/article-7003473/Prosecutors-demand-Robert-
+
+Unknown [3:24 AM]:
+  https://www.nbcnews.com/news/world/iran-steps-away-parts-nuclear-deal-
+
+E:jeeitunes [3:25 AM]:
+  Saw that-- we jump in here trump done , American people not teed up for this
+
+Unknown [3:26 AM]:
+  Iran put it on a 60 day clock.
+
+Unknown [3:30 AM]:
+  Yep yep yep
+
+E:jeeitunes [4:19 AM]:
+  https://www.thedailybeast.com/trump-administration-inflated-iran-intelligence-
+
+E:jeeitunes [4:22 AM]:
+  Steve did not send me anything directly, but I have now requested a meeting on
+
+Unknown [4:28 AM]:
+  lets talk structure for dan and group when you are less tired
+
+E:jeeitunes [6:27 AM]:
+  K
+
+E:jeeitunes [7:11 AM]:
+  Who managed the bond holder negotiation in the ny times article.
+
+Unknown [7:24 AM]:
+  They just got back to me. They will be in Riyadh on 13, 14 and 15. But they
+
+E:jeeitunes [9:00 AM]:
+  K
+
+E:jeeitunes [9:21 AM]:
+  https://finance.yahoo.com/news/saudis-said-planning-meet-orders-142632339.html
+
+Unknown [9:21 AM]:
+  Have dan call me re invoices. Want to send you guys money
+
+E:jeeitunes [9:21 AM]:
+  Chill we are working thru that and production schedule
+
+E:jeeitunes [9:22 AM]:
+  K
+
+Unknown [9:23 AM]:
+  Unlike some refusing to provide only 1 very deserved dollar. , I m trying to
+
+E:jeeitunes [9:31 AM]:
+  Take the lead on getting me potential names and ideas -- we are begging
+
+Unknown [9:32 AM]:
+  On it
+
+E:jeeitunes [9:33 AM]:
+  I've heard that-we need to get serious-we have a 90 minute version @ Cannes in
+
+Unknown [9:34 AM]:
+  You need to have more coffe
+
+Unknown [10:32 AM]:
+  Also need you to get a cup of coffee and a pad / pen and not down short
+
+E:jeeitunes [2:27 PM]:
+  https://www.nytimes.com/2019/05/08/opinion/letters/davos-world-economic-
+
+Unknown [2:32 PM]:
+  https://www.cbsnews.com/news/ny-senate-passes-bills-on-trumps-tax-returns-and-
+
+E:jeeitunes [2:53 PM]:
+  How bad
+
+Unknown [2:55 PM]:
+  Drip drip drip
+
+E:jeeitunes [3:00 PM]:
+  Don jr called in on perjury to senate committee run by republicans
+
+E:jeeitunes [3:01 PM]:
+  Low hanging fruit
+
+E:jeeitunes [3:02 PM]:
+  He won't show . Contempt perjury. Pardon
+
+Unknown [3:03 PM]:
+  Focus on Iran
+
+E:jeeitunes [3:06 PM]:
+  I'm all over Iran
+
+E:jeeitunes [3:11 PM]:
+  They are very very bad guys. Patient smart spread Shia. As tithes exempt
+
+Unknown [5:07 PM]:
+  Can you dp the 11th in Berlin.
+
+
+======================================================================
+Thursday, May 09, 2019
+======================================================================
+
+E:jeeitunes [4:24 AM]:
+  That's Saturday ??? Yes -- fly in that afternoon
+
+E:jeeitunes [5:02 AM]:
+  https://www.cnbc.com/2019/05/09/europe-responds-to-irans-nuclear-deal-
+
+
+======================================================================
+Friday, May 10, 2019
+======================================================================
+
+Unknown [2:48 AM]:
+  The vice president, Edgar Zambrano, was surrounded by intelligence officers
+
+E:jeeitunes [3:00 AM]:
+  Our guy wants to meet on Saturday 11 may or Sunday 12 may
+
+Unknown [3:00 AM]:
+  Terje
+
+E:jeeitunes [3:15 AM]:
+  On it
+
+
+======================================================================
+Tuesday, May 21, 2019
+======================================================================
+
+E:jeeitunes [4:46 AM]:
+  https://www.nytimes.com/2019/05/09/us/politics/giuliani-ukraine-
+
+E:jeeitunes [4:47 AM]:
+  china -- great opportunity , i spent most of the night talking to relevant
+
+E:jeeitunes [4:47 AM]:
+  so complex
+
+Unknown [5:27 AM]:
+  but FUN
+
+E:jeeitunes [5:28 AM]:
+  I will simplify: they are looking down the barrel of an economic shotgun
+
+E:jeeitunes [5:28 AM]:
+  yes but their finger is on the trigger .
+
+Unknown [5:29 AM]:
+  it is not simple at all
+
+E:jeeitunes [5:29 AM]:
+  Stop
+
+Unknown [5:30 AM]:
+  their focus in internal .
+
+E:jeeitunes [5:30 AM]:
+  You saw where they begged us to give 90 day reprieve on huawai
+
+E:jeeitunes [5:45 AM]:
+  yes , of course. the real game is in the shadows. - as usual
+
+E:jeeitunes [5:47 AM]:
+  terje sending text to you
+
+Unknown [6:23 AM]:
+  kazakh daughter the key
+
+Unknown [10:24 AM]:
+  K
+
+E:jeeitunes [10:26 AM]:
+  https://mobile.twitter.com/alarabiya eng/status/1130782788154732545?s=12
+
 ```
 
 *[Text truncated to 5000 characters]*

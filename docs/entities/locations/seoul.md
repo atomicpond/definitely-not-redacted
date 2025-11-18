@@ -48,10 +48,10 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
+- [Australia](australia.md) - 22 shared documents
+- [Israel](israel.md) - 22 shared documents
 - [Japan](japan.md) - 22 shared documents
 - [Russia](russia.md) - 22 shared documents
-- [Israel](israel.md) - 22 shared documents
-- [Australia](australia.md) - 22 shared documents
 - [Spain](spain.md) - 21 shared documents
 - [Asia](asia.md) - 21 shared documents
 - [Singapore](singapore.md) - 20 shared documents
@@ -62,8 +62,8 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [the day](../events/the-day.md) - 21 shared documents
-- [2017](../events/2017.md) - 18 shared documents
 - [2001](../events/2001.md) - 18 shared documents
+- [2017](../events/2017.md) - 18 shared documents
 - [1959](../events/1959.md) - 17 shared documents
 - [198602883D](../events/198602883d.md) - 17 shared documents
 - [2016](../events/2016.md) - 16 shared documents

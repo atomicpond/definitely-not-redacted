@@ -53,8 +53,8 @@ Top 10 documents by mention frequency:
 - [decades](decades.md) - 7 shared documents
 - [five years](five-years.md) - 7 shared documents
 - [today](today.md) - 7 shared documents
-- [2003](2003.md) - 7 shared documents
 - [2002](2002.md) - 7 shared documents
+- [2003](2003.md) - 7 shared documents
 - [annual](annual.md) - 6 shared documents
 - [last week](last-week.md) - 6 shared documents
 - [last year](last-year.md) - 6 shared documents

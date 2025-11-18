@@ -12,7 +12,7 @@
 - [Jeffrey E. 
 Sent](../entities/people/jeffrey-e-sent.md) - 2 mentions
 - [David](../entities/people/david.md) - 1 mention
-- [Mr. Cohen](../entities/people/mr-cohen.md) - 1 mention
+- [Mr. Cohen](../entities/people/cohen.md) - 1 mention
 
 ### Events/Dates
 - [Tuesday, August 21, 2018](../entities/events/tuesday-august-21-2018.md) - 2 mentions

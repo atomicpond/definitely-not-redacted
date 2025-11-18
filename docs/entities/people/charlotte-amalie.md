@@ -29,13 +29,13 @@ Top 5 documents by mention frequency:
 **Organizations:**
 
 - [St. Thomas](../organizations/st-thomas.md) - 5 shared documents
-- [Senate](../organizations/senate.md) - 4 shared documents
 - [Congress](../organizations/congress.md) - 4 shared documents
+- [Senate](../organizations/senate.md) - 4 shared documents
 
 **Locations:**
 
-- [the United States](../locations/the-united-states.md) - 5 shared documents
 - [St. Thomas](../locations/st-thomas.md) - 5 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
 - [Virgin Islands](../locations/virgin-islands.md) - 5 shared documents
 - [Puerto Rico](../locations/puerto-rico.md) - 4 shared documents
 - [the Virgin Islands](../locations/the-virgin-islands.md) - 4 shared documents

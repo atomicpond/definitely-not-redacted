@@ -28,7 +28,7 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [General Assembly](../people/general-assembly.md) - 6 shared documents
 - [Mia farrow](../people/mia-farrow.md) - 6 shared documents
 
@@ -60,16 +60,16 @@ Top 9 documents by mention frequency:
 
 **Events:**
 
-- [daily](../events/daily.md) - 8 shared documents
 - [1991](../events/1991.md) - 8 shared documents
+- [daily](../events/daily.md) - 8 shared documents
 - [2013](../events/2013.md) - 6 shared documents
 - [decades](../events/decades.md) - 6 shared documents
 - [the 1950s](../events/the-1950s.md) - 6 shared documents
 - [the day](../events/the-day.md) - 6 shared documents
+- [2/8/2013](../events/2-8-2013.md) - 5 shared documents
 - [70](../events/70.md) - 5 shared documents
-- [last year](../events/last-year.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [week](../events/week.md) - 5 shared documents
+- [February 8, 2013](../events/february-8-2013.md) - 5 shared documents
+- [Just this week](../events/just-this-week.md) - 5 shared documents
 
 ## Timeline
 

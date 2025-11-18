@@ -46,18 +46,18 @@ Top 7 documents by mention frequency:
 - [S COUNTY LLC](s-county-llc.md) - 6 shared documents
 - [VIA DEL MAR LLC](via-del-mar-llc.md) - 6 shared documents
 - [VIA VIZCAYA LLC](via-vizcaya-llc.md) - 6 shared documents
-- [HOUSE](house.md) - 6 shared documents
-- [LLC](llc.md) - 6 shared documents
 - [Apple](apple.md) - 6 shared documents
 - [ASSOC](assoc.md) - 6 shared documents
+- [BALLANTINE](ballantine.md) - 6 shared documents
+- [GRIFT](grift.md) - 6 shared documents
 
 **Locations:**
 
 - [Florida](../locations/florida.md) - 7 shared documents
-- [Virginia](../locations/virginia.md) - 7 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 7 shared documents
-- [Holland](../locations/holland.md) - 6 shared documents
+- [Virginia](../locations/virginia.md) - 7 shared documents
 - [HENDERSON](../locations/henderson.md) - 6 shared documents
+- [Holland](../locations/holland.md) - 6 shared documents
 - [WOODBRIDGE](../locations/woodbridge.md) - 6 shared documents
 - [Charlotte](../locations/charlotte.md) - 5 shared documents
 - [Flint](../locations/flint.md) - 5 shared documents
@@ -65,13 +65,13 @@ Top 7 documents by mention frequency:
 
 **Events:**
 
+- [1995](../events/1995.md) - 6 shared documents
 - [2005](../events/2005.md) - 6 shared documents
 - [winter](../events/winter.md) - 6 shared documents
-- [1995](../events/1995.md) - 6 shared documents
-- [2007](../events/2007.md) - 5 shared documents
-- [2000](../events/2000.md) - 5 shared documents
-- [1997](../events/1997.md) - 5 shared documents
 - [1983](../events/1983.md) - 5 shared documents
+- [1997](../events/1997.md) - 5 shared documents
+- [2000](../events/2000.md) - 5 shared documents
+- [2007](../events/2007.md) - 5 shared documents
 
 ## Timeline
 

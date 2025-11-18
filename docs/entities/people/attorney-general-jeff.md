@@ -26,23 +26,22 @@ Top 6 documents by mention frequency:
 **People:**
 
 - [Jeff Sessions](jeff-sessions.md) - 6 shared documents
-- [President Trump](president-trump.md) - 5 shared documents
+- [Donald 
+Trump](donald-trump.md) - 5 shared documents
 - [Robert Mueller](robert-mueller.md) - 5 shared documents
-- [Mr. 
-Trump](trump.md) - 5 shared documents
 - [White House](white-house.md) - 5 shared documents
 
 **Organizations:**
 
-- [Trump](../organizations/trump.md) - 5 shared documents
 - [Congress](../organizations/congress.md) - 5 shared documents
 - [Mueller](../organizations/mueller.md) - 5 shared documents
-- [White House](../organizations/white-house.md) - 4 shared documents
-- [the White House](../organizations/the-white-house.md) - 4 shared documents
-- [FBI](../organizations/fbi.md) - 4 shared documents
-- [DOJ](../organizations/doj.md) - 4 shared documents
-- [the Justice Department](../organizations/the-justice-department.md) - 4 shared documents
+- [Trump](../organizations/trump.md) - 5 shared documents
 - [Comey](../organizations/comey.md) - 4 shared documents
+- [DOJ](../organizations/doj.md) - 4 shared documents
+- [FBI](../organizations/fbi.md) - 4 shared documents
+- [the Justice Department](../organizations/the-justice-department.md) - 4 shared documents
+- [the White House](../organizations/the-white-house.md) - 4 shared documents
+- [White House](../organizations/white-house.md) - 4 shared documents
 
 **Locations:**
 

@@ -48,25 +48,25 @@ Top 10 documents by mention frequency:
 - [Beijing](beijing.md) - 9 shared documents
 - [Washington](washington.md) - 8 shared documents
 - [Africa](africa.md) - 8 shared documents
-- [Europe](europe.md) - 8 shared documents
 - [Asia](asia.md) - 8 shared documents
+- [Europe](europe.md) - 8 shared documents
 - [the United States](the-united-states.md) - 7 shared documents
 - [West](west.md) - 7 shared documents
-- [Japan](japan.md) - 7 shared documents
-- [Russia](russia.md) - 7 shared documents
+- [Germany](germany.md) - 7 shared documents
+- [India](india.md) - 7 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 7 shared documents
 - [decades](../events/decades.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
 - [2014](../events/2014.md) - 6 shared documents
 - [years](../events/years.md) - 6 shared documents
-- [2018](../events/2018.md) - 5 shared documents
-- [annual](../events/annual.md) - 5 shared documents
 - [2001](../events/2001.md) - 5 shared documents
 - [2013](../events/2013.md) - 5 shared documents
+- [2018](../events/2018.md) - 5 shared documents
+- [annual](../events/annual.md) - 5 shared documents
 - [recent years](../events/recent-years.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
+- [1990](../events/1990.md) - 4 shared documents
 
 ## Timeline
 

@@ -56,10 +56,10 @@ Top 7 documents by mention frequency:
 - [one day](one-day.md) - 5 shared documents
 - [the day](the-day.md) - 5 shared documents
 - [tomorrow](tomorrow.md) - 5 shared documents
+- [1979](1979.md) - 5 shared documents
+- [1995](1995.md) - 5 shared documents
 - [2003](2003.md) - 5 shared documents
 - [2004](2004.md) - 5 shared documents
-- [2007](2007.md) - 5 shared documents
-- [2014](2014.md) - 5 shared documents
 
 ## Timeline
 

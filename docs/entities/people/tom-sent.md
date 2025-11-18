@@ -26,8 +26,8 @@ Top 5 documents by mention frequency:
 
 **People:**
 
-- [tom](tom.md) - 5 shared documents
 - [pritzker](pritzker.md) - 5 shared documents
+- [tom](tom.md) - 5 shared documents
 
 **Organizations:**
 

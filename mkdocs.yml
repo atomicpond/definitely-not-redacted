@@ -48,7 +48,6 @@ nav:
   - Home: index.md
   - Documents:
       - Overview: documents/index.md
-      - All Documents: documents/
   - Duplicates:
       - Overview: duplicates/index.md
       - Canonical Map: duplicates/canonical_map.md
@@ -63,7 +62,11 @@ nav:
       - Organizations: entities/organizations/index.md
       - Locations: entities/locations/index.md
       - Events: entities/events/index.md
-  - Relationship Graph: graph.md
+  - Timeline:
+      - Overview: timeline/index.md
+      - By Year: timeline/by_year/index.md
+      - By Month: timeline/by_month/index.md
+      - Chronological: timeline/chronological.md
   - Search: search.md
 
 extra_css:

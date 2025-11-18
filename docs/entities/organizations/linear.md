@@ -56,28 +56,28 @@ Keynes](../people/john-maynard-keynes.md) - 4 shared documents
 **Locations:**
 
 - [Europe](../locations/europe.md) - 9 shared documents
-- [Russia](../locations/russia.md) - 9 shared documents
 - [Germany](../locations/germany.md) - 9 shared documents
-- [New York](../locations/new-york.md) - 8 shared documents
+- [Russia](../locations/russia.md) - 9 shared documents
 - [China](../locations/china.md) - 8 shared documents
-- [U.S.](../locations/us.md) - 7 shared documents
+- [New York](../locations/new-york.md) - 8 shared documents
+- [Boston](../locations/boston.md) - 7 shared documents
+- [England](../locations/england.md) - 7 shared documents
+- [India](../locations/india.md) - 7 shared documents
 - [Japan](../locations/japan.md) - 7 shared documents
 - [London](../locations/london.md) - 7 shared documents
-- [the United States](../locations/the-united-states.md) - 7 shared documents
-- [England](../locations/england.md) - 7 shared documents
 
 **Events:**
 
 - [2009](../events/2009.md) - 10 shared documents
-- [today](../events/today.md) - 9 shared documents
 - [2010](../events/2010.md) - 9 shared documents
 - [the day](../events/the-day.md) - 9 shared documents
-- [years](../events/years.md) - 8 shared documents
+- [today](../events/today.md) - 9 shared documents
+- [1981](../events/1981.md) - 8 shared documents
 - [1993](../events/1993.md) - 8 shared documents
 - [1999](../events/1999.md) - 8 shared documents
-- [1981](../events/1981.md) - 8 shared documents
-- [2015](../events/2015.md) - 7 shared documents
-- [2000](../events/2000.md) - 7 shared documents
+- [years](../events/years.md) - 8 shared documents
+- [1973](../events/1973.md) - 7 shared documents
+- [1976](../events/1976.md) - 7 shared documents
 
 ## Timeline
 

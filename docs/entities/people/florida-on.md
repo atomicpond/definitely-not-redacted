@@ -40,14 +40,14 @@ Sent](jeffrey-e-sent.md) - 6 shared documents
 
 **Events:**
 
-- [September 25, 2018](../events/september-25-2018.md) - 6 shared documents
-- [Tuesday, September 25, 2018](../events/tuesday-september-25-2018.md) - 6 shared documents
 - [October 2, 2018](../events/october-2-2018.md) - 6 shared documents
+- [September 25, 2018](../events/september-25-2018.md) - 6 shared documents
 - [Tue, Oct 2, 2018](../events/tue-oct-2-2018.md) - 6 shared documents
 - [Tuesday, October 2, 2018 11:45](../events/tuesday-october-2-2018-1145.md) - 6 shared documents
+- [Tuesday, September 25, 2018](../events/tuesday-september-25-2018.md) - 6 shared documents
+- [20 years](../events/20-years.md) - 4 shared documents
 - [2018](../events/2018.md) - 4 shared documents
 - [today](../events/today.md) - 4 shared documents
-- [20 years](../events/20-years.md) - 4 shared documents
 
 ## Timeline
 

@@ -33,7 +33,7 @@ Top 10 documents by mention frequency:
 - [New
 York](../people/new-york.md) - 13 shared documents
 - [Jeff](../people/jeff.md) - 12 shared documents
-- [jeffrey E. <](../people/jeffrey-e.md) - 11 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 11 shared documents
 - [On Wed](../people/on-wed.md) - 11 shared documents
 - [On Fri](../people/on-fri.md) - 10 shared documents
 - [On Sep](../people/on-sep.md) - 9 shared documents

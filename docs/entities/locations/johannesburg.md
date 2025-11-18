@@ -30,12 +30,12 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 8 shared documents
-- [President Obama](../people/president-obama.md) - 7 shared documents
-- [Barack Obama](../people/barack-obama.md) - 6 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 6 shared documents
 - [White House](../people/white-house.md) - 6 shared documents
 - [Eastern Europe](../people/eastern-europe.md) - 5 shared documents
 - [Gaza Strip](../people/gaza-strip.md) - 5 shared documents
+- [Jimmy Carter](../people/jimmy-carter.md) - 5 shared documents
 
 **Organizations:**
 
@@ -58,23 +58,23 @@ Top 10 documents by mention frequency:
 - [the United States](the-united-states.md) - 8 shared documents
 - [California](california.md) - 8 shared documents
 - [Europe](europe.md) - 8 shared documents
-- [Japan](japan.md) - 8 shared documents
-- [Germany](germany.md) - 8 shared documents
 - [France](france.md) - 8 shared documents
+- [Germany](germany.md) - 8 shared documents
+- [Japan](japan.md) - 8 shared documents
 - [Mexico](mexico.md) - 7 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 10 shared documents
-- [years](../events/years.md) - 8 shared documents
-- [months](../events/months.md) - 8 shared documents
 - [decades](../events/decades.md) - 8 shared documents
+- [months](../events/months.md) - 8 shared documents
+- [years](../events/years.md) - 8 shared documents
 - [2003](../events/2003.md) - 7 shared documents
 - [2007](../events/2007.md) - 7 shared documents
 - [2009](../events/2009.md) - 7 shared documents
+- [2010](../events/2010.md) - 7 shared documents
 - [2012](../events/2012.md) - 7 shared documents
-- [last year](../events/last-year.md) - 7 shared documents
-- [Sunday](../events/sunday.md) - 7 shared documents
+- [Friday](../events/friday.md) - 7 shared documents
 
 ## Timeline
 

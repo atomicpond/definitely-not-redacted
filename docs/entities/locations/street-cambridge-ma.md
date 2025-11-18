@@ -52,8 +52,8 @@ Harvard University](../organizations/cabot-professor-of-american-literature-harv
 
 **Locations:**
 
-- [Cambridge](cambridge.md) - 8 shared documents
 - [12 Quincy Street](12-quincy-street.md) - 8 shared documents
+- [Cambridge](cambridge.md) - 8 shared documents
 
 ## Timeline
 

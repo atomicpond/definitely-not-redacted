@@ -36,38 +36,37 @@ Top 10 documents by mention frequency:
 - [Frank Gehry](frank-gehry.md) - 14 shared documents
 - [Herbie Hancock](herbie-hancock.md) - 14 shared documents
 - [Powell M. Cabot](powell-m-cabot.md) - 13 shared documents
-- [Bill 
-Clinton](bill-clinton.md) - 13 shared documents
 - [Cabot Professor](cabot-professor.md) - 13 shared documents
-- [larry](larry.md) - 11 shared documents
+- [Lawrence Krauss](lawrence-krauss.md) - 11 shared documents
 - [Middle East](middle-east.md) - 11 shared documents
 - [White House](white-house.md) - 11 shared documents
+- [Samantha Power](samantha-power.md) - 10 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 22 shared documents
 - [Harvard](../organizations/harvard.md) - 20 shared documents
-- [Harvard University](../organizations/harvard-university.md) - 13 shared documents
 - [Congress](../organizations/congress.md) - 13 shared documents
+- [Harvard University](../organizations/harvard-university.md) - 13 shared documents
 - [the White House](../organizations/the-white-house.md) - 13 shared documents
-- [White House](../organizations/white-house.md) - 11 shared documents
-- [State](../organizations/state.md) - 11 shared documents
 - [American Literature](../organizations/american-literature.md) - 11 shared documents
 - [Cabot Professor of American Literature 
 Harvard University](../organizations/cabot-professor-of-american-literature-harvard-university.md) - 11 shared documents
+- [State](../organizations/state.md) - 11 shared documents
+- [White House](../organizations/white-house.md) - 11 shared documents
 
 **Locations:**
 
 - [America](../locations/america.md) - 25 shared documents
 - [US](../locations/us.md) - 17 shared documents
-- [China](../locations/china.md) - 14 shared documents
-- [the United States](../locations/the-united-states.md) - 14 shared documents
 - [Cambridge](../locations/cambridge.md) - 14 shared documents
+- [China](../locations/china.md) - 14 shared documents
 - [Israel](../locations/israel.md) - 14 shared documents
-- [Russia](../locations/russia.md) - 13 shared documents
+- [the United States](../locations/the-united-states.md) - 14 shared documents
 - [Iran](../locations/iran.md) - 13 shared documents
-- [Middle East](../locations/middle-east.md) - 12 shared documents
+- [Russia](../locations/russia.md) - 13 shared documents
 - [Germany](../locations/germany.md) - 12 shared documents
+- [Iraq](../locations/iraq.md) - 12 shared documents
 
 **Events:**
 
@@ -76,6 +75,8 @@ Harvard University](../organizations/cabot-professor-of-american-literature-harv
 - [today](../events/today.md) - 13 shared documents
 - [2009](../events/2009.md) - 11 shared documents
 - [this week](../events/this-week.md) - 11 shared documents
+- [1979](../events/1979.md) - 10 shared documents
+- [2013](../events/2013.md) - 10 shared documents
 - [2017](../events/2017.md) - 10 shared documents
 - [last week](../events/last-week.md) - 10 shared documents
 

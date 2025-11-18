@@ -17,7 +17,7 @@
 - [Mike Pence](../entities/people/mike-pence.md) - 1 mention
 - [paul krassner](../entities/people/paul-krassner.md) - 1 mention
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Mr. 
 Trump](../entities/people/mr-trump.md) - 1 mention
 

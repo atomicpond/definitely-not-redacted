@@ -63,25 +63,25 @@ Top 10 documents by mention frequency:
 - [London](../locations/london.md) - 8 shared documents
 - [Texas](../locations/texas.md) - 8 shared documents
 - [the United States](../locations/the-united-states.md) - 8 shared documents
-- [U.S.](../locations/us.md) - 7 shared documents
-- [Russia](../locations/russia.md) - 7 shared documents
 - [Florida](../locations/florida.md) - 7 shared documents
-- [New York](../locations/new-york.md) - 6 shared documents
+- [Russia](../locations/russia.md) - 7 shared documents
+- [U.S.](../locations/us.md) - 7 shared documents
+- [Asia](../locations/asia.md) - 6 shared documents
+- [Boston](../locations/boston.md) - 6 shared documents
 - [California](../locations/california.md) - 6 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 6 shared documents
 
 **Events:**
 
-- [2007](../events/2007.md) - 9 shared documents
-- [today](../events/today.md) - 9 shared documents
-- [2011](../events/2011.md) - 9 shared documents
 - [1990](../events/1990.md) - 9 shared documents
 - [2001](../events/2001.md) - 9 shared documents
+- [2007](../events/2007.md) - 9 shared documents
 - [2008](../events/2008.md) - 9 shared documents
 - [2010](../events/2010.md) - 9 shared documents
+- [2011](../events/2011.md) - 9 shared documents
+- [today](../events/today.md) - 9 shared documents
 - [one day](../events/one-day.md) - 8 shared documents
-- [2004](../events/2004.md) - 7 shared documents
-- [2012](../events/2012.md) - 7 shared documents
+- [1997](../events/1997.md) - 7 shared documents
+- [1999](../events/1999.md) - 7 shared documents
 
 ## Timeline
 

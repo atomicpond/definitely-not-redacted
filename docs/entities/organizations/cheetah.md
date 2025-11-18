@@ -38,13 +38,13 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [two years](../events/two-years.md) - 5 shared documents
 - [1952](../events/1952.md) - 5 shared documents
 - [1969](../events/1969.md) - 5 shared documents
 - [1992](../events/1992.md) - 5 shared documents
 - [A few years later](../events/a-few-years-later.md) - 5 shared documents
 - [next day](../events/next-day.md) - 5 shared documents
 - [the day](../events/the-day.md) - 5 shared documents
+- [two years](../events/two-years.md) - 5 shared documents
 
 ## Timeline
 

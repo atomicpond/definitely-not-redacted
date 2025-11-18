@@ -33,8 +33,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Las Vegas](../people/las-vegas.md) - 21 shared documents
-- [Barack Obama](../people/barack-obama.md) - 15 shared documents
-- [Lawrence Krauss](../people/lawrence-krauss.md) - 13 shared documents
 - [Los Angeles](../people/los-angeles.md) - 13 shared documents
 - [San Francisco](../people/san-francisco.md) - 13 shared documents
 
@@ -57,8 +55,8 @@ University](../organizations/case-western-reserve-university.md) - 12 shared doc
 - [London](london.md) - 26 shared documents
 - [America](america.md) - 26 shared documents
 - [Florida](florida.md) - 25 shared documents
-- [California](california.md) - 20 shared documents
 - [Australia](australia.md) - 20 shared documents
+- [California](california.md) - 20 shared documents
 - [Canada](canada.md) - 18 shared documents
 - [Washington](washington.md) - 17 shared documents
 - [New York](new-york.md) - 16 shared documents
@@ -71,12 +69,12 @@ University](../organizations/case-western-reserve-university.md) - 12 shared doc
 - [2007](../events/2007.md) - 26 shared documents
 - [2016](../events/2016.md) - 22 shared documents
 - [weeks](../events/weeks.md) - 22 shared documents
-- [2014](../events/2014.md) - 21 shared documents
 - [2006](../events/2006.md) - 21 shared documents
+- [2014](../events/2014.md) - 21 shared documents
 - [today](../events/today.md) - 20 shared documents
 - [this year](../events/this-year.md) - 18 shared documents
 - [October](../events/october.md) - 17 shared documents
-- [years](../events/years.md) - 15 shared documents
+- [2011](../events/2011.md) - 15 shared documents
 
 ## Timeline
 

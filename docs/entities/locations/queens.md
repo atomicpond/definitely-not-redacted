@@ -57,24 +57,24 @@ Top 10 documents by mention frequency:
 - [Europe](europe.md) - 12 shared documents
 - [Paris](paris.md) - 12 shared documents
 - [Lafayette](lafayette.md) - 11 shared documents
-- [Qatar](qatar.md) - 10 shared documents
-- [Palm Beach](palm-beach.md) - 10 shared documents
 - [Connecticut](connecticut.md) - 10 shared documents
+- [Palm Beach](palm-beach.md) - 10 shared documents
+- [Qatar](qatar.md) - 10 shared documents
 - [Roy Black](roy-black.md) - 9 shared documents
-- [Dallas](dallas.md) - 9 shared documents
+- [Caribbean Island](caribbean-island.md) - 9 shared documents
 
 **Events:**
 
 - [two years](../events/two-years.md) - 14 shared documents
 - [last year](../events/last-year.md) - 12 shared documents
-- [Sunday](../events/sunday.md) - 12 shared documents
 - [Saturday](../events/saturday.md) - 12 shared documents
+- [Sunday](../events/sunday.md) - 12 shared documents
 - [ten years](../events/ten-years.md) - 12 shared documents
-- [the 1980s](../events/the-1980s.md) - 10 shared documents
-- [more than a year](../events/more-than-a-year.md) - 10 shared documents
+- [1994](../events/1994.md) - 10 shared documents
 - [2006](../events/2006.md) - 10 shared documents
-- [tomorrow](../events/tomorrow.md) - 10 shared documents
 - [many years](../events/many-years.md) - 10 shared documents
+- [more than a year](../events/more-than-a-year.md) - 10 shared documents
+- [September](../events/september.md) - 10 shared documents
 
 ## Timeline
 

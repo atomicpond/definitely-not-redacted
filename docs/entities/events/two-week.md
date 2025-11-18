@@ -32,7 +32,7 @@ Top 10 documents by mention frequency:
 - [Middle East](../people/middle-east.md) - 10 shared documents
 - [District Court](../people/district-court.md) - 9 shared documents
 - [White House](../people/white-house.md) - 9 shared documents
-- [President Obama](../people/president-obama.md) - 8 shared documents
+- [Barack Obama](../people/barack-obama.md) - 8 shared documents
 - [Middle Eastern](../people/middle-eastern.md) - 7 shared documents
 - [Los Angeles Times](../people/los-angeles-times.md) - 6 shared documents
 
@@ -70,7 +70,7 @@ Top 10 documents by mention frequency:
 - [Wednesday](wednesday.md) - 9 shared documents
 - [2009](2009.md) - 9 shared documents
 - [a day](a-day.md) - 8 shared documents
-- [the 1980s](the-1980s.md) - 7 shared documents
+- [months](months.md) - 7 shared documents
 
 ## Timeline
 

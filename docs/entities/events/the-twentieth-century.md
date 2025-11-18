@@ -55,12 +55,12 @@ Top 7 documents by mention frequency:
 - [2010](2010.md) - 6 shared documents
 - [the 1960s](the-1960s.md) - 6 shared documents
 - [today](today.md) - 5 shared documents
-- [annual](annual.md) - 5 shared documents
-- [2012](2012.md) - 5 shared documents
 - [1970](1970.md) - 5 shared documents
-- [2002](2002.md) - 5 shared documents
+- [1980](1980.md) - 5 shared documents
 - [1988](1988.md) - 5 shared documents
 - [1989](1989.md) - 5 shared documents
+- [2002](2002.md) - 5 shared documents
+- [2012](2012.md) - 5 shared documents
 
 ## Timeline
 

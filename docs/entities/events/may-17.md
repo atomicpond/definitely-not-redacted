@@ -54,11 +54,11 @@ Top 10 documents by mention frequency:
 
 - [daily](daily.md) - 8 shared documents
 - [May](may.md) - 8 shared documents
-- [2007](2007.md) - 7 shared documents
+- [1987](1987.md) - 7 shared documents
 - [2001](2001.md) - 7 shared documents
+- [2007](2007.md) - 7 shared documents
 - [December](december.md) - 7 shared documents
 - [June](june.md) - 7 shared documents
-- [1987](1987.md) - 7 shared documents
 - [monthly](monthly.md) - 6 shared documents
 - [November](november.md) - 6 shared documents
 - [September](september.md) - 6 shared documents

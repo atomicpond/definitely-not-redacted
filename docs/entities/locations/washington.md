@@ -31,17 +31,12 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 62 shared documents
-- [Barack Obama](../people/barack-obama.md) - 56 shared documents
-- [Mr. Obama](../people/obama.md) - 55 shared documents
 - [Middle East](../people/middle-east.md) - 50 shared documents
-- [President Obama](../people/president-obama.md) - 47 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 40 shared documents
-- [President Trump](../people/president-trump.md) - 38 shared documents
 - [United 
 States](../people/united-states.md) - 35 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 32 shared documents
 - [Los Angeles](../people/los-angeles.md) - 31 shared documents
+- [Barack Obama](../people/barack-obama.md) - 27 shared documents
 
 **Organizations:**
 
@@ -63,8 +58,8 @@ Trump](../people/trump.md) - 32 shared documents
 - [Europe](europe.md) - 82 shared documents
 - [New York](new-york.md) - 77 shared documents
 - [Russia](russia.md) - 77 shared documents
-- [United States](united-states.md) - 75 shared documents
 - [China](china.md) - 75 shared documents
+- [United States](united-states.md) - 75 shared documents
 - [US](us.md) - 69 shared documents
 - [France](france.md) - 68 shared documents
 - [London](london.md) - 64 shared documents

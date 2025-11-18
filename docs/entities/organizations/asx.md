@@ -32,31 +32,30 @@ Top 7 documents by mention frequency:
 **Organizations:**
 
 - [FINRA](finra.md) - 6 shared documents
-- [Amazon](amazon.md) - 4 shared documents
 
 **Locations:**
 
+- [Asia](../locations/asia.md) - 7 shared documents
+- [Australia](../locations/australia.md) - 7 shared documents
 - [Brazil](../locations/brazil.md) - 7 shared documents
 - [Canada](../locations/canada.md) - 7 shared documents
 - [Mexico](../locations/mexico.md) - 7 shared documents
-- [Asia](../locations/asia.md) - 7 shared documents
-- [Australia](../locations/australia.md) - 7 shared documents
+- [Argentina](../locations/argentina.md) - 6 shared documents
 - [China](../locations/china.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
 - [Germany](../locations/germany.md) - 6 shared documents
-- [Italy](../locations/italy.md) - 6 shared documents
 - [India](../locations/india.md) - 6 shared documents
+- [Italy](../locations/italy.md) - 6 shared documents
 
 **Events:**
 
 - [2000](../events/2000.md) - 7 shared documents
 - [monthly](../events/monthly.md) - 6 shared documents
+- [12-month](../events/12-month.md) - 5 shared documents
 - [2004](../events/2004.md) - 5 shared documents
 - [2015](../events/2015.md) - 5 shared documents
 - [daily](../events/daily.md) - 5 shared documents
 - [weekly](../events/weekly.md) - 5 shared documents
-- [12-month](../events/12-month.md) - 5 shared documents
-- [year-end](../events/year-end.md) - 4 shared documents
+- [10-year](../events/10-year.md) - 4 shared documents
 - [2012](../events/2012.md) - 4 shared documents
 - [2017](../events/2017.md) - 4 shared documents
 

@@ -45,21 +45,21 @@ Top 8 documents by mention frequency:
 - [Ghislaine Maxwell](ghislaine-maxwell.md) - 5 shared documents
 - [IRS](irs.md) - 4 shared documents
 - [Court](court.md) - 4 shared documents
-- [FBI](fbi.md) - 4 shared documents
 - [CVRA](cvra.md) - 4 shared documents
+- [FBI](fbi.md) - 4 shared documents
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 6 shared documents
-- [London](../locations/london.md) - 6 shared documents
 - [Florida](../locations/florida.md) - 6 shared documents
-- [Virginia](../locations/virginia.md) - 6 shared documents
+- [London](../locations/london.md) - 6 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 6 shared documents
+- [United States](../locations/united-states.md) - 6 shared documents
+- [Virginia](../locations/virginia.md) - 6 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 6 shared documents
-- [New York City](../locations/new-york-city.md) - 5 shared documents
-- [Thailand](../locations/thailand.md) - 5 shared documents
-- [Palm Beach County](../locations/palm-beach-county.md) - 5 shared documents
 - [Fort Lauderdale](../locations/fort-lauderdale.md) - 5 shared documents
+- [New York City](../locations/new-york-city.md) - 5 shared documents
+- [Palm Beach County](../locations/palm-beach-county.md) - 5 shared documents
+- [Thailand](../locations/thailand.md) - 5 shared documents
 
 **Events:**
 
@@ -68,9 +68,9 @@ Top 8 documents by mention frequency:
 - [2009](../events/2009.md) - 5 shared documents
 - [2015](../events/2015.md) - 5 shared documents
 - [2016](../events/2016.md) - 5 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
-- [2011](../events/2011.md) - 4 shared documents
 - [2010](../events/2010.md) - 4 shared documents
+- [2011](../events/2011.md) - 4 shared documents
+- [Sunday](../events/sunday.md) - 4 shared documents
 
 ## Timeline
 

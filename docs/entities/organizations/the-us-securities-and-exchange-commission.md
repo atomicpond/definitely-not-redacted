@@ -28,20 +28,20 @@ Top 6 documents by mention frequency:
 
 **Organizations:**
 
-- [Senate](senate.md) - 4 shared documents
 - [SEC](sec.md) - 4 shared documents
+- [Senate](senate.md) - 4 shared documents
 
 **Locations:**
 
-- [Russia](../locations/russia.md) - 5 shared documents
 - [Italy](../locations/italy.md) - 5 shared documents
-- [Paris](../locations/paris.md) - 4 shared documents
+- [Russia](../locations/russia.md) - 5 shared documents
 - [India](../locations/india.md) - 4 shared documents
+- [Paris](../locations/paris.md) - 4 shared documents
 
 **Events:**
 
-- [annual](../events/annual.md) - 4 shared documents
 - [1934](../events/1934.md) - 4 shared documents
+- [annual](../events/annual.md) - 4 shared documents
 - [quarterly](../events/quarterly.md) - 4 shared documents
 
 ## Timeline

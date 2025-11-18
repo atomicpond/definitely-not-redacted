@@ -67,10 +67,10 @@ Top 10 documents by mention frequency:
 - [today](today.md) - 8 shared documents
 - [Mon, Dec 11, 2017](mon-dec-11-2017.md) - 7 shared documents
 - [This morning](this-morning.md) - 7 shared documents
-- [2018](2018.md) - 7 shared documents
-- [2017](2017.md) - 7 shared documents
-- [Dec 11, 2017](dec-11-2017.md) - 7 shared documents
 - [12:50 AM](1250-am.md) - 7 shared documents
+- [1:45 AM](145-am.md) - 7 shared documents
+- [2017](2017.md) - 7 shared documents
+- [2018](2018.md) - 7 shared documents
 
 ## Timeline
 

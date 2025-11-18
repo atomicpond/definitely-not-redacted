@@ -71,8 +71,8 @@ Top 10 documents by mention frequency:
 - [months](../events/months.md) - 15 shared documents
 - [2000](../events/2000.md) - 14 shared documents
 - [2001](../events/2001.md) - 14 shared documents
-- [2006](../events/2006.md) - 14 shared documents
 - [2002](../events/2002.md) - 14 shared documents
+- [2006](../events/2006.md) - 14 shared documents
 - [2007](../events/2007.md) - 13 shared documents
 - [2013](../events/2013.md) - 13 shared documents
 

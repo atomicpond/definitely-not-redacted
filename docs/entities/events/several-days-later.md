@@ -26,8 +26,8 @@ Top 6 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Middle East](../people/middle-east.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
 - [White House](../people/white-house.md) - 5 shared documents
 
 **Organizations:**
@@ -57,10 +57,10 @@ Top 6 documents by mention frequency:
 **Events:**
 
 - [2003](2003.md) - 6 shared documents
-- [May](may.md) - 6 shared documents
-- [Friday](friday.md) - 6 shared documents
 - [a month](a-month.md) - 6 shared documents
 - [a year](a-year.md) - 6 shared documents
+- [Friday](friday.md) - 6 shared documents
+- [May](may.md) - 6 shared documents
 - [six months](six-months.md) - 5 shared documents
 - [the 1970s](the-1970s.md) - 5 shared documents
 - [the day](the-day.md) - 5 shared documents

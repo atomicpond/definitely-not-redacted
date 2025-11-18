@@ -52,11 +52,11 @@ Clinton](../people/bill-clinton.md) - 5 shared documents
 **Events:**
 
 - [yesterday](yesterday.md) - 7 shared documents
-- [November](november.md) - 6 shared documents
-- [September](september.md) - 6 shared documents
 - [a crazy week](a-crazy-week.md) - 6 shared documents
 - [mid or end](mid-or-end.md) - 6 shared documents
+- [November](november.md) - 6 shared documents
 - [Sept 27](sept-27.md) - 6 shared documents
+- [September](september.md) - 6 shared documents
 
 ## Timeline
 

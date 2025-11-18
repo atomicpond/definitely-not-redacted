@@ -25,11 +25,11 @@ Top 5 documents by mention frequency:
 **Events:**
 
 - [July 2018](july-2018.md) - 5 shared documents
-- [2018](2018.md) - 5 shared documents
 - [2015](2015.md) - 5 shared documents
-- [annual](annual.md) - 5 shared documents
-- [2020](2020.md) - 5 shared documents
+- [2018](2018.md) - 5 shared documents
 - [2019](2019.md) - 5 shared documents
+- [2020](2020.md) - 5 shared documents
+- [annual](annual.md) - 5 shared documents
 - [2012](2012.md) - 4 shared documents
 
 ## Timeline

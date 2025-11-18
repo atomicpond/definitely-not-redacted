@@ -41,14 +41,12 @@ Top 10 documents by mention frequency:
 
 - [The Palm Beach Post](the-palm-beach-post.md) - 6 shared documents
 - [the University of Miami](the-university-of-miami.md) - 6 shared documents
-- [HOUSE](house.md) - 6 shared documents
-- [Fed](fed.md) - 6 shared documents
 - [FBI](fbi.md) - 6 shared documents
+- [Fed](fed.md) - 6 shared documents
 - [Harvard](harvard.md) - 6 shared documents
+- [HOUSE](house.md) - 6 shared documents
 - [NYTimes](nytimes.md) - 5 shared documents
 - [NYTimes.com](nytimescom.md) - 5 shared documents
-- [Facebook](facebook.md) - 4 shared documents
-- [State](state.md) - 4 shared documents
 
 **Locations:**
 
@@ -58,20 +56,19 @@ Top 10 documents by mention frequency:
 - [New Mexico](../locations/new-mexico.md) - 6 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 6 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 6 shared documents
-- [Caribbean](../locations/caribbean.md) - 4 shared documents
 
 **Events:**
 
-- [October](../events/october.md) - 6 shared documents
-- [last year](../events/last-year.md) - 6 shared documents
-- [Monday](../events/monday.md) - 6 shared documents
-- [August](../events/august.md) - 6 shared documents
-- [July](../events/july.md) - 6 shared documents
 - [2005](../events/2005.md) - 6 shared documents
 - [2006](../events/2006.md) - 6 shared documents
+- [53](../events/53.md) - 6 shared documents
+- [August](../events/august.md) - 6 shared documents
+- [early this year](../events/early-this-year.md) - 6 shared documents
+- [July](../events/july.md) - 6 shared documents
+- [last year](../events/last-year.md) - 6 shared documents
+- [late July](../events/late-july.md) - 6 shared documents
+- [March 2005](../events/march-2005.md) - 6 shared documents
 - [May 1](../events/may-1.md) - 6 shared documents
-- [Months earlier](../events/months-earlier.md) - 6 shared documents
-- [several months](../events/several-months.md) - 6 shared documents
 
 ## Timeline
 

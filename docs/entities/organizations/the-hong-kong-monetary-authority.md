@@ -24,33 +24,33 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [the Dubai Financial Services Authority](the-dubai-financial-services-authority.md) - 5 shared documents
 - [FINRA](finra.md) - 5 shared documents
-- [Bloomberg](bloomberg.md) - 4 shared documents
-- [ECB](ecb.md) - 4 shared documents
+- [the Dubai Financial Services Authority](the-dubai-financial-services-authority.md) - 5 shared documents
 - [ABN](abn.md) - 4 shared documents
+- [Bloomberg](bloomberg.md) - 4 shared documents
 - [DFSA](dfsa.md) - 4 shared documents
+- [ECB](ecb.md) - 4 shared documents
 
 **Locations:**
 
-- [Dubai](../locations/dubai.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
+- [Asia](../locations/asia.md) - 5 shared documents
 - [Brazil](../locations/brazil.md) - 5 shared documents
 - [Canada](../locations/canada.md) - 5 shared documents
-- [Mexico](../locations/mexico.md) - 5 shared documents
-- [Asia](../locations/asia.md) - 5 shared documents
+- [Dubai](../locations/dubai.md) - 5 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 5 shared documents
-- [Singapore](../locations/singapore.md) - 5 shared documents
 - [India](../locations/india.md) - 5 shared documents
-- [Spain](../locations/spain.md) - 5 shared documents
+- [Indonesia](../locations/indonesia.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
+- [Korea](../locations/korea.md) - 5 shared documents
+- [Mexico](../locations/mexico.md) - 5 shared documents
 
 **Events:**
 
 - [2000](../events/2000.md) - 5 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
-- [the year](../events/the-year.md) - 4 shared documents
 - [10-year](../events/10-year.md) - 4 shared documents
 - [5-year](../events/5-year.md) - 4 shared documents
+- [the year](../events/the-year.md) - 4 shared documents
+- [this year](../events/this-year.md) - 4 shared documents
 
 ## Timeline
 

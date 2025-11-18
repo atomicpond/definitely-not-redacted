@@ -29,16 +29,16 @@ Top 8 documents by mention frequency:
 
 **People:**
 
-- [Middle East](middle-east.md) - 8 shared documents
 - [Barack Obama](barack-obama.md) - 8 shared documents
-- [President Obama](president-obama.md) - 7 shared documents
+- [Middle East](middle-east.md) - 8 shared documents
 - [Saudi Arabia](saudi-arabia.md) - 7 shared documents
-- [President Barack Obama](president-barack-obama.md) - 6 shared documents
 - [West Bank](west-bank.md) - 6 shared documents
 - [Cold War](cold-war.md) - 6 shared documents
 - [East Jerusalem](east-jerusalem.md) - 6 shared documents
 - [Gaza Strip](gaza-strip.md) - 6 shared documents
 - [Mahmoud Abbas](mahmoud-abbas.md) - 6 shared documents
+- [Security Council](security-council.md) - 5 shared documents
+- [Tel Aviv](tel-aviv.md) - 5 shared documents
 
 **Organizations:**
 
@@ -46,28 +46,28 @@ Top 8 documents by mention frequency:
 - [Congress](../organizations/congress.md) - 6 shared documents
 - [IAEA](../organizations/iaea.md) - 6 shared documents
 - [Washington Institute for Near East Policy](../organizations/washington-institute-for-near-east-policy.md) - 6 shared documents
-- [HOUSE](../organizations/house.md) - 5 shared documents
 
 **Locations:**
 
-- [the Middle East](../locations/the-middle-east.md) - 8 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 8 shared documents
 - [Germany](../locations/germany.md) - 8 shared documents
 - [Iran](../locations/iran.md) - 8 shared documents
 - [Iraq](../locations/iraq.md) - 8 shared documents
 - [Syria](../locations/syria.md) - 8 shared documents
-- [Afghanistan](../locations/afghanistan.md) - 8 shared documents
 - [Tehran](../locations/tehran.md) - 8 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 8 shared documents
+- [Israel](../locations/israel.md) - 7 shared documents
 - [Middle East](../locations/middle-east.md) - 7 shared documents
-- [United States](../locations/united-states.md) - 7 shared documents
-- [Russia](../locations/russia.md) - 7 shared documents
+- [North Korea](../locations/north-korea.md) - 7 shared documents
 
 **Events:**
 
 - [2009](../events/2009.md) - 7 shared documents
-- [last week](../events/last-week.md) - 7 shared documents
 - [2013](../events/2013.md) - 7 shared documents
 - [a year](../events/a-year.md) - 7 shared documents
+- [last week](../events/last-week.md) - 7 shared documents
 - [this year](../events/this-year.md) - 6 shared documents
+- [1979](../events/1979.md) - 5 shared documents
 
 ## Timeline
 

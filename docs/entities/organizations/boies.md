@@ -29,7 +29,7 @@ Top 7 documents by mention frequency:
 
 - [Paul G. Cassell](../people/paul-g-cassell.md) - 6 shared documents
 - [Boies Schiller](../people/boies-schiller.md) - 5 shared documents
-- [Bradley J. Edwards](../people/bradley-j-edwards.md) - 5 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 5 shared documents
 - [Jack Scarola](../people/jack-scarola.md) - 5 shared documents
 - [Jane Doe](../people/jane-doe.md) - 5 shared documents
 - [New Mexico](../people/new-mexico.md) - 5 shared documents
@@ -41,25 +41,25 @@ Top 7 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 6 shared documents
 - [Florida](../locations/florida.md) - 6 shared documents
 - [Miami](../locations/miami.md) - 6 shared documents
+- [United States](../locations/united-states.md) - 6 shared documents
+- [Fort Lauderdale](../locations/fort-lauderdale.md) - 5 shared documents
+- [New Mexico](../locations/new-mexico.md) - 5 shared documents
 - [New York](../locations/new-york.md) - 5 shared documents
 - [U.S.](../locations/us.md) - 5 shared documents
 - [Virginia](../locations/virginia.md) - 5 shared documents
-- [New Mexico](../locations/new-mexico.md) - 5 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 5 shared documents
-- [Fort Lauderdale](../locations/fort-lauderdale.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
+- [Boston](../locations/boston.md) - 4 shared documents
 
 **Events:**
 
 - [2016](../events/2016.md) - 5 shared documents
 - [today](../events/today.md) - 5 shared documents
-- [2011](../events/2011.md) - 4 shared documents
-- [1999](../events/1999.md) - 4 shared documents
-- [22](../events/22.md) - 4 shared documents
 - [14](../events/14.md) - 4 shared documents
+- [1999](../events/1999.md) - 4 shared documents
+- [2011](../events/2011.md) - 4 shared documents
+- [22](../events/22.md) - 4 shared documents
 - [the day](../events/the-day.md) - 4 shared documents
 
 ## Timeline

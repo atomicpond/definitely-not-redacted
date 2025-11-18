@@ -32,13 +32,13 @@ Top 8 documents by mention frequency:
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
 - [the years](../events/the-years.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [2007](../events/2007.md) - 4 shared documents
+- [Friday](../events/friday.md) - 4 shared documents
 - [Monday](../events/monday.md) - 4 shared documents
 - [Sunday](../events/sunday.md) - 4 shared documents
 - [this week](../events/this-week.md) - 4 shared documents
-- [Friday](../events/friday.md) - 4 shared documents
 
 ## Timeline
 

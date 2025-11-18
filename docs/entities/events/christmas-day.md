@@ -61,13 +61,13 @@ Top 8 documents by mention frequency:
 - [the day](the-day.md) - 7 shared documents
 - [1980](1980.md) - 6 shared documents
 - [two years](two-years.md) - 5 shared documents
+- [1965](1965.md) - 5 shared documents
 - [1969](1969.md) - 5 shared documents
 - [1992](1992.md) - 5 shared documents
 - [A few years later](a-few-years-later.md) - 5 shared documents
-- [1965](1965.md) - 5 shared documents
-- [2009](2009.md) - 4 shared documents
+- [1952](1952.md) - 4 shared documents
 - [1970](1970.md) - 4 shared documents
-- [2019](2019.md) - 4 shared documents
+- [2009](2009.md) - 4 shared documents
 
 ## Timeline
 

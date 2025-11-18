@@ -38,8 +38,8 @@ Top 10 documents by mention frequency:
 **Organizations:**
 
 - [HOUSE](house.md) - 7 shared documents
-- [Vanity Fair](vanity-fair.md) - 7 shared documents
 - [Stone](stone.md) - 7 shared documents
+- [Vanity Fair](vanity-fair.md) - 7 shared documents
 
 **Locations:**
 
@@ -49,23 +49,23 @@ Top 10 documents by mention frequency:
 - [Miami](../locations/miami.md) - 8 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 8 shared documents
 - [California](../locations/california.md) - 7 shared documents
-- [the United States](../locations/the-united-states.md) - 7 shared documents
-- [Paris](../locations/paris.md) - 7 shared documents
 - [Hollywood](../locations/hollywood.md) - 7 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 6 shared documents
+- [Paris](../locations/paris.md) - 7 shared documents
+- [the United States](../locations/the-united-states.md) - 7 shared documents
+- [Britain](../locations/britain.md) - 6 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 10 shared documents
+- [1987](../events/1987.md) - 9 shared documents
 - [2008](../events/2008.md) - 9 shared documents
 - [2010](../events/2010.md) - 9 shared documents
 - [the next day](../events/the-next-day.md) - 9 shared documents
-- [1987](../events/1987.md) - 9 shared documents
 - [1985](../events/1985.md) - 8 shared documents
 - [February](../events/february.md) - 8 shared documents
 - [September](../events/september.md) - 8 shared documents
-- [annual](../events/annual.md) - 7 shared documents
 - [2012](../events/2012.md) - 7 shared documents
+- [annual](../events/annual.md) - 7 shared documents
 
 ## Timeline
 

@@ -46,29 +46,29 @@ Top 7 documents by mention frequency:
 
 **Locations:**
 
-- [Germany](../locations/germany.md) - 6 shared documents
 - [America](../locations/america.md) - 6 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
+- [Germany](../locations/germany.md) - 6 shared documents
 - [Australia](../locations/australia.md) - 5 shared documents
-- [Spain](../locations/spain.md) - 5 shared documents
+- [Europe](../locations/europe.md) - 5 shared documents
 - [Hollywood](../locations/hollywood.md) - 5 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
-- [China](../locations/china.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
+- [Spain](../locations/spain.md) - 5 shared documents
+- [Baltimore](../locations/baltimore.md) - 4 shared documents
+- [Beijing](../locations/beijing.md) - 4 shared documents
+- [Boston](../locations/boston.md) - 4 shared documents
+- [Canada](../locations/canada.md) - 4 shared documents
 
 **Events:**
 
+- [1987](../events/1987.md) - 4 shared documents
+- [1994](../events/1994.md) - 4 shared documents
+- [1997](../events/1997.md) - 4 shared documents
+- [2001](../events/2001.md) - 4 shared documents
+- [2002](../events/2002.md) - 4 shared documents
 - [2003](../events/2003.md) - 4 shared documents
 - [2004](../events/2004.md) - 4 shared documents
+- [2006](../events/2006.md) - 4 shared documents
 - [2007](../events/2007.md) - 4 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
-- [2012](../events/2012.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
-- [2017](../events/2017.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
 
 ## Timeline
 

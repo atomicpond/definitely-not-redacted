@@ -52,10 +52,10 @@ Top 6 documents by mention frequency:
 - [Thursday](thursday.md) - 5 shared documents
 - [year](year.md) - 5 shared documents
 - [years](years.md) - 5 shared documents
-- [October](october.md) - 5 shared documents
+- [August](august.md) - 5 shared documents
 - [daily](daily.md) - 5 shared documents
 - [Monday](monday.md) - 5 shared documents
-- [August](august.md) - 5 shared documents
+- [October](october.md) - 5 shared documents
 
 ## Timeline
 

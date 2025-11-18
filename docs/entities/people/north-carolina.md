@@ -38,8 +38,8 @@ Trump](donald-trump.md) - 5 shared documents
 **Locations:**
 
 - [Florida](../locations/florida.md) - 5 shared documents
-- [Ohio](../locations/ohio.md) - 4 shared documents
 - [North Carolina](../locations/north-carolina.md) - 4 shared documents
+- [Ohio](../locations/ohio.md) - 4 shared documents
 
 ## Timeline
 

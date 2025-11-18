@@ -38,19 +38,19 @@ Top 6 documents by mention frequency:
 - [Europe](../locations/europe.md) - 4 shared documents
 - [Iran](../locations/iran.md) - 4 shared documents
 - [Iraq](../locations/iraq.md) - 4 shared documents
-- [Saudi Arabia](../locations/saudi-arabia.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
 - [Israel](../locations/israel.md) - 4 shared documents
+- [Saudi Arabia](../locations/saudi-arabia.md) - 4 shared documents
 - [the Persian Gulf](../locations/the-persian-gulf.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 6 shared documents
+- [2010](../events/2010.md) - 5 shared documents
 - [2012](../events/2012.md) - 5 shared documents
 - [this year](../events/this-year.md) - 5 shared documents
-- [2010](../events/2010.md) - 5 shared documents
-- [2007](../events/2007.md) - 4 shared documents
 - [2006](../events/2006.md) - 4 shared documents
+- [2007](../events/2007.md) - 4 shared documents
 
 ## Timeline
 

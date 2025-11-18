@@ -57,164 +57,558 @@ Sender](../entities/people/roger-sender.md) - 1 mention
 
 ## Document Text
 
+**Thread-like Conversation View:**
+
 ```
-Source Entr: H\Macintosh HD\root\Users\jee\Library\Messages\Archive\2019-06-11\III 
-on 2019-06-02 at 07.37.48.ichat 
-Service: iMessage 
-**Start Time**: 06/02/19 04:32:25 AM (581167945) 
-**End Time**: 06/11/19 06:27:28 PM (581995648) 
-**Last Message** ID: 30555 
-Chat Room: 
-Participants: jee, 
-Presentity IDs: e:jeeitunes@gmail.com, 13109906526 
-Messages - 
-Sender: 
-Time: 06/02/19 04:32:25 AM (581167945) 
-Flags: 1126401 
-**Is Read**: Yes 
-Is Invitation: No 
-**GUID**: EFB3A6DD-BE94-4090-AFCE-B571688EEE6C 
-Message: We got some great material **yesterday** 
-Sender: e:jeeitunes@gmail.com 
-Time: 06/02/19 04:34:57 AM (581168097) 
-Flags: 1085445 
-**Is Read**: No 
-Is Invitation: No 
-**GUID**: 3BB7DB9C-F08A-435C-BFFB-3EFE5B88F7A2 
-Message: let me know your schedule and if you want to come to the island next weekend 
-would be perfect. and i would fly you guys back in addition I've told dan to send 
-darren an invoice for 100k . I don't like you laying out money 
-Sender: 
-Time: 06/02/19 04:36:56 AM (581168216) 
-Flags: 1060865 
-**Is Read**: Yes 
-Is Invitation: No 
-**GUID**: 8A19F7A4-32F6-465D-BE4A-33C07406C8A6 
-Message: Let me make the overall deal with darren-- don't want to do this piecemeal --
-I've already got my 2 other shooters and editors off on other projects and need to get 
-back-- key now is getting the entire 'cast' 
-Sender: e:jeeitunes@gmail.com 
-Time: 06/02/19 04:37:48 AM (581168268) 
-Flags: 1085445 
-**Is Read**: No 
-Is Invitation: No 
-HOUSE OVERSIGHT 025479 
-**GUID**: BD21ED2F-4A44-4271-919F-76715FD36F5E 
-Message: ok, as you wish. 
-Sender: 
-Time: 06/03/19 02:10:16 AM (581245816) 
-Flags: 1126401 
-**Is Read**: Yes 
-Is Invitation: No 
-**GUID**: B8EA6F7E-065F-4685-8799-ACE315E285A9 
-Message: https://unherd.com/2019/05/the-hypocrisy-of-the-woody-allen-haters/ 
-Sender: e:jeeitunes@gmail.com 
-Time: 06/03/19 03:09:34 AM (581249374) 
-Flags: 1085445 
-**Is Read**: No 
-Is Invitation: No 
-**GUID**: D5A0BEC4-DC32-429E-BC3B-24300BDE3478 
-Message: should darren send his letter to burke. ? or which lawyer for you , your 
-company and crew. 
-Sender: 
-Time: 06/03/19 04:22:12 AM (581253732) 
-Flags: 1060865 
-**Is Read**: Yes 
-Is Invitation: No 
-**GUID**: 45B9B81D-4885-4683-9E0B-64C1CC330B29 
-Message: What letter ??? 
-Sender: e:jeeitunes@gmail.com 
-Time: 06/03/19 04:22:45 AM (581253765) 
-Flags: 1085445 
-**Is Read**: No 
-Is Invitation: No 
-**GUID**: 521CC565-61B6-4125-9392-B1D1BDFF0F31 
-Message: the engagement for litigation services 
-Sender: 
-Time: 06/03/19 04:23:49 AM (581253829) 
-Flags: 1060865 
-**Is Read**: Yes 
-Is Invitation: No 
-**GUID**: A6604B1C-DO5C-4273-BODA-055E033AA689 
-Message: My main lawyer handles all that , I will sort out 
-HOUSE OVERSIGHT 025480 
-Sender: e:jeeitunes@gmail.com 
-Time: 06/03/19 04:24:14 AM (581253854) 
-Flags: 1085445 
-**Is Read**: No 
-Is Invitation: No 
-**GUID**: B279CB5E-8DC6-4098-9FA1-45FBB1A4C056 
-Message: I meant the follow up to the original . 
-Sender: e:jeeitunes@gmail.com 
-Time: 06/03/19 04:24:58 AM (581253898) 
-Flags: 1085445 
-**Is Read**: No 
-Is Invitation: No 
-**GUID**: 264238E8-632C-483B-AF01-A254F842BF8D 
-Message: btw, the real estate developers are blowing up, no chinese buying luxury . 
-no russians no brazilians the market is frozen 
-Sender: 
-Time: 06/03/19 04:30:20 AM (581254220) 
-Flags: 1060865 
-**Is Read**: Yes 
-Is Invitation: No 
-**GUID**: F47ACFDD-C366-4321-A3C5-C158C0E565AD 
-Message: They better pray for the freeze because when it unfreezes it will crater 
-Sender: e:jeeitunes@gmail.com 
-Time: 06/03/19 04:31:53 AM (581254313) 
-Flags: 1085445 
-**Is Read**: No 
-Is Invitation: No 
-**GUID**: 65ED1CA1-350C-4DD8-8A64-D3F72E1E1736 
-Message: it could. **New York** taxes high. now non dependable as country of safety. 
-timing for brexit is perfect. london will skyrocket. 
-Sender: e:jeeitunes@gmail.com 
-Time: 06/03/19 04:32:05 AM (581254325) 
-Flags: 1085445 
-**Is Read**: No 
-Is Invitation: No 
-**GUID**: B2697EAl-F311-4296-8AD6-712229454E95 
-Message: i don't care whether financials leave. 
-Sender: e:jeeitunes@gmail.com 
-HOUSE OVERSIGHT 025481 
-Time: 06/03/19 04:32:29 AM (581254349) 
-Flags: 1085445 
-**Is Read**: No 
-Is Invitation: No 
-**GUID**: OBEB632C-1732-4D82-9A7B-2D75C61F4A2A 
-Message: once they are gone the monarchy is dependable 
-Sender: e:jeeitunes@gmail.com 
-Time: 06/03/19 04:32:47 AM (581254367) 
-Flags: 1150981 
-**Is Read**: No 
-Is Invitation: No 
-**GUID**: 31B4A6C6-763F-4AFC-9C88-6D1A6971F50E 
-Message: prince andrew and trump today. t000 funny. 
-Sender: e:jeeitunes@gmail.com 
-Time: 06/03/19 04:33:33 AM (581254413) 
-Flags: 1085445 
-**Is Read**: No 
-Is Invitation: No 
-**GUID**: 598FFB31-BFD6-4596-978B-05757CCA4CC6 
-Message: recall prince andrews accuser came out of **Mara Lago** 
-Sender: 
-Time: 06/03/19 04:33:38 AM (581254418) 
-Flags: 1060865 
-**Is Read**: Yes 
-Is Invitation: No 
-**GUID**: FB3775EE-AF53-4FC2-A299-D3134D17ACDD 
-Message: Can't believe nobody is making u the connective tissue 
-Sender: e:jeeitunes@gmail.com 
-Time: 06/03/19 04:33:55 AM (581254435) 
-Flags: 1085445 
-**Is Read**: No 
-Is Invitation: No 
-**GUID**: 58C8D8EF-18E1-495C-882C-BD7C0441C2FF 
-Message: f and b only 
-Sender: 
-Time: 06/03/19 04:51:30 AM (581255490) 
-Flags: 1060865 
-HOUSE OVERSIGH
+================================================================================
+CONVERSATION TRANSCRIPT
+================================================================================
+Service: iMessage
+Start Time: 06/02/19 04:32:25 AM (581167945)
+End Time: 06/11/19 06:27:28 PM (581995648)
+Participants: jee,
+Presentity IDs: e:jeeitunes@gmail.com, 13109906526
+================================================================================
+
+
+────────────────────────────────────────────────────────────────────────────────
+  Sunday, June 02, 2019
+────────────────────────────────────────────────────────────────────────────────
+
+[4:32 AM] Other Participant:
+    We got some great material yesterday
+
+[4:34 AM] Jeffrey Epstein:
+    let me know your schedule and if you want to come to the island next weekend would be perfect. and i would fly you guys back in addition I've told dan to send darren an invoice for 100k . I don't like you laying out money
+
+[4:36 AM] Other Participant:
+    Let me make the overall deal with darren-- don't want to do this piecemeal -- I've already got my 2 other shooters and editors off on other projects and need to get back-- key now is getting the entire 'cast'
+
+[4:37 AM] Jeffrey Epstein:
+    ok, as you wish.
+
+
+────────────────────────────────────────────────────────────────────────────────
+  Monday, June 03, 2019
+────────────────────────────────────────────────────────────────────────────────
+
+[2:10 AM] Other Participant:
+    https://unherd.com/2019/05/the-hypocrisy-of-the-woody-allen-haters/
+
+[3:09 AM] Jeffrey Epstein:
+    should darren send his letter to burke. ? or which lawyer for you , your company and crew.
+
+[4:22 AM] Other Participant:
+    What letter ???
+
+[4:22 AM] Jeffrey Epstein:
+    the engagement for litigation services
+
+[4:23 AM] Other Participant:
+    My main lawyer handles all that , I will sort out HOUSE OVERSIGHT 025480
+
+[4:24 AM] Jeffrey Epstein:
+    I meant the follow up to the original .
+
+[4:24 AM] Jeffrey Epstein:
+    btw, the real estate developers are blowing up, no chinese buying luxury . no russians no brazilians the market is frozen
+
+[4:30 AM] Other Participant:
+    They better pray for the freeze because when it unfreezes it will crater
+
+[4:31 AM] Jeffrey Epstein:
+    it could. new york taxes high. now non dependable as country of safety. timing for brexit is perfect. london will skyrocket.
+
+[4:32 AM] Jeffrey Epstein:
+    i don't care whether financials leave.
+
+[4:32 AM] Jeffrey Epstein:
+    once they are gone the monarchy is dependable
+
+[4:32 AM] Jeffrey Epstein:
+    prince andrew and trump today. t000 funny.
+
+[4:33 AM] Jeffrey Epstein:
+    recall prince andrews accuser came out of mara lago
+
+[4:33 AM] Other Participant:
+    Can't believe nobody is making u the connective tissue
+
+[4:33 AM] Jeffrey Epstein:
+    f and b only
+
+[4:51 AM] Other Participant:
+    Exactly
+
+[3:13 PM] Jeffrey Epstein:
+    https://www.cnn.com/2019/06/03/politics/george-nader-mueller-witness-child- pornography-charges/index.html
+
+[3:28 PM] Other Participant:
+    Not cool
+
+[3:33 PM] Jeffrey Epstein:
+    Mandatory minimum 15
+
+[3:37 PM] Other Participant:
+    MBZ must have coughed him up
+
+[3:38 PM] Jeffrey Epstein:
+    Nope
+
+
+────────────────────────────────────────────────────────────────────────────────
+  Tuesday, June 04, 2019
+────────────────────────────────────────────────────────────────────────────────
+
+[5:03 AM] Other Participant:
+    How did he get extradited ?-- could have stayed in UAE forever
+
+[5:28 AM] Jeffrey Epstein:
+    He was not extradited .
+
+[5:29 AM] Jeffrey Epstein:
+    He was duped
+
+[5:41 AM] Other Participant:
+    WTF
+
+[5:45 AM] Jeffrey Epstein:
+    There is his bail hearing today. Doesn't look good. Pre trial detention . Currently in Brooklyn HOUSE OVERSIGHT 025484
+
+[5:46 AM] Jeffrey Epstein:
+    Can you imagine. He actually , literally , had pictures of some kid fucking a goat. true--!!!
+
+[6:46 AM] Other Participant:
+    He just came into the country!!
+
+[7:21 AM] Other Participant:
+    Any update on our cast???
+
+[7:50 AM] Jeffrey Epstein:
+    Government wants to consider timing and how to control press
+
+[8:11 AM] Other Participant:
+    Fine : but we have a cast we can film sometime late summer / sept???
+
+[9:15 AM] Jeffrey Epstein:
+    Government sensitive to exploitation
+
+[9:16 AM] Jeffrey Epstein:
+    But probably yes
+
+[9:17 AM] Other Participant:
+    Exploitation!!!!
+
+
+────────────────────────────────────────────────────────────────────────────────
+  Wednesday, June 05, 2019
+────────────────────────────────────────────────────────────────────────────────
+
+[3:24 AM] Jeffrey Epstein:
+    https://www.rawstory.com/2019/06/trump-white-house-author-michael-wolff-steve- bannon-has-knowledge-of-trumps-crimes-and-obstruction-of-justice/
+
+[4:19 AM] Other Participant:
+    What an asshole
+
+[4:24 AM] Jeffrey Epstein:
+    UGH!!!
+
+[4:24 AM] Other Participant:
+    Why is he doing this ---its total bs
+
+[4:41 AM] Jeffrey Epstein:
+    He is getting pummeled by these female talking heads. And reacts with flailing
+
+[4:42 AM] Other Participant:
+    BBC crushed him-- he should give it up -- book is going to be a stiff
+
+[4:43 AM] Jeffrey Epstein:
+    I don't know if he senses that. So he is grasping for attention and being soo defensive and weak . That they smell blood.
+
+[4:43 AM] Jeffrey Epstein:
+    Unfortunately I do know that his comments have encouraged some to look to you for answers
+
+[4:44 AM] Other Participant:
+    He phoned it in ; its obvious ; and they hate the fact he has made so much money
+
+[4:44 AM] Other Participant:
+    Burck says I have zero to worry about
+
+[4:53 AM] Jeffrey Epstein:
+    Good but unnecessary should I call mike
+
+[4:54 AM] Other Participant:
+    What are you going to say to him-- he is like a wild animal caught in a trap
+
+[4:58 AM] Jeffrey Epstein:
+    Catch his breath. Measured response s
+
+[4:59 AM] Other Participant:
+    Tell him to lay off me--it's both NOT working and NOT helping
+
+[5:00 AM] Jeffrey Epstein:
+    Ok
+
+[8:59 AM] Jeffrey Epstein:
+    done.
+
+[9:00 AM] Other Participant:
+    Great
+
+[9:13 AM] Jeffrey Epstein:
+    Report from London . Donald now thinks he is king Ivanka a princess. He doesn't need advisors. Expecially generals that held him back . They are too narrow HOUSE OVERSIGHT 025489 minded. He only wants employees. As you had predicted last year
+
+[9:47 AM] Other Participant:
+    Yep london trip not good -- he had gleam in his eye
+
+[12:10 PM] Other Participant:
+    https://www.washingtonexaminer.com/news/steve-bannon-believes-trump- obstructed-justice-michael-wolff-says
+
+[12:10 PM] Other Participant:
+    This is a stone cold lie -- and I have sworn testimony for 35 hours
+
+[12:48 PM] Jeffrey Epstein:
+    Yup
+
+[12:49 PM] Jeffrey Epstein:
+    Hes punch drunk HOUSE OVERSIGHT 025490
+
+[12:49 PM] Other Participant:
+    It's bullshit
+
+[12:50 PM] Jeffrey Epstein:
+    It was yesterday lets see today
+
+[12:51 PM] Other Participant:
+    He should just stop : embarrassing himself , people are now openly mocking him
+
+[12:51 PM] Jeffrey Epstein:
+    His book is number 2
+
+[12:52 PM] Jeffrey Epstein:
+    However number three, you can check is Dr seuss
+
+[12:52 PM] Other Participant:
+    That's Amazon :: comes from the pre orders
+
+[12:53 PM] Jeffrey Epstein:
+    Yes
+
+
+────────────────────────────────────────────────────────────────────────────────
+  Thursday, June 06, 2019
+────────────────────────────────────────────────────────────────────────────────
+
+[2:44 AM] Jeffrey Epstein:
+    Was he better yesterday ?
+
+[2:46 AM] Other Participant:
+    I don't really follow but I didn't see any explosions
+
+[6:07 AM] Other Participant:
+    https://sinoinsider.com/2019/06/risk-watch-how-the-ccp-could-do-a-pearl- harbor-to-survive-the-new-cold-war/#001
+
+[6:07 AM] Other Participant:
+    It's called 'winning'
+
+[7:15 AM] Jeffrey Epstein:
+    I assume your guys are not filming on the island this weekend. I will be in town tue -thurs then Paris
+
+[7:17 AM] Other Participant:
+    K
+
+[9:04 AM] Jeffrey Epstein:
+    We need to talk about kovel. Letter and black bag.
+
+[9:10 AM] Other Participant:
+    As in a kovel agreement re accounting and finance
+
+[9:11 AM] Jeffrey Epstein:
+    Legal privleged
+
+[9:11 AM] Jeffrey Epstein:
+    Recall 0
+
+[9:11 AM] Other Participant:
+    Yes
+
+[9:12 AM] Jeffrey Epstein:
+    We had an hour meeting with govt over casting. face
+
+[9:12 AM] Jeffrey Epstein:
+    Don't send any moneyback until we talk .
+
+[9:16 AM] Other Participant:
+    K-- we need a deal for the entire 'training' very funny, for face to HOUSE OVERSIGHT 025494
+
+[9:37 AM] Jeffrey Epstein:
+    Im aware
+
+[9:37 AM] Jeffrey Epstein:
+    Prep
+
+[9:41 AM] Other Participant:
+    Prep
+
+[9:41 AM] Other Participant:
+    Of course
+
+[12:21 PM] Jeffrey Epstein:
+    when can you speak?
+
+[2:09 PM] Other Participant:
+    Tonight
+
+[2:10 PM] Jeffrey Epstein:
+    K
+
+
+────────────────────────────────────────────────────────────────────────────────
+  Friday, June 07, 2019
+────────────────────────────────────────────────────────────────────────────────
+
+[2:24 AM] Jeffrey Epstein:
+    ?
+
+[2:25 AM] Other Participant:
+    Went late last night
+
+[3:14 AM] Jeffrey Epstein:
+     https://mail.google.com/mail/u/0/#search/victoria%40bigthink.com/WhotKJVRLGnNDsgLwCknfK RfBHhPwSpKnlgZWpZsbTGjvWNzdgfdcFlicDhKgKNNmmgkzCFV
+
+[3:18 AM] Other Participant:
+    ???
+
+[3:21 AM] Jeffrey Epstein:
+    That was a full list of people , not for today. But if you have a moment. You can see https://www.ted.com/talks/david pizarro the strange politics of disgust?language=en talks about measured level of political leanings.
+
+[3:21 AM] Other Participant:
+    K--- for the prep work?
+
+[3:22 AM] Jeffrey Epstein:
+    Since I guess this weekend off I will be back tues - thurs. Davos guy on thurs. lots to discus with you. . are you in town?
+
+[3:23 AM] Other Participant:
+    Tuesday but think have to be in dc starting Wednesday afternoon
+
+[3:24 AM] Jeffrey Epstein:
+    Breakfast tues?
+
+[3:24 AM] Other Participant:
+    Yes and if we can figure everything out let's film as much as we can
+
+[4:07 PM] Jeffrey Epstein:
+    Im watching the gold market. I think china is playing
+
+[4:51 PM] Other Participant:
+    9 June Hong Kong
+
+[5:58 PM] Jeffrey Epstein:
+    ?
+
+[6:00 PM] Jeffrey Epstein:
+    Yes
+
+
+────────────────────────────────────────────────────────────────────────────────
+  Saturday, June 08, 2019
+────────────────────────────────────────────────────────────────────────────────
+
+[4:14 AM] Other Participant:
+    many fun new topics. Is tues your only day?
+
+[4:38 AM] Other Participant:
+    Right now in dc on Wednesday thru weekend
+
+[4:38 AM] Jeffrey Epstein:
+    K
+
+[4:39 AM] Jeffrey Epstein:
+    Will you be coming to Europe?
+
+[4:40 AM] Other Participant:
+    Short answer is yes just don't know when -- many things happening on china and CCP HOUSE OVERSIGHT 025499
+
+[6:56 AM] Jeffrey Epstein:
+    Interesting xi , Putin , talks. When I see you .
+
+[7:31 AM] Other Participant:
+    Yes yes yes
+
+[4:32 PM] Jeffrey Epstein:
+    https://news.yahoo.com/confronted-with-multiple-errors-in-his-new-trump-book- a-testy-michael-wolff-says-you-have-to-trust-me-181252406.html
+
+[4:32 PM] Jeffrey Epstein:
+    .
+
+[4:33 PM] Jeffrey Epstein:
+    pulverized
+
+
+────────────────────────────────────────────────────────────────────────────────
+  Sunday, June 09, 2019
+────────────────────────────────────────────────────────────────────────────────
+
+[3:14 AM] Jeffrey Epstein:
+    Lunch Tuesday? Or dinner.
+
+[3:14 AM] Other Participant:
+    Let's film that day
+
+[3:15 AM] Other Participant:
+    Doing 10 hour live broadcast into mainland China of the Hong Kong protest now- -- 1.6 million in the streets beginning of the end
+
+[5:13 AM] Jeffrey Epstein:
+    I will need to move stuff around. But should work. Have your guys send me the last two interviews please. thx
+
+[5:13 AM] Other Participant:
+    Don't move tell me what time works and we can adjust
+
+[5:26 AM] Jeffrey Epstein:
+    2 pm should work
+
+[5:27 AM] Jeffrey Epstein:
+    Like last time. , try to get some sleep so you are a world class opponent not an open mike type
+
+[5:54 AM] Other Participant:
+    roger
+
+[2:42 PM] Other Participant:
+    https://nypost.com/2019/06/09/bannon-biden-must-release-tax-returns-to- address-china-connections/
+
+[6:36 PM] Jeffrey Epstein:
+    Last two interivews?
+
+
+────────────────────────────────────────────────────────────────────────────────
+  Monday, June 10, 2019
+────────────────────────────────────────────────────────────────────────────────
+
+[3:07 AM] Jeffrey Epstein:
+    But in China, the yuan slipped to its weakest this year after the country's imports fell the most in nearly three years and as talks to end the Sino-U.S. dispute remained deadlocked.
+
+[3:47 AM] Other Participant:
+    What interviews ?
+
+[3:59 AM] Other Participant:
+    Is the Kazak movie any good???
+
+[4:14 AM] Jeffrey Epstein:
+    The last two filming with you
+
+[4:15 AM] Other Participant:
+    They are all out of sequence some from months ago -- Wuxi ones
+
+[4:15 AM] Other Participant:
+    Which ones
+
+[4:20 AM] Jeffrey Epstein:
+    The last two from two weeks ago . thefilms you shot in my house. we can do tomorrow from 3 pm
+
+[4:21 AM] Other Participant:
+    Yes yes yes -- your interviews -- yes , they were great will get to u today
+
+[7:31 AM] Other Participant:
+    Can we make this deal today so I can pull my crew off other stuff they are working on and get this thing done -- we are burning daylight
+
+[7:59 AM] Jeffrey Epstein:
+    YEs. Do you have a lawyer . ? we need to document past and future, all needs surgical care.
+
+[8:06 AM] Other Participant:
+    Yes
+
+[8:06 AM] Other Participant:
+    But we are in terms agreed???
+
+[8:09 AM] Jeffrey Epstein:
+    As always
+
+
+────────────────────────────────────────────────────────────────────────────────
+  Tuesday, June 11, 2019
+────────────────────────────────────────────────────────────────────────────────
+
+[6:11 AM] Other Participant:
+    We set for today???
+
+[6:27 AM] Jeffrey Epstein:
+    Yes
+
+[6:29 AM] Other Participant:
+    3 to 6??? HOUSE OVERSIGHT 025505
+
+[6:40 AM] Jeffrey Epstein:
+    Ok. I m aware you are busy. -however- Id appreciate at least -a proposed - schedule. Paris, ranch -island were all missed opportunities since April . I am focused on you WINNING! So no worries.
+
+[6:41 AM] Jeffrey Epstein:
+    Movement first. My Europe/ mideast schedule is getting cramped already
+
+[6:44 AM] Other Participant:
+    We have to do a sked and we will but my crew doesn't think we are doing a film so they are out on other projects -- as soon as we get locked down you will be OVER sked !!!
+
+[6:44 AM] Other Participant:
+    How is the cast coming together
+
+[11:31 AM] Jeffrey Epstein:
+    Eta? HOUSE OVERSIGHT 025506
+
+[11:32 AM] Other Participant:
+    3-- that's when u said u had-- I can come now
+
+[11:33 AM] Jeffrey Epstein:
+    come just arrived
+
+[11:33 AM] Other Participant:
+    K
+
+[11:51 AM] Other Participant:
+    Rolling up in 5 minutes
+
+[11:56 AM] Other Participant:
+    I'm here on set
+
+[1:05 PM] Other Participant:
+    Ready
+
+[3:00 PM] Other Participant:
+    Today = great
+
+[3:22 PM] Jeffrey Epstein:
+    Helicopter pilot who crashed on NYC skyscraper shouldn't have been in the air, FAA says Timothy McCormack did not have the required certificate that would have allowed him to legally fly in poor visibility conditions and rely on instruments.
+
+[4:11 PM] Other Participant:
+    I'm blown away-- he was pilot for ceos
+
+[5:54 PM] Other Participant:
+    3 pm tomorrow ?
+
+[6:13 PM] Jeffrey Epstein:
+    K
+
+[6:14 PM] Other Participant:
+    Does that work
+
+[6:14 PM] Jeffrey Epstein:
+    Ill call the pilots. ..should
+
+[6:23 PM] Other Participant:
+    K
+
+[6:24 PM] Jeffrey Epstein:
+    Biden says he is going to cure cancer. Leading with his chin
+
+[6:24 PM] Jeffrey Epstein:
+    Or China
+
+[6:26 PM] Jeffrey Epstein:
+    Mandinka males would dress up in order to resolve domestic disputes. [21 In the 18th century mumbo jumbo referred to a West African god.
+
+[6:27 PM] Other Participant:
+    That phrase got to guys HOUSE OVERSIGHT 025510
+
+================================================================================
+END OF CONVERSATION
+================================================================================
 ```
 
 *[Text truncated to 5000 characters]*

@@ -31,7 +31,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](barack-obama.md) - 7 shared documents
 - [White House](white-house.md) - 5 shared documents
 
 **Organizations:**
@@ -40,20 +39,19 @@ Top 10 documents by mention frequency:
 - [The New Yorker](../organizations/the-new-yorker.md) - 8 shared documents
 - [BBC](../organizations/bbc.md) - 7 shared documents
 - [the New York Times](../organizations/the-new-york-times.md) - 7 shared documents
-- [Harvard](../organizations/harvard.md) - 6 shared documents
 
 **Locations:**
 
 - [Florida](../locations/florida.md) - 10 shared documents
 - [America](../locations/america.md) - 9 shared documents
-- [London](../locations/london.md) - 8 shared documents
 - [Arizona](../locations/arizona.md) - 8 shared documents
-- [Germany](../locations/germany.md) - 7 shared documents
+- [London](../locations/london.md) - 8 shared documents
 - [Australia](../locations/australia.md) - 7 shared documents
+- [Germany](../locations/germany.md) - 7 shared documents
+- [Arizona State](../locations/arizona-state.md) - 6 shared documents
 - [California](../locations/california.md) - 6 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
+- [France](../locations/france.md) - 6 shared documents
+- [India](../locations/india.md) - 6 shared documents
 
 **Events:**
 
@@ -62,11 +60,11 @@ Top 10 documents by mention frequency:
 - [2006](../events/2006.md) - 10 shared documents
 - [2014](../events/2014.md) - 9 shared documents
 - [this year](../events/this-year.md) - 9 shared documents
+- [earlier this year](../events/earlier-this-year.md) - 8 shared documents
 - [October](../events/october.md) - 8 shared documents
 - [today](../events/today.md) - 8 shared documents
-- [earlier this year](../events/earlier-this-year.md) - 8 shared documents
 - [weeks](../events/weeks.md) - 8 shared documents
-- [2011](../events/2011.md) - 7 shared documents
+- [2010](../events/2010.md) - 7 shared documents
 
 ## Timeline
 

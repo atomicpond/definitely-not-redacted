@@ -30,43 +30,42 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Mr. Obama](obama.md) - 7 shared documents
+- [Barack Obama](barack-obama.md) - 7 shared documents
 - [New
 York](new-york.md) - 6 shared documents
 - [Jeffrey E](jeffrey-e.md) - 5 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 5 shared documents
-- [Bay Area](bay-area.md) - 4 shared documents
-- [Barack Obama](barack-obama.md) - 4 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 10 shared documents
 - [Harvard](../organizations/harvard.md) - 6 shared documents
 - [CNN](../organizations/cnn.md) - 4 shared documents
-- [CTT](../organizations/ctt.md) - 4 shared documents
 
 **Locations:**
 
 - [US](../locations/us.md) - 13 shared documents
 - [China](../locations/china.md) - 11 shared documents
-- [New York](../locations/new-york.md) - 8 shared documents
 - [London](../locations/london.md) - 8 shared documents
+- [New York](../locations/new-york.md) - 8 shared documents
 - [N.Y.](../locations/ny.md) - 7 shared documents
-- [the United States](../locations/the-united-states.md) - 6 shared documents
-- [Oxford](../locations/oxford.md) - 6 shared documents
 - [D.C.](../locations/dc.md) - 6 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
+- [Oxford](../locations/oxford.md) - 6 shared documents
+- [the United States](../locations/the-united-states.md) - 6 shared documents
+- [Asia](../locations/asia.md) - 5 shared documents
+- [Beijing](../locations/beijing.md) - 5 shared documents
 
 **Events:**
 
+- [12 years](../events/12-years.md) - 5 shared documents
 - [2009](../events/2009.md) - 5 shared documents
 - [today](../events/today.md) - 5 shared documents
-- [12 years](../events/12-years.md) - 5 shared documents
+- [1987](../events/1987.md) - 4 shared documents
 - [2004](../events/2004.md) - 4 shared documents
 - [2007](../events/2007.md) - 4 shared documents
-- [this week](../events/this-week.md) - 4 shared documents
 - [May](../events/may.md) - 4 shared documents
+- [September](../events/september.md) - 4 shared documents
+- [this week](../events/this-week.md) - 4 shared documents
 
 ## Timeline
 

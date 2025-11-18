@@ -36,11 +36,11 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [2003](2003.md) - 5 shared documents
-- [1993](1993.md) - 5 shared documents
 - [1984](1984.md) - 5 shared documents
 - [1991](1991.md) - 5 shared documents
+- [1993](1993.md) - 5 shared documents
 - [1995](1995.md) - 5 shared documents
+- [2003](2003.md) - 5 shared documents
 - [decades](decades.md) - 4 shared documents
 
 ## Timeline

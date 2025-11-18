@@ -38,35 +38,30 @@ Top 7 documents by mention frequency:
 - [CVRA](cvra.md) - 5 shared documents
 - [Government](government.md) - 5 shared documents
 - [State](state.md) - 5 shared documents
-- [Congress](congress.md) - 4 shared documents
-- [Court](court.md) - 4 shared documents
-- [Cassell](cassell.md) - 4 shared documents
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 6 shared documents
-- [Florida](../locations/florida.md) - 6 shared documents
-- [Virginia](../locations/virginia.md) - 6 shared documents
 - [Fla.](../locations/fla.md) - 6 shared documents
+- [Florida](../locations/florida.md) - 6 shared documents
 - [S.D.](../locations/sd.md) - 6 shared documents
+- [United States](../locations/united-states.md) - 6 shared documents
+- [Virginia](../locations/virginia.md) - 6 shared documents
 - [New York](../locations/new-york.md) - 5 shared documents
-- [U.S.](../locations/us.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 4 shared documents
-- [West Palm Beach](../locations/west-palm-beach.md) - 4 shared documents
+- [U.S.](../locations/us.md) - 5 shared documents
 
 **Events:**
 
 - [1993](../events/1993.md) - 6 shared documents
 - [2001](../events/2001.md) - 6 shared documents
 - [2008](../events/2008.md) - 6 shared documents
-- [2007](../events/2007.md) - 5 shared documents
+- [18 U.S.C. § 3771](../events/18-usc-3771.md) - 5 shared documents
 - [1999](../events/1999.md) - 5 shared documents
+- [2007](../events/2007.md) - 5 shared documents
 - [2010](../events/2010.md) - 5 shared documents
 - [2013](../events/2013.md) - 5 shared documents
-- [18 U.S.C. § 3771](../events/18-usc-3771.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [2004](../events/2004.md) - 4 shared documents
+- [14](../events/14.md) - 4 shared documents
+- [16](../events/16.md) - 4 shared documents
 
 ## Timeline
 

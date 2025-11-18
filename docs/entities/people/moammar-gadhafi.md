@@ -25,34 +25,33 @@ Top 6 documents by mention frequency:
 
 **People:**
 
-- [Mr. Obama](obama.md) - 5 shared documents
-- [Barack Obama](barack-obama.md) - 5 shared documents
 - [Assad](assad.md) - 5 shared documents
+- [Barack Obama](barack-obama.md) - 5 shared documents
 
 **Organizations:**
 
 - [Hamas](../organizations/hamas.md) - 6 shared documents
-- [White House](../organizations/white-house.md) - 5 shared documents
-- [Congress](../organizations/congress.md) - 5 shared documents
-- [the White House](../organizations/the-white-house.md) - 5 shared documents
-- [Washington Post](../organizations/washington-post.md) - 5 shared documents
 - [al-Qaeda](../organizations/al-qaeda.md) - 5 shared documents
+- [Congress](../organizations/congress.md) - 5 shared documents
 - [Fatah](../organizations/fatah.md) - 5 shared documents
 - [the Muslim Brotherhood](../organizations/the-muslim-brotherhood.md) - 5 shared documents
+- [the White House](../organizations/the-white-house.md) - 5 shared documents
 - [UN](../organizations/un.md) - 5 shared documents
+- [Washington Post](../organizations/washington-post.md) - 5 shared documents
+- [White House](../organizations/white-house.md) - 5 shared documents
 
 **Locations:**
 
-- [the Middle East](../locations/the-middle-east.md) - 6 shared documents
+- [Egypt](../locations/egypt.md) - 6 shared documents
 - [Iran](../locations/iran.md) - 6 shared documents
 - [Iraq](../locations/iraq.md) - 6 shared documents
+- [Israel](../locations/israel.md) - 6 shared documents
+- [Lebanon](../locations/lebanon.md) - 6 shared documents
 - [Libya](../locations/libya.md) - 6 shared documents
+- [Palestine](../locations/palestine.md) - 6 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 6 shared documents
 - [Syria](../locations/syria.md) - 6 shared documents
-- [Israel](../locations/israel.md) - 6 shared documents
-- [Turkey](../locations/turkey.md) - 6 shared documents
-- [Egypt](../locations/egypt.md) - 6 shared documents
-- [Lebanon](../locations/lebanon.md) - 6 shared documents
+- [Tehran](../locations/tehran.md) - 6 shared documents
 
 **Events:**
 

@@ -38,9 +38,9 @@ Top 10 documents by mention frequency:
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 9 shared documents
+- [BlackBerry](../organizations/blackberry.md) - 5 shared documents
 - [Merrill Lynch](../organizations/merrill-lynch.md) - 5 shared documents
 - [Trump](../organizations/trump.md) - 5 shared documents
-- [BlackBerry](../organizations/blackberry.md) - 5 shared documents
 - [Pierce, Fenner & Smith Incorporated](../organizations/pierce-fenner-smith-incorporated.md) - 4 shared documents
 
 **Locations:**

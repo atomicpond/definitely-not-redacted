@@ -48,22 +48,22 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [Dubai](../locations/dubai.md) - 18 shared documents
-- [Japan](../locations/japan.md) - 18 shared documents
-- [Brazil](../locations/brazil.md) - 18 shared documents
-- [Canada](../locations/canada.md) - 18 shared documents
-- [Mexico](../locations/mexico.md) - 18 shared documents
 - [Asia](../locations/asia.md) - 18 shared documents
 - [Australia](../locations/australia.md) - 18 shared documents
+- [Brazil](../locations/brazil.md) - 18 shared documents
+- [Canada](../locations/canada.md) - 18 shared documents
+- [Dubai](../locations/dubai.md) - 18 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 18 shared documents
-- [Singapore](../locations/singapore.md) - 18 shared documents
 - [India](../locations/india.md) - 18 shared documents
+- [Indonesia](../locations/indonesia.md) - 18 shared documents
+- [Japan](../locations/japan.md) - 18 shared documents
+- [Mexico](../locations/mexico.md) - 18 shared documents
 
 **Events:**
 
 - [1959](../events/1959.md) - 17 shared documents
-- [the day](../events/the-day.md) - 17 shared documents
 - [198602883D](../events/198602883d.md) - 17 shared documents
+- [the day](../events/the-day.md) - 17 shared documents
 
 ## Timeline
 

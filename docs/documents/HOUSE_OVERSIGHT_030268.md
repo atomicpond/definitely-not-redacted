@@ -15,7 +15,7 @@
 
 ### People
 - [Allawi](../entities/people/allawi.md) - 18 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 12 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 12 mentions
 - [Maliki](../entities/people/maliki.md) - 12 mentions
 - [Muslim 
 Brotherhood](../entities/people/muslim-brotherhood.md) - 6 mentions

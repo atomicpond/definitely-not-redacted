@@ -40,34 +40,30 @@ York Times](new-york-times.md) - 5 shared documents
 - [Harvard](../organizations/harvard.md) - 7 shared documents
 - [HOUSE](../organizations/house.md) - 5 shared documents
 - [the New York Times](../organizations/the-new-york-times.md) - 5 shared documents
-- [White House](../organizations/white-house.md) - 4 shared documents
-- [FBI](../organizations/fbi.md) - 4 shared documents
 
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 6 shared documents
 - [US](../locations/us.md) - 6 shared documents
-- [New York](../locations/new-york.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 5 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
 - [America](../locations/america.md) - 4 shared documents
+- [Europe](../locations/europe.md) - 4 shared documents
 - [France](../locations/france.md) - 4 shared documents
+- [Germany](../locations/germany.md) - 4 shared documents
 
 **Events:**
 
 - [October](../events/october.md) - 8 shared documents
 - [2006](../events/2006.md) - 7 shared documents
+- [1981](../events/1981.md) - 5 shared documents
 - [2007](../events/2007.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [last year](../events/last-year.md) - 5 shared documents
-- [this year](../events/this-year.md) - 5 shared documents
 - [July](../events/july.md) - 5 shared documents
 - [last week](../events/last-week.md) - 5 shared documents
+- [last year](../events/last-year.md) - 5 shared documents
+- [this year](../events/this-year.md) - 5 shared documents
 - [three years](../events/three-years.md) - 5 shared documents
-- [two years](../events/two-years.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
 
 ## Timeline
 

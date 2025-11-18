@@ -35,17 +35,17 @@ Top 5 documents by mention frequency:
 **Locations:**
 
 - [Palm Beach](../locations/palm-beach.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
 - [Florida](../locations/florida.md) - 4 shared documents
 - [Manhattan](../locations/manhattan.md) - 4 shared documents
-- [New York City](../locations/new-york-city.md) - 4 shared documents
 - [New Mexico](../locations/new-mexico.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
+- [New York City](../locations/new-york-city.md) - 4 shared documents
 
 **Events:**
 
 - [2006](../events/2006.md) - 5 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
 - [2005](../events/2005.md) - 4 shared documents
+- [Sunday](../events/sunday.md) - 4 shared documents
 
 ## Timeline
 

@@ -43,28 +43,28 @@ Top 7 documents by mention frequency:
 **Locations:**
 
 - [California](../locations/california.md) - 7 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
 - [Africa](../locations/africa.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
 - [Canada](../locations/canada.md) - 5 shared documents
+- [Chicago](../locations/chicago.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
+- [Manhattan](../locations/manhattan.md) - 5 shared documents
+- [Paris](../locations/paris.md) - 5 shared documents
 
 **Events:**
 
 - [Monday](../events/monday.md) - 6 shared documents
+- [Saturday](../events/saturday.md) - 6 shared documents
 - [Sunday](../events/sunday.md) - 6 shared documents
 - [years](../events/years.md) - 6 shared documents
-- [Saturday](../events/saturday.md) - 6 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [2000](../events/2000.md) - 5 shared documents
-- [daily](../events/daily.md) - 5 shared documents
+- [1963](../events/1963.md) - 5 shared documents
+- [1964](../events/1964.md) - 5 shared documents
+- [1979](../events/1979.md) - 5 shared documents
+- [1980](../events/1980.md) - 5 shared documents
 - [1997](../events/1997.md) - 5 shared documents
-- [2001](../events/2001.md) - 5 shared documents
-- [Friday](../events/friday.md) - 5 shared documents
+- [2000](../events/2000.md) - 5 shared documents
 
 ## Timeline
 

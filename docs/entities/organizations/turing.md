@@ -34,33 +34,30 @@ Top 7 documents by mention frequency:
 
 **Organizations:**
 
-- [NASA](nasa.md) - 6 shared documents
-- [Google](google.md) - 6 shared documents
-- [Cambridge University](cambridge-university.md) - 6 shared documents
 - [Twitter](twitter.md) - 5 shared documents
 - [University Press](university-press.md) - 5 shared documents
 - [Wolfram](wolfram.md) - 5 shared documents
 
 **Locations:**
 
-- [China](../locations/china.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
-- [Germany](../locations/germany.md) - 6 shared documents
 - [America](../locations/america.md) - 6 shared documents
-- [Cambridge](../locations/cambridge.md) - 6 shared documents
 - [Boston](../locations/boston.md) - 6 shared documents
+- [Cambridge](../locations/cambridge.md) - 6 shared documents
+- [China](../locations/china.md) - 6 shared documents
+- [Germany](../locations/germany.md) - 6 shared documents
+- [Princeton](../locations/princeton.md) - 6 shared documents
 
 **Events:**
 
 - [2012](../events/2012.md) - 7 shared documents
-- [2003](../events/2003.md) - 6 shared documents
-- [2004](../events/2004.md) - 6 shared documents
-- [2009](../events/2009.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [1996](../events/1996.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
-- [2011](../events/2011.md) - 6 shared documents
+- [1950](../events/1950.md) - 6 shared documents
+- [1964](../events/1964.md) - 6 shared documents
 - [1970](../events/1970.md) - 6 shared documents
+- [1972](../events/1972.md) - 6 shared documents
+- [1973](../events/1973.md) - 6 shared documents
+- [1976](../events/1976.md) - 6 shared documents
+- [1981](../events/1981.md) - 6 shared documents
+- [1983](../events/1983.md) - 6 shared documents
 - [1990](../events/1990.md) - 6 shared documents
 
 ## Timeline

@@ -30,7 +30,6 @@ Top 6 documents by mention frequency:
 - [General Partners](general-partners.md) - 4 shared documents
 - [Goldman Sachs](goldman-sachs.md) - 4 shared documents
 - [Legal Counsel](legal-counsel.md) - 4 shared documents
-- [President Obama](president-obama.md) - 4 shared documents
 - [Asia Pacific](asia-pacific.md) - 4 shared documents
 
 **Organizations:**
@@ -38,36 +37,36 @@ Top 6 documents by mention frequency:
 - [Harvard University](../organizations/harvard-university.md) - 5 shared documents
 - [MIT](../organizations/mit.md) - 5 shared documents
 - [Stanford University](../organizations/stanford-university.md) - 5 shared documents
-- [McKinsey & Co.](../organizations/mckinsey-co.md) - 4 shared documents
-- [Ford](../organizations/ford.md) - 4 shared documents
-- [State](../organizations/state.md) - 4 shared documents
-- [Treasury](../organizations/treasury.md) - 4 shared documents
-- [CFO](../organizations/cfo.md) - 4 shared documents
-- [Goldman Sachs](../organizations/goldman-sachs.md) - 4 shared documents
 - [American Express](../organizations/american-express.md) - 4 shared documents
+- [Business Development](../organizations/business-development.md) - 4 shared documents
+- [CFO](../organizations/cfo.md) - 4 shared documents
+- [COO](../organizations/coo.md) - 4 shared documents
+- [Ford](../organizations/ford.md) - 4 shared documents
+- [Goldman Sachs](../organizations/goldman-sachs.md) - 4 shared documents
+- [Harvard Business School](../organizations/harvard-business-school.md) - 4 shared documents
 
 **Locations:**
 
 - [Japan](../locations/japan.md) - 6 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
-- [San Francisco](../locations/san-francisco.md) - 5 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
 - [Netherlands](../locations/netherlands.md) - 5 shared documents
+- [San Francisco](../locations/san-francisco.md) - 5 shared documents
 - [New York](../locations/new-york.md) - 4 shared documents
-- [U.S.](../locations/us.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
 - [New York City](../locations/new-york-city.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
+- [U.S.](../locations/us.md) - 4 shared documents
 - [Utah](../locations/utah.md) - 4 shared documents
 
 **Events:**
 
+- [2005-2006](../events/2005-2006.md) - 4 shared documents
 - [2007](../events/2007.md) - 4 shared documents
 - [2009](../events/2009.md) - 4 shared documents
-- [2014](../events/2014.md) - 4 shared documents
 - [2011](../events/2011.md) - 4 shared documents
 - [2013](../events/2013.md) - 4 shared documents
+- [2014](../events/2014.md) - 4 shared documents
 - [weekly](../events/weekly.md) - 4 shared documents
-- [2005-2006](../events/2005-2006.md) - 4 shared documents
 
 ## Timeline
 

@@ -58,12 +58,12 @@ Top 10 documents by mention frequency:
 - [today](today.md) - 12 shared documents
 - [three years](three-years.md) - 11 shared documents
 - [years](years.md) - 11 shared documents
-- [daily](daily.md) - 11 shared documents
 - [a year](a-year.md) - 11 shared documents
+- [daily](daily.md) - 11 shared documents
 - [the day](the-day.md) - 11 shared documents
 - [two years](two-years.md) - 10 shared documents
-- [2007](2007.md) - 10 shared documents
 - [1999](1999.md) - 10 shared documents
+- [2007](2007.md) - 10 shared documents
 - [decades](decades.md) - 10 shared documents
 
 ## Timeline

@@ -27,28 +27,23 @@ Top 8 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](barack-obama.md) - 5 shared documents
 - [Cold War](cold-war.md) - 5 shared documents
-- [President Obama](president-obama.md) - 5 shared documents
 
 **Organizations:**
 
 - [FBI](../organizations/fbi.md) - 7 shared documents
-- [Facebook](../organizations/facebook.md) - 6 shared documents
-- [Twitter](../organizations/twitter.md) - 6 shared documents
-- [Harvard](../organizations/harvard.md) - 6 shared documents
 
 **Locations:**
 
 - [Europe](../locations/europe.md) - 8 shared documents
 - [London](../locations/london.md) - 8 shared documents
-- [United States](../locations/united-states.md) - 7 shared documents
-- [Japan](../locations/japan.md) - 7 shared documents
 - [America](../locations/america.md) - 7 shared documents
-- [the United States](../locations/the-united-states.md) - 7 shared documents
-- [Manhattan](../locations/manhattan.md) - 7 shared documents
 - [Hollywood](../locations/hollywood.md) - 7 shared documents
-- [California](../locations/california.md) - 6 shared documents
-- [Earth](../locations/earth.md) - 6 shared documents
+- [Japan](../locations/japan.md) - 7 shared documents
+- [Manhattan](../locations/manhattan.md) - 7 shared documents
+- [the United States](../locations/the-united-states.md) - 7 shared documents
+- [United States](../locations/united-states.md) - 7 shared documents
 
 **Events:**
 
@@ -56,12 +51,12 @@ Top 8 documents by mention frequency:
 - [2009](../events/2009.md) - 8 shared documents
 - [2010](../events/2010.md) - 8 shared documents
 - [the day](../events/the-day.md) - 8 shared documents
-- [today](../events/today.md) - 7 shared documents
+- [1991](../events/1991.md) - 7 shared documents
 - [2011](../events/2011.md) - 7 shared documents
 - [Friday](../events/friday.md) - 7 shared documents
-- [1991](../events/1991.md) - 7 shared documents
-- [2004](../events/2004.md) - 6 shared documents
-- [1996](../events/1996.md) - 6 shared documents
+- [today](../events/today.md) - 7 shared documents
+- [1961](../events/1961.md) - 6 shared documents
+- [1964](../events/1964.md) - 6 shared documents
 
 ## Timeline
 

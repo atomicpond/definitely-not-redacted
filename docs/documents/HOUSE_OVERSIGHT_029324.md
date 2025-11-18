@@ -13,7 +13,7 @@
 - [Ed Boyden](../entities/people/ed-boyden.md) - 2 mentions
 - [Neil Gershenfeld](../entities/people/neil-gershenfeld.md) - 1 mention
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Lesley Groff 
 Sent](../entities/people/lesley-groff-sent.md) - 1 mention
 

@@ -32,15 +32,15 @@ Top 10 documents by mention frequency:
 - [Larry Visoski](../people/larry-visoski.md) - 9 shared documents
 - [Larry Visoski 
 Sent](../people/larry-visoski-sent.md) - 9 shared documents
-- [larry](../people/larry.md) - 5 shared documents
+- [Lawrence Krauss](../people/lawrence-krauss.md) - 5 shared documents
 - [Thx 
 Larry](../people/thx-larry.md) - 5 shared documents
 - [Jeffrey](../people/jeffrey.md) - 4 shared documents
 
 **Organizations:**
 
-- [Trump](trump.md) - 6 shared documents
 - [PBI](pbi.md) - 6 shared documents
+- [Trump](trump.md) - 6 shared documents
 - [HOUSE](house.md) - 5 shared documents
 - [iPhone](iphone.md) - 5 shared documents
 
@@ -52,8 +52,8 @@ Larry](../people/thx-larry.md) - 5 shared documents
 **Events:**
 
 - [Sunday](../events/sunday.md) - 5 shared documents
-- [today](../events/today.md) - 4 shared documents
 - [Saturday](../events/saturday.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

@@ -27,7 +27,7 @@ Top 5 documents by mention frequency:
 
 - [Charlie Rose](../people/charlie-rose.md) - 4 shared documents
 - [jeffrey E.](../people/jeffrey-e.md) - 4 shared documents
-- [jeffrey E. <](../people/jeffrey-e.md) - 4 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 4 shared documents
 - [Thomas Jr](../people/thomas-jr.md) - 4 shared documents
 - [Thomas Jr.](../people/thomas-jr.md) - 4 shared documents
 

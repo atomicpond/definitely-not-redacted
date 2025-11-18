@@ -28,10 +28,6 @@ Top 10 documents by mention frequency:
 
 ### Most Frequently Co-occurring Entities
 
-**People:**
-
-- [Mr. Bannon](bannon.md) - 5 shared documents
-
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 9 shared documents
@@ -40,9 +36,9 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 5 shared documents
 - [China](../locations/china.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
 - [Russia](../locations/russia.md) - 4 shared documents
 - [Washington](../locations/washington.md) - 4 shared documents
 

@@ -30,20 +30,20 @@ Top 6 documents by mention frequency:
 **Locations:**
 
 - [China](../locations/china.md) - 6 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
-- [Mexico](../locations/mexico.md) - 4 shared documents
-- [Asia](../locations/asia.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
-- [India](../locations/india.md) - 4 shared documents
-- [Moscow](../locations/moscow.md) - 4 shared documents
 - [Argentina](../locations/argentina.md) - 4 shared documents
+- [Asia](../locations/asia.md) - 4 shared documents
+- [Europe](../locations/europe.md) - 4 shared documents
+- [India](../locations/india.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
+- [Mexico](../locations/mexico.md) - 4 shared documents
+- [Moscow](../locations/moscow.md) - 4 shared documents
+- [Russia](../locations/russia.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
 
 **Events:**
 
-- [2015](../events/2015.md) - 4 shared documents
 - [2001](../events/2001.md) - 4 shared documents
+- [2015](../events/2015.md) - 4 shared documents
 
 ## Timeline
 

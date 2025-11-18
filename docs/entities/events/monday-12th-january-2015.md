@@ -27,10 +27,8 @@ Top 6 documents by mention frequency:
 
 - [Bill 
 Clinton](../people/bill-clinton.md) - 6 shared documents
-- [Clintons](../people/clintons.md) - 6 shared documents
 - [David Pegg](../people/david-pegg.md) - 6 shared documents
-- [Epstein](../people/epstein.md) - 6 shared documents
-- [Hilary Clinton](../people/hilary-clinton.md) - 6 shared documents
+- [Hillary Clinton](../people/hillary-clinton.md) - 6 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 6 shared documents
 - [Kevin Spacey](../people/kevin-spacey.md) - 6 shared documents
 - [Leslie Wexner](../people/leslie-wexner.md) - 6 shared documents
@@ -63,12 +61,12 @@ FAMILY INTEREST L.P.](../organizations/sa-family-interest-lp.md) - 5 shared docu
 **Events:**
 
 - [Monday 2nd February 2015](monday-2nd-february-2015.md) - 6 shared documents
-- [2012](2012.md) - 6 shared documents
-- [2008](2008.md) - 6 shared documents
-- [Earlier this month](earlier-this-month.md) - 6 shared documents
 - [18 months](18-months.md) - 6 shared documents
-- [5 January 2015](5-january-2015.md) - 6 shared documents
+- [2008](2008.md) - 6 shared documents
+- [2012](2012.md) - 6 shared documents
 - [29 January 2015](29-january-2015.md) - 6 shared documents
+- [5 January 2015](5-january-2015.md) - 6 shared documents
+- [Earlier this month](earlier-this-month.md) - 6 shared documents
 
 ## Timeline
 

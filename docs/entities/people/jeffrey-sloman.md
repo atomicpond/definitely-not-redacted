@@ -33,8 +33,8 @@ Top 9 documents by mention frequency:
 - [Kenneth W. Starr](kenneth-w-starr.md) - 5 shared documents
 - [Pennsylvania Avenue](pennsylvania-avenue.md) - 5 shared documents
 - [Roy Black](roy-black.md) - 5 shared documents
-- [Jane Doe](jane-doe.md) - 5 shared documents
 - [Alex Acosta](alex-acosta.md) - 5 shared documents
+- [Jane Doe](jane-doe.md) - 5 shared documents
 
 **Organizations:**
 
@@ -44,34 +44,35 @@ Top 9 documents by mention frequency:
 - [USAO](../organizations/usao.md) - 6 shared documents
 - [CEOS](../organizations/ceos.md) - 5 shared documents
 - [Kirkland & Ellis LLP](../organizations/kirkland-ellis-llp.md) - 5 shared documents
-- [HOUSE](../organizations/house.md) - 4 shared documents
 - [Congress](../organizations/congress.md) - 4 shared documents
 - [Court](../organizations/court.md) - 4 shared documents
+- [HOUSE](../organizations/house.md) - 4 shared documents
 - [Supreme Court](../organizations/supreme-court.md) - 4 shared documents
 
 **Locations:**
 
 - [Miami](../locations/miami.md) - 8 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 8 shared documents
-- [Washington](../locations/washington.md) - 7 shared documents
 - [the United States](../locations/the-united-states.md) - 7 shared documents
-- [New York](../locations/new-york.md) - 6 shared documents
+- [Washington](../locations/washington.md) - 7 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 6 shared documents
+- [New York](../locations/new-york.md) - 6 shared documents
 - [U.S.](../locations/us.md) - 6 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 6 shared documents
-- [California](../locations/california.md) - 5 shared documents
-- [USA](../locations/usa.md) - 5 shared documents
+- [777 South Figueroa Street](../locations/777-south-figueroa-street.md) - 5 shared documents
+- [950 Pennsylvania Avenue](../locations/950-pennsylvania-avenue.md) - 5 shared documents
 
 **Events:**
 
 - [two-year](../events/two-year.md) - 6 shared documents
 - [June 2, 2008](../events/june-2-2008.md) - 5 shared documents
 - [May 19, 2008](../events/may-19-2008.md) - 5 shared documents
+- [2006](../events/2006.md) - 4 shared documents
 - [2007](../events/2007.md) - 4 shared documents
+- [2011](../events/2011.md) - 4 shared documents
+- [the day](../events/the-day.md) - 4 shared documents
 - [Thursday](../events/thursday.md) - 4 shared documents
 - [today](../events/today.md) - 4 shared documents
-- [2011](../events/2011.md) - 4 shared documents
-- [2006](../events/2006.md) - 4 shared documents
 
 ## Timeline
 

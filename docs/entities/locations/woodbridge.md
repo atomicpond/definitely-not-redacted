@@ -56,27 +56,27 @@ Top 8 documents by mention frequency:
 
 - [Virginia](virginia.md) - 7 shared documents
 - [Florida](florida.md) - 6 shared documents
-- [Palm Beach](palm-beach.md) - 6 shared documents
-- [Holland](holland.md) - 6 shared documents
 - [HENDERSON](henderson.md) - 6 shared documents
+- [Holland](holland.md) - 6 shared documents
+- [Palm Beach](palm-beach.md) - 6 shared documents
 - [Charlotte](charlotte.md) - 5 shared documents
 - [Flint](flint.md) - 5 shared documents
 - [NORTH LAKE](north-lake.md) - 5 shared documents
-- [Nevada](nevada.md) - 4 shared documents
 - [Illinois](illinois.md) - 4 shared documents
+- [Nevada](nevada.md) - 4 shared documents
 
 **Events:**
 
+- [1995](../events/1995.md) - 6 shared documents
 - [2000](../events/2000.md) - 6 shared documents
 - [2005](../events/2005.md) - 6 shared documents
 - [winter](../events/winter.md) - 6 shared documents
-- [1995](../events/1995.md) - 6 shared documents
-- [2004](../events/2004.md) - 5 shared documents
 - [1997](../events/1997.md) - 5 shared documents
 - [1998](../events/1998.md) - 5 shared documents
-- [2018](../events/2018.md) - 4 shared documents
-- [2007](../events/2007.md) - 4 shared documents
-- [2017](../events/2017.md) - 4 shared documents
+- [2004](../events/2004.md) - 5 shared documents
+- [1960](../events/1960.md) - 4 shared documents
+- [1976](../events/1976.md) - 4 shared documents
+- [1983](../events/1983.md) - 4 shared documents
 
 ## Timeline
 

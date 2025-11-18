@@ -26,7 +26,6 @@ Top 5 documents by mention frequency:
 
 - [Jeffrey E](jeffrey-e.md) - 5 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 5 shared documents
-- [Jeffrey Epstein VI](jeffrey-epstein-vi.md) - 5 shared documents
 - [Kuhn 
 Importance](kuhn-importance.md) - 5 shared documents
 - [robert](robert.md) - 5 shared documents
@@ -37,14 +36,15 @@ Importance](kuhn-importance.md) - 5 shared documents
 On](robert-on.md) - 5 shared documents
 - [Series Budget](series-budget.md) - 5 shared documents
 - [Series Schedule](series-schedule.md) - 5 shared documents
+- [The Science](the-science.md) - 5 shared documents
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 5 shared documents
 - [BBC](../organizations/bbc.md) - 5 shared documents
-- [PBS](../organizations/pbs.md) - 5 shared documents
-- [Jeffrey Epstein VI Foundation](../organizations/jeffrey-epstein-vi-foundation.md) - 5 shared documents
 - [CTT TV Episodes & Web](../organizations/ctt-tv-episodes-web.md) - 5 shared documents
+- [HOUSE](../organizations/house.md) - 5 shared documents
+- [Jeffrey Epstein VI Foundation](../organizations/jeffrey-epstein-vi-foundation.md) - 5 shared documents
+- [PBS](../organizations/pbs.md) - 5 shared documents
 
 **Locations:**
 
@@ -54,10 +54,10 @@ On](robert-on.md) - 5 shared documents
 **Events:**
 
 - [2017](../events/2017.md) - 5 shared documents
-- [weekly](../events/weekly.md) - 5 shared documents
-- [January 19](../events/january-19.md) - 5 shared documents
 - [a full season](../events/a-full-season.md) - 5 shared documents
 - [Jan 11, 2017](../events/jan-11-2017.md) - 5 shared documents
+- [January 19](../events/january-19.md) - 5 shared documents
+- [weekly](../events/weekly.md) - 5 shared documents
 
 ## Timeline
 

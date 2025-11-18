@@ -48,15 +48,15 @@ Top 7 documents by mention frequency:
 **Events:**
 
 - [the year](the-year.md) - 6 shared documents
-- [2009](2009.md) - 6 shared documents
 - [2001](2001.md) - 6 shared documents
+- [2009](2009.md) - 6 shared documents
 - [2010](2010.md) - 6 shared documents
 - [years](years.md) - 5 shared documents
-- [2015](2015.md) - 5 shared documents
-- [2012](2012.md) - 5 shared documents
-- [daily](daily.md) - 5 shared documents
+- [1981](1981.md) - 5 shared documents
 - [1990](1990.md) - 5 shared documents
 - [1993](1993.md) - 5 shared documents
+- [2006](2006.md) - 5 shared documents
+- [2012](2012.md) - 5 shared documents
 
 ## Timeline
 

@@ -33,9 +33,9 @@ Top 7 documents by mention frequency:
 - [Bloomberg](bloomberg.md) - 6 shared documents
 - [Fed](fed.md) - 5 shared documents
 - [Treasury](treasury.md) - 5 shared documents
+- [Bank](bank.md) - 5 shared documents
 - [Congress](congress.md) - 5 shared documents
 - [ECB](ecb.md) - 5 shared documents
-- [Bank](bank.md) - 5 shared documents
 - [BoJ](boj.md) - 4 shared documents
 
 **Locations:**
@@ -43,22 +43,22 @@ Top 7 documents by mention frequency:
 - [China](../locations/china.md) - 6 shared documents
 - [Europe](../locations/europe.md) - 6 shared documents
 - [Latin America](../locations/latin-america.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
 - [Asia](../locations/asia.md) - 5 shared documents
+- [Germany](../locations/germany.md) - 5 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
 - [Spain](../locations/spain.md) - 5 shared documents
+- [BOE](../locations/boe.md) - 4 shared documents
 - [Brazil](../locations/brazil.md) - 4 shared documents
-- [Canada](../locations/canada.md) - 4 shared documents
 
 **Events:**
 
-- [this year](../events/this-year.md) - 5 shared documents
 - [2013](../events/2013.md) - 5 shared documents
-- [year-end](../events/year-end.md) - 4 shared documents
-- [2012](../events/2012.md) - 4 shared documents
+- [this year](../events/this-year.md) - 5 shared documents
 - [12-month](../events/12-month.md) - 4 shared documents
+- [2012](../events/2012.md) - 4 shared documents
 - [quarterly](../events/quarterly.md) - 4 shared documents
+- [year-end](../events/year-end.md) - 4 shared documents
 
 ## Timeline
 

@@ -36,13 +36,13 @@ Top 7 documents by mention frequency:
 
 **Events:**
 
-- [2000](../events/2000.md) - 4 shared documents
-- [1998](../events/1998.md) - 4 shared documents
-- [2005](../events/2005.md) - 4 shared documents
-- [2002](../events/2002.md) - 4 shared documents
-- [1994](../events/1994.md) - 4 shared documents
 - [1980](../events/1980.md) - 4 shared documents
+- [1994](../events/1994.md) - 4 shared documents
 - [1995](../events/1995.md) - 4 shared documents
+- [1998](../events/1998.md) - 4 shared documents
+- [2000](../events/2000.md) - 4 shared documents
+- [2002](../events/2002.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
 
 ## Timeline
 

@@ -26,34 +26,34 @@ Top 7 documents by mention frequency:
 
 **Organizations:**
 
-- [State](../organizations/state.md) - 5 shared documents
 - [Board](../organizations/board.md) - 5 shared documents
+- [State](../organizations/state.md) - 5 shared documents
 
 **Locations:**
 
 - [China](../locations/china.md) - 6 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
 - [Brazil](../locations/brazil.md) - 4 shared documents
+- [California](../locations/california.md) - 4 shared documents
 - [Canada](../locations/canada.md) - 4 shared documents
-- [Mexico](../locations/mexico.md) - 4 shared documents
-- [Texas](../locations/texas.md) - 4 shared documents
 - [Chicago](../locations/chicago.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
+- [Mexico](../locations/mexico.md) - 4 shared documents
+- [Singapore](../locations/singapore.md) - 4 shared documents
+- [Spain](../locations/spain.md) - 4 shared documents
 
 **Events:**
 
 - [annual](../events/annual.md) - 5 shared documents
 - [today](../events/today.md) - 5 shared documents
-- [1986](../events/1986.md) - 4 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [2004](../events/2004.md) - 4 shared documents
-- [2000](../events/2000.md) - 4 shared documents
-- [2012](../events/2012.md) - 4 shared documents
 - [1985](../events/1985.md) - 4 shared documents
+- [1986](../events/1986.md) - 4 shared documents
+- [1989](../events/1989.md) - 4 shared documents
 - [1990](../events/1990.md) - 4 shared documents
-- [1998](../events/1998.md) - 4 shared documents
+- [1991](../events/1991.md) - 4 shared documents
+- [1992](../events/1992.md) - 4 shared documents
+- [1994](../events/1994.md) - 4 shared documents
+- [1995](../events/1995.md) - 4 shared documents
 
 ## Timeline
 

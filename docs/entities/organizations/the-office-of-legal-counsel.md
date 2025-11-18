@@ -53,19 +53,19 @@ Top 9 documents by mention frequency:
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 7 shared documents
-- [New York](../locations/new-york.md) - 6 shared documents
-- [U.S.](../locations/us.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
 - [America](../locations/america.md) - 6 shared documents
 - [Iraq](../locations/iraq.md) - 6 shared documents
+- [New York](../locations/new-york.md) - 6 shared documents
+- [Russia](../locations/russia.md) - 6 shared documents
+- [U.S.](../locations/us.md) - 6 shared documents
 - [United States](../locations/united-states.md) - 4 shared documents
 
 **Events:**
 
 - [2007](../events/2007.md) - 6 shared documents
 - [2011](../events/2011.md) - 6 shared documents
-- [2008](../events/2008.md) - 5 shared documents
 - [16 months](../events/16-months.md) - 5 shared documents
+- [2008](../events/2008.md) - 5 shared documents
 - [months](../events/months.md) - 4 shared documents
 
 ## Timeline

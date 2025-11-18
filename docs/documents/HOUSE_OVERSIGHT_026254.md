@@ -10,7 +10,7 @@
 
 ### People
 - [Susan Rice](../entities/people/susan-rice.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Steve Bannon](../entities/people/steve-bannon.md) - 1 mention
 - [Steve Bannon 
 Sent](../entities/people/steve-bannon-sent.md) - 1 mention

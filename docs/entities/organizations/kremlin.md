@@ -30,22 +30,21 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [John Brennan](../people/john-brennan.md) - 8 shared documents
-- [Donald 
-Trump](../people/donald-trump.md) - 7 shared documents
 - [Federal Bureau](../people/federal-bureau.md) - 7 shared documents
-- [President Trump](../people/president-trump.md) - 7 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 7 shared documents
 - [Carter Page](../people/carter-page.md) - 6 shared documents
-- [James Comey](../people/james-comey.md) - 6 shared documents
-- [Robert Mueller](../people/robert-mueller.md) - 6 shared documents
 - [Alexander Downer](../people/alexander-downer.md) - 5 shared documents
 - [Although Mr](../people/although-mr.md) - 5 shared documents
+- [Andrew 
+Andrew Grossman](../people/andrew-andrew-grossman.md) - 5 shared documents
+- [Andrew M](../people/andrew-m.md) - 5 shared documents
+- [Anthony Weiner](../people/anthony-weiner.md) - 5 shared documents
+- [Anthony Weiner's](../people/anthony-weiners.md) - 5 shared documents
+- [Attorney General Eric](../people/attorney-general-eric.md) - 5 shared documents
 
 **Organizations:**
 
-- [HOUSE](house.md) - 13 shared documents
 - [CIA](cia.md) - 13 shared documents
+- [HOUSE](house.md) - 13 shared documents
 - [FBI](fbi.md) - 11 shared documents
 - [the New York Times](the-new-york-times.md) - 10 shared documents
 - [Trump](trump.md) - 10 shared documents
@@ -64,9 +63,9 @@ Trump](../people/trump.md) - 7 shared documents
 - [Moscow](../locations/moscow.md) - 8 shared documents
 - [US](../locations/us.md) - 8 shared documents
 - [the United States](../locations/the-united-states.md) - 7 shared documents
+- [America](../locations/america.md) - 6 shared documents
 - [China](../locations/china.md) - 6 shared documents
 - [Europe](../locations/europe.md) - 6 shared documents
-- [Germany](../locations/germany.md) - 6 shared documents
 
 **Events:**
 
@@ -74,11 +73,11 @@ Trump](../people/trump.md) - 7 shared documents
 - [2012](../events/2012.md) - 11 shared documents
 - [months](../events/months.md) - 10 shared documents
 - [1974](../events/1974.md) - 9 shared documents
-- [more than a year](../events/more-than-a-year.md) - 8 shared documents
 - [1973](../events/1973.md) - 8 shared documents
 - [1987](../events/1987.md) - 8 shared documents
-- [today](../events/today.md) - 7 shared documents
+- [more than a year](../events/more-than-a-year.md) - 8 shared documents
 - [June 14](../events/june-14.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
 - [2004](../events/2004.md) - 6 shared documents
 
 ## Timeline

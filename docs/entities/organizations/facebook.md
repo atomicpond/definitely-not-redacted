@@ -33,15 +33,14 @@ Top 10 documents by mention frequency:
 - [White House](../people/white-house.md) - 34 shared documents
 - [Middle East](../people/middle-east.md) - 25 shared documents
 - [San Francisco](../people/san-francisco.md) - 22 shared documents
-- [President Trump](../people/president-trump.md) - 19 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 19 shared documents
-- [Goldman Sachs](../people/goldman-sachs.md) - 17 shared documents
-- [Barack Obama](../people/barack-obama.md) - 16 shared documents
 - [Donald 
-Trump](../people/donald-trump.md) - 16 shared documents
+Trump](../people/donald-trump.md) - 19 shared documents
+- [Goldman Sachs](../people/goldman-sachs.md) - 17 shared documents
 - [European Parliament](../people/european-parliament.md) - 16 shared documents
 - [Nigel Farage](../people/nigel-farage.md) - 16 shared documents
+- [Saudi Arabia](../people/saudi-arabia.md) - 16 shared documents
+- [Los Angeles](../people/los-angeles.md) - 15 shared documents
+- [Michael Wolff](../people/michael-wolff.md) - 15 shared documents
 
 **Organizations:**
 
@@ -66,7 +65,7 @@ Trump](../people/donald-trump.md) - 16 shared documents
 - [China](../locations/china.md) - 36 shared documents
 - [Washington](../locations/washington.md) - 35 shared documents
 - [Russia](../locations/russia.md) - 34 shared documents
-- [United States](../locations/united-states.md) - 31 shared documents
+- [Germany](../locations/germany.md) - 31 shared documents
 - [Japan](../locations/japan.md) - 31 shared documents
 
 **Events:**
@@ -76,11 +75,11 @@ Trump](../people/donald-trump.md) - 16 shared documents
 - [2016](../events/2016.md) - 43 shared documents
 - [2014](../events/2014.md) - 39 shared documents
 - [years](../events/years.md) - 38 shared documents
-- [daily](../events/daily.md) - 33 shared documents
 - [2008](../events/2008.md) - 33 shared documents
+- [daily](../events/daily.md) - 33 shared documents
 - [2011](../events/2011.md) - 32 shared documents
-- [this year](../events/this-year.md) - 29 shared documents
 - [2010](../events/2010.md) - 29 shared documents
+- [this year](../events/this-year.md) - 29 shared documents
 
 ## Timeline
 

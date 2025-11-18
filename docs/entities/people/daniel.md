@@ -28,11 +28,9 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [Mr. Obama](obama.md) - 7 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 6 shared documents
 - [Dean](dean.md) - 5 shared documents
 - [Middle East](middle-east.md) - 5 shared documents
-- [President Obama](president-obama.md) - 5 shared documents
 - [White House](white-house.md) - 5 shared documents
 - [Barack Obama](barack-obama.md) - 4 shared documents
 
@@ -53,11 +51,11 @@ Top 9 documents by mention frequency:
 
 - [2007](../events/2007.md) - 5 shared documents
 - [2009](../events/2009.md) - 5 shared documents
+- [2010](../events/2010.md) - 5 shared documents
 - [2016](../events/2016.md) - 5 shared documents
 - [Thursday](../events/thursday.md) - 5 shared documents
 - [today](../events/today.md) - 5 shared documents
 - [Wednesday](../events/wednesday.md) - 5 shared documents
-- [2010](../events/2010.md) - 5 shared documents
 
 ## Timeline
 

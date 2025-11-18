@@ -38,9 +38,9 @@ Top 9 documents by mention frequency:
 
 **Events:**
 
-- [this week](../events/this-week.md) - 5 shared documents
 - [1/15/2017](../events/1152017.md) - 5 shared documents
 - [15 Jan 2017](../events/15-jan-2017.md) - 5 shared documents
+- [this week](../events/this-week.md) - 5 shared documents
 - [Monday](../events/monday.md) - 4 shared documents
 - [Sunday](../events/sunday.md) - 4 shared documents
 

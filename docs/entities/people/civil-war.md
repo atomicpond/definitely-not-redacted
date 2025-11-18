@@ -23,35 +23,30 @@ Top 6 documents by mention frequency:
 
 ### Most Frequently Co-occurring Entities
 
-**Organizations:**
-
-- [Harvard](../organizations/harvard.md) - 5 shared documents
-
 **Locations:**
 
-- [France](../locations/france.md) - 6 shared documents
-- [the United States](../locations/the-united-states.md) - 6 shared documents
 - [Chicago](../locations/chicago.md) - 6 shared documents
 - [England](../locations/england.md) - 6 shared documents
-- [New York](../locations/new-york.md) - 5 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
+- [France](../locations/france.md) - 6 shared documents
+- [the United States](../locations/the-united-states.md) - 6 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [Boston](../locations/boston.md) - 5 shared documents
+- [Germany](../locations/germany.md) - 5 shared documents
+- [Israel](../locations/israel.md) - 5 shared documents
 - [Italy](../locations/italy.md) - 5 shared documents
 
 **Events:**
 
-- [2000](../events/2000.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
+- [1973](../events/1973.md) - 6 shared documents
+- [1984](../events/1984.md) - 6 shared documents
+- [1987](../events/1987.md) - 6 shared documents
 - [1997](../events/1997.md) - 6 shared documents
 - [1999](../events/1999.md) - 6 shared documents
-- [1984](../events/1984.md) - 6 shared documents
+- [2000](../events/2000.md) - 6 shared documents
 - [2002](../events/2002.md) - 6 shared documents
-- [1973](../events/1973.md) - 6 shared documents
-- [1987](../events/1987.md) - 6 shared documents
-- [2004](../events/2004.md) - 5 shared documents
-- [2009](../events/2009.md) - 5 shared documents
+- [years](../events/years.md) - 6 shared documents
+- [1929](../events/1929.md) - 5 shared documents
+- [1952](../events/1952.md) - 5 shared documents
 
 ## Timeline
 

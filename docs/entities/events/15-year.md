@@ -31,10 +31,9 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 9 shared documents
+- [Barack Obama](../people/barack-obama.md) - 9 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 8 shared documents
 - [Joi Ito](../people/joi-ito.md) - 6 shared documents
-- [Mr. Obama](../people/obama.md) - 6 shared documents
 - [On Apr](../people/on-apr.md) - 6 shared documents
 - [On Sun](../people/on-sun.md) - 6 shared documents
 

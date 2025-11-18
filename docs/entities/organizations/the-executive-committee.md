@@ -31,19 +31,19 @@ Top 5 documents by mention frequency:
 
 - [Saudi Arabia](../locations/saudi-arabia.md) - 5 shared documents
 - [California](../locations/california.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
 - [Jordan](../locations/jordan.md) - 4 shared documents
 - [Philadelphia](../locations/philadelphia.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 4 shared documents
 
 **Events:**
 
-- [2000](../events/2000.md) - 5 shared documents
-- [1993](../events/1993.md) - 5 shared documents
-- [1998](../events/1998.md) - 5 shared documents
 - [1992](../events/1992.md) - 5 shared documents
+- [1993](../events/1993.md) - 5 shared documents
 - [1995](../events/1995.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [2004](../events/2004.md) - 4 shared documents
+- [1998](../events/1998.md) - 5 shared documents
+- [2000](../events/2000.md) - 5 shared documents
+- [1989](../events/1989.md) - 4 shared documents
+- [1991](../events/1991.md) - 4 shared documents
 - [1996](../events/1996.md) - 4 shared documents
 - [1999](../events/1999.md) - 4 shared documents
 - [2002](../events/2002.md) - 4 shared documents

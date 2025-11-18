@@ -59,10 +59,10 @@ Top 8 documents by mention frequency:
 - [one day](one-day.md) - 5 shared documents
 - [2018](2018.md) - 5 shared documents
 - [daily](daily.md) - 5 shared documents
+- [2000](2000.md) - 4 shared documents
+- [2010](2010.md) - 4 shared documents
 - [2015](2015.md) - 4 shared documents
 - [annual](annual.md) - 4 shared documents
-- [2000](2000.md) - 4 shared documents
-- [May](may.md) - 4 shared documents
 
 ## Timeline
 

@@ -38,7 +38,7 @@ Top 10 documents by mention frequency:
 - [Michael Reiter](../people/michael-reiter.md) - 9 shared documents
 - [Roy Black](../people/roy-black.md) - 9 shared documents
 - [Sarah Kellen](../people/sarah-kellen.md) - 8 shared documents
-- [Epstein](../people/epstein.md) - 7 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 7 shared documents
 - [Kenneth Starr](../people/kenneth-starr.md) - 7 shared documents
 
 **Organizations:**

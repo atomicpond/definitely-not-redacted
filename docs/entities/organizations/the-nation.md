@@ -35,36 +35,35 @@ Top 5 documents by mention frequency:
 - [the Washington Post](the-washington-post.md) - 5 shared documents
 - [the White House](the-white-house.md) - 5 shared documents
 - [White House](white-house.md) - 5 shared documents
-- [HOUSE](house.md) - 5 shared documents
-- [Congress](congress.md) - 5 shared documents
 - [CIA](cia.md) - 5 shared documents
-- [State](state.md) - 5 shared documents
-- [Pentagon](pentagon.md) - 5 shared documents
+- [Congress](congress.md) - 5 shared documents
+- [HOUSE](house.md) - 5 shared documents
+- [Next](next.md) - 5 shared documents
 
 **Locations:**
 
-- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
-- [China](../locations/china.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [Canada](../locations/canada.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [Canada](../locations/canada.md) - 5 shared documents
+- [China](../locations/china.md) - 5 shared documents
 - [France](../locations/france.md) - 5 shared documents
+- [Germany](../locations/germany.md) - 5 shared documents
+- [India](../locations/india.md) - 5 shared documents
+- [Iran](../locations/iran.md) - 5 shared documents
+- [Iraq](../locations/iraq.md) - 5 shared documents
+- [Israel](../locations/israel.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
 
 **Events:**
 
-- [2009](../events/2009.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [1996](../events/1996.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [last week](../events/last-week.md) - 5 shared documents
-- [2011](../events/2011.md) - 5 shared documents
-- [2008](../events/2008.md) - 5 shared documents
-- [December](../events/december.md) - 5 shared documents
+- [1967](../events/1967.md) - 5 shared documents
 - [1974](../events/1974.md) - 5 shared documents
+- [1977](../events/1977.md) - 5 shared documents
+- [1979](../events/1979.md) - 5 shared documents
+- [1991](../events/1991.md) - 5 shared documents
+- [1996](../events/1996.md) - 5 shared documents
+- [2008](../events/2008.md) - 5 shared documents
+- [2009](../events/2009.md) - 5 shared documents
+- [2011](../events/2011.md) - 5 shared documents
 - [2013](../events/2013.md) - 5 shared documents
 
 ## Timeline

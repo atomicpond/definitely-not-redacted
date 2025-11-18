@@ -37,39 +37,37 @@ Top 10 documents by mention frequency:
 - [S&P](../organizations/sp.md) - 8 shared documents
 - [Bloomberg](../organizations/bloomberg.md) - 7 shared documents
 - [HOUSE](../organizations/house.md) - 6 shared documents
+- [Congress](../organizations/congress.md) - 5 shared documents
 - [Financials](../organizations/financials.md) - 5 shared documents
 - [Merrill Lynch](../organizations/merrill-lynch.md) - 5 shared documents
 - [Pierce, Fenner & Smith Incorporated](../organizations/pierce-fenner-smith-incorporated.md) - 5 shared documents
 - [Senate](../organizations/senate.md) - 5 shared documents
-- [Congress](../organizations/congress.md) - 5 shared documents
-- [ETF](../organizations/etf.md) - 4 shared documents
-- [Trump](../organizations/trump.md) - 4 shared documents
 
 **Locations:**
 
 - [Brazil](../locations/brazil.md) - 7 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
-- [China](../locations/china.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
-- [Canada](../locations/canada.md) - 6 shared documents
-- [Germany](../locations/germany.md) - 6 shared documents
-- [Australia](../locations/australia.md) - 6 shared documents
 - [Argentina](../locations/argentina.md) - 6 shared documents
-- [New York, NY](../locations/new-york-ny.md) - 5 shared documents
-- [Mexico](../locations/mexico.md) - 5 shared documents
+- [Australia](../locations/australia.md) - 6 shared documents
+- [Canada](../locations/canada.md) - 6 shared documents
+- [China](../locations/china.md) - 6 shared documents
+- [Germany](../locations/germany.md) - 6 shared documents
+- [Japan](../locations/japan.md) - 6 shared documents
+- [United States](../locations/united-states.md) - 6 shared documents
+- [Asia](../locations/asia.md) - 5 shared documents
+- [France](../locations/france.md) - 5 shared documents
 
 **Events:**
 
 - [2004](../events/2004.md) - 8 shared documents
 - [annual](../events/annual.md) - 8 shared documents
 - [2018](../events/2018.md) - 7 shared documents
-- [2015](../events/2015.md) - 6 shared documents
 - [10 years](../events/10-years.md) - 6 shared documents
+- [2015](../events/2015.md) - 6 shared documents
 - [1986](../events/1986.md) - 5 shared documents
 - [2003](../events/2003.md) - 5 shared documents
 - [2013](../events/2013.md) - 5 shared documents
 - [10036](../events/10036.md) - 4 shared documents
-- [6-month](../events/6-month.md) - 4 shared documents
+- [1997](../events/1997.md) - 4 shared documents
 
 ## Timeline
 

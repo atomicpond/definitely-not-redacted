@@ -49,29 +49,29 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
-- [the Middle East](../locations/the-middle-east.md) - 6 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
 - [America](../locations/america.md) - 6 shared documents
 - [Asia](../locations/asia.md) - 6 shared documents
 - [Iran](../locations/iran.md) - 6 shared documents
 - [Iraq](../locations/iraq.md) - 6 shared documents
 - [Jordan](../locations/jordan.md) - 6 shared documents
 - [Libya](../locations/libya.md) - 6 shared documents
+- [Qatar](../locations/qatar.md) - 6 shared documents
+- [Russia](../locations/russia.md) - 6 shared documents
+- [Saudi Arabia](../locations/saudi-arabia.md) - 6 shared documents
+- [Syria](../locations/syria.md) - 6 shared documents
 
 **Events:**
 
-- [the 1980s](../events/the-1980s.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [2011](../events/2011.md) - 6 shared documents
 - [1990](../events/1990.md) - 6 shared documents
 - [2008](../events/2008.md) - 6 shared documents
+- [2011](../events/2011.md) - 6 shared documents
 - [Saturday](../events/saturday.md) - 6 shared documents
+- [the 1980s](../events/the-1980s.md) - 6 shared documents
+- [today](../events/today.md) - 6 shared documents
 - [1993](../events/1993.md) - 5 shared documents
 - [20 years](../events/20-years.md) - 5 shared documents
-- [2007](../events/2007.md) - 4 shared documents
-- [2015](../events/2015.md) - 4 shared documents
+- [1970](../events/1970.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
 
 ## Timeline
 

@@ -11,7 +11,7 @@
 ### People
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 2 mentions
 - [President Obama](../entities/people/president-obama.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [On Sun](../entities/people/on-sun.md) - 1 mention
 - [Joi Ito](../entities/people/joi-ito.md) - 1 mention
 - [On Apr](../entities/people/on-apr.md) - 1 mention

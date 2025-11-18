@@ -55,8 +55,8 @@ Top 6 documents by mention frequency:
 - [May](may.md) - 6 shared documents
 - [September](september.md) - 6 shared documents
 - [years](years.md) - 6 shared documents
-- [2007](2007.md) - 6 shared documents
 - [1996](1996.md) - 6 shared documents
+- [2007](2007.md) - 6 shared documents
 - [April](april.md) - 6 shared documents
 - [June](june.md) - 5 shared documents
 - [months](months.md) - 5 shared documents

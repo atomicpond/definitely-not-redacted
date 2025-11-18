@@ -37,25 +37,23 @@ Top 9 documents by mention frequency:
 **Locations:**
 
 - [Florida](../locations/florida.md) - 6 shared documents
-- [Virginia](../locations/virginia.md) - 6 shared documents
 - [Holland](../locations/holland.md) - 6 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Virginia](../locations/virginia.md) - 6 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 5 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
 
 **Events:**
 
-- [2000](../events/2000.md) - 7 shared documents
 - [1976](../events/1976.md) - 7 shared documents
 - [1995](../events/1995.md) - 7 shared documents
-- [2007](../events/2007.md) - 6 shared documents
-- [1997](../events/1997.md) - 6 shared documents
-- [2005](../events/2005.md) - 6 shared documents
-- [2002](../events/2002.md) - 6 shared documents
+- [2000](../events/2000.md) - 7 shared documents
 - [1960](../events/1960.md) - 6 shared documents
 - [1980](../events/1980.md) - 6 shared documents
-- [2004](../events/2004.md) - 5 shared documents
+- [1997](../events/1997.md) - 6 shared documents
+- [2002](../events/2002.md) - 6 shared documents
+- [2005](../events/2005.md) - 6 shared documents
+- [2007](../events/2007.md) - 6 shared documents
+- [1965](../events/1965.md) - 5 shared documents
 
 ## Timeline
 

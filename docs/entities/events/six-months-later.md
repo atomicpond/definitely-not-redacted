@@ -31,7 +31,7 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 8 shared documents
-- [President Obama](../people/president-obama.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [White House](../people/white-house.md) - 7 shared documents
 - [David Boies](../people/david-boies.md) - 6 shared documents
 - [District Court](../people/district-court.md) - 6 shared documents

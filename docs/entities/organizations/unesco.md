@@ -34,33 +34,32 @@ Top 9 documents by mention frequency:
 **Organizations:**
 
 - [State](state.md) - 5 shared documents
-- [Congress](congress.md) - 4 shared documents
 
 **Locations:**
 
+- [Asia](../locations/asia.md) - 6 shared documents
 - [Japan](../locations/japan.md) - 6 shared documents
 - [Russia](../locations/russia.md) - 6 shared documents
-- [Asia](../locations/asia.md) - 6 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 6 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
-- [China](../locations/china.md) - 5 shared documents
 - [Brazil](../locations/brazil.md) - 5 shared documents
 - [Canada](../locations/canada.md) - 5 shared documents
-- [Mexico](../locations/mexico.md) - 5 shared documents
-- [Jordan](../locations/jordan.md) - 5 shared documents
+- [China](../locations/china.md) - 5 shared documents
+- [Egypt](../locations/egypt.md) - 5 shared documents
+- [India](../locations/india.md) - 5 shared documents
+- [Israel](../locations/israel.md) - 5 shared documents
 
 **Events:**
 
 - [2000](../events/2000.md) - 6 shared documents
 - [the year](../events/the-year.md) - 6 shared documents
+- [2002](../events/2002.md) - 5 shared documents
 - [2003](../events/2003.md) - 5 shared documents
 - [2004](../events/2004.md) - 5 shared documents
 - [2012](../events/2012.md) - 5 shared documents
-- [2002](../events/2002.md) - 5 shared documents
 - [five years](../events/five-years.md) - 5 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
+- [1973](../events/1973.md) - 4 shared documents
 - [1990](../events/1990.md) - 4 shared documents
+- [1992](../events/1992.md) - 4 shared documents
 
 ## Timeline
 

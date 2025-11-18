@@ -28,20 +28,21 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [CLINTON](clinton.md) - 7 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 7 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 5 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 7 shared documents
-- [Treasury](../organizations/treasury.md) - 4 shared documents
 - [Goldman Sachs](../organizations/goldman-sachs.md) - 4 shared documents
+- [Treasury](../organizations/treasury.md) - 4 shared documents
 
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
 - [Iraq](../locations/iraq.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
 
 **Events:**
 

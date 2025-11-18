@@ -29,17 +29,17 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 15 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 14 shared documents
-- [Epstein](../people/epstein.md) - 13 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 13 shared documents
 - [White House](../people/white-house.md) - 12 shared documents
-- [President Trump](../people/president-trump.md) - 11 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 11 shared documents
 - [Acosta](../people/acosta.md) - 10 shared documents
 - [MARTIN G. WEINBERG](../people/martin-g-weinberg.md) - 10 shared documents
 - [Paul Cassell](../people/paul-cassell.md) - 10 shared documents
 - [Ben Sasse](../people/ben-sasse.md) - 9 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 9 shared documents
+- [Jack Scarola](../people/jack-scarola.md) - 9 shared documents
+- [Alexander Acosta](../people/alexander-acosta.md) - 8 shared documents
+- [Ann Sanchez](../people/ann-sanchez.md) - 8 shared documents
 
 **Organizations:**
 
@@ -63,22 +63,22 @@ Trump](../people/trump.md) - 14 shared documents
 - [New York](../locations/new-york.md) - 15 shared documents
 - [Washington](../locations/washington.md) - 13 shared documents
 - [Atlanta](../locations/atlanta.md) - 12 shared documents
-- [Palm Beach County](../locations/palm-beach-county.md) - 12 shared documents
 - [Georgia](../locations/georgia.md) - 12 shared documents
-- [the United States](../locations/the-united-states.md) - 10 shared documents
+- [Palm Beach County](../locations/palm-beach-county.md) - 12 shared documents
+- [Caribbean](../locations/caribbean.md) - 10 shared documents
 
 **Events:**
 
 - [Friday](../events/friday.md) - 15 shared documents
-- [2017](../events/2017.md) - 14 shared documents
 - [2008](../events/2008.md) - 14 shared documents
+- [2017](../events/2017.md) - 14 shared documents
 - [Monday](../events/monday.md) - 13 shared documents
 - [2009](../events/2009.md) - 12 shared documents
 - [September](../events/september.md) - 12 shared documents
 - [Tuesday](../events/tuesday.md) - 11 shared documents
 - [October 2017](../events/october-2017.md) - 10 shared documents
+- [66](../events/66.md) - 9 shared documents
 - [today](../events/today.md) - 9 shared documents
-- [Wednesday](../events/wednesday.md) - 9 shared documents
 
 ## Timeline
 

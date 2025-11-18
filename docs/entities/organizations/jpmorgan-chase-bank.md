@@ -44,14 +44,14 @@ Morgan Securities LLC](jp-morgan-securities-llc.md) - 5 shared documents
 
 - [China](../locations/china.md) - 7 shared documents
 - [Latin America](../locations/latin-america.md) - 7 shared documents
-- [Europe](../locations/europe.md) - 6 shared documents
 - [Asia](../locations/asia.md) - 6 shared documents
+- [Europe](../locations/europe.md) - 6 shared documents
 - [Mexico](../locations/mexico.md) - 5 shared documents
 - [US](../locations/us.md) - 5 shared documents
-- [Middle East](../locations/middle-east.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
 - [Brazil](../locations/brazil.md) - 4 shared documents
+- [Canada](../locations/canada.md) - 4 shared documents
+- [France](../locations/france.md) - 4 shared documents
+- [Germany](../locations/germany.md) - 4 shared documents
 
 **Events:**
 

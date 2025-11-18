@@ -56,11 +56,11 @@ Top 10 documents by mention frequency:
 - [today](today.md) - 28 shared documents
 - [the day](the-day.md) - 24 shared documents
 - [this week](this-week.md) - 22 shared documents
-- [daily](daily.md) - 22 shared documents
 - [2008](2008.md) - 22 shared documents
+- [daily](daily.md) - 22 shared documents
 - [last week](last-week.md) - 21 shared documents
-- [2009](2009.md) - 21 shared documents
 - [2005](2005.md) - 21 shared documents
+- [2009](2009.md) - 21 shared documents
 - [tomorrow](tomorrow.md) - 20 shared documents
 
 ## Timeline

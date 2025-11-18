@@ -29,15 +29,15 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [CLINTON](clinton.md) - 9 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 9 shared documents
 - [Jeffrey](jeffrey.md) - 8 shared documents
-- [Jeffrey Epstein](jeffrey-epstein.md) - 8 shared documents
 - [On Thu](on-thu.md) - 7 shared documents
 - [On Fri](on-fri.md) - 7 shared documents
 - [On Sat](on-sat.md) - 6 shared documents
 - [Jeffrey Epstein 
 Unauthorized](jeffrey-epstein-unauthorized.md) - 6 shared documents
-- [jeffrey E. <](jeffrey-e.md) - 5 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 5 shared documents
 - [Middle East](middle-east.md) - 4 shared documents
 
 **Organizations:**
@@ -49,23 +49,23 @@ Unauthorized](jeffrey-epstein-unauthorized.md) - 6 shared documents
 **Locations:**
 
 - [Sat](../locations/sat.md) - 5 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [Middle East](../locations/middle-east.md) - 4 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
 - [Africa](../locations/africa.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
-- [Qatar](../locations/qatar.md) - 4 shared documents
+- [California](../locations/california.md) - 4 shared documents
 - [England](../locations/england.md) - 4 shared documents
+- [Europe](../locations/europe.md) - 4 shared documents
+- [Middle East](../locations/middle-east.md) - 4 shared documents
+- [Qatar](../locations/qatar.md) - 4 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
 
 **Events:**
 
 - [7:01 PM](../events/701-pm.md) - 5 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
-- [tomorrow](../events/tomorrow.md) - 4 shared documents
-- [two years](../events/two-years.md) - 4 shared documents
 - [about a year](../events/about-a-year.md) - 4 shared documents
 - [early September](../events/early-september.md) - 4 shared documents
+- [this year](../events/this-year.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
+- [tomorrow](../events/tomorrow.md) - 4 shared documents
+- [two years](../events/two-years.md) - 4 shared documents
 
 ## Timeline
 

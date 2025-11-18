@@ -1,0 +1,215 @@
+{
+  "comment": "Manual alias mappings for entity consolidation. Each group will be merged into the first (canonical) entity.",
+
+  "people": [
+    {
+      "canonical": "Jeffrey Epstein",
+      "aliases": [
+        "Epstein",
+        "jeff epstein",
+        "Jeffrey E. Epstein",
+        "Jeffrey Edward Epstein",
+        "Mr. Epstein",
+        "Epstein Jeffrey",
+        "Jeffrey Epstein's",
+        "Jeffrey Epstein VI",
+        "Jeffery Epstein",
+        "jeffrey E. <",
+        "jeffrey trump",
+        "Jeffrey Ep"
+      ]
+    },
+    {
+      "canonical": "Donald Trump",
+      "aliases": [
+        "Trump",
+        "Donald",
+        "Donnie",
+        "Mr. Trump",
+        "Mr Trump",
+        "President Trump",
+        "President Donald Trump",
+        "Donald J. Trump",
+        "DONALD J. TRUMP",
+        "Donald Trump's",
+        "The Trump",
+        "Defendant Trump",
+        "Trump Properties",
+        "Implicated Trump",
+        "If Trump",
+        "Pres Trump",
+        "Trump Era",
+        "Trump Shuttle",
+        "Trump University",
+        "Trump Tower",
+        "trumps"
+      ]
+    },
+    {
+      "canonical": "Bill Clinton",
+      "aliases": [
+        "CLINTON",
+        "Clinton",
+        "President Clinton",
+        "President Bill Clinton",
+        "William Clinton",
+        "Mr. Clinton",
+        "Bill Clinton's",
+        "Clintons"
+      ]
+    },
+    {
+      "canonical": "Hillary Clinton",
+      "aliases": [
+        "Hillary",
+        "hillary",
+        "Hilary",
+        "Hilary Clinton",
+        "Mrs. Clinton",
+        "Hillary Clinton's"
+      ]
+    },
+    {
+      "canonical": "Barack Obama",
+      "aliases": [
+        "Obama",
+        "Barak",
+        "Barak Obama",
+        "President Obama",
+        "Senator Barack Obama",
+        "President Barack Obama",
+        "President Barak Obama",
+        "Barack H. Obama",
+        "Barack Hussein Obama",
+        "Mr. Obama",
+        "Barack Obama's"
+      ]
+    },
+    {
+      "canonical": "Ghislaine Maxwell",
+      "aliases": [
+        "Maxwell",
+        "Ghislaine",
+        "Ms Maxwell",
+        "Ms. Maxwell",
+        "Miss Maxwell",
+        "S Maxwell",
+        "Ms Maxwell's"
+      ]
+    },
+    {
+      "canonical": "Prince Andrew",
+      "aliases": [
+        "andrew",
+        "Andrew"
+      ]
+    },
+    {
+      "canonical": "Alan Dershowitz",
+      "aliases": [
+        "Mr. Dershowitz",
+        "Alan M. Dershowitz"
+      ]
+    },
+    {
+      "canonical": "Brad Edwards",
+      "aliases": [
+        "Bradley Edwards",
+        "Bradley J. Edwards",
+        "Mr. Edwards",
+        "Mr Bradley Edwards"
+      ]
+    },
+    {
+      "canonical": "Lawrence Krauss",
+      "aliases": [
+        "Lawrence",
+        "larry",
+        "Lawrence M. Krauss",
+        "Lawrence Kraus",
+        "Krauss"
+      ]
+    },
+    {
+      "canonical": "Steve Bannon",
+      "aliases": [
+        "Mr. Bannon",
+        "Stephen K. Bannon"
+      ]
+    },
+    {
+      "canonical": "James Comey",
+      "aliases": [
+        "Director James Comey",
+        "Mr. Comey"
+      ]
+    },
+    {
+      "canonical": "Robert Mueller",
+      "aliases": [
+        "mueller",
+        "Robert Mueller's"
+      ]
+    },
+    {
+      "canonical": "Michael Flynn",
+      "aliases": [
+        "Mike Flynn",
+        "flynn",
+        "michael-flynn-trump-423437"
+      ]
+    },
+    {
+      "canonical": "Rod Rosenstein",
+      "aliases": [
+        "Rosenstein"
+      ]
+    },
+    {
+      "canonical": "Bill Gates",
+      "aliases": [
+        "Gates",
+        "Robert Gates",
+        "Melinda Gates",
+        "Melinda Gates Foundation"
+      ]
+    },
+    {
+      "canonical": "Larry Summers",
+      "aliases": [
+        "Lawrence Summers",
+        "Treasury Larry Summers",
+        "Summers"
+      ]
+    },
+    {
+      "canonical": "Kathy Ruemmler",
+      "aliases": [
+        "Kathy",
+        "Kathryn Ruemmler",
+        "Kathryn",
+        "Ms. Ruemmler"
+      ]
+    },
+    {
+      "canonical": "Boris Nikolic",
+      "aliases": [
+        "Boris",
+        "boris"
+      ]
+    },
+    {
+      "canonical": "Bibi",
+      "aliases": [
+        "Benjamin Netanyahu",
+        "Netanyahu",
+        "Bibi Netanyahu",
+        "Binyamin Netanyahu"
+      ]
+    }
+  ],
+
+  "organizations": [],
+  "locations": [],
+  "events": []
+}

@@ -46,8 +46,8 @@ Top 8 documents by mention frequency:
 
 - [weeks](weeks.md) - 7 shared documents
 - [years](years.md) - 7 shared documents
-- [monthly](monthly.md) - 7 shared documents
 - [days](days.md) - 7 shared documents
+- [monthly](monthly.md) - 7 shared documents
 - [next day](next-day.md) - 6 shared documents
 - [one day](one-day.md) - 6 shared documents
 - [summer](summer.md) - 6 shared documents

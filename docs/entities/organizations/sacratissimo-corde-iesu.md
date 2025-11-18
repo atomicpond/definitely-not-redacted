@@ -48,36 +48,36 @@ Top 10 documents by mention frequency:
 - [the European Parliament](the-european-parliament.md) - 11 shared documents
 - [Trump](trump.md) - 11 shared documents
 - [Twitter](twitter.md) - 11 shared documents
-- [HOUSE](house.md) - 11 shared documents
-- [Facebook](facebook.md) - 11 shared documents
 - [Benjamin Harnwell 
 Founder and President of the Board of Trustees 
 Dignitatis Humanae Institute](benjamin-harnwell-founder-and-president-of-the-board-of-trustees-dignitatis-humanae-institute.md) - 11 shared documents
+- [Facebook](facebook.md) - 11 shared documents
+- [HOUSE](house.md) - 11 shared documents
 - [Lega](lega.md) - 11 shared documents
 - [Movement](movement.md) - 11 shared documents
 
 **Locations:**
 
-- [USA](../locations/usa.md) - 11 shared documents
-- [Europe](../locations/europe.md) - 11 shared documents
-- [London](../locations/london.md) - 11 shared documents
 - [Brussels](../locations/brussels.md) - 11 shared documents
 - [Cambridge](../locations/cambridge.md) - 11 shared documents
 - [Charlottesville](../locations/charlottesville.md) - 11 shared documents
 - [East](../locations/east.md) - 11 shared documents
+- [Europe](../locations/europe.md) - 11 shared documents
 - [Italy](../locations/italy.md) - 11 shared documents
+- [London](../locations/london.md) - 11 shared documents
 - [Lost Paradise](../locations/lost-paradise.md) - 11 shared documents
 - [Paradise](../locations/paradise.md) - 11 shared documents
+- [Pennsylvania](../locations/pennsylvania.md) - 11 shared documents
 
 **Events:**
 
+- [1984](../events/1984.md) - 11 shared documents
 - [2014](../events/2014.md) - 11 shared documents
 - [2016](../events/2016.md) - 11 shared documents
-- [Friday](../events/friday.md) - 11 shared documents
-- [1984](../events/1984.md) - 11 shared documents
 - [2018-07-22](../events/2018-07-22.md) - 11 shared documents
 - [2019](../events/2019.md) - 11 shared documents
 - [65](../events/65.md) - 11 shared documents
+- [Friday](../events/friday.md) - 11 shared documents
 - [July 22, 2018](../events/july-22-2018.md) - 11 shared documents
 - [last summer](../events/last-summer.md) - 11 shared documents
 - [next May](../events/next-may.md) - 11 shared documents

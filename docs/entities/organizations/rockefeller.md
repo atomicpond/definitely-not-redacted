@@ -61,25 +61,24 @@ Top 10 documents by mention frequency:
 - [Manhattan](../locations/manhattan.md) - 20 shared documents
 - [Paris](../locations/paris.md) - 19 shared documents
 - [America](../locations/america.md) - 17 shared documents
-- [Palm Beach](../locations/palm-beach.md) - 16 shared documents
 - [Connecticut](../locations/connecticut.md) - 16 shared documents
+- [Palm Beach](../locations/palm-beach.md) - 16 shared documents
 - [Coney Island](../locations/coney-island.md) - 15 shared documents
 - [New Mexico](../locations/new-mexico.md) - 14 shared documents
 - [New York’s](../locations/new-yorks.md) - 13 shared documents
-- [California](../locations/california.md) - 12 shared documents
 
 **Events:**
 
-- [the 1980s](../events/the-1980s.md) - 17 shared documents
-- [last year](../events/last-year.md) - 17 shared documents
-- [two years](../events/two-years.md) - 17 shared documents
-- [many years](../events/many-years.md) - 17 shared documents
 - [1982](../events/1982.md) - 17 shared documents
+- [last year](../events/last-year.md) - 17 shared documents
+- [many years](../events/many-years.md) - 17 shared documents
+- [the 1980s](../events/the-1980s.md) - 17 shared documents
+- [two years](../events/two-years.md) - 17 shared documents
 - [2004](../events/2004.md) - 16 shared documents
-- [daily](../events/daily.md) - 16 shared documents
-- [Sunday](../events/sunday.md) - 16 shared documents
-- [Saturday](../events/saturday.md) - 16 shared documents
 - [2006](../events/2006.md) - 16 shared documents
+- [daily](../events/daily.md) - 16 shared documents
+- [Saturday](../events/saturday.md) - 16 shared documents
+- [Sunday](../events/sunday.md) - 16 shared documents
 
 ## Timeline
 

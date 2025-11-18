@@ -51,21 +51,21 @@ Top 10 documents by mention frequency:
 - [China](china.md) - 17 shared documents
 - [Greece](greece.md) - 17 shared documents
 - [Europe](europe.md) - 16 shared documents
-- [France](france.md) - 15 shared documents
 - [Australia](australia.md) - 15 shared documents
+- [France](france.md) - 15 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 16 shared documents
-- [2012](../events/2012.md) - 16 shared documents
 - [1980](../events/1980.md) - 16 shared documents
+- [2012](../events/2012.md) - 16 shared documents
+- [today](../events/today.md) - 16 shared documents
 - [2008](../events/2008.md) - 14 shared documents
 - [2010](../events/2010.md) - 14 shared documents
-- [2009](../events/2009.md) - 13 shared documents
-- [annual](../events/annual.md) - 13 shared documents
 - [2000](../events/2000.md) - 13 shared documents
+- [2009](../events/2009.md) - 13 shared documents
 - [2011](../events/2011.md) - 13 shared documents
-- [2004](../events/2004.md) - 12 shared documents
+- [annual](../events/annual.md) - 13 shared documents
+- [1993](../events/1993.md) - 12 shared documents
 
 ## Timeline
 

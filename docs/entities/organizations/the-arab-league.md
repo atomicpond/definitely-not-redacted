@@ -34,18 +34,18 @@ Top 10 documents by mention frequency:
 - [Arab League](../people/arab-league.md) - 13 shared documents
 - [Hosni Mubarak](../people/hosni-mubarak.md) - 13 shared documents
 - [Middle East](../people/middle-east.md) - 13 shared documents
-- [Barack Obama](../people/barack-obama.md) - 12 shared documents
 - [Bashar al-Assad](../people/bashar-al-assad.md) - 11 shared documents
-- [President Obama](../people/president-obama.md) - 11 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 11 shared documents
 - [Tahrir Square](../people/tahrir-square.md) - 10 shared documents
 - [West Bank](../people/west-bank.md) - 10 shared documents
 - [White House](../people/white-house.md) - 9 shared documents
+- [President Hosni Mubarak](../people/president-hosni-mubarak.md) - 8 shared documents
+- [Security Council](../people/security-council.md) - 8 shared documents
 
 **Organizations:**
 
-- [State](state.md) - 13 shared documents
 - [Hamas](hamas.md) - 13 shared documents
+- [State](state.md) - 13 shared documents
 - [Congress](congress.md) - 12 shared documents
 - [al-Qaeda](al-qaeda.md) - 11 shared documents
 - [NATO](nato.md) - 11 shared documents
@@ -57,26 +57,26 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [the Middle East](../locations/the-middle-east.md) - 16 shared documents
 - [Egypt](../locations/egypt.md) - 16 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 16 shared documents
 - [Iran](../locations/iran.md) - 15 shared documents
 - [Iraq](../locations/iraq.md) - 15 shared documents
-- [Syria](../locations/syria.md) - 15 shared documents
 - [Israel](../locations/israel.md) - 15 shared documents
-- [Libya](../locations/libya.md) - 14 shared documents
+- [Syria](../locations/syria.md) - 15 shared documents
 - [Cairo](../locations/cairo.md) - 14 shared documents
+- [Libya](../locations/libya.md) - 14 shared documents
+- [Lebanon](../locations/lebanon.md) - 13 shared documents
 - [Russia](../locations/russia.md) - 13 shared documents
-- [the United States](../locations/the-united-states.md) - 13 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 14 shared documents
 - [2003](../events/2003.md) - 11 shared documents
-- [last week](../events/last-week.md) - 10 shared documents
 - [2010](../events/2010.md) - 10 shared documents
 - [decades](../events/decades.md) - 10 shared documents
+- [last week](../events/last-week.md) - 10 shared documents
 - [September](../events/september.md) - 10 shared documents
-- [daily](../events/daily.md) - 9 shared documents
+- [1967](../events/1967.md) - 9 shared documents
 
 ## Timeline
 

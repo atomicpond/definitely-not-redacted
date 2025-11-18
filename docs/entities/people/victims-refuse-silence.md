@@ -34,34 +34,34 @@ Top 6 documents by mention frequency:
 **Organizations:**
 
 - [Court](../organizations/court.md) - 4 shared documents
+- [CVRA](../organizations/cvra.md) - 4 shared documents
 - [Ghislaine Maxwell](../organizations/ghislaine-maxwell.md) - 4 shared documents
 - [Maxwell](../organizations/maxwell.md) - 4 shared documents
-- [CVRA](../organizations/cvra.md) - 4 shared documents
 
 **Locations:**
 
 - [United States](../locations/united-states.md) - 6 shared documents
 - [Virginia](../locations/virginia.md) - 6 shared documents
-- [New York](../locations/new-york.md) - 5 shared documents
-- [U.S.](../locations/us.md) - 5 shared documents
 - [Lauderdale](../locations/lauderdale.md) - 5 shared documents
 - [Lauderdale, FL](../locations/lauderdale-fl.md) - 5 shared documents
-- [London](../locations/london.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
+- [U.S.](../locations/us.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 4 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 4 shared documents
+- [London](../locations/london.md) - 4 shared documents
 - [Salt Lake City](../locations/salt-lake-city.md) - 4 shared documents
+- [the Southern District](../locations/the-southern-district.md) - 4 shared documents
 
 **Events:**
 
 - [2015](../events/2015.md) - 6 shared documents
+- [1999](../events/1999.md) - 5 shared documents
 - [2009](../events/2009.md) - 5 shared documents
 - [2011](../events/2011.md) - 5 shared documents
-- [1999](../events/1999.md) - 5 shared documents
 - [2013](../events/2013.md) - 5 shared documents
-- [2016](../events/2016.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
+- [1989](../events/1989.md) - 4 shared documents
 - [1998](../events/1998.md) - 4 shared documents
 - [2001](../events/2001.md) - 4 shared documents
+- [2002](../events/2002.md) - 4 shared documents
 - [2008](../events/2008.md) - 4 shared documents
 
 ## Timeline

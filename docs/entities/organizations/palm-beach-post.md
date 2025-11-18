@@ -48,8 +48,6 @@ Top 7 documents by mention frequency:
 - [Royal Palm Beach](royal-palm-beach.md) - 5 shared documents
 - [the University of Pittsburgh](the-university-of-pittsburgh.md) - 5 shared documents
 - [Town](town.md) - 5 shared documents
-- [Fed](fed.md) - 5 shared documents
-- [Harvard](harvard.md) - 5 shared documents
 
 **Locations:**
 
@@ -57,23 +55,21 @@ Top 7 documents by mention frequency:
 - [Manhattan](../locations/manhattan.md) - 6 shared documents
 - [New Mexico](../locations/new-mexico.md) - 6 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 6 shared documents
-- [West Palm Beach](../locations/west-palm-beach.md) - 6 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 6 shared documents
-- [Caribbean](../locations/caribbean.md) - 5 shared documents
-- [Miami](../locations/miami.md) - 5 shared documents
+- [West Palm Beach](../locations/west-palm-beach.md) - 6 shared documents
 
 **Events:**
 
 - [five years](../events/five-years.md) - 7 shared documents
-- [last year](../events/last-year.md) - 6 shared documents
-- [Monday](../events/monday.md) - 6 shared documents
+- [14](../events/14.md) - 6 shared documents
+- [14-year-old](../events/14-year-old.md) - 6 shared documents
+- [17-year-old](../events/17-year-old.md) - 6 shared documents
+- [18](../events/18.md) - 6 shared documents
+- [18 months](../events/18-months.md) - 6 shared documents
+- [2006](../events/2006.md) - 6 shared documents
+- [Christmas](../events/christmas.md) - 6 shared documents
 - [July](../events/july.md) - 6 shared documents
 - [last week](../events/last-week.md) - 6 shared documents
-- [2006](../events/2006.md) - 6 shared documents
-- [18 months](../events/18-months.md) - 6 shared documents
-- [one year](../events/one-year.md) - 6 shared documents
-- [14](../events/14.md) - 6 shared documents
-- [Christmas](../events/christmas.md) - 6 shared documents
 
 ## Timeline
 

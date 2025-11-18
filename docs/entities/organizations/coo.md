@@ -46,19 +46,19 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
-- [U.S.](../locations/us.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
 - [Germany](../locations/germany.md) - 4 shared documents
-- [San Francisco](../locations/san-francisco.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
 - [Netherlands](../locations/netherlands.md) - 4 shared documents
+- [San Francisco](../locations/san-francisco.md) - 4 shared documents
+- [U.S.](../locations/us.md) - 4 shared documents
 - [Utah](../locations/utah.md) - 4 shared documents
 
 **Events:**
 
+- [2005-2006](../events/2005-2006.md) - 4 shared documents
 - [2009](../events/2009.md) - 4 shared documents
 - [weekly](../events/weekly.md) - 4 shared documents
-- [2005-2006](../events/2005-2006.md) - 4 shared documents
 
 ## Timeline
 

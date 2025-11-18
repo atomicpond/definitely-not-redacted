@@ -28,13 +28,12 @@ Top 8 documents by mention frequency:
 **People:**
 
 - [Bashar al-Assad](../people/bashar-al-assad.md) - 8 shared documents
-- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Middle East](../people/middle-east.md) - 7 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 7 shared documents
 - [West Bank](../people/west-bank.md) - 7 shared documents
 - [White House](../people/white-house.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Hosni Mubarak](../people/hosni-mubarak.md) - 6 shared documents
-- [President Obama](../people/president-obama.md) - 6 shared documents
 - [Security Council](../people/security-council.md) - 6 shared documents
 
 **Organizations:**
@@ -63,15 +62,15 @@ Top 8 documents by mention frequency:
 **Events:**
 
 - [today](../events/today.md) - 6 shared documents
-- [2003](../events/2003.md) - 5 shared documents
 - [2000](../events/2000.md) - 5 shared documents
+- [2003](../events/2003.md) - 5 shared documents
 - [this year](../events/this-year.md) - 5 shared documents
+- [1973](../events/1973.md) - 4 shared documents
+- [1979](../events/1979.md) - 4 shared documents
+- [1992](../events/1992.md) - 4 shared documents
 - [2004](../events/2004.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
 - [2012](../events/2012.md) - 4 shared documents
-- [last week](../events/last-week.md) - 4 shared documents
-- [the years](../events/the-years.md) - 4 shared documents
-- [Tuesday](../events/tuesday.md) - 4 shared documents
+- [annual](../events/annual.md) - 4 shared documents
 
 ## Timeline
 

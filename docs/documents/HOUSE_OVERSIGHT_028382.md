@@ -16,14 +16,14 @@
 ### People
 - [Mr. 
 Trump](../entities/people/mr-trump.md) - 4 mentions
-- [Dr. Blasey](../entities/people/dr-blasey.md) - 4 mentions
+- [Dr. Blasey](../entities/people/blasey.md) - 4 mentions
 - [Tiger Woods](../entities/people/tiger-woods.md) - 4 mentions
 - [President Trump](../entities/people/president-trump.md) - 3 mentions
 - [Getty Images](../entities/people/getty-images.md) - 3 mentions
 - [Associated Press](../entities/people/associated-press.md) - 3 mentions
 - [New
 York](../entities/people/new-york.md) - 2 mentions
-- [Mr. Kavanaugh](../entities/people/mr-kavanaugh.md) - 2 mentions
+- [Mr. Kavanaugh](../entities/people/kavanaugh.md) - 2 mentions
 - [Judge Kavanaugh](../entities/people/judge-kavanaugh.md) - 2 mentions
 - [United 
 Nations](../entities/people/united-nations.md) - 2 mentions

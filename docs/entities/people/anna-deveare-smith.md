@@ -43,12 +43,12 @@ Alfre](buck-riley-alfre.md) - 5 shared documents
 
 **Organizations:**
 
-- [Harvard University](../organizations/harvard-university.md) - 8 shared documents
 - [American Literature](../organizations/american-literature.md) - 8 shared documents
 - [Cabot Professor of American Literature 
 Harvard University](../organizations/cabot-professor-of-american-literature-harvard-university.md) - 8 shared documents
-- [HOUSE](../organizations/house.md) - 5 shared documents
+- [Harvard University](../organizations/harvard-university.md) - 8 shared documents
 - [Herbie Hancock](../organizations/herbie-hancock.md) - 5 shared documents
+- [HOUSE](../organizations/house.md) - 5 shared documents
 
 **Locations:**
 
@@ -59,9 +59,9 @@ Cambridge, MA](../locations/street-cambridge-ma.md) - 6 shared documents
 
 **Events:**
 
-- [Saturday](../events/saturday.md) - 5 shared documents
 - [1730](../events/1730.md) - 5 shared documents
 - [2 years](../events/2-years.md) - 5 shared documents
+- [Saturday](../events/saturday.md) - 5 shared documents
 - [the 1920s](../events/the-1920s.md) - 5 shared documents
 - [the season](../events/the-season.md) - 5 shared documents
 

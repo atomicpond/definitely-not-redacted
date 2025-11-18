@@ -29,7 +29,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 6 shared documents
 - [Treasury Department](../people/treasury-department.md) - 6 shared documents
 - [White House](../people/white-house.md) - 6 shared documents
@@ -53,28 +53,28 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 10 shared documents
-- [Washington](../locations/washington.md) - 10 shared documents
 - [America](../locations/america.md) - 10 shared documents
 - [the United States](../locations/the-united-states.md) - 10 shared documents
+- [United States](../locations/united-states.md) - 10 shared documents
+- [Washington](../locations/washington.md) - 10 shared documents
 - [California](../locations/california.md) - 8 shared documents
 - [China](../locations/china.md) - 8 shared documents
-- [Japan](../locations/japan.md) - 8 shared documents
 - [Germany](../locations/germany.md) - 8 shared documents
+- [Japan](../locations/japan.md) - 8 shared documents
 - [New York City](../locations/new-york-city.md) - 8 shared documents
 
 **Events:**
 
-- [1996](../events/1996.md) - 10 shared documents
 - [1990](../events/1990.md) - 10 shared documents
 - [1991](../events/1991.md) - 10 shared documents
 - [1995](../events/1995.md) - 10 shared documents
-- [2003](../events/2003.md) - 9 shared documents
-- [2004](../events/2004.md) - 9 shared documents
-- [years](../events/years.md) - 9 shared documents
+- [1996](../events/1996.md) - 10 shared documents
+- [1964](../events/1964.md) - 9 shared documents
+- [1981](../events/1981.md) - 9 shared documents
+- [1982](../events/1982.md) - 9 shared documents
 - [1985](../events/1985.md) - 9 shared documents
+- [1994](../events/1994.md) - 9 shared documents
 - [2001](../events/2001.md) - 9 shared documents
-- [2005](../events/2005.md) - 9 shared documents
 
 ## Timeline
 

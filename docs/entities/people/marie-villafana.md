@@ -30,29 +30,29 @@ Top 5 documents by mention frequency:
 
 - [Congress](../organizations/congress.md) - 5 shared documents
 - [FBI](../organizations/fbi.md) - 4 shared documents
+- [Office](../organizations/office.md) - 4 shared documents
 - [State](../organizations/state.md) - 4 shared documents
 - [the Justice Department](../organizations/the-justice-department.md) - 4 shared documents
-- [Office](../organizations/office.md) - 4 shared documents
 
 **Locations:**
 
-- [U.S.](../locations/us.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 5 shared documents
+- [U.S.](../locations/us.md) - 5 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 5 shared documents
+- [Miami](../locations/miami.md) - 4 shared documents
 - [New York](../locations/new-york.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
+- [Palm Beach](../locations/palm-beach.md) - 4 shared documents
 - [the Southern District](../locations/the-southern-district.md) - 4 shared documents
 - [the United States](../locations/the-united-states.md) - 4 shared documents
-- [Miami](../locations/miami.md) - 4 shared documents
-- [Palm Beach](../locations/palm-beach.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 4 shared documents
 
 **Events:**
 
 - [2007](../events/2007.md) - 5 shared documents
-- [2008](../events/2008.md) - 4 shared documents
-- [2006](../events/2006.md) - 4 shared documents
-- [18 months](../events/18-months.md) - 4 shared documents
 - [14](../events/14.md) - 4 shared documents
+- [18 months](../events/18-months.md) - 4 shared documents
+- [2006](../events/2006.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
 
 ## Timeline
 

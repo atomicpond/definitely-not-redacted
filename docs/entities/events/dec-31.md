@@ -26,8 +26,8 @@ Top 5 documents by mention frequency:
 **Events:**
 
 - [Sat](sat.md) - 4 shared documents
-- [2018](2018.md) - 4 shared documents
 - [2017](2017.md) - 4 shared documents
+- [2018](2018.md) - 4 shared documents
 
 ## Timeline
 

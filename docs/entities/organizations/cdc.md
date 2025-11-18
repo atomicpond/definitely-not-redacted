@@ -32,11 +32,11 @@ Top 7 documents by mention frequency:
 **Events:**
 
 - [2010](../events/2010.md) - 5 shared documents
-- [2007](../events/2007.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
 - [2006](../events/2006.md) - 4 shared documents
-- [each year](../events/each-year.md) - 4 shared documents
+- [2007](../events/2007.md) - 4 shared documents
 - [annually](../events/annually.md) - 4 shared documents
+- [each year](../events/each-year.md) - 4 shared documents
+- [years](../events/years.md) - 4 shared documents
 
 ## Timeline
 

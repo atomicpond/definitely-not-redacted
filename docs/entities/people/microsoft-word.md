@@ -34,36 +34,35 @@ Top 5 documents by mention frequency:
 - [Microsoft 
 Office](microsoft-office.md) - 5 shared documents
 - [Microsoft Shared](microsoft-shared.md) - 5 shared documents
-- [Barack Obama](barack-obama.md) - 4 shared documents
 
 **Organizations:**
 
-- [Hamas](../organizations/hamas.md) - 5 shared documents
 - [Files\Common Files\Microsoft Shared\OFFICE12\MSO.DLL#Microsoft Office](../organizations/filescommon-filesmicrosoft-sharedoffice12msodllmicrosoft-office.md) - 5 shared documents
+- [Hamas](../organizations/hamas.md) - 5 shared documents
 - [Object Library](../organizations/object-library.md) - 5 shared documents
 - [OLE Aut](../organizations/ole-aut.md) - 5 shared documents
 - [tem](../organizations/tem.md) - 5 shared documents
 - [Congress](../organizations/congress.md) - 4 shared documents
-- [State](../organizations/state.md) - 4 shared documents
+- [Islam](../organizations/islam.md) - 4 shared documents
 - [NATO](../organizations/nato.md) - 4 shared documents
 
 **Locations:**
 
-- [China](../locations/china.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
-- [Iraq](../locations/iraq.md) - 5 shared documents
-- [Syria](../locations/syria.md) - 5 shared documents
-- [Israel](../locations/israel.md) - 5 shared documents
+- [China](../locations/china.md) - 5 shared documents
 - [Egypt](../locations/egypt.md) - 5 shared documents
+- [Iraq](../locations/iraq.md) - 5 shared documents
+- [Israel](../locations/israel.md) - 5 shared documents
+- [Syria](../locations/syria.md) - 5 shared documents
 - [US](../locations/us.md) - 5 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
+- [Brazil](../locations/brazil.md) - 4 shared documents
+- [Cairo](../locations/cairo.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
 - [0000-0000-C000-000000000046};Word8.0;&H00000000](../events/0000-0000-c000-000000000046word80h00000000.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [decades](../events/decades.md) - 4 shared documents
 
 ## Timeline

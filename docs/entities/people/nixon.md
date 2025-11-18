@@ -29,8 +29,8 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [CLINTON](clinton.md) - 7 shared documents
-- [Mr. Obama](obama.md) - 5 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 7 shared documents
 
 **Organizations:**
 
@@ -45,8 +45,8 @@ Top 10 documents by mention frequency:
 - [Europe](../locations/europe.md) - 5 shared documents
 - [West](../locations/west.md) - 5 shared documents
 - [New York](../locations/new-york.md) - 4 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
 - [Russia](../locations/russia.md) - 4 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
 
 **Events:**
 

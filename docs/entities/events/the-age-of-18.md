@@ -31,7 +31,6 @@ Top 10 documents by mention frequency:
 
 - [New Mexico](../people/new-mexico.md) - 12 shared documents
 - [Sarah Kellen](../people/sarah-kellen.md) - 11 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 10 shared documents
 - [Jane Doe](../people/jane-doe.md) - 10 shared documents
 - [Lilly Ann Sanchez](../people/lilly-ann-sanchez.md) - 9 shared documents
 
@@ -44,6 +43,7 @@ Top 10 documents by mention frequency:
 - [Office](../organizations/office.md) - 9 shared documents
 - [the Palm Beach Police Department](../organizations/the-palm-beach-police-department.md) - 9 shared documents
 - [Court](../organizations/court.md) - 8 shared documents
+- [New York Times](../organizations/new-york-times.md) - 8 shared documents
 
 **Locations:**
 
@@ -66,10 +66,10 @@ Top 10 documents by mention frequency:
 - [2007](2007.md) - 14 shared documents
 - [July](july.md) - 14 shared documents
 - [years](years.md) - 13 shared documents
+- [14](14.md) - 13 shared documents
+- [18 months](18-months.md) - 13 shared documents
 - [2005](2005.md) - 13 shared documents
 - [2008](2008.md) - 13 shared documents
-- [18 months](18-months.md) - 13 shared documents
-- [one year](one-year.md) - 13 shared documents
 
 ## Timeline
 

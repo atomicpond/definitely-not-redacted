@@ -30,9 +30,9 @@ Top 7 documents by mention frequency:
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 4 shared documents
 - [Florida](../locations/florida.md) - 4 shared documents
 - [France](../locations/france.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
 - [Paris](../locations/paris.md) - 4 shared documents
 
 **Events:**

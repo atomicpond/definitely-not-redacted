@@ -26,28 +26,28 @@ Top 6 documents by mention frequency:
 **Organizations:**
 
 - [Congress](congress.md) - 5 shared documents
+- [Bank](bank.md) - 4 shared documents
 - [Fed](fed.md) - 4 shared documents
 - [Treasury](treasury.md) - 4 shared documents
-- [Bank](bank.md) - 4 shared documents
 
 **Locations:**
 
-- [China](../locations/china.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
 - [Canada](../locations/canada.md) - 5 shared documents
+- [China](../locations/china.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
-- [Mexico](../locations/mexico.md) - 5 shared documents
 - [India](../locations/india.md) - 5 shared documents
-- [Switzerland](../locations/switzerland.md) - 5 shared documents
-- [Malaysia](../locations/malaysia.md) - 5 shared documents
-- [South Africa](../locations/south-africa.md) - 5 shared documents
 - [Indonesia](../locations/indonesia.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
+- [Malaysia](../locations/malaysia.md) - 5 shared documents
+- [Mexico](../locations/mexico.md) - 5 shared documents
+- [South Africa](../locations/south-africa.md) - 5 shared documents
+- [Switzerland](../locations/switzerland.md) - 5 shared documents
 
 **Events:**
 
-- [the year](../events/the-year.md) - 4 shared documents
 - [2002](../events/2002.md) - 4 shared documents
 - [September](../events/september.md) - 4 shared documents
+- [the year](../events/the-year.md) - 4 shared documents
 
 ## Timeline
 

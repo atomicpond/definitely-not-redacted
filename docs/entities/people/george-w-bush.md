@@ -29,17 +29,20 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Mr. Obama](obama.md) - 19 shared documents
-- [Barack Obama](barack-obama.md) - 19 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 16 shared documents
-- [CLINTON](clinton.md) - 16 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 16 shared documents
 - [Hillary Clinton](hillary-clinton.md) - 13 shared documents
 - [Bush](bush.md) - 13 shared documents
-- [President Obama](president-obama.md) - 12 shared documents
 - [Saddam Hussein](saddam-hussein.md) - 10 shared documents
-- [Bill 
-Clinton](bill-clinton.md) - 10 shared documents
 - [Reagan](reagan.md) - 9 shared documents
+- [Ronald 
+Reagan](ronald-reagan.md) - 9 shared documents
+- [United 
+States](united-states.md) - 9 shared documents
+- [White House](white-house.md) - 9 shared documents
+- [Labor
+Party](labor-party.md) - 8 shared documents
 
 **Organizations:**
 
@@ -48,8 +51,8 @@ Clinton](bill-clinton.md) - 10 shared documents
 - [NATO](../organizations/nato.md) - 12 shared documents
 - [Congress](../organizations/congress.md) - 11 shared documents
 - [State](../organizations/state.md) - 11 shared documents
-- [White House](../organizations/white-house.md) - 10 shared documents
 - [NYT](../organizations/nyt.md) - 10 shared documents
+- [White House](../organizations/white-house.md) - 10 shared documents
 
 **Locations:**
 
@@ -59,20 +62,20 @@ Clinton](bill-clinton.md) - 10 shared documents
 - [the United States](../locations/the-united-states.md) - 17 shared documents
 - [China](../locations/china.md) - 16 shared documents
 - [France](../locations/france.md) - 15 shared documents
-- [Iraq](../locations/iraq.md) - 15 shared documents
 - [India](../locations/india.md) - 15 shared documents
+- [Iraq](../locations/iraq.md) - 15 shared documents
 - [Europe](../locations/europe.md) - 13 shared documents
 - [Germany](../locations/germany.md) - 13 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 16 shared documents
-- [last week](../events/last-week.md) - 12 shared documents
 - [2008](../events/2008.md) - 12 shared documents
+- [last week](../events/last-week.md) - 12 shared documents
 - [2010](../events/2010.md) - 11 shared documents
 - [1996](../events/1996.md) - 10 shared documents
-- [years](../events/years.md) - 10 shared documents
 - [the day](../events/the-day.md) - 10 shared documents
+- [years](../events/years.md) - 10 shared documents
 - [the 1980s](../events/the-1980s.md) - 9 shared documents
 
 ## Timeline

@@ -66,20 +66,20 @@ Top 10 documents by mention frequency:
 - [New Mexico](../locations/new-mexico.md) - 17 shared documents
 - [Caribbean](../locations/caribbean.md) - 16 shared documents
 - [Manhattan](../locations/manhattan.md) - 15 shared documents
-- [United States](../locations/united-states.md) - 14 shared documents
+- [the United States](../locations/the-united-states.md) - 14 shared documents
 
 **Events:**
 
 - [18 months](../events/18-months.md) - 21 shared documents
 - [Friday](../events/friday.md) - 20 shared documents
-- [Monday](../events/monday.md) - 16 shared documents
 - [2008](../events/2008.md) - 16 shared documents
+- [Monday](../events/monday.md) - 16 shared documents
 - [one year](../events/one-year.md) - 16 shared documents
+- [13 months](../events/13-months.md) - 15 shared documents
 - [2005](../events/2005.md) - 15 shared documents
 - [Tuesday](../events/tuesday.md) - 15 shared documents
-- [13 months](../events/13-months.md) - 15 shared documents
 - [2009](../events/2009.md) - 14 shared documents
-- [2007](../events/2007.md) - 13 shared documents
+- [14](../events/14.md) - 13 shared documents
 
 ## Timeline
 

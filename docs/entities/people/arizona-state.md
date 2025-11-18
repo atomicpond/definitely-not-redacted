@@ -29,7 +29,6 @@ Top 9 documents by mention frequency:
 **People:**
 
 - [Lawrence Krauss](lawrence-krauss.md) - 8 shared documents
-- [Lawrence M. Krauss](lawrence-m-krauss.md) - 8 shared documents
 - [Space Exploration](space-exploration.md) - 8 shared documents
 - [Physics Department](physics-department.md) - 7 shared documents
 - [Research Office](research-office.md) - 7 shared documents
@@ -43,11 +42,11 @@ Top 9 documents by mention frequency:
 - [The Origins Project](../organizations/the-origins-project.md) - 7 shared documents
 - [P.O. Box 871404](../organizations/po-box-871404.md) - 6 shared documents
 - [ASU](../organizations/asu.md) - 5 shared documents
-- [Research Office](../organizations/research-office.md) - 5 shared documents
 - [Cosmology Initiative 
 Foundation Professor 
 School of Earth & Space Exploration and Physics Department 
 Arizona State University](../organizations/cosmology-initiative-foundation-professor-school-of-earth-space-exploration-and-physics-department-arizona-state-university.md) - 5 shared documents
+- [Research Office](../organizations/research-office.md) - 5 shared documents
 - [ASU 
 Foundation](../organizations/asu-foundation.md) - 4 shared documents
 

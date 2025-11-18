@@ -36,14 +36,14 @@ Top 5 documents by mention frequency:
 
 - [the next day](the-next-day.md) - 5 shared documents
 - [today](today.md) - 5 shared documents
-- [2003](2003.md) - 5 shared documents
 - [2001](2001.md) - 5 shared documents
+- [2003](2003.md) - 5 shared documents
 - [2006](2006.md) - 5 shared documents
 - [decades](decades.md) - 5 shared documents
-- [2004](2004.md) - 4 shared documents
-- [annual](annual.md) - 4 shared documents
+- [16](16.md) - 4 shared documents
+- [1976](1976.md) - 4 shared documents
+- [1981](1981.md) - 4 shared documents
 - [1990](1990.md) - 4 shared documents
-- [1993](1993.md) - 4 shared documents
 
 ## Timeline
 

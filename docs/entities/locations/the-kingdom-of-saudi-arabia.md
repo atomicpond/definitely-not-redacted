@@ -48,24 +48,24 @@ Top 10 documents by mention frequency:
 - [the United States](the-united-states.md) - 7 shared documents
 - [Yemen](yemen.md) - 7 shared documents
 - [China](china.md) - 7 shared documents
-- [Japan](japan.md) - 7 shared documents
-- [Russia](russia.md) - 7 shared documents
 - [Iraq](iraq.md) - 7 shared documents
-- [Syria](syria.md) - 7 shared documents
 - [Israel](israel.md) - 7 shared documents
+- [Japan](japan.md) - 7 shared documents
+- [Kingdom](kingdom.md) - 7 shared documents
+- [Russia](russia.md) - 7 shared documents
 
 **Events:**
 
 - [2000](../events/2000.md) - 7 shared documents
-- [the year](../events/the-year.md) - 7 shared documents
 - [2001](../events/2001.md) - 7 shared documents
-- [2004](../events/2004.md) - 6 shared documents
-- [2015](../events/2015.md) - 6 shared documents
+- [the year](../events/the-year.md) - 7 shared documents
 - [1996](../events/1996.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
 - [1997](../events/1997.md) - 6 shared documents
 - [1998](../events/1998.md) - 6 shared documents
 - [1999](../events/1999.md) - 6 shared documents
+- [2002](../events/2002.md) - 6 shared documents
+- [2004](../events/2004.md) - 6 shared documents
+- [2015](../events/2015.md) - 6 shared documents
 
 ## Timeline
 

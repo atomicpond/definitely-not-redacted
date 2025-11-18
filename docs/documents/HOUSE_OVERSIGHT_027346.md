@@ -56,180 +56,321 @@ Is Invitation](../entities/people/yes-is-invitation.md) - 32 mentions
 
 ## Document Text
 
+**Thread-like Conversation View:**
+
 ```
-Source Entry: H\Macintosh HD\ root\Users \ j ee\Library\Messages \Archive\2 0 1 8 - 0 7 -2 9 
-on 2018-07-24 at 16.30.44.ichat 
-Service: iMessage 
-**Start Time**: **07/24/18** 01:30:44 PM (554157044) 
-**End Time**: **07/29/18** 06:54:30 PM (554608470) 
-**Last Message** ID: 17987 
-**Chat Room**: 
-Participants: jee, 
-Presentity IDs: e:jeeitunes@gmail.com, 
-Messages - 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/24/18** 01:30:44 PM (554157044) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-GUID: 7A552F7B-812C-48CB-944F-EF72EF5C7D21 
-Message: Chat? 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/24/18** 06:45:47 PM (554175947) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-GUID: 4A91F7DA-F7EE-4B9F-821D-7A83FEAD81B5 
-Message: Wow, i was right -cohen was wearing a wire !! 
-Sender: 
-Time: **07/24/18** 07:00:15 PM (554176815) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-GUID: Fl3D328A-1082-49F2-B6A4-6434B5B48834 
-Message: **Yep 
-Sender**: e:jeeitunes@gmail.com 
-Time: **07/24/18** 07:02:38 PM (554176958) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-GUID: AFOE65E9-1C4E-4152-8F92-CEDF4FF9D8FD 
-Message: Next is his Fred Sanford speech , **Elizabeth** -its the big one ! 
-**HOUSE** OVERSIGHT 027346 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/24/18** 07:04:52 PM (554177092) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-GUID: DE2E9C08-590A-478B-8D07-8D73A1449C5C 
-Message: And delivered to cnn ! By lanny - can you imagine what will come out? Oy 
-Sender: 
-Time: **07/24/18** 07:05:22 PM (554177122) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-GUID: 824F0142-18B6-4C4E-8D4B-6E6C8680AEE9 
-Message: 12 more to go shipmate 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/24/18** 10:42:36 PM (554190156) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-GUID: 5AF37769-ABCA-4FCF-BD46-6D5EOCBB9225 
-Message: Minimum 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/25/18** 03:53:04 AM (554208784) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-GUID: 5E00CDC3-F8A5-47E9-AC4A-A5BBCD7D1C80 
-Message: Live by the tape , die by the tape 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/25/18** 02:14:12 PM (554246052) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-GUID: 3CC1E391-1537-4CBB-9716-5331CC326A5A 
-Message: Along with some other tidbits, i was shown a photo of macrons boyfriend. Ahhh 
-hypocrisy 
-Sender: 
-Time: **07/25/18** 02:24:58 PM (554246698) 
-**HOUSE** OVERSIGHT 027347 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-GUID: AC41F452-FE9B-48A6-9171-D091C40270DF 
-Message: Is that true??? 
-Sender: 
-Time: **07/25/18** 02:25:11 PM (554246711) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-GUID: DC917785-746F-4430-96EA-E2223705C23E 
-Message: The 'soldier ' 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/25/18** 02:29:14 PM (554246954) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-GUID: 137ED869-612C-46D0-AABA-3F6E2B4C7465 
-Message: It gives new meaning to no worry I have your back. 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/25/18** 02:29:56 PM (554246996) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-GUID: DE0A3609-C978-45DC-BF39-207F213B2C80 
-Message: Or. Remember the French stand behind you. Yech 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/25/18** 02:30:23 PM (554247023) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-GUID: F8E5D6CE-DABS-4A8E-BD98-96CO2BC35747 
-Message: When is the next cut. Of. Made in **Vietnam** 
-Sender: 
-Time: **07/25/18** 02:30:52 PM (554247052) 
-Flags: 1126401 
-**Is Read**: Yes 
-**HOUSE** OVERSIGHT 027348 
-**Is Invitation**: No 
-GUID: 35C360F8-906F-4804-A353-2B56E260B863 
-Message: Coming **tomorrow** -- got announced **today** 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/26/18** 02:14:41 AM (554289281) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-GUID: 6E56D81D-55F4-401E-AC78-AFA583ED4E58 
-Message: Lets talk about strategy as **November** looks more problematic. . you don't want 
-to spend all your time in front of committee after committee . 
-Sender: 
-Time: **07/26/18** 03:41:56 AM (554294516) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-GUID: 87AF9BB1-9A94-420E-8771-B4221A3E2A4B 
-Message: K 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/26/18** 03:45:27 AM (554294727) 
-Flags: 1150981 
-**Is Read**: **No 
-**Is Invitation****: No 
-GUID: 2608D3DA-4BA5-4238-A9C8-7706F88C850A 
-Message: 011 331 441 70210 if free 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/26/18** 10:55:50 AM (554320550) 
-Flags: 1150981 
-**Is Read**: **No 
-**Is Invitation****: No 
-GUID: 95245ABE-2554-4A78-B149-A36AA6A9BFD4 
-Message: https://www.cnbc.com/2018/07/26/trump-org-cfo-called-to-grand-jury-to-testify-
-wsj.html 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/26/18** 10:55:51 AM (554320551) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**HOUSE** OVERSIGHT 027349 
-GUID: F94600EE-E9E5-42BD-A95D-0596E886D37E 
-Message: . surprise surprise homer 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/26/18** 10:55:58 AM (554320558) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-GUID: 610BC3C7-FBE8-4798-8CCC-C125D1BOAB65 
-Message: gomer 
-Sender: ___________________ 
-Time: **07/26/18** 10:56:34 AM (554320594) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-GUID: B2D1ABDD-C6BA-49F7-9038-96A95B42F2F7 
-Message: ??? 
-Sender: 
-Time: **07/26/18** 11:01:
+
+======================================================================
+Tuesday, July 24, 2018
+======================================================================
+
+E:jeeitunes [1:30 PM]:
+  
+
+E:jeeitunes [6:45 PM]:
+  Chat?
+
+Unknown [7:00 PM]:
+  Wow, i was right -cohen was wearing a wire !!
+
+E:jeeitunes [7:02 PM]:
+  Yep
+
+E:jeeitunes [7:04 PM]:
+  Next is his Fred Sanford speech , Elizabeth -its the big one !
+
+Unknown [7:05 PM]:
+  And delivered to cnn ! By lanny - can you imagine what will come out? Oy
+
+E:jeeitunes [10:42 PM]:
+  12 more to go shipmate
+
+
+======================================================================
+Wednesday, July 25, 2018
+======================================================================
+
+E:jeeitunes [3:53 AM]:
+  Minimum
+
+E:jeeitunes [2:14 PM]:
+  Live by the tape , die by the tape
+
+Unknown [2:24 PM]:
+  Along with some other tidbits, i was shown a photo of macrons boyfriend. Ahhh
+
+Unknown [2:25 PM]:
+  Is that true???
+
+E:jeeitunes [2:29 PM]:
+  The 'soldier '
+
+E:jeeitunes [2:29 PM]:
+  It gives new meaning to no worry I have your back.
+
+E:jeeitunes [2:30 PM]:
+  Or. Remember the French stand behind you. Yech
+
+Unknown [2:30 PM]:
+  When is the next cut. Of. Made in Vietnam
+
+
+======================================================================
+Thursday, July 26, 2018
+======================================================================
+
+E:jeeitunes [2:14 AM]:
+  Coming tomorrow -- got announced today
+
+Unknown [3:41 AM]:
+  Lets talk about strategy as November looks more problematic. . you don't want
+
+E:jeeitunes [3:45 AM]:
+  K
+
+E:jeeitunes [10:55 AM]:
+  011 331 441 70210 if free
+
+E:jeeitunes [10:55 AM]:
+  https://www.cnbc.com/2018/07/26/trump-org-cfo-called-to-grand-jury-to-testify-
+
+E:jeeitunes [10:55 AM]:
+  . surprise surprise homer
+
+Unknown [10:56 AM]:
+  gomer
+
+Unknown [11:01 AM]:
+  ???
+
+E:jeeitunes [12:55 PM]:
+  Over
+
+
+======================================================================
+Friday, July 27, 2018
+======================================================================
+
+E:jeeitunes [4:06 AM]:
+  He has not testified yet. .
+
+Unknown [4:09 AM]:
+  The noose is tightening .
+
+Unknown [4:09 AM]:
+  I cancelled my Hannity hit tonight
+
+E:jeeitunes [4:13 AM]:
+  Have u seen the FT this morning
+
+E:jeeitunes [4:16 AM]:
+  Yes. Ganesh writes well, don jr , perjury. Congress . Matt calamari soon
+
+E:jeeitunes [4:21 AM]:
+  I thought that Ganesh got the last paragraph really right. And that contrasts
+
+Unknown [4:22 AM]:
+  I think you want to project WINNING. As contrasted with always destroying. .
+
+E:jeeitunes [4:23 AM]:
+  I'm talking about TODAYs FT?
+
+Unknown [4:24 AM]:
+  Sorry, which article
+
+E:jeeitunes [4:27 AM]:
+  Lead editorial brother-- sean is already getting it framed for u
+
+E:jeeitunes [4:28 AM]:
+  Sweet
+
+Unknown [4:30 AM]:
+  Wasn't as funny as seeing the term " shmucks" in the same paper to describe
+
+E:jeeitunes [4:42 AM]:
+  Do u know anyone in Europe that wants to control the European Parliament and
+
+Unknown [4:43 AM]:
+  There are lots of issues around this. Not for text
+
+E:jeeitunes [4:46 AM]:
+  Cool
+
+Unknown [4:47 AM]:
+  currently -Im back in the NY tues only for the day. Then island ,palmbeach
+
+E:jeeitunes [4:47 AM]:
+  Vegas?
+
+E:jeeitunes [7:00 AM]:
+  yup
+
+E:jeeitunes [11:36 AM]:
+  It depends on who you would prioritize to meet. Im going Sunday to nice.
+
+E:jeeitunes [11:41 AM]:
+  tom pritzker with me tues at 3 .
+
+E:jeeitunes [11:41 AM]:
+  Open Society Global Board
+
+Unknown [11:42 AM]:
+  
+
+E:jeeitunes [11:42 AM]:
+  Did u tell him I'm coming for them
+
+E:jeeitunes [11:43 AM]:
+  we're
+
+E:jeeitunes [11:45 AM]:
+  George son will take over. Soon.
+
+Unknown [11:45 AM]:
+  the key is to get him to focus more on the arts.
+
+E:jeeitunes [11:46 AM]:
+  George son a goofball-- I want a piece of george
+
+Unknown [11:46 AM]:
+  Thats a good thing. . that should be easy as he is falling apart
+
+E:jeeitunes [11:47 AM]:
+  Yes-- need to be the one that takes him down
+
+E:jeeitunes [11:51 AM]:
+  No shit sherlock
+
+E:jeeitunes [11:52 AM]:
+  Theres an argument to be made that it takes you out of the blast radius ,.
+
+Unknown [11:56 AM]:
+  Maybe its like those cruise ship diseases. Or a new form of legionaire
+
+
+======================================================================
+Saturday, July 28, 2018
+======================================================================
+
+E:jeeitunes [2:31 AM]:
+  LOL
+
+E:jeeitunes [2:38 AM]:
+  Great idea to do Hannity every week.
+
+Unknown [2:47 AM]:
+  kurtz read the article Cohen weisselburg pecker did not
+
+E:jeeitunes [3:01 AM]:
+  U think doing fox weekly smart???
+
+E:jeeitunes [3:25 AM]:
+  Yes but.. Europe needs to feel love . Not sure how you balance
+
+Unknown [3:30 AM]:
+  Also with so much shit about to come out , your credibility must be paramount
+
+E:jeeitunes [3:33 AM]:
+  I balance by getting there on the ground
+
+Unknown [4:05 AM]:
+  Agreed, do you do some Hannity from Europe, or back and forth
+
+E:jeeitunes [5:11 AM]:
+  I can do Hannity from Europe
+
+E:jeeitunes [5:57 AM]:
+  Its not what I understand. I might wonder if it is possible to do two ground
+
+E:jeeitunes [5:58 AM]:
+  Note, I spoke with the president of Ethiopia and Eritrea , they have agreed
+
+Unknown [5:58 AM]:
+  Even better than high tariffs
+
+E:jeeitunes [6:00 AM]:
+  Wow!!!
+
+Unknown [6:01 AM]:
+  When the govt changed hands they found all these Chinese " loans. " etc.
+
+E:jeeitunes [6:01 AM]:
+  East India Company strategy
+
+E:jeeitunes [6:02 AM]:
+  Yup.
+
+Unknown [6:02 AM]:
+  old strategy however once again. Doesn't work with internet and instant
+
+E:jeeitunes [6:04 AM]:
+  Agree
+
+E:jeeitunes [6:06 AM]:
+  Whether it be Donald , Cohen pecker they play by the rules of the 80s. As
+
+Unknown [6:07 AM]:
+  Im happy to have you meet them and piggy back on the new china strategy
+
+E:jeeitunes [10:10 AM]:
+  Epic
+
+Unknown [10:11 AM]:
+  https://nypost.com/2018/07/27/cryptocurrency-king-is-hippie-former-child-
+
+E:jeeitunes [11:47 PM]:
+  Huge article in Rolling Stone
+
+E:jeeitunes [11:47 PM]:
+  U atound
+
+
+======================================================================
+Sunday, July 29, 2018
+======================================================================
+
+Unknown [12:11 AM]:
+  Around
+
+E:jeeitunes [12:12 AM]:
+  What's up
+
+E:jeeitunes [8:26 AM]:
+  Go to sleep. ! Im in New York this afternoon till tues . Then gone
+
+E:jeeitunes [3:36 PM]:
+  ?
+
+E:jeeitunes [3:36 PM]:
+  early breakfast??
+
+Unknown [3:42 PM]:
+  ny mon or tues
+
+E:jeeitunes [3:43 PM]:
+  Dc uniting the tribes in a war council
+
+Unknown [3:46 PM]:
+  good tonto
+
+Unknown [3:46 PM]:
+  K
+
+E:jeeitunes [3:52 PM]:
+  Blowing up The Koch Brothers today
+
+E:jeeitunes [6:42 PM]:
+  david koch has serious dementia, sitting at home with 3 male nurses
+
+Unknown [6:52 PM]:
+  Its only Charles. - more dollars than sense
+
+E:jeeitunes [6:54 PM]:
+  Don't know how to win
+
+Unknown [6:54 PM]:
+  I hope you are referring to them !
+
 ```
 
 *[Text truncated to 5000 characters]*

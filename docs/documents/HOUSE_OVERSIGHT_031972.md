@@ -17,7 +17,7 @@
 - [Krauss](../entities/people/krauss.md) - 10 mentions
 - [Lawrence M. Krauss](../entities/people/lawrence-m-krauss.md) - 2 mentions
 - [Kennedy](../entities/people/kennedy.md) - 2 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Mr. 
 Trump](../entities/people/mr-trump.md) - 1 mention
 - [Jeff Sessions](../entities/people/jeff-sessions.md) - 1 mention

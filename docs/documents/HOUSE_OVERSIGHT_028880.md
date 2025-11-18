@@ -10,7 +10,7 @@
 
 ### People
 - [White House](../entities/people/white-house.md) - 5 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 4 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 4 mentions
 - [Secret Service](../entities/people/secret-service.md) - 1 mention
 - [Lawrence Summers](../entities/people/lawrence-summers.md) - 1 mention
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 1 mention

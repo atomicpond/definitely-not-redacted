@@ -39,7 +39,7 @@ Top 10 documents by mention frequency:
 - [BILL](../people/bill.md) - 18 shared documents
 - [Bill 
 Clinton](../people/bill-clinton.md) - 18 shared documents
-- [Bruce Wasserstein](../people/bruce-wasserstein.md) - 18 shared documents
+- [Bill Gates](../people/bill-gates.md) - 18 shared documents
 
 **Organizations:**
 
@@ -70,9 +70,9 @@ Clinton](../people/bill-clinton.md) - 18 shared documents
 - [their twenties and thirties](their-twenties-and-thirties.md) - 19 shared documents
 - [weeks](weeks.md) - 19 shared documents
 - [years](years.md) - 19 shared documents
-- [2003](2003.md) - 19 shared documents
 - [14](14.md) - 19 shared documents
 - [1981](1981.md) - 19 shared documents
+- [2003](2003.md) - 19 shared documents
 
 ## Timeline
 

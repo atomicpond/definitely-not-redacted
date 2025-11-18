@@ -24,8 +24,8 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](house.md) - 5 shared documents
 - [BlackBerry](blackberry.md) - 5 shared documents
+- [HOUSE](house.md) - 5 shared documents
 
 ## Timeline
 

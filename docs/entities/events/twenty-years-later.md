@@ -44,15 +44,15 @@ Top 5 documents by mention frequency:
 **Events:**
 
 - [years](years.md) - 5 shared documents
-- [2000](2000.md) - 5 shared documents
-- [daily](daily.md) - 5 shared documents
-- [one day](one-day.md) - 5 shared documents
-- [a year](a-year.md) - 5 shared documents
-- [1988](1988.md) - 5 shared documents
-- [decades](decades.md) - 5 shared documents
 - [1980](1980.md) - 5 shared documents
-- [1986](1986.md) - 4 shared documents
-- [a day](a-day.md) - 4 shared documents
+- [1988](1988.md) - 5 shared documents
+- [2000](2000.md) - 5 shared documents
+- [a year](a-year.md) - 5 shared documents
+- [daily](daily.md) - 5 shared documents
+- [decades](decades.md) - 5 shared documents
+- [one day](one-day.md) - 5 shared documents
+- [1960](1960.md) - 4 shared documents
+- [1962](1962.md) - 4 shared documents
 
 ## Timeline
 

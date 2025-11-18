@@ -44,9 +44,9 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [Thursday](../events/thursday.md) - 5 shared documents
-- [today](../events/today.md) - 4 shared documents
 - [2012](../events/2012.md) - 4 shared documents
 - [Friday](../events/friday.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

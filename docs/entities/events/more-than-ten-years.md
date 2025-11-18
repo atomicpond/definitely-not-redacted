@@ -61,12 +61,12 @@ Top 8 documents by mention frequency:
 - [ten years](ten-years.md) - 7 shared documents
 - [the day](the-day.md) - 7 shared documents
 - [two days later](two-days-later.md) - 7 shared documents
-- [2004](2004.md) - 7 shared documents
-- [2014](2014.md) - 7 shared documents
-- [daily](daily.md) - 7 shared documents
 - [1974](1974.md) - 7 shared documents
-- [2006](2006.md) - 7 shared documents
+- [1980](1980.md) - 7 shared documents
+- [1982](1982.md) - 7 shared documents
+- [1994](1994.md) - 7 shared documents
 - [2002](2002.md) - 7 shared documents
+- [2004](2004.md) - 7 shared documents
 
 ## Timeline
 

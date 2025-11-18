@@ -31,10 +31,11 @@ Top 9 documents by mention frequency:
 **People:**
 
 - [BILL](../people/bill.md) - 7 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 7 shared documents
 - [Boris Nikolic](../people/boris-nikolic.md) - 7 shared documents
 - [Boris Nikolic 
 Subject](../people/boris-nikolic-subject.md) - 7 shared documents
-- [CLINTON](../people/clinton.md) - 7 shared documents
 - [Floor New York](../people/floor-new-york.md) - 7 shared documents
 - [Guy](../people/guy.md) - 7 shared documents
 - [Hi Kevin](../people/hi-kevin.md) - 7 shared documents
@@ -48,10 +49,10 @@ Boris](../people/high-boris.md) - 7 shared documents
 - [HOUSE](house.md) - 9 shared documents
 - [The Foundation for AIDS Research](the-foundation-for-aids-research.md) - 7 shared documents
 - [Tix](tix.md) - 7 shared documents
-- [Mini](mini.md) - 7 shared documents
 - [Jeffrey 
 Importance:](jeffrey-importance.md) - 7 shared documents
 - [Lifeball](lifeball.md) - 7 shared documents
+- [Mini](mini.md) - 7 shared documents
 - [Magdalena 
 Schuster](magdalena-schuster.md) - 5 shared documents
 
@@ -66,13 +67,13 @@ Schuster](magdalena-schuster.md) - 5 shared documents
 **Events:**
 
 - [2012](../events/2012.md) - 7 shared documents
-- [Friday](../events/friday.md) - 7 shared documents
-- [afternoon](../events/afternoon.md) - 7 shared documents
 - [5/7/2012](../events/572012.md) - 7 shared documents
+- [afternoon](../events/afternoon.md) - 7 shared documents
+- [Friday](../events/friday.md) - 7 shared documents
 - [Friday night](../events/friday-night.md) - 7 shared documents
+- [May 03, 2012](../events/may-03-2012.md) - 7 shared documents
 - [May 07, 2012](../events/may-07-2012.md) - 7 shared documents
 - [Monday, May 07, 2012](../events/monday-may-07-2012.md) - 7 shared documents
-- [May 03, 2012](../events/may-03-2012.md) - 7 shared documents
 - [Thursday, May 03](../events/thursday-may-03.md) - 7 shared documents
 - [6:39 AM](../events/639-am.md) - 6 shared documents
 

@@ -25,27 +25,27 @@ Top 5 documents by mention frequency:
 **Organizations:**
 
 - [Congress](../organizations/congress.md) - 4 shared documents
-- [State](../organizations/state.md) - 4 shared documents
 - [Party](../organizations/party.md) - 4 shared documents
+- [State](../organizations/state.md) - 4 shared documents
 
 **Locations:**
 
-- [China](../locations/china.md) - 5 shared documents
 - [Beijing](../locations/beijing.md) - 5 shared documents
+- [China](../locations/china.md) - 5 shared documents
 - [Africa](../locations/africa.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
-- [Iran](../locations/iran.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
 - [Australia](../locations/australia.md) - 4 shared documents
 - [Davos](../locations/davos.md) - 4 shared documents
+- [Iran](../locations/iran.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 
 - [2000](../events/2000.md) - 4 shared documents
-- [two years](../events/two-years.md) - 4 shared documents
 - [decades](../events/decades.md) - 4 shared documents
 - [the day](../events/the-day.md) - 4 shared documents
+- [two years](../events/two-years.md) - 4 shared documents
 
 ## Timeline
 

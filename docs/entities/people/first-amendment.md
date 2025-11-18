@@ -37,36 +37,34 @@ Top 10 documents by mention frequency:
 
 - [State](../organizations/state.md) - 8 shared documents
 - [the Supreme Court](../organizations/the-supreme-court.md) - 7 shared documents
-- [Senate](../organizations/senate.md) - 6 shared documents
 - [Congress](../organizations/congress.md) - 6 shared documents
 - [Court](../organizations/court.md) - 6 shared documents
 - [FBI](../organizations/fbi.md) - 6 shared documents
-- [HOUSE](../organizations/house.md) - 5 shared documents
-- [Trump](../organizations/trump.md) - 5 shared documents
+- [Senate](../organizations/senate.md) - 6 shared documents
 
 **Locations:**
 
 - [California](../locations/california.md) - 8 shared documents
-- [United States](../locations/united-states.md) - 8 shared documents
 - [the United States](../locations/the-united-states.md) - 8 shared documents
-- [Washington](../locations/washington.md) - 7 shared documents
+- [United States](../locations/united-states.md) - 8 shared documents
 - [Florida](../locations/florida.md) - 7 shared documents
+- [Washington](../locations/washington.md) - 7 shared documents
+- [Miami](../locations/miami.md) - 6 shared documents
 - [New York](../locations/new-york.md) - 6 shared documents
 - [U.S.](../locations/us.md) - 6 shared documents
-- [Miami](../locations/miami.md) - 6 shared documents
 
 **Events:**
 
 - [daily](../events/daily.md) - 8 shared documents
-- [2004](../events/2004.md) - 7 shared documents
 - [1996](../events/1996.md) - 7 shared documents
-- [years](../events/years.md) - 7 shared documents
 - [2001](../events/2001.md) - 7 shared documents
-- [2007](../events/2007.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [1985](../events/1985.md) - 6 shared documents
-- [1993](../events/1993.md) - 6 shared documents
-- [2005](../events/2005.md) - 6 shared documents
+- [2004](../events/2004.md) - 7 shared documents
+- [years](../events/years.md) - 7 shared documents
+- [1959](../events/1959.md) - 6 shared documents
+- [1976](../events/1976.md) - 6 shared documents
+- [1979](../events/1979.md) - 6 shared documents
+- [1983](../events/1983.md) - 6 shared documents
+- [1984](../events/1984.md) - 6 shared documents
 
 ## Timeline
 

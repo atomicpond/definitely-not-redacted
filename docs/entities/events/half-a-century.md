@@ -27,7 +27,7 @@ Top 7 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 
 **Organizations:**
 
@@ -51,10 +51,10 @@ Top 7 documents by mention frequency:
 - [decades](decades.md) - 6 shared documents
 - [last year](last-year.md) - 5 shared documents
 - [years](years.md) - 5 shared documents
-- [2013](2013.md) - 5 shared documents
 - [1991](1991.md) - 5 shared documents
-- [2009](2009.md) - 4 shared documents
-- [1996](1996.md) - 4 shared documents
+- [2013](2013.md) - 5 shared documents
+- [1933](1933.md) - 4 shared documents
+- [1937](1937.md) - 4 shared documents
 
 ## Timeline
 

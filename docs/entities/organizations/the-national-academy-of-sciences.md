@@ -41,32 +41,32 @@ Top 7 documents by mention frequency:
 - [Oxford University](oxford-university.md) - 6 shared documents
 - [Yale University](yale-university.md) - 5 shared documents
 - [Cambridge University](cambridge-university.md) - 5 shared documents
-- [Stanford](stanford.md) - 5 shared documents
+- [Harvard University Press](harvard-university-press.md) - 5 shared documents
 - [Neuroscience](neuroscience.md) - 5 shared documents
 - [Princeton University](princeton-university.md) - 5 shared documents
-- [Harvard University Press](harvard-university-press.md) - 5 shared documents
+- [Stanford](stanford.md) - 5 shared documents
 
 **Locations:**
 
 - [Cambridge](../locations/cambridge.md) - 6 shared documents
 - [Israel](../locations/israel.md) - 6 shared documents
-- [USA](../locations/usa.md) - 5 shared documents
 - [Chicago](../locations/chicago.md) - 5 shared documents
 - [Spain](../locations/spain.md) - 5 shared documents
+- [USA](../locations/usa.md) - 5 shared documents
 - [West](../locations/west.md) - 5 shared documents
 
 **Events:**
 
-- [2007](../events/2007.md) - 6 shared documents
-- [2009](../events/2009.md) - 6 shared documents
-- [2005](../events/2005.md) - 6 shared documents
-- [2008](../events/2008.md) - 6 shared documents
-- [2010](../events/2010.md) - 6 shared documents
-- [2006](../events/2006.md) - 6 shared documents
-- [1989](../events/1989.md) - 6 shared documents
 - [1980](../events/1980.md) - 6 shared documents
-- [2003](../events/2003.md) - 5 shared documents
-- [2004](../events/2004.md) - 5 shared documents
+- [1989](../events/1989.md) - 6 shared documents
+- [2005](../events/2005.md) - 6 shared documents
+- [2006](../events/2006.md) - 6 shared documents
+- [2007](../events/2007.md) - 6 shared documents
+- [2008](../events/2008.md) - 6 shared documents
+- [2009](../events/2009.md) - 6 shared documents
+- [2010](../events/2010.md) - 6 shared documents
+- [1973](../events/1973.md) - 5 shared documents
+- [1974](../events/1974.md) - 5 shared documents
 
 ## Timeline
 

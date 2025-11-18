@@ -1,27 +1,33 @@
 # Ghislaine Maxwell
 
 **Type:** People  
-**Total Mentions:** 39  
-**Documents:** 33
+**Total Mentions:** 142  
+**Documents:** 74
 
 ## Name Variants
 
+- S Maxwell
+- Ms Maxwell
 - Ghislaine Maxwell
+- Ghislaine
+- Maxwell
+- Miss Maxwell
+- Ms Maxwell's
 
 ## Related Documents
 
 Top 10 documents by mention frequency:
 
-- [HOUSE_OVERSIGHT_030589](../../documents/HOUSE_OVERSIGHT_030589.md) - 4 mentions
-- [HOUSE_OVERSIGHT_029225](../../documents/HOUSE_OVERSIGHT_029225.md) - 2 mentions
-- [HOUSE_OVERSIGHT_030222](../../documents/HOUSE_OVERSIGHT_030222.md) - 2 mentions
-- [HOUSE_OVERSIGHT_030229](../../documents/HOUSE_OVERSIGHT_030229.md) - 2 mentions
-- [HOUSE_OVERSIGHT_026583](../../documents/HOUSE_OVERSIGHT_026583.md) - 1 mention
-- [HOUSE_OVERSIGHT_028921](../../documents/HOUSE_OVERSIGHT_028921.md) - 1 mention
-- [HOUSE_OVERSIGHT_029336](../../documents/HOUSE_OVERSIGHT_029336.md) - 1 mention
-- [HOUSE_OVERSIGHT_029405](../../documents/HOUSE_OVERSIGHT_029405.md) - 1 mention
-- [HOUSE_OVERSIGHT_029416](../../documents/HOUSE_OVERSIGHT_029416.md) - 1 mention
-- [HOUSE_OVERSIGHT_029545](../../documents/HOUSE_OVERSIGHT_029545.md) - 1 mention
+- [HOUSE_OVERSIGHT_030094](../../documents/HOUSE_OVERSIGHT_030094.md) - 5 mentions
+- [HOUSE_OVERSIGHT_030414](../../documents/HOUSE_OVERSIGHT_030414.md) - 4 mentions
+- [HOUSE_OVERSIGHT_030417](../../documents/HOUSE_OVERSIGHT_030417.md) - 4 mentions
+- [HOUSE_OVERSIGHT_030420](../../documents/HOUSE_OVERSIGHT_030420.md) - 4 mentions
+- [HOUSE_OVERSIGHT_030462](../../documents/HOUSE_OVERSIGHT_030462.md) - 4 mentions
+- [HOUSE_OVERSIGHT_030464](../../documents/HOUSE_OVERSIGHT_030464.md) - 4 mentions
+- [HOUSE_OVERSIGHT_030467](../../documents/HOUSE_OVERSIGHT_030467.md) - 4 mentions
+- [HOUSE_OVERSIGHT_030470](../../documents/HOUSE_OVERSIGHT_030470.md) - 4 mentions
+- [HOUSE_OVERSIGHT_030472](../../documents/HOUSE_OVERSIGHT_030472.md) - 4 mentions
+- [HOUSE_OVERSIGHT_030475](../../documents/HOUSE_OVERSIGHT_030475.md) - 4 mentions
 
 ## Connections
 
@@ -29,53 +35,55 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Jeffrey Epstein](jeffrey-epstein.md) - 33 shared documents
-- [Epstein](epstein.md) - 32 shared documents
-- [Bill 
-Clinton](bill-clinton.md) - 29 shared documents
+- [Jeffrey](jeffrey.md) - 26 shared documents
 - [Prince 
-Andrew](prince-andrew.md) - 26 shared documents
-- [Jeffrey](jeffrey.md) - 24 shared documents
-- [Maxwell](maxwell.md) - 22 shared documents
-- [Robert Maxwell](robert-maxwell.md) - 22 shared documents
-- [Ghislaine](ghislaine.md) - 21 shared documents
-- [Martha Stewart](martha-stewart.md) - 20 shared documents
+Andrew](prince-andrew.md) - 20 shared documents
+- [Robert Maxwell](robert-maxwell.md) - 20 shared documents
 - [BILL](bill.md) - 19 shared documents
+- [Jimmy Cayne](jimmy-cayne.md) - 18 shared documents
+- [Leon Black](leon-black.md) - 18 shared documents
+- [Martha Stewart](martha-stewart.md) - 18 shared documents
+- [Mort Zuckerman](mort-zuckerman.md) - 18 shared documents
+- [Sam Waksal](sam-waksal.md) - 18 shared documents
+- [Steven Jude 
+Hoffenberg](steven-jude-hoffenberg.md) - 18 shared documents
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 28 shared documents
-- [Maxwell](../organizations/maxwell.md) - 20 shared documents
+- [HOUSE](../organizations/house.md) - 25 shared documents
 - [Ghislaine](../organizations/ghislaine.md) - 19 shared documents
-- [Vanity Fair](../organizations/vanity-fair.md) - 18 shared documents
-- [Bear Stearns](../organizations/bear-stearns.md) - 18 shared documents
-- [Prince Andrew](../organizations/prince-andrew.md) - 18 shared documents
 - [Limited Brands](../organizations/limited-brands.md) - 18 shared documents
-- [Towers Financial](../organizations/towers-financial.md) - 18 shared documents
 - [Oddest Alliance](../organizations/oddest-alliance.md) - 18 shared documents
+- [Prince Andrew](../organizations/prince-andrew.md) - 18 shared documents
+- [Towers Financial](../organizations/towers-financial.md) - 18 shared documents
+- [Vanity Fair](../organizations/vanity-fair.md) - 18 shared documents
 - [Vanity Fairstory](../organizations/vanity-fairstory.md) - 18 shared documents
+- [Bear Stearns](../organizations/bear-stearns.md) - 16 shared documents
+- [GMAX](../organizations/gmax.md) - 10 shared documents
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 28 shared documents
-- [Central Park](../locations/central-park.md) - 19 shared documents
-- [New York's](../locations/new-yorks.md) - 18 shared documents
+- [New York](../locations/new-york.md) - 19 shared documents
+- [Central Park](../locations/central-park.md) - 18 shared documents
 - [England](../locations/england.md) - 18 shared documents
-- [New Orleans](../locations/new-orleans.md) - 18 shared documents
 - [Indonesia](../locations/indonesia.md) - 18 shared documents
+- [New Orleans](../locations/new-orleans.md) - 18 shared documents
+- [New York's](../locations/new-yorks.md) - 18 shared documents
+- [Mail](../locations/mail.md) - 10 shared documents
+- [Palm Beach](../locations/palm-beach.md) - 10 shared documents
 
 **Events:**
 
-- [last week](../events/last-week.md) - 20 shared documents
+- [years](../events/years.md) - 23 shared documents
 - [1981](../events/1981.md) - 20 shared documents
-- [years](../events/years.md) - 19 shared documents
-- [2003](../events/2003.md) - 18 shared documents
-- [weeks](../events/weeks.md) - 18 shared documents
-- [a year](../events/a-year.md) - 18 shared documents
 - [14](../events/14.md) - 18 shared documents
-- [many years](../events/many-years.md) - 18 shared documents
+- [2003](../events/2003.md) - 18 shared documents
+- [48-year-old](../events/48-year-old.md) - 18 shared documents
 - [57](../events/57.md) - 18 shared documents
-- [20-year](../events/20-year.md) - 18 shared documents
+- [a year](../events/a-year.md) - 18 shared documents
+- [last week](../events/last-week.md) - 18 shared documents
+- [many years](../events/many-years.md) - 18 shared documents
+- [their twenties and thirties](../events/their-twenties-and-thirties.md) - 18 shared documents
 
 ## Timeline
 

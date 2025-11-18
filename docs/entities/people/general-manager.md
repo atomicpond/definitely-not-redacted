@@ -26,34 +26,34 @@ Top 5 documents by mention frequency:
 
 - [OECD](../organizations/oecd.md) - 4 shared documents
 - [State](../organizations/state.md) - 4 shared documents
-- [Treasury](../organizations/treasury.md) - 4 shared documents
 - [The Wall Street Journal](../organizations/the-wall-street-journal.md) - 4 shared documents
+- [Treasury](../organizations/treasury.md) - 4 shared documents
 
 **Locations:**
 
 - [United States](../locations/united-states.md) - 5 shared documents
 - [California](../locations/california.md) - 4 shared documents
-- [China](../locations/china.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
 - [Canada](../locations/canada.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
-- [Mexico](../locations/mexico.md) - 4 shared documents
+- [China](../locations/china.md) - 4 shared documents
 - [D.C.](../locations/dc.md) - 4 shared documents
+- [Europe](../locations/europe.md) - 4 shared documents
 - [France](../locations/france.md) - 4 shared documents
+- [Germany](../locations/germany.md) - 4 shared documents
+- [India](../locations/india.md) - 4 shared documents
+- [Italy](../locations/italy.md) - 4 shared documents
 
 **Events:**
 
-- [2003](../events/2003.md) - 4 shared documents
-- [2004](../events/2004.md) - 4 shared documents
-- [2000](../events/2000.md) - 4 shared documents
-- [2012](../events/2012.md) - 4 shared documents
+- [1983](../events/1983.md) - 4 shared documents
+- [1989](../events/1989.md) - 4 shared documents
 - [1990](../events/1990.md) - 4 shared documents
+- [1991](../events/1991.md) - 4 shared documents
+- [1992](../events/1992.md) - 4 shared documents
 - [1993](../events/1993.md) - 4 shared documents
+- [1994](../events/1994.md) - 4 shared documents
+- [1995](../events/1995.md) - 4 shared documents
 - [1997](../events/1997.md) - 4 shared documents
 - [1998](../events/1998.md) - 4 shared documents
-- [1999](../events/1999.md) - 4 shared documents
-- [2002](../events/2002.md) - 4 shared documents
 
 ## Timeline
 

@@ -52,11 +52,11 @@ Top 10 documents by mention frequency:
 - [years](years.md) - 13 shared documents
 - [many years](many-years.md) - 12 shared documents
 - [the day](the-day.md) - 11 shared documents
-- [2003](2003.md) - 11 shared documents
 - [1993](1993.md) - 11 shared documents
+- [2003](2003.md) - 11 shared documents
 - [five years](five-years.md) - 10 shared documents
 - [the 1970s](the-1970s.md) - 10 shared documents
-- [2010](2010.md) - 10 shared documents
+- [1973](1973.md) - 10 shared documents
 
 ## Timeline
 

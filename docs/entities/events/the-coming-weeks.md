@@ -36,11 +36,11 @@ Top 5 documents by mention frequency:
 **Events:**
 
 - [the day](the-day.md) - 4 shared documents
-- [months](months.md) - 4 shared documents
-- [April](april.md) - 4 shared documents
 - [a year](a-year.md) - 4 shared documents
+- [April](april.md) - 4 shared documents
 - [five years](five-years.md) - 4 shared documents
 - [many years](many-years.md) - 4 shared documents
+- [months](months.md) - 4 shared documents
 
 ## Timeline
 

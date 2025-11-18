@@ -31,16 +31,17 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 12 shared documents
-- [President Obama](../people/president-obama.md) - 11 shared documents
-- [Barack Obama](../people/barack-obama.md) - 10 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 10 shared documents
 - [White House](../people/white-house.md) - 8 shared documents
 - [United 
 States](../people/united-states.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 6 shared documents
-- [President Barack Obama](../people/president-barack-obama.md) - 6 shared documents
 - [Security Council](../people/security-council.md) - 6 shared documents
 - [West Bank](../people/west-bank.md) - 6 shared documents
+- [International Monetary
+Fund](../people/international-monetary-fund.md) - 5 shared documents
+- [Joe Biden](../people/joe-biden.md) - 5 shared documents
 
 **Organizations:**
 
@@ -60,10 +61,10 @@ States](../people/united-states.md) - 7 shared documents
 - [the United States](../locations/the-united-states.md) - 15 shared documents
 - [Russia](../locations/russia.md) - 13 shared documents
 - [Iraq](../locations/iraq.md) - 12 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 11 shared documents
 - [China](../locations/china.md) - 11 shared documents
-- [Washington](../locations/washington.md) - 11 shared documents
 - [France](../locations/france.md) - 11 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 11 shared documents
+- [Washington](../locations/washington.md) - 11 shared documents
 - [Europe](../locations/europe.md) - 10 shared documents
 - [Germany](../locations/germany.md) - 10 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 10 shared documents
@@ -77,9 +78,9 @@ States](../people/united-states.md) - 7 shared documents
 - [2013](../events/2013.md) - 10 shared documents
 - [1993](../events/1993.md) - 9 shared documents
 - [2010](../events/2010.md) - 9 shared documents
-- [last week](../events/last-week.md) - 8 shared documents
-- [1994](../events/1994.md) - 8 shared documents
 - [1979](../events/1979.md) - 8 shared documents
+- [1994](../events/1994.md) - 8 shared documents
+- [last week](../events/last-week.md) - 8 shared documents
 
 ## Timeline
 

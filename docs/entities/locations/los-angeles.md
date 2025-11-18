@@ -36,8 +36,7 @@ Top 10 documents by mention frequency:
 - [San Francisco](../people/san-francisco.md) - 27 shared documents
 - [Middle East](../people/middle-east.md) - 22 shared documents
 - [White House](../people/white-house.md) - 21 shared documents
-- [Barack Obama](../people/barack-obama.md) - 20 shared documents
-- [President Obama](../people/president-obama.md) - 19 shared documents
+- [Vanity Fair](../people/vanity-fair.md) - 18 shared documents
 
 **Organizations:**
 
@@ -70,13 +69,13 @@ Top 10 documents by mention frequency:
 - [years](../events/years.md) - 40 shared documents
 - [today](../events/today.md) - 39 shared documents
 - [2007](../events/2007.md) - 38 shared documents
-- [2012](../events/2012.md) - 36 shared documents
 - [2008](../events/2008.md) - 36 shared documents
+- [2012](../events/2012.md) - 36 shared documents
 - [2009](../events/2009.md) - 34 shared documents
 - [2011](../events/2011.md) - 33 shared documents
 - [2010](../events/2010.md) - 32 shared documents
 - [2004](../events/2004.md) - 31 shared documents
-- [annual](../events/annual.md) - 31 shared documents
+- [2005](../events/2005.md) - 31 shared documents
 
 ## Timeline
 

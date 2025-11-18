@@ -33,8 +33,8 @@ Top 7 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
+- [United States](../locations/united-states.md) - 5 shared documents
 - [California](../locations/california.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
 - [Florida](../locations/florida.md) - 4 shared documents

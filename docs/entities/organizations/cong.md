@@ -46,26 +46,26 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 6 shared documents
-- [U.S.](../locations/us.md) - 5 shared documents
-- [Texas](../locations/texas.md) - 5 shared documents
-- [Virginia](../locations/virginia.md) - 5 shared documents
+- [United States](../locations/united-states.md) - 6 shared documents
 - [Fla.](../locations/fla.md) - 5 shared documents
 - [S.D.](../locations/sd.md) - 5 shared documents
+- [Texas](../locations/texas.md) - 5 shared documents
+- [U.S.](../locations/us.md) - 5 shared documents
+- [Virginia](../locations/virginia.md) - 5 shared documents
 
 **Events:**
 
-- [2004](../events/2004.md) - 6 shared documents
 - [1996](../events/1996.md) - 6 shared documents
 - [2000](../events/2000.md) - 6 shared documents
+- [2004](../events/2004.md) - 6 shared documents
 - [2005](../events/2005.md) - 6 shared documents
-- [2003](../events/2003.md) - 5 shared documents
+- [1965](../events/1965.md) - 5 shared documents
+- [1972](../events/1972.md) - 5 shared documents
+- [1984](../events/1984.md) - 5 shared documents
+- [1987](../events/1987.md) - 5 shared documents
 - [1990](../events/1990.md) - 5 shared documents
 - [1993](../events/1993.md) - 5 shared documents
-- [1997](../events/1997.md) - 5 shared documents
-- [1998](../events/1998.md) - 5 shared documents
-- [1999](../events/1999.md) - 5 shared documents
 
 ## Timeline
 

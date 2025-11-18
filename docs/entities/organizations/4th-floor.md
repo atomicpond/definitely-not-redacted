@@ -29,7 +29,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 56 shared documents
 - [Lexington Avenue](../people/lexington-avenue.md) - 47 shared documents
 - [Richard Kahn](../people/richard-kahn.md) - 43 shared documents
 - [Associates Inc](../people/associates-inc.md) - 38 shared documents
@@ -38,10 +37,10 @@ New](../people/floor-new.md) - 35 shared documents
 - [DARREN K. INDYKE](../people/darren-k-indyke.md) - 28 shared documents
 - [Darren Indyke](../people/darren-indyke.md) - 24 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 14 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 13 shared documents
 - [Donald 
-Trump](../people/donald-trump.md) - 12 shared documents
+Trump](../people/donald-trump.md) - 13 shared documents
+- [Steven](../people/steven.md) - 12 shared documents
+- [Steven J. Hoffenberg](../people/steven-j-hoffenberg.md) - 12 shared documents
 
 **Organizations:**
 
@@ -71,15 +70,15 @@ New York, NY](../locations/floor-new-york-ny.md) - 30 shared documents
 **Events:**
 
 - [2016](../events/2016.md) - 18 shared documents
-- [today](../events/today.md) - 8 shared documents
 - [2017](../events/2017.md) - 8 shared documents
+- [today](../events/today.md) - 8 shared documents
 - [August 11, 2016](../events/august-11-2016.md) - 7 shared documents
 - [Monday, August 15, 2016](../events/monday-august-15-2016.md) - 7 shared documents
 - [OCT 10 2016](../events/oct-10-2016.md) - 7 shared documents
-- [Monday](../events/monday.md) - 6 shared documents
 - [Friday](../events/friday.md) - 6 shared documents
+- [Monday](../events/monday.md) - 6 shared documents
 - [August 16, 2016](../events/august-16-2016.md) - 5 shared documents
-- [last year](../events/last-year.md) - 4 shared documents
+- [10 years](../events/10-years.md) - 4 shared documents
 
 ## Timeline
 

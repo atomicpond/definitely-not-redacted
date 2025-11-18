@@ -13,9 +13,9 @@
 - [CLINTON](../entities/people/clinton.md) - 12 mentions
 - [Jeffrey](../entities/people/jeffrey.md) - 12 mentions
 - [Mrs. 
-Gore](../entities/people/mrs-gore.md) - 9 mentions
+Gore](../entities/people/gore.md) - 9 mentions
 - [Mr. 
-Dershowitz](../entities/people/mr-dershowitz.md) - 7 mentions
+Dershowitz](../entities/people/alan-dershowitz.md) - 7 mentions
 - [BILL](../entities/people/bill.md) - 7 mentions
 - [Epstein](../entities/people/epstein.md) - 6 mentions
 - [President Clinton](../entities/people/president-clinton.md) - 4 mentions

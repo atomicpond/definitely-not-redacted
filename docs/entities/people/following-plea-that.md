@@ -24,7 +24,6 @@ Top 5 documents by mention frequency:
 
 **People:**
 
-- [Implicated Trump](implicated-trump.md) - 5 shared documents
 - [Michael Cohen](michael-cohen.md) - 5 shared documents
 - [Michael Cohen Sentenced](michael-cohen-sentenced.md) - 5 shared documents
 - [Years In Prison](years-in-prison.md) - 5 shared documents
@@ -35,8 +34,8 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [3 years](../events/3-years.md) - 5 shared documents
 - [12/12/2018](../events/12122018.md) - 5 shared documents
+- [3 years](../events/3-years.md) - 5 shared documents
 - [2018](../events/2018.md) - 4 shared documents
 
 ## Timeline

@@ -9,12 +9,12 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Obama](../entities/people/mr-obama.md) - 17 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 17 mentions
 - [United 
 States](../entities/people/united-states.md) - 13 mentions
 - [Maliki](../entities/people/maliki.md) - 12 mentions
 - [Khamenei](../entities/people/khamenei.md) - 10 mentions
-- [Mr. Belaid](../entities/people/mr-belaid.md) - 10 mentions
+- [Mr. Belaid](../entities/people/belaid.md) - 10 mentions
 - [White House](../entities/people/white-house.md) - 7 mentions
 - [Biden](../entities/people/biden.md) - 6 mentions
 - [Ahmadinejad](../entities/people/ahmadinejad.md) - 5 mentions

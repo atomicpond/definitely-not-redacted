@@ -41,28 +41,28 @@ Top 7 documents by mention frequency:
 **Locations:**
 
 - [United States](../locations/united-states.md) - 7 shared documents
-- [New York](../locations/new-york.md) - 5 shared documents
-- [U.S.](../locations/us.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
+- [U.S.](../locations/us.md) - 5 shared documents
 - [Virginia](../locations/virginia.md) - 5 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 - [D.C.](../locations/dc.md) - 4 shared documents
+- [Europe](../locations/europe.md) - 4 shared documents
 - [Florida](../locations/florida.md) - 4 shared documents
 
 **Events:**
 
-- [2012](../events/2012.md) - 7 shared documents
-- [2011](../events/2011.md) - 7 shared documents
 - [1998](../events/1998.md) - 7 shared documents
-- [2015](../events/2015.md) - 6 shared documents
+- [2011](../events/2011.md) - 7 shared documents
+- [2012](../events/2012.md) - 7 shared documents
 - [1993](../events/1993.md) - 6 shared documents
 - [1999](../events/1999.md) - 6 shared documents
 - [2005](../events/2005.md) - 6 shared documents
 - [2008](../events/2008.md) - 6 shared documents
 - [2010](../events/2010.md) - 6 shared documents
-- [2004](../events/2004.md) - 5 shared documents
+- [2015](../events/2015.md) - 6 shared documents
+- [1970](../events/1970.md) - 5 shared documents
 
 ## Timeline
 

@@ -59,9 +59,8 @@ Sender](yes-sender.md) - 26 shared documents
 - [N.Y.](../locations/ny.md) - 13 shared documents
 - [NYC](../locations/nyc.md) - 12 shared documents
 - [Iran](../locations/iran.md) - 10 shared documents
-- [Palm Beach](../locations/palm-beach.md) - 9 shared documents
 - [D.C.](../locations/dc.md) - 9 shared documents
-- [Qatar](../locations/qatar.md) - 7 shared documents
+- [Palm Beach](../locations/palm-beach.md) - 9 shared documents
 
 **Events:**
 

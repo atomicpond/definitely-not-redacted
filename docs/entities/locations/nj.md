@@ -53,22 +53,22 @@ Top 9 documents by mention frequency:
 - [California](california.md) - 7 shared documents
 - [N.Y.](ny.md) - 6 shared documents
 - [Washington](washington.md) - 6 shared documents
-- [Florida](florida.md) - 6 shared documents
 - [Oregon](oregon.md) - 5 shared documents
 - [S.D.](sd.md) - 5 shared documents
+- [U.S.](us.md) - 5 shared documents
 
 **Events:**
 
 - [1996](../events/1996.md) - 9 shared documents
 - [2000](../events/2000.md) - 9 shared documents
-- [2003](../events/2003.md) - 8 shared documents
+- [1977](../events/1977.md) - 8 shared documents
+- [1979](../events/1979.md) - 8 shared documents
 - [1985](../events/1985.md) - 8 shared documents
 - [1990](../events/1990.md) - 8 shared documents
+- [1994](../events/1994.md) - 8 shared documents
 - [1998](../events/1998.md) - 8 shared documents
 - [2001](../events/2001.md) - 8 shared documents
-- [2005](../events/2005.md) - 8 shared documents
 - [2002](../events/2002.md) - 8 shared documents
-- [1977](../events/1977.md) - 8 shared documents
 
 ## Timeline
 

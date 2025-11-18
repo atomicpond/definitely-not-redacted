@@ -37,10 +37,10 @@ Top 10 documents by mention frequency:
 - [Robert Maxwell](../people/robert-maxwell.md) - 17 shared documents
 - [Les Wexner](../people/les-wexner.md) - 16 shared documents
 - [Vanity Fair](../people/vanity-fair.md) - 15 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 13 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 13 shared documents
 - [Brett Jaffe](../people/brett-jaffe.md) - 13 shared documents
 - [Ehud Barak](../people/ehud-barak.md) - 13 shared documents
+- [Alfredo Rodriguez](../people/alfredo-rodriguez.md) - 12 shared documents
+- [Bear Stearns](../people/bear-stearns.md) - 12 shared documents
 
 **Organizations:**
 
@@ -63,22 +63,22 @@ Wexner](les-wexner.md) - 14 shared documents
 - [New York](../locations/new-york.md) - 26 shared documents
 - [New York City](../locations/new-york-city.md) - 23 shared documents
 - [London](../locations/london.md) - 22 shared documents
-- [United States](../locations/united-states.md) - 21 shared documents
 - [the United States](../locations/the-united-states.md) - 21 shared documents
+- [United States](../locations/united-states.md) - 21 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 19 shared documents
+- [New Mexico](../locations/new-mexico.md) - 18 shared documents
 - [the Southern District](../locations/the-southern-district.md) - 18 shared documents
-- [Virginia](../locations/virginia.md) - 18 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 30 shared documents
 - [Sunday](../events/sunday.md) - 26 shared documents
 - [2001](../events/2001.md) - 22 shared documents
-- [2011](../events/2011.md) - 19 shared documents
 - [2010](../events/2010.md) - 19 shared documents
+- [2011](../events/2011.md) - 19 shared documents
 - [2009](../events/2009.md) - 17 shared documents
-- [daily](../events/daily.md) - 16 shared documents
 - [2005](../events/2005.md) - 16 shared documents
+- [daily](../events/daily.md) - 16 shared documents
 - [tomorrow](../events/tomorrow.md) - 16 shared documents
 - [2008](../events/2008.md) - 15 shared documents
 

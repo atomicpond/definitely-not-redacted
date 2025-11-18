@@ -47,8 +47,8 @@ Elisa New](lisa-elisa-new.md) - 16 shared documents
 
 **Organizations:**
 
-- [Harvard University](../organizations/harvard-university.md) - 27 shared documents
 - [American Literature](../organizations/american-literature.md) - 27 shared documents
+- [Harvard University](../organizations/harvard-university.md) - 27 shared documents
 - [HOUSE](../organizations/house.md) - 21 shared documents
 - [Cabot Professor of American Literature 
 Harvard University](../organizations/cabot-professor-of-american-literature-harvard-university.md) - 17 shared documents
@@ -57,14 +57,14 @@ Harvard University](../organizations/cabot-professor-of-american-literature-harv
 Harvard University](../organizations/poetry-in-america-harvard-university.md) - 9 shared documents
 - [WGBH](../organizations/wgbh.md) - 8 shared documents
 - [Greenwich Country Day School](../organizations/greenwich-country-day-school.md) - 7 shared documents
-- [The Nantucket Project](../organizations/the-nantucket-project.md) - 7 shared documents
 - [the College Board](../organizations/the-college-board.md) - 7 shared documents
+- [The Nantucket Project](../organizations/the-nantucket-project.md) - 7 shared documents
 
 **Locations:**
 
 - [Cambridge](../locations/cambridge.md) - 27 shared documents
-- [MA](../locations/ma.md) - 18 shared documents
 - [Barker Center](../locations/barker-center.md) - 18 shared documents
+- [MA](../locations/ma.md) - 18 shared documents
 - [Quincy Street](../locations/quincy-street.md) - 18 shared documents
 - [Street 
 Cambridge, MA](../locations/street-cambridge-ma.md) - 18 shared documents
@@ -80,9 +80,9 @@ Cambridge, MA](../locations/street-cambridge-ma.md) - 18 shared documents
 - [10:52 AM](../events/1052-am.md) - 9 shared documents
 - [11:05 AM](../events/1105-am.md) - 9 shared documents
 - [Nov 25, 2018](../events/nov-25-2018.md) - 9 shared documents
-- [last year](../events/last-year.md) - 8 shared documents
 - [2017](../events/2017.md) - 8 shared documents
 - [7:30 pm](../events/730-pm.md) - 8 shared documents
+- [last year](../events/last-year.md) - 8 shared documents
 - [this year](../events/this-year.md) - 7 shared documents
 
 ## Timeline

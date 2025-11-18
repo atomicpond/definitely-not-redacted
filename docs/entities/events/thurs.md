@@ -33,7 +33,7 @@ Top 10 documents by mention frequency:
 - [MBS](../people/mbs.md) - 11 shared documents
 - [Ii 
 Sent](../people/ii-sent.md) - 7 shared documents
-- [jeffrey E. <](../people/jeffrey-e.md) - 6 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 6 shared documents
 - [Chat Room](../people/chat-room.md) - 4 shared documents
 - [End Time](../people/end-time.md) - 4 shared documents
 - [Is Invitation](../people/is-invitation.md) - 4 shared documents
@@ -63,13 +63,13 @@ Sent](../people/ii-sent.md) - 7 shared documents
 
 - [Sat](sat.md) - 13 shared documents
 - [Thursday](thursday.md) - 11 shared documents
-- [Sep 8, 2017](sep-8-2017.md) - 11 shared documents
 - [Fri, Sep 8, 2017](fri-sep-8-2017.md) - 11 shared documents
+- [Sep 8, 2017](sep-8-2017.md) - 11 shared documents
 - [Sep 9, 2017](sep-9-2017.md) - 10 shared documents
 - [fri](fri.md) - 9 shared documents
 - [2017](2017.md) - 8 shared documents
-- [Friday](friday.md) - 7 shared documents
 - [9/9/2017](992017.md) - 7 shared documents
+- [Friday](friday.md) - 7 shared documents
 - [tomorrow](tomorrow.md) - 6 shared documents
 
 ## Timeline

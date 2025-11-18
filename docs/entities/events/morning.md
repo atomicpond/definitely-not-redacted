@@ -29,11 +29,12 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [CLINTON](../people/clinton.md) - 14 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 14 shared documents
 - [New
 York](../people/new-york.md) - 12 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 11 shared documents
-- [boris](../people/boris.md) - 9 shared documents
+- [Boris Nikolic](../people/boris-nikolic.md) - 9 shared documents
 - [On Fri](../people/on-fri.md) - 9 shared documents
 - [Kathy 
 Ruemmler](../people/kathy-ruemmler.md) - 8 shared documents

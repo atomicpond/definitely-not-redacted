@@ -55,12 +55,12 @@ Chief](../people/michael-cembalest-chief.md) - 9 shared documents
 - [Europe](../locations/europe.md) - 11 shared documents
 - [Italy](../locations/italy.md) - 10 shared documents
 - [Greece](../locations/greece.md) - 9 shared documents
-- [Spain](../locations/spain.md) - 9 shared documents
 - [Latin America](../locations/latin-america.md) - 9 shared documents
-- [US](../locations/us.md) - 9 shared documents
 - [N.A.](../locations/na.md) - 9 shared documents
-- [Japan](../locations/japan.md) - 8 shared documents
+- [Spain](../locations/spain.md) - 9 shared documents
+- [US](../locations/us.md) - 9 shared documents
 - [Germany](../locations/germany.md) - 8 shared documents
+- [Japan](../locations/japan.md) - 8 shared documents
 
 **Events:**
 
@@ -68,12 +68,12 @@ Chief](../people/michael-cembalest-chief.md) - 9 shared documents
 - [this year](../events/this-year.md) - 11 shared documents
 - [2012](../events/2012.md) - 9 shared documents
 - [last week](../events/last-week.md) - 8 shared documents
-- [next year](../events/next-year.md) - 7 shared documents
 - [2011](../events/2011.md) - 7 shared documents
+- [next year](../events/next-year.md) - 7 shared documents
 - [the last decade](../events/the-last-decade.md) - 7 shared documents
-- [this week](../events/this-week.md) - 6 shared documents
 - [the year](../events/the-year.md) - 6 shared documents
-- [2009](../events/2009.md) - 5 shared documents
+- [this week](../events/this-week.md) - 6 shared documents
+- [1980](../events/1980.md) - 5 shared documents
 
 ## Timeline
 

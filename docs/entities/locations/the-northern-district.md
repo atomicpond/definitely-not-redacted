@@ -36,7 +36,8 @@ Top 9 documents by mention frequency:
 - [Ben Sasse](../people/ben-sasse.md) - 7 shared documents
 - [Brad Edwards](../people/brad-edwards.md) - 7 shared documents
 - [Byung J. "BJay](../people/byung-j-bjay.md) - 7 shared documents
-- [Mr. Edwards](../people/edwards.md) - 7 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 7 shared documents
 - [Emily Michot](../people/emily-michot.md) - 7 shared documents
 
 **Organizations:**
@@ -54,29 +55,29 @@ Top 9 documents by mention frequency:
 
 **Locations:**
 
-- [New York](new-york.md) - 9 shared documents
 - [Florida](florida.md) - 9 shared documents
+- [New York](new-york.md) - 9 shared documents
 - [Palm Beach](palm-beach.md) - 8 shared documents
 - [US](us.md) - 7 shared documents
-- [Caribbean](caribbean.md) - 7 shared documents
 - [Atlanta](atlanta.md) - 7 shared documents
-- [Miami](miami.md) - 7 shared documents
-- [Palm Beach County](palm-beach-county.md) - 7 shared documents
+- [Caribbean](caribbean.md) - 7 shared documents
 - [Georgia](georgia.md) - 7 shared documents
+- [Miami](miami.md) - 7 shared documents
 - [Nebraska](nebraska.md) - 7 shared documents
+- [Palm Beach County](palm-beach-county.md) - 7 shared documents
 
 **Events:**
 
-- [2009](../events/2009.md) - 9 shared documents
 - [2008](../events/2008.md) - 9 shared documents
-- [Monday](../events/monday.md) - 7 shared documents
-- [2017](../events/2017.md) - 7 shared documents
-- [Friday](../events/friday.md) - 7 shared documents
-- [Tuesday](../events/tuesday.md) - 7 shared documents
+- [2009](../events/2009.md) - 9 shared documents
 - [13 months](../events/13-months.md) - 7 shared documents
-- [September](../events/september.md) - 7 shared documents
+- [2017](../events/2017.md) - 7 shared documents
 - [66](../events/66.md) - 7 shared documents
+- [Feb. 22](../events/feb-22.md) - 7 shared documents
+- [Friday](../events/friday.md) - 7 shared documents
 - [just days](../events/just-days.md) - 7 shared documents
+- [Monday](../events/monday.md) - 7 shared documents
+- [October 2017](../events/october-2017.md) - 7 shared documents
 
 ## Timeline
 

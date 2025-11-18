@@ -17,7 +17,7 @@
 
 ### People
 - [Rothstein](../entities/people/rothstein.md) - 5 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 3 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 3 mentions
 - [New
 York](../entities/people/new-york.md) - 3 mentions
 - [President Obama](../entities/people/president-obama.md) - 1 mention

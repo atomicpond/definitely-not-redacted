@@ -36,10 +36,10 @@ Top 10 documents by mention frequency:
 - [Mark Cohen](../people/mark-cohen.md) - 11 shared documents
 - [Stephen Kosslyn](../people/stephen-kosslyn.md) - 11 shared documents
 - [Brett D. Jaffe](../people/brett-d-jaffe.md) - 10 shared documents
+- [Ghislaine Maxwell](../people/ghislaine-maxwell.md) - 10 shared documents
 - [Jaffe 
 Subject](../people/jaffe-subject.md) - 10 shared documents
 - [Les Wexner](../people/les-wexner.md) - 10 shared documents
-- [Ms Maxwell](../people/ms-maxwell.md) - 10 shared documents
 
 **Organizations:**
 

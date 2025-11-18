@@ -29,10 +29,6 @@ Top 10 documents by mention frequency:
 
 ### Most Frequently Co-occurring Entities
 
-**People:**
-
-- [Barack Obama](../people/barack-obama.md) - 6 shared documents
-
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 8 shared documents
@@ -63,10 +59,10 @@ Top 10 documents by mention frequency:
 - [this year](this-year.md) - 9 shared documents
 - [2015](2015.md) - 9 shared documents
 - [years](years.md) - 8 shared documents
-- [2009](2009.md) - 8 shared documents
-- [2016](2016.md) - 8 shared documents
 - [2008](2008.md) - 8 shared documents
+- [2009](2009.md) - 8 shared documents
 - [2010](2010.md) - 8 shared documents
+- [2016](2016.md) - 8 shared documents
 
 ## Timeline
 

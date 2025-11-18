@@ -47,19 +47,19 @@ Harvard](american-literature-harvard.md) - 5 shared documents
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 9 shared documents
-- [Harvard University](../organizations/harvard-university.md) - 7 shared documents
 - [American Literature](../organizations/american-literature.md) - 7 shared documents
 - [Cabot Professor of American Literature 
 Harvard University](../organizations/cabot-professor-of-american-literature-harvard-university.md) - 7 shared documents
 - [Harvard](../organizations/harvard.md) - 7 shared documents
+- [Harvard University](../organizations/harvard-university.md) - 7 shared documents
 - [WGBH](../organizations/wgbh.md) - 5 shared documents
 
 **Locations:**
 
 - [Cambridge](../locations/cambridge.md) - 7 shared documents
 - [America](../locations/america.md) - 5 shared documents
-- [MA](../locations/ma.md) - 5 shared documents
 - [Barker Center](../locations/barker-center.md) - 5 shared documents
+- [MA](../locations/ma.md) - 5 shared documents
 - [Quincy Street](../locations/quincy-street.md) - 5 shared documents
 - [Street 
 Cambridge, MA](../locations/street-cambridge-ma.md) - 5 shared documents

@@ -51,13 +51,13 @@ Top 9 documents by mention frequency:
 
 **Events:**
 
+- [2013](2013.md) - 8 shared documents
 - [2015](2015.md) - 8 shared documents
 - [annual](annual.md) - 8 shared documents
-- [2013](2013.md) - 8 shared documents
 - [June 2014](june-2014.md) - 7 shared documents
+- [2000](2000.md) - 7 shared documents
 - [2003](2003.md) - 7 shared documents
 - [2004](2004.md) - 7 shared documents
-- [2000](2000.md) - 7 shared documents
 - [2012](2012.md) - 7 shared documents
 - [the 1990s](the-1990s.md) - 6 shared documents
 - [today](today.md) - 6 shared documents

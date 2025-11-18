@@ -39,7 +39,7 @@ Top 10 documents by mention frequency:
 - [BILL](../people/bill.md) - 18 shared documents
 - [Bill 
 Clinton](../people/bill-clinton.md) - 18 shared documents
-- [Bruce Wasserstein](../people/bruce-wasserstein.md) - 18 shared documents
+- [Bill Gates](../people/bill-gates.md) - 18 shared documents
 
 **Organizations:**
 
@@ -52,6 +52,7 @@ Clinton](../people/bill-clinton.md) - 18 shared documents
 - [Vanity Fairstory](../organizations/vanity-fairstory.md) - 19 shared documents
 - [Bear Stearns](../organizations/bear-stearns.md) - 18 shared documents
 - [Prince Andrew](../organizations/prince-andrew.md) - 18 shared documents
+- [HOUSE](../organizations/house.md) - 17 shared documents
 
 **Locations:**
 
@@ -67,13 +68,13 @@ Clinton](../people/bill-clinton.md) - 18 shared documents
 - [many years](many-years.md) - 22 shared documents
 - [weeks](weeks.md) - 20 shared documents
 - [years](years.md) - 19 shared documents
-- [2003](2003.md) - 19 shared documents
-- [last week](last-week.md) - 19 shared documents
-- [a year](a-year.md) - 19 shared documents
 - [14](14.md) - 19 shared documents
 - [1981](1981.md) - 19 shared documents
-- [57](57.md) - 19 shared documents
+- [2003](2003.md) - 19 shared documents
 - [48-year-old](48-year-old.md) - 19 shared documents
+- [57](57.md) - 19 shared documents
+- [a year](a-year.md) - 19 shared documents
+- [last week](last-week.md) - 19 shared documents
 
 ## Timeline
 

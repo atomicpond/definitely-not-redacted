@@ -43,10 +43,9 @@ Richard Kahn](../people/high-richard-kahn.md) - 7 shared documents
 - [Richard Kahn 
 Sent](../people/richard-kahn-sent.md) - 6 shared documents
 - [Floor New York](../people/floor-new-york.md) - 5 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 5 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 4 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 4 shared documents
-- [President Trump](../people/president-trump.md) - 4 shared documents
 
 **Organizations:**
 
@@ -57,8 +56,8 @@ Trump](../people/trump.md) - 5 shared documents
 **Locations:**
 
 - [New York](../locations/new-york.md) - 8 shared documents
-- [US](../locations/us.md) - 6 shared documents
 - [N.Y.](../locations/ny.md) - 6 shared documents
+- [US](../locations/us.md) - 6 shared documents
 - [NEW YORK NY](../locations/new-york-ny.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 4 shared documents
 

@@ -57,9 +57,9 @@ Top 10 documents by mention frequency:
 
 - [Paris](paris.md) - 12 shared documents
 - [Boston](boston.md) - 12 shared documents
-- [Europe](europe.md) - 10 shared documents
 - [America](america.md) - 10 shared documents
 - [Caribbean](caribbean.md) - 10 shared documents
+- [Europe](europe.md) - 10 shared documents
 - [Israel](israel.md) - 9 shared documents
 - [Manhattan](manhattan.md) - 9 shared documents
 - [New Mexico](new-mexico.md) - 9 shared documents
@@ -69,15 +69,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [2007](../events/2007.md) - 10 shared documents
-- [daily](../events/daily.md) - 10 shared documents
 - [2010](../events/2010.md) - 10 shared documents
-- [2006](../events/2006.md) - 9 shared documents
-- [tomorrow](../events/tomorrow.md) - 9 shared documents
+- [daily](../events/daily.md) - 10 shared documents
 - [18 months](../events/18-months.md) - 9 shared documents
+- [2006](../events/2006.md) - 9 shared documents
 - [the day](../events/the-day.md) - 9 shared documents
-- [2004](../events/2004.md) - 8 shared documents
-- [Sunday](../events/sunday.md) - 8 shared documents
+- [tomorrow](../events/tomorrow.md) - 9 shared documents
+- [1980](../events/1980.md) - 8 shared documents
 - [1999](../events/1999.md) - 8 shared documents
+- [2002](../events/2002.md) - 8 shared documents
 
 ## Timeline
 

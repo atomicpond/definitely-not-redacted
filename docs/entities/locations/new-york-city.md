@@ -36,17 +36,15 @@ Top 10 documents by mention frequency:
 
 - [New York 
 City](../people/new-york-city.md) - 30 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 25 shared documents
 - [White House](../people/white-house.md) - 25 shared documents
-- [President Obama](../people/president-obama.md) - 24 shared documents
 - [Vanity Fair](../people/vanity-fair.md) - 24 shared documents
 - [Leslie Wexner](../people/leslie-wexner.md) - 23 shared documents
 - [New
 York](../people/new-york.md) - 22 shared documents
-- [Donald 
-Trump](../people/donald-trump.md) - 21 shared documents
 - [Los Angeles](../people/los-angeles.md) - 21 shared documents
 - [New Jersey](../people/new-jersey.md) - 21 shared documents
+- [New Mexico](../people/new-mexico.md) - 21 shared documents
+- [Jane Doe](../people/jane-doe.md) - 20 shared documents
 
 **Organizations:**
 
@@ -71,15 +69,15 @@ Trump](../people/donald-trump.md) - 21 shared documents
 - [Washington](washington.md) - 45 shared documents
 - [Palm Beach](palm-beach.md) - 43 shared documents
 - [Miami](miami.md) - 43 shared documents
-- [London](london.md) - 42 shared documents
 - [America](america.md) - 42 shared documents
+- [London](london.md) - 42 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 58 shared documents
 - [2005](../events/2005.md) - 56 shared documents
-- [years](../events/years.md) - 51 shared documents
 - [2008](../events/2008.md) - 51 shared documents
+- [years](../events/years.md) - 51 shared documents
 - [2011](../events/2011.md) - 49 shared documents
 - [2010](../events/2010.md) - 43 shared documents
 - [2009](../events/2009.md) - 42 shared documents

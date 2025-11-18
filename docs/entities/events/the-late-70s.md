@@ -55,8 +55,8 @@ Top 5 documents by mention frequency:
 - [two nights](two-nights.md) - 5 shared documents
 - [two years](two-years.md) - 5 shared documents
 - [under 18](under-18.md) - 5 shared documents
-- [2004](2004.md) - 5 shared documents
-- [2014](2014.md) - 5 shared documents
+- [10-year](10-year.md) - 5 shared documents
+- [18](18.md) - 5 shared documents
 
 ## Timeline
 

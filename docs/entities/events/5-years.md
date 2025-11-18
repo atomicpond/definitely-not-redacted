@@ -57,11 +57,11 @@ Top 10 documents by mention frequency:
 
 - [this year](this-year.md) - 11 shared documents
 - [weeks](weeks.md) - 10 shared documents
+- [2006](2006.md) - 10 shared documents
 - [2007](2007.md) - 10 shared documents
+- [2008](2008.md) - 10 shared documents
 - [2014](2014.md) - 10 shared documents
 - [2016](2016.md) - 10 shared documents
-- [2008](2008.md) - 10 shared documents
-- [2006](2006.md) - 10 shared documents
 - [85287-1404](85287-1404.md) - 9 shared documents
 - [a full month](a-full-month.md) - 9 shared documents
 - [April 2011](april-2011.md) - 9 shared documents

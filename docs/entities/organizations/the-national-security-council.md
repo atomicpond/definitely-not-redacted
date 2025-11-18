@@ -32,12 +32,12 @@ Top 6 documents by mention frequency:
 
 - [Europe](../locations/europe.md) - 5 shared documents
 - [Washington](../locations/washington.md) - 5 shared documents
-- [Middle East](../locations/middle-east.md) - 4 shared documents
-- [Iraq](../locations/iraq.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
-- [Israel](../locations/israel.md) - 4 shared documents
-- [Paris](../locations/paris.md) - 4 shared documents
 - [Egypt](../locations/egypt.md) - 4 shared documents
+- [Iraq](../locations/iraq.md) - 4 shared documents
+- [Israel](../locations/israel.md) - 4 shared documents
+- [Middle East](../locations/middle-east.md) - 4 shared documents
+- [Paris](../locations/paris.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
 - [the West Bank](../locations/the-west-bank.md) - 4 shared documents
 
 **Events:**

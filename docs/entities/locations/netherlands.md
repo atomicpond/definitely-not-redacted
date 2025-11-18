@@ -30,8 +30,8 @@ Top 10 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 15 shared documents
 - [Middle East](../people/middle-east.md) - 15 shared documents
-- [President Obama](../people/president-obama.md) - 15 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 13 shared documents
 - [San Francisco](../people/san-francisco.md) - 12 shared documents
 - [Harvard University](../people/harvard-university.md) - 11 shared documents
@@ -60,7 +60,7 @@ Top 10 documents by mention frequency:
 - [India](india.md) - 20 shared documents
 - [United States](united-states.md) - 19 shared documents
 - [Spain](spain.md) - 17 shared documents
-- [Europe](europe.md) - 17 shared documents
+- [America](america.md) - 17 shared documents
 
 **Events:**
 
@@ -68,12 +68,12 @@ Top 10 documents by mention frequency:
 - [2012](../events/2012.md) - 22 shared documents
 - [annual](../events/annual.md) - 19 shared documents
 - [2007](../events/2007.md) - 18 shared documents
+- [2000](../events/2000.md) - 17 shared documents
 - [2004](../events/2004.md) - 17 shared documents
 - [2009](../events/2009.md) - 17 shared documents
-- [2015](../events/2015.md) - 17 shared documents
-- [2000](../events/2000.md) - 17 shared documents
 - [2011](../events/2011.md) - 17 shared documents
-- [today](../events/today.md) - 16 shared documents
+- [2015](../events/2015.md) - 17 shared documents
+- [2008](../events/2008.md) - 16 shared documents
 
 ## Timeline
 

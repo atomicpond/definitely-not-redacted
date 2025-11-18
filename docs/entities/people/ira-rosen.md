@@ -32,13 +32,12 @@ Top 8 documents by mention frequency:
 - [Michael Wolff](michael-wolff.md) - 8 shared documents
 - [Rosen](rosen.md) - 8 shared documents
 - [Bill Maher](bill-maher.md) - 8 shared documents
-- [Mr. Bannon](bannon.md) - 8 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 8 shared documents
-- [Trump](../organizations/trump.md) - 8 shared documents
 - [SB](../organizations/sb.md) - 8 shared documents
+- [Trump](../organizations/trump.md) - 8 shared documents
 
 **Locations:**
 
@@ -47,9 +46,9 @@ Top 8 documents by mention frequency:
 
 **Events:**
 
+- [Thu, Jan 18, 2018](../events/thu-jan-18-2018.md) - 8 shared documents
 - [today](../events/today.md) - 8 shared documents
 - [tomorrow](../events/tomorrow.md) - 8 shared documents
-- [Thu, Jan 18, 2018](../events/thu-jan-18-2018.md) - 8 shared documents
 
 ## Timeline
 

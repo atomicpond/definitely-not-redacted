@@ -35,14 +35,15 @@ Top 10 documents by mention frequency:
 
 - [Middle East](../people/middle-east.md) - 11 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 11 shared documents
-- [Mr. Obama](../people/obama.md) - 10 shared documents
-- [President Obama](../people/president-obama.md) - 10 shared documents
-- [Barack Obama](../people/barack-obama.md) - 9 shared documents
+- [Barack Obama](../people/barack-obama.md) - 10 shared documents
 - [Islamic Republic](../people/islamic-republic.md) - 8 shared documents
 - [Assad](../people/assad.md) - 7 shared documents
 - [Bashar al-Assad](../people/bashar-al-assad.md) - 7 shared documents
-- [Benjamin Netanyahu](../people/benjamin-netanyahu.md) - 7 shared documents
+- [Bibi](../people/bibi.md) - 7 shared documents
 - [Foreign Relations](../people/foreign-relations.md) - 7 shared documents
+- [Security Council](../people/security-council.md) - 7 shared documents
+- [United 
+States](../people/united-states.md) - 7 shared documents
 
 **Organizations:**
 
@@ -65,10 +66,10 @@ Top 10 documents by mention frequency:
 - [China](../locations/china.md) - 15 shared documents
 - [Iran](../locations/iran.md) - 14 shared documents
 - [Pakistan](../locations/pakistan.md) - 14 shared documents
-- [Middle East](../locations/middle-east.md) - 12 shared documents
 - [Iraq](../locations/iraq.md) - 12 shared documents
 - [Jordan](../locations/jordan.md) - 12 shared documents
 - [Libya](../locations/libya.md) - 12 shared documents
+- [Middle East](../locations/middle-east.md) - 12 shared documents
 
 **Events:**
 
@@ -77,9 +78,9 @@ Top 10 documents by mention frequency:
 - [2009](../events/2009.md) - 11 shared documents
 - [2000](../events/2000.md) - 10 shared documents
 - [this year](../events/this-year.md) - 10 shared documents
-- [years](../events/years.md) - 9 shared documents
-- [2010](../events/2010.md) - 9 shared documents
 - [2006](../events/2006.md) - 9 shared documents
+- [2010](../events/2010.md) - 9 shared documents
+- [years](../events/years.md) - 9 shared documents
 
 ## Timeline
 

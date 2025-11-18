@@ -35,9 +35,9 @@ Top 10 documents by mention frequency:
 
 - [White House](../people/white-house.md) - 8 shared documents
 - [Middle East](../people/middle-east.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Los Angeles Times](../people/los-angeles-times.md) - 6 shared documents
 - [Middle Eastern](../people/middle-eastern.md) - 6 shared documents
-- [President Obama](../people/president-obama.md) - 6 shared documents
 - [Santa Ana](../people/santa-ana.md) - 6 shared documents
 - [Boies Schiller](../people/boies-schiller.md) - 5 shared documents
 - [David Boies](../people/david-boies.md) - 5 shared documents
@@ -61,14 +61,14 @@ Top 10 documents by mention frequency:
 
 - [California](california.md) - 8 shared documents
 - [the Middle East](the-middle-east.md) - 7 shared documents
+- [Canada](canada.md) - 7 shared documents
 - [Dubai](dubai.md) - 7 shared documents
 - [Los Angeles](los-angeles.md) - 7 shared documents
-- [Canada](canada.md) - 7 shared documents
 - [Texas](texas.md) - 6 shared documents
 - [U.S.](us.md) - 6 shared documents
-- [Irvine](irvine.md) - 6 shared documents
-- [London](london.md) - 6 shared documents
 - [America](america.md) - 6 shared documents
+- [Arizona](arizona.md) - 6 shared documents
+- [Boston](boston.md) - 6 shared documents
 
 **Events:**
 
@@ -79,9 +79,9 @@ Top 10 documents by mention frequency:
 - [Wednesday](../events/wednesday.md) - 9 shared documents
 - [2016](../events/2016.md) - 8 shared documents
 - [annual](../events/annual.md) - 7 shared documents
-- [a day](../events/a-day.md) - 6 shared documents
-- [A few days later](../events/a-few-days-later.md) - 6 shared documents
-- [Two years later](../events/two-years-later.md) - 6 shared documents
+- [2001](../events/2001.md) - 6 shared documents
+- [2010](../events/2010.md) - 6 shared documents
+- [2011](../events/2011.md) - 6 shared documents
 
 ## Timeline
 

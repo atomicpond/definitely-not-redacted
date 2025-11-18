@@ -35,8 +35,8 @@ Top 8 documents by mention frequency:
 
 **Locations:**
 
-- [China](../locations/china.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
+- [China](../locations/china.md) - 4 shared documents
 - [Florida](../locations/florida.md) - 4 shared documents
 - [Paris](../locations/paris.md) - 4 shared documents
 

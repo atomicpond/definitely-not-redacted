@@ -9,7 +9,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 2 mentions
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 2 mentions
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
 - [Mr. 
 Trump](../entities/people/mr-trump.md) - 1 mention

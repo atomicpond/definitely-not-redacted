@@ -37,15 +37,15 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [New York City](../locations/new-york-city.md) - 5 shared documents
 - [Israel](../locations/israel.md) - 5 shared documents
+- [New York City](../locations/new-york-city.md) - 5 shared documents
 
 **Events:**
 
+- [1980](../events/1980.md) - 5 shared documents
 - [1986](../events/1986.md) - 5 shared documents
 - [June](../events/june.md) - 5 shared documents
 - [two weeks](../events/two-weeks.md) - 5 shared documents
-- [1980](../events/1980.md) - 5 shared documents
 - [1987](../events/1987.md) - 4 shared documents
 
 ## Timeline

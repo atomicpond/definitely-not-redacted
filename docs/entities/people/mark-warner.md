@@ -26,10 +26,10 @@ Top 7 documents by mention frequency:
 
 **Organizations:**
 
+- [SEC](../organizations/sec.md) - 4 shared documents
 - [Senate](../organizations/senate.md) - 4 shared documents
 - [State](../organizations/state.md) - 4 shared documents
 - [Supreme Court](../organizations/supreme-court.md) - 4 shared documents
-- [SEC](../organizations/sec.md) - 4 shared documents
 - [Treasury](../organizations/treasury.md) - 4 shared documents
 
 **Locations:**

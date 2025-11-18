@@ -29,7 +29,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Bradley Edwards](../people/bradley-edwards.md) - 6 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 6 shared documents
 - [Crime Victims](../people/crime-victims.md) - 5 shared documents
 - [Jay Lefkowitz](../people/jay-lefkowitz.md) - 5 shared documents
 - [Miami Herald](../people/miami-herald.md) - 5 shared documents
@@ -55,15 +55,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [2009](../events/2009.md) - 6 shared documents
-- [Monday](../events/monday.md) - 6 shared documents
 - [2019](../events/2019.md) - 6 shared documents
-- [November](../events/november.md) - 5 shared documents
+- [Monday](../events/monday.md) - 6 shared documents
 - [13 months](../events/13-months.md) - 5 shared documents
 - [14-year-old](../events/14-year-old.md) - 5 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [2011](../events/2011.md) - 4 shared documents
+- [November](../events/november.md) - 5 shared documents
+- [10 years](../events/10-years.md) - 4 shared documents
 - [2005](../events/2005.md) - 4 shared documents
-- [last month](../events/last-month.md) - 4 shared documents
+- [2011](../events/2011.md) - 4 shared documents
+- [January](../events/january.md) - 4 shared documents
 
 ## Timeline
 

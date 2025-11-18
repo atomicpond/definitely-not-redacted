@@ -17,7 +17,7 @@
 - [Supreme Court](../entities/people/supreme-court.md) - 30 mentions
 - [Kennedy](../entities/people/kennedy.md) - 7 mentions
 - [Social Security](../entities/people/social-security.md) - 5 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 3 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 3 mentions
 - [New
 York](../entities/people/new-york.md) - 3 mentions
 - [President Obama](../entities/people/president-obama.md) - 2 mentions

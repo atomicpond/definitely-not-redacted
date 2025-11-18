@@ -38,16 +38,16 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
-- [today](today.md) - 6 shared documents
 - [last week](last-week.md) - 6 shared documents
+- [today](today.md) - 6 shared documents
+- [10 years](10-years.md) - 5 shared documents
 - [2012](2012.md) - 5 shared documents
 - [last year](last-year.md) - 5 shared documents
 - [one day](one-day.md) - 5 shared documents
-- [10 years](10-years.md) - 5 shared documents
+- [1980](1980.md) - 4 shared documents
+- [2011](2011.md) - 4 shared documents
+- [2013](2013.md) - 4 shared documents
 - [annual](annual.md) - 4 shared documents
-- [this week](this-week.md) - 4 shared documents
-- [this year](this-year.md) - 4 shared documents
-- [the year](the-year.md) - 4 shared documents
 
 ## Timeline
 

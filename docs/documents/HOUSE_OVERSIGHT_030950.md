@@ -12,7 +12,7 @@
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 6 mentions
 - [Darren Indyke](../entities/people/darren-indyke.md) - 2 mentions
 - [Peter Thiel](../entities/people/peter-thiel.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [PETER](../entities/people/peter.md) - 1 mention
 - [Darren](../entities/people/darren.md) - 1 mention
 - [Ian](../entities/people/ian.md) - 1 mention

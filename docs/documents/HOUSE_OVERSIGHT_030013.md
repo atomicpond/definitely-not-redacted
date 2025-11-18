@@ -15,7 +15,7 @@
 
 ### People
 - [Mrs. 
-Gore](../entities/people/mrs-gore.md) - 2 mentions
+Gore](../entities/people/gore.md) - 2 mentions
 - [Middle East](../entities/people/middle-east.md) - 1 mention
 - [Los Angeles](../entities/people/los-angeles.md) - 1 mention
 - [Star Trek](../entities/people/star-trek.md) - 1 mention

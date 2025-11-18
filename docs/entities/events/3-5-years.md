@@ -40,9 +40,9 @@ Top 6 documents by mention frequency:
 
 - [today](today.md) - 5 shared documents
 - [2008](2008.md) - 5 shared documents
+- [1988](1988.md) - 4 shared documents
 - [2009](2009.md) - 4 shared documents
 - [2011](2011.md) - 4 shared documents
-- [1988](1988.md) - 4 shared documents
 
 ## Timeline
 

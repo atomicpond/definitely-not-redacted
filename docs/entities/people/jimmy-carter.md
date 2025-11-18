@@ -33,7 +33,6 @@ Top 10 documents by mention frequency:
 
 - [Middle East](middle-east.md) - 11 shared documents
 - [Mahmoud Abbas](mahmoud-abbas.md) - 8 shared documents
-- [President Obama](president-obama.md) - 8 shared documents
 - [Saudi Arabia](saudi-arabia.md) - 8 shared documents
 - [West Bank](west-bank.md) - 8 shared documents
 - [Los Angeles](los-angeles.md) - 7 shared documents
@@ -41,6 +40,7 @@ Top 10 documents by mention frequency:
 - [Security Council](security-council.md) - 7 shared documents
 - [Tel Aviv](tel-aviv.md) - 7 shared documents
 - [San Francisco](san-francisco.md) - 6 shared documents
+- [White House](white-house.md) - 6 shared documents
 
 **Organizations:**
 
@@ -50,27 +50,27 @@ Top 10 documents by mention frequency:
 
 - [Washington](../locations/washington.md) - 14 shared documents
 - [the Middle East](../locations/the-middle-east.md) - 13 shared documents
-- [the United States](../locations/the-united-states.md) - 12 shared documents
 - [Israel](../locations/israel.md) - 12 shared documents
+- [the United States](../locations/the-united-states.md) - 12 shared documents
+- [America](../locations/america.md) - 11 shared documents
 - [Europe](../locations/europe.md) - 11 shared documents
 - [Germany](../locations/germany.md) - 11 shared documents
-- [America](../locations/america.md) - 11 shared documents
 - [China](../locations/china.md) - 10 shared documents
-- [Russia](../locations/russia.md) - 10 shared documents
 - [France](../locations/france.md) - 10 shared documents
+- [Iran](../locations/iran.md) - 10 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 12 shared documents
 - [months](../events/months.md) - 12 shared documents
+- [today](../events/today.md) - 12 shared documents
 - [2009](../events/2009.md) - 11 shared documents
 - [2012](../events/2012.md) - 11 shared documents
-- [years](../events/years.md) - 11 shared documents
 - [last week](../events/last-week.md) - 11 shared documents
+- [years](../events/years.md) - 11 shared documents
 - [2007](../events/2007.md) - 10 shared documents
-- [Monday](../events/monday.md) - 10 shared documents
 - [decades](../events/decades.md) - 10 shared documents
-- [this year](../events/this-year.md) - 9 shared documents
+- [Monday](../events/monday.md) - 10 shared documents
+- [a year](../events/a-year.md) - 9 shared documents
 
 ## Timeline
 

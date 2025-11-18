@@ -26,27 +26,27 @@ Top 6 documents by mention frequency:
 
 **Organizations:**
 
-- [Senate](senate.md) - 4 shared documents
-- [Fed](fed.md) - 4 shared documents
-- [Defense](defense.md) - 4 shared documents
 - [Bank](bank.md) - 4 shared documents
+- [Defense](defense.md) - 4 shared documents
+- [Fed](fed.md) - 4 shared documents
+- [Senate](senate.md) - 4 shared documents
 
 **Locations:**
 
 - [Europe](../locations/europe.md) - 5 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
 - [Asia](../locations/asia.md) - 4 shared documents
 - [Iowa](../locations/iowa.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
 
 **Events:**
 
+- [2008](../events/2008.md) - 4 shared documents
 - [2009](../events/2009.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
+- [last week](../events/last-week.md) - 4 shared documents
 - [last year](../events/last-year.md) - 4 shared documents
 - [this week](../events/this-week.md) - 4 shared documents
-- [last week](../events/last-week.md) - 4 shared documents
-- [2008](../events/2008.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

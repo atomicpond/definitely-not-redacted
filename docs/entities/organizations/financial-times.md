@@ -29,12 +29,10 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 9 shared documents
 - [Middle East](../people/middle-east.md) - 9 shared documents
-- [President Obama](../people/president-obama.md) - 6 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Bashar al-Assad](../people/bashar-al-assad.md) - 5 shared documents
 - [John McFarlane](../people/john-mcfarlane.md) - 5 shared documents
-- [President Barack Obama](../people/president-barack-obama.md) - 5 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 5 shared documents
 
 **Organizations:**
@@ -56,24 +54,24 @@ Top 10 documents by mention frequency:
 - [Europe](../locations/europe.md) - 13 shared documents
 - [Russia](../locations/russia.md) - 13 shared documents
 - [the United States](../locations/the-united-states.md) - 12 shared documents
-- [Japan](../locations/japan.md) - 11 shared documents
-- [Germany](../locations/germany.md) - 11 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 11 shared documents
 - [America](../locations/america.md) - 11 shared documents
+- [Germany](../locations/germany.md) - 11 shared documents
 - [Iran](../locations/iran.md) - 11 shared documents
 - [Iraq](../locations/iraq.md) - 11 shared documents
-- [Syria](../locations/syria.md) - 11 shared documents
+- [Japan](../locations/japan.md) - 11 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 13 shared documents
 - [2007](../events/2007.md) - 10 shared documents
 - [annual](../events/annual.md) - 10 shared documents
-- [2014](../events/2014.md) - 9 shared documents
 - [2005](../events/2005.md) - 9 shared documents
 - [2008](../events/2008.md) - 9 shared documents
+- [2014](../events/2014.md) - 9 shared documents
 - [tomorrow](../events/tomorrow.md) - 9 shared documents
+- [2006](../events/2006.md) - 8 shared documents
 - [2009](../events/2009.md) - 8 shared documents
-- [the 1980s](../events/the-1980s.md) - 8 shared documents
 - [2011](../events/2011.md) - 8 shared documents
 
 ## Timeline

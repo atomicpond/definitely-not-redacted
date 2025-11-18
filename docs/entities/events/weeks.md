@@ -31,7 +31,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Epstein](../people/epstein.md) - 25 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 25 shared documents
 - [Warren Buffett](../people/warren-buffett.md) - 24 shared documents
 
@@ -46,6 +45,7 @@ Top 10 documents by mention frequency:
 - [Ghislaine](../organizations/ghislaine.md) - 23 shared documents
 - [BBC](../organizations/bbc.md) - 22 shared documents
 - [Congress](../organizations/congress.md) - 22 shared documents
+- [The New Yorker](../organizations/the-new-yorker.md) - 21 shared documents
 
 **Locations:**
 
@@ -69,8 +69,8 @@ Top 10 documents by mention frequency:
 - [many years](many-years.md) - 40 shared documents
 - [1981](1981.md) - 37 shared documents
 - [last week](last-week.md) - 36 shared documents
-- [2008](2008.md) - 34 shared documents
 - [2006](2006.md) - 34 shared documents
+- [2008](2008.md) - 34 shared documents
 - [Friday](friday.md) - 33 shared documents
 
 ## Timeline

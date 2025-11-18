@@ -56,13 +56,13 @@ Sender](wow-sender.md) - 8 shared documents
 - [China](../locations/china.md) - 13 shared documents
 - [Paris](../locations/paris.md) - 12 shared documents
 - [New York](../locations/new-york.md) - 7 shared documents
-- [Qatar](../locations/qatar.md) - 6 shared documents
 - [NYC](../locations/nyc.md) - 6 shared documents
+- [Qatar](../locations/qatar.md) - 6 shared documents
+- [D.C.](../locations/dc.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
 - [Israel](../locations/israel.md) - 5 shared documents
-- [Palm Beach](../locations/palm-beach.md) - 5 shared documents
 - [N.Y.](../locations/ny.md) - 5 shared documents
-- [D.C.](../locations/dc.md) - 5 shared documents
+- [Palm Beach](../locations/palm-beach.md) - 5 shared documents
 
 **Events:**
 
@@ -73,9 +73,9 @@ Sender](wow-sender.md) - 8 shared documents
 - [tonight](../events/tonight.md) - 7 shared documents
 - [Monday](../events/monday.md) - 6 shared documents
 - [next week](../events/next-week.md) - 6 shared documents
-- [Morning](../events/morning.md) - 5 shared documents
 - [afternoon](../events/afternoon.md) - 5 shared documents
-- [Thursday](../events/thursday.md) - 4 shared documents
+- [Morning](../events/morning.md) - 5 shared documents
+- [Saturday](../events/saturday.md) - 4 shared documents
 
 ## Timeline
 

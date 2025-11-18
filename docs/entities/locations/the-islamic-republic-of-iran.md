@@ -28,7 +28,7 @@ Top 8 documents by mention frequency:
 **People:**
 
 - [Islamic Republic](../people/islamic-republic.md) - 8 shared documents
-- [President Obama](../people/president-obama.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [General Assembly](../people/general-assembly.md) - 6 shared documents
 
 **Organizations:**
@@ -48,27 +48,27 @@ Top 8 documents by mention frequency:
 
 - [Israel](israel.md) - 8 shared documents
 - [West](west.md) - 7 shared documents
-- [Russia](russia.md) - 7 shared documents
 - [Gaza](gaza.md) - 7 shared documents
+- [Russia](russia.md) - 7 shared documents
 - [the Soviet Union](the-soviet-union.md) - 6 shared documents
 - [the State of Israel](the-state-of-israel.md) - 6 shared documents
 - [Vietnam](vietnam.md) - 5 shared documents
+- [anti-Israel](anti-israel.md) - 5 shared documents
+- [Cincinnati](cincinnati.md) - 5 shared documents
 - [Earth](earth.md) - 5 shared documents
-- [Rome](rome.md) - 5 shared documents
-- [Pearl Harbor](pearl-harbor.md) - 5 shared documents
 
 **Events:**
 
 - [decades](../events/decades.md) - 7 shared documents
 - [the day](../events/the-day.md) - 7 shared documents
 - [daily](../events/daily.md) - 6 shared documents
-- [70](../events/70.md) - 5 shared documents
-- [last year](../events/last-year.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [2013](../events/2013.md) - 5 shared documents
-- [week](../events/week.md) - 5 shared documents
-- [the 1950s](../events/the-1950s.md) - 5 shared documents
 - [1991](../events/1991.md) - 5 shared documents
+- [2/8/2013](../events/2-8-2013.md) - 5 shared documents
+- [2013](../events/2013.md) - 5 shared documents
+- [70](../events/70.md) - 5 shared documents
+- [February 8, 2013](../events/february-8-2013.md) - 5 shared documents
+- [Just this week](../events/just-this-week.md) - 5 shared documents
+- [last year](../events/last-year.md) - 5 shared documents
 
 ## Timeline
 

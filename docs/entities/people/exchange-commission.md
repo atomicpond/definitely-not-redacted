@@ -36,27 +36,27 @@ States](united-states.md) - 5 shared documents
 
 - [the Securities and Exchange Commission](../organizations/the-securities-and-exchange-commission.md) - 6 shared documents
 - [Bloomberg](../organizations/bloomberg.md) - 4 shared documents
-- [Fed](../organizations/fed.md) - 4 shared documents
 - [Congress](../organizations/congress.md) - 4 shared documents
+- [Fed](../organizations/fed.md) - 4 shared documents
 
 **Locations:**
 
 - [US](../locations/us.md) - 7 shared documents
 - [China](../locations/china.md) - 6 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
+- [non-US](../locations/non-us.md) - 5 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [non-US](../locations/non-us.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
-- [Middle East](../locations/middle-east.md) - 4 shared documents
+- [Asia](../locations/asia.md) - 4 shared documents
 - [Canada](../locations/canada.md) - 4 shared documents
-- [Mexico](../locations/mexico.md) - 4 shared documents
+- [Iran](../locations/iran.md) - 4 shared documents
+- [Israel](../locations/israel.md) - 4 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 5 shared documents
-- [October](../events/october.md) - 4 shared documents
 - [2015](../events/2015.md) - 4 shared documents
+- [October](../events/october.md) - 4 shared documents
 
 ## Timeline
 

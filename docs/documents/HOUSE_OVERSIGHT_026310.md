@@ -9,7 +9,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 1 mention
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 1 mention
 - [Steve Bannon](../entities/people/steve-bannon.md) - 1 mention
 - [Steve Bannon 
 Sent](../entities/people/steve-bannon-sent.md) - 1 mention

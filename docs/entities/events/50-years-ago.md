@@ -59,10 +59,10 @@ Top 10 documents by mention frequency:
 - [annual](annual.md) - 6 shared documents
 - [decades](decades.md) - 6 shared documents
 - [recent years](recent-years.md) - 6 shared documents
-- [2003](2003.md) - 6 shared documents
-- [2000](2000.md) - 6 shared documents
-- [2013](2013.md) - 6 shared documents
 - [1952](1952.md) - 6 shared documents
+- [2000](2000.md) - 6 shared documents
+- [2003](2003.md) - 6 shared documents
+- [2013](2013.md) - 6 shared documents
 
 ## Timeline
 

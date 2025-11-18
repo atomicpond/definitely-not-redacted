@@ -37,8 +37,8 @@ Top 10 documents by mention frequency:
 
 - [HOUSE](../organizations/house.md) - 11 shared documents
 - [iPhone](../organizations/iphone.md) - 10 shared documents
-- [Trump](../organizations/trump.md) - 5 shared documents
 - [Sun](../organizations/sun.md) - 5 shared documents
+- [Trump](../organizations/trump.md) - 5 shared documents
 
 **Locations:**
 

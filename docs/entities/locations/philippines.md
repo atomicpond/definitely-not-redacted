@@ -33,7 +33,7 @@ Top 10 documents by mention frequency:
 - [Middle East](../people/middle-east.md) - 20 shared documents
 - [White House](../people/white-house.md) - 13 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 12 shared documents
-- [President Obama](../people/president-obama.md) - 11 shared documents
+- [Barack Obama](../people/barack-obama.md) - 11 shared documents
 
 **Organizations:**
 
@@ -54,10 +54,10 @@ Top 10 documents by mention frequency:
 - [China](china.md) - 25 shared documents
 - [India](india.md) - 25 shared documents
 - [the United States](the-united-states.md) - 24 shared documents
-- [Europe](europe.md) - 24 shared documents
 - [Asia](asia.md) - 24 shared documents
-- [Japan](japan.md) - 23 shared documents
+- [Europe](europe.md) - 24 shared documents
 - [Germany](germany.md) - 23 shared documents
+- [Japan](japan.md) - 23 shared documents
 - [France](france.md) - 22 shared documents
 - [Russia](russia.md) - 20 shared documents
 
@@ -65,10 +65,10 @@ Top 10 documents by mention frequency:
 
 - [today](../events/today.md) - 26 shared documents
 - [2001](../events/2001.md) - 20 shared documents
-- [2015](../events/2015.md) - 19 shared documents
 - [2012](../events/2012.md) - 19 shared documents
-- [2007](../events/2007.md) - 18 shared documents
+- [2015](../events/2015.md) - 19 shared documents
 - [2000](../events/2000.md) - 18 shared documents
+- [2007](../events/2007.md) - 18 shared documents
 - [2005](../events/2005.md) - 17 shared documents
 - [2010](../events/2010.md) - 17 shared documents
 - [2004](../events/2004.md) - 16 shared documents

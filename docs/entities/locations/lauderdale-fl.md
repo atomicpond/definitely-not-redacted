@@ -29,7 +29,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Bradley J. Edwards](../people/bradley-j-edwards.md) - 9 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 9 shared documents
 - [Jane Doe](../people/jane-doe.md) - 9 shared documents
 - [Paul G. Cassell](../people/paul-g-cassell.md) - 9 shared documents
 - [L. GIUFFRE](../people/l-giuffre.md) - 7 shared documents
@@ -37,8 +37,8 @@ Top 10 documents by mention frequency:
 - [Jack Scarola](../people/jack-scarola.md) - 6 shared documents
 - [Rights Act](../people/rights-act.md) - 6 shared documents
 - [Sigrid S. McCawley](../people/sigrid-s-mccawley.md) - 6 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 5 shared documents
 - [Crime Victims](../people/crime-victims.md) - 5 shared documents
+- [Las Olas Blvd](../people/las-olas-blvd.md) - 5 shared documents
 
 **Organizations:**
 
@@ -68,16 +68,16 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
-- [2011](../events/2011.md) - 8 shared documents
 - [1999](../events/1999.md) - 8 shared documents
-- [today](../events/today.md) - 7 shared documents
-- [2008](../events/2008.md) - 7 shared documents
+- [2011](../events/2011.md) - 8 shared documents
 - [1989](../events/1989.md) - 7 shared documents
+- [2008](../events/2008.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
+- [12](../events/12.md) - 6 shared documents
 - [2009](../events/2009.md) - 6 shared documents
+- [2013](../events/2013.md) - 6 shared documents
 - [2015](../events/2015.md) - 6 shared documents
 - [2016](../events/2016.md) - 6 shared documents
-- [2013](../events/2013.md) - 6 shared documents
-- [12](../events/12.md) - 6 shared documents
 
 ## Timeline
 

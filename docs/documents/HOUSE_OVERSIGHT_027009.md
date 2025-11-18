@@ -18,7 +18,7 @@
 - [Middle East](../entities/people/middle-east.md) - 2 mentions
 - [President Obama](../entities/people/president-obama.md) - 1 mention
 - [Saudi Arabia](../entities/people/saudi-arabia.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [CLINTON](../entities/people/clinton.md) - 1 mention
 - [United 
 States](../entities/people/united-states.md) - 1 mention

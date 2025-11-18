@@ -12,7 +12,7 @@
 - [Michael Wolff](../entities/people/michael-wolff.md) - 1 mention
 - [Bill Maher](../entities/people/bill-maher.md) - 1 mention
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 1 mention
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 1 mention
 - [jeffrey E. <](../entities/people/jeffrey-e.md) - 1 mention
 - [Ira Rosen](../entities/people/ira-rosen.md) - 1 mention
 - [Rosen](../entities/people/rosen.md) - 1 mention

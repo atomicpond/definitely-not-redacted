@@ -29,7 +29,7 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [Lawrence Summers](../people/lawrence-summers.md) - 5 shared documents
+- [Larry Summers](../people/larry-summers.md) - 5 shared documents
 - [Barrack Jr](../people/barrack-jr.md) - 4 shared documents
 - [Democracy Dies](../people/democracy-dies.md) - 4 shared documents
 
@@ -54,8 +54,8 @@ Top 9 documents by mention frequency:
 **Events:**
 
 - [2017](../events/2017.md) - 5 shared documents
-- [yesterday](../events/yesterday.md) - 4 shared documents
 - [three decades](../events/three-decades.md) - 4 shared documents
+- [yesterday](../events/yesterday.md) - 4 shared documents
 
 ## Timeline
 

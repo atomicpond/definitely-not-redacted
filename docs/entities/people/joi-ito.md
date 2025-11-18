@@ -29,15 +29,12 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Jeffrey Epstein](jeffrey-epstein.md) - 11 shared documents
-- [Mr. Obama](obama.md) - 9 shared documents
 - [Joi Ito 
 Sent](joi-ito-sent.md) - 7 shared documents
 - [Jeffrey E](jeffrey-e.md) - 7 shared documents
 - [On Apr](on-apr.md) - 6 shared documents
 - [On Sun](on-sun.md) - 6 shared documents
-- [President Obama](president-obama.md) - 6 shared documents
-- [jeffrey E. <](jeffrey-e.md) - 6 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 6 shared documents
 - [Joi Ito 
 Subject](joi-ito-subject.md) - 5 shared documents
 - [On Thu](on-thu.md) - 5 shared documents
@@ -52,8 +49,8 @@ Subject](joi-ito-subject.md) - 5 shared documents
 
 **Events:**
 
-- [2014](../events/2014.md) - 6 shared documents
 - [15-year](../events/15-year.md) - 6 shared documents
+- [2014](../events/2014.md) - 6 shared documents
 - [6:54 AM](../events/654-am.md) - 6 shared documents
 - [Apr 27, 2014](../events/apr-27-2014.md) - 6 shared documents
 - [04:41](../events/0441.md) - 5 shared documents

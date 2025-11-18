@@ -60,25 +60,25 @@ Top 10 documents by mention frequency:
 - [Washington](../locations/washington.md) - 12 shared documents
 - [New York](../locations/new-york.md) - 11 shared documents
 - [the United States](../locations/the-united-states.md) - 11 shared documents
-- [London](../locations/london.md) - 10 shared documents
 - [America](../locations/america.md) - 10 shared documents
 - [Florida](../locations/florida.md) - 10 shared documents
-- [U.S.](../locations/us.md) - 8 shared documents
+- [London](../locations/london.md) - 10 shared documents
 - [Europe](../locations/europe.md) - 8 shared documents
+- [Miami](../locations/miami.md) - 8 shared documents
 - [Russia](../locations/russia.md) - 8 shared documents
 
 **Events:**
 
 - [2011](../events/2011.md) - 12 shared documents
 - [2010](../events/2010.md) - 11 shared documents
+- [1999](../events/1999.md) - 9 shared documents
 - [2004](../events/2004.md) - 9 shared documents
 - [2007](../events/2007.md) - 9 shared documents
-- [2014](../events/2014.md) - 9 shared documents
-- [today](../events/today.md) - 9 shared documents
-- [daily](../events/daily.md) - 9 shared documents
-- [1999](../events/1999.md) - 9 shared documents
 - [2008](../events/2008.md) - 9 shared documents
+- [2014](../events/2014.md) - 9 shared documents
+- [daily](../events/daily.md) - 9 shared documents
 - [one day](../events/one-day.md) - 9 shared documents
+- [Saturday](../events/saturday.md) - 9 shared documents
 
 ## Timeline
 

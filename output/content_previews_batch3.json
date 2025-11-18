@@ -1,0 +1,413 @@
+{
+  "batch": 3,
+  "group_range": "101-150",
+  "generated_at": "2025-11-17",
+  "stats": {
+    "total_groups": 50,
+    "successful": 50,
+    "failed": 0,
+    "no_content": 0
+  },
+  "previews": {
+    "group_0101": {
+      "canonical_bates": "HOUSE_OVERSIGHT_033297",
+      "summary": "Email: Trump says he has foreign policy experience becaus... from **Sultan Bin** Sulayem________... to **Jeffrey Epstein**.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0102": {
+      "canonical_bates": "HOUSE_OVERSIGHT_019465",
+      "summary": "Email: Fw: Oscar Diary from **Peggy Siegal** [ to jeeyacation@gmail.com. Mentions Obama, Clinton.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0103": {
+      "canonical_bates": "HOUSE_OVERSIGHT_013460",
+      "summary": "Email: FW: **World Bank** Nominee from Boris Nikolic to Jeffrey Epstein (jeeyacation@g.... Mentions Boris Nikolic, Obama.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0104": {
+      "canonical_bates": "HOUSE_OVERSIGHT_026632",
+      "summary": "Email: contacts from jeevacation@gmail.com to **Jeffrey Epstein** jeevacatio.... Mentions andrew, CLINTON.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0105": {
+      "canonical_bates": "HOUSE_OVERSIGHT_019221",
+      "summary": "Document involving Clinton, Jeffrey Epstein.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0106": {
+      "canonical_bates": "HOUSE_OVERSIGHT_033207",
+      "summary": "Email: Trump Tells Tech Chiefs He Will Foster Innovation ... from David Fiszel _________________... to **Jeffrey Epstein**.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0107": {
+      "canonical_bates": "HOUSE_OVERSIGHT_025790",
+      "summary": "Email: FW: National **Enquirer** Comment Request Re: Jeff... from ****TONJA HADDAD** Coleman** to Darren Indyke. Mentions Bill Clinton, Jeffrey Epstein.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0108": {
+      "canonical_bates": "HOUSE_OVERSIGHT_032456",
+      "summary": "Email: new schedule from ****Larry Visoski** to **Jeffrey E**.. Mentions Trump.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0109": {
+      "canonical_bates": "HOUSE_OVERSIGHT_032306",
+      "summary": "Email: **WSJ** inquiry -- on deadline from **Darren Indyke** to **Jeffrey E**.. Mentions Epstein, Trump.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0110": {
+      "canonical_bates": "HOUSE_OVERSIGHT_028784",
+      "summary": "Email: 2 Seminars-MONEY & POWER possible Invite List from **Lesley Groff** < to **Jeffrey Epstein** CC ;. Mentions Bill Clinton, Jeffrey Epstein.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0111": {
+      "canonical_bates": "HOUSE_OVERSIGHT_026612",
+      "summary": "Email: Do you know this **Guy**? You should from Sent: 3/29/2015 2:22:23 PM to jeeyacation@gmail.com. Mentions Bill Clinton.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0112": {
+      "canonical_bates": "HOUSE_OVERSIGHT_031691",
+      "summary": "Email: from Jesse Kornbluth from **Peggy Siegal** to jeeyacation@gmail.com. Mentions clinton, Epstein.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0113": {
+      "canonical_bates": "HOUSE_OVERSIGHT_030876",
+      "summary": "Email: Steve Bannon's clever idea to save the **GOP** fro... from Sultan Bin Sulayem to **Jeffrey Epstein**. Mentions Trump, Jeffrey Epstein.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0114": {
+      "canonical_bates": "HOUSE_OVERSIGHT_030398",
+      "summary": "Email: today from **Jeffrey E**. to Brad S Karp___________________.... Mentions trump.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0115": {
+      "canonical_bates": "HOUSE_OVERSIGHT_019224",
+      "summary": "Document involving Jeffrey Epstein.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0116": {
+      "canonical_bates": "HOUSE_OVERSIGHT_032764",
+      "summary": "Email correspondence from **Richard Kahn** to jeffrey E.. Mentions Trump.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0117": {
+      "canonical_bates": "HOUSE_OVERSIGHT_019412",
+      "summary": "Email: FW: Press Snapshot: Monday, August 26th, 2013 from Boris Nikolic < to Jeffrey Epstein ;. Mentions Andrew, Boris Nikolic.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0118": {
+      "canonical_bates": "HOUSE_OVERSIGHT_019849",
+      "summary": "Document involving Andrew, Trump.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0119": {
+      "canonical_bates": "HOUSE_OVERSIGHT_029231",
+      "summary": "Email: Fw: Fwd: Mr. **CLINTON** and Mr. **Epstein** from **Jeffrey E**. to **Kathy Ruemmler. Mentions Epstein, CLINTON.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0120": {
+      "canonical_bates": "HOUSE_OVERSIGHT_029553",
+      "summary": "Email: Keating Interview from **Katherine Keating** to **Jeffrey Epstein**. Mentions Jeffrey Epstein.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0121": {
+      "canonical_bates": "HOUSE_OVERSIGHT_030920",
+      "summary": "Email: Statement in the Daily Beast? from ****Lawrence** **Krauss**** to ****Jeffrey** **Epstein****. Mentions Epstein.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0122": {
+      "canonical_bates": "HOUSE_OVERSIGHT_026787",
+      "summary": "Email: Lawyer for **Susan Rice**: Obama administration 'j... from **Kathy Ruemmler to jeeyacation@gmail.com. Mentions Obama, Trump.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0123": {
+      "canonical_bates": "HOUSE_OVERSIGHT_031090",
+      "summary": "Email: Fw: [Pen-Cousins] Fw: Nobody knows nobody in **Chi... from **Jeffrey Epstein** to **pritzker**, **tom** ________....",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0124": {
+      "canonical_bates": "HOUSE_OVERSIGHT_026835",
+      "summary": "Email: FW: RE : RE: Revised letter. Arbitrary detention o... from Bob Crowe to jeevacation@gmail.com.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0125": {
+      "canonical_bates": "HOUSE_OVERSIGHT_029841",
+      "summary": "Email correspondence from Stephanie_________________ to jeevacation@gmail.com.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0126": {
+      "canonical_bates": "HOUSE_OVERSIGHT_029907",
+      "summary": "Email: Media Magic: How a Democrat Pedophile Became a 'Tr... from **paul krassner** ____________.... Mentions Epstein, Trump.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0127": {
+      "canonical_bates": "HOUSE_OVERSIGHT_031999",
+      "summary": "Email: My Wall Street 2 Story from **Jeffrey Epstein** to **Peggy Siegal**. Mentions Jeffrey Epstein.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0128": {
+      "canonical_bates": "HOUSE_OVERSIGHT_016221",
+      "summary": "Document.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0129": {
+      "canonical_bates": "HOUSE_OVERSIGHT_031565",
+      "summary": "Email correspondence from **Nicholas Ribis**. Mentions Trump.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0130": {
+      "canonical_bates": "HOUSE_OVERSIGHT_025547",
+      "summary": "Email: US Saudi Arms deal but Note **Blackstone** Infrast... from ****Terje Rod**-Larsen** to Jeffrey Epstein. Mentions Donald Trump, Jeffrey Epstein.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0131": {
+      "canonical_bates": "HOUSE_OVERSIGHT_029299",
+      "summary": "Email: **Michael** Boccio from **Eric Roth** to '****Jeffrey** Epstein**'. Mentions Epstein, Donald Trump.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0132": {
+      "canonical_bates": "HOUSE_OVERSIGHT_029854",
+      "summary": "Email: **WaPo** story-- **Trump**'s outside counsel from **Weingarten**, ****Reid** to **Jeffrey E**.. Mentions Trump.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0133": {
+      "canonical_bates": "HOUSE_OVERSIGHT_033386",
+      "summary": "Email: Gulfstream V - offmarket, sleeper aircraft from ****Eric** Roth** to 'Jeffrey Epstein'. Mentions Trump, Jeffrey Epstein.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0134": {
+      "canonical_bates": "HOUSE_OVERSIGHT_028768",
+      "summary": "Email: FW: Zeitplan amfar Gala 19.5.**2012** from ****Boris Nikolic** to **Jeffrey Epstein** (jeevacati.... Mentions Boris Nikolic, Clinton.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0135": {
+      "canonical_bates": "HOUSE_OVERSIGHT_016552",
+      "summary": "Document.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0136": {
+      "canonical_bates": "HOUSE_OVERSIGHT_031130",
+      "summary": "Email: Public work vs private AMAZING from **Faith Kates** to Faith Kates___________________.... Mentions Obama, CLINTON.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0137": {
+      "canonical_bates": "HOUSE_OVERSIGHT_026620",
+      "summary": "Email: Fw: The **Iran** Nuclear Deal from Sent: 8/4/2015 10:23:22 PM to Allen West • Rafael Bardaji **.... Mentions Obama, epstein.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0138": {
+      "canonical_bates": "HOUSE_OVERSIGHT_028791",
+      "summary": "Email: **Faith Kates** from Sent: to Subject:. Mentions Trump.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0139": {
+      "canonical_bates": "HOUSE_OVERSIGHT_033154",
+      "summary": "Email: Beoing update from Sent: 4/26/2011 4:34:41 PM to jeevacation@gmail.com. Mentions Trump.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0140": {
+      "canonical_bates": "HOUSE_OVERSIGHT_026131",
+      "summary": "Email: some questions... from ****Michael Wolff** to jeffrey E.. Mentions Trump.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0141": {
+      "canonical_bates": "HOUSE_OVERSIGHT_022695",
+      "summary": "Email correspondence from Kathy Ruemmler to jeffrey E.. Mentions Clinton, Jeffrey Epstein.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0142": {
+      "canonical_bates": "HOUSE_OVERSIGHT_029209",
+      "summary": "Email: Reminder **Ed Boyden**. from ****Jeffrey** E**. to **lesley** Groff______________.... Mentions Obama, Epstein.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0143": {
+      "canonical_bates": "HOUSE_OVERSIGHT_022822",
+      "summary": "Email: Fw: Viceland from Martin G. Weinberg to jeevacation@gmail.com. Mentions Epstein, Donald Trump.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0144": {
+      "canonical_bates": "HOUSE_OVERSIGHT_031418",
+      "summary": "Email: <no subject> from G Maxwell to **Jeffrey E**.. Mentions Maxwell.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0145": {
+      "canonical_bates": "HOUSE_OVERSIGHT_028467",
+      "summary": "Document.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0146": {
+      "canonical_bates": "HOUSE_OVERSIGHT_026745",
+      "summary": "Email: SV: BBB AB konto # from Sent: 7/19/**2017** 2:09:32 PM to JEEVACATION@gmail.com. Mentions Trump.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0147": {
+      "canonical_bates": "HOUSE_OVERSIGHT_025918",
+      "summary": "Email: Gingrich view of Trump from **Philip Kafka** to Terry Kafk. Mentions Trump, Jeffrey Epstein.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0148": {
+      "canonical_bates": "HOUSE_OVERSIGHT_032233",
+      "summary": "Email: Meet? from Kathy Ruemmler to ****Jeffrey** E**.. Mentions Trump, Epstein.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0149": {
+      "canonical_bates": "HOUSE_OVERSIGHT_027032",
+      "summary": "Email: **Summers** withdraws from **Fed** race from **Ehud Barak** to **Jeffrey Epstein**. Mentions Summers, Jeffrey Epstein.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    },
+    "group_0150": {
+      "canonical_bates": "HOUSE_OVERSIGHT_023717",
+      "summary": "Email: EUROPEAN MULTI ASSET COVERAGE MEETING IMPRESSIONS:... from jeffrey E. to **Thomas Jr**., Landon. Mentions Trump.",
+      "has_content": true,
+      "metadata": {
+        "custodian": "Epstein, Jeffrey"
+      }
+    }
+  }
+}

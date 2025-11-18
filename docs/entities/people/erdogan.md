@@ -36,13 +36,13 @@ Top 9 documents by mention frequency:
 - [Turkey](../locations/turkey.md) - 8 shared documents
 - [US](../locations/us.md) - 6 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [Iraq](../locations/iraq.md) - 5 shared documents
 - [Syria](../locations/syria.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 - [China](../locations/china.md) - 4 shared documents
 - [Iran](../locations/iran.md) - 4 shared documents
+- [Israel](../locations/israel.md) - 4 shared documents
 - [Libya](../locations/libya.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
 
 **Events:**
 

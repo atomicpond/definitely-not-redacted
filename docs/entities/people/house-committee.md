@@ -32,21 +32,21 @@ Top 7 documents by mention frequency:
 
 **Locations:**
 
-- [Washington](../locations/washington.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 - [United States](../locations/united-states.md) - 4 shared documents
 
 **Events:**
 
-- [2004](../events/2004.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
 - [2000](../events/2000.md) - 4 shared documents
-- [this week](../events/this-week.md) - 4 shared documents
+- [2004](../events/2004.md) - 4 shared documents
 - [2005](../events/2005.md) - 4 shared documents
-- [five years](../events/five-years.md) - 4 shared documents
+- [annual](../events/annual.md) - 4 shared documents
 - [February](../events/february.md) - 4 shared documents
+- [five years](../events/five-years.md) - 4 shared documents
 - [the day](../events/the-day.md) - 4 shared documents
+- [this week](../events/this-week.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

@@ -24,9 +24,9 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [Trump](../organizations/trump.md) - 5 shared documents
-- [KRAMER](../organizations/kramer.md) - 5 shared documents
 - [ASSOC](../organizations/assoc.md) - 5 shared documents
+- [KRAMER](../organizations/kramer.md) - 5 shared documents
+- [Trump](../organizations/trump.md) - 5 shared documents
 
 **Locations:**
 

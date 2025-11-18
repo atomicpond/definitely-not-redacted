@@ -63,8 +63,8 @@ Top 8 documents by mention frequency:
 - [Friday](friday.md) - 8 shared documents
 - [one day](one-day.md) - 8 shared documents
 - [Saturday](saturday.md) - 8 shared documents
-- [2007](2007.md) - 7 shared documents
 - [15-year-old](15-year-old.md) - 7 shared documents
+- [1998](1998.md) - 7 shared documents
 
 ## Timeline
 

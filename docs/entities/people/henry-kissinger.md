@@ -27,32 +27,29 @@ Top 8 documents by mention frequency:
 
 **People:**
 
-- [Mr. Obama](obama.md) - 7 shared documents
 - [Hillary Clinton](hillary-clinton.md) - 5 shared documents
 - [Hosni Mubarak](hosni-mubarak.md) - 5 shared documents
-- [Bashar al-Assad](bashar-al-assad.md) - 5 shared documents
 - [Assad](assad.md) - 5 shared documents
+- [Bashar al-Assad](bashar-al-assad.md) - 5 shared documents
 
 **Organizations:**
 
 - [White House](../organizations/white-house.md) - 6 shared documents
 - [al-Qaeda](../organizations/al-qaeda.md) - 5 shared documents
-- [State](../organizations/state.md) - 5 shared documents
 - [NATO](../organizations/nato.md) - 5 shared documents
-- [Congress](../organizations/congress.md) - 4 shared documents
-- [the White House](../organizations/the-white-house.md) - 4 shared documents
+- [State](../organizations/state.md) - 5 shared documents
 
 **Locations:**
 
 - [US](../locations/us.md) - 8 shared documents
-- [Washington](../locations/washington.md) - 7 shared documents
 - [America](../locations/america.md) - 7 shared documents
+- [Egypt](../locations/egypt.md) - 7 shared documents
 - [Syria](../locations/syria.md) - 7 shared documents
 - [the United States](../locations/the-united-states.md) - 7 shared documents
-- [Egypt](../locations/egypt.md) - 7 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 6 shared documents
+- [Washington](../locations/washington.md) - 7 shared documents
 - [China](../locations/china.md) - 6 shared documents
 - [Iran](../locations/iran.md) - 6 shared documents
+- [Israel](../locations/israel.md) - 6 shared documents
 - [Libya](../locations/libya.md) - 6 shared documents
 
 **Events:**
@@ -60,12 +57,13 @@ Top 8 documents by mention frequency:
 - [today](../events/today.md) - 7 shared documents
 - [2010](../events/2010.md) - 6 shared documents
 - [2012](../events/2012.md) - 5 shared documents
-- [Monday](../events/monday.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
-- [last week](../events/last-week.md) - 4 shared documents
-- [the year](../events/the-year.md) - 4 shared documents
 - [2008](../events/2008.md) - 4 shared documents
+- [a decade](../events/a-decade.md) - 4 shared documents
+- [decades](../events/decades.md) - 4 shared documents
+- [last week](../events/last-week.md) - 4 shared documents
+- [Monday](../events/monday.md) - 4 shared documents
 - [one day](../events/one-day.md) - 4 shared documents
+- [recent years](../events/recent-years.md) - 4 shared documents
 
 ## Timeline
 

@@ -58,15 +58,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [today](../events/today.md) - 10 shared documents
-- [2003](../events/2003.md) - 9 shared documents
-- [1996](../events/1996.md) - 9 shared documents
-- [tomorrow](../events/tomorrow.md) - 9 shared documents
 - [1981](../events/1981.md) - 9 shared documents
+- [1996](../events/1996.md) - 9 shared documents
+- [2003](../events/2003.md) - 9 shared documents
 - [the day](../events/the-day.md) - 9 shared documents
-- [years](../events/years.md) - 8 shared documents
+- [tomorrow](../events/tomorrow.md) - 9 shared documents
 - [1995](../events/1995.md) - 8 shared documents
-- [1986](../events/1986.md) - 7 shared documents
-- [2007](../events/2007.md) - 7 shared documents
+- [years](../events/years.md) - 8 shared documents
+- [1982](../events/1982.md) - 7 shared documents
+- [1984](../events/1984.md) - 7 shared documents
 
 ## Timeline
 

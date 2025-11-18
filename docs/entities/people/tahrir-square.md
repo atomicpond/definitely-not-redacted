@@ -31,8 +31,7 @@ Top 10 documents by mention frequency:
 
 - [Middle East](middle-east.md) - 14 shared documents
 - [Saudi Arabia](saudi-arabia.md) - 13 shared documents
-- [President Obama](president-obama.md) - 12 shared documents
-- [Barack Obama](barack-obama.md) - 11 shared documents
+- [Barack Obama](barack-obama.md) - 12 shared documents
 - [Arab League](arab-league.md) - 10 shared documents
 - [United 
 States](united-states.md) - 9 shared documents
@@ -47,19 +46,18 @@ States](united-states.md) - 9 shared documents
 - [Islam](../organizations/islam.md) - 12 shared documents
 - [al-Qaeda](../organizations/al-qaeda.md) - 11 shared documents
 - [the Arab League](../organizations/the-arab-league.md) - 10 shared documents
-- [State](../organizations/state.md) - 9 shared documents
-- [NATO](../organizations/nato.md) - 9 shared documents
+- [Fatah](../organizations/fatah.md) - 9 shared documents
 
 **Locations:**
 
-- [the Middle East](../locations/the-middle-east.md) - 14 shared documents
-- [Iran](../locations/iran.md) - 14 shared documents
-- [Iraq](../locations/iraq.md) - 14 shared documents
-- [Libya](../locations/libya.md) - 14 shared documents
-- [Syria](../locations/syria.md) - 14 shared documents
-- [Israel](../locations/israel.md) - 14 shared documents
 - [Cairo](../locations/cairo.md) - 14 shared documents
 - [Egypt](../locations/egypt.md) - 14 shared documents
+- [Iran](../locations/iran.md) - 14 shared documents
+- [Iraq](../locations/iraq.md) - 14 shared documents
+- [Israel](../locations/israel.md) - 14 shared documents
+- [Libya](../locations/libya.md) - 14 shared documents
+- [Syria](../locations/syria.md) - 14 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 14 shared documents
 - [Jordan](../locations/jordan.md) - 13 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 13 shared documents
 

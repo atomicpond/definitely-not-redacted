@@ -13,7 +13,7 @@
 Trump](../entities/people/mr-trump.md) - 12 mentions
 - [Mr Trump](../entities/people/mr-trump.md) - 11 mentions
 - [President Trump](../entities/people/president-trump.md) - 5 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 4 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 4 mentions
 - [President Obama](../entities/people/president-obama.md) - 3 mentions
 - [Treasury Secretary](../entities/people/treasury-secretary.md) - 3 mentions
 - [Thomas Jr](../entities/people/thomas-jr.md) - 2 mentions

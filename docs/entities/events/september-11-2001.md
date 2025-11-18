@@ -65,10 +65,10 @@ Top 10 documents by mention frequency:
 - [2001](2001.md) - 9 shared documents
 - [the early 1990s](the-early-1990s.md) - 8 shared documents
 - [today](today.md) - 8 shared documents
-- [2012](2012.md) - 8 shared documents
 - [1990](1990.md) - 8 shared documents
 - [1997](1997.md) - 8 shared documents
 - [1998](1998.md) - 8 shared documents
+- [2012](2012.md) - 8 shared documents
 - [2005](2005.md) - 7 shared documents
 
 ## Timeline

@@ -59,8 +59,8 @@ Top 9 documents by mention frequency:
 **Events:**
 
 - [today](today.md) - 6 shared documents
-- [May](may.md) - 6 shared documents
 - [2011](2011.md) - 6 shared documents
+- [May](may.md) - 6 shared documents
 - [summer](summer.md) - 5 shared documents
 - [Sunday](sunday.md) - 5 shared documents
 - [that day](that-day.md) - 5 shared documents

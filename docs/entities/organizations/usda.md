@@ -29,37 +29,34 @@ Top 8 documents by mention frequency:
 
 - [Congress](congress.md) - 7 shared documents
 - [Treasury](treasury.md) - 6 shared documents
-- [Senate](senate.md) - 5 shared documents
 - [EBITDA](ebitda.md) - 5 shared documents
-- [HOUSE](house.md) - 4 shared documents
-- [S&P](sp.md) - 4 shared documents
-- [Bloomberg](bloomberg.md) - 4 shared documents
+- [Senate](senate.md) - 5 shared documents
 
 **Locations:**
 
-- [China](../locations/china.md) - 6 shared documents
+- [Australia](../locations/australia.md) - 6 shared documents
 - [Brazil](../locations/brazil.md) - 6 shared documents
 - [Canada](../locations/canada.md) - 6 shared documents
-- [Germany](../locations/germany.md) - 6 shared documents
-- [Mexico](../locations/mexico.md) - 6 shared documents
+- [China](../locations/china.md) - 6 shared documents
 - [France](../locations/france.md) - 6 shared documents
+- [Germany](../locations/germany.md) - 6 shared documents
 - [Italy](../locations/italy.md) - 6 shared documents
-- [Australia](../locations/australia.md) - 6 shared documents
+- [Mexico](../locations/mexico.md) - 6 shared documents
 - [Switzerland](../locations/switzerland.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
+- [Asia](../locations/asia.md) - 5 shared documents
 
 **Events:**
 
 - [2015](../events/2015.md) - 6 shared documents
 - [monthly](../events/monthly.md) - 6 shared documents
-- [annual](../events/annual.md) - 5 shared documents
 - [2012](../events/2012.md) - 5 shared documents
 - [2013](../events/2013.md) - 5 shared documents
+- [annual](../events/annual.md) - 5 shared documents
 - [quarterly](../events/quarterly.md) - 5 shared documents
+- [12-month](../events/12-month.md) - 4 shared documents
+- [20 years](../events/20-years.md) - 4 shared documents
+- [2000](../events/2000.md) - 4 shared documents
 - [2003](../events/2003.md) - 4 shared documents
-- [2004](../events/2004.md) - 4 shared documents
-- [2018](../events/2018.md) - 4 shared documents
-- [year-end](../events/year-end.md) - 4 shared documents
 
 ## Timeline
 

@@ -21,8 +21,8 @@ Is Invitation](../entities/people/yes-is-invitation.md) - 10 mentions
 Sender](../entities/people/yes-sender.md) - 1 mention
 - [It 
 Sender](../entities/people/it-sender.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
-- [Mr. Kavanaugh](../entities/people/mr-kavanaugh.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
+- [Mr. Kavanaugh](../entities/people/kavanaugh.md) - 1 mention
 
 ### Organizations
 - [HOUSE](../entities/organizations/house.md) - 6 mentions
@@ -44,169 +44,108 @@ Sender](../entities/people/it-sender.md) - 1 mention
 
 ## Document Text
 
+**Thread-like Conversation View:**
+
 ```
-**Source Entr**: H\Macintosh HD\root\Users\jee\Library\Messages\Archive\2018-09-281111 
-on 2018-09-28 at 13.40.45.ichat 
-Service: iMessage 
-**Start Time**: 09/26/18 11:51:48 AM (559680708) 
-**End Time**: **09/28/18** 12:56:23 PM (559857383) 
-**Last Message** ID: 21168 
-**Chat Room**: 
-Participants: jee, 
-Presentity IDs: e:jeeitunes@gmail.com, 
-Messages - 
-Sender: e:jeeitunes@gmail.com 
-Time: 09/26/18 11:51:48 AM (559680708) 
-Flags: 1085445 
-**Is Read**: **No 
-Is Invitation**: No 
-**GUID**: 9C4AA0C9-873D-4EE7-AB79-EFOC841ED23D 
-Message: Red white and blue 
-Sender: 
-Time: 09/26/18 12:07:28 PM (559681648) 
-Flags: 1060865 
-**Is Read**: **Yes 
-Is Invitation**: No 
-**GUID**: 87955342-D5A9-45F5-A8E9-A4AF9AOCA65E 
-Message: Need white 'hair shirt' under **It 
-Sender**: e:jeeitunes@gmail.com 
-Time: 09/26/18 12:26:38 PM (559682798) 
-Flags: 1085445 
-**Is Read**: **No 
-Is Invitation**: No 
-**GUID**: CBDA6468-8F3E-4399-BA7A-BCOA7ABDA0A4 
-Message: we can make it small sp your minions can wear it on their collars like the SS 
-**Sender 
-Time**: 09/27/18 02:48:27 AM (559734507) 
-Flags: 1060865 
-**Is Read**: **Yes 
-Is Invitation**: No 
-**GUID**: 20899A68-B97D-4642-8CA9-B7866FD166ED 
-Message: Like it 
-**HOUSE** OVERSIGHT 027428 
-Sender: e:jeeitunes@gmail.com 
-Time: 09/27/18 05:37:59 AM (559744679) 
-Flags: 1085445 
-**Is Read**: **No 
-Is Invitation**: No 
-**GUID**: 1814466C-1C56-4874-9342-2902A6E083F8 
-Message: HBj cannot make **It 
-Sender**: e:jeeitunes@gmail.com 
-Time: 09/27/18 05:38:54 AM (559744734) 
-Flags: 1085445 
-**Is Read**: **No 
-Is Invitation**: No 
-**GUID**: 2D8B639F-DC34-4A1F-BD88-9B6F59902E9A 
-Message: Weather and un traffic has changed many plans 
-Sender: 
-Time: 09/27/18 07:07:08 AM (559750028) 
-Flags: 1060865 
-**Is Read**: **Yes 
-Is Invitation**: No 
-**GUID**: C46FD926-7B9E-486E-8011-0EB86A775024 
-Message: np 
-Sender: e:jeeitunes@gmail.com 
-Time: **09/28/18** 03:53:23 AM (559824803) 
-Flags: 1150981 
-**Is Read**: **No 
-Is Invitation**: No 
-**GUID**: 4C9FDF8D-F8B7-4657-A213-098EAB596CF4 
-Message: do you i see you sat **afternoon**? 
-Sender: 
-Time: **09/28/18** 03:59:48 AM (559825188) 
-Flags: 1060865 
-**Is Read**: **Yes 
-Is Invitation**: No 
-**GUID**: D45B87DA-F6F3-4E2E-8B39-D08E0EEA0910 
-Message: **Yes 
-Sender**: e:jeeitunes@gmail.com 
-Time: **09/28/18** 04:00:05 AM (559825205) 
-**HOUSE** OVERSIGHT 027429 
-Flags: 1085445 
-**Is Read**: **No 
-Is Invitation**: No 
-**GUID**: F2D48CC6-7F98-4208-9F43-DC44EDFD90B9 
-Message: cool 
-Sender: e:jeeitunes@gmail.com 
-Time: **09/28/18** 04:00:09 AM (559825209) 
-Flags: 1085445 
-**Is Read**: **No 
-Is Invitation**: No 
-**GUID**: A85F42AA-D695-41EE-8B3B-9DE4B3OBF4C4 
-Message: lots to report 
-Sender: 
-Time: **09/28/18** 04:00:32 AM (559825232) 
-Flags: 1126401 
-**Is Read**: **Yes 
-Is Invitation**: No 
-**GUID**: 86EC43AC-A6E3-4AB5-B42F-730F33459F61 
-Message: What did u think of **yesterday**?? 
-Sender: e:jeeitunes@gmail.com 
-Time: **09/28/18** 04:03:18 AM (559825398) 
-Flags: 1085445 
-**Is Read**: **No 
-Is Invitation**: No 
-**GUID**: D7E6A596-1F80-49A7-A990-BC846577C63A 
-Message: horrible choice of prosecutor woman. critical and maybe lethal mistake. . 
-prosecutors don't cross examine, they prosecute. . power on their side . she should 
-have been a criminal defense attorney. . is there a history of anxiety in your 
-family, was the lights on in the bedroom.? did you ever see kavanaugh again? how 
-many times before. ? how did you get home 8 miles from the alleged party if you did 
-not drive.? who drove you , etc 
-Sender: e:jeeitunes@gmail.com 
-Time: **09/28/18** 04:07:35 AM (559825655) 
-Flags: 1085445 
-**Is Read**: **No 
-Is Invitation**: No 
-**GUID**: D8BEA091-EE8C-4E3B-8630-6DO7DF734752 
-Message: who were the people on the beach you spoke to .? did you use kavanaughs name? 
-which attys did you interview.? did you use kavauaghs name. ? the therapist notes are 
-inconsistent with your story. . 4 boys . did you run out of the **HOUSE**. . how did you 
-hear the conversation with he bathroom door closed.? 
-**HOUSE** OVERSIGHT 027430 
-Sender: e:jeeitunes@gmail.com 
-Time: **09/28/18** 04:08:22 AM (559825702) 
-Flags: 1085445 
-**Is Read**: **No 
-Is Invitation**: No 
-**GUID**: FA9OEBB9-CCFC-41A7-B925-6F48A531934A 
-Message: instead of . are you certain it was kavanaugh.? that's a prosecution 
-question , not a defense question DOPE!! 
-Sender: 
-Time: **09/28/18** 07:28:12 AM (559837692) 
-Flags: 1060865 
-**Is Read**: **Yes 
-Is Invitation**: No 
-**GUID**: D54C3C48-0C3F-43F9-9AD9-DFB992AAA68B 
-Message: Calling the vote 
-Sender: e:jeeitunes@gmail.com 
-Time: **09/28/18** 07:33:34 AM (559838014) 
-Flags: 1085445 
-**Is Read**: **No 
-Is Invitation**: No 
-**GUID**: 782AFAA2-E5BD-48DE-A16A-EE917FB2ACOD 
-Message: **Yup 
-Sender**: 
-Time: **09/28/18** 09:39:10 AM (559845550) 
-Flags: 1060865 
-**Is Read**: **Yes 
-Is Invitation**: No 
-**GUID**: 680416ED-OFDF-40CF-BFAB-6ED012E2871C 
-Message: Is the dollars strength showing vote of confidence in US economy?? 
-Sender: e:jeeitunes@gmail.com 
-Time: **09/28/18** 09:44:39 AM (559845879) 
-Flags: 1085445 
-**Is Read**: **No 
-Is Invitation**: No 
-**GUID**: 8145AB92-B002-425A-85CF-6AE9656BCB45 
-Message: More the us . I dont know what the " economy " means? 
-Sender: e:jeeitunes@gmail.com 
-Time: **09/28/18** 09:45:53 AM (559845953) 
-**HOUSE** OVERSIGHT 027431 
-Flags: 1085445 
-**Is Read**: **No 
-Is Invitation**: No 
-**GUID**: FD55861F-6512-4
+
+======================================================================
+Wednesday, September 26, 2018
+======================================================================
+
+E:jeeitunes [11:51 AM]:
+  
+
+Unknown [12:07 PM]:
+  Red white and blue
+
+E:jeeitunes [12:26 PM]:
+  Need white 'hair shirt' under it
+
+
+======================================================================
+Thursday, September 27, 2018
+======================================================================
+
+ [2:48 AM]:
+  we can make it small sp your minions can wear it on their collars like the SS
+
+E:jeeitunes [5:37 AM]:
+  Like it
+
+E:jeeitunes [5:38 AM]:
+  HBj cannot make It
+
+Unknown [7:07 AM]:
+  Weather and un traffic has changed many plans
+
+
+======================================================================
+Friday, September 28, 2018
+======================================================================
+
+E:jeeitunes [3:53 AM]:
+  np
+
+Unknown [3:59 AM]:
+  do you i see you sat afternoon?
+
+E:jeeitunes [4:00 AM]:
+  Yes
+
+E:jeeitunes [4:00 AM]:
+  cool
+
+Unknown [4:00 AM]:
+  lots to report
+
+E:jeeitunes [4:03 AM]:
+  What did u think of yesterday??
+
+E:jeeitunes [4:07 AM]:
+  horrible choice of prosecutor woman. critical and maybe lethal mistake. .
+
+E:jeeitunes [4:08 AM]:
+  who were the people on the beach you spoke to .? did you use kavanaughs name?
+
+Unknown [7:28 AM]:
+  instead of . are you certain it was kavanaugh.? that's a prosecution
+
+E:jeeitunes [7:33 AM]:
+  Calling the vote
+
+Unknown [9:39 AM]:
+  Yup
+
+E:jeeitunes [9:44 AM]:
+  Is the dollars strength showing vote of confidence in US economy??
+
+E:jeeitunes [9:45 AM]:
+  More the us . I dont know what the " economy " means?
+
+E:jeeitunes [9:54 AM]:
+  Markets? Jobs , exports, health like the economy is defined bu lack of disease
+
+E:jeeitunes [9:54 AM]:
+  The world experts vote every day . And they vote US dollar. Turkey iran South
+
+E:jeeitunes [9:55 AM]:
+  if you need more talking points- ping me
+
+Unknown [10:38 AM]:
+  musk believed and is a victim of arab bluster bloviating and is now sued by
+
+E:jeeitunes [10:40 AM]:
+  He should not be running a public company
+
+Unknown [12:48 PM]:
+  Agreed
+
+E:jeeitunes [12:49 PM]:
+  Was the dollar weak under obama ???
+
+Unknown [12:56 PM]:
+  Yes, euro 135
+
 ```
 
 *[Text truncated to 5000 characters]*

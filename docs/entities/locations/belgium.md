@@ -52,12 +52,12 @@ Top 10 documents by mention frequency:
 - [2012](../events/2012.md) - 13 shared documents
 - [2013](../events/2013.md) - 13 shared documents
 - [daily](../events/daily.md) - 12 shared documents
+- [1980](../events/1980.md) - 11 shared documents
 - [2015](../events/2015.md) - 11 shared documents
 - [annual](../events/annual.md) - 11 shared documents
-- [1980](../events/1980.md) - 11 shared documents
 - [2004](../events/2004.md) - 10 shared documents
-- [this year](../events/this-year.md) - 10 shared documents
-- [years](../events/years.md) - 10 shared documents
+- [July](../events/july.md) - 10 shared documents
+- [the year](../events/the-year.md) - 10 shared documents
 
 ## Timeline
 

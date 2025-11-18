@@ -1,28 +1,31 @@
 # Robert Mueller
 
 **Type:** People  
-**Total Mentions:** 38  
-**Documents:** 26
+**Total Mentions:** 78  
+**Documents:** 49
 
 ## Name Variants
 
-- ROBERT MUELLER
+- mueller
 - Robert Mueller
+- ROBERT MUELLER
+- Robert Mueller's
+- Mueller
 
 ## Related Documents
 
 Top 10 documents by mention frequency:
 
-- [HOUSE_OVERSIGHT_033345](../../documents/HOUSE_OVERSIGHT_033345.md) - 6 mentions
-- [HOUSE_OVERSIGHT_028326](../../documents/HOUSE_OVERSIGHT_028326.md) - 3 mentions
-- [HOUSE_OVERSIGHT_029165](../../documents/HOUSE_OVERSIGHT_029165.md) - 3 mentions
-- [HOUSE_OVERSIGHT_030248](../../documents/HOUSE_OVERSIGHT_030248.md) - 2 mentions
-- [HOUSE_OVERSIGHT_030258](../../documents/HOUSE_OVERSIGHT_030258.md) - 2 mentions
-- [HOUSE_OVERSIGHT_030402](../../documents/HOUSE_OVERSIGHT_030402.md) - 2 mentions
-- [HOUSE_OVERSIGHT_016203](../../documents/HOUSE_OVERSIGHT_016203.md) - 1 mention
-- [HOUSE_OVERSIGHT_019874](../../documents/HOUSE_OVERSIGHT_019874.md) - 1 mention
-- [HOUSE_OVERSIGHT_020443](../../documents/HOUSE_OVERSIGHT_020443.md) - 1 mention
-- [HOUSE_OVERSIGHT_021120](../../documents/HOUSE_OVERSIGHT_021120.md) - 1 mention
+- [HOUSE_OVERSIGHT_028326](../../documents/HOUSE_OVERSIGHT_028326.md) - 5 mentions
+- [HOUSE_OVERSIGHT_029165](../../documents/HOUSE_OVERSIGHT_029165.md) - 5 mentions
+- [HOUSE_OVERSIGHT_030248](../../documents/HOUSE_OVERSIGHT_030248.md) - 5 mentions
+- [HOUSE_OVERSIGHT_030258](../../documents/HOUSE_OVERSIGHT_030258.md) - 5 mentions
+- [HOUSE_OVERSIGHT_030444](../../documents/HOUSE_OVERSIGHT_030444.md) - 4 mentions
+- [HOUSE_OVERSIGHT_030402](../../documents/HOUSE_OVERSIGHT_030402.md) - 3 mentions
+- [HOUSE_OVERSIGHT_031340](../../documents/HOUSE_OVERSIGHT_031340.md) - 3 mentions
+- [HOUSE_OVERSIGHT_026287](../../documents/HOUSE_OVERSIGHT_026287.md) - 2 mentions
+- [HOUSE_OVERSIGHT_026290](../../documents/HOUSE_OVERSIGHT_026290.md) - 2 mentions
+- [HOUSE_OVERSIGHT_027735](../../documents/HOUSE_OVERSIGHT_027735.md) - 2 mentions
 
 ## Connections
 
@@ -30,50 +33,53 @@ Top 10 documents by mention frequency:
 
 **People:**
 
+- [Jeffrey E](jeffrey-e.md) - 13 shared documents
+- [Jeffrey E. 
+Sent](jeffrey-e-sent.md) - 8 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 7 shared documents
 - [Donald 
-Trump](donald-trump.md) - 14 shared documents
-- [White House](white-house.md) - 13 shared documents
-- [President Trump](president-trump.md) - 13 shared documents
-- [mueller](mueller.md) - 13 shared documents
+Trump](donald-trump.md) - 7 shared documents
+- [mccabe](mccabe.md) - 7 shared documents
 - [Rod 
-Rosenstein](rod-rosenstein.md) - 12 shared documents
-- [Mr. 
-Trump](trump.md) - 12 shared documents
-- [James Comey](james-comey.md) - 12 shared documents
-- [Hillary Clinton](hillary-clinton.md) - 11 shared documents
-- [Justice 
-Department](justice-department.md) - 11 shared documents
-- [Robert Mueller's](robert-muellers.md) - 9 shared documents
+Rosenstein](rod-rosenstein.md) - 6 shared documents
+- [Rudy Giuliani](rudy-giuliani.md) - 6 shared documents
+- [Arthur Anderson](arthur-anderson.md) - 6 shared documents
+- [Hillary Clinton](hillary-clinton.md) - 6 shared documents
+- [Jeff Sessions](jeff-sessions.md) - 6 shared documents
 
 **Organizations:**
 
-- [Mueller](../organizations/mueller.md) - 18 shared documents
-- [HOUSE](../organizations/house.md) - 17 shared documents
-- [Trump](../organizations/trump.md) - 17 shared documents
-- [Congress](../organizations/congress.md) - 15 shared documents
-- [FBI](../organizations/fbi.md) - 13 shared documents
-- [the Justice Department](../organizations/the-justice-department.md) - 13 shared documents
-- [the Supreme Court](../organizations/the-supreme-court.md) - 11 shared documents
-- [White House](../organizations/white-house.md) - 10 shared documents
-- [the White House](../organizations/the-white-house.md) - 10 shared documents
-- [Justice Department](../organizations/justice-department.md) - 10 shared documents
+- [HOUSE](../organizations/house.md) - 8 shared documents
+- [Mueller](../organizations/mueller.md) - 8 shared documents
+- [Congress](../organizations/congress.md) - 7 shared documents
+- [Comey](../organizations/comey.md) - 6 shared documents
+- [Enron](../organizations/enron.md) - 6 shared documents
+- [Senate](../organizations/senate.md) - 6 shared documents
+- [Special Counsel](../organizations/special-counsel.md) - 6 shared documents
+- [the Justice Department](../organizations/the-justice-department.md) - 6 shared documents
+- [the New York Times](../organizations/the-new-york-times.md) - 6 shared documents
+- [the Supreme Court](../organizations/the-supreme-court.md) - 6 shared documents
 
 **Locations:**
 
-- [Russia](../locations/russia.md) - 18 shared documents
-- [US](../locations/us.md) - 14 shared documents
-- [Washington](../locations/washington.md) - 13 shared documents
-- [London](../locations/london.md) - 6 shared documents
+- [Russia](../locations/russia.md) - 7 shared documents
+- [US](../locations/us.md) - 7 shared documents
+- [Washington](../locations/washington.md) - 7 shared documents
+- [New York](../locations/new-york.md) - 6 shared documents
 
 **Events:**
 
-- [2016](../events/2016.md) - 11 shared documents
-- [2018](../events/2018.md) - 8 shared documents
-- [months](../events/months.md) - 8 shared documents
-- [2012](../events/2012.md) - 7 shared documents
-- [more than a year](../events/more-than-a-year.md) - 7 shared documents
-- [May 2017](../events/may-2017.md) - 7 shared documents
-- [today](../events/today.md) - 6 shared documents
+- [today](../events/today.md) - 9 shared documents
+- [January 03, 2018](../events/january-03-2018.md) - 7 shared documents
+- [January 3, 2018](../events/january-3-2018.md) - 7 shared documents
+- [tomorrow](../events/tomorrow.md) - 7 shared documents
+- [Wed, Jan 3, 2018](../events/wed-jan-3-2018.md) - 7 shared documents
+- [Wednesday, January 3, 2018](../events/wednesday-january-3-2018.md) - 7 shared documents
+- [1973](../events/1973.md) - 6 shared documents
+- [2012](../events/2012.md) - 6 shared documents
+- [months](../events/months.md) - 6 shared documents
+- [12:56:55 AM EDT](../events/125655-am-edt.md) - 5 shared documents
 
 ## Timeline
 

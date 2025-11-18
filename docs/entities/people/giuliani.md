@@ -26,21 +26,19 @@ Top 7 documents by mention frequency:
 
 **People:**
 
-- [mueller](mueller.md) - 5 shared documents
-- [Mr. 
-Trump](trump.md) - 5 shared documents
+- [Robert Mueller](robert-mueller.md) - 5 shared documents
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 4 shared documents
-- [Trump](../organizations/trump.md) - 4 shared documents
-- [White House](../organizations/white-house.md) - 4 shared documents
-- [the White House](../organizations/the-white-house.md) - 4 shared documents
+- [Comey](../organizations/comey.md) - 4 shared documents
 - [FBI](../organizations/fbi.md) - 4 shared documents
+- [HOUSE](../organizations/house.md) - 4 shared documents
 - [Justice](../organizations/justice.md) - 4 shared documents
 - [Mueller](../organizations/mueller.md) - 4 shared documents
-- [Comey](../organizations/comey.md) - 4 shared documents
 - [National Security](../organizations/national-security.md) - 4 shared documents
+- [the White House](../organizations/the-white-house.md) - 4 shared documents
+- [Trump](../organizations/trump.md) - 4 shared documents
+- [White House](../organizations/white-house.md) - 4 shared documents
 
 **Locations:**
 
@@ -50,10 +48,10 @@ Trump](trump.md) - 5 shared documents
 
 - [the last
 few weeks](../events/the-last-few-weeks.md) - 5 shared documents
-- [November](../events/november.md) - 4 shared documents
-- [April](../events/april.md) - 4 shared documents
 - [16 months](../events/16-months.md) - 4 shared documents
+- [April](../events/april.md) - 4 shared documents
 - [every day](../events/every-day.md) - 4 shared documents
+- [November](../events/november.md) - 4 shared documents
 - [three days](../events/three-days.md) - 4 shared documents
 
 ## Timeline

@@ -37,8 +37,8 @@ Top 10 documents by mention frequency:
 - [Best Picture](best-picture.md) - 8 shared documents
 - [Brad Pitt](brad-pitt.md) - 8 shared documents
 - [Bradley Cooper](bradley-cooper.md) - 8 shared documents
-- [Jerry Bruckheimer](jerry-bruckheimer.md) - 8 shared documents
 - [Guy Oseary](guy-oseary.md) - 8 shared documents
+- [Jerry Bruckheimer](jerry-bruckheimer.md) - 8 shared documents
 
 **Organizations:**
 
@@ -47,23 +47,22 @@ Top 10 documents by mention frequency:
 - [Vanity Fair](../organizations/vanity-fair.md) - 9 shared documents
 - [HBO](../organizations/hbo.md) - 8 shared documents
 - [Sony](../organizations/sony.md) - 8 shared documents
-- [HOUSE](../organizations/house.md) - 7 shared documents
 - [Disney](../organizations/disney.md) - 7 shared documents
+- [HOUSE](../organizations/house.md) - 7 shared documents
 - [Marchesa](../organizations/marchesa.md) - 7 shared documents
 - [Paramount](../organizations/paramount.md) - 7 shared documents
 
 **Locations:**
 
+- [Cannes](../locations/cannes.md) - 8 shared documents
 - [New York City](../locations/new-york-city.md) - 8 shared documents
 - [Paris](../locations/paris.md) - 8 shared documents
-- [Cannes](../locations/cannes.md) - 8 shared documents
-- [New York](../locations/new-york.md) - 7 shared documents
-- [London](../locations/london.md) - 7 shared documents
 - [America](../locations/america.md) - 7 shared documents
-- [Toronto](../locations/toronto.md) - 7 shared documents
-- [Hollywood](../locations/hollywood.md) - 7 shared documents
 - [Beverly Hills](../locations/beverly-hills.md) - 7 shared documents
-- [Carolina](../locations/carolina.md) - 6 shared documents
+- [Hollywood](../locations/hollywood.md) - 7 shared documents
+- [London](../locations/london.md) - 7 shared documents
+- [New York](../locations/new-york.md) - 7 shared documents
+- [Toronto](../locations/toronto.md) - 7 shared documents
 
 **Events:**
 
@@ -73,7 +72,8 @@ Top 10 documents by mention frequency:
 - [annual](../events/annual.md) - 7 shared documents
 - [March](../events/march.md) - 7 shared documents
 - [last year](../events/last-year.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
+- [Mid-day](../events/mid-day.md) - 6 shared documents
+- [September](../events/september.md) - 6 shared documents
 - [the year](../events/the-year.md) - 6 shared documents
 
 ## Timeline

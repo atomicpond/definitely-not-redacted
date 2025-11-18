@@ -24,7 +24,7 @@ Top 5 documents by mention frequency:
 
 **People:**
 
-- [Mr. Obama](../people/obama.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 
 **Events:**
 

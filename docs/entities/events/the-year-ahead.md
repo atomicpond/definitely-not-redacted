@@ -51,14 +51,14 @@ Top 8 documents by mention frequency:
 
 - [2017](2017.md) - 8 shared documents
 - [this year](this-year.md) - 7 shared documents
-- [2018](2018.md) - 6 shared documents
 - [2013](2013.md) - 6 shared documents
+- [2018](2018.md) - 6 shared documents
 - [today](today.md) - 5 shared documents
 - [year](year.md) - 5 shared documents
 - [2009](2009.md) - 5 shared documents
-- [2016](2016.md) - 5 shared documents
-- [2012](2012.md) - 5 shared documents
+- [2010](2010.md) - 5 shared documents
 - [2011](2011.md) - 5 shared documents
+- [2012](2012.md) - 5 shared documents
 
 ## Timeline
 

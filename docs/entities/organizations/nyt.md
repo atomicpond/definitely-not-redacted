@@ -32,14 +32,15 @@ Top 10 documents by mention frequency:
 - [Landon Thomas](../people/landon-thomas.md) - 21 shared documents
 - [Landon](../people/landon.md) - 18 shared documents
 - [Thomas Jr](../people/thomas-jr.md) - 18 shared documents
-- [Barack Obama](../people/barack-obama.md) - 17 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 17 shared documents
 - [jr thomas](../people/jr-thomas.md) - 17 shared documents
 - [Middle East](../people/middle-east.md) - 17 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 17 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 16 shared documents
 - [jeffrey E. <](../people/jeffrey-e.md) - 16 shared documents
-- [Gates](../people/gates.md) - 15 shared documents
+- [jr thomas/inde  
+x.html](../people/jr-thomas-inde-xhtml.md) - 13 shared documents
+- [White House](../people/white-house.md) - 13 shared documents
 
 **Organizations:**
 
@@ -52,7 +53,7 @@ Trump](../people/trump.md) - 17 shared documents
 - [Hamas](hamas.md) - 16 shared documents
 - [Defense](defense.md) - 14 shared documents
 - [Islam](islam.md) - 14 shared documents
-- [NATO](nato.md) - 13 shared documents
+- [State](state.md) - 12 shared documents
 
 **Locations:**
 
@@ -64,7 +65,7 @@ Trump](../people/trump.md) - 17 shared documents
 - [Iran](../locations/iran.md) - 20 shared documents
 - [Syria](../locations/syria.md) - 20 shared documents
 - [the United States](../locations/the-united-states.md) - 20 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 19 shared documents
+- [Egypt](../locations/egypt.md) - 19 shared documents
 - [Israel](../locations/israel.md) - 19 shared documents
 
 **Events:**

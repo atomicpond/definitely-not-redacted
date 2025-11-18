@@ -40,7 +40,6 @@ Top 9 documents by mention frequency:
 - [San Francisco](../people/san-francisco.md) - 6 shared documents
 - [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Cambridge University Press](../people/cambridge-university-press.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
 
 **Organizations:**
 
@@ -51,26 +50,24 @@ Top 9 documents by mention frequency:
 - [Iraq](../locations/iraq.md) - 9 shared documents
 - [the United States](../locations/the-united-states.md) - 9 shared documents
 - [West](../locations/west.md) - 9 shared documents
+- [Boston](../locations/boston.md) - 8 shared documents
+- [England](../locations/england.md) - 8 shared documents
 - [Japan](../locations/japan.md) - 8 shared documents
 - [London](../locations/london.md) - 8 shared documents
-- [England](../locations/england.md) - 8 shared documents
-- [Boston](../locations/boston.md) - 8 shared documents
 - [Spain](../locations/spain.md) - 8 shared documents
-- [California](../locations/california.md) - 7 shared documents
-- [Earth](../locations/earth.md) - 7 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 9 shared documents
+- [1995](../events/1995.md) - 9 shared documents
 - [2002](../events/2002.md) - 9 shared documents
 - [decades](../events/decades.md) - 9 shared documents
-- [1995](../events/1995.md) - 9 shared documents
-- [2004](../events/2004.md) - 8 shared documents
-- [2009](../events/2009.md) - 8 shared documents
+- [today](../events/today.md) - 9 shared documents
+- [1973](../events/1973.md) - 8 shared documents
+- [1980](../events/1980.md) - 8 shared documents
 - [1996](../events/1996.md) - 8 shared documents
-- [2000](../events/2000.md) - 8 shared documents
-- [years](../events/years.md) - 8 shared documents
 - [1999](../events/1999.md) - 8 shared documents
+- [2000](../events/2000.md) - 8 shared documents
+- [2001](../events/2001.md) - 8 shared documents
 
 ## Timeline
 

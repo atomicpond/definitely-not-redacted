@@ -28,16 +28,16 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Salt Lake City](../people/salt-lake-city.md) - 5 shared documents
 - [San Francisco](../people/san-francisco.md) - 5 shared documents
 - [Aung San Suu](../people/aung-san-suu.md) - 4 shared documents
+- [Barack Obama](../people/barack-obama.md) - 4 shared documents
 - [Harvard Law School](../people/harvard-law-school.md) - 4 shared documents
 - [Harvard University](../people/harvard-university.md) - 4 shared documents
 - [Mexico City](../people/mexico-city.md) - 4 shared documents
 - [Modern Art](../people/modern-art.md) - 4 shared documents
-- [President Obama](../people/president-obama.md) - 4 shared documents
 - [Public Policy](../people/public-policy.md) - 4 shared documents
+- [San Diego](../people/san-diego.md) - 4 shared documents
 
 **Organizations:**
 
@@ -56,27 +56,27 @@ Top 9 documents by mention frequency:
 
 - [the United States](../locations/the-united-states.md) - 9 shared documents
 - [America](../locations/america.md) - 8 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 7 shared documents
 - [Latin America](../locations/latin-america.md) - 7 shared documents
-- [U.S.](../locations/us.md) - 6 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 7 shared documents
 - [San Francisco](../locations/san-francisco.md) - 6 shared documents
-- [New York](../locations/new-york.md) - 5 shared documents
+- [U.S.](../locations/us.md) - 6 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 5 shared documents
+- [Boston](../locations/boston.md) - 5 shared documents
 - [California](../locations/california.md) - 5 shared documents
-- [London](../locations/london.md) - 5 shared documents
-- [Florida](../locations/florida.md) - 5 shared documents
+- [England](../locations/england.md) - 5 shared documents
 
 **Events:**
 
 - [2007](../events/2007.md) - 9 shared documents
 - [2011](../events/2011.md) - 9 shared documents
 - [2009](../events/2009.md) - 8 shared documents
+- [2008](../events/2008.md) - 6 shared documents
 - [2014](../events/2014.md) - 6 shared documents
 - [today](../events/today.md) - 6 shared documents
-- [2008](../events/2008.md) - 6 shared documents
 - [last year](../events/last-year.md) - 5 shared documents
 - [years](../events/years.md) - 5 shared documents
-- [summer](../events/summer.md) - 4 shared documents
 - [1990](../events/1990.md) - 4 shared documents
+- [2001](../events/2001.md) - 4 shared documents
 
 ## Timeline
 

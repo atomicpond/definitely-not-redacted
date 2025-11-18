@@ -34,13 +34,13 @@ Top 10 documents by mention frequency:
 - [New Mexico](new-mexico.md) - 26 shared documents
 - [Jane Doe](jane-doe.md) - 20 shared documents
 - [Jack Goldberger](jack-goldberger.md) - 17 shared documents
-- [Michael Reiter](michael-reiter.md) - 16 shared documents
 - [Alfredo Rodriguez](alfredo-rodriguez.md) - 16 shared documents
-- [Gerald Lefcourt](gerald-lefcourt.md) - 15 shared documents
+- [Michael Reiter](michael-reiter.md) - 16 shared documents
 - [Vanity Fair](vanity-fair.md) - 14 shared documents
 - [Special Agents](special-agents.md) - 6 shared documents
 - [Treasury Secretary Larry](treasury-secretary-larry.md) - 6 shared documents
 - [Vicky Ward](vicky-ward.md) - 6 shared documents
+- [Sigrid McCawley](sigrid-mccawley.md) - 5 shared documents
 
 **Organizations:**
 
@@ -69,10 +69,10 @@ Top 10 documents by mention frequency:
 - [2006](../events/2006.md) - 22 shared documents
 - [18 months](../events/18-months.md) - 21 shared documents
 - [2004](../events/2004.md) - 19 shared documents
-- [today](../events/today.md) - 19 shared documents
 - [2005](../events/2005.md) - 19 shared documents
-- [last week](../events/last-week.md) - 18 shared documents
+- [today](../events/today.md) - 19 shared documents
 - [2002](../events/2002.md) - 18 shared documents
+- [last week](../events/last-week.md) - 18 shared documents
 - [the day](../events/the-day.md) - 18 shared documents
 - [2007](../events/2007.md) - 17 shared documents
 - [2009](../events/2009.md) - 17 shared documents

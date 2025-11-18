@@ -40,9 +40,6 @@ Top 6 documents by mention frequency:
 - [the Department of Justice](the-department-of-justice.md) - 5 shared documents
 - [the Palm Beach Police Department](the-palm-beach-police-department.md) - 5 shared documents
 - [Maxwell](maxwell.md) - 5 shared documents
-- [HOUSE](house.md) - 4 shared documents
-- [Harvard University](harvard-university.md) - 4 shared documents
-- [CBS](cbs.md) - 4 shared documents
 
 **Locations:**
 
@@ -52,23 +49,23 @@ Top 6 documents by mention frequency:
 - [New Mexico](../locations/new-mexico.md) - 6 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 6 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 6 shared documents
+- [El Brillo](../locations/el-brillo.md) - 5 shared documents
 - [Manhattan](../locations/manhattan.md) - 5 shared documents
 - [New York City](../locations/new-york-city.md) - 5 shared documents
 - [Paris](../locations/paris.md) - 5 shared documents
-- [the Virgin Islands](../locations/the-virgin-islands.md) - 5 shared documents
 
 **Events:**
 
 - [2004](../events/2004.md) - 6 shared documents
-- [Wednesday](../events/wednesday.md) - 6 shared documents
-- [daily](../events/daily.md) - 6 shared documents
 - [2005](../events/2005.md) - 6 shared documents
+- [daily](../events/daily.md) - 6 shared documents
 - [Friday](../events/friday.md) - 6 shared documents
-- [this week](../events/this-week.md) - 5 shared documents
-- [last week](../events/last-week.md) - 5 shared documents
+- [Wednesday](../events/wednesday.md) - 6 shared documents
 - [18 months](../events/18-months.md) - 5 shared documents
 - [2002](../events/2002.md) - 5 shared documents
 - [April](../events/april.md) - 5 shared documents
+- [last week](../events/last-week.md) - 5 shared documents
+- [one year](../events/one-year.md) - 5 shared documents
 
 ## Timeline
 

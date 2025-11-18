@@ -39,9 +39,10 @@ Top 10 documents by mention frequency:
 - [Saudi Arabia](../people/saudi-arabia.md) - 8 shared documents
 - [Securities Exchange Act](../people/securities-exchange-act.md) - 7 shared documents
 - [Central Bank](../people/central-bank.md) - 6 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 6 shared documents
 - [Exchange Commission](../people/exchange-commission.md) - 6 shared documents
 - [Middle East](../people/middle-east.md) - 6 shared documents
-- [President Trump](../people/president-trump.md) - 6 shared documents
 - [Goldman Sachs](../people/goldman-sachs.md) - 5 shared documents
 - [Markets Act](../people/markets-act.md) - 5 shared documents
 
@@ -50,24 +51,21 @@ Top 10 documents by mention frequency:
 - [Bloomberg](bloomberg.md) - 11 shared documents
 - [SEC](sec.md) - 10 shared documents
 - [Treasury](treasury.md) - 7 shared documents
-- [Fed](fed.md) - 7 shared documents
-- [Congress](congress.md) - 7 shared documents
-- [State](state.md) - 7 shared documents
 - [the Securities Exchange Act](the-securities-exchange-act.md) - 6 shared documents
 - [Twitter](twitter.md) - 6 shared documents
 - [Trump](trump.md) - 5 shared documents
 
 **Locations:**
 
+- [Australia](../locations/australia.md) - 10 shared documents
 - [China](../locations/china.md) - 10 shared documents
 - [the United States](../locations/the-united-states.md) - 10 shared documents
-- [Australia](../locations/australia.md) - 10 shared documents
 - [Africa](../locations/africa.md) - 9 shared documents
 - [Brazil](../locations/brazil.md) - 9 shared documents
+- [Israel](../locations/israel.md) - 9 shared documents
+- [Italy](../locations/italy.md) - 9 shared documents
 - [Mexico](../locations/mexico.md) - 9 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 9 shared documents
-- [Italy](../locations/italy.md) - 9 shared documents
-- [Israel](../locations/israel.md) - 9 shared documents
 - [the United Kingdom](../locations/the-united-kingdom.md) - 9 shared documents
 
 **Events:**
@@ -75,13 +73,13 @@ Top 10 documents by mention frequency:
 - [today](../events/today.md) - 12 shared documents
 - [2000](../events/2000.md) - 11 shared documents
 - [2015](../events/2015.md) - 10 shared documents
+- [2001](../events/2001.md) - 9 shared documents
 - [annual](../events/annual.md) - 9 shared documents
 - [years](../events/years.md) - 9 shared documents
-- [2001](../events/2001.md) - 9 shared documents
-- [2012](../events/2012.md) - 8 shared documents
 - [1995](../events/1995.md) - 8 shared documents
-- [2018](../events/2018.md) - 7 shared documents
-- [monthly](../events/monthly.md) - 7 shared documents
+- [2012](../events/2012.md) - 8 shared documents
+- [1934](../events/1934.md) - 7 shared documents
+- [1988](../events/1988.md) - 7 shared documents
 
 ## Timeline
 

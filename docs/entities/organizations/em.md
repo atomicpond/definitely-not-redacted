@@ -43,7 +43,6 @@ Top 10 documents by mention frequency:
 - [EU](eu.md) - 5 shared documents
 - [EUR](eur.md) - 5 shared documents
 - [GMOS](gmos.md) - 5 shared documents
-- [BoJ](boj.md) - 4 shared documents
 
 **Locations:**
 
@@ -53,22 +52,22 @@ Top 10 documents by mention frequency:
 - [EUR](../locations/eur.md) - 8 shared documents
 - [U.K.](../locations/uk.md) - 8 shared documents
 - [Japan](../locations/japan.md) - 7 shared documents
+- [Asia](../locations/asia.md) - 6 shared documents
 - [Brazil](../locations/brazil.md) - 6 shared documents
 - [Mexico](../locations/mexico.md) - 6 shared documents
-- [Asia](../locations/asia.md) - 6 shared documents
 - [Spain](../locations/spain.md) - 6 shared documents
 
 **Events:**
 
-- [this year](../events/this-year.md) - 8 shared documents
 - [2013](../events/2013.md) - 8 shared documents
-- [today](../events/today.md) - 7 shared documents
+- [this year](../events/this-year.md) - 8 shared documents
 - [this week](../events/this-week.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
 - [last year](../events/last-year.md) - 6 shared documents
-- [2015](../events/2015.md) - 5 shared documents
 - [2012](../events/2012.md) - 5 shared documents
-- [last week](../events/last-week.md) - 5 shared documents
-- [the year](../events/the-year.md) - 5 shared documents
+- [2015](../events/2015.md) - 5 shared documents
+- [7134-1816](../events/7134-1816.md) - 5 shared documents
+- [7134-7813](../events/7134-7813.md) - 5 shared documents
 - [December](../events/december.md) - 5 shared documents
 
 ## Timeline

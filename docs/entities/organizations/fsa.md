@@ -30,8 +30,8 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Saudi Arabia](../people/saudi-arabia.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Middle East](../people/middle-east.md) - 6 shared documents
-- [President Obama](../people/president-obama.md) - 6 shared documents
 - [Bashar al-Assad](../people/bashar-al-assad.md) - 5 shared documents
 - [Central Bank](../people/central-bank.md) - 5 shared documents
 - [Markets Act](../people/markets-act.md) - 5 shared documents
@@ -49,29 +49,29 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 9 shared documents
 - [the United States](../locations/the-united-states.md) - 9 shared documents
+- [United States](../locations/united-states.md) - 9 shared documents
 - [Iraq](../locations/iraq.md) - 8 shared documents
 - [Syria](../locations/syria.md) - 8 shared documents
 - [the United Kingdom](../locations/the-united-kingdom.md) - 8 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 7 shared documents
-- [China](../locations/china.md) - 7 shared documents
-- [Canada](../locations/canada.md) - 7 shared documents
 - [Asia](../locations/asia.md) - 7 shared documents
+- [Australia](../locations/australia.md) - 7 shared documents
+- [Canada](../locations/canada.md) - 7 shared documents
+- [China](../locations/china.md) - 7 shared documents
 - [Iran](../locations/iran.md) - 7 shared documents
 
 **Events:**
 
-- [annual](../events/annual.md) - 9 shared documents
 - [2012](../events/2012.md) - 9 shared documents
+- [annual](../events/annual.md) - 9 shared documents
 - [years](../events/years.md) - 9 shared documents
 - [2000](../events/2000.md) - 8 shared documents
 - [2013](../events/2013.md) - 8 shared documents
 - [2015](../events/2015.md) - 7 shared documents
 - [two years](../events/two-years.md) - 7 shared documents
+- [10 years](../events/10-years.md) - 6 shared documents
 - [2004](../events/2004.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [this year](../events/this-year.md) - 6 shared documents
+- [monthly](../events/monthly.md) - 6 shared documents
 
 ## Timeline
 

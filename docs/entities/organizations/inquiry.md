@@ -29,15 +29,15 @@ Top 8 documents by mention frequency:
 
 - [Cynthia Jewett](../people/cynthia-jewett.md) - 8 shared documents
 - [Kiaran Kirk](../people/kiaran-kirk.md) - 8 shared documents
-- [Lawrence Krauss](../people/lawrence-krauss.md) - 8 shared documents
 - [Peter Aldhous](../people/peter-aldhous.md) - 8 shared documents
 - [ANU](../people/anu.md) - 7 shared documents
 - [Azeen Ghorayshi](../people/azeen-ghorayshi.md) - 7 shared documents
-- [Barack Obama's](../people/barack-obamas.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Dawkins](../people/dawkins.md) - 7 shared documents
 - [Donald 
 Trump](../people/donald-trump.md) - 7 shared documents
-- [Epstein](../people/epstein.md) - 7 shared documents
+- [Erin Ellison](../people/erin-ellison.md) - 7 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 7 shared documents
 
 **Organizations:**
 
@@ -54,29 +54,29 @@ Trump](../people/donald-trump.md) - 7 shared documents
 
 **Locations:**
 
-- [Tempe](../locations/tempe.md) - 8 shared documents
-- [London](../locations/london.md) - 8 shared documents
 - [America](../locations/america.md) - 8 shared documents
-- [Florida](../locations/florida.md) - 8 shared documents
 - [Arizona State](../locations/arizona-state.md) - 8 shared documents
 - [Australia](../locations/australia.md) - 8 shared documents
 - [Canberra](../locations/canberra.md) - 8 shared documents
 - [Des Moines](../locations/des-moines.md) - 8 shared documents
+- [Florida](../locations/florida.md) - 8 shared documents
 - [Iowa](../locations/iowa.md) - 8 shared documents
 - [Las Vegas](../locations/las-vegas.md) - 8 shared documents
+- [London](../locations/london.md) - 8 shared documents
+- [Melbourne](../locations/melbourne.md) - 8 shared documents
 
 **Events:**
 
-- [October](../events/october.md) - 8 shared documents
-- [85287-1404](../events/85287-1404.md) - 8 shared documents
+- [13 months](../events/13-months.md) - 8 shared documents
+- [2006](../events/2006.md) - 8 shared documents
 - [2007](../events/2007.md) - 8 shared documents
+- [2008](../events/2008.md) - 8 shared documents
 - [2014](../events/2014.md) - 8 shared documents
 - [2016](../events/2016.md) - 8 shared documents
-- [2008](../events/2008.md) - 8 shared documents
+- [85287-1404](../events/85287-1404.md) - 8 shared documents
 - [April 2011](../events/april-2011.md) - 8 shared documents
-- [May 2011](../events/may-2011.md) - 8 shared documents
-- [November 2016](../events/november-2016.md) - 8 shared documents
-- [13 months](../events/13-months.md) - 8 shared documents
+- [April 2017](../events/april-2017.md) - 8 shared documents
+- [August 2013](../events/august-2013.md) - 8 shared documents
 
 ## Timeline
 

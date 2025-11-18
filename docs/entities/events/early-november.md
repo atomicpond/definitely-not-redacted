@@ -61,8 +61,8 @@ Top 9 documents by mention frequency:
 - [last year](last-year.md) - 6 shared documents
 - [September](september.md) - 6 shared documents
 - [Sunday](sunday.md) - 6 shared documents
-- [December](december.md) - 6 shared documents
 - [2002](2002.md) - 6 shared documents
+- [December](december.md) - 6 shared documents
 - [Friday](friday.md) - 5 shared documents
 - [last week](last-week.md) - 5 shared documents
 - [May](may.md) - 5 shared documents

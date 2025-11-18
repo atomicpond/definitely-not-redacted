@@ -62,25 +62,25 @@ Harvard University](../organizations/cabot-professor-of-american-literature-harv
 - [Cambridge](cambridge.md) - 10 shared documents
 - [Boston](boston.md) - 7 shared documents
 - [US](us.md) - 6 shared documents
-- [MA](ma.md) - 6 shared documents
-- [Broadway](broadway.md) - 6 shared documents
 - [Barker Center](barker-center.md) - 6 shared documents
+- [Broadway](broadway.md) - 6 shared documents
+- [MA](ma.md) - 6 shared documents
 - [Quincy Street](quincy-street.md) - 6 shared documents
 - [Street 
 Cambridge, MA](street-cambridge-ma.md) - 6 shared documents
 
 **Events:**
 
+- [2017](../events/2017.md) - 9 shared documents
 - [last year](../events/last-year.md) - 9 shared documents
 - [this year](../events/this-year.md) - 9 shared documents
-- [2017](../events/2017.md) - 9 shared documents
 - [1976](../events/1976.md) - 7 shared documents
-- [the new year](../events/the-new-year.md) - 6 shared documents
+- [12/2/2015](../events/1222015.md) - 6 shared documents
 - [a year ago](../events/a-year-ago.md) - 6 shared documents
 - [a year later](../events/a-year-later.md) - 6 shared documents
-- [the last year](../events/the-last-year.md) - 6 shared documents
-- [this spring](../events/this-spring.md) - 6 shared documents
 - [early 2016](../events/early-2016.md) - 6 shared documents
+- [eight-episode season](../events/eight-episode-season.md) - 6 shared documents
+- [Overnight](../events/overnight.md) - 6 shared documents
 
 ## Timeline
 

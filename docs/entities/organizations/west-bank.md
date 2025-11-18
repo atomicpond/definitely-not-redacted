@@ -32,8 +32,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 11 shared documents
-- [President Obama](../people/president-obama.md) - 10 shared documents
-- [Barack Obama](../people/barack-obama.md) - 9 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 9 shared documents
 - [West Bank](../people/west-bank.md) - 9 shared documents
 - [White House](../people/white-house.md) - 8 shared documents
@@ -41,6 +39,8 @@ Top 10 documents by mention frequency:
 - [Tel Aviv](../people/tel-aviv.md) - 7 shared documents
 - [Gaza Strip](../people/gaza-strip.md) - 6 shared documents
 - [Jimmy Carter](../people/jimmy-carter.md) - 6 shared documents
+- [San Francisco](../people/san-francisco.md) - 6 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 
 **Organizations:**
 
@@ -57,29 +57,29 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [the Middle East](../locations/the-middle-east.md) - 11 shared documents
-- [Russia](../locations/russia.md) - 11 shared documents
 - [Iran](../locations/iran.md) - 11 shared documents
 - [Iraq](../locations/iraq.md) - 11 shared documents
 - [Israel](../locations/israel.md) - 11 shared documents
+- [Russia](../locations/russia.md) - 11 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 11 shared documents
 - [Syria](../locations/syria.md) - 10 shared documents
 - [the United States](../locations/the-united-states.md) - 10 shared documents
-- [United States](../locations/united-states.md) - 9 shared documents
-- [Germany](../locations/germany.md) - 9 shared documents
+- [Britain](../locations/britain.md) - 9 shared documents
 - [France](../locations/france.md) - 9 shared documents
+- [Gaza](../locations/gaza.md) - 9 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 9 shared documents
-- [a year](../events/a-year.md) - 9 shared documents
 - [1973](../events/1973.md) - 9 shared documents
+- [a year](../events/a-year.md) - 9 shared documents
+- [today](../events/today.md) - 9 shared documents
+- [1967](../events/1967.md) - 8 shared documents
+- [1981](../events/1981.md) - 8 shared documents
 - [2012](../events/2012.md) - 8 shared documents
-- [years](../events/years.md) - 8 shared documents
+- [decades](../events/decades.md) - 8 shared documents
 - [last week](../events/last-week.md) - 8 shared documents
 - [May](../events/may.md) - 8 shared documents
 - [months](../events/months.md) - 8 shared documents
-- [the years](../events/the-years.md) - 8 shared documents
-- [two years](../events/two-years.md) - 8 shared documents
 
 ## Timeline
 

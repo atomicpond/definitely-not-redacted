@@ -32,19 +32,19 @@ Top 10 documents by mention frequency:
 
 - [Jeffrey E](jeffrey-e.md) - 11 shared documents
 - [Weiss](weiss.md) - 6 shared documents
+- [Brad S](brad-s.md) - 5 shared documents
 - [Brad S Karp](brad-s-karp.md) - 5 shared documents
 - [Jeffrey](jeffrey.md) - 5 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 5 shared documents
-- [Brad S](brad-s.md) - 5 shared documents
 - [Karp](karp.md) - 5 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 19 shared documents
-- [Trump](../organizations/trump.md) - 6 shared documents
 - [Rifkind](../organizations/rifkind.md) - 6 shared documents
-- [Wharton & Garrison LLP](../organizations/wharton-garrison-llp.md) - 5 shared documents
+- [Trump](../organizations/trump.md) - 6 shared documents
 - [1285 Avenue](../organizations/1285-avenue.md) - 5 shared documents
+- [Wharton & Garrison LLP](../organizations/wharton-garrison-llp.md) - 5 shared documents
 
 **Locations:**
 
@@ -52,21 +52,21 @@ Top 10 documents by mention frequency:
 - [N.Y.](../locations/ny.md) - 9 shared documents
 - [Americas](../locations/americas.md) - 6 shared documents
 - [US](../locations/us.md) - 5 shared documents
+- [Paris](../locations/paris.md) - 4 shared documents
 - [Russia](../locations/russia.md) - 4 shared documents
 - [the United States](../locations/the-united-states.md) - 4 shared documents
-- [Paris](../locations/paris.md) - 4 shared documents
 
 **Events:**
 
 - [yesterday](../events/yesterday.md) - 7 shared documents
 - [one day](../events/one-day.md) - 5 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
 - [August](../events/august.md) - 4 shared documents
+- [many years](../events/many-years.md) - 4 shared documents
 - [months ago](../events/months-ago.md) - 4 shared documents
 - [Sept](../events/sept.md) - 4 shared documents
 - [the weekend](../events/the-weekend.md) - 4 shared documents
-- [many years](../events/many-years.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
+- [years](../events/years.md) - 4 shared documents
 
 ## Timeline
 

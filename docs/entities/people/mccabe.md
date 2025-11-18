@@ -29,30 +29,30 @@ Top 8 documents by mention frequency:
 **People:**
 
 - [Michael Flynn](michael-flynn.md) - 7 shared documents
-- [mueller](mueller.md) - 7 shared documents
+- [Robert Mueller](robert-mueller.md) - 7 shared documents
 - [Michael Cohen](michael-cohen.md) - 6 shared documents
 - [Arthur Anderson](arthur-anderson.md) - 6 shared documents
-- [President Trump](president-trump.md) - 5 shared documents
 - [Rod 
 Rosenstein](rod-rosenstein.md) - 5 shared documents
-- [Rosenstein](rosenstein.md) - 5 shared documents
 - [Supreme Court](supreme-court.md) - 5 shared documents
-- [Mr. 
-Trump](trump.md) - 5 shared documents
+- [Andrew 
+McCabe](andrew-mccabe.md) - 5 shared documents
+- [Deputy Attorney General](deputy-attorney-general.md) - 5 shared documents
+- [Hillary Clinton](hillary-clinton.md) - 5 shared documents
 - [James Comey](james-comey.md) - 5 shared documents
 
 **Organizations:**
 
-- [Trump](../organizations/trump.md) - 8 shared documents
 - [FBI](../organizations/fbi.md) - 8 shared documents
+- [Trump](../organizations/trump.md) - 8 shared documents
 - [Mueller](../organizations/mueller.md) - 7 shared documents
 - [Enron](../organizations/enron.md) - 6 shared documents
-- [White House](../organizations/white-house.md) - 5 shared documents
-- [Congress](../organizations/congress.md) - 5 shared documents
-- [the White House](../organizations/the-white-house.md) - 5 shared documents
-- [DOJ](../organizations/doj.md) - 5 shared documents
 - [Comey](../organizations/comey.md) - 5 shared documents
+- [Congress](../organizations/congress.md) - 5 shared documents
+- [DOJ](../organizations/doj.md) - 5 shared documents
+- [the White House](../organizations/the-white-house.md) - 5 shared documents
 - [Weissmann](../organizations/weissmann.md) - 5 shared documents
+- [White House](../organizations/white-house.md) - 5 shared documents
 
 **Locations:**
 

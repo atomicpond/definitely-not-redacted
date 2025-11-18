@@ -49,10 +49,10 @@ Top 6 documents by mention frequency:
 - [the day](the-day.md) - 5 shared documents
 - [2015](2015.md) - 5 shared documents
 - [years](years.md) - 4 shared documents
+- [1999](1999.md) - 4 shared documents
 - [2003](2003.md) - 4 shared documents
 - [2016](2016.md) - 4 shared documents
 - [daily](daily.md) - 4 shared documents
-- [1999](1999.md) - 4 shared documents
 
 ## Timeline
 

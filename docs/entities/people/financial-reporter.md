@@ -50,11 +50,11 @@ Importance](trump-importance.md) - 10 shared documents
 - [New York Times](../organizations/new-york-times.md) - 48 shared documents
 - [Trump](../organizations/trump.md) - 12 shared documents
 - [Treasury](../organizations/treasury.md) - 7 shared documents
-- [Priebus](../organizations/priebus.md) - 5 shared documents
-- [NYT](../organizations/nyt.md) - 5 shared documents
 - [MNUCHIN](../organizations/mnuchin.md) - 5 shared documents
-- [HOUSE](../organizations/house.md) - 4 shared documents
+- [NYT](../organizations/nyt.md) - 5 shared documents
+- [Priebus](../organizations/priebus.md) - 5 shared documents
 - [CNBC](../organizations/cnbc.md) - 4 shared documents
+- [HOUSE](../organizations/house.md) - 4 shared documents
 
 **Locations:**
 
@@ -63,12 +63,12 @@ Importance](trump-importance.md) - 10 shared documents
 **Events:**
 
 - [last week](../events/last-week.md) - 8 shared documents
-- [2016](../events/2016.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
 - [11/14/2016](../events/11142016.md) - 5 shared documents
+- [2016](../events/2016.md) - 5 shared documents
 - [3/3/2017](../events/332017.md) - 5 shared documents
-- [Wednesday](../events/wednesday.md) - 4 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [March](../events/march.md) - 4 shared documents
+- [Wednesday](../events/wednesday.md) - 4 shared documents
 
 ## Timeline
 

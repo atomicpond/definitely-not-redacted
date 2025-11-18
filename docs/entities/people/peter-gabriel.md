@@ -28,16 +28,16 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
+- [Goldman Sachs](../organizations/goldman-sachs.md) - 4 shared documents
 - [HOUSE](../organizations/house.md) - 4 shared documents
 - [the White House](../organizations/the-white-house.md) - 4 shared documents
 - [Treasury](../organizations/treasury.md) - 4 shared documents
-- [Goldman Sachs](../organizations/goldman-sachs.md) - 4 shared documents
 
 **Locations:**
 
+- [Iceland](../locations/iceland.md) - 5 shared documents
 - [Iraq](../locations/iraq.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [Iceland](../locations/iceland.md) - 5 shared documents
 - [New York](../locations/new-york.md) - 4 shared documents
 
 **Events:**

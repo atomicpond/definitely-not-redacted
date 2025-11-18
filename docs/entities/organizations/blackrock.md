@@ -31,15 +31,15 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jeffrey E](../people/jeffrey-e.md) - 11 shared documents
+- [Bill Gates](../people/bill-gates.md) - 10 shared documents
 - [bin salman](../people/bin-salman.md) - 10 shared documents
-- [Gates](../people/gates.md) - 10 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 10 shared documents
 - [jeffrey E. <](../people/jeffrey-e.md) - 10 shared documents
 - [jr thomas](../people/jr-thomas.md) - 10 shared documents
 - [Landon](../people/landon.md) - 10 shared documents
 - [Landon Thomas](../people/landon-thomas.md) - 10 shared documents
 - [Thomas Jr](../people/thomas-jr.md) - 10 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 10 shared documents
 - [jr thomas/inde  
 x.html](../people/jr-thomas-inde-xhtml.md) - 9 shared documents
 
@@ -58,12 +58,12 @@ x.html](../people/jr-thomas-inde-xhtml.md) - 9 shared documents
 
 **Locations:**
 
-- [USA](../locations/usa.md) - 10 shared documents
-- [London](../locations/london.md) - 10 shared documents
 - [France](../locations/france.md) - 10 shared documents
-- [Saudi Arabia](../locations/saudi-arabia.md) - 10 shared documents
-- [Paris](../locations/paris.md) - 10 shared documents
 - [Istanbul](../locations/istanbul.md) - 10 shared documents
+- [London](../locations/london.md) - 10 shared documents
+- [Paris](../locations/paris.md) - 10 shared documents
+- [Saudi Arabia](../locations/saudi-arabia.md) - 10 shared documents
+- [USA](../locations/usa.md) - 10 shared documents
 
 **Events:**
 

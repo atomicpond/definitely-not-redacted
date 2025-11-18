@@ -55,12 +55,12 @@ Top 10 documents by mention frequency:
 
 - [year](year.md) - 10 shared documents
 - [years](years.md) - 10 shared documents
-- [2015](2015.md) - 8 shared documents
-- [annual](annual.md) - 8 shared documents
-- [last year](last-year.md) - 8 shared documents
-- [2017](2017.md) - 8 shared documents
 - [2013](2013.md) - 8 shared documents
+- [2015](2015.md) - 8 shared documents
+- [2017](2017.md) - 8 shared documents
+- [annual](annual.md) - 8 shared documents
 - [five years](five-years.md) - 8 shared documents
+- [last year](last-year.md) - 8 shared documents
 - [the year](the-year.md) - 7 shared documents
 - [this year](this-year.md) - 7 shared documents
 

@@ -41,13 +41,13 @@ Top 7 documents by mention frequency:
 - [Germany](../locations/germany.md) - 5 shared documents
 - [Italy](../locations/italy.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
 - [Latin America](../locations/latin-america.md) - 4 shared documents
+- [Russia](../locations/russia.md) - 4 shared documents
 
 **Events:**
 
-- [this year](../events/this-year.md) - 4 shared documents
 - [the day](../events/the-day.md) - 4 shared documents
+- [this year](../events/this-year.md) - 4 shared documents
 
 ## Timeline
 

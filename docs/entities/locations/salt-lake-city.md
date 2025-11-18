@@ -31,10 +31,9 @@ Top 10 documents by mention frequency:
 
 - [Salt Lake City](../people/salt-lake-city.md) - 19 shared documents
 - [Paul G. Cassell](../people/paul-g-cassell.md) - 17 shared documents
-- [Bradley J. Edwards](../people/bradley-j-edwards.md) - 15 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 15 shared documents
 - [Jane Doe](../people/jane-doe.md) - 14 shared documents
 - [Rights Act](../people/rights-act.md) - 10 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 8 shared documents
 - [Crime Victims](../people/crime-victims.md) - 8 shared documents
 - [Jack Scarola](../people/jack-scarola.md) - 8 shared documents
 
@@ -68,12 +67,12 @@ Top 10 documents by mention frequency:
 
 - [2011](../events/2011.md) - 18 shared documents
 - [2013](../events/2013.md) - 17 shared documents
-- [2009](../events/2009.md) - 15 shared documents
 - [2008](../events/2008.md) - 15 shared documents
-- [2007](../events/2007.md) - 14 shared documents
+- [2009](../events/2009.md) - 15 shared documents
 - [1999](../events/1999.md) - 14 shared documents
-- [today](../events/today.md) - 13 shared documents
+- [2007](../events/2007.md) - 14 shared documents
 - [1998](../events/1998.md) - 13 shared documents
+- [today](../events/today.md) - 13 shared documents
 - [2014](../events/2014.md) - 12 shared documents
 - [daily](../events/daily.md) - 12 shared documents
 

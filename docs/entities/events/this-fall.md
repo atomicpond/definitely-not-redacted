@@ -70,12 +70,12 @@ Trump](../people/donald-trump.md) - 5 shared documents
 - [2014](2014.md) - 7 shared documents
 - [Friday](friday.md) - 7 shared documents
 - [2016](2016.md) - 6 shared documents
+- [2013](2013.md) - 5 shared documents
 - [2018](2018.md) - 5 shared documents
 - [annual](annual.md) - 5 shared documents
+- [four-year](four-year.md) - 5 shared documents
+- [last fall](last-fall.md) - 5 shared documents
 - [last year](last-year.md) - 5 shared documents
-- [next year](next-year.md) - 5 shared documents
-- [May](may.md) - 5 shared documents
-- [months](months.md) - 5 shared documents
 
 ## Timeline
 

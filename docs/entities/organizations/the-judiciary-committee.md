@@ -37,11 +37,11 @@ Top 6 documents by mention frequency:
 **Locations:**
 
 - [Washington](../locations/washington.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
 - [Arizona](../locations/arizona.md) - 4 shared documents
+- [California](../locations/california.md) - 4 shared documents
 - [Iowa](../locations/iowa.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
 - [Utah](../locations/utah.md) - 4 shared documents
 
 ## Timeline

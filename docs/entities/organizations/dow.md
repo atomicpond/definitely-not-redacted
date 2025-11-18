@@ -33,26 +33,26 @@ Top 8 documents by mention frequency:
 **Locations:**
 
 - [New York](../locations/new-york.md) - 6 shared documents
-- [USA](../locations/usa.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
+- [USA](../locations/usa.md) - 5 shared documents
 - [Canada](../locations/canada.md) - 4 shared documents
 - [Germany](../locations/germany.md) - 4 shared documents
-- [London](../locations/london.md) - 4 shared documents
+- [Hong Kong](../locations/hong-kong.md) - 4 shared documents
+- [India](../locations/india.md) - 4 shared documents
 - [Iran](../locations/iran.md) - 4 shared documents
 - [Iraq](../locations/iraq.md) - 4 shared documents
+- [Israel](../locations/israel.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 6 shared documents
 - [1973](../events/1973.md) - 6 shared documents
+- [today](../events/today.md) - 6 shared documents
 - [three years](../events/three-years.md) - 5 shared documents
+- [1990](../events/1990.md) - 4 shared documents
 - [2009](../events/2009.md) - 4 shared documents
 - [2016](../events/2016.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
-- [1990](../events/1990.md) - 4 shared documents
 - [tomorrow](../events/tomorrow.md) - 4 shared documents
+- [years](../events/years.md) - 4 shared documents
 
 ## Timeline
 

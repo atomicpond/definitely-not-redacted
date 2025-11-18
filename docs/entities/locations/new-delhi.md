@@ -30,10 +30,9 @@ Top 8 documents by mention frequency:
 - [Middle East](../people/middle-east.md) - 8 shared documents
 - [New Delhi](../people/new-delhi.md) - 8 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 7 shared documents
-- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [White House](../people/white-house.md) - 6 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Cold War](../people/cold-war.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
 
 **Organizations:**
 
@@ -58,21 +57,21 @@ Top 8 documents by mention frequency:
 - [the Soviet Union](the-soviet-union.md) - 7 shared documents
 - [Washington](washington.md) - 7 shared documents
 - [China](china.md) - 7 shared documents
-- [Japan](japan.md) - 7 shared documents
 - [France](france.md) - 7 shared documents
+- [India](india.md) - 7 shared documents
 
 **Events:**
 
 - [2003](../events/2003.md) - 8 shared documents
 - [2009](../events/2009.md) - 8 shared documents
-- [today](../events/today.md) - 7 shared documents
 - [1996](../events/1996.md) - 7 shared documents
-- [years](../events/years.md) - 7 shared documents
 - [2008](../events/2008.md) - 7 shared documents
 - [2013](../events/2013.md) - 7 shared documents
 - [decades](../events/decades.md) - 7 shared documents
 - [the day](../events/the-day.md) - 7 shared documents
-- [2011](../events/2011.md) - 6 shared documents
+- [today](../events/today.md) - 7 shared documents
+- [years](../events/years.md) - 7 shared documents
+- [1974](../events/1974.md) - 6 shared documents
 
 ## Timeline
 

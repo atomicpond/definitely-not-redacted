@@ -26,11 +26,11 @@ Top 5 documents by mention frequency:
 
 - [Sloan School](../people/sloan-school.md) - 5 shared documents
 - [Aung San Suu](../people/aung-san-suu.md) - 4 shared documents
+- [Barack Obama](../people/barack-obama.md) - 4 shared documents
 - [Harvard Law School](../people/harvard-law-school.md) - 4 shared documents
 - [Harvard University](../people/harvard-university.md) - 4 shared documents
 - [Mexico City](../people/mexico-city.md) - 4 shared documents
 - [Modern Art](../people/modern-art.md) - 4 shared documents
-- [President Obama](../people/president-obama.md) - 4 shared documents
 - [Public Policy](../people/public-policy.md) - 4 shared documents
 - [Salt Lake City](../people/salt-lake-city.md) - 4 shared documents
 - [San Diego](../people/san-diego.md) - 4 shared documents
@@ -50,16 +50,16 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
-- [U.S.](../locations/us.md) - 4 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
 - [Iraq](../locations/iraq.md) - 4 shared documents
-- [New York City](../locations/new-york-city.md) - 4 shared documents
+- [Latin America](../locations/latin-america.md) - 4 shared documents
 - [Maryland](../locations/maryland.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
 
 **Events:**
 

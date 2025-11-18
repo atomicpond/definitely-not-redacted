@@ -48,26 +48,26 @@ Top 10 documents by mention frequency:
 - [Afghanistan](afghanistan.md) - 10 shared documents
 - [the United States](the-united-states.md) - 9 shared documents
 - [Washington](washington.md) - 8 shared documents
-- [Pakistan](pakistan.md) - 8 shared documents
 - [Egypt](egypt.md) - 8 shared documents
+- [Pakistan](pakistan.md) - 8 shared documents
 - [United States](united-states.md) - 7 shared documents
 - [Iran](iran.md) - 7 shared documents
 - [Iraq](iraq.md) - 7 shared documents
+- [Israel](israel.md) - 7 shared documents
 - [Libya](libya.md) - 7 shared documents
-- [Saudi Arabia](saudi-arabia.md) - 7 shared documents
 
 **Events:**
 
 - [1999](../events/1999.md) - 8 shared documents
+- [2001](../events/2001.md) - 7 shared documents
 - [2003](../events/2003.md) - 7 shared documents
 - [today](../events/today.md) - 7 shared documents
-- [2001](../events/2001.md) - 7 shared documents
 - [2004](../events/2004.md) - 6 shared documents
-- [2007](../events/2007.md) - 5 shared documents
-- [2009](../events/2009.md) - 5 shared documents
-- [the 1980s](../events/the-1980s.md) - 5 shared documents
-- [2000](../events/2000.md) - 5 shared documents
+- [1983](../events/1983.md) - 5 shared documents
+- [1994](../events/1994.md) - 5 shared documents
+- [1995](../events/1995.md) - 5 shared documents
 - [1997](../events/1997.md) - 5 shared documents
+- [2000](../events/2000.md) - 5 shared documents
 
 ## Timeline
 

@@ -31,8 +31,8 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Harvard University](../people/harvard-university.md) - 21 shared documents
+- [Barack Obama](../people/barack-obama.md) - 16 shared documents
 - [Jane Doe](../people/jane-doe.md) - 16 shared documents
-- [President Obama](../people/president-obama.md) - 16 shared documents
 - [New Jersey](../people/new-jersey.md) - 15 shared documents
 - [New Mexico](../people/new-mexico.md) - 14 shared documents
 
@@ -68,12 +68,12 @@ Top 10 documents by mention frequency:
 - [2010](../events/2010.md) - 29 shared documents
 - [2012](../events/2012.md) - 28 shared documents
 - [2004](../events/2004.md) - 27 shared documents
+- [2006](../events/2006.md) - 27 shared documents
 - [2007](../events/2007.md) - 27 shared documents
 - [2009](../events/2009.md) - 27 shared documents
-- [today](../events/today.md) - 27 shared documents
 - [2011](../events/2011.md) - 27 shared documents
-- [2006](../events/2006.md) - 27 shared documents
-- [years](../events/years.md) - 26 shared documents
+- [today](../events/today.md) - 27 shared documents
+- [2008](../events/2008.md) - 26 shared documents
 
 ## Timeline
 

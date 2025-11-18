@@ -28,8 +28,6 @@ Top 7 documents by mention frequency:
 
 - [Donald 
 Trump](../people/donald-trump.md) - 5 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 5 shared documents
 
 **Organizations:**
 

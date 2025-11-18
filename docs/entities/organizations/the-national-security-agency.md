@@ -48,27 +48,27 @@ Top 9 documents by mention frequency:
 
 - [Russia](../locations/russia.md) - 9 shared documents
 - [Germany](../locations/germany.md) - 8 shared documents
-- [California](../locations/california.md) - 7 shared documents
-- [United States](../locations/united-states.md) - 7 shared documents
-- [China](../locations/china.md) - 7 shared documents
-- [Japan](../locations/japan.md) - 7 shared documents
-- [Washington](../locations/washington.md) - 7 shared documents
 - [America](../locations/america.md) - 7 shared documents
 - [Australia](../locations/australia.md) - 7 shared documents
+- [California](../locations/california.md) - 7 shared documents
+- [China](../locations/china.md) - 7 shared documents
 - [India](../locations/india.md) - 7 shared documents
+- [Japan](../locations/japan.md) - 7 shared documents
+- [United States](../locations/united-states.md) - 7 shared documents
+- [Washington](../locations/washington.md) - 7 shared documents
 
 **Events:**
 
-- [2004](../events/2004.md) - 7 shared documents
-- [2014](../events/2014.md) - 7 shared documents
-- [today](../events/today.md) - 7 shared documents
-- [2012](../events/2012.md) - 7 shared documents
-- [daily](../events/daily.md) - 7 shared documents
 - [1985](../events/1985.md) - 7 shared documents
-- [1999](../events/1999.md) - 7 shared documents
-- [2013](../events/2013.md) - 7 shared documents
-- [two years](../events/two-years.md) - 7 shared documents
+- [1991](../events/1991.md) - 7 shared documents
 - [1994](../events/1994.md) - 7 shared documents
+- [1995](../events/1995.md) - 7 shared documents
+- [1999](../events/1999.md) - 7 shared documents
+- [2004](../events/2004.md) - 7 shared documents
+- [2012](../events/2012.md) - 7 shared documents
+- [2013](../events/2013.md) - 7 shared documents
+- [2014](../events/2014.md) - 7 shared documents
+- [daily](../events/daily.md) - 7 shared documents
 
 ## Timeline
 

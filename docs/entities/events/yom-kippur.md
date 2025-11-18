@@ -40,12 +40,12 @@ Top 8 documents by mention frequency:
 **Events:**
 
 - [decades](decades.md) - 5 shared documents
-- [Sunday](sunday.md) - 4 shared documents
-- [last week](last-week.md) - 4 shared documents
 - [15-year-old](15-year-old.md) - 4 shared documents
-- [the years](the-years.md) - 4 shared documents
 - [a few years](a-few-years.md) - 4 shared documents
+- [last week](last-week.md) - 4 shared documents
 - [several years](several-years.md) - 4 shared documents
+- [Sunday](sunday.md) - 4 shared documents
+- [the years](the-years.md) - 4 shared documents
 
 ## Timeline
 

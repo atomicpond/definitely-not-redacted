@@ -26,7 +26,7 @@ Top 6 documents by mention frequency:
 
 **People:**
 
-- [Bradley Edwards](bradley-edwards.md) - 4 shared documents
+- [Brad Edwards](brad-edwards.md) - 4 shared documents
 - [Jane Doe](jane-doe.md) - 4 shared documents
 
 **Organizations:**
@@ -37,17 +37,17 @@ Top 6 documents by mention frequency:
 
 - [Florida](../locations/florida.md) - 5 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 5 shared documents
-- [West Palm Beach](../locations/west-palm-beach.md) - 5 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 5 shared documents
+- [West Palm Beach](../locations/west-palm-beach.md) - 5 shared documents
 - [Miami](../locations/miami.md) - 4 shared documents
 
 **Events:**
 
 - [2008](../events/2008.md) - 5 shared documents
-- [daily](../events/daily.md) - 4 shared documents
-- [2010](../events/2010.md) - 4 shared documents
-- [the years](../events/the-years.md) - 4 shared documents
 - [14](../events/14.md) - 4 shared documents
+- [2010](../events/2010.md) - 4 shared documents
+- [daily](../events/daily.md) - 4 shared documents
+- [the years](../events/the-years.md) - 4 shared documents
 
 ## Timeline
 

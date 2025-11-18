@@ -10,14 +10,14 @@
 
 ### People
 - [Modi](../entities/people/modi.md) - 13 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 2 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 2 mentions
 - [Barack Obama](../entities/people/barack-obama.md) - 1 mention
 - [John Kerry](../entities/people/john-kerry.md) - 1 mention
 - [Joe Biden](../entities/people/joe-biden.md) - 1 mention
 - [Muammar Gaddafi](../entities/people/muammar-gaddafi.md) - 1 mention
 - [Zhou Enlai](../entities/people/zhou-enlai.md) - 1 mention
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
-- [Mr. Mubarak](../entities/people/mr-mubarak.md) - 1 mention
+- [Mr. Mubarak](../entities/people/mubarak.md) - 1 mention
 - [XI Jinping](../entities/people/xi-jinping.md) - 1 mention
 
 ### Organizations

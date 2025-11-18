@@ -17,7 +17,7 @@ Trump](../entities/people/donald-trump.md) - 2 mentions
 - [paul krassner](../entities/people/paul-krassner.md) - 1 mention
 - [Chris Christie](../entities/people/chris-christie.md) - 1 mention
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 1 mention
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 1 mention
 - [Steve Bannon](../entities/people/steve-bannon.md) - 1 mention
 
 ### Organizations

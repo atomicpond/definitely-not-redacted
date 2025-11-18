@@ -30,8 +30,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 15 shared documents
-- [Barack Obama](../people/barack-obama.md) - 13 shared documents
-- [President Obama](../people/president-obama.md) - 13 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 13 shared documents
 - [United 
 States](../people/united-states.md) - 12 shared documents
@@ -44,6 +42,8 @@ States](../people/united-states.md) - 12 shared documents
 - [Islam](../organizations/islam.md) - 12 shared documents
 - [Hamas](../organizations/hamas.md) - 11 shared documents
 - [HOUSE](../organizations/house.md) - 11 shared documents
+- [State](../organizations/state.md) - 10 shared documents
+- [White House](../organizations/white-house.md) - 10 shared documents
 
 **Locations:**
 
@@ -64,12 +64,12 @@ States](../people/united-states.md) - 12 shared documents
 - [years](../events/years.md) - 15 shared documents
 - [2009](../events/2009.md) - 13 shared documents
 - [2003](../events/2003.md) - 12 shared documents
-- [last week](../events/last-week.md) - 11 shared documents
 - [January](../events/january.md) - 11 shared documents
-- [2012](../events/2012.md) - 10 shared documents
-- [2011](../events/2011.md) - 10 shared documents
+- [last week](../events/last-week.md) - 11 shared documents
 - [1993](../events/1993.md) - 10 shared documents
 - [2008](../events/2008.md) - 10 shared documents
+- [2011](../events/2011.md) - 10 shared documents
+- [2012](../events/2012.md) - 10 shared documents
 
 ## Timeline
 

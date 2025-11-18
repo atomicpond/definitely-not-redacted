@@ -34,11 +34,11 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
+- [Florida](../locations/florida.md) - 4 shared documents
+- [Miami](../locations/miami.md) - 4 shared documents
 - [New York](../locations/new-york.md) - 4 shared documents
 - [U.S.](../locations/us.md) - 4 shared documents
 - [United States](../locations/united-states.md) - 4 shared documents
-- [Florida](../locations/florida.md) - 4 shared documents
-- [Miami](../locations/miami.md) - 4 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 4 shared documents
 
 **Events:**

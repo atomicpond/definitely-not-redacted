@@ -44,14 +44,14 @@ Top 10 documents by mention frequency:
 
 - [Bloomberg](bloomberg.md) - 19 shared documents
 - [Congress](congress.md) - 19 shared documents
-- [Fed](fed.md) - 18 shared documents
 - [Bank](bank.md) - 18 shared documents
+- [Fed](fed.md) - 18 shared documents
 - [Treasury](treasury.md) - 16 shared documents
 - [the Federal Deposit Insurance Corporation](the-federal-deposit-insurance-corporation.md) - 15 shared documents
-- [HOUSE](house.md) - 14 shared documents
-- [Merrill Lynch](merrill-lynch.md) - 14 shared documents
+- [Central Bank](central-bank.md) - 14 shared documents
 - [Trump](trump.md) - 12 shared documents
 - [Utilities](utilities.md) - 12 shared documents
+- [Senate](senate.md) - 11 shared documents
 
 **Locations:**
 
@@ -59,12 +59,12 @@ Top 10 documents by mention frequency:
 - [Spain](../locations/spain.md) - 25 shared documents
 - [Germany](../locations/germany.md) - 23 shared documents
 - [Canada](../locations/canada.md) - 21 shared documents
-- [Brazil](../locations/brazil.md) - 20 shared documents
 - [Asia](../locations/asia.md) - 20 shared documents
+- [Brazil](../locations/brazil.md) - 20 shared documents
 - [India](../locations/india.md) - 20 shared documents
-- [Russia](../locations/russia.md) - 19 shared documents
-- [Mexico](../locations/mexico.md) - 19 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 19 shared documents
+- [Mexico](../locations/mexico.md) - 19 shared documents
+- [Russia](../locations/russia.md) - 19 shared documents
 
 **Events:**
 
@@ -74,10 +74,10 @@ Top 10 documents by mention frequency:
 - [2015](../events/2015.md) - 18 shared documents
 - [today](../events/today.md) - 18 shared documents
 - [2012](../events/2012.md) - 17 shared documents
-- [this year](../events/this-year.md) - 17 shared documents
 - [the year](../events/the-year.md) - 17 shared documents
-- [2018](../events/2018.md) - 15 shared documents
+- [this year](../events/this-year.md) - 17 shared documents
 - [10-year](../events/10-year.md) - 15 shared documents
+- [2018](../events/2018.md) - 15 shared documents
 
 ## Timeline
 

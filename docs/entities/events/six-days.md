@@ -34,7 +34,7 @@ Top 10 documents by mention frequency:
 
 - [Jane Doe](../people/jane-doe.md) - 11 shared documents
 - [Rights Act](../people/rights-act.md) - 10 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 9 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 9 shared documents
 - [Crime Victims](../people/crime-victims.md) - 9 shared documents
 - [New Mexico](../people/new-mexico.md) - 9 shared documents
 
@@ -68,8 +68,8 @@ Top 10 documents by mention frequency:
 - [2010](2010.md) - 12 shared documents
 - [months](months.md) - 12 shared documents
 - [the years](the-years.md) - 11 shared documents
-- [2007](2007.md) - 11 shared documents
 - [18 months](18-months.md) - 11 shared documents
+- [2007](2007.md) - 11 shared documents
 
 ## Timeline
 

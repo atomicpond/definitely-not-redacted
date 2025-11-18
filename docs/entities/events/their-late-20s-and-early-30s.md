@@ -39,9 +39,9 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
+- [13 months](13-months.md) - 4 shared documents
 - [2015](2015.md) - 4 shared documents
 - [2017](2017.md) - 4 shared documents
-- [13 months](13-months.md) - 4 shared documents
 - [80](80.md) - 4 shared documents
 
 ## Timeline

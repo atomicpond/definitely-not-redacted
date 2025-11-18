@@ -24,8 +24,8 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [Twitter](../organizations/twitter.md) - 5 shared documents
 - [New York Times](../organizations/new-york-times.md) - 5 shared documents
+- [Twitter](../organizations/twitter.md) - 5 shared documents
 
 **Locations:**
 
@@ -35,15 +35,15 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
+- [2008](../events/2008.md) - 5 shared documents
+- [2011](../events/2011.md) - 5 shared documents
+- [2012](../events/2012.md) - 5 shared documents
 - [2014](../events/2014.md) - 5 shared documents
 - [2016](../events/2016.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [2012](../events/2012.md) - 5 shared documents
 - [2017](../events/2017.md) - 5 shared documents
-- [2011](../events/2011.md) - 5 shared documents
-- [2008](../events/2008.md) - 5 shared documents
-- [daily](../events/daily.md) - 4 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [A few months later](../events/a-few-months-later.md) - 4 shared documents
+- [daily](../events/daily.md) - 4 shared documents
 - [decades](../events/decades.md) - 4 shared documents
 
 ## Timeline

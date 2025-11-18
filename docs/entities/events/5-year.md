@@ -63,12 +63,12 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [this year](this-year.md) - 14 shared documents
-- [2015](2015.md) - 14 shared documents
 - [10-year](10-year.md) - 14 shared documents
 - [2001](2001.md) - 14 shared documents
+- [2015](2015.md) - 14 shared documents
+- [12-month](12-month.md) - 13 shared documents
 - [2000](2000.md) - 13 shared documents
 - [2017](2017.md) - 13 shared documents
-- [12-month](12-month.md) - 13 shared documents
 - [annual](annual.md) - 12 shared documents
 - [the day](the-day.md) - 12 shared documents
 - [the year](the-year.md) - 12 shared documents

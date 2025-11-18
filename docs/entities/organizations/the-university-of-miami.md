@@ -36,10 +36,10 @@ Top 8 documents by mention frequency:
 
 **Organizations:**
 
-- [Fed](fed.md) - 6 shared documents
 - [FBI](fbi.md) - 6 shared documents
-- [State](state.md) - 6 shared documents
+- [Fed](fed.md) - 6 shared documents
 - [Harvard](harvard.md) - 6 shared documents
+- [State](state.md) - 6 shared documents
 - [The New York Times Company](the-new-york-times-company.md) - 6 shared documents
 - [The Palm Beach Post](the-palm-beach-post.md) - 6 shared documents
 
@@ -51,20 +51,19 @@ Top 8 documents by mention frequency:
 - [Palm Beach](../locations/palm-beach.md) - 6 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 6 shared documents
 - [Miami](../locations/miami.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
 
 **Events:**
 
-- [October](../events/october.md) - 6 shared documents
-- [August](../events/august.md) - 6 shared documents
-- [July](../events/july.md) - 6 shared documents
-- [2006](../events/2006.md) - 6 shared documents
 - [15 years](../events/15-years.md) - 6 shared documents
-- [May 1](../events/may-1.md) - 6 shared documents
-- [one year](../events/one-year.md) - 6 shared documents
-- [three years](../events/three-years.md) - 6 shared documents
-- [two years](../events/two-years.md) - 6 shared documents
+- [2006](../events/2006.md) - 6 shared documents
+- [53](../events/53.md) - 6 shared documents
+- [August](../events/august.md) - 6 shared documents
+- [early this year](../events/early-this-year.md) - 6 shared documents
 - [five-year](../events/five-year.md) - 6 shared documents
+- [July](../events/july.md) - 6 shared documents
+- [late July](../events/late-july.md) - 6 shared documents
+- [March 2005](../events/march-2005.md) - 6 shared documents
+- [May 1](../events/may-1.md) - 6 shared documents
 
 ## Timeline
 

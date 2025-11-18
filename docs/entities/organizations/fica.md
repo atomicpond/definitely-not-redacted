@@ -24,8 +24,8 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [Congress](congress.md) - 4 shared documents
 - [Bank](bank.md) - 4 shared documents
+- [Congress](congress.md) - 4 shared documents
 
 **Events:**
 

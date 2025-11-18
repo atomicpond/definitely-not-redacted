@@ -26,30 +26,30 @@ Top 6 documents by mention frequency:
 
 **Organizations:**
 
+- [Chanel](chanel.md) - 4 shared documents
 - [Ford](ford.md) - 4 shared documents
 - [LLC](llc.md) - 4 shared documents
-- [Chanel](chanel.md) - 4 shared documents
 
 **Locations:**
 
 - [Florida](../locations/florida.md) - 6 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 6 shared documents
-- [Virginia](../locations/virginia.md) - 5 shared documents
 - [Illinois](../locations/illinois.md) - 5 shared documents
+- [Virginia](../locations/virginia.md) - 5 shared documents
 - [Jordan](../locations/jordan.md) - 4 shared documents
 
 **Events:**
 
 - [1995](../events/1995.md) - 6 shared documents
-- [2000](../events/2000.md) - 5 shared documents
-- [1998](../events/1998.md) - 5 shared documents
 - [1987](../events/1987.md) - 5 shared documents
+- [1998](../events/1998.md) - 5 shared documents
+- [2000](../events/2000.md) - 5 shared documents
+- [1976](../events/1976.md) - 4 shared documents
+- [1981](../events/1981.md) - 4 shared documents
+- [1982](../events/1982.md) - 4 shared documents
+- [1984](../events/1984.md) - 4 shared documents
 - [1986](../events/1986.md) - 4 shared documents
-- [2004](../events/2004.md) - 4 shared documents
-- [2007](../events/2007.md) - 4 shared documents
-- [2016](../events/2016.md) - 4 shared documents
-- [1996](../events/1996.md) - 4 shared documents
-- [1990](../events/1990.md) - 4 shared documents
+- [1988](../events/1988.md) - 4 shared documents
 
 ## Timeline
 

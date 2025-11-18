@@ -26,27 +26,27 @@ Top 6 documents by mention frequency:
 **People:**
 
 - [On Mon](on-mon.md) - 6 shared documents
-- [Jeffrey E](jeffrey-e.md) - 6 shared documents
 - [Barry J. Cohen](barry-j-cohen.md) - 6 shared documents
+- [Jeffrey E](jeffrey-e.md) - 6 shared documents
 - [Jet](jet.md) - 6 shared documents
 - [Cohen 
 Subject](cohen-subject.md) - 5 shared documents
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 6 shared documents
-- [Jet Aviation](../organizations/jet-aviation.md) - 6 shared documents
 - [EJM](../organizations/ejm.md) - 6 shared documents
 - [GV](../organizations/gv.md) - 6 shared documents
+- [HOUSE](../organizations/house.md) - 6 shared documents
+- [Jet Aviation](../organizations/jet-aviation.md) - 6 shared documents
 - [Apollo](../organizations/apollo.md) - 4 shared documents
 
 **Events:**
 
 - [2017](../events/2017.md) - 6 shared documents
-- [4:23 PM](../events/423-pm.md) - 6 shared documents
 - [2:33 PM](../events/233-pm.md) - 6 shared documents
 - [3:42 PM](../events/342-pm.md) - 6 shared documents
 - [4:13 PM](../events/413-pm.md) - 6 shared documents
+- [4:23 PM](../events/423-pm.md) - 6 shared documents
 - [Mon, Oct 2, 2017](../events/mon-oct-2-2017.md) - 6 shared documents
 - [Monday, October 02,](../events/monday-october-02.md) - 6 shared documents
 - [Monday, October 02, 2017](../events/monday-october-02-2017.md) - 6 shared documents

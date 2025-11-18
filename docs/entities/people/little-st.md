@@ -57,21 +57,21 @@ Top 10 documents by mention frequency:
 - [Manhattan](../locations/manhattan.md) - 15 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 13 shared documents
 - [Caribbean](../locations/caribbean.md) - 12 shared documents
+- [the United States](../locations/the-united-states.md) - 10 shared documents
 - [United States](../locations/united-states.md) - 10 shared documents
-- [Washington](../locations/washington.md) - 10 shared documents
 
 **Events:**
 
-- [last week](../events/last-week.md) - 13 shared documents
 - [2006](../events/2006.md) - 13 shared documents
-- [2008](../events/2008.md) - 12 shared documents
+- [last week](../events/last-week.md) - 13 shared documents
 - [18 months](../events/18-months.md) - 12 shared documents
-- [2007](../events/2007.md) - 11 shared documents
+- [2008](../events/2008.md) - 12 shared documents
 - [14](../events/14.md) - 11 shared documents
+- [2007](../events/2007.md) - 11 shared documents
 - [the day](../events/the-day.md) - 11 shared documents
-- [1984](../events/1984.md) - 10 shared documents
 - [18](../events/18.md) - 10 shared documents
-- [2003](../events/2003.md) - 9 shared documents
+- [1984](../events/1984.md) - 10 shared documents
+- [1981](../events/1981.md) - 9 shared documents
 
 ## Timeline
 

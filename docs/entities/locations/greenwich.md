@@ -48,11 +48,11 @@ Top 9 documents by mention frequency:
 **Events:**
 
 - [2014](../events/2014.md) - 6 shared documents
+- [2008](../events/2008.md) - 4 shared documents
+- [2011](../events/2011.md) - 4 shared documents
+- [2013](../events/2013.md) - 4 shared documents
 - [2016](../events/2016.md) - 4 shared documents
 - [today](../events/today.md) - 4 shared documents
-- [2011](../events/2011.md) - 4 shared documents
-- [2008](../events/2008.md) - 4 shared documents
-- [2013](../events/2013.md) - 4 shared documents
 
 ## Timeline
 

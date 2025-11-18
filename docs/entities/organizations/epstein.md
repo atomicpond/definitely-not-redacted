@@ -59,26 +59,26 @@ Top 10 documents by mention frequency:
 - [Florida](../locations/florida.md) - 12 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 12 shared documents
 - [Miami](../locations/miami.md) - 11 shared documents
-- [the United States](../locations/the-united-states.md) - 10 shared documents
 - [New Mexico](../locations/new-mexico.md) - 10 shared documents
+- [the United States](../locations/the-united-states.md) - 10 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 10 shared documents
 - [New York](../locations/new-york.md) - 9 shared documents
-- [United States](../locations/united-states.md) - 9 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 9 shared documents
-- [California](../locations/california.md) - 7 shared documents
+- [United States](../locations/united-states.md) - 9 shared documents
+- [Africa](../locations/africa.md) - 7 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 10 shared documents
 - [2002](../events/2002.md) - 9 shared documents
-- [2003](../events/2003.md) - 8 shared documents
-- [2004](../events/2004.md) - 8 shared documents
-- [daily](../events/daily.md) - 8 shared documents
-- [May](../events/may.md) - 8 shared documents
-- [2005](../events/2005.md) - 8 shared documents
-- [2008](../events/2008.md) - 8 shared documents
 - [14](../events/14.md) - 8 shared documents
 - [14-year-old](../events/14-year-old.md) - 8 shared documents
+- [1995](../events/1995.md) - 8 shared documents
+- [2003](../events/2003.md) - 8 shared documents
+- [2004](../events/2004.md) - 8 shared documents
+- [2005](../events/2005.md) - 8 shared documents
+- [2008](../events/2008.md) - 8 shared documents
+- [daily](../events/daily.md) - 8 shared documents
 
 ## Timeline
 

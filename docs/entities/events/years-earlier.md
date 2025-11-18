@@ -30,8 +30,8 @@ Top 8 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Cold War](../people/cold-war.md) - 7 shared documents
-- [President Obama](../people/president-obama.md) - 7 shared documents
 - [Middle East](../people/middle-east.md) - 6 shared documents
 - [San Francisco](../people/san-francisco.md) - 6 shared documents
 
@@ -60,14 +60,14 @@ Top 8 documents by mention frequency:
 
 **Events:**
 
-- [years](years.md) - 8 shared documents
 - [1978](1978.md) - 8 shared documents
 - [the 1950s](the-1950s.md) - 8 shared documents
 - [the 1960s](the-1960s.md) - 8 shared documents
 - [the 1970s](the-1970s.md) - 8 shared documents
 - [weekly](weekly.md) - 8 shared documents
-- [Thursday](thursday.md) - 7 shared documents
-- [today](today.md) - 7 shared documents
+- [years](years.md) - 8 shared documents
+- [1981](1981.md) - 7 shared documents
+- [1982](1982.md) - 7 shared documents
 - [2012](2012.md) - 7 shared documents
 - [daily](daily.md) - 7 shared documents
 

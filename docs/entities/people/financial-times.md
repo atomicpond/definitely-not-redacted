@@ -29,7 +29,8 @@ Top 8 documents by mention frequency:
 
 - [Goldman Sachs](goldman-sachs.md) - 5 shared documents
 - [Jeffrey E](jeffrey-e.md) - 5 shared documents
-- [Donald Trump's](donald-trumps.md) - 5 shared documents
+- [Donald 
+Trump](donald-trump.md) - 5 shared documents
 - [Far East](far-east.md) - 4 shared documents
 
 **Organizations:**
@@ -40,21 +41,21 @@ Top 8 documents by mention frequency:
 
 **Locations:**
 
-- [China](../locations/china.md) - 6 shared documents
 - [Beijing](../locations/beijing.md) - 6 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
+- [China](../locations/china.md) - 6 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [Europe](../locations/europe.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
 - [Germany](../locations/germany.md) - 4 shared documents
+- [Russia](../locations/russia.md) - 4 shared documents
 - [the Soviet Union](../locations/the-soviet-union.md) - 4 shared documents
 
 **Events:**
 
 - [2014](../events/2014.md) - 6 shared documents
-- [this week](../events/this-week.md) - 5 shared documents
 - [2008](../events/2008.md) - 5 shared documents
 - [last quarter](../events/last-quarter.md) - 5 shared documents
+- [this week](../events/this-week.md) - 5 shared documents
 - [today](../events/today.md) - 4 shared documents
 
 ## Timeline

@@ -31,14 +31,14 @@ Top 10 documents by mention frequency:
 
 - [Middle East](../people/middle-east.md) - 15 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 13 shared documents
-- [Barack Obama](../people/barack-obama.md) - 10 shared documents
 - [White House](../people/white-house.md) - 10 shared documents
-- [President Obama](../people/president-obama.md) - 9 shared documents
 - [West Bank](../people/west-bank.md) - 8 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Bashar al-Assad](../people/bashar-al-assad.md) - 7 shared documents
 - [Mahmoud Abbas](../people/mahmoud-abbas.md) - 7 shared documents
-- [Mr. Obama](../people/obama.md) - 7 shared documents
-- [President Barack Obama](../people/president-barack-obama.md) - 7 shared documents
+- [Al Qaeda](../people/al-qaeda.md) - 6 shared documents
+- [Gaza Strip](../people/gaza-strip.md) - 6 shared documents
+- [George W. Bush](../people/george-w-bush.md) - 6 shared documents
 
 **Organizations:**
 
@@ -57,22 +57,22 @@ Top 10 documents by mention frequency:
 
 - [Iraq](../locations/iraq.md) - 17 shared documents
 - [the United States](../locations/the-united-states.md) - 17 shared documents
-- [Washington](../locations/washington.md) - 16 shared documents
 - [Iran](../locations/iran.md) - 16 shared documents
 - [Libya](../locations/libya.md) - 16 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 15 shared documents
+- [Washington](../locations/washington.md) - 16 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 15 shared documents
 - [Jordan](../locations/jordan.md) - 15 shared documents
 - [Syria](../locations/syria.md) - 15 shared documents
-- [Afghanistan](../locations/afghanistan.md) - 15 shared documents
-- [Russia](../locations/russia.md) - 14 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 15 shared documents
+- [Egypt](../locations/egypt.md) - 14 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 17 shared documents
 - [2003](../events/2003.md) - 12 shared documents
 - [the 1980s](../events/the-1980s.md) - 12 shared documents
-- [2009](../events/2009.md) - 11 shared documents
 - [2008](../events/2008.md) - 11 shared documents
+- [2009](../events/2009.md) - 11 shared documents
 - [2010](../events/2010.md) - 11 shared documents
 - [1990](../events/1990.md) - 10 shared documents
 - [1993](../events/1993.md) - 10 shared documents

@@ -29,9 +29,9 @@ Top 5 documents by mention frequency:
 **Locations:**
 
 - [Europe](../locations/europe.md) - 5 shared documents
-- [Italy](../locations/italy.md) - 5 shared documents
-- [Hungary](../locations/hungary.md) - 5 shared documents
 - [Greece](../locations/greece.md) - 5 shared documents
+- [Hungary](../locations/hungary.md) - 5 shared documents
+- [Italy](../locations/italy.md) - 5 shared documents
 
 ## Timeline
 

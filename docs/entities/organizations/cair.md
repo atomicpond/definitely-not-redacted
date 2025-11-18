@@ -25,8 +25,8 @@ Top 6 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Cold War](../people/cold-war.md) - 6 shared documents
-- [President Obama](../people/president-obama.md) - 6 shared documents
 
 **Organizations:**
 
@@ -44,28 +44,28 @@ Top 6 documents by mention frequency:
 **Locations:**
 
 - [Earth](../locations/earth.md) - 6 shared documents
+- [Gaza](../locations/gaza.md) - 6 shared documents
+- [Israel](../locations/israel.md) - 6 shared documents
+- [Rome](../locations/rome.md) - 6 shared documents
 - [Russia](../locations/russia.md) - 6 shared documents
 - [the Soviet Union](../locations/the-soviet-union.md) - 6 shared documents
-- [Rome](../locations/rome.md) - 6 shared documents
-- [Israel](../locations/israel.md) - 6 shared documents
-- [Gaza](../locations/gaza.md) - 6 shared documents
 - [West](../locations/west.md) - 6 shared documents
-- [the State of Israel](../locations/the-state-of-israel.md) - 5 shared documents
-- [Vietnam](../locations/vietnam.md) - 5 shared documents
+- [anti-Israel](../locations/anti-israel.md) - 5 shared documents
+- [Cincinnati](../locations/cincinnati.md) - 5 shared documents
 - [Pearl Harbor](../locations/pearl-harbor.md) - 5 shared documents
 
 **Events:**
 
+- [1991](../events/1991.md) - 6 shared documents
 - [daily](../events/daily.md) - 6 shared documents
 - [decades](../events/decades.md) - 6 shared documents
 - [the 1950s](../events/the-1950s.md) - 6 shared documents
 - [the day](../events/the-day.md) - 6 shared documents
-- [1991](../events/1991.md) - 6 shared documents
-- [70](../events/70.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
+- [2/8/2013](../events/2-8-2013.md) - 5 shared documents
 - [2013](../events/2013.md) - 5 shared documents
-- [week](../events/week.md) - 5 shared documents
-- [the mid 1950s](../events/the-mid-1950s.md) - 5 shared documents
+- [70](../events/70.md) - 5 shared documents
+- [February 8, 2013](../events/february-8-2013.md) - 5 shared documents
+- [Just this week](../events/just-this-week.md) - 5 shared documents
 
 ## Timeline
 

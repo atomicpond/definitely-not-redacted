@@ -47,12 +47,12 @@ Top 8 documents by mention frequency:
 **Locations:**
 
 - [Manhattan](../locations/manhattan.md) - 8 shared documents
+- [Coney Island](../locations/coney-island.md) - 7 shared documents
 - [New Mexico](../locations/new-mexico.md) - 7 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 7 shared documents
-- [Coney Island](../locations/coney-island.md) - 7 shared documents
-- [Florida](../locations/florida.md) - 6 shared documents
-- [England](../locations/england.md) - 6 shared documents
 - [Dalton](../locations/dalton.md) - 6 shared documents
+- [England](../locations/england.md) - 6 shared documents
+- [Florida](../locations/florida.md) - 6 shared documents
 - [Brooklyn](../locations/brooklyn.md) - 5 shared documents
 - [Caribbean](../locations/caribbean.md) - 5 shared documents
 - [Paris](../locations/paris.md) - 5 shared documents
@@ -61,13 +61,13 @@ Top 8 documents by mention frequency:
 
 - [1982](../events/1982.md) - 6 shared documents
 - [50](../events/50.md) - 6 shared documents
-- [today](../events/today.md) - 5 shared documents
 - [2002](../events/2002.md) - 5 shared documents
 - [several years](../events/several-years.md) - 5 shared documents
-- [2004](../events/2004.md) - 4 shared documents
-- [2015](../events/2015.md) - 4 shared documents
-- [daily](../events/daily.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
+- [today](../events/today.md) - 5 shared documents
+- [1953](../events/1953.md) - 4 shared documents
+- [1981](../events/1981.md) - 4 shared documents
+- [1984](../events/1984.md) - 4 shared documents
+- [1991](../events/1991.md) - 4 shared documents
 - [1993](../events/1993.md) - 4 shared documents
 
 ## Timeline

@@ -11,7 +11,7 @@
 ### People
 - [DAVID SCHOEN](../entities/people/david-schoen.md) - 1 mention
 - [Mr. 
-Dershowitz](../entities/people/mr-dershowitz.md) - 1 mention
+Dershowitz](../entities/people/alan-dershowitz.md) - 1 mention
 
 ### Organizations
 - [Trump](../entities/organizations/trump.md) - 2 mentions

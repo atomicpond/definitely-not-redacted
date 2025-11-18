@@ -19,7 +19,7 @@
 - [New
 York](../entities/people/new-york.md) - 2 mentions
 - [Mr. 
-Dershowitz](../entities/people/mr-dershowitz.md) - 2 mentions
+Dershowitz](../entities/people/alan-dershowitz.md) - 2 mentions
 - [Daily News](../entities/people/daily-news.md) - 1 mention
 - [Crime Victims](../entities/people/crime-victims.md) - 1 mention
 - [Miami Herald](../entities/people/miami-herald.md) - 1 mention

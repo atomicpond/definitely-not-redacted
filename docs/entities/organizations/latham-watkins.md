@@ -26,15 +26,11 @@ Top 7 documents by mention frequency:
 
 **People:**
 
-- [Mr. Obama](../people/obama.md) - 6 shared documents
-- [Ms. Ruemmler](../people/ruemmler.md) - 6 shared documents
-- [White House](../people/white-house.md) - 6 shared documents
-- [Jeffrey E](../people/jeffrey-e.md) - 5 shared documents
-- [Kathryn Ruemmler](../people/kathryn-ruemmler.md) - 5 shared documents
-- [Kathy](../people/kathy.md) - 5 shared documents
 - [Kathy 
-Ruemmler](../people/kathy-ruemmler.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
+Ruemmler](../people/kathy-ruemmler.md) - 6 shared documents
+- [White House](../people/white-house.md) - 6 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
+- [Jeffrey E](../people/jeffrey-e.md) - 5 shared documents
 
 **Organizations:**
 

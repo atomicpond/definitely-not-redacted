@@ -27,7 +27,7 @@ Top 7 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 4 shared documents
+- [Barack Obama](../people/barack-obama.md) - 4 shared documents
 - [Vanity Fair](../people/vanity-fair.md) - 4 shared documents
 - [White House](../people/white-house.md) - 4 shared documents
 

@@ -13,7 +13,7 @@
 - [Donald 
 Trump](../entities/people/donald-trump.md) - 3 mentions
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 2 mentions
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 2 mentions
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 2 mentions
 - [On Fri](../entities/people/on-fri.md) - 2 mentions
 - [Hillary Clinton](../entities/people/hillary-clinton.md) - 2 mentions
 - [Ryan](../entities/people/ryan.md) - 2 mentions

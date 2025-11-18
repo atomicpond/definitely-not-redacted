@@ -33,16 +33,16 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 12 shared documents
-- [Barack Obama](../people/barack-obama.md) - 8 shared documents
-- [President Obama](../people/president-obama.md) - 7 shared documents
-- [Donald 
-Trump](../people/donald-trump.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Los Angeles](../people/los-angeles.md) - 5 shared documents
 - [Middle East](../people/middle-east.md) - 5 shared documents
 - [Mitt Romney](../people/mitt-romney.md) - 5 shared documents
 - [New Jersey](../people/new-jersey.md) - 5 shared documents
 - [New Year](../people/new-year.md) - 5 shared documents
-- [President Barack Obama](../people/president-barack-obama.md) - 5 shared documents
+- [Central Park](../people/central-park.md) - 4 shared documents
+- [Columbia University](../people/columbia-university.md) - 4 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 4 shared documents
 
 **Organizations:**
 
@@ -53,8 +53,8 @@ Trump](../people/donald-trump.md) - 5 shared documents
 - [the White House](the-white-house.md) - 10 shared documents
 - [White House](white-house.md) - 10 shared documents
 - [the New York Times](the-new-york-times.md) - 9 shared documents
-- [Senate](senate.md) - 8 shared documents
 - [CNN](cnn.md) - 8 shared documents
+- [Senate](senate.md) - 8 shared documents
 - [Times](times.md) - 7 shared documents
 
 **Locations:**
@@ -64,23 +64,23 @@ Trump](../people/donald-trump.md) - 5 shared documents
 - [Israel](../locations/israel.md) - 10 shared documents
 - [China](../locations/china.md) - 9 shared documents
 - [Europe](../locations/europe.md) - 9 shared documents
-- [Washington](../locations/washington.md) - 8 shared documents
 - [Italy](../locations/italy.md) - 8 shared documents
-- [New York](../locations/new-york.md) - 7 shared documents
-- [California](../locations/california.md) - 7 shared documents
-- [United States](../locations/united-states.md) - 7 shared documents
+- [Washington](../locations/washington.md) - 8 shared documents
+- [Australia](../locations/australia.md) - 7 shared documents
+- [Britain](../locations/britain.md) - 7 shared documents
+- [Brooklyn](../locations/brooklyn.md) - 7 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 10 shared documents
 - [2012](../events/2012.md) - 10 shared documents
-- [Sunday](../events/sunday.md) - 9 shared documents
+- [today](../events/today.md) - 10 shared documents
 - [1980](../events/1980.md) - 9 shared documents
+- [Sunday](../events/sunday.md) - 9 shared documents
 - [2009](../events/2009.md) - 8 shared documents
 - [2016](../events/2016.md) - 8 shared documents
 - [Monday](../events/monday.md) - 8 shared documents
-- [this year](../events/this-year.md) - 8 shared documents
 - [one day](../events/one-day.md) - 8 shared documents
+- [recent years](../events/recent-years.md) - 8 shared documents
 - [the years](../events/the-years.md) - 8 shared documents
 
 ## Timeline

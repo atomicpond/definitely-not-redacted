@@ -9,7 +9,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Kathy](../entities/people/kathy.md) - 1 mention
 
 ### Locations

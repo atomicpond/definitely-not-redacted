@@ -31,10 +31,10 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Palm Beach](../locations/palm-beach.md) - 5 shared documents
-- [Palm Beach County](../locations/palm-beach-county.md) - 5 shared documents
 - [NORTH LAKE](../locations/north-lake.md) - 5 shared documents
 - [NORTH OCEAN](../locations/north-ocean.md) - 5 shared documents
+- [Palm Beach](../locations/palm-beach.md) - 5 shared documents
+- [Palm Beach County](../locations/palm-beach-county.md) - 5 shared documents
 
 ## Timeline
 

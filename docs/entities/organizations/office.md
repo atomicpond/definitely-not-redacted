@@ -30,7 +30,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jane Doe](../people/jane-doe.md) - 20 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 19 shared documents
 - [Crime Victims](../people/crime-victims.md) - 19 shared documents
 - [Jack Goldberger](../people/jack-goldberger.md) - 19 shared documents
 - [Jay Lefkowitz](../people/jay-lefkowitz.md) - 19 shared documents
@@ -39,6 +38,7 @@ Top 10 documents by mention frequency:
 - [Kenneth Starr](../people/kenneth-starr.md) - 17 shared documents
 - [New Mexico](../people/new-mexico.md) - 17 shared documents
 - [Sarah Kellen](../people/sarah-kellen.md) - 16 shared documents
+- [Los Angeles](../people/los-angeles.md) - 14 shared documents
 
 **Organizations:**
 
@@ -70,14 +70,14 @@ Top 10 documents by mention frequency:
 
 - [2008](../events/2008.md) - 26 shared documents
 - [2009](../events/2009.md) - 24 shared documents
-- [Monday](../events/monday.md) - 22 shared documents
 - [2005](../events/2005.md) - 22 shared documents
-- [years](../events/years.md) - 20 shared documents
+- [Monday](../events/monday.md) - 22 shared documents
 - [13 months](../events/13-months.md) - 20 shared documents
 - [2006](../events/2006.md) - 20 shared documents
+- [years](../events/years.md) - 20 shared documents
 - [2007](../events/2007.md) - 19 shared documents
-- [today](../events/today.md) - 19 shared documents
 - [2011](../events/2011.md) - 19 shared documents
+- [today](../events/today.md) - 19 shared documents
 
 ## Timeline
 

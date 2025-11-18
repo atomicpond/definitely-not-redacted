@@ -39,34 +39,32 @@ Top 10 documents by mention frequency:
 
 - [Defense](../organizations/defense.md) - 11 shared documents
 - [State](../organizations/state.md) - 11 shared documents
-- [Senate](../organizations/senate.md) - 10 shared documents
-- [Congress](../organizations/congress.md) - 10 shared documents
 
 **Locations:**
 
 - [Europe](../locations/europe.md) - 13 shared documents
 - [Japan](../locations/japan.md) - 13 shared documents
-- [Russia](../locations/russia.md) - 12 shared documents
 - [Israel](../locations/israel.md) - 12 shared documents
-- [California](../locations/california.md) - 11 shared documents
-- [China](../locations/china.md) - 11 shared documents
-- [Canada](../locations/canada.md) - 11 shared documents
-- [Germany](../locations/germany.md) - 11 shared documents
-- [Washington](../locations/washington.md) - 11 shared documents
+- [Russia](../locations/russia.md) - 12 shared documents
 - [America](../locations/america.md) - 11 shared documents
+- [California](../locations/california.md) - 11 shared documents
+- [Canada](../locations/canada.md) - 11 shared documents
+- [China](../locations/china.md) - 11 shared documents
+- [France](../locations/france.md) - 11 shared documents
+- [Germany](../locations/germany.md) - 11 shared documents
 
 **Events:**
 
 - [2009](../events/2009.md) - 13 shared documents
 - [today](../events/today.md) - 13 shared documents
-- [years](../events/years.md) - 12 shared documents
 - [1991](../events/1991.md) - 12 shared documents
+- [years](../events/years.md) - 12 shared documents
+- [1981](../events/1981.md) - 11 shared documents
+- [1988](../events/1988.md) - 11 shared documents
+- [1995](../events/1995.md) - 11 shared documents
 - [2007](../events/2007.md) - 11 shared documents
-- [annual](../events/annual.md) - 11 shared documents
-- [May](../events/may.md) - 11 shared documents
 - [2008](../events/2008.md) - 11 shared documents
 - [2010](../events/2010.md) - 11 shared documents
-- [1981](../events/1981.md) - 11 shared documents
 
 ## Timeline
 

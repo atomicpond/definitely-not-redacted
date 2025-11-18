@@ -57,14 +57,14 @@ Top 10 documents by mention frequency:
 
 - [China](../locations/china.md) - 10 shared documents
 - [Paris](../locations/paris.md) - 10 shared documents
-- [Russia](../locations/russia.md) - 9 shared documents
 - [Brazil](../locations/brazil.md) - 9 shared documents
-- [Mexico](../locations/mexico.md) - 9 shared documents
-- [London](../locations/london.md) - 9 shared documents
-- [NYC](../locations/nyc.md) - 9 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 9 shared documents
 - [India](../locations/india.md) - 9 shared documents
-- [Canada](../locations/canada.md) - 8 shared documents
+- [London](../locations/london.md) - 9 shared documents
+- [Mexico](../locations/mexico.md) - 9 shared documents
+- [NYC](../locations/nyc.md) - 9 shared documents
+- [Russia](../locations/russia.md) - 9 shared documents
+- [Australia](../locations/australia.md) - 8 shared documents
 
 **Events:**
 
@@ -72,12 +72,12 @@ Top 10 documents by mention frequency:
 - [2016](../events/2016.md) - 9 shared documents
 - [last year](../events/last-year.md) - 9 shared documents
 - [several years](../events/several-years.md) - 9 shared documents
+- [12-month](../events/12-month.md) - 8 shared documents
 - [2004](../events/2004.md) - 8 shared documents
 - [2018](../events/2018.md) - 8 shared documents
 - [next year](../events/next-year.md) - 8 shared documents
 - [the year](../events/the-year.md) - 8 shared documents
-- [12-month](../events/12-month.md) - 8 shared documents
-- [2012](../events/2012.md) - 7 shared documents
+- [2001](../events/2001.md) - 7 shared documents
 
 ## Timeline
 

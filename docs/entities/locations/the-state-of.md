@@ -45,11 +45,11 @@ Top 9 documents by mention frequency:
 
 - [United States](united-states.md) - 8 shared documents
 - [West Palm Beach](west-palm-beach.md) - 8 shared documents
-- [London](london.md) - 7 shared documents
 - [Florida](florida.md) - 7 shared documents
+- [London](london.md) - 7 shared documents
 - [the United States](the-united-states.md) - 6 shared documents
-- [New York](new-york.md) - 6 shared documents
 - [Miami](miami.md) - 6 shared documents
+- [New York](new-york.md) - 6 shared documents
 - [Palm Beach](palm-beach.md) - 6 shared documents
 - [Palm Beach County](palm-beach-county.md) - 6 shared documents
 - [U.S.](us.md) - 5 shared documents
@@ -60,12 +60,12 @@ Top 9 documents by mention frequency:
 - [years](../events/years.md) - 7 shared documents
 - [2004](../events/2004.md) - 6 shared documents
 - [2008](../events/2008.md) - 6 shared documents
-- [Wednesday](../events/wednesday.md) - 5 shared documents
-- [last week](../events/last-week.md) - 5 shared documents
+- [16](../events/16.md) - 5 shared documents
+- [18](../events/18.md) - 5 shared documents
+- [1981](../events/1981.md) - 5 shared documents
 - [2001](../events/2001.md) - 5 shared documents
+- [2006](../events/2006.md) - 5 shared documents
 - [2010](../events/2010.md) - 5 shared documents
-- [the years](../events/the-years.md) - 5 shared documents
-- [Tuesday](../events/tuesday.md) - 5 shared documents
 
 ## Timeline
 

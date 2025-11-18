@@ -38,47 +38,46 @@ Top 10 documents by mention frequency:
 - [Goldman Sachs](goldman-sachs.md) - 4 shared documents
 - [Middle East](middle-east.md) - 4 shared documents
 - [Nigel Farage](nigel-farage.md) - 4 shared documents
-- [President Trump](president-trump.md) - 4 shared documents
 - [Saharan Africa](saharan-africa.md) - 4 shared documents
 - [Time Warner](time-warner.md) - 4 shared documents
 
 **Organizations:**
 
 - [General Electric](../organizations/general-electric.md) - 10 shared documents
-- [Trump](../organizations/trump.md) - 8 shared documents
 - [the Financial Times](../organizations/the-financial-times.md) - 8 shared documents
-- [Twitter](../organizations/twitter.md) - 7 shared documents
+- [Trump](../organizations/trump.md) - 8 shared documents
 - [CNN](../organizations/cnn.md) - 7 shared documents
-- [HOUSE](../organizations/house.md) - 6 shared documents
+- [Twitter](../organizations/twitter.md) - 7 shared documents
+- [Boeing](../organizations/boeing.md) - 6 shared documents
 - [Congress](../organizations/congress.md) - 6 shared documents
 - [Facebook](../organizations/facebook.md) - 6 shared documents
-- [Boeing](../organizations/boeing.md) - 6 shared documents
-- [Harvard](../organizations/harvard.md) - 5 shared documents
+- [HOUSE](../organizations/house.md) - 6 shared documents
 
 **Locations:**
 
 - [China](../locations/china.md) - 9 shared documents
-- [Europe](../locations/europe.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
-- [Germany](../locations/germany.md) - 6 shared documents
-- [London](../locations/london.md) - 6 shared documents
 - [Asia](../locations/asia.md) - 6 shared documents
+- [Europe](../locations/europe.md) - 6 shared documents
+- [Germany](../locations/germany.md) - 6 shared documents
 - [Iraq](../locations/iraq.md) - 6 shared documents
 - [Israel](../locations/israel.md) - 6 shared documents
+- [London](../locations/london.md) - 6 shared documents
+- [Russia](../locations/russia.md) - 6 shared documents
 - [West](../locations/west.md) - 6 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
+- [America](../locations/america.md) - 5 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 7 shared documents
 - [2014](../events/2014.md) - 6 shared documents
 - [tomorrow](../events/tomorrow.md) - 6 shared documents
-- [2018](../events/2018.md) - 5 shared documents
-- [2016](../events/2016.md) - 5 shared documents
-- [a day](../events/a-day.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
 - [2008](../events/2008.md) - 5 shared documents
+- [2016](../events/2016.md) - 5 shared documents
+- [2018](../events/2018.md) - 5 shared documents
+- [35](../events/35.md) - 5 shared documents
+- [a day](../events/a-day.md) - 5 shared documents
 - [the years](../events/the-years.md) - 5 shared documents
+- [years](../events/years.md) - 5 shared documents
 
 ## Timeline
 

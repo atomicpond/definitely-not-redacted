@@ -39,8 +39,9 @@ Subject](../people/cohen-subject.md) - 5 shared documents
 - [San Francisco](../people/san-francisco.md) - 5 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 5 shared documents
 - [Barry J. Cohen](../people/barry-j-cohen.md) - 4 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 4 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 4 shared documents
-- [Jet](../people/jet.md) - 4 shared documents
 
 **Organizations:**
 
@@ -61,25 +62,23 @@ Subject](../people/cohen-subject.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 8 shared documents
 - [California](../locations/california.md) - 7 shared documents
 - [China](../locations/china.md) - 7 shared documents
-- [Russia](../locations/russia.md) - 7 shared documents
 - [Germany](../locations/germany.md) - 7 shared documents
-- [Washington](../locations/washington.md) - 7 shared documents
 - [Paris](../locations/paris.md) - 7 shared documents
-- [New York](../locations/new-york.md) - 6 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 6 shared documents
+- [Russia](../locations/russia.md) - 7 shared documents
+- [Washington](../locations/washington.md) - 7 shared documents
 
 **Events:**
 
 - [two years](../events/two-years.md) - 12 shared documents
+- [2017](../events/2017.md) - 9 shared documents
 - [last year](../events/last-year.md) - 9 shared documents
 - [this year](../events/this-year.md) - 9 shared documents
-- [2017](../events/2017.md) - 9 shared documents
 - [years](../events/years.md) - 9 shared documents
-- [2015](../events/2015.md) - 8 shared documents
-- [six months](../events/six-months.md) - 8 shared documents
-- [Thursday](../events/thursday.md) - 8 shared documents
-- [today](../events/today.md) - 8 shared documents
 - [2012](../events/2012.md) - 8 shared documents
+- [2015](../events/2015.md) - 8 shared documents
+- [every day](../events/every-day.md) - 8 shared documents
+- [Friday](../events/friday.md) - 8 shared documents
+- [six months](../events/six-months.md) - 8 shared documents
 
 ## Timeline
 

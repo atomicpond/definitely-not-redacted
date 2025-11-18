@@ -32,13 +32,11 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Cold War](../people/cold-war.md) - 25 shared documents
-- [President Obama](../people/president-obama.md) - 23 shared documents
-- [Barack Obama](../people/barack-obama.md) - 21 shared documents
 - [Middle East](../people/middle-east.md) - 19 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 18 shared documents
 - [Soviet Union](../people/soviet-union.md) - 14 shared documents
 - [White House](../people/white-house.md) - 13 shared documents
-- [Mr. Obama](../people/obama.md) - 12 shared documents
+- [Communist Party](../people/communist-party.md) - 11 shared documents
 
 **Organizations:**
 
@@ -57,14 +55,14 @@ Top 10 documents by mention frequency:
 
 - [Russia](russia.md) - 39 shared documents
 - [China](china.md) - 32 shared documents
-- [Europe](europe.md) - 31 shared documents
 - [America](america.md) - 31 shared documents
+- [Europe](europe.md) - 31 shared documents
 - [the United States](the-united-states.md) - 29 shared documents
 - [Washington](washington.md) - 29 shared documents
 - [Germany](germany.md) - 29 shared documents
 - [France](france.md) - 28 shared documents
-- [Japan](japan.md) - 26 shared documents
 - [Iraq](iraq.md) - 26 shared documents
+- [Japan](japan.md) - 26 shared documents
 
 **Events:**
 
@@ -73,11 +71,11 @@ Top 10 documents by mention frequency:
 - [2008](../events/2008.md) - 25 shared documents
 - [decades](../events/decades.md) - 25 shared documents
 - [the day](../events/the-day.md) - 22 shared documents
-- [2013](../events/2013.md) - 20 shared documents
 - [1991](../events/1991.md) - 20 shared documents
+- [2013](../events/2013.md) - 20 shared documents
+- [1996](../events/1996.md) - 19 shared documents
 - [2003](../events/2003.md) - 19 shared documents
 - [2009](../events/2009.md) - 19 shared documents
-- [1996](../events/1996.md) - 19 shared documents
 
 ## Timeline
 

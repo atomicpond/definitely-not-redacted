@@ -33,37 +33,37 @@ Top 7 documents by mention frequency:
 
 **Organizations:**
 
-- [Washington Post](../organizations/washington-post.md) - 4 shared documents
-- [NASA](../organizations/nasa.md) - 4 shared documents
-- [Harvard](../organizations/harvard.md) - 4 shared documents
-- [Harvard Law School](../organizations/harvard-law-school.md) - 4 shared documents
 - [Fox News](../organizations/fox-news.md) - 4 shared documents
 - [Google](../organizations/google.md) - 4 shared documents
+- [Harvard](../organizations/harvard.md) - 4 shared documents
+- [Harvard Law School](../organizations/harvard-law-school.md) - 4 shared documents
 - [MIT](../organizations/mit.md) - 4 shared documents
-- [PBS](../organizations/pbs.md) - 4 shared documents
+- [NASA](../organizations/nasa.md) - 4 shared documents
 - [PayPal](../organizations/paypal.md) - 4 shared documents
+- [PBS](../organizations/pbs.md) - 4 shared documents
 - [Stanford University](../organizations/stanford-university.md) - 4 shared documents
+- [Washington Post](../organizations/washington-post.md) - 4 shared documents
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 4 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
-- [U.S.](../locations/us.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
-- [America](../locations/america.md) - 4 shared documents
-- [Iraq](../locations/iraq.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
-- [New York City](../locations/new-york-city.md) - 4 shared documents
 - [Afghanistan](../locations/afghanistan.md) - 4 shared documents
+- [America](../locations/america.md) - 4 shared documents
+- [Germany](../locations/germany.md) - 4 shared documents
+- [Iraq](../locations/iraq.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
+- [Latin America](../locations/latin-america.md) - 4 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
+- [New York City](../locations/new-york-city.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
 
 **Events:**
 
 - [2007](../events/2007.md) - 4 shared documents
 - [2009](../events/2009.md) - 4 shared documents
-- [2014](../events/2014.md) - 4 shared documents
 - [2011](../events/2011.md) - 4 shared documents
 - [2013](../events/2013.md) - 4 shared documents
+- [2014](../events/2014.md) - 4 shared documents
 - [weekly](../events/weekly.md) - 4 shared documents
 
 ## Timeline

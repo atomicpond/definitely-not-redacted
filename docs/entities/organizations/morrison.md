@@ -26,17 +26,17 @@ Top 6 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](house.md) - 4 shared documents
-- [Ford](ford.md) - 4 shared documents
-- [LLC](llc.md) - 4 shared documents
 - [Apple](apple.md) - 4 shared documents
+- [Ford](ford.md) - 4 shared documents
+- [HOUSE](house.md) - 4 shared documents
+- [LLC](llc.md) - 4 shared documents
 
 **Locations:**
 
-- [Florida](../locations/florida.md) - 4 shared documents
-- [Virginia](../locations/virginia.md) - 4 shared documents
-- [Palm Beach](../locations/palm-beach.md) - 4 shared documents
 - [Charlotte](../locations/charlotte.md) - 4 shared documents
+- [Florida](../locations/florida.md) - 4 shared documents
+- [Palm Beach](../locations/palm-beach.md) - 4 shared documents
+- [Virginia](../locations/virginia.md) - 4 shared documents
 
 **Events:**
 

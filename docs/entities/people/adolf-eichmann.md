@@ -32,33 +32,32 @@ Top 7 documents by mention frequency:
 
 - [New York Times](../organizations/new-york-times.md) - 6 shared documents
 - [Harvard University](../organizations/harvard-university.md) - 5 shared documents
-- [the New York Times](../organizations/the-new-york-times.md) - 5 shared documents
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 6 shared documents
 - [Earth](../locations/earth.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
+- [New York](../locations/new-york.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 6 shared documents
-- [California](../locations/california.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [London](../locations/london.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 6 shared documents
 - [America](../locations/america.md) - 5 shared documents
 - [Australia](../locations/australia.md) - 5 shared documents
+- [California](../locations/california.md) - 5 shared documents
 - [England](../locations/england.md) - 5 shared documents
+- [Hollywood](../locations/hollywood.md) - 5 shared documents
+- [London](../locations/london.md) - 5 shared documents
 
 **Events:**
 
-- [years](../events/years.md) - 6 shared documents
 - [1963](../events/1963.md) - 6 shared documents
 - [decades](../events/decades.md) - 6 shared documents
 - [the day](../events/the-day.md) - 6 shared documents
-- [2004](../events/2004.md) - 5 shared documents
-- [2009](../events/2009.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
+- [years](../events/years.md) - 6 shared documents
+- [1961](../events/1961.md) - 5 shared documents
+- [1968](../events/1968.md) - 5 shared documents
+- [1984](../events/1984.md) - 5 shared documents
 - [1996](../events/1996.md) - 5 shared documents
-- [2000](../events/2000.md) - 5 shared documents
-- [daily](../events/daily.md) - 5 shared documents
+- [1997](../events/1997.md) - 5 shared documents
+- [1999](../events/1999.md) - 5 shared documents
 
 ## Timeline
 

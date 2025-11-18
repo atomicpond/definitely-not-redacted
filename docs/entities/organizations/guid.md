@@ -51,7 +51,6 @@ Sender](../people/yes-sender.md) - 25 shared documents
 - [Harvard](harvard.md) - 6 shared documents
 - [MIRO](miro.md) - 5 shared documents
 - [the White House](the-white-house.md) - 5 shared documents
-- [Congress](congress.md) - 4 shared documents
 
 **Locations:**
 
@@ -75,9 +74,9 @@ Sender](../people/yes-sender.md) - 25 shared documents
 - [Sunday](../events/sunday.md) - 12 shared documents
 - [Monday](../events/monday.md) - 10 shared documents
 - [Saturday](../events/saturday.md) - 9 shared documents
+- [next week](../events/next-week.md) - 8 shared documents
 - [Thursday](../events/thursday.md) - 8 shared documents
 - [Tuesday](../events/tuesday.md) - 8 shared documents
-- [next week](../events/next-week.md) - 8 shared documents
 
 ## Timeline
 

@@ -55,23 +55,23 @@ Top 10 documents by mention frequency:
 - [Europe](../locations/europe.md) - 13 shared documents
 - [Mexico](../locations/mexico.md) - 13 shared documents
 - [Brazil](../locations/brazil.md) - 12 shared documents
-- [Spain](../locations/spain.md) - 12 shared documents
 - [EUR](../locations/eur.md) - 12 shared documents
-- [Russia](../locations/russia.md) - 11 shared documents
+- [Spain](../locations/spain.md) - 12 shared documents
 - [Asia](../locations/asia.md) - 11 shared documents
+- [Russia](../locations/russia.md) - 11 shared documents
 - [Singapore](../locations/singapore.md) - 11 shared documents
 
 **Events:**
 
 - [this year](../events/this-year.md) - 12 shared documents
 - [2015](../events/2015.md) - 11 shared documents
-- [today](../events/today.md) - 10 shared documents
 - [last week](../events/last-week.md) - 10 shared documents
 - [the year](../events/the-year.md) - 10 shared documents
+- [today](../events/today.md) - 10 shared documents
 - [2000](../events/2000.md) - 9 shared documents
-- [recent weeks](../events/recent-weeks.md) - 9 shared documents
 - [2013](../events/2013.md) - 9 shared documents
-- [2018](../events/2018.md) - 8 shared documents
+- [recent weeks](../events/recent-weeks.md) - 9 shared documents
+- [2001](../events/2001.md) - 8 shared documents
 - [2017](../events/2017.md) - 8 shared documents
 
 ## Timeline

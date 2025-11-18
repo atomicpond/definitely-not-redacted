@@ -42,25 +42,23 @@ Top 10 documents by mention frequency:
 
 **Organizations:**
 
-- [ISIS](../organizations/isis.md) - 12 shared documents
-- [Harvard](../organizations/harvard.md) - 12 shared documents
-- [Google](../organizations/google.md) - 12 shared documents
-- [Vanity Fair](../organizations/vanity-fair.md) - 12 shared documents
-- [Cooper Union](../organizations/cooper-union.md) - 12 shared documents
 - [Carnegie](../organizations/carnegie.md) - 12 shared documents
+- [Cooper Union](../organizations/cooper-union.md) - 12 shared documents
+- [Google](../organizations/google.md) - 12 shared documents
+- [Harvard](../organizations/harvard.md) - 12 shared documents
+- [ISIS](../organizations/isis.md) - 12 shared documents
+- [Vanity Fair](../organizations/vanity-fair.md) - 12 shared documents
 - [New York Magazine](../organizations/new-york-magazine.md) - 11 shared documents
 - [NYU](../organizations/nyu.md) - 10 shared documents
-- [Times](../organizations/times.md) - 9 shared documents
-- [the New York Times](../organizations/the-new-york-times.md) - 9 shared documents
 
 **Locations:**
 
-- [Qatar](../locations/qatar.md) - 12 shared documents
-- [Manhattan](../locations/manhattan.md) - 12 shared documents
-- [Paris](../locations/paris.md) - 12 shared documents
-- [New Mexico](../locations/new-mexico.md) - 12 shared documents
 - [Coney Island](../locations/coney-island.md) - 12 shared documents
 - [Dalton](../locations/dalton.md) - 12 shared documents
+- [Manhattan](../locations/manhattan.md) - 12 shared documents
+- [New Mexico](../locations/new-mexico.md) - 12 shared documents
+- [Paris](../locations/paris.md) - 12 shared documents
+- [Qatar](../locations/qatar.md) - 12 shared documents
 - [Europe](../locations/europe.md) - 11 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 11 shared documents
 - [Caribbean](../locations/caribbean.md) - 10 shared documents
@@ -68,16 +66,16 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
-- [Sunday](../events/sunday.md) - 12 shared documents
-- [2002](../events/2002.md) - 12 shared documents
-- [two years](../events/two-years.md) - 12 shared documents
 - [1953](../events/1953.md) - 12 shared documents
 - [1982](../events/1982.md) - 12 shared documents
 - [1994](../events/1994.md) - 12 shared documents
+- [2002](../events/2002.md) - 12 shared documents
+- [Sunday](../events/sunday.md) - 12 shared documents
+- [two years](../events/two-years.md) - 12 shared documents
 - [20s and 30s](../events/20s-and-30s.md) - 11 shared documents
 - [2004](../events/2004.md) - 10 shared documents
-- [the 1980s](../events/the-1980s.md) - 9 shared documents
-- [daily](../events/daily.md) - 9 shared documents
+- [18 months](../events/18-months.md) - 9 shared documents
+- [1974](../events/1974.md) - 9 shared documents
 
 ## Timeline
 

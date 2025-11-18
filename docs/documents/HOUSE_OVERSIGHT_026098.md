@@ -25,7 +25,7 @@ Subject](../entities/people/nicholas-ribis-subject.md) - 1 mention
 - [May 27, 2017](../entities/events/may-27-2017.md) - 1 mention
 - [8 or early tomorrow](../entities/events/8-or-early-tomorrow.md) - 1 mention
 - [Sunday, May 28, 2017](../entities/events/sunday-may-28-2017.md) - 1 mention
-- [5/28/2017](../entities/events/5282017.md) - 1 mention
+- [5/28/2017](../entities/events/5-28-2017.md) - 1 mention
 
 ## Document Text
 

@@ -29,29 +29,23 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
-- [London](../locations/london.md) - 6 shared documents
 - [Australia](../locations/australia.md) - 6 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [USA](../locations/usa.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
+- [London](../locations/london.md) - 6 shared documents
 - [Asia](../locations/asia.md) - 4 shared documents
-- [D.C.](../locations/dc.md) - 4 shared documents
-- [France](../locations/france.md) - 4 shared documents
-- [Iraq](../locations/iraq.md) - 4 shared documents
+- [Boston](../locations/boston.md) - 4 shared documents
 
 **Events:**
 
+- [1963](../events/1963.md) - 4 shared documents
+- [1968](../events/1968.md) - 4 shared documents
+- [1973](../events/1973.md) - 4 shared documents
+- [1974](../events/1974.md) - 4 shared documents
+- [1980](../events/1980.md) - 4 shared documents
 - [1986](../events/1986.md) - 4 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [2004](../events/2004.md) - 4 shared documents
-- [2007](../events/2007.md) - 4 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [2016](../events/2016.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [1996](../events/1996.md) - 4 shared documents
-- [2000](../events/2000.md) - 4 shared documents
-- [daily](../events/daily.md) - 4 shared documents
+- [1989](../events/1989.md) - 4 shared documents
+- [1990](../events/1990.md) - 4 shared documents
+- [1992](../events/1992.md) - 4 shared documents
+- [1995](../events/1995.md) - 4 shared documents
 
 ## Timeline
 

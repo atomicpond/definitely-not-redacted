@@ -26,7 +26,7 @@ Top 5 documents by mention frequency:
 
 - [Jeffrey Epstein](jeffrey-epstein.md) - 5 shared documents
 - [Sanctions Revive Search](sanctions-revive-search.md) - 5 shared documents
-- [President Obama](president-obama.md) - 4 shared documents
+- [Barack Obama](barack-obama.md) - 4 shared documents
 
 **Organizations:**
 

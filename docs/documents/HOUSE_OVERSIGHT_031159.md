@@ -20,7 +20,7 @@
 ### People
 - [J.P. Morgan](../entities/people/jp-morgan.md) - 3 mentions
 - [Michael Cembalest](../entities/people/michael-cembalest.md) - 2 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Reid](../entities/people/reid.md) - 1 mention
 - [Reagan](../entities/people/reagan.md) - 1 mention
 - [J.P. Morgan Representative](../entities/people/jp-morgan-representative.md) - 1 mention

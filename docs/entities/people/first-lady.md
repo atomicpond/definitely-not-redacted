@@ -27,7 +27,6 @@ Top 8 documents by mention frequency:
 
 **People:**
 
-- [President Obama](president-obama.md) - 6 shared documents
 - [Middle East](middle-east.md) - 5 shared documents
 - [New Jersey](new-jersey.md) - 5 shared documents
 - [Park Avenue](park-avenue.md) - 5 shared documents
@@ -36,36 +35,36 @@ Top 8 documents by mention frequency:
 **Organizations:**
 
 - [State](../organizations/state.md) - 6 shared documents
-- [Senate](../organizations/senate.md) - 5 shared documents
 - [Congress](../organizations/congress.md) - 5 shared documents
-- [the White House](../organizations/the-white-house.md) - 5 shared documents
 - [New York Times](../organizations/new-york-times.md) - 5 shared documents
+- [Senate](../organizations/senate.md) - 5 shared documents
+- [the White House](../organizations/the-white-house.md) - 5 shared documents
 
 **Locations:**
 
-- [Australia](../locations/australia.md) - 6 shared documents
 - [Afghanistan](../locations/afghanistan.md) - 6 shared documents
+- [Australia](../locations/australia.md) - 6 shared documents
 - [California](../locations/california.md) - 5 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
 - [China](../locations/china.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [Mexico](../locations/mexico.md) - 5 shared documents
+- [Egypt](../locations/egypt.md) - 5 shared documents
 - [Iraq](../locations/iraq.md) - 5 shared documents
 - [Israel](../locations/israel.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
+- [Mexico](../locations/mexico.md) - 5 shared documents
+- [New Jersey](../locations/new-jersey.md) - 5 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
+- [1968](../events/1968.md) - 5 shared documents
+- [1987](../events/1987.md) - 5 shared documents
+- [1991](../events/1991.md) - 5 shared documents
 - [2000](../events/2000.md) - 5 shared documents
 - [2012](../events/2012.md) - 5 shared documents
 - [daily](../events/daily.md) - 5 shared documents
+- [decades](../events/decades.md) - 5 shared documents
+- [every day](../events/every-day.md) - 5 shared documents
+- [many years](../events/many-years.md) - 5 shared documents
 - [Monday](../events/monday.md) - 5 shared documents
-- [Sunday](../events/sunday.md) - 5 shared documents
-- [this year](../events/this-year.md) - 5 shared documents
-- [one day](../events/one-day.md) - 5 shared documents
-- [Saturday](../events/saturday.md) - 5 shared documents
-- [1968](../events/1968.md) - 5 shared documents
 
 ## Timeline
 

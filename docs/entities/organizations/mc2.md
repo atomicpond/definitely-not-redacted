@@ -37,7 +37,7 @@ Top 10 documents by mention frequency:
 - [Alfredo Rodriguez](../people/alfredo-rodriguez.md) - 9 shared documents
 - [Jack Goldberger](../people/jack-goldberger.md) - 9 shared documents
 - [Robert Maxwell](../people/robert-maxwell.md) - 9 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 8 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 8 shared documents
 - [El Brillo Way](../people/el-brillo-way.md) - 8 shared documents
 - [Leslie Wexner](../people/leslie-wexner.md) - 8 shared documents
 
@@ -59,26 +59,26 @@ Top 10 documents by mention frequency:
 - [Florida](../locations/florida.md) - 14 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 14 shared documents
 - [New Mexico](../locations/new-mexico.md) - 13 shared documents
-- [West Palm Beach](../locations/west-palm-beach.md) - 12 shared documents
 - [Brunel](../locations/brunel.md) - 12 shared documents
+- [West Palm Beach](../locations/west-palm-beach.md) - 12 shared documents
 - [France](../locations/france.md) - 10 shared documents
+- [Miami](../locations/miami.md) - 10 shared documents
+- [New York City](../locations/new-york-city.md) - 10 shared documents
 - [South America](../locations/south-america.md) - 10 shared documents
 - [the United States](../locations/the-united-states.md) - 10 shared documents
-- [New York City](../locations/new-york-city.md) - 10 shared documents
-- [Miami](../locations/miami.md) - 10 shared documents
 
 **Events:**
 
-- [2009](../events/2009.md) - 10 shared documents
-- [daily](../events/daily.md) - 10 shared documents
-- [2010](../events/2010.md) - 10 shared documents
 - [18 months](../events/18-months.md) - 10 shared documents
-- [2007](../events/2007.md) - 9 shared documents
-- [today](../events/today.md) - 9 shared documents
+- [2009](../events/2009.md) - 10 shared documents
+- [2010](../events/2010.md) - 10 shared documents
+- [daily](../events/daily.md) - 10 shared documents
 - [2005](../events/2005.md) - 9 shared documents
+- [2007](../events/2007.md) - 9 shared documents
 - [the day](../events/the-day.md) - 9 shared documents
-- [2004](../events/2004.md) - 8 shared documents
-- [2011](../events/2011.md) - 8 shared documents
+- [today](../events/today.md) - 9 shared documents
+- [13 months](../events/13-months.md) - 8 shared documents
+- [2002](../events/2002.md) - 8 shared documents
 
 ## Timeline
 

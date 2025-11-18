@@ -30,9 +30,7 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [San Francisco](../people/san-francisco.md) - 14 shared documents
-- [President Obama](../people/president-obama.md) - 11 shared documents
 - [White House](../people/white-house.md) - 11 shared documents
-- [Barack Obama](../people/barack-obama.md) - 10 shared documents
 - [Harvard University](../people/harvard-university.md) - 10 shared documents
 - [Los Angeles Times](../people/los-angeles-times.md) - 9 shared documents
 - [Cold War](../people/cold-war.md) - 8 shared documents
@@ -59,23 +57,23 @@ Top 10 documents by mention frequency:
 - [the United States](../locations/the-united-states.md) - 19 shared documents
 - [London](../locations/london.md) - 16 shared documents
 - [California](../locations/california.md) - 15 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 15 shared documents
 - [Germany](../locations/germany.md) - 15 shared documents
-- [New York](../locations/new-york.md) - 14 shared documents
-- [U.S.](../locations/us.md) - 14 shared documents
-- [USA](../locations/usa.md) - 14 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 15 shared documents
+- [Boston](../locations/boston.md) - 14 shared documents
 - [China](../locations/china.md) - 14 shared documents
+- [England](../locations/england.md) - 14 shared documents
+- [Japan](../locations/japan.md) - 14 shared documents
 
 **Events:**
 
+- [2008](../events/2008.md) - 19 shared documents
 - [2009](../events/2009.md) - 19 shared documents
 - [today](../events/today.md) - 19 shared documents
-- [2008](../events/2008.md) - 19 shared documents
-- [years](../events/years.md) - 17 shared documents
-- [2011](../events/2011.md) - 17 shared documents
 - [2010](../events/2010.md) - 17 shared documents
-- [2007](../events/2007.md) - 16 shared documents
+- [2011](../events/2011.md) - 17 shared documents
+- [years](../events/years.md) - 17 shared documents
 - [2001](../events/2001.md) - 16 shared documents
+- [2007](../events/2007.md) - 16 shared documents
 - [2014](../events/2014.md) - 15 shared documents
 - [2004](../events/2004.md) - 14 shared documents
 

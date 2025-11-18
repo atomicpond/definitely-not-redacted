@@ -26,7 +26,8 @@ Top 6 documents by mention frequency:
 
 **People:**
 
-- [CLINTON](../people/clinton.md) - 4 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 4 shared documents
 
 **Locations:**
 

@@ -33,8 +33,8 @@ Top 8 documents by mention frequency:
 - [Richard Kahn 
 Sent](richard-kahn-sent.md) - 6 shared documents
 - [Lexington Avenue](lexington-avenue.md) - 5 shared documents
-- [Floor New York](floor-new-york.md) - 5 shared documents
 - [Associates Inc](associates-inc.md) - 5 shared documents
+- [Floor New York](floor-new-york.md) - 5 shared documents
 
 **Organizations:**
 

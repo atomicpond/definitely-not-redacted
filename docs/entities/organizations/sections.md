@@ -27,36 +27,31 @@ Top 6 documents by mention frequency:
 
 - [State](state.md) - 6 shared documents
 - [U.S.C.](usc.md) - 5 shared documents
-- [Fed](fed.md) - 5 shared documents
 - [Congress](congress.md) - 5 shared documents
 - [FBI](fbi.md) - 5 shared documents
-- [Court](court.md) - 4 shared documents
+- [Fed](fed.md) - 5 shared documents
 
 **Locations:**
 
 - [United States](../locations/united-states.md) - 6 shared documents
 - [California](../locations/california.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [D.C.](../locations/dc.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
 - [States](../locations/states.md) - 5 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
-- [Mexico](../locations/mexico.md) - 4 shared documents
-- [Florida](../locations/florida.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 
 **Events:**
 
-- [2004](../events/2004.md) - 6 shared documents
 - [1997](../events/1997.md) - 6 shared documents
-- [2003](../events/2003.md) - 5 shared documents
-- [2000](../events/2000.md) - 5 shared documents
+- [2004](../events/2004.md) - 6 shared documents
+- [18 U.S.C.](../events/18-usc.md) - 5 shared documents
+- [1983](../events/1983.md) - 5 shared documents
 - [1985](../events/1985.md) - 5 shared documents
+- [1989](../events/1989.md) - 5 shared documents
 - [1990](../events/1990.md) - 5 shared documents
-- [1999](../events/1999.md) - 5 shared documents
-- [2005](../events/2005.md) - 5 shared documents
-- [2006](../events/2006.md) - 5 shared documents
-- [2002](../events/2002.md) - 5 shared documents
+- [1991](../events/1991.md) - 5 shared documents
+- [1994](../events/1994.md) - 5 shared documents
+- [1995](../events/1995.md) - 5 shared documents
 
 ## Timeline
 

@@ -45,13 +45,13 @@ Top 10 documents by mention frequency:
 - [Harvard](harvard.md) - 12 shared documents
 - [FBI](fbi.md) - 8 shared documents
 - [Rockefeller](rockefeller.md) - 8 shared documents
-- [Vanity Fair](vanity-fair.md) - 8 shared documents
 - [Rockefeller University](rockefeller-university.md) - 8 shared documents
 - [The New York Post](the-new-york-post.md) - 8 shared documents
+- [Vanity Fair](vanity-fair.md) - 8 shared documents
+- [Bear Stearns](bear-stearns.md) - 7 shared documents
 - [Ghislaine Maxwell](ghislaine-maxwell.md) - 7 shared documents
 - [New York Post](new-york-post.md) - 7 shared documents
-- [Wexner](wexner.md) - 7 shared documents
-- [Bear Stearns](bear-stearns.md) - 7 shared documents
+- [The Palm Beach Post](the-palm-beach-post.md) - 7 shared documents
 
 **Locations:**
 
@@ -61,23 +61,23 @@ Top 10 documents by mention frequency:
 - [Coney Island](../locations/coney-island.md) - 10 shared documents
 - [Florida](../locations/florida.md) - 9 shared documents
 - [Caribbean](../locations/caribbean.md) - 8 shared documents
+- [Dalton](../locations/dalton.md) - 7 shared documents
 - [Europe](../locations/europe.md) - 7 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 7 shared documents
-- [Dalton](../locations/dalton.md) - 7 shared documents
-- [Paris](../locations/paris.md) - 6 shared documents
+- [Connecticut](../locations/connecticut.md) - 6 shared documents
 
 **Events:**
 
-- [last year](../events/last-year.md) - 10 shared documents
 - [18 months](../events/18-months.md) - 10 shared documents
+- [last year](../events/last-year.md) - 10 shared documents
 - [two years](../events/two-years.md) - 10 shared documents
-- [the 1980s](../events/the-1980s.md) - 9 shared documents
 - [2006](../events/2006.md) - 9 shared documents
-- [1984](../events/1984.md) - 8 shared documents
+- [the 1980s](../events/the-1980s.md) - 9 shared documents
 - [1982](../events/1982.md) - 8 shared documents
+- [1984](../events/1984.md) - 8 shared documents
 - [1991](../events/1991.md) - 8 shared documents
-- [August](../events/august.md) - 7 shared documents
 - [1981](../events/1981.md) - 7 shared documents
+- [August](../events/august.md) - 7 shared documents
 
 ## Timeline
 

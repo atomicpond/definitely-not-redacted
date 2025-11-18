@@ -33,9 +33,9 @@ Top 6 documents by mention frequency:
 
 **Organizations:**
 
+- [Office](../organizations/office.md) - 6 shared documents
 - [State](../organizations/state.md) - 6 shared documents
 - [the Department of Justice](../organizations/the-department-of-justice.md) - 6 shared documents
-- [Office](../organizations/office.md) - 6 shared documents
 - [HOUSE](../organizations/house.md) - 5 shared documents
 - [USAO](../organizations/usao.md) - 5 shared documents
 - [FBI](../organizations/fbi.md) - 4 shared documents
@@ -44,28 +44,28 @@ Top 6 documents by mention frequency:
 **Locations:**
 
 - [California](../locations/california.md) - 6 shared documents
+- [Florida](../locations/florida.md) - 6 shared documents
+- [Miami](../locations/miami.md) - 6 shared documents
+- [Palm Beach County](../locations/palm-beach-county.md) - 6 shared documents
+- [the United States](../locations/the-united-states.md) - 6 shared documents
 - [United States](../locations/united-states.md) - 6 shared documents
 - [USA](../locations/usa.md) - 6 shared documents
 - [Washington](../locations/washington.md) - 6 shared documents
-- [Florida](../locations/florida.md) - 6 shared documents
-- [the United States](../locations/the-united-states.md) - 6 shared documents
-- [Miami](../locations/miami.md) - 6 shared documents
-- [Palm Beach County](../locations/palm-beach-county.md) - 6 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
 - [D.C.](../locations/dc.md) - 4 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
 
 **Events:**
 
 - [16](../events/16.md) - 6 shared documents
 - [2007](../events/2007.md) - 5 shared documents
-- [2004](../events/2004.md) - 4 shared documents
-- [Thursday](../events/thursday.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [2005](../events/2005.md) - 4 shared documents
-- [months](../events/months.md) - 4 shared documents
-- [18 months](../events/18-months.md) - 4 shared documents
-- [one year](../events/one-year.md) - 4 shared documents
 - [14](../events/14.md) - 4 shared documents
+- [14-year-old](../events/14-year-old.md) - 4 shared documents
+- [18 months](../events/18-months.md) - 4 shared documents
+- [2004](../events/2004.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
+- [four days](../events/four-days.md) - 4 shared documents
+- [months](../events/months.md) - 4 shared documents
+- [one year](../events/one-year.md) - 4 shared documents
 
 ## Timeline
 

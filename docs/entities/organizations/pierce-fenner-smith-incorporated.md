@@ -45,8 +45,8 @@ Top 10 documents by mention frequency:
 - [Merrill Lynch](merrill-lynch.md) - 28 shared documents
 - [Bank of America Merrill Lynch](bank-of-america-merrill-lynch.md) - 25 shared documents
 - [Trump](trump.md) - 22 shared documents
-- [BofA Merrill Lynch Global Research](bofa-merrill-lynch-global-research.md) - 20 shared documents
 - [Bank of America](bank-of-america.md) - 20 shared documents
+- [BofA Merrill Lynch Global Research](bofa-merrill-lynch-global-research.md) - 20 shared documents
 - [Bank of America
 Corporation](bank-of-america-corporation.md) - 19 shared documents
 - [BofA Merrill Lynch](bofa-merrill-lynch.md) - 18 shared documents
@@ -57,22 +57,22 @@ Corporation](bank-of-america-corporation.md) - 19 shared documents
 **Locations:**
 
 - [Japan](../locations/japan.md) - 19 shared documents
-- [Russia](../locations/russia.md) - 18 shared documents
 - [Brazil](../locations/brazil.md) - 18 shared documents
 - [Canada](../locations/canada.md) - 18 shared documents
 - [Mexico](../locations/mexico.md) - 18 shared documents
 - [N.A.](../locations/na.md) - 18 shared documents
-- [Dubai](../locations/dubai.md) - 17 shared documents
-- [China](../locations/china.md) - 17 shared documents
-- [Germany](../locations/germany.md) - 17 shared documents
+- [Russia](../locations/russia.md) - 18 shared documents
+- [Argentina](../locations/argentina.md) - 17 shared documents
 - [Asia](../locations/asia.md) - 17 shared documents
+- [Australia](../locations/australia.md) - 17 shared documents
+- [BaFin](../locations/bafin.md) - 17 shared documents
 
 **Events:**
 
 - [2017](../events/2017.md) - 18 shared documents
 - [1959](../events/1959.md) - 17 shared documents
-- [the day](../events/the-day.md) - 17 shared documents
 - [198602883D](../events/198602883d.md) - 17 shared documents
+- [the day](../events/the-day.md) - 17 shared documents
 
 ## Timeline
 

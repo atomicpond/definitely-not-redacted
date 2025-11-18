@@ -34,29 +34,29 @@ Top 7 documents by mention frequency:
 
 **Locations:**
 
+- [Brazil](../locations/brazil.md) - 6 shared documents
 - [China](../locations/china.md) - 6 shared documents
 - [Japan](../locations/japan.md) - 6 shared documents
-- [Brazil](../locations/brazil.md) - 6 shared documents
 - [California](../locations/california.md) - 5 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
-- [USA](../locations/usa.md) - 5 shared documents
+- [Chicago](../locations/chicago.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
+- [Hong Kong](../locations/hong-kong.md) - 5 shared documents
+- [India](../locations/india.md) - 5 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
 
 **Events:**
 
 - [the years](../events/the-years.md) - 6 shared documents
-- [1986](../events/1986.md) - 5 shared documents
-- [2004](../events/2004.md) - 5 shared documents
-- [2015](../events/2015.md) - 5 shared documents
-- [2012](../events/2012.md) - 5 shared documents
-- [monthly](../events/monthly.md) - 5 shared documents
-- [the year](../events/the-year.md) - 5 shared documents
+- [1960](../events/1960.md) - 5 shared documents
+- [1980](../events/1980.md) - 5 shared documents
 - [1985](../events/1985.md) - 5 shared documents
+- [1986](../events/1986.md) - 5 shared documents
+- [1989](../events/1989.md) - 5 shared documents
 - [1990](../events/1990.md) - 5 shared documents
-- [weeks](../events/weeks.md) - 5 shared documents
+- [1991](../events/1991.md) - 5 shared documents
+- [2004](../events/2004.md) - 5 shared documents
+- [2012](../events/2012.md) - 5 shared documents
 
 ## Timeline
 

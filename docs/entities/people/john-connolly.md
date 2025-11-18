@@ -33,21 +33,21 @@ Top 10 documents by mention frequency:
 - [Kathy 
 Ruemmler](kathy-ruemmler.md) - 7 shared documents
 - [Patterson](patterson.md) - 7 shared documents
-- [Charlie Rose](charlie-rose.md) - 7 shared documents
-- [Jeffrey Epstein](jeffrey-epstein.md) - 7 shared documents
-- [Epstein](epstein.md) - 7 shared documents
 - [Brown](brown.md) - 7 shared documents
+- [Charlie Rose](charlie-rose.md) - 7 shared documents
 - [Connolly](connolly.md) - 7 shared documents
 - [JAMES PATTERSON](james-patterson.md) - 7 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 7 shared documents
 - [Landon Thomas](landon-thomas.md) - 6 shared documents
 - [Michael Wolff](michael-wolff.md) - 6 shared documents
+- [Thomas Jr](thomas-jr.md) - 6 shared documents
 
 **Organizations:**
 
 - [Trump](../organizations/trump.md) - 14 shared documents
 - [HOUSE](../organizations/house.md) - 9 shared documents
-- [Vanity Fair](../organizations/vanity-fair.md) - 7 shared documents
 - [Trump Clinton](../organizations/trump-clinton.md) - 7 shared documents
+- [Vanity Fair](../organizations/vanity-fair.md) - 7 shared documents
 - [New York Times](../organizations/new-york-times.md) - 6 shared documents
 - [NY Mag](../organizations/ny-mag.md) - 6 shared documents
 

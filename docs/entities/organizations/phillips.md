@@ -31,8 +31,8 @@ Top 6 documents by mention frequency:
 
 **Events:**
 
-- [2000](../events/2000.md) - 4 shared documents
 - [1998](../events/1998.md) - 4 shared documents
+- [2000](../events/2000.md) - 4 shared documents
 - [2001](../events/2001.md) - 4 shared documents
 - [the day](../events/the-day.md) - 4 shared documents
 

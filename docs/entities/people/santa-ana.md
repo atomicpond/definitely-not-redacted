@@ -27,6 +27,7 @@ Top 6 documents by mention frequency:
 
 - [Middle East](middle-east.md) - 6 shared documents
 - [White House](white-house.md) - 5 shared documents
+- [Barack Obama](barack-obama.md) - 5 shared documents
 - [Boies Schiller](boies-schiller.md) - 5 shared documents
 - [David Boies](david-boies.md) - 5 shared documents
 - [District Court](district-court.md) - 5 shared documents
@@ -34,7 +35,6 @@ Top 6 documents by mention frequency:
 - [Larry Scudder](larry-scudder.md) - 5 shared documents
 - [Lubna Qassim](lubna-qassim.md) - 5 shared documents
 - [Middle Eastern](middle-eastern.md) - 5 shared documents
-- [President Obama](president-obama.md) - 5 shared documents
 
 **Organizations:**
 
@@ -47,7 +47,6 @@ Top 6 documents by mention frequency:
 - [Times](../organizations/times.md) - 5 shared documents
 - [Western Union](../organizations/western-union.md) - 5 shared documents
 - [White House](../organizations/white-house.md) - 5 shared documents
-- [HOUSE](../organizations/house.md) - 4 shared documents
 
 **Locations:**
 

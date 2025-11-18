@@ -9,7 +9,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Obama](../entities/people/mr-obama.md) - 4 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 4 mentions
 - [Barack Obama](../entities/people/barack-obama.md) - 2 mentions
 - [Melanie Walker](../entities/people/melanie-walker.md) - 2 mentions
 - [Wall 

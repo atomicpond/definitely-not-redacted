@@ -40,16 +40,16 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [Monday](monday.md) - 5 shared documents
-- [15-year-old](15-year-old.md) - 5 shared documents
-- [November](november.md) - 5 shared documents
-- [five years](five-years.md) - 5 shared documents
-- [January](january.md) - 5 shared documents
-- [the next day](the-next-day.md) - 5 shared documents
-- [nine months](nine-months.md) - 5 shared documents
 - [10 years](10-years.md) - 5 shared documents
 - [14-year-old](14-year-old.md) - 5 shared documents
+- [15-year-old](15-year-old.md) - 5 shared documents
 - [about a year](about-a-year.md) - 5 shared documents
+- [five years](five-years.md) - 5 shared documents
+- [January](january.md) - 5 shared documents
+- [Monday](monday.md) - 5 shared documents
+- [nine months](nine-months.md) - 5 shared documents
+- [November](november.md) - 5 shared documents
+- [the next day](the-next-day.md) - 5 shared documents
 
 ## Timeline
 

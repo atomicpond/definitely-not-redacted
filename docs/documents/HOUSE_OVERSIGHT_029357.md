@@ -17,7 +17,7 @@
 - [Middle East](../entities/people/middle-east.md) - 6 mentions
 - [Assad](../entities/people/assad.md) - 6 mentions
 - [President Obama](../entities/people/president-obama.md) - 5 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 5 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 5 mentions
 - [Ben-Gurion](../entities/people/ben-gurion.md) - 4 mentions
 - [Rabin](../entities/people/rabin.md) - 3 mentions
 - [Peres](../entities/people/peres.md) - 3 mentions

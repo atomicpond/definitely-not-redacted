@@ -31,27 +31,27 @@ Top 6 documents by mention frequency:
 **Organizations:**
 
 - [FBI](../organizations/fbi.md) - 4 shared documents
-- [State](../organizations/state.md) - 4 shared documents
 - [Maxwell](../organizations/maxwell.md) - 4 shared documents
+- [State](../organizations/state.md) - 4 shared documents
 
 **Locations:**
 
 - [United States](../locations/united-states.md) - 6 shared documents
-- [New York](../locations/new-york.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 5 shared documents
 - [Miami](../locations/miami.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 5 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
 - [Britain](../locations/britain.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 5 shared documents
+- [13 months](../events/13-months.md) - 4 shared documents
+- [18-month](../events/18-month.md) - 4 shared documents
 - [2009](../events/2009.md) - 4 shared documents
 - [2011](../events/2011.md) - 4 shared documents
-- [18-month](../events/18-month.md) - 4 shared documents
-- [13 months](../events/13-months.md) - 4 shared documents
 
 ## Timeline
 

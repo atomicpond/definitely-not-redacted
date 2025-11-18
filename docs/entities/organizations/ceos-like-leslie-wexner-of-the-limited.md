@@ -27,14 +27,11 @@ Top 6 documents by mention frequency:
 
 **People:**
 
-- [jeff epstein](../people/jeff-epstein.md) - 6 shared documents
-- [Jeffrey Edward Epstein](../people/jeffrey-edward-epstein.md) - 6 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 6 shared documents
 - [Jeffrey Epstein - Wikipedia](../people/jeffrey-epstein-wikipedia.md) - 6 shared documents
 - [Leslie Wexner](../people/leslie-wexner.md) - 6 shared documents
 - [Donald 
 Trump](../people/donald-trump.md) - 5 shared documents
-- [Epstein](../people/epstein.md) - 5 shared documents
 - [Jeffrey Epstein Philanthropy](../people/jeffrey-epstein-philanthropy.md) - 5 shared documents
 - [LinkedIn](../people/linkedin.md) - 5 shared documents
 
@@ -54,9 +51,9 @@ Trump](../people/donald-trump.md) - 5 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 4 shared documents
 - [2000](../events/2000.md) - 4 shared documents
 - [next week](../events/next-week.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

@@ -34,7 +34,6 @@ Top 10 documents by mention frequency:
 - [jeffrey E. <](jeffrey-e.md) - 8 shared documents
 - [Michael Wolff](michael-wolff.md) - 8 shared documents
 - [Rosen](rosen.md) - 8 shared documents
-- [Mr. Bannon](bannon.md) - 8 shared documents
 
 **Organizations:**
 

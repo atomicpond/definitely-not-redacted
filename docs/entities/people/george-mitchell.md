@@ -37,11 +37,11 @@ Clinton](bill-clinton.md) - 10 shared documents
 - [Hamid Karzai](hamid-karzai.md) - 8 shared documents
 - [Prince 
 Andrew](prince-andrew.md) - 8 shared documents
-- [Epstein](epstein.md) - 8 shared documents
 - [George Soros](george-soros.md) - 7 shared documents
 - [HRH](hrh.md) - 7 shared documents
 - [Kirsty](kirsty.md) - 7 shared documents
 - [Kirsty Mackenzie](kirsty-mackenzie.md) - 7 shared documents
+- [Kofi Annan](kofi-annan.md) - 7 shared documents
 
 **Organizations:**
 
@@ -49,10 +49,10 @@ Andrew](prince-andrew.md) - 8 shared documents
 - [State](../organizations/state.md) - 9 shared documents
 - [US Treasury](../organizations/us-treasury.md) - 8 shared documents
 - [BBC](../organizations/bbc.md) - 7 shared documents
-- [BBC World Service](../organizations/bbc-world-service.md) - 7 shared documents
 - [BBC News](../organizations/bbc-news.md) - 7 shared documents
 - [BBC Online](../organizations/bbc-online.md) - 7 shared documents
 - [BBC World](../organizations/bbc-world.md) - 7 shared documents
+- [BBC World Service](../organizations/bbc-world-service.md) - 7 shared documents
 - [Today Programme](../organizations/today-programme.md) - 7 shared documents
 
 **Locations:**

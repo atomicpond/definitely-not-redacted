@@ -29,15 +29,15 @@ Top 7 documents by mention frequency:
 - [David](../people/david.md) - 7 shared documents
 - [Donald 
 Trump](../people/donald-trump.md) - 7 shared documents
-- [Epstein](../people/epstein.md) - 7 shared documents
 - [Ingram](../people/ingram.md) - 7 shared documents
-- [jeff epstein](../people/jeff-epstein.md) - 7 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 7 shared documents
 - [Martin G. Weinberg'](../people/martin-g-weinberg.md) - 7 shared documents
 - [martin Weinberg](../people/martin-weinberg.md) - 7 shared documents
 - [marty](../people/marty.md) - 7 shared documents
 - [David Ingram 
 Correspondent](../people/david-ingram-correspondent.md) - 6 shared documents
+- [Jeffrey E](../people/jeffrey-e.md) - 6 shared documents
+- [katie johnson v](../people/katie-johnson-v.md) - 5 shared documents
 
 **Organizations:**
 
@@ -53,11 +53,11 @@ Correspondent](../people/david-ingram-correspondent.md) - 6 shared documents
 
 **Events:**
 
+- [1994](1994.md) - 7 shared documents
 - [2016](2016.md) - 7 shared documents
+- [April 28, 2016](april-28-2016.md) - 7 shared documents
 - [this week](this-week.md) - 7 shared documents
 - [Thu, Apr 28](thu-apr-28.md) - 7 shared documents
-- [1994](1994.md) - 7 shared documents
-- [April 28, 2016](april-28-2016.md) - 7 shared documents
 
 ## Timeline
 

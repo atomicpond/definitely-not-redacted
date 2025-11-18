@@ -19,7 +19,7 @@
 - [Little St James](../entities/people/little-st-james.md) - 2 mentions
 - [Park Plaza](../entities/people/park-plaza.md) - 2 mentions
 - [Mrs. 
-Gore](../entities/people/mrs-gore.md) - 2 mentions
+Gore](../entities/people/gore.md) - 2 mentions
 
 ### Organizations
 - [HOUSE](../entities/organizations/house.md) - 4 mentions

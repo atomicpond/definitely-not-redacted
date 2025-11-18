@@ -59,8 +59,8 @@ Top 10 documents by mention frequency:
 - [the United States](the-united-states.md) - 19 shared documents
 - [Europe](europe.md) - 18 shared documents
 - [Florida](florida.md) - 18 shared documents
-- [London](london.md) - 17 shared documents
 - [America](america.md) - 17 shared documents
+- [London](london.md) - 17 shared documents
 - [England](england.md) - 16 shared documents
 - [United States](united-states.md) - 15 shared documents
 - [Virginia](virginia.md) - 15 shared documents
@@ -69,15 +69,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [2004](../events/2004.md) - 18 shared documents
-- [2007](../events/2007.md) - 18 shared documents
 - [2005](../events/2005.md) - 18 shared documents
-- [today](../events/today.md) - 17 shared documents
+- [2007](../events/2007.md) - 18 shared documents
 - [daily](../events/daily.md) - 17 shared documents
 - [the day](../events/the-day.md) - 17 shared documents
-- [2011](../events/2011.md) - 16 shared documents
+- [today](../events/today.md) - 17 shared documents
 - [1999](../events/1999.md) - 16 shared documents
 - [2010](../events/2010.md) - 16 shared documents
-- [2009](../events/2009.md) - 14 shared documents
+- [2011](../events/2011.md) - 16 shared documents
+- [1997](../events/1997.md) - 14 shared documents
 
 ## Timeline
 

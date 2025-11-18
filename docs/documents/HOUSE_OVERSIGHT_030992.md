@@ -9,7 +9,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Obama](../entities/people/mr-obama.md) - 2 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 2 mentions
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 1 mention
 - [Osama bin Laden](../entities/people/osama-bin-laden.md) - 1 mention
 

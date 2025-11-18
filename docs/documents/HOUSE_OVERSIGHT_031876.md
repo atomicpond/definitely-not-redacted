@@ -15,7 +15,7 @@
 
 ### People
 - [Erdogan](../entities/people/erdogan.md) - 8 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 7 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 7 mentions
 - [Francis Fukuyama](../entities/people/francis-fukuyama.md) - 4 mentions
 - [Bush](../entities/people/bush.md) - 3 mentions
 - [Gates](../entities/people/gates.md) - 3 mentions

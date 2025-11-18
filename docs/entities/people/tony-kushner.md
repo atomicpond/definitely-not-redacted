@@ -34,9 +34,9 @@ Top 8 documents by mention frequency:
 Harvard](american-literature-harvard.md) - 6 shared documents
 - [Quincy Street 
 Cambridge](quincy-street-cambridge.md) - 6 shared documents
-- [Lisa New](lisa-new.md) - 5 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 5 shared documents
 - [John McCain](john-mccain.md) - 5 shared documents
+- [Lisa New](lisa-new.md) - 5 shared documents
 - [Elisa New 
 Powell](elisa-new-powell.md) - 4 shared documents
 - [Lisa New 
@@ -46,15 +46,15 @@ Sent](lisa-new-sent.md) - 4 shared documents
 
 - [HOUSE](../organizations/house.md) - 8 shared documents
 - [American Literature](../organizations/american-literature.md) - 7 shared documents
-- [Harvard University](../organizations/harvard-university.md) - 6 shared documents
 - [Cabot Professor of American Literature 
 Harvard University](../organizations/cabot-professor-of-american-literature-harvard-university.md) - 6 shared documents
+- [Harvard University](../organizations/harvard-university.md) - 6 shared documents
 
 **Locations:**
 
+- [Barker Center](../locations/barker-center.md) - 6 shared documents
 - [Cambridge](../locations/cambridge.md) - 6 shared documents
 - [MA](../locations/ma.md) - 6 shared documents
-- [Barker Center](../locations/barker-center.md) - 6 shared documents
 - [Quincy Street](../locations/quincy-street.md) - 6 shared documents
 - [Street 
 Cambridge, MA](../locations/street-cambridge-ma.md) - 6 shared documents

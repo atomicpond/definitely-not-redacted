@@ -53,13 +53,13 @@ Trump](../people/donald-trump.md) - 6 shared documents
 
 - [Thursday](../events/thursday.md) - 7 shared documents
 - [2007](../events/2007.md) - 5 shared documents
-- [2014](../events/2014.md) - 5 shared documents
-- [this week](../events/this-week.md) - 5 shared documents
-- [last week](../events/last-week.md) - 5 shared documents
 - [2008](../events/2008.md) - 5 shared documents
+- [2014](../events/2014.md) - 5 shared documents
 - [Friday](../events/friday.md) - 5 shared documents
-- [today](../events/today.md) - 4 shared documents
+- [last week](../events/last-week.md) - 5 shared documents
+- [this week](../events/this-week.md) - 5 shared documents
 - [each year](../events/each-year.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

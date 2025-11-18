@@ -66,9 +66,9 @@ Top 7 documents by mention frequency:
 - [months](months.md) - 6 shared documents
 - [the age of 18](the-age-of-18.md) - 5 shared documents
 - [years](years.md) - 5 shared documents
-- [2008](2008.md) - 5 shared documents
-- [2006](2006.md) - 5 shared documents
 - [14](14.md) - 5 shared documents
+- [16 years old](16-years-old.md) - 5 shared documents
+- [2006](2006.md) - 5 shared documents
 
 ## Timeline
 

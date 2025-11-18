@@ -44,13 +44,13 @@ Top 5 documents by mention frequency:
 **Events:**
 
 - [this year](../events/this-year.md) - 5 shared documents
-- [2018](../events/2018.md) - 4 shared documents
 - [2014](../events/2014.md) - 4 shared documents
 - [2016](../events/2016.md) - 4 shared documents
-- [next year](../events/next-year.md) - 4 shared documents
 - [2017](../events/2017.md) - 4 shared documents
-- [the year](../events/the-year.md) - 4 shared documents
+- [2018](../events/2018.md) - 4 shared documents
 - [early 2017](../events/early-2017.md) - 4 shared documents
+- [next year](../events/next-year.md) - 4 shared documents
+- [the year](../events/the-year.md) - 4 shared documents
 - [the years](../events/the-years.md) - 4 shared documents
 
 ## Timeline

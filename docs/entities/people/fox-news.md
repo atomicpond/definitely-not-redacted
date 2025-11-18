@@ -45,40 +45,40 @@ Top 10 documents by mention frequency:
 **Organizations:**
 
 - [Fox News](../organizations/fox-news.md) - 20 shared documents
-- [HOUSE](../organizations/house.md) - 10 shared documents
 - [CNN](../organizations/cnn.md) - 10 shared documents
+- [HOUSE](../organizations/house.md) - 10 shared documents
 - [Harvard](../organizations/harvard.md) - 9 shared documents
 - [Treasury](../organizations/treasury.md) - 9 shared documents
 - [Facebook](../organizations/facebook.md) - 8 shared documents
 - [Twitter](../organizations/twitter.md) - 8 shared documents
-- [White House](../organizations/white-house.md) - 7 shared documents
-- [the New York Times](../organizations/the-new-york-times.md) - 7 shared documents
+- [Fox](../organizations/fox.md) - 7 shared documents
 - [Goldman Sachs](../organizations/goldman-sachs.md) - 7 shared documents
+- [Harvard Business School](../organizations/harvard-business-school.md) - 7 shared documents
 
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 13 shared documents
 - [New York](../locations/new-york.md) - 12 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 11 shared documents
-- [Germany](../locations/germany.md) - 10 shared documents
 - [America](../locations/america.md) - 10 shared documents
+- [Germany](../locations/germany.md) - 10 shared documents
 - [Iraq](../locations/iraq.md) - 10 shared documents
 - [Washington](../locations/washington.md) - 9 shared documents
-- [United States](../locations/united-states.md) - 8 shared documents
 - [China](../locations/china.md) - 8 shared documents
 - [Europe](../locations/europe.md) - 8 shared documents
+- [London](../locations/london.md) - 8 shared documents
 
 **Events:**
 
+- [2008](../events/2008.md) - 9 shared documents
 - [2014](../events/2014.md) - 9 shared documents
 - [today](../events/today.md) - 9 shared documents
-- [2008](../events/2008.md) - 9 shared documents
 - [2009](../events/2009.md) - 8 shared documents
+- [2011](../events/2011.md) - 8 shared documents
 - [this week](../events/this-week.md) - 8 shared documents
 - [years](../events/years.md) - 8 shared documents
-- [2011](../events/2011.md) - 8 shared documents
 - [2007](../events/2007.md) - 7 shared documents
-- [Thursday](../events/thursday.md) - 7 shared documents
+- [2013](../events/2013.md) - 7 shared documents
 - [Sunday](../events/sunday.md) - 7 shared documents
 
 ## Timeline

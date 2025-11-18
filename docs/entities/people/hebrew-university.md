@@ -30,35 +30,26 @@ Top 6 documents by mention frequency:
 - [San Francisco](san-francisco.md) - 4 shared documents
 - [Western Europe](western-europe.md) - 4 shared documents
 
-**Organizations:**
-
-- [Harvard](../organizations/harvard.md) - 5 shared documents
-
 **Locations:**
 
 - [London](../locations/london.md) - 6 shared documents
-- [New York](../locations/new-york.md) - 5 shared documents
-- [California](../locations/california.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [California](../locations/california.md) - 5 shared documents
+- [England](../locations/england.md) - 5 shared documents
 - [France](../locations/france.md) - 5 shared documents
-- [Iran](../locations/iran.md) - 5 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
-- [1996](../events/1996.md) - 5 shared documents
-- [Monday](../events/monday.md) - 5 shared documents
-- [the week](../events/the-week.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [summer](../events/summer.md) - 5 shared documents
-- [the year](../events/the-year.md) - 5 shared documents
-- [1993](../events/1993.md) - 5 shared documents
-- [1999](../events/1999.md) - 5 shared documents
-- [Friday](../events/friday.md) - 5 shared documents
+- [1949](../events/1949.md) - 5 shared documents
+- [1959](../events/1959.md) - 5 shared documents
+- [1961](../events/1961.md) - 5 shared documents
+- [1967](../events/1967.md) - 5 shared documents
+- [1969](../events/1969.md) - 5 shared documents
+- [1972](../events/1972.md) - 5 shared documents
+- [1973](../events/1973.md) - 5 shared documents
+- [1977](../events/1977.md) - 5 shared documents
+- [1981](../events/1981.md) - 5 shared documents
+- [1987](../events/1987.md) - 5 shared documents
 
 ## Timeline
 

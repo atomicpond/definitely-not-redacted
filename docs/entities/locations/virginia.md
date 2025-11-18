@@ -38,7 +38,7 @@ Top 10 documents by mention frequency:
 - [Saudi Arabia](../people/saudi-arabia.md) - 19 shared documents
 - [New Mexico](../people/new-mexico.md) - 18 shared documents
 - [Paul G. Cassell](../people/paul-g-cassell.md) - 18 shared documents
-- [Bradley J. Edwards](../people/bradley-j-edwards.md) - 16 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 16 shared documents
 - [Los Angeles](../people/los-angeles.md) - 16 shared documents
 - [Rights Act](../people/rights-act.md) - 16 shared documents
 
@@ -61,9 +61,9 @@ Top 10 documents by mention frequency:
 - [Florida](florida.md) - 48 shared documents
 - [the United States](the-united-states.md) - 47 shared documents
 - [Washington](washington.md) - 39 shared documents
-- [New York](new-york.md) - 34 shared documents
 - [California](california.md) - 34 shared documents
 - [London](london.md) - 34 shared documents
+- [New York](new-york.md) - 34 shared documents
 - [France](france.md) - 32 shared documents
 - [Palm Beach](palm-beach.md) - 31 shared documents
 - [U.S.](us.md) - 30 shared documents
@@ -72,13 +72,13 @@ Top 10 documents by mention frequency:
 
 - [today](../events/today.md) - 43 shared documents
 - [1998](../events/1998.md) - 40 shared documents
-- [2000](../events/2000.md) - 39 shared documents
 - [1999](../events/1999.md) - 39 shared documents
+- [2000](../events/2000.md) - 39 shared documents
 - [2001](../events/2001.md) - 38 shared documents
 - [2004](../events/2004.md) - 37 shared documents
-- [2007](../events/2007.md) - 36 shared documents
-- [2005](../events/2005.md) - 36 shared documents
 - [2002](../events/2002.md) - 36 shared documents
+- [2005](../events/2005.md) - 36 shared documents
+- [2007](../events/2007.md) - 36 shared documents
 - [2008](../events/2008.md) - 35 shared documents
 
 ## Timeline

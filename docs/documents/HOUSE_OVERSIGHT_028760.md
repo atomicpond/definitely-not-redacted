@@ -11,7 +11,7 @@
 ### People
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 9 mentions
 - [Jeffrey](../entities/people/jeffrey.md) - 3 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 2 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 2 mentions
 - [On Jul](../entities/people/on-jul.md) - 2 mentions
 - [Harvard University](../entities/people/harvard-university.md) - 1 mention
 - [United 

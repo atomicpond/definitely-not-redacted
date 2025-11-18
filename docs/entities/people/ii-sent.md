@@ -45,8 +45,8 @@ On](yes-on.md) - 5 shared documents
 **Locations:**
 
 - [New York](../locations/new-york.md) - 11 shared documents
-- [Paris](../locations/paris.md) - 8 shared documents
 - [Kuwait](../locations/kuwait.md) - 8 shared documents
+- [Paris](../locations/paris.md) - 8 shared documents
 - [Ew york](../locations/ew-york.md) - 7 shared documents
 - [Geneva](../locations/geneva.md) - 7 shared documents
 
@@ -54,14 +54,14 @@ On](yes-on.md) - 5 shared documents
 
 - [Sat](../events/sat.md) - 12 shared documents
 - [2017](../events/2017.md) - 9 shared documents
-- [thurs](../events/thurs.md) - 7 shared documents
-- [the day](../events/the-day.md) - 7 shared documents
 - [Dec 5, 2017](../events/dec-5-2017.md) - 7 shared documents
 - [Dec 6, 2017](../events/dec-6-2017.md) - 7 shared documents
 - [Dec 8, 2017](../events/dec-8-2017.md) - 7 shared documents
 - [Fri, Dec 8, 2017](../events/fri-dec-8-2017.md) - 7 shared documents
 - [the 8th](../events/the-8th.md) - 7 shared documents
 - [the 9th for the week](../events/the-9th-for-the-week.md) - 7 shared documents
+- [the day](../events/the-day.md) - 7 shared documents
+- [thurs](../events/thurs.md) - 7 shared documents
 
 ## Timeline
 

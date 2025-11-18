@@ -57,9 +57,9 @@ Top 10 documents by mention frequency:
 - [Monday](monday.md) - 11 shared documents
 - [months](months.md) - 11 shared documents
 - [years](years.md) - 11 shared documents
-- [2003](2003.md) - 11 shared documents
-- [2004](2004.md) - 11 shared documents
 - [2001](2001.md) - 11 shared documents
+- [2002](2002.md) - 11 shared documents
+- [2003](2003.md) - 11 shared documents
 
 ## Timeline
 

@@ -33,24 +33,16 @@ Top 8 documents by mention frequency:
 
 - [The Wall Street Journal](the-wall-street-journal.md) - 7 shared documents
 - [Vogue](vogue.md) - 7 shared documents
-- [HOUSE](house.md) - 6 shared documents
 - [CNN](cnn.md) - 6 shared documents
-- [Fed](fed.md) - 4 shared documents
-- [Facebook](facebook.md) - 4 shared documents
-- [New York Times](new-york-times.md) - 4 shared documents
+- [HOUSE](house.md) - 6 shared documents
 
 **Locations:**
 
 - [London](../locations/london.md) - 8 shared documents
 - [Miami](../locations/miami.md) - 7 shared documents
 - [New York City](../locations/new-york-city.md) - 6 shared documents
-- [Upper East Side](../locations/upper-east-side.md) - 5 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 5 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
-- [America](../locations/america.md) - 4 shared documents
+- [Upper East Side](../locations/upper-east-side.md) - 5 shared documents
 
 **Events:**
 
@@ -58,11 +50,11 @@ Top 8 documents by mention frequency:
 - [the next day](../events/the-next-day.md) - 8 shared documents
 - [1985](../events/1985.md) - 7 shared documents
 - [February](../events/february.md) - 7 shared documents
-- [today](../events/today.md) - 6 shared documents
+- [1987](../events/1987.md) - 6 shared documents
 - [2010](../events/2010.md) - 6 shared documents
 - [last day](../events/last-day.md) - 6 shared documents
-- [1987](../events/1987.md) - 6 shared documents
 - [September](../events/september.md) - 6 shared documents
+- [today](../events/today.md) - 6 shared documents
 - [Twentieth Century](../events/twentieth-century.md) - 5 shared documents
 
 ## Timeline

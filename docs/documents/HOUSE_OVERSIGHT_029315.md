@@ -20,7 +20,7 @@
 - [Mr. 
 Trump](../entities/people/mr-trump.md) - 2 mentions
 - [Mr. 
-Dershowitz](../entities/people/mr-dershowitz.md) - 2 mentions
+Dershowitz](../entities/people/alan-dershowitz.md) - 2 mentions
 
 ### Organizations
 - [HOUSE](../entities/organizations/house.md) - 9 mentions

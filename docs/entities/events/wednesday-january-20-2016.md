@@ -28,7 +28,7 @@ Top 8 documents by mention frequency:
 **People:**
 
 - [jeffrey E.](../people/jeffrey-e.md) - 4 shared documents
-- [jeffrey E. <](../people/jeffrey-e.md) - 4 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 4 shared documents
 
 **Organizations:**
 
@@ -36,11 +36,11 @@ Top 8 documents by mention frequency:
 
 **Events:**
 
-- [last year](last-year.md) - 5 shared documents
 - [16 years](16-years.md) - 5 shared documents
 - [feb 14](feb-14.md) - 5 shared documents
 - [January 19, 2016](january-19-2016.md) - 5 shared documents
 - [January 20, 2016](january-20-2016.md) - 5 shared documents
+- [last year](last-year.md) - 5 shared documents
 - [Tue, Jan 19, 2016](tue-jan-19-2016.md) - 5 shared documents
 - [Tuesday, January 19, 2016](tuesday-january-19-2016.md) - 5 shared documents
 

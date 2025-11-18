@@ -31,10 +31,8 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Epstein](epstein.md) - 19 shared documents
 - [New
 York](new-york.md) - 17 shared documents
-- [Jeffrey Epstein](jeffrey-epstein.md) - 17 shared documents
 - [Bill 
 Clinton](bill-clinton.md) - 14 shared documents
 - [West Palm Beach](west-palm-beach.md) - 11 shared documents
@@ -43,15 +41,18 @@ Trump](donald-trump.md) - 11 shared documents
 - [Prince 
 Andrew](prince-andrew.md) - 10 shared documents
 - [Jeffrey](jeffrey.md) - 10 shared documents
-- [Alan 
-Dershowitz](alan-dershowitz.md) - 9 shared documents
 - [Palm Beach County](palm-beach-county.md) - 8 shared documents
+- [Bill Richardson](bill-richardson.md) - 7 shared documents
+- [Haley Robson](haley-robson.md) - 7 shared documents
+- [New York 
+City](new-york-city.md) - 7 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 19 shared documents
 - [Harvard](../organizations/harvard.md) - 9 shared documents
 - [FBI](../organizations/fbi.md) - 7 shared documents
+- [Bear Stearns](../organizations/bear-stearns.md) - 5 shared documents
 
 **Locations:**
 
@@ -60,24 +61,24 @@ Dershowitz](alan-dershowitz.md) - 9 shared documents
 - [US](../locations/us.md) - 16 shared documents
 - [Florida](../locations/florida.md) - 12 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 11 shared documents
-- [Manhattan](../locations/manhattan.md) - 7 shared documents
 - [Caribbean](../locations/caribbean.md) - 7 shared documents
-- [New York City](../locations/new-york-city.md) - 7 shared documents
+- [Manhattan](../locations/manhattan.md) - 7 shared documents
 - [New Mexico](../locations/new-mexico.md) - 7 shared documents
+- [New York City](../locations/new-york-city.md) - 7 shared documents
 - [N.Y.](../locations/ny.md) - 6 shared documents
 
 **Events:**
 
 - [2005](../events/2005.md) - 8 shared documents
+- [20-year-old](../events/20-year-old.md) - 6 shared documents
 - [2014](../events/2014.md) - 6 shared documents
 - [one year](../events/one-year.md) - 6 shared documents
-- [20-year-old](../events/20-year-old.md) - 6 shared documents
+- [13 months](../events/13-months.md) - 5 shared documents
+- [2002](../events/2002.md) - 5 shared documents
 - [2004](../events/2004.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [daily](../events/daily.md) - 5 shared documents
-- [August](../events/august.md) - 5 shared documents
-- [last week](../events/last-week.md) - 5 shared documents
 - [2008](../events/2008.md) - 5 shared documents
+- [August](../events/august.md) - 5 shared documents
+- [daily](../events/daily.md) - 5 shared documents
 
 ## Timeline
 

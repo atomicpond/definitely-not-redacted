@@ -34,14 +34,14 @@ Top 5 documents by mention frequency:
 
 - [2001](2001.md) - 5 shared documents
 - [February 28, 2019](february-28-2019.md) - 5 shared documents
-- [2003](2003.md) - 4 shared documents
-- [2004](2004.md) - 4 shared documents
-- [2007](2007.md) - 4 shared documents
-- [1996](1996.md) - 4 shared documents
-- [2000](2000.md) - 4 shared documents
+- [1972](1972.md) - 4 shared documents
+- [1976](1976.md) - 4 shared documents
+- [1977](1977.md) - 4 shared documents
+- [1979](1979.md) - 4 shared documents
+- [1984](1984.md) - 4 shared documents
 - [1985](1985.md) - 4 shared documents
+- [1987](1987.md) - 4 shared documents
 - [1990](1990.md) - 4 shared documents
-- [1993](1993.md) - 4 shared documents
 
 ## Timeline
 

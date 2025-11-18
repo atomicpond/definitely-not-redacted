@@ -50,13 +50,13 @@ York](../people/new-york.md) - 5 shared documents
 - [Europe](europe.md) - 11 shared documents
 - [Spain](spain.md) - 8 shared documents
 - [the United States](the-united-states.md) - 8 shared documents
-- [China](china.md) - 8 shared documents
-- [Germany](germany.md) - 8 shared documents
 - [America](america.md) - 8 shared documents
+- [China](china.md) - 8 shared documents
 - [France](france.md) - 8 shared documents
+- [Germany](germany.md) - 8 shared documents
 - [Washington](washington.md) - 7 shared documents
-- [Los Angeles](los-angeles.md) - 7 shared documents
 - [Africa](africa.md) - 7 shared documents
+- [England](england.md) - 7 shared documents
 
 **Events:**
 
@@ -66,10 +66,10 @@ York](../people/new-york.md) - 5 shared documents
 - [2008](../events/2008.md) - 7 shared documents
 - [2014](../events/2014.md) - 6 shared documents
 - [a day](../events/a-day.md) - 6 shared documents
-- [the years](../events/the-years.md) - 6 shared documents
-- [every day](../events/every-day.md) - 6 shared documents
 - [decades](../events/decades.md) - 6 shared documents
+- [every day](../events/every-day.md) - 6 shared documents
 - [the end of the day](../events/the-end-of-the-day.md) - 6 shared documents
+- [the years](../events/the-years.md) - 6 shared documents
 
 ## Timeline
 

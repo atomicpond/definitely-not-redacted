@@ -29,24 +29,24 @@ Top 8 documents by mention frequency:
 
 - [Mr. Kavanaugh](kavanaugh.md) - 8 shared documents
 - [Supreme Court](supreme-court.md) - 7 shared documents
-- [Mr. 
-Trump](trump.md) - 7 shared documents
 - [Brett Kavanaugh](brett-kavanaugh.md) - 7 shared documents
+- [Donald 
+Trump](donald-trump.md) - 6 shared documents
 - [New 
 York Times](new-york-times.md) - 6 shared documents
-- [President Trump](president-trump.md) - 6 shared documents
 - [Dr. Blasey](blasey.md) - 6 shared documents
 - [Judge Brett Kavanaugh](judge-brett-kavanaugh.md) - 5 shared documents
 - [Judge Kavanaugh](judge-kavanaugh.md) - 5 shared documents
 - [Senate Judiciary Committee](senate-judiciary-committee.md) - 5 shared documents
+- [Christine Blasey](christine-blasey.md) - 5 shared documents
 
 **Organizations:**
 
 - [Supreme Court](../organizations/supreme-court.md) - 8 shared documents
+- [New York Times](../organizations/new-york-times.md) - 6 shared documents
 - [Senate](../organizations/senate.md) - 6 shared documents
 - [the New York Times](../organizations/the-new-york-times.md) - 6 shared documents
 - [The New Yorker](../organizations/the-new-yorker.md) - 6 shared documents
-- [New York Times](../organizations/new-york-times.md) - 6 shared documents
 - [the Supreme Court](../organizations/the-supreme-court.md) - 6 shared documents
 - [The Senate Judiciary Committee](../organizations/the-senate-judiciary-committee.md) - 5 shared documents
 - [Ford](../organizations/ford.md) - 4 shared documents
@@ -59,12 +59,12 @@ York Times](new-york-times.md) - 6 shared documents
 
 **Events:**
 
-- [Thursday](../events/thursday.md) - 6 shared documents
 - [Monday](../events/monday.md) - 6 shared documents
-- [Sunday](../events/sunday.md) - 6 shared documents
 - [Sept](../events/sept.md) - 6 shared documents
-- [this week](../events/this-week.md) - 5 shared documents
+- [Sunday](../events/sunday.md) - 6 shared documents
+- [Thursday](../events/thursday.md) - 6 shared documents
 - [24, 2018](../events/24-2018.md) - 5 shared documents
+- [this week](../events/this-week.md) - 5 shared documents
 - [2018](../events/2018.md) - 4 shared documents
 - [last year](../events/last-year.md) - 4 shared documents
 - [November](../events/november.md) - 4 shared documents

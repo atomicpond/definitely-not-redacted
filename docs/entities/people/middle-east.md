@@ -32,16 +32,16 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Saudi Arabia](saudi-arabia.md) - 55 shared documents
-- [President Obama](president-obama.md) - 46 shared documents
 - [White House](white-house.md) - 44 shared documents
-- [Mr. Obama](obama.md) - 28 shared documents
 - [United 
 States](united-states.md) - 28 shared documents
 - [Security Council](security-council.md) - 25 shared documents
 - [West Bank](west-bank.md) - 23 shared documents
-- [President Barack Obama](president-barack-obama.md) - 21 shared documents
 - [Middle Eastern](middle-eastern.md) - 19 shared documents
 - [San Francisco](san-francisco.md) - 18 shared documents
+- [Persian Gulf](persian-gulf.md) - 14 shared documents
+- [President Bush](president-bush.md) - 14 shared documents
+- [Tahrir Square](tahrir-square.md) - 14 shared documents
 
 **Organizations:**
 

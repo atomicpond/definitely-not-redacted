@@ -27,18 +27,18 @@ Top 6 documents by mention frequency:
 **Organizations:**
 
 - [Treasuries](treasuries.md) - 5 shared documents
+- [Bank](bank.md) - 5 shared documents
 - [Congress](congress.md) - 5 shared documents
 - [ECB](ecb.md) - 5 shared documents
-- [Bank](bank.md) - 5 shared documents
 
 **Locations:**
 
-- [Germany](../locations/germany.md) - 6 shared documents
 - [Asia](../locations/asia.md) - 6 shared documents
+- [Germany](../locations/germany.md) - 6 shared documents
 - [Latin America](../locations/latin-america.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [Italy](../locations/italy.md) - 5 shared documents
 - [Greece](../locations/greece.md) - 5 shared documents
+- [Italy](../locations/italy.md) - 5 shared documents
+- [Russia](../locations/russia.md) - 5 shared documents
 
 **Events:**
 

@@ -37,9 +37,9 @@ Top 9 documents by mention frequency:
 - [Yes 
 Is Invitation](yes-is-invitation.md) - 7 shared documents
 - [Chat Room](chat-room.md) - 7 shared documents
+- [Is Invitation](is-invitation.md) - 7 shared documents
 - [No 
 Is Invitation](no-is-invitation.md) - 7 shared documents
-- [Is Invitation](is-invitation.md) - 7 shared documents
 - [Yes 
 Sender](yes-sender.md) - 6 shared documents
 - [Source 
@@ -54,8 +54,8 @@ Entry](source-entry.md) - 5 shared documents
 
 - [China](../locations/china.md) - 7 shared documents
 - [N.Y.](../locations/ny.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
 
 **Events:**
 

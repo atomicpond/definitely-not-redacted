@@ -16,8 +16,8 @@
 ### People
 - [Mr. 
 Trump](../entities/people/mr-trump.md) - 26 mentions
-- [Dr. Blasey](../entities/people/dr-blasey.md) - 20 mentions
-- [Mr. Kavanaugh](../entities/people/mr-kavanaugh.md) - 13 mentions
+- [Dr. Blasey](../entities/people/blasey.md) - 20 mentions
+- [Mr. Kavanaugh](../entities/people/kavanaugh.md) - 13 mentions
 - [Judge Kavanaugh](../entities/people/judge-kavanaugh.md) - 13 mentions
 - [Supreme Court](../entities/people/supreme-court.md) - 9 mentions
 - [White House](../entities/people/white-house.md) - 5 mentions

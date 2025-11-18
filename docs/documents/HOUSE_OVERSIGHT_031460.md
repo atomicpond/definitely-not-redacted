@@ -12,7 +12,7 @@
 - [Brotherton](../entities/people/brotherton.md) - 8 mentions
 - [Epstein](../entities/people/epstein.md) - 2 mentions
 - [Kennedy](../entities/people/kennedy.md) - 2 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [George W. Bush](../entities/people/george-w-bush.md) - 1 mention
 - [Jeff](../entities/people/jeff.md) - 1 mention
 - [Ed](../entities/people/ed.md) - 1 mention

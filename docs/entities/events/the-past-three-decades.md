@@ -40,14 +40,14 @@ Top 7 documents by mention frequency:
 
 - [today](today.md) - 7 shared documents
 - [2009](2009.md) - 6 shared documents
+- [1979](1979.md) - 4 shared documents
 - [2003](2003.md) - 4 shared documents
 - [2007](2007.md) - 4 shared documents
-- [last year](last-year.md) - 4 shared documents
 - [2008](2008.md) - 4 shared documents
 - [2010](2010.md) - 4 shared documents
-- [recent years](recent-years.md) - 4 shared documents
+- [last year](last-year.md) - 4 shared documents
 - [many years](many-years.md) - 4 shared documents
-- [1979](1979.md) - 4 shared documents
+- [recent years](recent-years.md) - 4 shared documents
 
 ## Timeline
 

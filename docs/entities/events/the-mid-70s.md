@@ -56,14 +56,14 @@ Top 7 documents by mention frequency:
 
 - [tomorrow](tomorrow.md) - 7 shared documents
 - [two years](two-years.md) - 7 shared documents
+- [2006](2006.md) - 7 shared documents
 - [2014](2014.md) - 7 shared documents
 - [last year](last-year.md) - 7 shared documents
-- [Sunday](sunday.md) - 7 shared documents
 - [Saturday](saturday.md) - 7 shared documents
-- [2006](2006.md) - 7 shared documents
 - [September](september.md) - 7 shared documents
-- [the day](the-day.md) - 7 shared documents
+- [Sunday](sunday.md) - 7 shared documents
 - [ten years](ten-years.md) - 7 shared documents
+- [the day](the-day.md) - 7 shared documents
 
 ## Timeline
 

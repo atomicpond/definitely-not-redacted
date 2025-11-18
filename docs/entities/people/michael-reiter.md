@@ -66,15 +66,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [18 months](../events/18-months.md) - 23 shared documents
-- [last year](../events/last-year.md) - 19 shared documents
 - [2006](../events/2006.md) - 19 shared documents
-- [two years](../events/two-years.md) - 18 shared documents
+- [last year](../events/last-year.md) - 19 shared documents
 - [14](../events/14.md) - 18 shared documents
 - [18](../events/18.md) - 18 shared documents
+- [two years](../events/two-years.md) - 18 shared documents
 - [one year](../events/one-year.md) - 17 shared documents
 - [the day](../events/the-day.md) - 17 shared documents
-- [2007](../events/2007.md) - 16 shared documents
-- [daily](../events/daily.md) - 16 shared documents
+- [2002](../events/2002.md) - 16 shared documents
+- [2005](../events/2005.md) - 16 shared documents
 
 ## Timeline
 

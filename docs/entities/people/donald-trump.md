@@ -2,29 +2,58 @@
 Trump
 
 **Type:** People  
-**Total Mentions:** 347  
-**Documents:** 235
+**Total Mentions:** 753  
+**Documents:** 561
 
 ## Name Variants
 
+- The Trump
+- President Donald Trump
+- DONALD J. TRUMP
+- Trumps
+- Donald
+- Donald J. Trump
+- If Trump
+- President 
+Trump
+- Trump Tower
+- DONALD
+- Implicated Trump
+- President Trump
+- Trump University
+- trump
+- Pres Trump
+- trumps
 - Donald 
 Trump
+- Defendant Trump
 - Donald Trump
+- Trump Era
+- Trump Shuttle
+- Trump Properties
+- donald
+- Donald Trump's
+- Mr Trump
+- trump shuttle
+- Mr. 
+Trump
+- Mr 
+Trump
 
 ## Related Documents
 
 Top 10 documents by mention frequency:
 
-- [HOUSE_OVERSIGHT_033345](../../documents/HOUSE_OVERSIGHT_033345.md) - 15 mentions
+- [HOUSE_OVERSIGHT_026384](../../documents/HOUSE_OVERSIGHT_026384.md) - 19 mentions
 - [HOUSE_OVERSIGHT_026627](../../documents/HOUSE_OVERSIGHT_026627.md) - 10 mentions
-- [HOUSE_OVERSIGHT_031198](../../documents/HOUSE_OVERSIGHT_031198.md) - 8 mentions
+- [HOUSE_OVERSIGHT_033311](../../documents/HOUSE_OVERSIGHT_033311.md) - 10 mentions
+- [HOUSE_OVERSIGHT_026944](../../documents/HOUSE_OVERSIGHT_026944.md) - 7 mentions
+- [HOUSE_OVERSIGHT_033181](../../documents/HOUSE_OVERSIGHT_033181.md) - 7 mentions
+- [HOUSE_OVERSIGHT_030656](../../documents/HOUSE_OVERSIGHT_030656.md) - 6 mentions
+- [HOUSE_OVERSIGHT_033345](../../documents/HOUSE_OVERSIGHT_033345.md) - 6 mentions
+- [HOUSE_OVERSIGHT_026637](../../documents/HOUSE_OVERSIGHT_026637.md) - 5 mentions
 - [HOUSE_OVERSIGHT_030015](../../documents/HOUSE_OVERSIGHT_030015.md) - 5 mentions
-- [HOUSE_OVERSIGHT_031186](../../documents/HOUSE_OVERSIGHT_031186.md) - 5 mentions
-- [HOUSE_OVERSIGHT_031725](../../documents/HOUSE_OVERSIGHT_031725.md) - 5 mentions
-- [HOUSE_OVERSIGHT_029165](../../documents/HOUSE_OVERSIGHT_029165.md) - 4 mentions
-- [HOUSE_OVERSIGHT_026273](../../documents/HOUSE_OVERSIGHT_026273.md) - 3 mentions
-- [HOUSE_OVERSIGHT_026280](../../documents/HOUSE_OVERSIGHT_026280.md) - 3 mentions
-- [HOUSE_OVERSIGHT_026298](../../documents/HOUSE_OVERSIGHT_026298.md) - 3 mentions
+- [HOUSE_OVERSIGHT_031999](../../documents/HOUSE_OVERSIGHT_031999.md) - 5 mentions
 
 ## Connections
 
@@ -32,57 +61,55 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Jeffrey Epstein](jeffrey-epstein.md) - 92 shared documents
-- [Epstein](epstein.md) - 56 shared documents
-- [Jeffrey E](jeffrey-e.md) - 53 shared documents
-- [Mr. 
-Trump](trump.md) - 46 shared documents
-- [Hillary Clinton](hillary-clinton.md) - 33 shared documents
-- [jeff epstein](jeff-epstein.md) - 32 shared documents
-- [Donald Trump's](donald-trumps.md) - 30 shared documents
-- [Jeffrey](jeffrey.md) - 28 shared documents
-- [New
-York](new-york.md) - 27 shared documents
-- [Bill 
-Clinton](bill-clinton.md) - 26 shared documents
+- [jeffrey E. <](jeffrey-e.md) - 23 shared documents
+- [martin Weinberg](martin-weinberg.md) - 21 shared documents
+- [marty](marty.md) - 17 shared documents
+- [Ingram](ingram.md) - 15 shared documents
+- [Landon Thomas](landon-thomas.md) - 13 shared documents
+- [Prince 
+Andrew](prince-andrew.md) - 13 shared documents
+- [Supreme Court](supreme-court.md) - 13 shared documents
+- [Landon](landon.md) - 12 shared documents
+- [MARTIN G. WEINBERG](martin-g-weinberg.md) - 12 shared documents
+- [New York 
+City](new-york-city.md) - 12 shared documents
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 136 shared documents
-- [Trump](../organizations/trump.md) - 73 shared documents
-- [the White House](../organizations/the-white-house.md) - 27 shared documents
-- [Reuters](../organizations/reuters.md) - 22 shared documents
-- [the New York Times](../organizations/the-new-york-times.md) - 22 shared documents
-- [Congress](../organizations/congress.md) - 21 shared documents
-- [White House](../organizations/white-house.md) - 20 shared documents
-- [Lexington Avenue](../organizations/lexington-avenue.md) - 17 shared documents
-- [Mueller](../organizations/mueller.md) - 17 shared documents
+- [Facebook](../organizations/facebook.md) - 19 shared documents
+- [NYT](../organizations/nyt.md) - 17 shared documents
 - [Reuters News](../organizations/reuters-news.md) - 17 shared documents
+- [Bloomberg](../organizations/bloomberg.md) - 16 shared documents
+- [the Washington Post](../organizations/the-washington-post.md) - 15 shared documents
+- [Reuters](../organizations/reuters.md) - 14 shared documents
+- [Supreme Court](../organizations/supreme-court.md) - 14 shared documents
+- [4th Floor](../organizations/4th-floor.md) - 13 shared documents
 
 **Locations:**
 
-- [US](../locations/us.md) - 64 shared documents
-- [New York](../locations/new-york.md) - 56 shared documents
-- [California](../locations/california.md) - 35 shared documents
-- [Florida](../locations/florida.md) - 34 shared documents
-- [America](../locations/america.md) - 31 shared documents
-- [Washington](../locations/washington.md) - 25 shared documents
-- [Russia](../locations/russia.md) - 24 shared documents
-- [London](../locations/london.md) - 24 shared documents
-- [Palm Beach](../locations/palm-beach.md) - 22 shared documents
-- [Europe](../locations/europe.md) - 21 shared documents
+- [Asia](../locations/asia.md) - 20 shared documents
+- [Japan](../locations/japan.md) - 18 shared documents
+- [USA](../locations/usa.md) - 18 shared documents
+- [Iran](../locations/iran.md) - 16 shared documents
+- [Mexico](../locations/mexico.md) - 16 shared documents
+- [Hong Kong](../locations/hong-kong.md) - 15 shared documents
+- [Israel](../locations/israel.md) - 14 shared documents
+- [Singapore](../locations/singapore.md) - 14 shared documents
+- [Canada](../locations/canada.md) - 13 shared documents
+- [Italy](../locations/italy.md) - 13 shared documents
 
 **Events:**
 
-- [2016](../events/2016.md) - 60 shared documents
-- [2008](../events/2008.md) - 32 shared documents
-- [today](../events/today.md) - 30 shared documents
-- [this week](../events/this-week.md) - 28 shared documents
-- [2014](../events/2014.md) - 23 shared documents
-- [1994](../events/1994.md) - 23 shared documents
-- [Friday](../events/friday.md) - 18 shared documents
-- [2018](../events/2018.md) - 17 shared documents
-- [13 months](../events/13-months.md) - 17 shared documents
+- [2017](../events/2017.md) - 31 shared documents
+- [last year](../events/last-year.md) - 24 shared documents
+- [years](../events/years.md) - 24 shared documents
+- [this year](../events/this-year.md) - 23 shared documents
+- [2015](../events/2015.md) - 22 shared documents
+- [2019](../events/2019.md) - 22 shared documents
+- [annual](../events/annual.md) - 21 shared documents
+- [Thursday](../events/thursday.md) - 20 shared documents
+- [2013](../events/2013.md) - 18 shared documents
+- [Monday](../events/monday.md) - 18 shared documents
 
 ## Timeline
 

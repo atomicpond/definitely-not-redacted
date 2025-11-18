@@ -55,16 +55,16 @@ Top 9 documents by mention frequency:
 
 **Events:**
 
-- [2003](../events/2003.md) - 8 shared documents
 - [2001](../events/2001.md) - 8 shared documents
-- [2004](../events/2004.md) - 7 shared documents
-- [today](../events/today.md) - 7 shared documents
-- [1990](../events/1990.md) - 7 shared documents
-- [1999](../events/1999.md) - 7 shared documents
-- [one year](../events/one-year.md) - 7 shared documents
-- [1982](../events/1982.md) - 7 shared documents
+- [2003](../events/2003.md) - 8 shared documents
 - [1980](../events/1980.md) - 7 shared documents
+- [1982](../events/1982.md) - 7 shared documents
+- [1990](../events/1990.md) - 7 shared documents
 - [1991](../events/1991.md) - 7 shared documents
+- [1999](../events/1999.md) - 7 shared documents
+- [2004](../events/2004.md) - 7 shared documents
+- [one year](../events/one-year.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
 
 ## Timeline
 

@@ -33,7 +33,6 @@ States](united-states.md) - 6 shared documents
 - [European 
 Union](european-union.md) - 5 shared documents
 - [Islamic State](islamic-state.md) - 5 shared documents
-- [Barack Obama](barack-obama.md) - 4 shared documents
 
 **Organizations:**
 
@@ -42,36 +41,35 @@ Union](european-union.md) - 5 shared documents
 - [HOUSE](../organizations/house.md) - 7 shared documents
 - [Islam](../organizations/islam.md) - 6 shared documents
 - [Harvard](../organizations/harvard.md) - 5 shared documents
-- [Trump](../organizations/trump.md) - 4 shared documents
-- [Facebook](../organizations/facebook.md) - 4 shared documents
-- [Twitter](../organizations/twitter.md) - 4 shared documents
 - [BBC](../organizations/bbc.md) - 4 shared documents
+- [Facebook](../organizations/facebook.md) - 4 shared documents
+- [Trump](../organizations/trump.md) - 4 shared documents
 
 **Locations:**
 
 - [China](../locations/china.md) - 8 shared documents
 - [Washington](../locations/washington.md) - 8 shared documents
-- [Europe](../locations/europe.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
-- [Germany](../locations/germany.md) - 6 shared documents
 - [America](../locations/america.md) - 6 shared documents
-- [France](../locations/france.md) - 6 shared documents
-- [Iraq](../locations/iraq.md) - 6 shared documents
-- [the United States](../locations/the-united-states.md) - 6 shared documents
 - [Baghdad](../locations/baghdad.md) - 6 shared documents
+- [Europe](../locations/europe.md) - 6 shared documents
+- [France](../locations/france.md) - 6 shared documents
+- [Germany](../locations/germany.md) - 6 shared documents
+- [Iraq](../locations/iraq.md) - 6 shared documents
+- [Russia](../locations/russia.md) - 6 shared documents
+- [the United States](../locations/the-united-states.md) - 6 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 6 shared documents
 - [this week](../events/this-week.md) - 6 shared documents
+- [today](../events/today.md) - 6 shared documents
 - [years](../events/years.md) - 5 shared documents
-- [2014](../events/2014.md) - 4 shared documents
-- [Wednesday](../events/wednesday.md) - 4 shared documents
-- [last year](../events/last-year.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
-- [last week](../events/last-week.md) - 4 shared documents
 - [2008](../events/2008.md) - 4 shared documents
+- [2013](../events/2013.md) - 4 shared documents
+- [2014](../events/2014.md) - 4 shared documents
+- [every day](../events/every-day.md) - 4 shared documents
 - [Friday](../events/friday.md) - 4 shared documents
+- [last week](../events/last-week.md) - 4 shared documents
+- [last year](../events/last-year.md) - 4 shared documents
 
 ## Timeline
 

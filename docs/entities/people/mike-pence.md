@@ -39,26 +39,26 @@ Top 10 documents by mention frequency:
 - [Senate](../organizations/senate.md) - 7 shared documents
 - [Trump](../organizations/trump.md) - 7 shared documents
 - [the White House](../organizations/the-white-house.md) - 6 shared documents
-- [HOUSE](../organizations/house.md) - 5 shared documents
 - [Congress](../organizations/congress.md) - 5 shared documents
-- [Supreme Court](../organizations/supreme-court.md) - 4 shared documents
+- [HOUSE](../organizations/house.md) - 5 shared documents
 - [New York Times](../organizations/new-york-times.md) - 4 shared documents
+- [Supreme Court](../organizations/supreme-court.md) - 4 shared documents
 
 **Locations:**
 
 - [Russia](../locations/russia.md) - 8 shared documents
 - [Paris](../locations/paris.md) - 5 shared documents
-- [Middle East](../locations/middle-east.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 - [Florida](../locations/florida.md) - 4 shared documents
-- [Texas](../locations/texas.md) - 4 shared documents
-- [Iowa](../locations/iowa.md) - 4 shared documents
 - [Indiana](../locations/indiana.md) - 4 shared documents
+- [Iowa](../locations/iowa.md) - 4 shared documents
+- [Middle East](../locations/middle-east.md) - 4 shared documents
+- [Texas](../locations/texas.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 
-- [Thursday](../events/thursday.md) - 5 shared documents
 - [Monday](../events/monday.md) - 5 shared documents
+- [Thursday](../events/thursday.md) - 5 shared documents
 - [next year](../events/next-year.md) - 4 shared documents
 - [November](../events/november.md) - 4 shared documents
 

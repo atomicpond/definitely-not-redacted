@@ -34,18 +34,17 @@ Top 10 documents by mention frequency:
 - [Saudi Arabia](../people/saudi-arabia.md) - 7 shared documents
 - [Vanity Fair](../people/vanity-fair.md) - 7 shared documents
 - [Barack Obama](../people/barack-obama.md) - 6 shared documents
-- [President Obama](../people/president-obama.md) - 6 shared documents
 - [White House](../people/white-house.md) - 6 shared documents
 - [Angela Merkel](../people/angela-merkel.md) - 5 shared documents
 - [Cold War](../people/cold-war.md) - 5 shared documents
 - [Daily Mail](../people/daily-mail.md) - 5 shared documents
+- [West Bank](../people/west-bank.md) - 5 shared documents
 
 **Organizations:**
 
 - [Congress](congress.md) - 9 shared documents
-- [Vanity Fair](vanity-fair.md) - 8 shared documents
 - [Guardian](guardian.md) - 8 shared documents
-- [HOUSE](house.md) - 7 shared documents
+- [Vanity Fair](vanity-fair.md) - 8 shared documents
 
 **Locations:**
 
@@ -53,25 +52,25 @@ Top 10 documents by mention frequency:
 - [the United States](../locations/the-united-states.md) - 10 shared documents
 - [United States](../locations/united-states.md) - 9 shared documents
 - [Washington](../locations/washington.md) - 9 shared documents
+- [Britain](../locations/britain.md) - 8 shared documents
 - [China](../locations/china.md) - 8 shared documents
 - [Europe](../locations/europe.md) - 8 shared documents
-- [Russia](../locations/russia.md) - 8 shared documents
-- [London](../locations/london.md) - 8 shared documents
 - [France](../locations/france.md) - 8 shared documents
 - [Israel](../locations/israel.md) - 8 shared documents
+- [London](../locations/london.md) - 8 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 11 shared documents
-- [daily](../events/daily.md) - 9 shared documents
 - [2010](../events/2010.md) - 9 shared documents
+- [daily](../events/daily.md) - 9 shared documents
+- [2000](../events/2000.md) - 8 shared documents
 - [2003](../events/2003.md) - 8 shared documents
 - [2007](../events/2007.md) - 8 shared documents
 - [2009](../events/2009.md) - 8 shared documents
-- [2014](../events/2014.md) - 8 shared documents
-- [2016](../events/2016.md) - 8 shared documents
-- [2000](../events/2000.md) - 8 shared documents
+- [2011](../events/2011.md) - 8 shared documents
 - [2012](../events/2012.md) - 8 shared documents
+- [2014](../events/2014.md) - 8 shared documents
 
 ## Timeline
 

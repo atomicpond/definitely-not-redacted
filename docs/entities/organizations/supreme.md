@@ -31,34 +31,34 @@ Top 6 documents by mention frequency:
 **Organizations:**
 
 - [the Washington Post](the-washington-post.md) - 5 shared documents
-- [HOUSE](house.md) - 5 shared documents
 - [Hamas](hamas.md) - 5 shared documents
+- [HOUSE](house.md) - 5 shared documents
 
 **Locations:**
 
-- [Washington](../locations/washington.md) - 6 shared documents
 - [America](../locations/america.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 6 shared documents
-- [Middle East](../locations/middle-east.md) - 5 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 6 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 5 shared documents
+- [East Jerusalem](../locations/east-jerusalem.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
 - [Iraq](../locations/iraq.md) - 5 shared documents
+- [Israel](../locations/israel.md) - 5 shared documents
+- [Jerusalem](../locations/jerusalem.md) - 5 shared documents
 
 **Events:**
 
 - [2003](../events/2003.md) - 6 shared documents
 - [2009](../events/2009.md) - 6 shared documents
+- [last week](../events/last-week.md) - 6 shared documents
 - [the 1980s](../events/the-1980s.md) - 6 shared documents
 - [today](../events/today.md) - 6 shared documents
-- [last week](../events/last-week.md) - 6 shared documents
-- [years](../events/years.md) - 5 shared documents
 - [2011](../events/2011.md) - 5 shared documents
 - [2013](../events/2013.md) - 5 shared documents
 - [a year](../events/a-year.md) - 5 shared documents
-- [2007](../events/2007.md) - 4 shared documents
+- [years](../events/years.md) - 5 shared documents
+- [1993](../events/1993.md) - 4 shared documents
 
 ## Timeline
 

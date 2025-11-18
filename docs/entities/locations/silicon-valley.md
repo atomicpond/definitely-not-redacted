@@ -33,13 +33,9 @@ Top 10 documents by mention frequency:
 
 - [San Francisco](../people/san-francisco.md) - 11 shared documents
 - [White House](../people/white-house.md) - 11 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 10 shared documents
-- [Donald 
-Trump](../people/donald-trump.md) - 9 shared documents
 - [Middle East](../people/middle-east.md) - 9 shared documents
 - [Silicon Valley](../people/silicon-valley.md) - 9 shared documents
-- [President Obama](../people/president-obama.md) - 8 shared documents
+- [Barack Obama](../people/barack-obama.md) - 8 shared documents
 
 **Organizations:**
 
@@ -64,21 +60,21 @@ Trump](../people/donald-trump.md) - 9 shared documents
 - [Germany](germany.md) - 12 shared documents
 - [United States](united-states.md) - 11 shared documents
 - [Washington](washington.md) - 11 shared documents
-- [New York](new-york.md) - 11 shared documents
+- [Australia](australia.md) - 11 shared documents
 - [California](california.md) - 11 shared documents
 
 **Events:**
 
 - [2016](../events/2016.md) - 16 shared documents
 - [Friday](../events/friday.md) - 15 shared documents
-- [Thursday](../events/thursday.md) - 14 shared documents
 - [daily](../events/daily.md) - 14 shared documents
+- [Thursday](../events/thursday.md) - 14 shared documents
 - [months](../events/months.md) - 13 shared documents
 - [2004](../events/2004.md) - 12 shared documents
-- [2015](../events/2015.md) - 11 shared documents
-- [2012](../events/2012.md) - 11 shared documents
-- [years](../events/years.md) - 11 shared documents
 - [2008](../events/2008.md) - 11 shared documents
+- [2012](../events/2012.md) - 11 shared documents
+- [2013](../events/2013.md) - 11 shared documents
+- [2015](../events/2015.md) - 11 shared documents
 
 ## Timeline
 

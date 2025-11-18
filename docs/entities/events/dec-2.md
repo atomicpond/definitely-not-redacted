@@ -60,9 +60,9 @@ Chairman and Chief Executive Officer of the Financial Trust](../organizations/ep
 - [January 20, 1953](january-20-1953.md) - 5 shared documents
 - [this day](this-day.md) - 5 shared documents
 - [weekly](weekly.md) - 5 shared documents
-- [daily](daily.md) - 5 shared documents
-- [2005](2005.md) - 5 shared documents
 - [1994](1994.md) - 5 shared documents
+- [2005](2005.md) - 5 shared documents
+- [daily](daily.md) - 5 shared documents
 
 ## Timeline
 

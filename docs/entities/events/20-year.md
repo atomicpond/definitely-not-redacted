@@ -31,17 +31,17 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Robert Maxwell](../people/robert-maxwell.md) - 24 shared documents
-- [Epstein](../people/epstein.md) - 20 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 20 shared documents
 - [Jimmy Cayne](../people/jimmy-cayne.md) - 20 shared documents
 - [Warren Buffett](../people/warren-buffett.md) - 20 shared documents
 - [Bill 
 Clinton](../people/bill-clinton.md) - 19 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 19 shared documents
 - [Prince 
 Andrew](../people/prince-andrew.md) - 19 shared documents
 - [Vicky Ward](../people/vicky-ward.md) - 19 shared documents
-- [Ghislaine Maxwell](../people/ghislaine-maxwell.md) - 18 shared documents
 - [Jeffrey](../people/jeffrey.md) - 18 shared documents
+- [Martha Stewart](../people/martha-stewart.md) - 18 shared documents
+- [Sam Waksal](../people/sam-waksal.md) - 18 shared documents
 
 **Organizations:**
 

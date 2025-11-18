@@ -29,19 +29,17 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [CLINTON](clinton.md) - 14 shared documents
-- [Mr. Obama](obama.md) - 9 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 14 shared documents
 - [George W. Bush](george-w-bush.md) - 9 shared documents
 - [Saddam Hussein](saddam-hussein.md) - 8 shared documents
-- [Mr. 
-Trump](trump.md) - 8 shared documents
-- [Hillary Clinton](hillary-clinton.md) - 8 shared documents
 - [Bush](bush.md) - 8 shared documents
+- [Ed](ed.md) - 7 shared documents
+- [Hillary Clinton](hillary-clinton.md) - 7 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 7 shared documents
 - [John Brennan](john-brennan.md) - 7 shared documents
-- [Donald 
-Trump](donald-trump.md) - 7 shared documents
-- [Bill 
-Clinton](bill-clinton.md) - 7 shared documents
+- [Young](young.md) - 6 shared documents
+- [Mr. Rivkin](rivkin.md) - 5 shared documents
 
 **Organizations:**
 
@@ -51,10 +49,8 @@ Clinton](bill-clinton.md) - 7 shared documents
 - [CIA](../organizations/cia.md) - 10 shared documents
 - [Trump](../organizations/trump.md) - 9 shared documents
 - [the New York Times](../organizations/the-new-york-times.md) - 8 shared documents
-- [the White House](../organizations/the-white-house.md) - 7 shared documents
 - [NYT](../organizations/nyt.md) - 7 shared documents
-- [Senate](../organizations/senate.md) - 6 shared documents
-- [White House](../organizations/white-house.md) - 6 shared documents
+- [the White House](../organizations/the-white-house.md) - 7 shared documents
 
 **Locations:**
 
@@ -62,22 +58,25 @@ Clinton](bill-clinton.md) - 7 shared documents
 - [the United States](../locations/the-united-states.md) - 12 shared documents
 - [Russia](../locations/russia.md) - 11 shared documents
 - [Washington](../locations/washington.md) - 11 shared documents
-- [New York](../locations/new-york.md) - 9 shared documents
 - [Iraq](../locations/iraq.md) - 9 shared documents
+- [New York](../locations/new-york.md) - 9 shared documents
 - [Canada](../locations/canada.md) - 8 shared documents
 - [Germany](../locations/germany.md) - 8 shared documents
-- [Middle East](../locations/middle-east.md) - 7 shared documents
 - [China](../locations/china.md) - 7 shared documents
+- [London](../locations/london.md) - 7 shared documents
 
 **Events:**
 
 - [last week](../events/last-week.md) - 11 shared documents
-- [2010](../events/2010.md) - 8 shared documents
 - [1974](../events/1974.md) - 8 shared documents
-- [today](../events/today.md) - 7 shared documents
+- [2010](../events/2010.md) - 8 shared documents
 - [2012](../events/2012.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
+- [1973](../events/1973.md) - 6 shared documents
+- [1987](../events/1987.md) - 6 shared documents
+- [2011](../events/2011.md) - 6 shared documents
 - [2016](../events/2016.md) - 6 shared documents
-- [the 1980s](../events/the-1980s.md) - 6 shared documents
+- [five years](../events/five-years.md) - 6 shared documents
 
 ## Timeline
 

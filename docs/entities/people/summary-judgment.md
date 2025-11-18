@@ -28,9 +28,9 @@ Top 6 documents by mention frequency:
 **People:**
 
 - [Jane Doe](jane-doe.md) - 6 shared documents
-- [Jane Does](jane-does.md) - 5 shared documents
 - [Fifth Amendment](fifth-amendment.md) - 5 shared documents
-- [Bradley Edwards](bradley-edwards.md) - 4 shared documents
+- [Jane Does](jane-does.md) - 5 shared documents
+- [Brad Edwards](brad-edwards.md) - 4 shared documents
 
 **Organizations:**
 
@@ -42,23 +42,23 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 6 shared documents
 - [Florida](../locations/florida.md) - 6 shared documents
+- [United States](../locations/united-states.md) - 6 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 6 shared documents
 - [Africa](../locations/africa.md) - 4 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 4 shared documents
-- [Virginia](../locations/virginia.md) - 4 shared documents
 - [England](../locations/england.md) - 4 shared documents
 - [New Mexico](../locations/new-mexico.md) - 4 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 4 shared documents
+- [the Southern District](../locations/the-southern-district.md) - 4 shared documents
+- [Virginia](../locations/virginia.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 6 shared documents
 - [2008](../events/2008.md) - 6 shared documents
+- [today](../events/today.md) - 6 shared documents
 - [2010](../events/2010.md) - 5 shared documents
-- [daily](../events/daily.md) - 4 shared documents
 - [2001](../events/2001.md) - 4 shared documents
+- [daily](../events/daily.md) - 4 shared documents
 
 ## Timeline
 

@@ -38,8 +38,8 @@ Top 9 documents by mention frequency:
 **Locations:**
 
 - [U.S.](../locations/us.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
 - [Germany](../locations/germany.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
 
 **Events:**
 

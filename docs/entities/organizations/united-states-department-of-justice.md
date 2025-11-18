@@ -43,35 +43,36 @@ Top 10 documents by mention frequency:
 **Organizations:**
 
 - [USAO](usao.md) - 10 shared documents
-- [State](state.md) - 9 shared documents
 - [Office](office.md) - 9 shared documents
+- [State](state.md) - 9 shared documents
 - [CEOS](ceos.md) - 8 shared documents
 - [Kirkland & Ellis LLP](kirkland-ellis-llp.md) - 8 shared documents
 - [HOUSE](house.md) - 7 shared documents
 - [the New York Times](the-new-york-times.md) - 7 shared documents
 - [Whitley 
 Alston & Bird LLP](whitley-alston-bird-llp.md) - 6 shared documents
-- [the Department of Justice](the-department-of-justice.md) - 6 shared documents
 - [Alston & Bird LLP](alston-bird-llp.md) - 6 shared documents
+- [Starr 
+Kirkland & Ellis LLP](starr-kirkland-ellis-llp.md) - 6 shared documents
 
 **Locations:**
 
 - [USA](../locations/usa.md) - 9 shared documents
-- [California](../locations/california.md) - 8 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 8 shared documents
-- [Washington](../locations/washington.md) - 8 shared documents
-- [D.C.](../locations/dc.md) - 8 shared documents
-- [N.W.](../locations/nw.md) - 8 shared documents
 - [777 South Figueroa Street](../locations/777-south-figueroa-street.md) - 8 shared documents
 - [950 Pennsylvania Avenue](../locations/950-pennsylvania-avenue.md) - 8 shared documents
-- [the United States](../locations/the-united-states.md) - 7 shared documents
+- [California](../locations/california.md) - 8 shared documents
+- [D.C.](../locations/dc.md) - 8 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 8 shared documents
+- [N.W.](../locations/nw.md) - 8 shared documents
+- [Washington](../locations/washington.md) - 8 shared documents
 - [Miami](../locations/miami.md) - 7 shared documents
+- [South Figueroa Street](../locations/south-figueroa-street.md) - 7 shared documents
 
 **Events:**
 
 - [May 19, 2008](../events/may-19-2008.md) - 8 shared documents
-- [2007](../events/2007.md) - 5 shared documents
 - [16](../events/16.md) - 5 shared documents
+- [2007](../events/2007.md) - 5 shared documents
 - [a few years ago](../events/a-few-years-ago.md) - 5 shared documents
 - [two-year](../events/two-year.md) - 5 shared documents
 

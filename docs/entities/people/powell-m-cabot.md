@@ -35,15 +35,15 @@ Powell](elisa-new-powell.md) - 9 shared documents
 - [Dear Jeffrey](dear-jeffrey.md) - 7 shared documents
 - [Samantha Power](samantha-power.md) - 6 shared documents
 - [Anna Deveare Smith](anna-deveare-smith.md) - 6 shared documents
-- [David Brooks](david-brooks.md) - 6 shared documents
-- [Frank Gehry](frank-gehry.md) - 6 shared documents
 - [College Board](college-board.md) - 6 shared documents
+- [David Brooks](david-brooks.md) - 6 shared documents
 - [David Coleman](david-coleman.md) - 6 shared documents
+- [Frank Gehry](frank-gehry.md) - 6 shared documents
 
 **Organizations:**
 
-- [Harvard University](../organizations/harvard-university.md) - 9 shared documents
 - [American Literature](../organizations/american-literature.md) - 9 shared documents
+- [Harvard University](../organizations/harvard-university.md) - 9 shared documents
 - [Cabot Professor of American Literature 
 Harvard University](../organizations/cabot-professor-of-american-literature-harvard-university.md) - 8 shared documents
 - [Harvard](../organizations/harvard.md) - 6 shared documents
@@ -51,8 +51,8 @@ Harvard University](../organizations/cabot-professor-of-american-literature-harv
 
 **Locations:**
 
-- [Cambridge](../locations/cambridge.md) - 9 shared documents
 - [12 Quincy Street](../locations/12-quincy-street.md) - 9 shared documents
+- [Cambridge](../locations/cambridge.md) - 9 shared documents
 - [Street 
 Cambridge, MA](../locations/street-cambridge-ma.md) - 8 shared documents
 

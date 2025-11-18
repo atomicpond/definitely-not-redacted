@@ -30,8 +30,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 13 shared documents
-- [Lawrence Krauss](../people/lawrence-krauss.md) - 12 shared documents
 - [White House](../people/white-house.md) - 12 shared documents
 
 **Organizations:**
@@ -63,15 +61,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [2007](../events/2007.md) - 22 shared documents
+- [2008](../events/2008.md) - 22 shared documents
 - [2014](../events/2014.md) - 22 shared documents
 - [this year](../events/this-year.md) - 22 shared documents
-- [2008](../events/2008.md) - 22 shared documents
 - [2016](../events/2016.md) - 21 shared documents
 - [today](../events/today.md) - 21 shared documents
 - [weeks](../events/weeks.md) - 19 shared documents
 - [October](../events/october.md) - 18 shared documents
 - [2006](../events/2006.md) - 17 shared documents
-- [years](../events/years.md) - 14 shared documents
+- [2010](../events/2010.md) - 14 shared documents
 
 ## Timeline
 

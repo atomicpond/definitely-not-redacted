@@ -50,9 +50,9 @@ Top 10 documents by mention frequency:
 - [Fed](fed.md) - 9 shared documents
 - [Office](office.md) - 8 shared documents
 - [the Justice Department](the-justice-department.md) - 8 shared documents
-- [HOUSE](house.md) - 8 shared documents
 - [Supreme Court](supreme-court.md) - 7 shared documents
 - [The Palm Beach Post](the-palm-beach-post.md) - 7 shared documents
+- [New York Times](new-york-times.md) - 6 shared documents
 
 **Locations:**
 
@@ -60,25 +60,25 @@ Top 10 documents by mention frequency:
 - [Manhattan](../locations/manhattan.md) - 11 shared documents
 - [Miami](../locations/miami.md) - 11 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 11 shared documents
-- [United States](../locations/united-states.md) - 10 shared documents
-- [the United States](../locations/the-united-states.md) - 10 shared documents
 - [New Mexico](../locations/new-mexico.md) - 10 shared documents
-- [West Palm Beach](../locations/west-palm-beach.md) - 10 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 10 shared documents
+- [the United States](../locations/the-united-states.md) - 10 shared documents
+- [United States](../locations/united-states.md) - 10 shared documents
+- [West Palm Beach](../locations/west-palm-beach.md) - 10 shared documents
 - [Washington](../locations/washington.md) - 9 shared documents
 
 **Events:**
 
 - [2006](../events/2006.md) - 13 shared documents
-- [years](../events/years.md) - 10 shared documents
-- [last week](../events/last-week.md) - 10 shared documents
-- [1984](../events/1984.md) - 10 shared documents
 - [18 months](../events/18-months.md) - 10 shared documents
+- [1984](../events/1984.md) - 10 shared documents
 - [five years](../events/five-years.md) - 10 shared documents
-- [two years](../events/two-years.md) - 10 shared documents
 - [July 2006](../events/july-2006.md) - 10 shared documents
-- [2005](../events/2005.md) - 9 shared documents
-- [the weekend](../events/the-weekend.md) - 9 shared documents
+- [last week](../events/last-week.md) - 10 shared documents
+- [two years](../events/two-years.md) - 10 shared documents
+- [years](../events/years.md) - 10 shared documents
+- [14](../events/14.md) - 9 shared documents
+- [14-year-old](../events/14-year-old.md) - 9 shared documents
 
 ## Timeline
 

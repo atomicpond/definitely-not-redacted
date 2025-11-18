@@ -55,28 +55,28 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [Japan](japan.md) - 20 shared documents
-- [Mexico](mexico.md) - 19 shared documents
 - [Asia](asia.md) - 19 shared documents
+- [Mexico](mexico.md) - 19 shared documents
 - [Spain](spain.md) - 19 shared documents
-- [China](china.md) - 18 shared documents
 - [Brazil](brazil.md) - 18 shared documents
 - [Canada](canada.md) - 18 shared documents
+- [China](china.md) - 18 shared documents
 - [Taiwan](taiwan.md) - 18 shared documents
-- [Russia](russia.md) - 17 shared documents
+- [Australia](australia.md) - 17 shared documents
 - [Germany](germany.md) - 17 shared documents
 
 **Events:**
 
 - [this year](../events/this-year.md) - 16 shared documents
-- [today](../events/today.md) - 14 shared documents
 - [2001](../events/2001.md) - 14 shared documents
-- [the year](../events/the-year.md) - 13 shared documents
+- [today](../events/today.md) - 14 shared documents
 - [1959](../events/1959.md) - 13 shared documents
 - [the day](../events/the-day.md) - 13 shared documents
-- [2017](../events/2017.md) - 12 shared documents
-- [2013](../events/2013.md) - 12 shared documents
-- [5-year](../events/5-year.md) - 12 shared documents
+- [the year](../events/the-year.md) - 13 shared documents
 - [198602883D](../events/198602883d.md) - 12 shared documents
+- [2013](../events/2013.md) - 12 shared documents
+- [2017](../events/2017.md) - 12 shared documents
+- [5-year](../events/5-year.md) - 12 shared documents
 
 ## Timeline
 

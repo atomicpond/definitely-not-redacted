@@ -55,27 +55,28 @@ CV](sa-de-cv.md) - 8 shared documents
 **Locations:**
 
 - [Russia](../locations/russia.md) - 13 shared documents
-- [Dubai](../locations/dubai.md) - 12 shared documents
-- [China](../locations/china.md) - 12 shared documents
-- [Europe](../locations/europe.md) - 12 shared documents
-- [Japan](../locations/japan.md) - 12 shared documents
-- [Brazil](../locations/brazil.md) - 12 shared documents
-- [Canada](../locations/canada.md) - 12 shared documents
-- [Germany](../locations/germany.md) - 12 shared documents
 - [Asia](../locations/asia.md) - 12 shared documents
 - [Australia](../locations/australia.md) - 12 shared documents
+- [Brazil](../locations/brazil.md) - 12 shared documents
+- [Canada](../locations/canada.md) - 12 shared documents
+- [China](../locations/china.md) - 12 shared documents
+- [Dubai](../locations/dubai.md) - 12 shared documents
+- [Europe](../locations/europe.md) - 12 shared documents
+- [Germany](../locations/germany.md) - 12 shared documents
+- [Hong Kong](../locations/hong-kong.md) - 12 shared documents
 
 **Events:**
 
 - [2015](../events/2015.md) - 10 shared documents
 - [this year](../events/this-year.md) - 10 shared documents
-- [today](../events/today.md) - 9 shared documents
 - [2013](../events/2013.md) - 9 shared documents
 - [5-year](../events/5-year.md) - 9 shared documents
+- [today](../events/today.md) - 9 shared documents
+- [10-year](../events/10-year.md) - 8 shared documents
+- [2001](../events/2001.md) - 8 shared documents
 - [2016](../events/2016.md) - 8 shared documents
 - [2017](../events/2017.md) - 8 shared documents
 - [July](../events/july.md) - 8 shared documents
-- [10-year](../events/10-year.md) - 8 shared documents
 
 ## Timeline
 

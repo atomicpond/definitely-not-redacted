@@ -47,29 +47,29 @@ Top 7 documents by mention frequency:
 
 **Locations:**
 
-- [Dubai](../locations/dubai.md) - 6 shared documents
-- [China](../locations/china.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
+- [Australia](../locations/australia.md) - 6 shared documents
 - [Brazil](../locations/brazil.md) - 6 shared documents
 - [Canada](../locations/canada.md) - 6 shared documents
-- [Australia](../locations/australia.md) - 6 shared documents
+- [China](../locations/china.md) - 6 shared documents
+- [Dubai](../locations/dubai.md) - 6 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 6 shared documents
+- [Japan](../locations/japan.md) - 6 shared documents
 - [the United Kingdom](../locations/the-united-kingdom.md) - 6 shared documents
-- [Mexico](../locations/mexico.md) - 5 shared documents
-- [London](../locations/london.md) - 5 shared documents
+- [Asia](../locations/asia.md) - 5 shared documents
+- [Israel](../locations/israel.md) - 5 shared documents
 
 **Events:**
 
 - [annual](../events/annual.md) - 7 shared documents
-- [2018](../events/2018.md) - 6 shared documents
-- [2015](../events/2015.md) - 6 shared documents
-- [2020](../events/2020.md) - 6 shared documents
 - [2001](../events/2001.md) - 6 shared documents
+- [2015](../events/2015.md) - 6 shared documents
+- [2018](../events/2018.md) - 6 shared documents
+- [2020](../events/2020.md) - 6 shared documents
+- [10-year](../events/10-year.md) - 5 shared documents
 - [2012](../events/2012.md) - 5 shared documents
+- [2019](../events/2019.md) - 5 shared documents
 - [this year](../events/this-year.md) - 5 shared documents
 - [years](../events/years.md) - 5 shared documents
-- [10-year](../events/10-year.md) - 5 shared documents
-- [2019](../events/2019.md) - 5 shared documents
 
 ## Timeline
 

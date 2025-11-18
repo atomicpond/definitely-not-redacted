@@ -35,14 +35,14 @@ Top 10 documents by mention frequency:
 
 - [Jane Doe](../people/jane-doe.md) - 56 shared documents
 - [New Mexico](../people/new-mexico.md) - 54 shared documents
-- [Epstein](../people/epstein.md) - 53 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 52 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 48 shared documents
 - [Jack Goldberger](../people/jack-goldberger.md) - 39 shared documents
 - [Vanity Fair](../people/vanity-fair.md) - 36 shared documents
 - [Michael Reiter](../people/michael-reiter.md) - 34 shared documents
 - [Paul Cassell](../people/paul-cassell.md) - 32 shared documents
 - [Les Wexner](../people/les-wexner.md) - 31 shared documents
+- [Jack Scarola](../people/jack-scarola.md) - 30 shared documents
+- [Kenneth Starr](../people/kenneth-starr.md) - 30 shared documents
+- [Roy Black](../people/roy-black.md) - 30 shared documents
 
 **Organizations:**
 
@@ -77,11 +77,11 @@ Top 10 documents by mention frequency:
 - [2005](../events/2005.md) - 51 shared documents
 - [Sunday](../events/sunday.md) - 49 shared documents
 - [tomorrow](../events/tomorrow.md) - 49 shared documents
-- [2007](../events/2007.md) - 47 shared documents
 - [2006](../events/2006.md) - 47 shared documents
-- [daily](../events/daily.md) - 45 shared documents
+- [2007](../events/2007.md) - 47 shared documents
 - [2010](../events/2010.md) - 45 shared documents
-- [last year](../events/last-year.md) - 44 shared documents
+- [daily](../events/daily.md) - 45 shared documents
+- [13 months](../events/13-months.md) - 44 shared documents
 
 ## Timeline
 

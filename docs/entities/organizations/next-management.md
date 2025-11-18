@@ -42,25 +42,25 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 7 shared documents
 - [England](../locations/england.md) - 7 shared documents
+- [New York](../locations/new-york.md) - 7 shared documents
 - [Faith Kates](../locations/faith-kates.md) - 5 shared documents
-- [New York's](../locations/new-yorks.md) - 4 shared documents
-- [New Orleans](../locations/new-orleans.md) - 4 shared documents
 - [Indonesia](../locations/indonesia.md) - 4 shared documents
+- [New Orleans](../locations/new-orleans.md) - 4 shared documents
+- [New York's](../locations/new-yorks.md) - 4 shared documents
 
 **Events:**
 
+- [1981](../events/1981.md) - 5 shared documents
+- [20-year](../events/20-year.md) - 5 shared documents
 - [2003](../events/2003.md) - 5 shared documents
+- [57](../events/57.md) - 5 shared documents
 - [last week](../events/last-week.md) - 5 shared documents
 - [many years](../events/many-years.md) - 5 shared documents
-- [1981](../events/1981.md) - 5 shared documents
-- [57](../events/57.md) - 5 shared documents
-- [20-year](../events/20-year.md) - 5 shared documents
-- [years](../events/years.md) - 4 shared documents
-- [weeks](../events/weeks.md) - 4 shared documents
-- [a year](../events/a-year.md) - 4 shared documents
 - [14](../events/14.md) - 4 shared documents
+- [a year](../events/a-year.md) - 4 shared documents
+- [weeks](../events/weeks.md) - 4 shared documents
+- [years](../events/years.md) - 4 shared documents
 
 ## Timeline
 

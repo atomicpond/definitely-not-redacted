@@ -61,16 +61,16 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
-- [daily](daily.md) - 9 shared documents
 - [2002](2002.md) - 9 shared documents
-- [today](today.md) - 8 shared documents
+- [daily](daily.md) - 9 shared documents
 - [one year](one-year.md) - 8 shared documents
 - [the day](the-day.md) - 8 shared documents
+- [today](today.md) - 8 shared documents
+- [1999](1999.md) - 7 shared documents
 - [2003](2003.md) - 7 shared documents
 - [2004](2004.md) - 7 shared documents
-- [2007](2007.md) - 7 shared documents
-- [1999](1999.md) - 7 shared documents
 - [2005](2005.md) - 7 shared documents
+- [2007](2007.md) - 7 shared documents
 
 ## Timeline
 

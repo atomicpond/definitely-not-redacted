@@ -34,7 +34,6 @@ Top 10 documents by mention frequency:
 
 - [New Jersey](../people/new-jersey.md) - 42 shared documents
 - [Los Angeles](../people/los-angeles.md) - 12 shared documents
-- [President Obama](../people/president-obama.md) - 12 shared documents
 
 **Organizations:**
 
@@ -65,14 +64,14 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [2004](../events/2004.md) - 21 shared documents
-- [today](../events/today.md) - 19 shared documents
 - [2000](../events/2000.md) - 19 shared documents
-- [2012](../events/2012.md) - 19 shared documents
 - [2001](../events/2001.md) - 19 shared documents
 - [2005](../events/2005.md) - 19 shared documents
 - [2006](../events/2006.md) - 19 shared documents
+- [2012](../events/2012.md) - 19 shared documents
+- [today](../events/today.md) - 19 shared documents
+- [1995](../events/1995.md) - 18 shared documents
 - [2007](../events/2007.md) - 18 shared documents
-- [2009](../events/2009.md) - 18 shared documents
 - [2008](../events/2008.md) - 18 shared documents
 
 ## Timeline

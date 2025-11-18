@@ -33,42 +33,42 @@ Clinton](bill-clinton.md) - 5 shared documents
 - [Bush Sr](bush-sr.md) - 5 shared documents
 - [Chancellor Merkel](chancellor-merkel.md) - 5 shared documents
 - [Churchill](churchill.md) - 5 shared documents
-- [CLINTON](clinton.md) - 5 shared documents
 - [Cold War](cold-war.md) - 5 shared documents
 - [Communist Party](communist-party.md) - 5 shared documents
+- [Deng](deng.md) - 5 shared documents
 
 **Organizations:**
 
 - [NATO](../organizations/nato.md) - 6 shared documents
 - [HOUSE](../organizations/house.md) - 5 shared documents
 - [Labor](../organizations/labor.md) - 5 shared documents
-- [the Federal Reserve](../organizations/the-federal-reserve.md) - 5 shared documents
+- [the Australian Labor Party](../organizations/the-australian-labor-party.md) - 5 shared documents
 
 **Locations:**
 
-- [China](../locations/china.md) - 6 shared documents
-- [Europe](../locations/europe.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
-- [Brazil](../locations/brazil.md) - 6 shared documents
-- [Germany](../locations/germany.md) - 6 shared documents
 - [America](../locations/america.md) - 6 shared documents
 - [Asia](../locations/asia.md) - 6 shared documents
-- [France](../locations/france.md) - 6 shared documents
 - [Australia](../locations/australia.md) - 6 shared documents
+- [Brazil](../locations/brazil.md) - 6 shared documents
+- [Britain](../locations/britain.md) - 6 shared documents
+- [China](../locations/china.md) - 6 shared documents
+- [East Asia](../locations/east-asia.md) - 6 shared documents
+- [Europe](../locations/europe.md) - 6 shared documents
+- [France](../locations/france.md) - 6 shared documents
+- [Germany](../locations/germany.md) - 6 shared documents
 
 **Events:**
 
 - [last week](../events/last-week.md) - 6 shared documents
 - [1990s](../events/1990s.md) - 5 shared documents
 - [1996](../events/1996.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
 - [2008](../events/2008.md) - 5 shared documents
-- [the 1990s](../events/the-1990s.md) - 5 shared documents
-- [20th Century](../events/20th-century.md) - 5 shared documents
-- [the 21st century](../events/the-21st-century.md) - 5 shared documents
 - [2050](../events/2050.md) - 5 shared documents
-- [the 1980s and 1990s](../events/the-1980s-and-1990s.md) - 5 shared documents
+- [20th Century](../events/20th-century.md) - 5 shared documents
+- [25 years ago](../events/25-years-ago.md) - 5 shared documents
+- [By 2050](../events/by-2050.md) - 5 shared documents
+- [October 22, 2011](../events/october-22-2011.md) - 5 shared documents
+- [October 22, 2011 12:00AM](../events/october-22-2011-1200am.md) - 5 shared documents
 
 ## Timeline
 

@@ -27,11 +27,11 @@ Top 6 documents by mention frequency:
 
 - [Asia Pacific](../people/asia-pacific.md) - 4 shared documents
 - [Aung San Suu](../people/aung-san-suu.md) - 4 shared documents
+- [Barack Obama](../people/barack-obama.md) - 4 shared documents
 - [Global Head](../people/global-head.md) - 4 shared documents
 - [Harvard Law School](../people/harvard-law-school.md) - 4 shared documents
 - [Harvard University](../people/harvard-university.md) - 4 shared documents
 - [Modern Art](../people/modern-art.md) - 4 shared documents
-- [President Obama](../people/president-obama.md) - 4 shared documents
 - [Public Policy](../people/public-policy.md) - 4 shared documents
 - [Security Council](../people/security-council.md) - 4 shared documents
 - [Sloan School](../people/sloan-school.md) - 4 shared documents
@@ -50,22 +50,22 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
-- [Japan](../locations/japan.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
-- [Netherlands](../locations/netherlands.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
 - [Latin America](../locations/latin-america.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
+- [Netherlands](../locations/netherlands.md) - 5 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
 - [Iraq](../locations/iraq.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
 - [New York City](../locations/new-york-city.md) - 4 shared documents
-- [Afghanistan](../locations/afghanistan.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
 
 **Events:**
 
-- [2014](../events/2014.md) - 5 shared documents
 - [2011](../events/2011.md) - 5 shared documents
 - [2013](../events/2013.md) - 5 shared documents
+- [2014](../events/2014.md) - 5 shared documents
 - [2007](../events/2007.md) - 4 shared documents
 - [2009](../events/2009.md) - 4 shared documents
 

@@ -53,8 +53,8 @@ Top 9 documents by mention frequency:
 
 **Events:**
 
-- [2016](2016.md) - 8 shared documents
 - [2012](2012.md) - 8 shared documents
+- [2016](2016.md) - 8 shared documents
 - [1974](1974.md) - 7 shared documents
 - [months](months.md) - 6 shared documents
 - [more than a year](more-than-a-year.md) - 6 shared documents

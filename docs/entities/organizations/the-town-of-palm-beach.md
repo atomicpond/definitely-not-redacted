@@ -30,17 +30,18 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [County Road](../people/county-road.md) - 7 shared documents
-- [Trump Properties](../people/trump-properties.md) - 7 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 7 shared documents
 
 **Organizations:**
 
 - [Town](town.md) - 9 shared documents
-- [LLC](llc.md) - 7 shared documents
 - [ARCOM](arcom.md) - 7 shared documents
+- [LLC](llc.md) - 7 shared documents
 - [Trump Properties](trump-properties.md) - 6 shared documents
-- [State](state.md) - 6 shared documents
 - [Code Enforcement](code-enforcement.md) - 6 shared documents
 - [Ordinances](ordinances.md) - 6 shared documents
+- [State](state.md) - 6 shared documents
 - [the Architectural Commission](the-architectural-commission.md) - 6 shared documents
 - [Town Council](town-council.md) - 5 shared documents
 - [the Code Enforcement Board](the-code-enforcement-board.md) - 5 shared documents
@@ -51,21 +52,21 @@ Top 10 documents by mention frequency:
 - [Palm Beach County](../locations/palm-beach-county.md) - 6 shared documents
 - [County](../locations/county.md) - 5 shared documents
 - [Lake Worth](../locations/lake-worth.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 - [D.C.](../locations/dc.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 8 shared documents
 - [yesterday](../events/yesterday.md) - 6 shared documents
-- [October](../events/october.md) - 5 shared documents
 - [annual](../events/annual.md) - 5 shared documents
-- [monthly](../events/monthly.md) - 5 shared documents
-- [June 19, 2008](../events/june-19-2008.md) - 5 shared documents
 - [JUNE 18, 2008](../events/june-18-2008.md) - 5 shared documents
+- [June 19, 2008](../events/june-19-2008.md) - 5 shared documents
 - [June 26, 2008](../events/june-26-2008.md) - 5 shared documents
-- [last year](../events/last-year.md) - 4 shared documents
-- [this week](../events/this-week.md) - 4 shared documents
+- [monthly](../events/monthly.md) - 5 shared documents
+- [October](../events/october.md) - 5 shared documents
+- [2005](../events/2005.md) - 4 shared documents
+- [February](../events/february.md) - 4 shared documents
 
 ## Timeline
 

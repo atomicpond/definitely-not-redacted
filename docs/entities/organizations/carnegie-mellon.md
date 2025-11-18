@@ -27,7 +27,7 @@ Top 6 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 6 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [White House](../people/white-house.md) - 6 shared documents
 - [Goldman Sachs](../people/goldman-sachs.md) - 5 shared documents
 - [San Diego](../people/san-diego.md) - 5 shared documents
@@ -49,21 +49,21 @@ Top 6 documents by mention frequency:
 **Locations:**
 
 - [Germany](../locations/germany.md) - 6 shared documents
-- [the United States](../locations/the-united-states.md) - 6 shared documents
 - [New York City](../locations/new-york-city.md) - 6 shared documents
+- [the United States](../locations/the-united-states.md) - 6 shared documents
 - [Japan](../locations/japan.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
 - [California](../locations/california.md) - 4 shared documents
 - [Iraq](../locations/iraq.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
 - [San Francisco](../locations/san-francisco.md) - 4 shared documents
 
 **Events:**
 
 - [2007](../events/2007.md) - 5 shared documents
 - [2009](../events/2009.md) - 5 shared documents
-- [2014](../events/2014.md) - 5 shared documents
 - [2011](../events/2011.md) - 5 shared documents
 - [2013](../events/2013.md) - 5 shared documents
+- [2014](../events/2014.md) - 5 shared documents
 - [2008](../events/2008.md) - 4 shared documents
 - [weekly](../events/weekly.md) - 4 shared documents
 

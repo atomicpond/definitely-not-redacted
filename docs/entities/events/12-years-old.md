@@ -29,9 +29,7 @@ Top 7 documents by mention frequency:
 **People:**
 
 - [Brad Edwards](../people/brad-edwards.md) - 6 shared documents
-- [Bradley J. Edwards](../people/bradley-j-edwards.md) - 6 shared documents
 - [David Copperfield](../people/david-copperfield.md) - 6 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 5 shared documents
 - [Jane Doe](../people/jane-doe.md) - 5 shared documents
 - [Judge Marra](../people/judge-marra.md) - 5 shared documents
 - [Rights Act](../people/rights-act.md) - 5 shared documents

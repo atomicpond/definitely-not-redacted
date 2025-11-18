@@ -45,13 +45,13 @@ Top 10 documents by mention frequency:
 - [HBO](hbo.md) - 9 shared documents
 - [Disney](disney.md) - 8 shared documents
 - [Paramount](paramount.md) - 8 shared documents
-- [HOUSE](house.md) - 7 shared documents
 - [CBS](cbs.md) - 7 shared documents
 - [Google](google.md) - 7 shared documents
+- [HOUSE](house.md) - 7 shared documents
 - [Sony](sony.md) - 7 shared documents
 - [White House](white-house.md) - 6 shared documents
-- [Fox](fox.md) - 6 shared documents
 - [Academy](academy.md) - 6 shared documents
+- [Fox](fox.md) - 6 shared documents
 
 **Locations:**
 
@@ -59,25 +59,25 @@ Top 10 documents by mention frequency:
 - [Manhattan](../locations/manhattan.md) - 8 shared documents
 - [Paris](../locations/paris.md) - 8 shared documents
 - [America](../locations/america.md) - 7 shared documents
-- [Toronto](../locations/toronto.md) - 7 shared documents
 - [New York City](../locations/new-york-city.md) - 7 shared documents
+- [Toronto](../locations/toronto.md) - 7 shared documents
+- [Beverly Hills](../locations/beverly-hills.md) - 6 shared documents
 - [California](../locations/california.md) - 6 shared documents
+- [Cannes](../locations/cannes.md) - 6 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
-- [Rome](../locations/rome.md) - 6 shared documents
 
 **Events:**
 
-- [Sunday](../events/sunday.md) - 7 shared documents
-- [this year](../events/this-year.md) - 7 shared documents
 - [March](../events/march.md) - 7 shared documents
+- [Sunday](../events/sunday.md) - 7 shared documents
 - [the year](../events/the-year.md) - 7 shared documents
-- [last year](../events/last-year.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
+- [this year](../events/this-year.md) - 7 shared documents
 - [2011](../events/2011.md) - 6 shared documents
-- [the next day](../events/the-next-day.md) - 6 shared documents
 - [Christmas](../events/christmas.md) - 6 shared documents
+- [last year](../events/last-year.md) - 6 shared documents
+- [the next day](../events/the-next-day.md) - 6 shared documents
 - [two days](../events/two-days.md) - 6 shared documents
+- [years](../events/years.md) - 6 shared documents
 
 ## Timeline
 

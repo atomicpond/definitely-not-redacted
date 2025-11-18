@@ -35,8 +35,8 @@ Top 6 documents by mention frequency:
 **Events:**
 
 - [yesterday](../events/yesterday.md) - 6 shared documents
-- [one day](../events/one-day.md) - 4 shared documents
 - [many years](../events/many-years.md) - 4 shared documents
+- [one day](../events/one-day.md) - 4 shared documents
 
 ## Timeline
 

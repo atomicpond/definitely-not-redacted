@@ -35,14 +35,14 @@ Top 6 documents by mention frequency:
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
 - [recent years](../events/recent-years.md) - 5 shared documents
-- [1996](../events/1996.md) - 4 shared documents
-- [1990](../events/1990.md) - 4 shared documents
-- [1998](../events/1998.md) - 4 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [1981](../events/1981.md) - 4 shared documents
 - [1987](../events/1987.md) - 4 shared documents
 - [1989](../events/1989.md) - 4 shared documents
+- [1990](../events/1990.md) - 4 shared documents
+- [1996](../events/1996.md) - 4 shared documents
+- [1998](../events/1998.md) - 4 shared documents
 
 ## Timeline
 

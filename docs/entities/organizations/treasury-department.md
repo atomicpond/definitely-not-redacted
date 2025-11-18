@@ -28,32 +28,32 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [Fed](fed.md) - 4 shared documents
 - [Congress](congress.md) - 4 shared documents
+- [Fed](fed.md) - 4 shared documents
 - [State](state.md) - 4 shared documents
 
 **Locations:**
 
 - [Washington](../locations/washington.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 4 shared documents
 - [Canada](../locations/canada.md) - 4 shared documents
+- [Europe](../locations/europe.md) - 4 shared documents
 - [Iraq](../locations/iraq.md) - 4 shared documents
+- [Israel](../locations/israel.md) - 4 shared documents
+- [Pennsylvania](../locations/pennsylvania.md) - 4 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 4 shared documents
 - [the United States](../locations/the-united-states.md) - 4 shared documents
-- [Pennsylvania](../locations/pennsylvania.md) - 4 shared documents
-- [Israel](../locations/israel.md) - 4 shared documents
-- [Afghanistan](../locations/afghanistan.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 4 shared documents
 
 **Events:**
 
 - [2009](../events/2009.md) - 5 shared documents
 - [2012](../events/2012.md) - 5 shared documents
-- [2018](../events/2018.md) - 4 shared documents
-- [2014](../events/2014.md) - 4 shared documents
-- [1996](../events/1996.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
+- [1983](../events/1983.md) - 4 shared documents
 - [1990](../events/1990.md) - 4 shared documents
+- [1991](../events/1991.md) - 4 shared documents
+- [1995](../events/1995.md) - 4 shared documents
+- [1996](../events/1996.md) - 4 shared documents
 - [2005](../events/2005.md) - 4 shared documents
 - [2006](../events/2006.md) - 4 shared documents
 - [2013](../events/2013.md) - 4 shared documents

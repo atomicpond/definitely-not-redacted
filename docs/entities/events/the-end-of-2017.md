@@ -53,11 +53,11 @@ Top 10 documents by mention frequency:
 
 - [December 2016](december-2016.md) - 6 shared documents
 - [the end of the year](the-end-of-the-year.md) - 5 shared documents
-- [2018](2018.md) - 5 shared documents
 - [2015](2015.md) - 5 shared documents
 - [2016](2016.md) - 5 shared documents
-- [annual](annual.md) - 5 shared documents
 - [2017](2017.md) - 5 shared documents
+- [2018](2018.md) - 5 shared documents
+- [annual](annual.md) - 5 shared documents
 - [many years](many-years.md) - 5 shared documents
 - [the coming months](the-coming-months.md) - 5 shared documents
 - [the end of 2016](the-end-of-2016.md) - 5 shared documents

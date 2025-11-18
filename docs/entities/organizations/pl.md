@@ -43,9 +43,9 @@ Top 9 documents by mention frequency:
 **Organizations:**
 
 - [Fed](fed.md) - 6 shared documents
-- [Merrill Lynch](merrill-lynch.md) - 5 shared documents
 - [Bank of America Merrill Lynch](bank-of-america-merrill-lynch.md) - 5 shared documents
 - [Bloomberg](bloomberg.md) - 5 shared documents
+- [Merrill Lynch](merrill-lynch.md) - 5 shared documents
 - [Pierce, Fenner & Smith Incorporated](pierce-fenner-smith-incorporated.md) - 4 shared documents
 - [PRA](pra.md) - 4 shared documents
 - [Pte Ltd](pte-ltd.md) - 4 shared documents
@@ -56,28 +56,28 @@ Top 9 documents by mention frequency:
 **Locations:**
 
 - [Europe](../locations/europe.md) - 7 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
 - [London](../locations/london.md) - 6 shared documents
+- [Russia](../locations/russia.md) - 6 shared documents
 - [China](../locations/china.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
-- [Mexico](../locations/mexico.md) - 5 shared documents
-- [Israel](../locations/israel.md) - 5 shared documents
 - [India](../locations/india.md) - 5 shared documents
-- [Spain](../locations/spain.md) - 5 shared documents
+- [Israel](../locations/israel.md) - 5 shared documents
+- [Mexico](../locations/mexico.md) - 5 shared documents
 - [South Africa](../locations/south-africa.md) - 5 shared documents
+- [Spain](../locations/spain.md) - 5 shared documents
 
 **Events:**
 
 - [2017](../events/2017.md) - 7 shared documents
 - [2014](../events/2014.md) - 6 shared documents
 - [this year](../events/this-year.md) - 6 shared documents
-- [2018](../events/2018.md) - 5 shared documents
 - [2015](../events/2015.md) - 5 shared documents
-- [next year](../events/next-year.md) - 5 shared documents
-- [monthly](../events/monthly.md) - 5 shared documents
-- [last week](../events/last-week.md) - 5 shared documents
-- [the year](../events/the-year.md) - 5 shared documents
+- [2018](../events/2018.md) - 5 shared documents
+- [5-year](../events/5-year.md) - 5 shared documents
 - [Friday](../events/friday.md) - 5 shared documents
+- [January](../events/january.md) - 5 shared documents
+- [last week](../events/last-week.md) - 5 shared documents
+- [monthly](../events/monthly.md) - 5 shared documents
 
 ## Timeline
 

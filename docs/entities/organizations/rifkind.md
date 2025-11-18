@@ -45,24 +45,24 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 7 shared documents
 - [Americas](../locations/americas.md) - 7 shared documents
+- [New York](../locations/new-york.md) - 7 shared documents
 - [N.Y.](../locations/ny.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
 - [London](../locations/london.md) - 4 shared documents
 
 **Events:**
 
+- [April](../events/april.md) - 5 shared documents
 - [Wednesday](../events/wednesday.md) - 5 shared documents
 - [yesterday](../events/yesterday.md) - 5 shared documents
-- [April](../events/april.md) - 5 shared documents
-- [2018](../events/2018.md) - 4 shared documents
-- [2014](../events/2014.md) - 4 shared documents
-- [six months](../events/six-months.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
 - [2012](../events/2012.md) - 4 shared documents
+- [2013](../events/2013.md) - 4 shared documents
+- [2014](../events/2014.md) - 4 shared documents
+- [2018](../events/2018.md) - 4 shared documents
+- [a year](../events/a-year.md) - 4 shared documents
+- [June](../events/june.md) - 4 shared documents
 - [last year](../events/last-year.md) - 4 shared documents
-- [next year](../events/next-year.md) - 4 shared documents
 
 ## Timeline
 

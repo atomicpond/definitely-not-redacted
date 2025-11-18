@@ -36,38 +36,36 @@ Top 10 documents by mention frequency:
 - [New
 York](new-york.md) - 11 shared documents
 - [BILL](bill.md) - 8 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 8 shared documents
+- [Boris Nikolic](boris-nikolic.md) - 8 shared documents
 - [United 
 States](united-states.md) - 8 shared documents
-- [CLINTON](clinton.md) - 8 shared documents
-- [Boris Nikolic](boris-nikolic.md) - 8 shared documents
-- [Jeffrey](jeffrey.md) - 7 shared documents
-- [Floor New York](floor-new-york.md) - 7 shared documents
-- [Jeffrey 
-Importance:](jeffrey-importance.md) - 7 shared documents
-- [Boris Nikolic 
-Subject](boris-nikolic-subject.md) - 7 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 20 shared documents
 - [Facebook](../organizations/facebook.md) - 8 shared documents
-- [Twitter](../organizations/twitter.md) - 7 shared documents
 - [CNN](../organizations/cnn.md) - 7 shared documents
+- [Jeffrey 
+Importance:](../organizations/jeffrey-importance.md) - 7 shared documents
+- [Lifeball](../organizations/lifeball.md) - 7 shared documents
 - [Mini](../organizations/mini.md) - 7 shared documents
 - [The 
 Foundation](../organizations/the-foundation.md) - 7 shared documents
+- [The Foundation for AIDS Research](../organizations/the-foundation-for-aids-research.md) - 7 shared documents
 
 **Locations:**
 
 - [New York](../locations/new-york.md) - 18 shared documents
 - [France](../locations/france.md) - 11 shared documents
 - [N.Y.](../locations/ny.md) - 11 shared documents
-- [Washington](../locations/washington.md) - 10 shared documents
 - [Austria](../locations/austria.md) - 10 shared documents
 - [Vienna](../locations/vienna.md) - 10 shared documents
+- [Washington](../locations/washington.md) - 10 shared documents
+- [America](../locations/america.md) - 9 shared documents
 - [China](../locations/china.md) - 9 shared documents
 - [Europe](../locations/europe.md) - 9 shared documents
-- [America](../locations/america.md) - 9 shared documents
 - [the United States](../locations/the-united-states.md) - 8 shared documents
 
 **Events:**
@@ -75,10 +73,11 @@ Foundation](../organizations/the-foundation.md) - 7 shared documents
 - [today](../events/today.md) - 13 shared documents
 - [Friday](../events/friday.md) - 11 shared documents
 - [2012](../events/2012.md) - 9 shared documents
-- [this week](../events/this-week.md) - 8 shared documents
 - [afternoon](../events/afternoon.md) - 8 shared documents
 - [Friday night](../events/friday-night.md) - 8 shared documents
+- [this week](../events/this-week.md) - 8 shared documents
 - [5/7/2012](../events/572012.md) - 7 shared documents
+- [May 03, 2012](../events/may-03-2012.md) - 7 shared documents
 - [May 07, 2012](../events/may-07-2012.md) - 7 shared documents
 - [Monday, May 07, 2012](../events/monday-may-07-2012.md) - 7 shared documents
 

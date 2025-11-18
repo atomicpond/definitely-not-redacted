@@ -44,9 +44,9 @@ Top 10 documents by mention frequency:
 - [Bloomberg](bloomberg.md) - 17 shared documents
 - [Merrill Lynch](merrill-lynch.md) - 16 shared documents
 - [Bank](bank.md) - 16 shared documents
-- [Bank of America Merrill Lynch](bank-of-america-merrill-lynch.md) - 15 shared documents
-- [Bank of America](bank-of-america.md) - 15 shared documents
 - [ABN](abn.md) - 15 shared documents
+- [Bank of America](bank-of-america.md) - 15 shared documents
+- [Bank of America Merrill Lynch](bank-of-america-merrill-lynch.md) - 15 shared documents
 - [DFSA](dfsa.md) - 14 shared documents
 - [DIFC](difc.md) - 14 shared documents
 - [Merrill Lynch Global Wealth Management](merrill-lynch-global-wealth-management.md) - 14 shared documents
@@ -56,25 +56,25 @@ Top 10 documents by mention frequency:
 - [Canada](../locations/canada.md) - 21 shared documents
 - [Japan](../locations/japan.md) - 20 shared documents
 - [Spain](../locations/spain.md) - 20 shared documents
-- [Brazil](../locations/brazil.md) - 19 shared documents
 - [Asia](../locations/asia.md) - 19 shared documents
-- [Dubai](../locations/dubai.md) - 18 shared documents
-- [Russia](../locations/russia.md) - 18 shared documents
-- [Mexico](../locations/mexico.md) - 18 shared documents
+- [Brazil](../locations/brazil.md) - 19 shared documents
 - [Australia](../locations/australia.md) - 18 shared documents
+- [Dubai](../locations/dubai.md) - 18 shared documents
+- [Mexico](../locations/mexico.md) - 18 shared documents
+- [Russia](../locations/russia.md) - 18 shared documents
 - [South Africa](../locations/south-africa.md) - 18 shared documents
 
 **Events:**
 
 - [this year](../events/this-year.md) - 18 shared documents
-- [2016](../events/2016.md) - 17 shared documents
 - [2001](../events/2001.md) - 17 shared documents
-- [2017](../events/2017.md) - 15 shared documents
+- [2016](../events/2016.md) - 17 shared documents
 - [12-month](../events/12-month.md) - 15 shared documents
+- [2017](../events/2017.md) - 15 shared documents
+- [1959](../events/1959.md) - 14 shared documents
 - [2015](../events/2015.md) - 14 shared documents
 - [last year](../events/last-year.md) - 14 shared documents
 - [monthly](../events/monthly.md) - 14 shared documents
-- [1959](../events/1959.md) - 14 shared documents
 - [the day](../events/the-day.md) - 14 shared documents
 
 ## Timeline

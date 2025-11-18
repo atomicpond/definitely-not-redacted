@@ -42,15 +42,14 @@ Top 9 documents by mention frequency:
 **Organizations:**
 
 - [FBI](fbi.md) - 9 shared documents
-- [State](state.md) - 7 shared documents
 - [Maxwell](maxwell.md) - 7 shared documents
+- [State](state.md) - 7 shared documents
 - [the Palm Beach Police Department](the-palm-beach-police-department.md) - 6 shared documents
 - [Vanity Fair](vanity-fair.md) - 6 shared documents
 - [Court](court.md) - 6 shared documents
-- [the Department of Justice](the-department-of-justice.md) - 6 shared documents
 - [Office](office.md) - 6 shared documents
+- [the Department of Justice](the-department-of-justice.md) - 6 shared documents
 - [the U.S. District Court](the-us-district-court.md) - 5 shared documents
-- [HOUSE](house.md) - 5 shared documents
 
 **Locations:**
 
@@ -59,24 +58,24 @@ Top 9 documents by mention frequency:
 - [West Palm Beach](../locations/west-palm-beach.md) - 9 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 8 shared documents
 - [New York](../locations/new-york.md) - 7 shared documents
-- [United States](../locations/united-states.md) - 7 shared documents
 - [the Southern District](../locations/the-southern-district.md) - 7 shared documents
+- [United States](../locations/united-states.md) - 7 shared documents
 - [California](../locations/california.md) - 6 shared documents
-- [U.S.](../locations/us.md) - 6 shared documents
-- [the United States](../locations/the-united-states.md) - 6 shared documents
+- [New Mexico](../locations/new-mexico.md) - 6 shared documents
+- [Palm Beach County](../locations/palm-beach-county.md) - 6 shared documents
 
 **Events:**
 
 - [18 months](../events/18-months.md) - 8 shared documents
 - [2004](../events/2004.md) - 7 shared documents
 - [one year](../events/one-year.md) - 7 shared documents
+- [14](../events/14.md) - 6 shared documents
+- [2005](../events/2005.md) - 6 shared documents
 - [2007](../events/2007.md) - 6 shared documents
 - [daily](../events/daily.md) - 6 shared documents
 - [this week](../events/this-week.md) - 6 shared documents
-- [2005](../events/2005.md) - 6 shared documents
-- [14](../events/14.md) - 6 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [months](../events/months.md) - 5 shared documents
+- [12-year-old](../events/12-year-old.md) - 5 shared documents
+- [14-year-old](../events/14-year-old.md) - 5 shared documents
 
 ## Timeline
 

@@ -1,30 +1,39 @@
 # Brad Edwards
 
 **Type:** People  
-**Total Mentions:** 56  
-**Documents:** 55
+**Total Mentions:** 231  
+**Documents:** 102
 
 ## Name Variants
 
+- Edwards
+- BRADLEY EDWARDS
 - Brad 
 Edwards
-- BRAD EDWARDS
 - Brad Edwards
+- Mr. Edwards
+- Bradley 
+Edwards
+- Bradley J. Edwards
+- Mr Bradley Edwards
+- BRAD EDWARDS
+- BRADLEY J. EDWARDS
+- Bradley Edwards
 
 ## Related Documents
 
 Top 10 documents by mention frequency:
 
-- [HOUSE_OVERSIGHT_029859](../../documents/HOUSE_OVERSIGHT_029859.md) - 2 mentions
-- [HOUSE_OVERSIGHT_010566](../../documents/HOUSE_OVERSIGHT_010566.md) - 1 mention
-- [HOUSE_OVERSIGHT_010757](../../documents/HOUSE_OVERSIGHT_010757.md) - 1 mention
-- [HOUSE_OVERSIGHT_011908](../../documents/HOUSE_OVERSIGHT_011908.md) - 1 mention
-- [HOUSE_OVERSIGHT_012103](../../documents/HOUSE_OVERSIGHT_012103.md) - 1 mention
-- [HOUSE_OVERSIGHT_012707](../../documents/HOUSE_OVERSIGHT_012707.md) - 1 mention
-- [HOUSE_OVERSIGHT_013304](../../documents/HOUSE_OVERSIGHT_013304.md) - 1 mention
-- [HOUSE_OVERSIGHT_013405](../../documents/HOUSE_OVERSIGHT_013405.md) - 1 mention
-- [HOUSE_OVERSIGHT_013415](../../documents/HOUSE_OVERSIGHT_013415.md) - 1 mention
-- [HOUSE_OVERSIGHT_013435](../../documents/HOUSE_OVERSIGHT_013435.md) - 1 mention
+- [HOUSE_OVERSIGHT_029315](../../documents/HOUSE_OVERSIGHT_029315.md) - 79 mentions
+- [HOUSE_OVERSIGHT_029859](../../documents/HOUSE_OVERSIGHT_029859.md) - 14 mentions
+- [HOUSE_OVERSIGHT_028536](../../documents/HOUSE_OVERSIGHT_028536.md) - 5 mentions
+- [HOUSE_OVERSIGHT_029238](../../documents/HOUSE_OVERSIGHT_029238.md) - 5 mentions
+- [HOUSE_OVERSIGHT_028921](../../documents/HOUSE_OVERSIGHT_028921.md) - 3 mentions
+- [HOUSE_OVERSIGHT_030829](../../documents/HOUSE_OVERSIGHT_030829.md) - 3 mentions
+- [HOUSE_OVERSIGHT_031384](../../documents/HOUSE_OVERSIGHT_031384.md) - 3 mentions
+- [HOUSE_OVERSIGHT_031388](../../documents/HOUSE_OVERSIGHT_031388.md) - 3 mentions
+- [HOUSE_OVERSIGHT_031392](../../documents/HOUSE_OVERSIGHT_031392.md) - 3 mentions
+- [HOUSE_OVERSIGHT_031399](../../documents/HOUSE_OVERSIGHT_031399.md) - 3 mentions
 
 ## Connections
 
@@ -32,55 +41,51 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Jack Scarola](jack-scarola.md) - 26 shared documents
-- [Jane Doe](jane-doe.md) - 26 shared documents
-- [Paul Cassell](paul-cassell.md) - 23 shared documents
-- [Alfredo Rodriguez](alfredo-rodriguez.md) - 20 shared documents
-- [Epstein](epstein.md) - 19 shared documents
-- [Jeffrey Epstein](jeffrey-epstein.md) - 19 shared documents
-- [New Mexico](new-mexico.md) - 19 shared documents
-- [Mr. Edwards](edwards.md) - 18 shared documents
-- [Vanity Fair](vanity-fair.md) - 18 shared documents
-- [Jack Goldberger](jack-goldberger.md) - 17 shared documents
+- [Paul G. Cassell](paul-g-cassell.md) - 17 shared documents
+- [Rights Act](rights-act.md) - 13 shared documents
+- [Roy Black](roy-black.md) - 12 shared documents
+- [Crime Victims](crime-victims.md) - 11 shared documents
+- [Jack Goldberger](jack-goldberger.md) - 11 shared documents
+- [Judge Marra](judge-marra.md) - 11 shared documents
+- [Paul Cassell](paul-cassell.md) - 11 shared documents
+- [Salt Lake City](salt-lake-city.md) - 11 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 11 shared documents
+- [Gerald Lefcourt](gerald-lefcourt.md) - 10 shared documents
 
 **Organizations:**
 
-- [FBI](../organizations/fbi.md) - 36 shared documents
-- [HOUSE](../organizations/house.md) - 23 shared documents
-- [Maxwell](../organizations/maxwell.md) - 21 shared documents
-- [Harvard](../organizations/harvard.md) - 19 shared documents
-- [the Justice Department](../organizations/the-justice-department.md) - 19 shared documents
-- [Office](../organizations/office.md) - 19 shared documents
-- [Trump](../organizations/trump.md) - 18 shared documents
-- [Ponzi](../organizations/ponzi.md) - 18 shared documents
-- [Scarola](../organizations/scarola.md) - 18 shared documents
-- [Vanity Fair](../organizations/vanity-fair.md) - 18 shared documents
+- [FISTOS & LEHRMAN](../organizations/fistos-lehrman.md) - 16 shared documents
+- [Court](../organizations/court.md) - 15 shared documents
+- [CVRA](../organizations/cvra.md) - 13 shared documents
+- [Suite 2](../organizations/suite-2.md) - 12 shared documents
+- [the Daily News](../organizations/the-daily-news.md) - 11 shared documents
 
 **Locations:**
 
-- [Palm Beach](../locations/palm-beach.md) - 48 shared documents
-- [Florida](../locations/florida.md) - 35 shared documents
-- [New York](../locations/new-york.md) - 27 shared documents
-- [West Palm Beach](../locations/west-palm-beach.md) - 27 shared documents
-- [Palm Beach County](../locations/palm-beach-county.md) - 27 shared documents
-- [Miami](../locations/miami.md) - 25 shared documents
-- [Caribbean](../locations/caribbean.md) - 23 shared documents
-- [Manhattan](../locations/manhattan.md) - 22 shared documents
-- [New Mexico](../locations/new-mexico.md) - 20 shared documents
-- [Fort Lauderdale](../locations/fort-lauderdale.md) - 20 shared documents
+- [United States](../locations/united-states.md) - 21 shared documents
+- [US](../locations/us.md) - 21 shared documents
+- [Palm Beach](../locations/palm-beach.md) - 19 shared documents
+- [U.S.](../locations/us.md) - 19 shared documents
+- [Fort Lauderdale](../locations/fort-lauderdale.md) - 17 shared documents
+- [New York](../locations/new-york.md) - 16 shared documents
+- [Virginia](../locations/virginia.md) - 16 shared documents
+- [Salt Lake City](../locations/salt-lake-city.md) - 15 shared documents
+- [the Southern District](../locations/the-southern-district.md) - 14 shared documents
+- [Weissing](../locations/weissing.md) - 14 shared documents
 
 **Events:**
 
-- [2008](../events/2008.md) - 28 shared documents
-- [daily](../events/daily.md) - 27 shared documents
-- [2009](../events/2009.md) - 25 shared documents
-- [Friday](../events/friday.md) - 21 shared documents
-- [13 months](../events/13-months.md) - 21 shared documents
-- [2002](../events/2002.md) - 21 shared documents
-- [today](../events/today.md) - 20 shared documents
-- [September](../events/september.md) - 20 shared documents
-- [Sunday](../events/sunday.md) - 19 shared documents
-- [2010](../events/2010.md) - 19 shared documents
+- [2008](../events/2008.md) - 16 shared documents
+- [2011](../events/2011.md) - 14 shared documents
+- [2010](../events/2010.md) - 12 shared documents
+- [13 months](../events/13-months.md) - 11 shared documents
+- [1999](../events/1999.md) - 11 shared documents
+- [2007](../events/2007.md) - 11 shared documents
+- [2013](../events/2013.md) - 11 shared documents
+- [many years](../events/many-years.md) - 11 shared documents
+- [1998](../events/1998.md) - 10 shared documents
+- [a week](../events/a-week.md) - 10 shared documents
 
 ## Timeline
 

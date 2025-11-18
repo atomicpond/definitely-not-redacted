@@ -23,10 +23,10 @@ Top 4 documents by mention frequency:
 
 **Locations:**
 
-- [Middle East](../locations/middle-east.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
 - [Iran](../locations/iran.md) - 4 shared documents
 - [Israel](../locations/israel.md) - 4 shared documents
+- [Middle East](../locations/middle-east.md) - 4 shared documents
 - [Oslo](../locations/oslo.md) - 4 shared documents
 
 **Events:**

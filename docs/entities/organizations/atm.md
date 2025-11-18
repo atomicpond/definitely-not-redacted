@@ -54,27 +54,27 @@ Top 10 documents by mention frequency:
 
 - [Europe](../locations/europe.md) - 10 shared documents
 - [London](../locations/london.md) - 10 shared documents
-- [United States](../locations/united-states.md) - 9 shared documents
 - [Brazil](../locations/brazil.md) - 9 shared documents
-- [U.S.](../locations/us.md) - 8 shared documents
-- [Japan](../locations/japan.md) - 8 shared documents
+- [United States](../locations/united-states.md) - 9 shared documents
 - [France](../locations/france.md) - 8 shared documents
-- [the United States](../locations/the-united-states.md) - 8 shared documents
-- [Miami](../locations/miami.md) - 8 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 8 shared documents
+- [Japan](../locations/japan.md) - 8 shared documents
+- [Miami](../locations/miami.md) - 8 shared documents
+- [Spain](../locations/spain.md) - 8 shared documents
+- [the United States](../locations/the-united-states.md) - 8 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 12 shared documents
 - [the day](../events/the-day.md) - 11 shared documents
-- [last week](../events/last-week.md) - 10 shared documents
 - [Friday](../events/friday.md) - 10 shared documents
+- [last week](../events/last-week.md) - 10 shared documents
+- [2001](../events/2001.md) - 8 shared documents
 - [2004](../events/2004.md) - 8 shared documents
+- [2006](../events/2006.md) - 8 shared documents
 - [2007](../events/2007.md) - 8 shared documents
 - [2009](../events/2009.md) - 8 shared documents
-- [Monday](../events/monday.md) - 8 shared documents
-- [monthly](../events/monthly.md) - 8 shared documents
-- [July](../events/july.md) - 8 shared documents
+- [2011](../events/2011.md) - 8 shared documents
 
 ## Timeline
 

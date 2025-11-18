@@ -44,8 +44,8 @@ Top 6 documents by mention frequency:
 
 **Events:**
 
-- [last week](../events/last-week.md) - 4 shared documents
 - [2008](../events/2008.md) - 4 shared documents
+- [last week](../events/last-week.md) - 4 shared documents
 
 ## Timeline
 

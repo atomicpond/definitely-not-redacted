@@ -53,29 +53,29 @@ Top 9 documents by mention frequency:
 
 **Locations:**
 
+- [Coney Island](../locations/coney-island.md) - 9 shared documents
 - [Manhattan](../locations/manhattan.md) - 9 shared documents
-- [Paris](../locations/paris.md) - 9 shared documents
 - [New Mexico](../locations/new-mexico.md) - 9 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 9 shared documents
-- [Coney Island](../locations/coney-island.md) - 9 shared documents
-- [Europe](../locations/europe.md) - 8 shared documents
+- [Paris](../locations/paris.md) - 9 shared documents
 - [Britain](../locations/britain.md) - 8 shared documents
 - [Connecticut](../locations/connecticut.md) - 8 shared documents
+- [Dalton](../locations/dalton.md) - 8 shared documents
+- [Europe](../locations/europe.md) - 8 shared documents
 - [Lafayette](../locations/lafayette.md) - 8 shared documents
-- [the Upper East Side](../locations/the-upper-east-side.md) - 8 shared documents
 
 **Events:**
 
 - [daily](../events/daily.md) - 9 shared documents
 - [last year](../events/last-year.md) - 9 shared documents
-- [the 1980s](../events/the-1980s.md) - 8 shared documents
-- [Sunday](../events/sunday.md) - 8 shared documents
-- [Saturday](../events/saturday.md) - 8 shared documents
-- [2006](../events/2006.md) - 8 shared documents
-- [tomorrow](../events/tomorrow.md) - 8 shared documents
-- [2002](../events/2002.md) - 8 shared documents
-- [two years](../events/two-years.md) - 8 shared documents
+- [1953](../events/1953.md) - 8 shared documents
 - [1976](../events/1976.md) - 8 shared documents
+- [1982](../events/1982.md) - 8 shared documents
+- [2002](../events/2002.md) - 8 shared documents
+- [2006](../events/2006.md) - 8 shared documents
+- [Saturday](../events/saturday.md) - 8 shared documents
+- [Sunday](../events/sunday.md) - 8 shared documents
+- [the 1980s](../events/the-1980s.md) - 8 shared documents
 
 ## Timeline
 

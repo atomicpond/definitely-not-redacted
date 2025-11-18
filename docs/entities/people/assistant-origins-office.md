@@ -34,7 +34,6 @@ Foundation](cosmology-initiative-foundation.md) - 8 shared documents
 - [Krauss 
 Director](krauss-director.md) - 8 shared documents
 - [Lawrence Krauss](lawrence-krauss.md) - 8 shared documents
-- [Lawrence M. Krauss](lawrence-m-krauss.md) - 8 shared documents
 - [Physics Department 
 Arizona](physics-department-arizona.md) - 8 shared documents
 - [Professor 
@@ -43,15 +42,16 @@ School](professor-school.md) - 8 shared documents
 - [Space Exploration](space-exploration.md) - 8 shared documents
 - [State University](state-university.md) - 8 shared documents
 - [Jeffrey E](jeffrey-e.md) - 7 shared documents
+- [noam](noam.md) - 7 shared documents
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 8 shared documents
 - [Arizona State University](../organizations/arizona-state-university.md) - 8 shared documents
-- [The Origins Project](../organizations/the-origins-project.md) - 8 shared documents
 - [ASU](../organizations/asu.md) - 8 shared documents
+- [HOUSE](../organizations/house.md) - 8 shared documents
 - [P.O. Box 871404](../organizations/po-box-871404.md) - 8 shared documents
 - [School of Earth & Space Exploration and Physics Department](../organizations/school-of-earth-space-exploration-and-physics-department.md) - 8 shared documents
+- [The Origins Project](../organizations/the-origins-project.md) - 8 shared documents
 - [Cosmology Initiative 
 Foundation Professor 
 School of Earth & Space Exploration and Physics Department 
@@ -66,8 +66,8 @@ Arizona State University](../organizations/the-origins-project-at-asu-foundation
 
 **Locations:**
 
-- [Tempe](../locations/tempe.md) - 8 shared documents
 - [AZ](../locations/az.md) - 8 shared documents
+- [Tempe](../locations/tempe.md) - 8 shared documents
 - [Tempe, AZ](../locations/tempe-az.md) - 8 shared documents
 - [Australia](../locations/australia.md) - 4 shared documents
 

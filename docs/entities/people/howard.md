@@ -29,50 +29,44 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [CLINTON](clinton.md) - 11 shared documents
-- [Jeffrey Epstein](jeffrey-epstein.md) - 9 shared documents
-- [Mr. Obama](obama.md) - 6 shared documents
-- [President Obama](president-obama.md) - 6 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 11 shared documents
 - [World War](world-war.md) - 6 shared documents
 - [Howard Rubenstein](howard-rubenstein.md) - 5 shared documents
 - [Jane Doe](jane-doe.md) - 5 shared documents
 - [Jeffrey](jeffrey.md) - 5 shared documents
-- [Jeffrey Epstein's](jeffrey-epsteins.md) - 5 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 5 shared documents
 - [John Howard](john-howard.md) - 5 shared documents
+- [Kant](kant.md) - 5 shared documents
+- [Katherine Keating](katherine-keating.md) - 5 shared documents
+- [Keating](keating.md) - 5 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 10 shared documents
-- [Labor](../organizations/labor.md) - 5 shared documents
-- [NATO](../organizations/nato.md) - 5 shared documents
-- [Boeing](../organizations/boeing.md) - 5 shared documents
-- [Maxwell](../organizations/maxwell.md) - 5 shared documents
 
 **Locations:**
 
 - [US](../locations/us.md) - 11 shared documents
 - [Australia](../locations/australia.md) - 10 shared documents
 - [Europe](../locations/europe.md) - 6 shared documents
-- [China](../locations/china.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [Brazil](../locations/brazil.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
 - [Asia](../locations/asia.md) - 5 shared documents
+- [Brazil](../locations/brazil.md) - 5 shared documents
 
 **Events:**
 
 - [years](../events/years.md) - 11 shared documents
+- [15-
+year-old](../events/15-year-old.md) - 5 shared documents
+- [16](../events/16.md) - 5 shared documents
+- [17 years old](../events/17-years-old.md) - 5 shared documents
 - [1990s](../events/1990s.md) - 5 shared documents
-- [Thursday](../events/thursday.md) - 5 shared documents
 - [1996](../events/1996.md) - 5 shared documents
-- [daily](../events/daily.md) - 5 shared documents
-- [Sunday](../events/sunday.md) - 5 shared documents
-- [this week](../events/this-week.md) - 5 shared documents
-- [last week](../events/last-week.md) - 5 shared documents
+- [2002](../events/2002.md) - 5 shared documents
 - [2008](../events/2008.md) - 5 shared documents
-- [Friday](../events/friday.md) - 5 shared documents
+- [2050](../events/2050.md) - 5 shared documents
+- [20th Century](../events/20th-century.md) - 5 shared documents
 
 ## Timeline
 

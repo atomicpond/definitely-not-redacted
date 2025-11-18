@@ -37,29 +37,28 @@ Top 10 documents by mention frequency:
 - [Salt Lake City](salt-lake-city.md) - 5 shared documents
 - [Sixth Amendment](sixth-amendment.md) - 5 shared documents
 - [Vice President](vice-president.md) - 5 shared documents
-- [President Obama](president-obama.md) - 4 shared documents
 - [Rights Act](rights-act.md) - 4 shared documents
+- [Roy Black](roy-black.md) - 4 shared documents
 
 **Organizations:**
 
 - [FBI](../organizations/fbi.md) - 12 shared documents
 - [State](../organizations/state.md) - 11 shared documents
-- [HOUSE](../organizations/house.md) - 10 shared documents
 - [Congress](../organizations/congress.md) - 10 shared documents
+- [HOUSE](../organizations/house.md) - 10 shared documents
 - [Supreme Court](../organizations/supreme-court.md) - 9 shared documents
 - [the Office of Legal Counsel](../organizations/the-office-of-legal-counsel.md) - 9 shared documents
 - [Facebook](../organizations/facebook.md) - 8 shared documents
 - [Court](../organizations/court.md) - 7 shared documents
 - [the Supreme Court](../organizations/the-supreme-court.md) - 7 shared documents
-- [District Court](../organizations/district-court.md) - 6 shared documents
 
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 15 shared documents
 - [New York](../locations/new-york.md) - 13 shared documents
 - [United States](../locations/united-states.md) - 12 shared documents
-- [U.S.](../locations/us.md) - 11 shared documents
 - [Florida](../locations/florida.md) - 11 shared documents
+- [U.S.](../locations/us.md) - 11 shared documents
 - [America](../locations/america.md) - 8 shared documents
 - [the Southern District](../locations/the-southern-district.md) - 8 shared documents
 - [Russia](../locations/russia.md) - 7 shared documents
@@ -73,9 +72,9 @@ Top 10 documents by mention frequency:
 - [1993](../events/1993.md) - 8 shared documents
 - [2001](../events/2001.md) - 8 shared documents
 - [months](../events/months.md) - 8 shared documents
-- [2009](../events/2009.md) - 7 shared documents
-- [2012](../events/2012.md) - 7 shared documents
 - [1997](../events/1997.md) - 7 shared documents
+- [2005](../events/2005.md) - 7 shared documents
+- [2009](../events/2009.md) - 7 shared documents
 
 ## Timeline
 

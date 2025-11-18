@@ -25,35 +25,34 @@ Top 6 documents by mention frequency:
 
 **Organizations:**
 
-- [S&P](../organizations/sp.md) - 5 shared documents
 - [Bloomberg](../organizations/bloomberg.md) - 5 shared documents
 - [Congress](../organizations/congress.md) - 5 shared documents
-- [HOUSE](../organizations/house.md) - 4 shared documents
-- [USD](../organizations/usd.md) - 4 shared documents
-- [ECB](../organizations/ecb.md) - 4 shared documents
+- [S&P](../organizations/sp.md) - 5 shared documents
 
 **Locations:**
 
-- [Japan](../locations/japan.md) - 6 shared documents
-- [Brazil](../locations/brazil.md) - 6 shared documents
-- [Canada](../locations/canada.md) - 6 shared documents
-- [Mexico](../locations/mexico.md) - 6 shared documents
 - [Asia](../locations/asia.md) - 6 shared documents
 - [Australia](../locations/australia.md) - 6 shared documents
+- [Brazil](../locations/brazil.md) - 6 shared documents
+- [Canada](../locations/canada.md) - 6 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 6 shared documents
-- [Singapore](../locations/singapore.md) - 6 shared documents
 - [India](../locations/india.md) - 6 shared documents
-- [Spain](../locations/spain.md) - 6 shared documents
+- [Indonesia](../locations/indonesia.md) - 6 shared documents
+- [Japan](../locations/japan.md) - 6 shared documents
+- [Mexico](../locations/mexico.md) - 6 shared documents
+- [Singapore](../locations/singapore.md) - 6 shared documents
 
 **Events:**
 
 - [10-year](../events/10-year.md) - 6 shared documents
-- [last year](../events/last-year.md) - 5 shared documents
-- [the year](../events/the-year.md) - 5 shared documents
 - [2013](../events/2013.md) - 5 shared documents
 - [5-year](../events/5-year.md) - 5 shared documents
-- [year-end](../events/year-end.md) - 4 shared documents
+- [last year](../events/last-year.md) - 5 shared documents
+- [the year](../events/the-year.md) - 5 shared documents
+- [quarterly](../events/quarterly.md) - 4 shared documents
+- [the end of the year](../events/the-end-of-the-year.md) - 4 shared documents
 - [year](../events/year.md) - 4 shared documents
+- [year-end](../events/year-end.md) - 4 shared documents
 
 ## Timeline
 

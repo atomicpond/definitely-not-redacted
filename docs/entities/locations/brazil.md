@@ -31,7 +31,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 28 shared documents
 - [Central Bank](../people/central-bank.md) - 27 shared documents
 - [Middle East](../people/middle-east.md) - 27 shared documents
 
@@ -43,6 +42,7 @@ Top 10 documents by mention frequency:
 - [Fed](../organizations/fed.md) - 29 shared documents
 - [Treasury](../organizations/treasury.md) - 26 shared documents
 - [Bank](../organizations/bank.md) - 25 shared documents
+- [State](../organizations/state.md) - 24 shared documents
 
 **Locations:**
 
@@ -63,12 +63,12 @@ Top 10 documents by mention frequency:
 - [2001](../events/2001.md) - 37 shared documents
 - [2015](../events/2015.md) - 36 shared documents
 - [this year](../events/this-year.md) - 36 shared documents
-- [annual](../events/annual.md) - 35 shared documents
 - [2000](../events/2000.md) - 35 shared documents
 - [2013](../events/2013.md) - 35 shared documents
+- [annual](../events/annual.md) - 35 shared documents
 - [monthly](../events/monthly.md) - 33 shared documents
 - [years](../events/years.md) - 31 shared documents
-- [2012](../events/2012.md) - 30 shared documents
+- [2008](../events/2008.md) - 30 shared documents
 
 ## Timeline
 

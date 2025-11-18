@@ -28,11 +28,10 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [Mr. Obama](../people/obama.md) - 9 shared documents
 - [Arab Spring](../people/arab-spring.md) - 8 shared documents
 - [Assad](../people/assad.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Middle East](../people/middle-east.md) - 7 shared documents
-- [President Obama](../people/president-obama.md) - 7 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 7 shared documents
 - [United 
 States](../people/united-states.md) - 7 shared documents
@@ -68,11 +67,11 @@ Brotherhood](../people/muslim-brotherhood.md) - 6 shared documents
 - [years](years.md) - 5 shared documents
 - [2008](2008.md) - 5 shared documents
 - [2010](2010.md) - 5 shared documents
-- [2003](2003.md) - 4 shared documents
-- [last week](last-week.md) - 4 shared documents
-- [Friday](friday.md) - 4 shared documents
-- [a few months](a-few-months.md) - 4 shared documents
+- [1979](1979.md) - 4 shared documents
 - [1994](1994.md) - 4 shared documents
+- [2003](2003.md) - 4 shared documents
+- [a decade](a-decade.md) - 4 shared documents
+- [a few months](a-few-months.md) - 4 shared documents
 
 ## Timeline
 

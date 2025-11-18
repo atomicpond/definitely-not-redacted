@@ -30,11 +30,11 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 11 shared documents
-- [President Obama](../people/president-obama.md) - 9 shared documents
+- [Barack Obama](../people/barack-obama.md) - 9 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 9 shared documents
 - [Tel Aviv](../people/tel-aviv.md) - 9 shared documents
-- [Barack Obama](../people/barack-obama.md) - 8 shared documents
 - [West Bank](../people/west-bank.md) - 8 shared documents
+- [Arab League](../people/arab-league.md) - 7 shared documents
 
 **Organizations:**
 
@@ -61,15 +61,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [last week](../events/last-week.md) - 11 shared documents
-- [today](../events/today.md) - 10 shared documents
 - [daily](../events/daily.md) - 10 shared documents
 - [last year](../events/last-year.md) - 10 shared documents
+- [today](../events/today.md) - 10 shared documents
 - [Tuesday](../events/tuesday.md) - 10 shared documents
 - [2002](../events/2002.md) - 9 shared documents
 - [the day](../events/the-day.md) - 9 shared documents
 - [2004](../events/2004.md) - 8 shared documents
-- [this week](../events/this-week.md) - 8 shared documents
 - [Friday](../events/friday.md) - 8 shared documents
+- [the years](../events/the-years.md) - 8 shared documents
 
 ## Timeline
 

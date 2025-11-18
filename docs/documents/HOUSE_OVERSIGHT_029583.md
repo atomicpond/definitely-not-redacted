@@ -14,7 +14,7 @@
 - [On Sat](../entities/people/on-sat.md) - 3 mentions
 - [On Dec](../entities/people/on-dec.md) - 2 mentions
 - [Alan Greenspan](../entities/people/alan-greenspan.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Jared](../entities/people/jared.md) - 1 mention
 - [Steve Bannon 
 Subject](../entities/people/steve-bannon-subject.md) - 1 mention

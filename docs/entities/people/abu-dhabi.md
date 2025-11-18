@@ -42,19 +42,19 @@ Top 10 documents by mention frequency:
 
 - [Abu Dhabi](../locations/abu-dhabi.md) - 8 shared documents
 - [Israel](../locations/israel.md) - 6 shared documents
-- [Dubai](../locations/dubai.md) - 5 shared documents
 - [China](../locations/china.md) - 5 shared documents
-- [UAE](../locations/uae.md) - 4 shared documents
-- [Mexico](../locations/mexico.md) - 4 shared documents
-- [Texas](../locations/texas.md) - 4 shared documents
+- [Dubai](../locations/dubai.md) - 5 shared documents
 - [Bahrain](../locations/bahrain.md) - 4 shared documents
 - [Egypt](../locations/egypt.md) - 4 shared documents
+- [Mexico](../locations/mexico.md) - 4 shared documents
+- [Texas](../locations/texas.md) - 4 shared documents
+- [UAE](../locations/uae.md) - 4 shared documents
 
 **Events:**
 
 - [yesterday](../events/yesterday.md) - 5 shared documents
-- [today](../events/today.md) - 4 shared documents
 - [last year](../events/last-year.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

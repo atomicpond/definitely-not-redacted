@@ -33,7 +33,6 @@ Top 10 documents by mention frequency:
 - [Middle East](../people/middle-east.md) - 31 shared documents
 - [Central Bank](../people/central-bank.md) - 26 shared documents
 - [Asia Pacific](../people/asia-pacific.md) - 23 shared documents
-- [President Obama](../people/president-obama.md) - 23 shared documents
 - [San Francisco](../people/san-francisco.md) - 22 shared documents
 - [White House](../people/white-house.md) - 22 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 21 shared documents

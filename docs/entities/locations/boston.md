@@ -59,10 +59,10 @@ Top 10 documents by mention frequency:
 - [2002](../events/2002.md) - 33 shared documents
 - [2004](../events/2004.md) - 31 shared documents
 - [2007](../events/2007.md) - 31 shared documents
-- [daily](../events/daily.md) - 30 shared documents
+- [2006](../events/2006.md) - 30 shared documents
 - [2008](../events/2008.md) - 30 shared documents
 - [2010](../events/2010.md) - 30 shared documents
-- [2006](../events/2006.md) - 30 shared documents
+- [daily](../events/daily.md) - 30 shared documents
 - [tomorrow](../events/tomorrow.md) - 30 shared documents
 
 ## Timeline

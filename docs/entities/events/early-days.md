@@ -53,8 +53,8 @@ Top 8 documents by mention frequency:
 - [the day](the-day.md) - 5 shared documents
 - [year](year.md) - 5 shared documents
 - [years](years.md) - 5 shared documents
-- [2014](2014.md) - 5 shared documents
 - [2013](2013.md) - 5 shared documents
+- [2014](2014.md) - 5 shared documents
 - [last year](last-year.md) - 4 shared documents
 - [May](may.md) - 4 shared documents
 

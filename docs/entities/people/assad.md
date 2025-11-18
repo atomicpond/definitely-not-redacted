@@ -29,36 +29,37 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Mr. Obama](obama.md) - 21 shared documents
-- [Barack Obama](barack-obama.md) - 14 shared documents
 - [Mr. Mubarak](mubarak.md) - 14 shared documents
 - [Middle East](middle-east.md) - 13 shared documents
 - [Bashar al-Assad](bashar-al-assad.md) - 12 shared documents
 - [United 
 States](united-states.md) - 12 shared documents
-- [President Obama](president-obama.md) - 11 shared documents
+- [Barack Obama](barack-obama.md) - 11 shared documents
 - [Saudi Arabia](saudi-arabia.md) - 11 shared documents
-- [Benjamin Netanyahu](benjamin-netanyahu.md) - 10 shared documents
 - [Hosni Mubarak](hosni-mubarak.md) - 10 shared documents
+- [Bush](bush.md) - 9 shared documents
+- [Tahrir Square](tahrir-square.md) - 9 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 8 shared documents
 
 **Organizations:**
 
 - [Congress](../organizations/congress.md) - 14 shared documents
 - [Hamas](../organizations/hamas.md) - 13 shared documents
 - [UN](../organizations/un.md) - 12 shared documents
-- [State](../organizations/state.md) - 11 shared documents
 - [Islam](../organizations/islam.md) - 11 shared documents
+- [State](../organizations/state.md) - 11 shared documents
 
 **Locations:**
 
 - [Syria](../locations/syria.md) - 22 shared documents
 - [US](../locations/us.md) - 22 shared documents
 - [Iran](../locations/iran.md) - 21 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 19 shared documents
-- [Iraq](../locations/iraq.md) - 19 shared documents
-- [Libya](../locations/libya.md) - 19 shared documents
-- [Israel](../locations/israel.md) - 19 shared documents
 - [Egypt](../locations/egypt.md) - 19 shared documents
+- [Iraq](../locations/iraq.md) - 19 shared documents
+- [Israel](../locations/israel.md) - 19 shared documents
+- [Libya](../locations/libya.md) - 19 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 19 shared documents
 - [the United States](../locations/the-united-states.md) - 18 shared documents
 - [Europe](../locations/europe.md) - 17 shared documents
 
@@ -68,7 +69,7 @@ States](united-states.md) - 12 shared documents
 - [years](../events/years.md) - 13 shared documents
 - [2010](../events/2010.md) - 11 shared documents
 - [decades](../events/decades.md) - 11 shared documents
-- [last year](../events/last-year.md) - 10 shared documents
+- [2006](../events/2006.md) - 10 shared documents
 
 ## Timeline
 

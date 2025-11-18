@@ -28,7 +28,7 @@ Top 7 documents by mention frequency:
 
 - [Barrack Jr](../people/barrack-jr.md) - 4 shared documents
 - [Democracy Dies](../people/democracy-dies.md) - 4 shared documents
-- [Lawrence Summers](../people/lawrence-summers.md) - 4 shared documents
+- [Larry Summers](../people/larry-summers.md) - 4 shared documents
 
 **Organizations:**
 

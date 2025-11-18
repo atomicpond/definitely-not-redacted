@@ -14,7 +14,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 26 mentions
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 26 mentions
 - [Mr. 
 Trump](../entities/people/mr-trump.md) - 4 mentions
 - [Breitbart](../entities/people/breitbart.md) - 2 mentions

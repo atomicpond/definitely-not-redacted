@@ -52,9 +52,9 @@ Top 6 documents by mention frequency:
 - [today](today.md) - 6 shared documents
 - [2007](2007.md) - 6 shared documents
 - [2009](2009.md) - 6 shared documents
-- [2012](2012.md) - 6 shared documents
-- [2011](2011.md) - 6 shared documents
 - [2010](2010.md) - 6 shared documents
+- [2011](2011.md) - 6 shared documents
+- [2012](2012.md) - 6 shared documents
 - [the day](the-day.md) - 5 shared documents
 - [the years](the-years.md) - 5 shared documents
 - [years](years.md) - 5 shared documents

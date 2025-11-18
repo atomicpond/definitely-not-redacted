@@ -38,8 +38,9 @@ Top 10 documents by mention frequency:
 - [Roy Black](../people/roy-black.md) - 7 shared documents
 - [Barry Krischer](../people/barry-krischer.md) - 6 shared documents
 - [Chief Michael Reiter](../people/chief-michael-reiter.md) - 6 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 6 shared documents
 - [Harvard Law School](../people/harvard-law-school.md) - 6 shared documents
-- [Little St](../people/little-st.md) - 6 shared documents
 
 **Organizations:**
 
@@ -61,24 +62,24 @@ Top 10 documents by mention frequency:
 - [Florida](../locations/florida.md) - 11 shared documents
 - [Miami](../locations/miami.md) - 11 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 10 shared documents
-- [Europe](../locations/europe.md) - 9 shared documents
 - [America](../locations/america.md) - 9 shared documents
-- [United States](../locations/united-states.md) - 8 shared documents
-- [the United States](../locations/the-united-states.md) - 8 shared documents
+- [Europe](../locations/europe.md) - 9 shared documents
 - [Caribbean](../locations/caribbean.md) - 8 shared documents
+- [New Mexico](../locations/new-mexico.md) - 8 shared documents
+- [New York City](../locations/new-york-city.md) - 8 shared documents
 
 **Events:**
 
 - [last week](../events/last-week.md) - 13 shared documents
-- [August](../events/august.md) - 10 shared documents
 - [18 months](../events/18-months.md) - 10 shared documents
-- [Wednesday](../events/wednesday.md) - 9 shared documents
+- [August](../events/august.md) - 10 shared documents
+- [1991](../events/1991.md) - 9 shared documents
+- [2006](../events/2006.md) - 9 shared documents
 - [last year](../events/last-year.md) - 9 shared documents
 - [November](../events/november.md) - 9 shared documents
-- [2006](../events/2006.md) - 9 shared documents
 - [one year](../events/one-year.md) - 9 shared documents
 - [the day](../events/the-day.md) - 9 shared documents
-- [1991](../events/1991.md) - 9 shared documents
+- [Wednesday](../events/wednesday.md) - 9 shared documents
 
 ## Timeline
 

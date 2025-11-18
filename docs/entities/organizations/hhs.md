@@ -46,25 +46,25 @@ Top 9 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 5 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 5 shared documents
-- [Florida](../locations/florida.md) - 4 shared documents
-- [Libya](../locations/libya.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 5 shared documents
 - [Brooklyn](../locations/brooklyn.md) - 4 shared documents
-- [New York City](../locations/new-york-city.md) - 4 shared documents
+- [Florida](../locations/florida.md) - 4 shared documents
 - [Israel](../locations/israel.md) - 4 shared documents
+- [Libya](../locations/libya.md) - 4 shared documents
+- [New York City](../locations/new-york-city.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
 
 **Events:**
 
-- [two months](../events/two-months.md) - 5 shared documents
-- [June](../events/june.md) - 5 shared documents
 - [Christmas](../events/christmas.md) - 5 shared documents
+- [June](../events/june.md) - 5 shared documents
 - [the day](../events/the-day.md) - 5 shared documents
+- [two months](../events/two-months.md) - 5 shared documents
 - [two weeks](../events/two-weeks.md) - 5 shared documents
+- [1980](../events/1980.md) - 4 shared documents
 - [1986](../events/1986.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [Wednesday](../events/wednesday.md) - 4 shared documents
+- [1987](../events/1987.md) - 4 shared documents
 - [70](../events/70.md) - 4 shared documents
 - [Monday](../events/monday.md) - 4 shared documents
 

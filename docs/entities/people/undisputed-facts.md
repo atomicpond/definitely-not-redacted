@@ -30,24 +30,24 @@ Top 5 documents by mention frequency:
 **Organizations:**
 
 - [Harvard](../organizations/harvard.md) - 4 shared documents
-- [Ponzi](../organizations/ponzi.md) - 4 shared documents
 - [Office](../organizations/office.md) - 4 shared documents
+- [Ponzi](../organizations/ponzi.md) - 4 shared documents
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 5 shared documents
+- [United States](../locations/united-states.md) - 5 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
-- [U.S.](../locations/us.md) - 4 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 4 shared documents
 - [Fla.](../locations/fla.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
+- [the Southern District](../locations/the-southern-district.md) - 4 shared documents
+- [U.S.](../locations/us.md) - 4 shared documents
 
 **Events:**
 
 - [2008](../events/2008.md) - 5 shared documents
-- [daily](../events/daily.md) - 4 shared documents
 - [2010](../events/2010.md) - 4 shared documents
+- [daily](../events/daily.md) - 4 shared documents
 - [fifteen years](../events/fifteen-years.md) - 4 shared documents
 
 ## Timeline

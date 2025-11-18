@@ -54,28 +54,28 @@ Top 9 documents by mention frequency:
 **Locations:**
 
 - [the United States](the-united-states.md) - 7 shared documents
-- [Germany](germany.md) - 6 shared documents
-- [America](america.md) - 6 shared documents
-- [Iraq](iraq.md) - 6 shared documents
 - [Afghanistan](afghanistan.md) - 6 shared documents
+- [America](america.md) - 6 shared documents
+- [Germany](germany.md) - 6 shared documents
+- [Iraq](iraq.md) - 6 shared documents
 - [San Francisco](san-francisco.md) - 5 shared documents
-- [New York](new-york.md) - 5 shared documents
-- [Los Angeles](los-angeles.md) - 5 shared documents
 - [Japan](japan.md) - 5 shared documents
-- [New York City](new-york-city.md) - 5 shared documents
+- [Los Angeles](los-angeles.md) - 5 shared documents
+- [Maryland](maryland.md) - 5 shared documents
+- [New York](new-york.md) - 5 shared documents
 
 **Events:**
 
 - [2007](../events/2007.md) - 6 shared documents
+- [2008](../events/2008.md) - 6 shared documents
 - [2009](../events/2009.md) - 6 shared documents
 - [2011](../events/2011.md) - 6 shared documents
-- [2008](../events/2008.md) - 6 shared documents
-- [2014](../events/2014.md) - 5 shared documents
-- [2013](../events/2013.md) - 5 shared documents
 - [1980](../events/1980.md) - 5 shared documents
-- [years](../events/years.md) - 4 shared documents
+- [2013](../events/2013.md) - 5 shared documents
+- [2014](../events/2014.md) - 5 shared documents
 - [1998](../events/1998.md) - 4 shared documents
 - [the 1970s](../events/the-1970s.md) - 4 shared documents
+- [weekly](../events/weekly.md) - 4 shared documents
 
 ## Timeline
 

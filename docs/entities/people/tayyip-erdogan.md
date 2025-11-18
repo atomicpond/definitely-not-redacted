@@ -35,8 +35,8 @@ Top 5 documents by mention frequency:
 - [Iraq](../locations/iraq.md) - 5 shared documents
 - [Syria](../locations/syria.md) - 5 shared documents
 - [Turkey](../locations/turkey.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 - [the United States](../locations/the-united-states.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 ## Timeline
 

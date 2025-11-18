@@ -29,19 +29,17 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Mr. 
-Trump](trump.md) - 5 shared documents
 - [Barack Obama](barack-obama.md) - 4 shared documents
 
 **Organizations:**
 
 - [Congress](../organizations/congress.md) - 8 shared documents
 - [HOUSE](../organizations/house.md) - 5 shared documents
-- [the White House](../organizations/the-white-house.md) - 4 shared documents
-- [Facebook](../organizations/facebook.md) - 4 shared documents
 - [CNN](../organizations/cnn.md) - 4 shared documents
+- [Facebook](../organizations/facebook.md) - 4 shared documents
 - [Morgan Stanley](../organizations/morgan-stanley.md) - 4 shared documents
 - [the United Nations](../organizations/the-united-nations.md) - 4 shared documents
+- [the White House](../organizations/the-white-house.md) - 4 shared documents
 
 **Locations:**
 
@@ -51,19 +49,19 @@ Trump](trump.md) - 5 shared documents
 - [China](../locations/china.md) - 6 shared documents
 - [Washington](../locations/washington.md) - 6 shared documents
 - [Japan](../locations/japan.md) - 5 shared documents
-- [Iran](../locations/iran.md) - 4 shared documents
-- [Silicon Valley](../locations/silicon-valley.md) - 4 shared documents
-- [Rome](../locations/rome.md) - 4 shared documents
 - [Britain](../locations/britain.md) - 4 shared documents
+- [Iran](../locations/iran.md) - 4 shared documents
+- [Rome](../locations/rome.md) - 4 shared documents
+- [Silicon Valley](../locations/silicon-valley.md) - 4 shared documents
 
 **Events:**
 
-- [this year](../events/this-year.md) - 5 shared documents
 - [last week](../events/last-week.md) - 5 shared documents
+- [this year](../events/this-year.md) - 5 shared documents
 - [annual](../events/annual.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
 - [Friday](../events/friday.md) - 4 shared documents
+- [Sunday](../events/sunday.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

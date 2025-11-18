@@ -13,7 +13,7 @@
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 2 mentions
 - [Peggy Siegal 
 Subject](../entities/people/peggy-siegal-subject.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [On Sat](../entities/people/on-sat.md) - 1 mention
 - [Jeffrey Epstein 
 Unauthorized](../entities/people/jeffrey-epstein-unauthorized.md) - 1 mention

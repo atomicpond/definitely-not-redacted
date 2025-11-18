@@ -45,26 +45,26 @@ Sir](../people/elena-kagan-sir.md) - 4 shared documents
 - [WGBH](wgbh.md) - 8 shared documents
 - [Harvard](harvard.md) - 8 shared documents
 - [HOUSE](house.md) - 7 shared documents
-- [Harvard University](harvard-university.md) - 4 shared documents
-- [Supreme Court](supreme-court.md) - 4 shared documents
 - [American Literature](american-literature.md) - 4 shared documents
 - [Cabot Professor of American Literature 
 Harvard University](cabot-professor-of-american-literature-harvard-university.md) - 4 shared documents
 - [Harvard Medical School](harvard-medical-school.md) - 4 shared documents
+- [Harvard University](harvard-university.md) - 4 shared documents
+- [Supreme Court](supreme-court.md) - 4 shared documents
 - [Treasury](treasury.md) - 4 shared documents
 
 **Locations:**
 
 - [America](../locations/america.md) - 8 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
 - [Cambridge](../locations/cambridge.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
 
 **Events:**
 
-- [2018](../events/2018.md) - 4 shared documents
-- [last year](../events/last-year.md) - 4 shared documents
 - [2017](../events/2017.md) - 4 shared documents
+- [2018](../events/2018.md) - 4 shared documents
 - [April 2018](../events/april-2018.md) - 4 shared documents
+- [last year](../events/last-year.md) - 4 shared documents
 
 ## Timeline
 

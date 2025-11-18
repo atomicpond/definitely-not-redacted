@@ -12,7 +12,7 @@
 - [Prime Minister](../entities/people/prime-minister.md) - 4 mentions
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 2 mentions
 - [President Obama](../entities/people/president-obama.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Jeffrey Epstein 
 Unauthorized](../entities/people/jeffrey-epstein-unauthorized.md) - 1 mention
 

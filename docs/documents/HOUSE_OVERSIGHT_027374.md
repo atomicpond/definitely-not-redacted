@@ -56,181 +56,372 @@ Sender](../entities/people/yes-sender.md) - 2 mentions
 
 ## Document Text
 
+**Thread-like Conversation View:**
+
 ```
-**Source Entr**: H\Macintosh HD\ root\Users \ j ee\Library\Messages \Archive\2 0 1 8 - 0 8 - 0 6 
-on 2018-08-01 at 09.52.44.ichat 
-Service: iMessage 
-**Start Time**: **08/01/18** 06:52:44 AM (554824364) 
-**End Time**: 08/06/18 06:52:57 PM (555299577) 
-**Last Message** ID: 18493 
-**Chat Room**: 
-Participants: jee, 
-Presentity IDs: e:jeeitunes@gmail.com, 
-Messages - 
-Sender: e:jeeitunes@gmail.com 
-Time: **08/01/18** 06:52:44 AM (554824364) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 39B77186-B7F8-4890-B9FB-987B7D66A580 
-Message: Tommy Robinson. !! good work 
-Sender: 
-Time: **08/01/18** 06:56:46 AM (554824606) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: C8533ED3-DBED-4C76-A3B2-3F04CDB62086 
-Message: **Thanks 
-Sender**: e:jeeitunes@gmail.com 
-Time: **08/01/18** 02:18:53 PM (554851133) 
-Flags: 1150981 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 92EF7FEA-8354-460D-B046-011COCC03984 
-Message: Want to visit **Florida** for **weekend**? . lets talk **today** or **tomorrow** . Lots 
-to catch up on 
-Sender: 
-Time: **08/01/18** 02:19:44 PM (554851184) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 6A2DOFE6-1C4F-4AA2-94BA-AEOD0956A61F 
-Message: Cool 
-**HOUSE** OVERSIGHT 027374 
-Sender: 
-Time: **08/01/18** 02:19:59 PM (554851199) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 5B3D7977-3FBE-4C69-8CAF-DB48759D67BE 
-Message: In **Cambridge** with Errol 
-Sender: e:jeeitunes@gmail.com 
-Time: **08/01/18** 02:21:29 PM (554851289) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 53ECB132-B6AD-4862-A465-CD22896A9A57 
-Message: Great use of time. Can we take out. Fuck you if you want clean water ? 
-ending with a celebration . 
-Sender: 
-Time: **08/01/18** 02:25:11 PM (554851511) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: ODC332EE-E371-42E5-8307-1E323214CCB7 
-Message: Ending with a celebration ???  is not burning everything down a 
-celebration!!!! 
-Sender: e:jeeitunes@gmail.com 
-Time: **08/01/18** 02:25:57 PM (554851557) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 5BFDEB1F-1C08-4E42-970E-A3483CBF4880 
-Message: You sound like **Bush** in Iraq and **CLINTON** in **Libya** 0 
-Sender: 
-Time: **08/01/18** 02:29:27 PM (554851767) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 2729C74C-244C-4C9E-8FF3-FAD11E2401B5 
-Message: LOL 
-Sender: e:jeeitunes@gmail.com 
-**HOUSE** OVERSIGHT 027375 
-Time: **08/01/18** 02:30:22 PM (554851822) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 9DEC43CC-6315-4DB5-BDEF-A99B46084244 
-Message: You guys are the best at it. I am looking to its impact in **Europe** . 
-Again 
-Sender: e:jeeitunes@gmail.com 
-Time: **08/01/18** 02:31:09 PM (554851869) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 3789113F-EB93-4A69-8480-56BC4F1B8A5E 
-Message: Kristalnacht always has the big fire. symbols that cause many not to listen 
-further 
-Sender: e:jeeitunes@gmail.com 
-Time: **08/01/18** 02:33:26 PM (554852006) 
-Flags: 1150981 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 9589F7B0-0C9D-4601-87C7-89664AAEE92E 
-Message: Kristalnacht is NOV 9. 1938. A little close don't you think 
-Sender: 
-Time: **08/01/18** 02:34:07 PM (554852047) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 2694E717-6C09-48A7-A1BE-F338C11C4lEE 
-Message: Opening **night** 
-Sender: e:jeeitunes@gmail.com 
-Time: **08/01/18** 02:34:20 PM (554852060) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 159A140A-FBAF-44DF-85AE-3A44752BD32A 
-Message: Considered the beginning of the holocaust . 
-Sender: e:jeeitunes@gmail.com 
-Time: **08/01/18** 02:34:39 PM (554852079) 
-**HOUSE** OVERSIGHT 027376 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 08DD3F0B-A899-465A-8989-416243F30D89 
-Message: Thats one way to describe it. 
-Sender: e:jeeitunes@gmail.com 
-Time: **08/01/18** 02:35:18 PM (554852118) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: B8B0A26F-ED59-4F45-BDF8-A489D829C367 
-Message: Come join us at Auschwitz , opening **night**. Special 
-Sender: e:jeeitunes@gmail.com 
-Time: **08/01/18** 02:35:47 PM (554852147) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 102C165D-2565-467B-B587-BC918EEB8767 
-Message: Byob 
-Sender: 
-Time: **08/01/18** 02:36:03 PM (554852163) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 76020844-66B2-4C46-8972-8A8E10D85351 
-Message: **Wow 
-Sender**: e:jeeitunes@gmail.com 
-Time: **08/01/18** 02:36:42 PM (554852202) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: B4E2362F-2A65-4EBB-B2A4-B789026503E1 
-Message: mid terms Almost eighty years to the day. 
-Sender: e:jeeitunes@gmail.com 
-Time: **08/01/18** 02:37:43 PM (554852263) 
-Flags: 1085445 
-**Is Read**: No 
-**HOUSE** OVERSIGHT 027377 
-**Is Invitation**: No 
-**GUID**: 5F8E997E-3206-407F-BFE7-00B3F6716B1D 
-Message: Btw , tom and Henry believe that **China** wants to weaponnize and control their 
-consumer base. 
-Sender: 
-Time: **08/01/18** 02:37:46 PM (554852266) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 81F5411C-ODE8-4330-B94E-EF621FE1D574 
-Message: Incredible 
-Sender: 
-Time: **08/01/18** 02:38:14 PM (554852294) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 61114E2F-EE10-4A61-B2F3-2013E8DFAD13 
-Message: Weaponize as in stop buying western goods
+iMessage Conversation
+Thread Participants: jeeitunes@gmail.com and [recipient]
+Date Range: August 1-6, 2018
+Document: HOUSE_OVERSIGHT_027374
+
+═══════════════════════════════════════════════════════════════
+
+WEDNESDAY, AUGUST 1, 2018
+
+[6:52 AM] jeeitunes@gmail.com:
+Tommy Robinson. !! good work
+
+[6:56 AM] Recipient:
+Thanks
+
+[2:18 PM] jeeitunes@gmail.com:
+Want to visit Florida for weekend? . lets talk today or tomorrow . Lots to catch up on
+
+[2:19 PM] Recipient:
+Cool
+
+[2:19 PM] Recipient:
+In cambridge with Errol
+
+[2:21 PM] jeeitunes@gmail.com:
+Great use of time. Can we take out. Fuck you if you want clean water ? ending with a celebration .
+
+[2:25 PM] Recipient:
+Ending with a celebration ??? is not burning everything down a celebration!!!!
+
+[2:25 PM] jeeitunes@gmail.com:
+You sound like bush in Iraq and Clinton in libya 0
+
+[2:29 PM] Recipient:
+LOL
+
+[2:30 PM] jeeitunes@gmail.com:
+You guys are the best at it. I am looking to its impact in Europe . Again
+
+[2:31 PM] jeeitunes@gmail.com:
+Kristalnacht always has the big fire. symbols that cause many not to listen further
+
+[2:33 PM] jeeitunes@gmail.com:
+Kristalnacht is NOV 9. 1938. A little close don't you think
+
+[2:34 PM] Recipient:
+Opening night
+
+[2:34 PM] jeeitunes@gmail.com:
+Considered the beginning of the holocaust .
+
+[2:34 PM] jeeitunes@gmail.com:
+Thats one way to describe it.
+
+[2:35 PM] jeeitunes@gmail.com:
+Come join us at Auschwitz , opening night. Special
+
+[2:35 PM] jeeitunes@gmail.com:
+Byob
+
+[2:36 PM] Recipient:
+Wow
+
+[2:36 PM] jeeitunes@gmail.com:
+mid terms Almost eighty years to the day.
+
+[2:37 PM] jeeitunes@gmail.com:
+Btw , tom and Henry believe that china wants to weaponnize and control their consumer base.
+
+[2:37 PM] Recipient:
+Incredible
+
+[2:38 PM] Recipient:
+Weaponize as in stop buying western goods
+
+[2:40 PM] jeeitunes@gmail.com:
+All consumers digitized . Evaluated , they get points for certain behaviors This is the next ten year plan. They say if you want our 500 million people buying X. We want Y and if xi says no Microsoft products. Its not like Donald asking people not to buy Toyotas. In china. The next day , no Microsoft products sell. . genius
+
+[2:40 PM] Recipient:
+Total control
+
+[2:41 PM] jeeitunes@gmail.com:
+xi has moved the party ABOVE govt. . lots of tentacles. . they used to be side by side.
+
+[2:41 PM] Recipient:
+Total control-- it's what we have going for us
+
+[2:42 PM] Recipient:
+60 million in charge of 1.5 billion
+
+[2:46 PM] jeeitunes@gmail.com:
+Tom was the the top of the news in china. Xi , believes he has a better way to govern that he will be able to convince the world that the democratic US. Model. DOES NOT WORK. So he will offer an alternative system. Putting the belt road , made in china 2025 . And not allowing different views from that of the party . All purchases can be directed monitored and like a video game , the individual gets social reward points. Very clever
+
+[2:48 PM] Recipient:
+Xi said he had a better way to govern ???
+
+[2:48 PM] jeeitunes@gmail.com:
+Yes a new form of govt for the future
+
+[2:50 PM] jeeitunes@gmail.com:
+Feel free to reach out to Tom for a download directly. He likes you .
+
+[2:50 PM] Recipient:
+Thanks
+
+[2:57 PM] jeeitunes@gmail.com:
+Also keep in mind that right after the burning of kristalnacht , Goebels released his move. . it was the eternal jew.. my ex girlfriend used to say she wanted to make a move taking off only the " w" and make it the eternal J E
+
+[3:02 PM] Recipient:
+She meant the 'Internal'
+
+[3:02 PM] jeeitunes@gmail.com:
+Now you're talking DARK
+
+[3:07 PM] Recipient:
+American Dharma baby
+
+─────────────────────────────────────────────────────────────
+
+THURSDAY, AUGUST 2, 2018
+
+[4:00 AM] jeeitunes@gmail.com:
+At least get your blood taken. 15 minutes .
+
+[4:00 AM] jeeitunes@gmail.com:
+Next few months you will need your energy and stamina. No reason not to prepare
+
+[4:24 AM] Recipient:
+I know I have to do this
+
+[4:24 AM] jeeitunes@gmail.com:
+I m encouraging you to get from " knowing " to doing 0
+
+[4:25 AM] Recipient:
+u sound sometimes like my blessed , departed mother
+
+[4:29 AM] jeeitunes@gmail.com:
+Self organizing systems . revolutions. Start with knowing. Discipline separates out the winners from the hopefuls . Seriously , no excuses. You are important in many ways , no more though than to yourself
+
+[4:29 AM] jeeitunes@gmail.com:
+Sorry to be a noodge
+
+[4:32 AM] jeeitunes@gmail.com:
+Especially a psa test
+
+[4:35 AM] Recipient:
+Can I do this tomorrow afternoon ???
+
+[4:36 AM] jeeitunes@gmail.com:
+Time/
+
+[4:37 AM] jeeitunes@gmail.com:
+And so we are clear the reasons are only to catch things early if need be . Often waiting is a good thing as you have more info. . however in biology , you don't want to wait until its now too late to stop
+
+[4:38 AM] Recipient:
+Agree-- although I'm an idiot and superstitious about all this
+
+[4:42 AM] jeeitunes@gmail.com:
+Im aware . And I don't trust any doctors or lawyers. ANY. , however , one of the advantages of the global elite , is that they live longer. No worry , you can be dark and still prefer to live. :)Call Bernie on his cell directly to set .
+
+[4:44 AM] Recipient:
+Thanks
+
+[4:44 AM] Recipient:
+Bernie last name ??
+
+[4:44 AM] jeeitunes@gmail.com:
+Kruger
+
+[4:46 AM] jeeitunes@gmail.com:
+As you might imagine I believe in top- down economics. without you at the top , there is no movement. ZERO !
+
+[5:22 AM] jeeitunes@gmail.com:
+When you say " departed " I think of scorcese not your mother
+
+[5:45 AM] Recipient:
+LOL
+
+[7:30 AM] jeeitunes@gmail.com:
+Alternatively , if you take a trip to palm beach. All bloods etc. can be done my head of Mayo Clinic a good friend. . reminder money medicine law. JEWS only
+
+[7:36 AM] Recipient:
+I've only had Jewish doctors and lawyers since leaving the Navy
+
+[7:40 AM] jeeitunes@gmail.com:
+Bernie not available until Wednesday. Though im sure we can organize to drain you of some of that vampire blood
+
+[7:43 AM] Recipient:
+Not blood ice water -- that boils on contact
+
+[7:46 AM] jeeitunes@gmail.com:
+I didn't know bill burke was circumsised. Though im sure he feels as if he is still undergoing the procedure
+
+[10:37 AM] jeeitunes@gmail.com:
+Do you want to go to the Venice film festival. Should we try for a Europe trip around then?
+
+[12:02 PM] Recipient:
+Yes
+
+[12:57 PM] jeeitunes@gmail.com:
+Cool .
+
+[6:07 PM] jeeitunes@gmail.com:
+Are you around next wed eve or any time thurs . Ny ?
+
+[6:08 PM] Recipient:
+No -- DC
+
+[6:09 PM] jeeitunes@gmail.com:
+K
+
+[6:13 PM] jeeitunes@gmail.com:
+Jared next up to bat
+
+[6:13 PM] Recipient:
+???
+
+[6:14 PM] jeeitunes@gmail.com:
+[blank message]
+
+[6:17 PM] jeeitunes@gmail.com:
+No rush
+
+─────────────────────────────────────────────────────────────
+
+FRIDAY, AUGUST 3, 2018
+
+[4:39 AM] Recipient:
+Give me 2 minutes and will call back
+
+[5:09 AM] jeeitunes@gmail.com:
+?
+
+[5:16 AM] jeeitunes@gmail.com:
+I sent you an interesting email
+
+[5:19 AM] Recipient:
+Who is that from
+
+[5:19 AM] jeeitunes@gmail.com:
+Call when free
+
+[5:20 AM] jeeitunes@gmail.com:
+Unlimited money
+
+[9:00 AM] jeeitunes@gmail.com:
+Its not that I know you better than your ex wives its I know the exact tactics that I use
+
+[9:00 AM] jeeitunes@gmail.com:
+To no avail
+
+[9:42 AM] Recipient:
+we r getting there
+
+[9:43 AM] jeeitunes@gmail.com:
+Xeno's paradox
+
+[1:12 PM] jeeitunes@gmail.com:
+If I throw a ball at the wall, when it has travelled halfway, it still has half the distance to travel. As it continues, the fraction left to travel continues i.e. one quarter to go, one eighth to go, one sixteenth to go, etc. since the denominator of the distance continues to double... I am thinking mathematicaly speaking, the ball never reaches the wall.
+
+─────────────────────────────────────────────────────────────
+
+SATURDAY, AUGUST 4, 2018
+
+[6:10 AM] Recipient:
+Very zen-- what am I missing , I'm just a dumb cracker
+
+[6:11 AM] jeeitunes@gmail.com:
+Its like you going to the doctor. You will agree to go halfway there. Then halfway again. . never actually having to give blood
+
+[6:11 AM] jeeitunes@gmail.com:
+[blank message]
+
+[6:14 AM] Recipient:
+Cracker gets it now
+
+[6:16 AM] jeeitunes@gmail.com:
+If you can come on wed eve or thurs I can ask miro to join and help strategize. . He will run the European security counsel. All fun. I would like he and you to be able to meet leaders. , I bring nothing to the table at this time
+
+[2:03 PM] jeeitunes@gmail.com:
+Any idea of this weeks schedule. ?
+
+[2:06 PM] Recipient:
+Sunday thru Tuesday CT/NYC ; wed for next 10 days DC
+
+[2:08 PM] jeeitunes@gmail.com:
+Is your plan to return tues eve to dc . Or wed morn?
+
+[2:09 PM] Recipient:
+Thinking late Tuesday night ; what's up???
+
+[2:13 PM] jeeitunes@gmail.com:
+Trying to find time for a f2f to make Europe productive . Im in Caribbean currently , I was planning to come to New York wed. Afternoon, but if you think useful I could try to come late tues
+
+[2:20 PM] Recipient:
+Would love to grab breakfast with u on Wednesday but don't want to have u change your sked
+
+[2:21 PM] jeeitunes@gmail.com:
+Will play it be ear, no worry ,
+
+[2:23 PM] Recipient:
+Cool
+
+─────────────────────────────────────────────────────────────
+
+SUNDAY, AUGUST 5, 2018
+
+[3:37 AM] jeeitunes@gmail.com:
+https://www.politico.com/story/2018/08/04/campaigns-dark-money-groups-donors-anonymous-ruling-762440
+
+[3:37 AM] jeeitunes@gmail.com:
+Ill see you for breakfast wednesday
+
+[4:44 AM] Recipient:
+7 am?
+
+[4:45 AM] jeeitunes@gmail.com:
+yes. Ive ordered extra cheese for your omelet
+
+[4:48 AM] Recipient:
+Why I'm so out of shape
+
+[7:22 AM] jeeitunes@gmail.com:
+I think you should meet brad Karp. Head of the law firm of Paul Weiss. Serious guys.
+
+[8:09 AM] jeeitunes@gmail.com:
+Steve Bannon's Big Plan For Europe Has Some Big Flaws. By Akbar Shahid Ahmed. Can this really be his name? Sounds like an snl skit
+
+[8:38 AM] Recipient:
+Very gay Pakistani
+
+─────────────────────────────────────────────────────────────
+
+MONDAY, AUGUST 6, 2018
+
+[8:16 AM] jeeitunes@gmail.com:
+Im flying in tonight instead. Breakfast tomorrow? We can also do Wednesday
+
+[8:19 AM] Recipient:
+Let me work It
+
+[8:19 AM] jeeitunes@gmail.com:
+K
+
+[8:20 AM] Recipient:
+pencil in tomorrow @ 7
+
+[8:20 AM] jeeitunes@gmail.com:
+K
+
+[6:47 PM] jeeitunes@gmail.com:
+7 am?
+
+[6:50 PM] Recipient:
+Yes
+
+[6:52 PM] jeeitunes@gmail.com:
+Great
+
+═══════════════════════════════════════════════════════════════
+
+End of Conversation
+
 ```
 
 *[Text truncated to 5000 characters]*

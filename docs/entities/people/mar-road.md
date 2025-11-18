@@ -24,8 +24,8 @@ Top 5 documents by mention frequency:
 
 **People:**
 
-- [Deepak Chopra](deepak-chopra.md) - 5 shared documents
 - [Costa Del](costa-del.md) - 5 shared documents
+- [Deepak Chopra](deepak-chopra.md) - 5 shared documents
 
 **Locations:**
 

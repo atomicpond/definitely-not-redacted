@@ -45,8 +45,8 @@ Top 10 documents by mention frequency:
 - [the European Parliament](the-european-parliament.md) - 12 shared documents
 - [Trump](trump.md) - 12 shared documents
 - [Twitter](twitter.md) - 12 shared documents
-- [HOUSE](house.md) - 12 shared documents
 - [Facebook](facebook.md) - 12 shared documents
+- [HOUSE](house.md) - 12 shared documents
 - [Movement](movement.md) - 11 shared documents
 - [Movimento](movimento.md) - 11 shared documents
 - [Open Society](open-society.md) - 11 shared documents
@@ -56,12 +56,12 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [USA](../locations/usa.md) - 12 shared documents
-- [Europe](../locations/europe.md) - 12 shared documents
-- [London](../locations/london.md) - 12 shared documents
 - [Brussels](../locations/brussels.md) - 12 shared documents
 - [East](../locations/east.md) - 12 shared documents
+- [Europe](../locations/europe.md) - 12 shared documents
 - [Italy](../locations/italy.md) - 12 shared documents
+- [London](../locations/london.md) - 12 shared documents
+- [USA](../locations/usa.md) - 12 shared documents
 - [Cambridge](../locations/cambridge.md) - 11 shared documents
 - [Charlottesville](../locations/charlottesville.md) - 11 shared documents
 - [Lost Paradise](../locations/lost-paradise.md) - 11 shared documents
@@ -71,8 +71,8 @@ Top 10 documents by mention frequency:
 
 - [2016](../events/2016.md) - 12 shared documents
 - [Friday](../events/friday.md) - 12 shared documents
-- [2014](../events/2014.md) - 11 shared documents
 - [1984](../events/1984.md) - 11 shared documents
+- [2014](../events/2014.md) - 11 shared documents
 - [2018-07-22](../events/2018-07-22.md) - 11 shared documents
 - [2019](../events/2019.md) - 11 shared documents
 - [65](../events/65.md) - 11 shared documents

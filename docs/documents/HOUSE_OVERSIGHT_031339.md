@@ -9,7 +9,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Obama](../entities/people/mr-obama.md) - 3 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 3 mentions
 - [Bill 
 Clinton](../entities/people/bill-clinton.md) - 3 mentions
 - [DAVID SCHOEN](../entities/people/david-schoen.md) - 2 mentions

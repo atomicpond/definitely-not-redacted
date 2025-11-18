@@ -29,17 +29,17 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Russia](../locations/russia.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
+- [Russia](../locations/russia.md) - 5 shared documents
 - [Asia](../locations/asia.md) - 4 shared documents
 - [Aspen](../locations/aspen.md) - 4 shared documents
 - [Latin America](../locations/latin-america.md) - 4 shared documents
 
 **Events:**
 
+- [the next few years](../events/the-next-few-years.md) - 4 shared documents
 - [this year](../events/this-year.md) - 4 shared documents
 - [tomorrow](../events/tomorrow.md) - 4 shared documents
-- [the next few years](../events/the-next-few-years.md) - 4 shared documents
 
 ## Timeline
 

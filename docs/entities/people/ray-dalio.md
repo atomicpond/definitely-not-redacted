@@ -32,13 +32,13 @@ Top 10 documents by mention frequency:
 - [Harvard University](harvard-university.md) - 9 shared documents
 - [Harvard Museum](harvard-museum.md) - 8 shared documents
 - [Barker Center](barker-center.md) - 7 shared documents
-- [Lisa New](lisa-new.md) - 6 shared documents
 - [College Board](college-board.md) - 6 shared documents
 - [David Coleman](david-coleman.md) - 6 shared documents
+- [Lisa New](lisa-new.md) - 6 shared documents
 - [Robert Frost](robert-frost.md) - 5 shared documents
 - [Vice President Al](vice-president-al.md) - 5 shared documents
 - [Walt Mossberg](walt-mossberg.md) - 5 shared documents
-- [Cape Cod](cape-cod.md) - 5 shared documents
+- [Amherst Massachusetts](amherst-massachusetts.md) - 5 shared documents
 
 **Organizations:**
 
@@ -47,8 +47,8 @@ Top 10 documents by mention frequency:
 - [American Literature](../organizations/american-literature.md) - 7 shared documents
 - [Cabot Professor of American Literature 
 Harvard University](../organizations/cabot-professor-of-american-literature-harvard-university.md) - 6 shared documents
-- [WGBH](../organizations/wgbh.md) - 6 shared documents
 - [the College Board](../organizations/the-college-board.md) - 6 shared documents
+- [WGBH](../organizations/wgbh.md) - 6 shared documents
 - [Fogg Museum](../organizations/fogg-museum.md) - 5 shared documents
 - [Houghton Rare Book Library](../organizations/houghton-rare-book-library.md) - 5 shared documents
 - [the Common Core Standards](../organizations/the-common-core-standards.md) - 5 shared documents
@@ -59,12 +59,13 @@ Harvard University](../organizations/cabot-professor-of-american-literature-harv
 - [Cambridge](../locations/cambridge.md) - 8 shared documents
 - [Boston](../locations/boston.md) - 6 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [Amherst](../locations/amherst.md) - 5 shared documents
 - [Massachusetts](../locations/massachusetts.md) - 5 shared documents
 - [Nantucket](../locations/nantucket.md) - 5 shared documents
-- [Amherst](../locations/amherst.md) - 5 shared documents
 - [Vermont](../locations/vermont.md) - 5 shared documents
+- [Aspen](../locations/aspen.md) - 4 shared documents
 - [California](../locations/california.md) - 4 shared documents
-- [London](../locations/london.md) - 4 shared documents
+- [Connecticut](../locations/connecticut.md) - 4 shared documents
 
 ## Timeline
 

@@ -24,10 +24,6 @@ Top 7 documents by mention frequency:
 
 ### Most Frequently Co-occurring Entities
 
-**People:**
-
-- [Barack Obama](../people/barack-obama.md) - 7 shared documents
-
 **Organizations:**
 
 - [CIA](../organizations/cia.md) - 6 shared documents
@@ -52,8 +48,8 @@ Top 7 documents by mention frequency:
 **Events:**
 
 - [years](years.md) - 7 shared documents
-- [2007](2007.md) - 7 shared documents
 - [1994](1994.md) - 7 shared documents
+- [2007](2007.md) - 7 shared documents
 - [six months](six-months.md) - 6 shared documents
 - [the day](the-day.md) - 6 shared documents
 - [the years](the-years.md) - 6 shared documents

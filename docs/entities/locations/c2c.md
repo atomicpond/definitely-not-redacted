@@ -61,9 +61,9 @@ Trump](../people/donald-trump.md) - 7 shared documents
 
 **Events:**
 
-- [two years](../events/two-years.md) - 7 shared documents
 - [11/2/2012](../events/1122012.md) - 7 shared documents
 - [40 years of age](../events/40-years-of-age.md) - 7 shared documents
+- [two years](../events/two-years.md) - 7 shared documents
 - [Jan 12, 2012](../events/jan-12-2012.md) - 6 shared documents
 
 ## Timeline

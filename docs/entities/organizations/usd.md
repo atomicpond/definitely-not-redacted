@@ -43,28 +43,28 @@ Top 10 documents by mention frequency:
 **Organizations:**
 
 - [JPY](jpy.md) - 14 shared documents
-- [Congress](congress.md) - 13 shared documents
 - [ABN](abn.md) - 13 shared documents
+- [Congress](congress.md) - 13 shared documents
 - [Bloomberg](bloomberg.md) - 12 shared documents
-- [HOUSE](house.md) - 11 shared documents
-- [Merrill Lynch](merrill-lynch.md) - 11 shared documents
-- [Pierce, Fenner & Smith Incorporated](pierce-fenner-smith-incorporated.md) - 11 shared documents
-- [Bank of America Merrill Lynch](bank-of-america-merrill-lynch.md) - 11 shared documents
 - [Bank](bank.md) - 11 shared documents
+- [Bank of America Merrill Lynch](bank-of-america-merrill-lynch.md) - 11 shared documents
 - [DFSA](dfsa.md) - 11 shared documents
+- [HOUSE](house.md) - 11 shared documents
+- [MAS](mas.md) - 11 shared documents
+- [Merrill Lynch](merrill-lynch.md) - 11 shared documents
 
 **Locations:**
 
 - [Russia](../locations/russia.md) - 17 shared documents
 - [Asia](../locations/asia.md) - 16 shared documents
 - [Japan](../locations/japan.md) - 15 shared documents
-- [USD](../locations/usd.md) - 14 shared documents
 - [Brazil](../locations/brazil.md) - 14 shared documents
 - [Canada](../locations/canada.md) - 14 shared documents
 - [Mexico](../locations/mexico.md) - 14 shared documents
+- [USD](../locations/usd.md) - 14 shared documents
+- [Australia](../locations/australia.md) - 13 shared documents
 - [Europe](../locations/europe.md) - 13 shared documents
 - [Germany](../locations/germany.md) - 13 shared documents
-- [Australia](../locations/australia.md) - 13 shared documents
 
 **Events:**
 

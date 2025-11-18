@@ -58,9 +58,9 @@ Top 8 documents by mention frequency:
 - [recent weeks](recent-weeks.md) - 6 shared documents
 - [December](december.md) - 5 shared documents
 - [last week’s](last-weeks.md) - 5 shared documents
-- [2018](2018.md) - 4 shared documents
 - [2000](2000.md) - 4 shared documents
-- [last year](last-year.md) - 4 shared documents
+- [2001](2001.md) - 4 shared documents
+- [2018](2018.md) - 4 shared documents
 
 ## Timeline
 

@@ -44,7 +44,6 @@ Keynes](../people/john-maynard-keynes.md) - 5 shared documents
 **Organizations:**
 
 - [Time](time.md) - 7 shared documents
-- [Harvard](harvard.md) - 7 shared documents
 - [Stanford University](stanford-university.md) - 5 shared documents
 - [Twitter](twitter.md) - 5 shared documents
 - [University Press](university-press.md) - 5 shared documents
@@ -59,9 +58,9 @@ Keynes](../people/john-maynard-keynes.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 10 shared documents
 - [London](../locations/london.md) - 10 shared documents
 - [Germany](../locations/germany.md) - 9 shared documents
-- [the United States](../locations/the-united-states.md) - 9 shared documents
-- [Paris](../locations/paris.md) - 9 shared documents
 - [India](../locations/india.md) - 9 shared documents
+- [Paris](../locations/paris.md) - 9 shared documents
+- [the United States](../locations/the-united-states.md) - 9 shared documents
 - [California](../locations/california.md) - 8 shared documents
 - [China](../locations/china.md) - 8 shared documents
 - [Japan](../locations/japan.md) - 8 shared documents
@@ -70,15 +69,15 @@ Keynes](../people/john-maynard-keynes.md) - 5 shared documents
 **Events:**
 
 - [2009](../events/2009.md) - 10 shared documents
-- [today](../events/today.md) - 9 shared documents
 - [2010](../events/2010.md) - 9 shared documents
-- [daily](../events/daily.md) - 8 shared documents
-- [years](../events/years.md) - 8 shared documents
+- [today](../events/today.md) - 9 shared documents
+- [1967](../events/1967.md) - 8 shared documents
+- [1989](../events/1989.md) - 8 shared documents
 - [1990](../events/1990.md) - 8 shared documents
 - [1993](../events/1993.md) - 8 shared documents
-- [2008](../events/2008.md) - 8 shared documents
-- [the years](../events/the-years.md) - 8 shared documents
 - [2002](../events/2002.md) - 8 shared documents
+- [2008](../events/2008.md) - 8 shared documents
+- [2013](../events/2013.md) - 8 shared documents
 
 ## Timeline
 

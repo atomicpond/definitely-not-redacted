@@ -29,14 +29,15 @@ Top 6 documents by mention frequency:
 - [Julie Taymor](julie-taymor.md) - 6 shared documents
 - [Ken Starr](ken-starr.md) - 6 shared documents
 - [Mick Jagger](mick-jagger.md) - 6 shared documents
-- [CLINTON](clinton.md) - 6 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 6 shared documents
 - [Boris Nikolic](boris-nikolic.md) - 6 shared documents
 - [„ sultan](sultan.md) - 5 shared documents
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 6 shared documents
 - [AT&T](../organizations/att.md) - 6 shared documents
+- [HOUSE](../organizations/house.md) - 6 shared documents
 - [Samsung](../organizations/samsung.md) - 6 shared documents
 - [Windows Mobile](../organizations/windows-mobile.md) - 6 shared documents
 

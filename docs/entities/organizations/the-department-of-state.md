@@ -40,34 +40,27 @@ Top 8 documents by mention frequency:
 - [the State Department](the-state-department.md) - 6 shared documents
 - [FBI](fbi.md) - 6 shared documents
 - [the White House](the-white-house.md) - 5 shared documents
-- [HOUSE](house.md) - 5 shared documents
-- [Fed](fed.md) - 5 shared documents
 
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 8 shared documents
-- [United States](../locations/united-states.md) - 7 shared documents
 - [Europe](../locations/europe.md) - 7 shared documents
+- [United States](../locations/united-states.md) - 7 shared documents
 - [Washington](../locations/washington.md) - 7 shared documents
 - [D.C.](../locations/dc.md) - 6 shared documents
-- [California](../locations/california.md) - 5 shared documents
-- [USA](../locations/usa.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [London](../locations/london.md) - 5 shared documents
-- [America](../locations/america.md) - 5 shared documents
 
 **Events:**
 
 - [2004](../events/2004.md) - 8 shared documents
-- [2011](../events/2011.md) - 7 shared documents
 - [1990](../events/1990.md) - 7 shared documents
 - [1998](../events/1998.md) - 7 shared documents
 - [2005](../events/2005.md) - 7 shared documents
 - [2008](../events/2008.md) - 7 shared documents
-- [2007](../events/2007.md) - 6 shared documents
-- [annual](../events/annual.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [2012](../events/2012.md) - 6 shared documents
+- [2011](../events/2011.md) - 7 shared documents
+- [1992](../events/1992.md) - 6 shared documents
+- [1994](../events/1994.md) - 6 shared documents
+- [1999](../events/1999.md) - 6 shared documents
+- [2001](../events/2001.md) - 6 shared documents
 
 ## Timeline
 

@@ -30,22 +30,22 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
-- [China](../locations/china.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
+- [China](../locations/china.md) - 4 shared documents
 - [Paris](../locations/paris.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
 
 **Events:**
 
+- [months](../events/months.md) - 5 shared documents
 - [this year](../events/this-year.md) - 5 shared documents
 - [years](../events/years.md) - 5 shared documents
-- [months](../events/months.md) - 5 shared documents
-- [October](../events/october.md) - 4 shared documents
 - [2009](../events/2009.md) - 4 shared documents
+- [2010](../events/2010.md) - 4 shared documents
 - [annual](../events/annual.md) - 4 shared documents
+- [October](../events/october.md) - 4 shared documents
 - [Sunday](../events/sunday.md) - 4 shared documents
 - [the week](../events/the-week.md) - 4 shared documents
-- [2010](../events/2010.md) - 4 shared documents
 - [yesterday](../events/yesterday.md) - 4 shared documents
 
 ## Timeline

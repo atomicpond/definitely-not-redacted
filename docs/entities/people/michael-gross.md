@@ -29,13 +29,12 @@ Top 6 documents by mention frequency:
 **People:**
 
 - [Robert Maxwell](robert-maxwell.md) - 6 shared documents
-- [Jack Goldberger](jack-goldberger.md) - 6 shared documents
 - [El Brillo Way](el-brillo-way.md) - 6 shared documents
+- [Jack Goldberger](jack-goldberger.md) - 6 shared documents
 - [Jean Luc Brunel](jean-luc-brunel.md) - 6 shared documents
 - [Roy Black](roy-black.md) - 5 shared documents
 - [Sarah Kellen](sarah-kellen.md) - 5 shared documents
 - [Alfredo Rodriguez](alfredo-rodriguez.md) - 5 shared documents
-- [District Court](district-court.md) - 4 shared documents
 
 **Organizations:**
 
@@ -44,33 +43,32 @@ Top 6 documents by mention frequency:
 - [FBI](../organizations/fbi.md) - 5 shared documents
 - [the Justice Department](../organizations/the-justice-department.md) - 5 shared documents
 - [Treasury](../organizations/treasury.md) - 5 shared documents
-- [CBS](../organizations/cbs.md) - 4 shared documents
 
 **Locations:**
 
+- [Brunel](../locations/brunel.md) - 6 shared documents
 - [Europe](../locations/europe.md) - 6 shared documents
 - [Florida](../locations/florida.md) - 6 shared documents
 - [France](../locations/france.md) - 6 shared documents
-- [South America](../locations/south-america.md) - 6 shared documents
-- [New York City](../locations/new-york-city.md) - 6 shared documents
-- [Paris](../locations/paris.md) - 6 shared documents
 - [New Mexico](../locations/new-mexico.md) - 6 shared documents
+- [New York City](../locations/new-york-city.md) - 6 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 6 shared documents
+- [Paris](../locations/paris.md) - 6 shared documents
+- [South America](../locations/south-america.md) - 6 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 6 shared documents
-- [Brunel](../locations/brunel.md) - 6 shared documents
 
 **Events:**
 
-- [daily](../events/daily.md) - 6 shared documents
 - [2005](../events/2005.md) - 6 shared documents
-- [every day](../events/every-day.md) - 6 shared documents
+- [daily](../events/daily.md) - 6 shared documents
 - [each day](../events/each-day.md) - 6 shared documents
+- [every day](../events/every-day.md) - 6 shared documents
 - [18 months](../events/18-months.md) - 5 shared documents
 - [the day](../events/the-day.md) - 5 shared documents
 - [this month](../events/this-month.md) - 5 shared documents
-- [2004](../events/2004.md) - 4 shared documents
-- [2007](../events/2007.md) - 4 shared documents
-- [2009](../events/2009.md) - 4 shared documents
+- [12-year-old](../events/12-year-old.md) - 4 shared documents
+- [13 months](../events/13-months.md) - 4 shared documents
+- [20 years](../events/20-years.md) - 4 shared documents
 
 ## Timeline
 

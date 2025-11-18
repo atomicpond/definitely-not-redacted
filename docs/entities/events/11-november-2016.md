@@ -30,10 +30,11 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jeffrey E](../people/jeffrey-e.md) - 9 shared documents
-- [hillary](../people/hillary.md) - 8 shared documents
+- [Hillary Clinton](../people/hillary-clinton.md) - 8 shared documents
 - [jeffrey E. <](../people/jeffrey-e.md) - 8 shared documents
-- [DONALD](../people/donald.md) - 6 shared documents
-- [larry](../people/larry.md) - 6 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 6 shared documents
+- [Lawrence Krauss](../people/lawrence-krauss.md) - 6 shared documents
 - [sun pritzker](../people/sun-pritzker.md) - 6 shared documents
 
 **Organizations:**

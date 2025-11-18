@@ -49,16 +49,16 @@ Top 8 documents by mention frequency:
 
 **Events:**
 
-- [2011](2011.md) - 7 shared documents
 - [2005](2005.md) - 7 shared documents
+- [2011](2011.md) - 7 shared documents
 - [Monday](monday.md) - 6 shared documents
 - [the next day](the-next-day.md) - 6 shared documents
-- [November](november.md) - 5 shared documents
 - [five years](five-years.md) - 5 shared documents
 - [nine months](nine-months.md) - 5 shared documents
-- [daily](daily.md) - 4 shared documents
-- [four years](four-years.md) - 4 shared documents
+- [November](november.md) - 5 shared documents
+- [2006](2006.md) - 4 shared documents
 - [2010](2010.md) - 4 shared documents
+- [a year](a-year.md) - 4 shared documents
 
 ## Timeline
 

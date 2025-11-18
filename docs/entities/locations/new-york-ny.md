@@ -36,7 +36,7 @@ Top 10 documents by mention frequency:
 - [White House](../people/white-house.md) - 12 shared documents
 - [Merrill Lynch](../people/merrill-lynch.md) - 11 shared documents
 - [America Merrill Lynch](../people/america-merrill-lynch.md) - 10 shared documents
-- [Bryant Park](../people/bryant-park.md) - 9 shared documents
+- [Barack Obama](../people/barack-obama.md) - 9 shared documents
 
 **Organizations:**
 
@@ -62,7 +62,7 @@ Top 10 documents by mention frequency:
 - [Washington](washington.md) - 16 shared documents
 - [California](california.md) - 16 shared documents
 - [China](china.md) - 16 shared documents
-- [Japan](japan.md) - 15 shared documents
+- [America](america.md) - 15 shared documents
 
 **Events:**
 

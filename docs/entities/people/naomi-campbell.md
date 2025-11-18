@@ -46,7 +46,6 @@ Top 10 documents by mention frequency:
 
 - [Maxwell](../organizations/maxwell.md) - 8 shared documents
 - [Harvard University](../organizations/harvard-university.md) - 6 shared documents
-- [FBI](../organizations/fbi.md) - 5 shared documents
 
 **Locations:**
 
@@ -57,22 +56,22 @@ Top 10 documents by mention frequency:
 - [Paris](../locations/paris.md) - 8 shared documents
 - [New Mexico](../locations/new-mexico.md) - 7 shared documents
 - [Thailand](../locations/thailand.md) - 7 shared documents
-- [California](../locations/california.md) - 6 shared documents
 - [Africa](../locations/africa.md) - 6 shared documents
-- [London](../locations/london.md) - 6 shared documents
+- [California](../locations/california.md) - 6 shared documents
+- [England](../locations/england.md) - 6 shared documents
 
 **Events:**
 
+- [13 months](../events/13-months.md) - 7 shared documents
+- [1998](../events/1998.md) - 7 shared documents
 - [2009](../events/2009.md) - 7 shared documents
 - [daily](../events/daily.md) - 7 shared documents
-- [1998](../events/1998.md) - 7 shared documents
-- [13 months](../events/13-months.md) - 7 shared documents
-- [2007](../events/2007.md) - 6 shared documents
-- [last week](../events/last-week.md) - 6 shared documents
-- [2008](../events/2008.md) - 6 shared documents
 - [18 months](../events/18-months.md) - 6 shared documents
+- [2007](../events/2007.md) - 6 shared documents
+- [2008](../events/2008.md) - 6 shared documents
+- [last week](../events/last-week.md) - 6 shared documents
+- [2002](../events/2002.md) - 5 shared documents
 - [2004](../events/2004.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
 
 ## Timeline
 

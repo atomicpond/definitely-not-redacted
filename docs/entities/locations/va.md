@@ -59,26 +59,26 @@ Beach Atlantic University](../organizations/palm-beach-atlantic-university.md) -
 - [West Palm Beach](west-palm-beach.md) - 10 shared documents
 - [Florida](florida.md) - 10 shared documents
 - [the United States](the-united-states.md) - 10 shared documents
-- [United States](united-states.md) - 8 shared documents
 - [Miami](miami.md) - 8 shared documents
 - [Palm Beach](palm-beach.md) - 8 shared documents
 - [Palm Beach County](palm-beach-county.md) - 8 shared documents
+- [United States](united-states.md) - 8 shared documents
 - [California](california.md) - 7 shared documents
-- [Texas](texas.md) - 7 shared documents
-- [New Mexico](new-mexico.md) - 7 shared documents
+- [Fla.](fla.md) - 7 shared documents
+- [N.Y.](ny.md) - 7 shared documents
 
 **Events:**
 
 - [1984](../events/1984.md) - 12 shared documents
 - [1991](../events/1991.md) - 12 shared documents
-- [last year](../events/last-year.md) - 11 shared documents
 - [14](../events/14.md) - 11 shared documents
 - [1981](../events/1981.md) - 11 shared documents
-- [48](../events/48.md) - 10 shared documents
+- [last year](../events/last-year.md) - 11 shared documents
 - [18](../events/18.md) - 10 shared documents
+- [48](../events/48.md) - 10 shared documents
 - [1990](../events/1990.md) - 9 shared documents
 - [2006](../events/2006.md) - 9 shared documents
-- [last week](../events/last-week.md) - 8 shared documents
+- [2001](../events/2001.md) - 8 shared documents
 
 ## Timeline
 

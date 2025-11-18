@@ -26,47 +26,46 @@ Top 6 documents by mention frequency:
 **People:**
 
 - [Middle East](middle-east.md) - 5 shared documents
-- [President Obama](president-obama.md) - 5 shared documents
 - [Saudi Arabia](saudi-arabia.md) - 5 shared documents
 - [West Bank](west-bank.md) - 5 shared documents
 - [White House](white-house.md) - 5 shared documents
 - [Hosni Mubarak](hosni-mubarak.md) - 4 shared documents
 - [Mahmoud Abbas](mahmoud-abbas.md) - 4 shared documents
-- [Mr. Obama](obama.md) - 4 shared documents
 - [Red Sea](red-sea.md) - 4 shared documents
 - [Saddam](saddam.md) - 4 shared documents
+- [Saddam Hussein](saddam-hussein.md) - 4 shared documents
+- [Shimon
+Peres](shimon-peres.md) - 4 shared documents
 
 **Organizations:**
 
 - [CIA](../organizations/cia.md) - 6 shared documents
-- [White House](../organizations/white-house.md) - 5 shared documents
-- [Defense](../organizations/defense.md) - 5 shared documents
-- [State](../organizations/state.md) - 5 shared documents
 
 **Locations:**
 
-- [the Middle East](../locations/the-middle-east.md) - 6 shared documents
-- [China](../locations/china.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
 - [America](../locations/america.md) - 6 shared documents
+- [China](../locations/china.md) - 6 shared documents
+- [Egypt](../locations/egypt.md) - 6 shared documents
+- [Gaza](../locations/gaza.md) - 6 shared documents
 - [Iran](../locations/iran.md) - 6 shared documents
 - [Iraq](../locations/iraq.md) - 6 shared documents
+- [Israel](../locations/israel.md) - 6 shared documents
+- [Lebanon](../locations/lebanon.md) - 6 shared documents
 - [Libya](../locations/libya.md) - 6 shared documents
-- [Saudi Arabia](../locations/saudi-arabia.md) - 6 shared documents
-- [Syria](../locations/syria.md) - 6 shared documents
+- [Moscow](../locations/moscow.md) - 6 shared documents
 
 **Events:**
 
+- [days](../events/days.md) - 6 shared documents
+- [last week](../events/last-week.md) - 6 shared documents
+- [the 1970s](../events/the-1970s.md) - 6 shared documents
 - [today](../events/today.md) - 6 shared documents
 - [years](../events/years.md) - 6 shared documents
-- [last week](../events/last-week.md) - 6 shared documents
-- [days](../events/days.md) - 6 shared documents
-- [the 1970s](../events/the-1970s.md) - 6 shared documents
-- [2003](../events/2003.md) - 5 shared documents
-- [1996](../events/1996.md) - 5 shared documents
+- [10 years](../events/10-years.md) - 5 shared documents
+- [1967](../events/1967.md) - 5 shared documents
+- [1974](../events/1974.md) - 5 shared documents
+- [1977](../events/1977.md) - 5 shared documents
 - [1993](../events/1993.md) - 5 shared documents
-- [Saturday](../events/saturday.md) - 5 shared documents
 
 ## Timeline
 

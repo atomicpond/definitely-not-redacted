@@ -52,8 +52,8 @@ Top 6 documents by mention frequency:
 **Events:**
 
 - [the day](the-day.md) - 6 shared documents
-- [1959](1959.md) - 6 shared documents
 - [12-month](12-month.md) - 6 shared documents
+- [1959](1959.md) - 6 shared documents
 - [198602883D](198602883d.md) - 6 shared documents
 - [2-year](2-year.md) - 5 shared documents
 

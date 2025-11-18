@@ -26,22 +26,22 @@ Top 6 documents by mention frequency:
 **Organizations:**
 
 - [Google](google.md) - 6 shared documents
-- [Huffington Post](huffington-post.md) - 5 shared documents
 - [Edge](edge.md) - 5 shared documents
+- [Huffington Post](huffington-post.md) - 5 shared documents
 
 **Locations:**
 
-- [New York City](../locations/new-york-city.md) - 5 shared documents
 - [Miami](../locations/miami.md) - 5 shared documents
+- [New York City](../locations/new-york-city.md) - 5 shared documents
 
 **Events:**
 
-- [daily](../events/daily.md) - 5 shared documents
-- [2005](../events/2005.md) - 5 shared documents
 - [1994](../events/1994.md) - 5 shared documents
+- [2005](../events/2005.md) - 5 shared documents
+- [daily](../events/daily.md) - 5 shared documents
 - [weekly](../events/weekly.md) - 5 shared documents
-- [four months](../events/four-months.md) - 4 shared documents
 - [25](../events/25.md) - 4 shared documents
+- [four months](../events/four-months.md) - 4 shared documents
 - [this day](../events/this-day.md) - 4 shared documents
 
 ## Timeline

@@ -10,7 +10,7 @@
 
 ### People
 - [White House](../entities/people/white-house.md) - 5 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 4 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 4 mentions
 - [Lawrence Summers](../entities/people/lawrence-summers.md) - 2 mentions
 - [Lawrence](../entities/people/lawrence.md) - 2 mentions
 - [Secret Service](../entities/people/secret-service.md) - 1 mention

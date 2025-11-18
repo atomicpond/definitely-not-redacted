@@ -26,7 +26,6 @@ Top 5 documents by mention frequency:
 
 - [Middle East](middle-east.md) - 5 shared documents
 - [Middle Eastern](middle-eastern.md) - 5 shared documents
-- [President Obama](president-obama.md) - 5 shared documents
 - [Santa Ana](santa-ana.md) - 5 shared documents
 - [White House](white-house.md) - 5 shared documents
 - [Boies Schiller](boies-schiller.md) - 5 shared documents
@@ -34,6 +33,7 @@ Top 5 documents by mention frequency:
 - [District Court](district-court.md) - 5 shared documents
 - [Farooq Bajwa](farooq-bajwa.md) - 5 shared documents
 - [Larry Scudder](larry-scudder.md) - 5 shared documents
+- [Los Angeles Times](los-angeles-times.md) - 4 shared documents
 
 **Organizations:**
 

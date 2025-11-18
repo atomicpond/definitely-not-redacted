@@ -36,29 +36,29 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
-- [Russia](../locations/russia.md) - 5 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
 - [Iraq](../locations/iraq.md) - 5 shared documents
 - [Israel](../locations/israel.md) - 5 shared documents
-- [Afghanistan](../locations/afghanistan.md) - 5 shared documents
 - [North Korea](../locations/north-korea.md) - 5 shared documents
-- [Middle East](../locations/middle-east.md) - 4 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
+- [Russia](../locations/russia.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
+- [Germany](../locations/germany.md) - 4 shared documents
+- [Middle East](../locations/middle-east.md) - 4 shared documents
+- [Qatar](../locations/qatar.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
 - [2012](../events/2012.md) - 5 shared documents
 - [last year](../events/last-year.md) - 5 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
+- [today](../events/today.md) - 5 shared documents
+- [10 years](../events/10-years.md) - 4 shared documents
+- [1983](../events/1983.md) - 4 shared documents
 - [2000](../events/2000.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
-- [monthly](../events/monthly.md) - 4 shared documents
 - [2008](../events/2008.md) - 4 shared documents
+- [2009](../events/2009.md) - 4 shared documents
 - [2010](../events/2010.md) - 4 shared documents
+- [2013](../events/2013.md) - 4 shared documents
 
 ## Timeline
 

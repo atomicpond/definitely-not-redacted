@@ -48,7 +48,6 @@ Top 10 documents by mention frequency:
 - [the Department of Justice](the-department-of-justice.md) - 9 shared documents
 - [the Justice Department](the-justice-department.md) - 9 shared documents
 - [Senate](senate.md) - 8 shared documents
-- [Congress](congress.md) - 7 shared documents
 - [U.S.C.](usc.md) - 5 shared documents
 - [Vanity Fair](vanity-fair.md) - 5 shared documents
 
@@ -58,12 +57,12 @@ Top 10 documents by mention frequency:
 - [the United States](../locations/the-united-states.md) - 11 shared documents
 - [Florida](../locations/florida.md) - 10 shared documents
 - [California](../locations/california.md) - 9 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 9 shared documents
 - [Miami](../locations/miami.md) - 9 shared documents
+- [the Southern District](../locations/the-southern-district.md) - 9 shared documents
+- [Fla.](../locations/fla.md) - 8 shared documents
+- [New Mexico](../locations/new-mexico.md) - 8 shared documents
 - [New York](../locations/new-york.md) - 8 shared documents
 - [U.S.](../locations/us.md) - 8 shared documents
-- [Virginia](../locations/virginia.md) - 8 shared documents
-- [New Mexico](../locations/new-mexico.md) - 8 shared documents
 
 **Events:**
 
@@ -71,12 +70,12 @@ Top 10 documents by mention frequency:
 - [daily](../events/daily.md) - 11 shared documents
 - [1985](../events/1985.md) - 10 shared documents
 - [2002](../events/2002.md) - 10 shared documents
-- [2007](../events/2007.md) - 9 shared documents
+- [14](../events/14.md) - 9 shared documents
 - [1998](../events/1998.md) - 9 shared documents
 - [2001](../events/2001.md) - 9 shared documents
 - [2005](../events/2005.md) - 9 shared documents
-- [2008](../events/2008.md) - 9 shared documents
 - [2006](../events/2006.md) - 9 shared documents
+- [2007](../events/2007.md) - 9 shared documents
 
 ## Timeline
 

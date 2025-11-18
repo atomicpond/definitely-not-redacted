@@ -46,29 +46,29 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
+- [Australia](australia.md) - 9 shared documents
+- [Brazil](brazil.md) - 9 shared documents
 - [China](china.md) - 9 shared documents
 - [Europe](europe.md) - 9 shared documents
-- [Japan](japan.md) - 9 shared documents
-- [Brazil](brazil.md) - 9 shared documents
-- [London](london.md) - 9 shared documents
-- [Israel](israel.md) - 9 shared documents
-- [Australia](australia.md) - 9 shared documents
 - [Hong Kong](hong-kong.md) - 9 shared documents
+- [Israel](israel.md) - 9 shared documents
+- [Japan](japan.md) - 9 shared documents
+- [London](london.md) - 9 shared documents
 - [New York](new-york.md) - 8 shared documents
 - [Singapore](singapore.md) - 8 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 8 shared documents
 - [2001](../events/2001.md) - 8 shared documents
-- [years](../events/years.md) - 7 shared documents
+- [today](../events/today.md) - 8 shared documents
 - [May](../events/may.md) - 7 shared documents
 - [year](../events/year.md) - 7 shared documents
+- [years](../events/years.md) - 7 shared documents
+- [2006](../events/2006.md) - 6 shared documents
+- [2011](../events/2011.md) - 6 shared documents
 - [daily](../events/daily.md) - 6 shared documents
 - [this year](../events/this-year.md) - 6 shared documents
-- [2011](../events/2011.md) - 6 shared documents
-- [2006](../events/2006.md) - 6 shared documents
-- [2003](../events/2003.md) - 5 shared documents
+- [1980](../events/1980.md) - 5 shared documents
 
 ## Timeline
 

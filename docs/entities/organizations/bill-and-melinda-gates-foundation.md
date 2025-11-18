@@ -55,27 +55,27 @@ Top 7 documents by mention frequency:
 **Locations:**
 
 - [Manhattan](../locations/manhattan.md) - 6 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
-- [Qatar](../locations/qatar.md) - 5 shared documents
-- [Paris](../locations/paris.md) - 5 shared documents
-- [New Mexico](../locations/new-mexico.md) - 5 shared documents
 - [Coney Island](../locations/coney-island.md) - 5 shared documents
 - [Dalton](../locations/dalton.md) - 5 shared documents
+- [Europe](../locations/europe.md) - 5 shared documents
 - [Kairat Kelimbetov](../locations/kairat-kelimbetov.md) - 5 shared documents
+- [New Mexico](../locations/new-mexico.md) - 5 shared documents
+- [Paris](../locations/paris.md) - 5 shared documents
+- [Qatar](../locations/qatar.md) - 5 shared documents
 - [England](../locations/england.md) - 4 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 4 shared documents
 
 **Events:**
 
+- [1953](../events/1953.md) - 6 shared documents
 - [2002](../events/2002.md) - 6 shared documents
 - [two years](../events/two-years.md) - 6 shared documents
-- [1953](../events/1953.md) - 6 shared documents
-- [2004](../events/2004.md) - 5 shared documents
-- [Sunday](../events/sunday.md) - 5 shared documents
 - [1982](../events/1982.md) - 5 shared documents
 - [1994](../events/1994.md) - 5 shared documents
-- [several years](../events/several-years.md) - 5 shared documents
+- [2004](../events/2004.md) - 5 shared documents
 - [20s and 30s](../events/20s-and-30s.md) - 5 shared documents
+- [several years](../events/several-years.md) - 5 shared documents
+- [Sunday](../events/sunday.md) - 5 shared documents
 
 ## Timeline
 

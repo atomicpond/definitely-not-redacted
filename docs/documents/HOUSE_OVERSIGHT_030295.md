@@ -13,7 +13,7 @@
 - [Jane Does](../entities/people/jane-does.md) - 1 mention
 - [CLINTON](../entities/people/clinton.md) - 1 mention
 - [Mr. 
-Dershowitz](../entities/people/mr-dershowitz.md) - 1 mention
+Dershowitz](../entities/people/alan-dershowitz.md) - 1 mention
 - [Maxwell](../entities/people/maxwell.md) - 1 mention
 - [andrew](../entities/people/andrew.md) - 1 mention
 - [Jeffery Epstein](../entities/people/jeffery-epstein.md) - 1 mention

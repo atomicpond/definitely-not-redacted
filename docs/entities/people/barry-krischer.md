@@ -55,23 +55,22 @@ Top 10 documents by mention frequency:
 - [New Mexico](../locations/new-mexico.md) - 17 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 17 shared documents
 - [Miami](../locations/miami.md) - 15 shared documents
-- [Florida](../locations/florida.md) - 13 shared documents
 - [Caribbean](../locations/caribbean.md) - 13 shared documents
+- [Florida](../locations/florida.md) - 13 shared documents
 - [Paris](../locations/paris.md) - 11 shared documents
-- [America](../locations/america.md) - 10 shared documents
 
 **Events:**
 
 - [18 months](../events/18-months.md) - 20 shared documents
 - [last year](../events/last-year.md) - 18 shared documents
 - [18](../events/18.md) - 17 shared documents
-- [two years](../events/two-years.md) - 16 shared documents
 - [14](../events/14.md) - 16 shared documents
+- [two years](../events/two-years.md) - 16 shared documents
 - [2006](../events/2006.md) - 15 shared documents
-- [2010](../events/2010.md) - 14 shared documents
 - [15 years](../events/15-years.md) - 14 shared documents
+- [2010](../events/2010.md) - 14 shared documents
 - [the day](../events/the-day.md) - 14 shared documents
-- [last week](../events/last-week.md) - 12 shared documents
+- [five years](../events/five-years.md) - 12 shared documents
 
 ## Timeline
 

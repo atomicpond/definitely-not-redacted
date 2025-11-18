@@ -29,23 +29,22 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Mr. Obama](obama.md) - 8 shared documents
 - [George W. Bush](george-w-bush.md) - 7 shared documents
 - [Mao](mao.md) - 7 shared documents
 - [Soviet Union](soviet-union.md) - 7 shared documents
-- [Barack Obama](barack-obama.md) - 7 shared documents
-- [Communist Party](communist-party.md) - 7 shared documents
 - [Bill 
 Clinton](bill-clinton.md) - 7 shared documents
-- [CLINTON](clinton.md) - 7 shared documents
-- [President Obama](president-obama.md) - 6 shared documents
+- [Communist Party](communist-party.md) - 7 shared documents
 - [stalin](stalin.md) - 6 shared documents
+- [Vladimir Putin](vladimir-putin.md) - 6 shared documents
+- [World War](world-war.md) - 6 shared documents
+- [Angela Merkel](angela-merkel.md) - 6 shared documents
+- [Cold War](cold-war.md) - 6 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 9 shared documents
 - [NATO](../organizations/nato.md) - 6 shared documents
-- [Labor](../organizations/labor.md) - 5 shared documents
 
 **Locations:**
 
@@ -55,23 +54,23 @@ Clinton](bill-clinton.md) - 7 shared documents
 - [America](../locations/america.md) - 9 shared documents
 - [Asia](../locations/asia.md) - 9 shared documents
 - [India](../locations/india.md) - 9 shared documents
+- [Australia](../locations/australia.md) - 8 shared documents
 - [Europe](../locations/europe.md) - 8 shared documents
-- [Japan](../locations/japan.md) - 8 shared documents
-- [Germany](../locations/germany.md) - 8 shared documents
 - [France](../locations/france.md) - 8 shared documents
+- [Germany](../locations/germany.md) - 8 shared documents
 
 **Events:**
 
-- [years](../events/years.md) - 6 shared documents
-- [last week](../events/last-week.md) - 6 shared documents
 - [2008](../events/2008.md) - 6 shared documents
+- [last week](../events/last-week.md) - 6 shared documents
 - [the Cold War](../events/the-cold-war.md) - 6 shared documents
+- [years](../events/years.md) - 6 shared documents
 - [1990s](../events/1990s.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
 - [1996](../events/1996.md) - 5 shared documents
-- [the 1990s](../events/the-1990s.md) - 5 shared documents
+- [2050](../events/2050.md) - 5 shared documents
 - [20th Century](../events/20th-century.md) - 5 shared documents
-- [the 21st century](../events/the-21st-century.md) - 5 shared documents
+- [25 years ago](../events/25-years-ago.md) - 5 shared documents
+- [By 2050](../events/by-2050.md) - 5 shared documents
 
 ## Timeline
 

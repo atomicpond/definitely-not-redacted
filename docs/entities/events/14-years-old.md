@@ -31,7 +31,7 @@ Top 8 documents by mention frequency:
 
 - [David Copperfield](../people/david-copperfield.md) - 7 shared documents
 - [Jane Doe](../people/jane-doe.md) - 7 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 6 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 6 shared documents
 - [Jack Scarola](../people/jack-scarola.md) - 6 shared documents
 - [New Mexico](../people/new-mexico.md) - 6 shared documents
 - [Sarah Kellen](../people/sarah-kellen.md) - 6 shared documents

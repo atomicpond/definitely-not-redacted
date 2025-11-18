@@ -30,9 +30,9 @@ Top 9 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 4 shared documents
 - [Gaza Strip](../people/gaza-strip.md) - 4 shared documents
 - [Middle East](../people/middle-east.md) - 4 shared documents
-- [President Obama](../people/president-obama.md) - 4 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 4 shared documents
 - [West Bank](../people/west-bank.md) - 4 shared documents
 
@@ -62,15 +62,15 @@ Top 9 documents by mention frequency:
 **Events:**
 
 - [Tuesday](tuesday.md) - 6 shared documents
-- [last week](last-week.md) - 5 shared documents
 - [16](16.md) - 5 shared documents
+- [last week](last-week.md) - 5 shared documents
 - [two years](two-years.md) - 4 shared documents
 - [two years ago](two-years-ago.md) - 4 shared documents
 - [years](years.md) - 4 shared documents
+- [20 years](20-years.md) - 4 shared documents
 - [2007](2007.md) - 4 shared documents
 - [2012](2012.md) - 4 shared documents
-- [last year](last-year.md) - 4 shared documents
-- [this week](this-week.md) - 4 shared documents
+- [2013](2013.md) - 4 shared documents
 
 ## Timeline
 

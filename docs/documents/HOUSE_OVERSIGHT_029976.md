@@ -9,7 +9,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [David](../entities/people/david.md) - 1 mention
 - [Lesley Groff](../entities/people/lesley-groff.md) - 1 mention
 - [Woody](../entities/people/woody.md) - 1 mention

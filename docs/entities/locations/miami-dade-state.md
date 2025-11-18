@@ -63,20 +63,19 @@ Beach Atlantic University](../organizations/palm-beach-atlantic-university.md) -
 - [West Palm Beach](west-palm-beach.md) - 8 shared documents
 - [Va.](va.md) - 5 shared documents
 - [Miami](miami.md) - 5 shared documents
-- [Florida](florida.md) - 4 shared documents
 
 **Events:**
 
-- [last year](../events/last-year.md) - 8 shared documents
-- [1984](../events/1984.md) - 8 shared documents
-- [last month](../events/last-month.md) - 8 shared documents
-- [next week](../events/next-week.md) - 8 shared documents
-- [18 months](../events/18-months.md) - 8 shared documents
+- [11 months](../events/11-months.md) - 8 shared documents
+- [14](../events/14.md) - 8 shared documents
 - [15 years](../events/15-years.md) - 8 shared documents
-- [May 1](../events/may-1.md) - 8 shared documents
-- [one year](../events/one-year.md) - 8 shared documents
-- [three years](../events/three-years.md) - 8 shared documents
-- [two years](../events/two-years.md) - 8 shared documents
+- [18](../events/18.md) - 8 shared documents
+- [18 months](../events/18-months.md) - 8 shared documents
+- [1981](../events/1981.md) - 8 shared documents
+- [1984](../events/1984.md) - 8 shared documents
+- [1991](../events/1991.md) - 8 shared documents
+- [21 months](../events/21-months.md) - 8 shared documents
+- [24 years](../events/24-years.md) - 8 shared documents
 
 ## Timeline
 

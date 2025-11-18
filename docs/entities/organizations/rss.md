@@ -33,14 +33,14 @@ Top 10 documents by mention frequency:
 - [Bill 
 Clinton](../people/bill-clinton.md) - 8 shared documents
 - [DARREN K. INDYKE](../people/darren-k-indyke.md) - 5 shared documents
-- [hillary](../people/hillary.md) - 5 shared documents
+- [Hillary Clinton](../people/hillary-clinton.md) - 5 shared documents
 
 **Organizations:**
 
 - [Google Alerts](google-alerts.md) - 11 shared documents
 - [HOUSE](house.md) - 8 shared documents
-- [Lexington Avenue](lexington-avenue.md) - 5 shared documents
 - [4th Floor](4th-floor.md) - 5 shared documents
+- [Lexington Avenue](lexington-avenue.md) - 5 shared documents
 - [PLLC](pllc.md) - 5 shared documents
 
 **Locations:**

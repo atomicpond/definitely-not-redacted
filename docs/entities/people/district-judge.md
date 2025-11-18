@@ -35,16 +35,16 @@ Top 7 documents by mention frequency:
 
 **Locations:**
 
-- [U.S.](../locations/us.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
 - [Florida](../locations/florida.md) - 4 shared documents
 - [the United States](../locations/the-united-states.md) - 4 shared documents
+- [U.S.](../locations/us.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 4 shared documents
 - [14](../events/14.md) - 4 shared documents
 - [1983](../events/1983.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

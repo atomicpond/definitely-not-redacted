@@ -33,28 +33,28 @@ Top 9 documents by mention frequency:
 **Locations:**
 
 - [Chile](chile.md) - 7 shared documents
-- [China](china.md) - 6 shared documents
-- [Brazil](brazil.md) - 6 shared documents
-- [Mexico](mexico.md) - 6 shared documents
 - [Argentina](argentina.md) - 6 shared documents
-- [United States](united-states.md) - 5 shared documents
-- [Japan](japan.md) - 5 shared documents
-- [Colombia](colombia.md) - 5 shared documents
-- [Germany](germany.md) - 5 shared documents
+- [Brazil](brazil.md) - 6 shared documents
+- [China](china.md) - 6 shared documents
+- [Mexico](mexico.md) - 6 shared documents
 - [Asia](asia.md) - 5 shared documents
+- [Bolivia](bolivia.md) - 5 shared documents
+- [Colombia](colombia.md) - 5 shared documents
+- [France](france.md) - 5 shared documents
+- [Germany](germany.md) - 5 shared documents
 
 **Events:**
 
 - [2004](../events/2004.md) - 6 shared documents
-- [2018](../events/2018.md) - 5 shared documents
+- [2012](../events/2012.md) - 5 shared documents
 - [2014](../events/2014.md) - 5 shared documents
 - [2015](../events/2015.md) - 5 shared documents
-- [annual](../events/annual.md) - 5 shared documents
-- [2012](../events/2012.md) - 5 shared documents
 - [2017](../events/2017.md) - 5 shared documents
+- [2018](../events/2018.md) - 5 shared documents
+- [annual](../events/annual.md) - 5 shared documents
+- [2000](../events/2000.md) - 4 shared documents
 - [2003](../events/2003.md) - 4 shared documents
-- [2007](../events/2007.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
 
 ## Timeline
 

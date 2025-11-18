@@ -24,13 +24,13 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Europe](../locations/europe.md) - 4 shared documents
 - [Asia](../locations/asia.md) - 4 shared documents
+- [Europe](../locations/europe.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 4 shared documents
 - [this week](../events/this-week.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

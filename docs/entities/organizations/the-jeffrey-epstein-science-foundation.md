@@ -34,10 +34,10 @@ Top 8 documents by mention frequency:
 **Organizations:**
 
 - [Is he spending more time on The Jeffrey Epstein Science Foundation](is-he-spending-more-time-on-the-jeffrey-epstein-science-foundation.md) - 8 shared documents
-- [Kirkland & Ellis LLP](kirkland-ellis-llp.md) - 7 shared documents
 - [It is the property of 
 Kirkland & Ellis LLP or Kirkland & Ellis International LLP](it-is-the-property-of-kirkland-ellis-llp-or-kirkland-ellis-international-llp.md) - 7 shared documents
 - [Kirkland & Ellis International LLP](kirkland-ellis-international-llp.md) - 7 shared documents
+- [Kirkland & Ellis LLP](kirkland-ellis-llp.md) - 7 shared documents
 - [HOUSE](house.md) - 4 shared documents
 
 **Events:**

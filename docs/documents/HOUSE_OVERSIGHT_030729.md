@@ -11,7 +11,7 @@
 ### People
 - [David Stern](../entities/people/david-stern.md) - 4 mentions
 - [jeffrey E. <](../entities/people/jeffrey-e.md) - 3 mentions
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 2 mentions
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 2 mentions
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
 
 ### Organizations
@@ -28,7 +28,7 @@
 - [Thu, Jul 12, 2018](../entities/events/thu-jul-12-2018.md) - 3 mentions
 - [12 Jul 2018](../entities/events/12-jul-2018.md) - 3 mentions
 - [tomorrow](../entities/events/tomorrow.md) - 1 mention
-- [7/12/2018](../entities/events/7122018.md) - 1 mention
+- [7/12/2018](../entities/events/7-12-2018.md) - 1 mention
 
 ## Document Text
 

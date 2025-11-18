@@ -14,7 +14,7 @@
 - [Larry Gagosian](../entities/people/larry-gagosian.md) - 1 mention
 - [Michael Douglas](../entities/people/michael-douglas.md) - 1 mention
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 1 mention
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 1 mention
 - [Harvey](../entities/people/harvey.md) - 1 mention
 - [Ronan](../entities/people/ronan.md) - 1 mention
 
@@ -28,7 +28,7 @@
 ### Events/Dates
 - [Mon, Dec 11, 2017](../entities/events/mon-dec-11-2017.md) - 6 mentions
 - [Sunday](../entities/events/sunday.md) - 1 mention
-- [12/11/2017](../entities/events/12112017.md) - 1 mention
+- [12/11/2017](../entities/events/12-11-2017.md) - 1 mention
 - [80 year old](../entities/events/80-year-old.md) - 1 mention
 
 ## Document Text

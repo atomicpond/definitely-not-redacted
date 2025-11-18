@@ -16,7 +16,7 @@ Ruemmler](../entities/people/kathy-ruemmler.md) - 3 mentions
 - [On Fri](../entities/people/on-fri.md) - 2 mentions
 - [bill burns](../entities/people/bill-burns.md) - 1 mention
 - [CLINTON](../entities/people/clinton.md) - 1 mention
-- [Mr. Thiel](../entities/people/mr-thiel.md) - 1 mention
+- [Mr. Thiel](../entities/people/thiel.md) - 1 mention
 - [Leon Black](../entities/people/leon-black.md) - 1 mention
 - [boris](../entities/people/boris.md) - 1 mention
 - [Kathy Ruemmler 

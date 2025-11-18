@@ -41,28 +41,28 @@ York](../people/new-york.md) - 5 shared documents
 **Locations:**
 
 - [China](china.md) - 7 shared documents
-- [New York](new-york.md) - 6 shared documents
-- [Europe](europe.md) - 6 shared documents
 - [America](america.md) - 6 shared documents
 - [Asia](asia.md) - 6 shared documents
-- [Russia](russia.md) - 5 shared documents
-- [London](london.md) - 5 shared documents
-- [England](england.md) - 5 shared documents
+- [Europe](europe.md) - 6 shared documents
+- [New York](new-york.md) - 6 shared documents
 - [Beijing](beijing.md) - 5 shared documents
 - [Britain](britain.md) - 5 shared documents
+- [England](england.md) - 5 shared documents
+- [London](london.md) - 5 shared documents
+- [Russia](russia.md) - 5 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 7 shared documents
 - [tomorrow](../events/tomorrow.md) - 6 shared documents
 - [this week](../events/this-week.md) - 5 shared documents
+- [2008](../events/2008.md) - 4 shared documents
 - [2014](../events/2014.md) - 4 shared documents
 - [a day](../events/a-day.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
-- [2008](../events/2008.md) - 4 shared documents
-- [the years](../events/the-years.md) - 4 shared documents
 - [every day](../events/every-day.md) - 4 shared documents
 - [the end of the day](../events/the-end-of-the-day.md) - 4 shared documents
+- [the years](../events/the-years.md) - 4 shared documents
+- [years](../events/years.md) - 4 shared documents
 
 ## Timeline
 

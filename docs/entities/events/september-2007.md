@@ -32,9 +32,9 @@ Top 10 documents by mention frequency:
 - [Rights Act](../people/rights-act.md) - 14 shared documents
 - [Jane Doe](../people/jane-doe.md) - 13 shared documents
 - [Crime Victims](../people/crime-victims.md) - 12 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 10 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 10 shared documents
 - [Paul Cassell](../people/paul-cassell.md) - 9 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 8 shared documents
+- [Jack Goldberger](../people/jack-goldberger.md) - 8 shared documents
 
 **Organizations:**
 
@@ -65,11 +65,11 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [today](today.md) - 15 shared documents
-- [2011](2011.md) - 14 shared documents
 - [2008](2008.md) - 14 shared documents
+- [2011](2011.md) - 14 shared documents
 - [the day](the-day.md) - 13 shared documents
-- [2007](2007.md) - 13 shared documents
 - [13 months](13-months.md) - 13 shared documents
+- [2007](2007.md) - 13 shared documents
 - [2009](2009.md) - 12 shared documents
 - [six days](six-days.md) - 11 shared documents
 - [the next day](the-next-day.md) - 11 shared documents

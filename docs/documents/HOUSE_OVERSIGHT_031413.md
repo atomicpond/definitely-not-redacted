@@ -12,7 +12,7 @@
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 4 mentions
 - [andrew](../entities/people/andrew.md) - 2 mentions
 - [Mr. 
-Dershowitz](../entities/people/mr-dershowitz.md) - 1 mention
+Dershowitz](../entities/people/alan-dershowitz.md) - 1 mention
 - [Maxwell](../entities/people/maxwell.md) - 1 mention
 - [Landon Thomas](../entities/people/landon-thomas.md) - 1 mention
 

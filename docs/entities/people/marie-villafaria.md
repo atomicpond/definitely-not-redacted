@@ -31,31 +31,31 @@ Top 5 documents by mention frequency:
 
 - [FBI](../organizations/fbi.md) - 5 shared documents
 - [the Justice Department](../organizations/the-justice-department.md) - 5 shared documents
-- [District Court](../organizations/district-court.md) - 4 shared documents
 - [Court](../organizations/court.md) - 4 shared documents
-- [the Justice Department's](../organizations/the-justice-departments.md) - 4 shared documents
+- [District Court](../organizations/district-court.md) - 4 shared documents
 - [Office](../organizations/office.md) - 4 shared documents
+- [the Justice Department's](../organizations/the-justice-departments.md) - 4 shared documents
 
 **Locations:**
 
 - [Miami](../locations/miami.md) - 5 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 5 shared documents
 - [California](../locations/california.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
 - [Florida](../locations/florida.md) - 4 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 4 shared documents
 - [Marriott](../locations/marriott.md) - 4 shared documents
+- [the Southern District](../locations/the-southern-district.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 4 shared documents
 
 **Events:**
 
 - [November](../events/november.md) - 5 shared documents
-- [Monday](../events/monday.md) - 4 shared documents
-- [2011](../events/2011.md) - 4 shared documents
-- [2005](../events/2005.md) - 4 shared documents
-- [2019](../events/2019.md) - 4 shared documents
 - [13 months](../events/13-months.md) - 4 shared documents
-- [the next day](../events/the-next-day.md) - 4 shared documents
 - [14-year-old](../events/14-year-old.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
+- [2011](../events/2011.md) - 4 shared documents
+- [2019](../events/2019.md) - 4 shared documents
+- [Monday](../events/monday.md) - 4 shared documents
+- [the next day](../events/the-next-day.md) - 4 shared documents
 
 ## Timeline
 

@@ -34,10 +34,10 @@ Top 7 documents by mention frequency:
 - [OPEC](opec.md) - 6 shared documents
 - [S&P](sp.md) - 6 shared documents
 - [Treasury](treasury.md) - 6 shared documents
+- [Bank](bank.md) - 6 shared documents
 - [Bloomberg](bloomberg.md) - 6 shared documents
 - [Congress](congress.md) - 6 shared documents
 - [ECB](ecb.md) - 6 shared documents
-- [Bank](bank.md) - 6 shared documents
 - [Fed](fed.md) - 5 shared documents
 - [FOMC](fomc.md) - 5 shared documents
 - [GBP](gbp.md) - 5 shared documents
@@ -45,28 +45,28 @@ Top 7 documents by mention frequency:
 **Locations:**
 
 - [China](../locations/china.md) - 7 shared documents
-- [Germany](../locations/germany.md) - 7 shared documents
 - [France](../locations/france.md) - 7 shared documents
-- [Italy](../locations/italy.md) - 7 shared documents
 - [Frankfurt](../locations/frankfurt.md) - 7 shared documents
+- [Germany](../locations/germany.md) - 7 shared documents
+- [Italy](../locations/italy.md) - 7 shared documents
 - [Spain](../locations/spain.md) - 7 shared documents
-- [Europe](../locations/europe.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
+- [Asia](../locations/asia.md) - 6 shared documents
+- [Australia](../locations/australia.md) - 6 shared documents
 - [Brazil](../locations/brazil.md) - 6 shared documents
+- [Canada](../locations/canada.md) - 6 shared documents
 
 **Events:**
 
-- [this year](../events/this-year.md) - 7 shared documents
 - [2013](../events/2013.md) - 7 shared documents
-- [6-month](../events/6-month.md) - 5 shared documents
-- [2015](../events/2015.md) - 5 shared documents
-- [six months](../events/six-months.md) - 5 shared documents
+- [this year](../events/this-year.md) - 7 shared documents
+- [12-month](../events/12-month.md) - 5 shared documents
+- [2010 2012](../events/2010-2012.md) - 5 shared documents
 - [2012](../events/2012.md) - 5 shared documents
-- [monthly](../events/monthly.md) - 5 shared documents
+- [2015](../events/2015.md) - 5 shared documents
+- [5-year](../events/5-year.md) - 5 shared documents
+- [6-month](../events/6-month.md) - 5 shared documents
 - [July](../events/july.md) - 5 shared documents
-- [the year](../events/the-year.md) - 5 shared documents
-- [the next 12 months](../events/the-next-12-months.md) - 5 shared documents
+- [monthly](../events/monthly.md) - 5 shared documents
 
 ## Timeline
 

@@ -45,184 +45,239 @@ Sender](../entities/people/yes-sender.md) - 1 mention
 
 ## Document Text
 
+**Thread-like Conversation View:**
+
 ```
-**Source Entr**: H\Macintosh HD\root\Users\jee\Library\Messages\Archive\2019-06-01\11I 
-on 2019-05-31 at 20.09.22.ichat 
-Service: iMessage 
-**Start Time**: **05/23/19** 03:21:07 AM (580299667) 
-**End Time**: 06/01/19 09:50:02 AM (581100602) 
-**Last Message** ID: 30036 
-**Chat Room**: 
-Participants: jee, 
-Presentity IDs: e:jeeitunes@gmail.com,• 
-Messages - 
-Sender: 
-Time: **05/23/19** 03:21:07 AM (580299667) 
-Flags: 1126401 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 1FB1D854-A563-4238-B200-EA41FEEABCCF 
-Message: https://www.thedailybeast.com/nancy-pelosi-to-impatient-democrats-weve-got-
-trump-on-the-ropes?ref=home 
-Sender: e:jeeitunes@gmail.com 
-Time: **05/23/19** 04:15:48 AM (580302948) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: E439ADEF-F43F-4BFB-8B5D-52CEE26D1420 
-Message: **60 days** after they get the DB papers. oy I think you have positioned 
-yourself perfectly. policy not individuals. . **China** not trump. . . sovereignty 
-not sovereign 
-Sender: e:jeeitunes@gmail.com 
-Time: **05/23/19** 04:17:14 AM (580303034) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: EAFA727B-5D16-4355-A8A9-C357A5646573 
-Message: your brand with tweaking . **tom friedman** like allies, all good. less of 
-deutshland more of homeland 
-Sender: 
-Time: **05/23/19** 06:28:49 AM (580310929) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**HOUSE** OVERSIGHT 027722 
-**GUID**: D671E60B-B1F0-4370-BFB4-F53FB6AA296B 
-Message: Yes yes **Yes 
-Sender**: 
-Time: **05/25/19** 10:11:48 PM (580540308) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 18E18E67-C6B9-4BFA-8DE2-748F9B3095A1 
-Message: DDay 
-Sender: e:jeeitunes@gmail.com 
-Time: **05/26/19** 02:55:28 AM (580557328) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 4A37C5B8-8A22-45CB-A4EA-3FAABD64AF67 
-Message: Fingers crossed for you 
-Sender: 
-Time: **05/26/19** 03:03:49 AM (580557829) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 9C2F3A08-0CD8-4EA0-83CF-315FE14D1ODC 
-Message: Thanks : I think so far so good 
-Sender: e:jeeitunes@gmail.com 
-Time: **05/26/19** 04:51:45 AM (580564305) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 5E818EA3-2B29-4284-AFCA-67558686F8A4 
-Message: Would have been better if the wrestler wore a gold wig 
-Sender: 
-Time: **05/26/19** 09:09:28 AM (580579768) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 03C2A7F5-2D1C-42D8-9F2A-43ABAD37C7C6 
-Message: 25 to 22 
-**HOUSE** OVERSIGHT 027723 
-Sender: 
-Time: **05/26/19** 09:09:51 AM (580579791) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: D7A3B05C-9C8C-4B40-96D5-03CA675734ED 
-Message: Salvini @ 28 to 31--leaked too early 
-Sender: e:jeeitunes@gmail.com 
-Time: **05/26/19** 09:20:42 AM (580580442) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 6102CAC0-997E-4234-9323-69E813F447BF 
-Message: /// 
-Sender: e:jeeitunes@gmail.com 
-Time: **05/26/19** 09:20:57 AM (580580457) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: CFC7D376-1B34-4D3E-8606-3BE15ECD638B 
-Message: //?// don't follow 
-Sender: 
-Time: **05/26/19** 09:21:27 AM (580580487) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 5989DD4O-B8C9-49A9-8D33-E5399623B8A3 
-Message: Peaked too early 
-Sender: 
-Time: **05/26/19** 09:21:40 AM (580580500) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: AO6BDA1D-E28A-4D6C-AA12-000C181FA419 
-Message: Salvini should have been 34/35 
-Sender: 
-Time: **05/26/19** 09:22:03 AM (580580523) 
-**HOUSE** OVERSIGHT 027724 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: F8D33EBA-1CB1-41F1-BC5E-E4B866D413A2 
-Message: LePen now controls situation 
-Sender: 
-Time: **05/26/19** 09:22:35 AM (580580555) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 686DB92D-5ACE-4ED7-B82E-3BFFD225C071 
-Message: She picked up 2% since I got here and started hammering 
-Sender: e:jeeitunes@gmail.com 
-Time: **05/26/19** 09:24:24 AM (580580664) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 04F4064E-CB4D-4CC1-88F1-9AF105046991 
-Message: What time complete? 
-Sender: 
-Time: **05/26/19** 09:50:31 AM (580582231) 
-Flags: 1126401 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: C29D5BB8-A8E3-4022-AB36-3FABO2EA6C30 
-Message: Late tonight 
-Sender: e:jeeitunes@gmail.com 
-Time: **05/26/19** 12:56:27 PM (580593387) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 59F812E8-5D4C-4C69-900D-D84DA52E918F 
-Message: Macron down? **boris** up. **Merkel** down. You up GREAT 
-Sender: 
-Time: **05/26/19** 03:46:05 PM (580603565) 
-Flags: 1060865 
-**Is Read**: Yes 
-**HOUSE** OVERSIGHT 027725 
-**Is Invitation**: No 
-**GUID**: 67ACOAE2-94EC-4E71-9277-6E228BB3ACE5 
-Message: May gone 
-Sender: e:jeeitunes@gmail.com 
-Time: **05/26/19** 03:47:01 PM (580603621) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: DAA2CC49-A7DF-48C2-AED6-2FD5E3BDC6C7 
-Message: I like the Iraqi coming and saying they are against sanctions on **Iran**. He 
-will go nuts 
-Sender: e:jeeitunes@gmail.com 
-Time: **05/26/19** 03:47:19 PM (580603639) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: BlE69059-D7EE-49C2-A52F-81A09C17A405 
-Message: He will viiew it as employees against mgmt 
-Sender: e:jeeitunes@gmail.com 
-Time: **05/26/19** 11:34:24 PM (580631664) 
-Flags: 1085445 
-**Is Read**:
+
+======================================================================
+Thursday, May 23, 2019
+======================================================================
+
+Unknown [3:21 AM]:
+  
+
+E:jeeitunes [4:15 AM]:
+  https://www.thedailybeast.com/nancy-pelosi-to-impatient-democrats-weve-got-
+
+E:jeeitunes [4:17 AM]:
+  60 days after they get the DB papers. oy I think you have positioned
+
+Unknown [6:28 AM]:
+  your brand with tweaking . tom friedman like allies, all good. less of
+
+
+======================================================================
+Saturday, May 25, 2019
+======================================================================
+
+Unknown [10:11 PM]:
+  Yes yes yes
+
+
+======================================================================
+Sunday, May 26, 2019
+======================================================================
+
+E:jeeitunes [2:55 AM]:
+  DDay
+
+Unknown [3:03 AM]:
+  Fingers crossed for you
+
+E:jeeitunes [4:51 AM]:
+  Thanks : I think so far so good
+
+Unknown [9:09 AM]:
+  Would have been better if the wrestler wore a gold wig
+
+Unknown [9:09 AM]:
+  25 to 22
+
+E:jeeitunes [9:20 AM]:
+  Salvini @ 28 to 31--leaked too early
+
+E:jeeitunes [9:20 AM]:
+  ///
+
+Unknown [9:21 AM]:
+  //?// don't follow
+
+Unknown [9:21 AM]:
+  Peaked too early
+
+Unknown [9:22 AM]:
+  Salvini should have been 34/35
+
+Unknown [9:22 AM]:
+  LePen now controls situation
+
+E:jeeitunes [9:24 AM]:
+  She picked up 2% since I got here and started hammering
+
+Unknown [9:50 AM]:
+  What time complete?
+
+E:jeeitunes [12:56 PM]:
+  Late tonight
+
+Unknown [3:46 PM]:
+  Macron down? Boris up. Merkel down. You up GREAT
+
+E:jeeitunes [3:47 PM]:
+  May gone
+
+E:jeeitunes [3:47 PM]:
+  I like the Iraqi coming and saying they are against sanctions on Iran. He
+
+E:jeeitunes [11:34 PM]:
+  He will viiew it as employees against mgmt
+
+E:jeeitunes [11:35 PM]:
+  What is the mood.?
+
+E:jeeitunes [11:35 PM]:
+  My French guys are saying it was so close , no effect
+
+Unknown [11:36 PM]:
+  ?
+
+
+======================================================================
+Wednesday, May 29, 2019
+======================================================================
+
+E:jeeitunes [3:45 AM]:
+  So far they and media spinning it quite well
+
+Unknown [3:53 AM]:
+  Sat afternoon??
+
+E:jeeitunes [8:59 AM]:
+  Yes
+
+E:jeeitunes [9:06 AM]:
+  I will land at 1. Sat. You guys can set up anytime before. .and Sunday im
+
+E:jeeitunes [9:42 AM]:
+  https://www.npr.org/2019/05/29/727724850/michael-wolffs-new-trump-tell-all-
+
+E:jeeitunes [12:45 PM]:
+  https://www.newsweek.com/bannon-trump-investigations-scumbag-wolff-book-
+
+Unknown [2:30 PM]:
+  Are we on for Saturday afternoon?
+
+E:jeeitunes [2:30 PM]:
+  Can we film
+
+Unknown [2:34 PM]:
+  Yes,
+
+E:jeeitunes [3:03 PM]:
+  Perfect
+
+Unknown [3:05 PM]:
+  https://www.bbc.com/news/world-middle-east-48454514
+
+E:jeeitunes [3:06 PM]:
+  WTF
+
+E:jeeitunes [3:54 PM]:
+  Bibi wanted immunity . Uh oh
+
+Unknown [4:03 PM]:
+  <Unsupported Message Content>
+
+Unknown [4:04 PM]:
+  Great shot
+
+
+======================================================================
+Thursday, May 30, 2019
+======================================================================
+
+E:jeeitunes [4:42 AM]:
+  Immunity
+
+E:jeeitunes [4:42 AM]:
+  
+
+E:jeeitunes [5:39 AM]:
+  https://www.rawstory.com/2019/05/new-book-paints-sordid-picture-of-trump-real-
+
+Unknown [5:50 AM]:
+  https://www.washingtonpost.com/outlook/a-trip-inside-trumpworld-and-inside-
+
+E:jeeitunes [5:54 AM]:
+  Ugh
+
+E:jeeitunes [5:56 AM]:
+  I guess you will have to figure out how to make the phrase " he's a scumbag"
+
+E:jeeitunes [5:59 AM]:
+  I guess you could argue that scumbag in Chinese means statesman
+
+Unknown [11:11 AM]:
+  https://www.forbes.com/sites/panosmourdoukoutas/2019/05/30/a-china-bond-sell-
+
+E:jeeitunes [11:20 AM]:
+  They are ALL scumbags
+
+
+======================================================================
+Friday, May 31, 2019
+======================================================================
+
+E:jeeitunes [3:51 AM]:
+  How true
+
+Unknown [4:55 AM]:
+  I think , the ' we are all flawed " and trumps personal life, my opinion of
+
+E:jeeitunes [4:56 AM]:
+  ???
+
+E:jeeitunes [4:56 AM]:
+  Your explanation for your quotes
+
+Unknown [4:56 AM]:
+  Are you back,?
+
+Unknown [4:56 AM]:
+  London: back tomorrow to film
+
+E:jeeitunes [4:56 AM]:
+  Why do I need explanation?
+
+E:jeeitunes [6:54 AM]:
+  That my boy
+
+E:jeeitunes [6:54 AM]:
+  What time do you land tome?
+
+Unknown [4:02 PM]:
+  Tomorrow?
+
+E:jeeitunes [4:18 PM]:
+  1 pm @ your place @ 2 pm to film
+
+E:jeeitunes [4:25 PM]:
+  done
+
+E:jeeitunes [5:09 PM]:
+  Travel safe
+
+
+======================================================================
+Saturday, June 01, 2019
+======================================================================
+
+E:jeeitunes [9:49 AM]:
+  And if you like woody coming at 630 for dinner
+
+E:jeeitunes [9:50 AM]:
+  Eta
+
 ```
 
 *[Text truncated to 5000 characters]*

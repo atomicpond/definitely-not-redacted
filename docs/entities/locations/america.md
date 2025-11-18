@@ -30,11 +30,8 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 55 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 54 shared documents
-- [Mr. Obama](../people/obama.md) - 52 shared documents
 - [White House](../people/white-house.md) - 51 shared documents
-- [President Obama](../people/president-obama.md) - 44 shared documents
+- [Middle East](../people/middle-east.md) - 42 shared documents
 
 **Organizations:**
 
@@ -47,6 +44,7 @@ Top 10 documents by mention frequency:
 - [Facebook](../organizations/facebook.md) - 46 shared documents
 - [FBI](../organizations/fbi.md) - 45 shared documents
 - [Harvard University](../organizations/harvard-university.md) - 43 shared documents
+- [Google](../organizations/google.md) - 42 shared documents
 
 **Locations:**
 

@@ -18,7 +18,7 @@
 - [Federal Reserve](../entities/people/federal-reserve.md) - 2 mentions
 - [Angela Merkel](../entities/people/angela-merkel.md) - 2 mentions
 - [East Asia](../entities/people/east-asia.md) - 2 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 2 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 2 mentions
 
 ### Organizations
 - [HOUSE](../entities/organizations/house.md) - 6 mentions

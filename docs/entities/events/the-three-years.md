@@ -53,9 +53,9 @@ Top 10 documents by mention frequency:
 - [2015](2015.md) - 8 shared documents
 - [this year](this-year.md) - 7 shared documents
 - [today](today.md) - 7 shared documents
+- [1993](1993.md) - 7 shared documents
 - [2009](2009.md) - 7 shared documents
 - [2012](2012.md) - 7 shared documents
-- [1993](1993.md) - 7 shared documents
 - [five years](five-years.md) - 7 shared documents
 - [these days](these-days.md) - 6 shared documents
 - [three years](three-years.md) - 6 shared documents

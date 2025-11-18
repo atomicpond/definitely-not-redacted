@@ -31,16 +31,16 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 26 shared documents
-- [Barack Obama](../people/barack-obama.md) - 19 shared documents
-- [President Obama](../people/president-obama.md) - 16 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 15 shared documents
 - [Middle East](../people/middle-east.md) - 15 shared documents
-- [President Trump](../people/president-trump.md) - 15 shared documents
-- [Mr. Obama](../people/obama.md) - 13 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 13 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 12 shared documents
-- [President Barack Obama](../people/president-barack-obama.md) - 11 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 11 shared documents
+- [Barack Obama](../people/barack-obama.md) - 11 shared documents
+- [Washington Post](../people/washington-post.md) - 11 shared documents
+- [West Bank](../people/west-bank.md) - 10 shared documents
+- [Cold War](../people/cold-war.md) - 9 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 9 shared documents
 
 **Organizations:**
 
@@ -65,7 +65,7 @@ Trump](../people/trump.md) - 11 shared documents
 - [France](../locations/france.md) - 20 shared documents
 - [Iraq](../locations/iraq.md) - 20 shared documents
 - [United States](../locations/united-states.md) - 19 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 18 shared documents
+- [America](../locations/america.md) - 18 shared documents
 - [Europe](../locations/europe.md) - 18 shared documents
 
 **Events:**
@@ -74,12 +74,12 @@ Trump](../people/trump.md) - 11 shared documents
 - [years](../events/years.md) - 20 shared documents
 - [2003](../events/2003.md) - 18 shared documents
 - [2011](../events/2011.md) - 18 shared documents
+- [2005](../events/2005.md) - 17 shared documents
 - [2009](../events/2009.md) - 17 shared documents
 - [2012](../events/2012.md) - 17 shared documents
 - [2017](../events/2017.md) - 17 shared documents
-- [2005](../events/2005.md) - 17 shared documents
-- [the years](../events/the-years.md) - 17 shared documents
 - [decades](../events/decades.md) - 17 shared documents
+- [the day](../events/the-day.md) - 17 shared documents
 
 ## Timeline
 

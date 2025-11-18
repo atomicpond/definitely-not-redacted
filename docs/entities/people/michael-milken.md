@@ -33,19 +33,19 @@ Top 10 documents by mention frequency:
 - [Donald 
 Trump](donald-trump.md) - 5 shared documents
 - [Cynthia McFadden](cynthia-mcfadden.md) - 4 shared documents
+- [Henry Kravis](henry-kravis.md) - 4 shared documents
 - [Jean Pigozzi](jean-pigozzi.md) - 4 shared documents
 - [Larry Gagosian's](larry-gagosians.md) - 4 shared documents
 - [Michael Douglas](michael-douglas.md) - 4 shared documents
-- [Henry Kravis](henry-kravis.md) - 4 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 6 shared documents
 - [The Wall Street Journal](../organizations/the-wall-street-journal.md) - 6 shared documents
-- [White House](../organizations/white-house.md) - 4 shared documents
-- [the White House](../organizations/the-white-house.md) - 4 shared documents
 - [CNN](../organizations/cnn.md) - 4 shared documents
+- [the White House](../organizations/the-white-house.md) - 4 shared documents
 - [Treasury](../organizations/treasury.md) - 4 shared documents
+- [White House](../organizations/white-house.md) - 4 shared documents
 
 **Locations:**
 
@@ -55,21 +55,21 @@ Trump](donald-trump.md) - 5 shared documents
 - [New York City](../locations/new-york-city.md) - 5 shared documents
 - [Yugoslavia](../locations/yugoslavia.md) - 5 shared documents
 - [New York's](../locations/new-yorks.md) - 4 shared documents
-- [Upper East Side](../locations/upper-east-side.md) - 4 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 4 shared documents
+- [Upper East Side](../locations/upper-east-side.md) - 4 shared documents
 
 **Events:**
 
 - [1985](../events/1985.md) - 6 shared documents
 - [1987](../events/1987.md) - 6 shared documents
 - [September](../events/september.md) - 6 shared documents
+- [35-year-old](../events/35-year-old.md) - 5 shared documents
 - [the next day](../events/the-next-day.md) - 5 shared documents
 - [two years](../events/two-years.md) - 5 shared documents
-- [35-year-old](../events/35-year-old.md) - 5 shared documents
-- [2008](../events/2008.md) - 4 shared documents
-- [Friday](../events/friday.md) - 4 shared documents
-- [last day](../events/last-day.md) - 4 shared documents
 - [13-year-old](../events/13-year-old.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
+- [86-year-old](../events/86-year-old.md) - 4 shared documents
+- [February](../events/february.md) - 4 shared documents
 
 ## Timeline
 

@@ -41,9 +41,9 @@ Top 10 documents by mention frequency:
 - [HOUSE](house.md) - 16 shared documents
 - [Trump](trump.md) - 15 shared documents
 - [the Federal Deposit Insurance Corporation](the-federal-deposit-insurance-corporation.md) - 11 shared documents
-- [Bloomberg](bloomberg.md) - 11 shared documents
 - [ABN](abn.md) - 11 shared documents
 - [Bank](bank.md) - 11 shared documents
+- [Bloomberg](bloomberg.md) - 11 shared documents
 - [Non-US](non-us.md) - 10 shared documents
 - [the Central Bank of Ireland](the-central-bank-of-ireland.md) - 10 shared documents
 - [the Financial Conduct Authority](the-financial-conduct-authority.md) - 10 shared documents
@@ -52,13 +52,13 @@ Top 10 documents by mention frequency:
 
 - [Sun](../locations/sun.md) - 18 shared documents
 - [China](../locations/china.md) - 15 shared documents
-- [Japan](../locations/japan.md) - 13 shared documents
-- [Russia](../locations/russia.md) - 13 shared documents
+- [Asia](../locations/asia.md) - 13 shared documents
 - [Brazil](../locations/brazil.md) - 13 shared documents
 - [Canada](../locations/canada.md) - 13 shared documents
-- [Asia](../locations/asia.md) - 13 shared documents
+- [Japan](../locations/japan.md) - 13 shared documents
+- [Russia](../locations/russia.md) - 13 shared documents
 - [Spain](../locations/spain.md) - 13 shared documents
-- [New York](../locations/new-york.md) - 12 shared documents
+- [Australia](../locations/australia.md) - 12 shared documents
 - [Germany](../locations/germany.md) - 12 shared documents
 
 **Events:**
@@ -66,10 +66,12 @@ Top 10 documents by mention frequency:
 - [today](../events/today.md) - 20 shared documents
 - [2017](../events/2017.md) - 18 shared documents
 - [the day](../events/the-day.md) - 13 shared documents
-- [2018](../events/2018.md) - 11 shared documents
 - [2016](../events/2016.md) - 11 shared documents
+- [2018](../events/2018.md) - 11 shared documents
 - [2015](../events/2015.md) - 10 shared documents
 - [this year](../events/this-year.md) - 10 shared documents
+- [1959](../events/1959.md) - 9 shared documents
+- [198602883D](../events/198602883d.md) - 9 shared documents
 - [2000](../events/2000.md) - 9 shared documents
 
 ## Timeline

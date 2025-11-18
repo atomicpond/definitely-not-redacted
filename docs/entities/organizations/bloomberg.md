@@ -62,8 +62,8 @@ Top 10 documents by mention frequency:
 - [Japan](../locations/japan.md) - 40 shared documents
 - [Europe](../locations/europe.md) - 37 shared documents
 - [Asia](../locations/asia.md) - 35 shared documents
-- [Brazil](../locations/brazil.md) - 34 shared documents
 - [Australia](../locations/australia.md) - 34 shared documents
+- [Brazil](../locations/brazil.md) - 34 shared documents
 - [India](../locations/india.md) - 33 shared documents
 - [Canada](../locations/canada.md) - 32 shared documents
 
@@ -76,9 +76,9 @@ Top 10 documents by mention frequency:
 - [2001](../events/2001.md) - 29 shared documents
 - [annual](../events/annual.md) - 27 shared documents
 - [this year](../events/this-year.md) - 27 shared documents
-- [2018](../events/2018.md) - 26 shared documents
-- [2014](../events/2014.md) - 26 shared documents
 - [2000](../events/2000.md) - 26 shared documents
+- [2014](../events/2014.md) - 26 shared documents
+- [2018](../events/2018.md) - 26 shared documents
 
 ## Timeline
 

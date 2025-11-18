@@ -36,13 +36,12 @@ Top 10 documents by mention frequency:
 - [Jeffrey Epstein](jeffrey-epstein.md) - 22 shared documents
 - [Landon](landon.md) - 19 shared documents
 - [Jeffrey E](jeffrey-e.md) - 18 shared documents
-- [jr thomas](jr-thomas.md) - 17 shared documents
 - [Financial Reporter](financial-reporter.md) - 17 shared documents
+- [jr thomas](jr-thomas.md) - 17 shared documents
 - [jeffrey E. <](jeffrey-e.md) - 15 shared documents
-- [Mr. 
-Trump](trump.md) - 13 shared documents
 - [jr thomas/inde  
 x.html](jr-thomas-inde-xhtml.md) - 9 shared documents
+- [Bill Gates](bill-gates.md) - 6 shared documents
 
 **Organizations:**
 
@@ -50,21 +49,21 @@ x.html](jr-thomas-inde-xhtml.md) - 9 shared documents
 - [HOUSE](../organizations/house.md) - 28 shared documents
 - [Trump](../organizations/trump.md) - 11 shared documents
 - [NYT](../organizations/nyt.md) - 10 shared documents
-- [Congress](../organizations/congress.md) - 6 shared documents
-- [the White House](../organizations/the-white-house.md) - 6 shared documents
+- [Abraaj](../organizations/abraaj.md) - 6 shared documents
+- [BLACKROCK](../organizations/blackrock.md) - 6 shared documents
 - [CIA](../organizations/cia.md) - 6 shared documents
-- [Pentagon](../organizations/pentagon.md) - 6 shared documents
-- [Royal](../organizations/royal.md) - 6 shared documents
-- [SAMA](../organizations/sama.md) - 6 shared documents
+- [Congress](../organizations/congress.md) - 6 shared documents
+- [consuner tech](../organizations/consuner-tech.md) - 6 shared documents
+- [infrastrucrue tech](../organizations/infrastrucrue-tech.md) - 6 shared documents
 
 **Locations:**
 
 - [France](../locations/france.md) - 8 shared documents
 - [London](../locations/london.md) - 7 shared documents
-- [USA](../locations/usa.md) - 6 shared documents
-- [Saudi Arabia](../locations/saudi-arabia.md) - 6 shared documents
-- [Paris](../locations/paris.md) - 6 shared documents
 - [Istanbul](../locations/istanbul.md) - 6 shared documents
+- [Paris](../locations/paris.md) - 6 shared documents
+- [Saudi Arabia](../locations/saudi-arabia.md) - 6 shared documents
+- [USA](../locations/usa.md) - 6 shared documents
 - [NYC](../locations/nyc.md) - 4 shared documents
 
 **Events:**

@@ -25,8 +25,8 @@ Top 5 documents by mention frequency:
 **Organizations:**
 
 - [LLC](llc.md) - 5 shared documents
-- [CASA](casa.md) - 5 shared documents
 - [ASSOC](assoc.md) - 5 shared documents
+- [CASA](casa.md) - 5 shared documents
 
 **Locations:**
 
@@ -38,11 +38,11 @@ Top 5 documents by mention frequency:
 
 - [2005](../events/2005.md) - 5 shared documents
 - [winter](../events/winter.md) - 5 shared documents
-- [2007](../events/2007.md) - 4 shared documents
-- [2000](../events/2000.md) - 4 shared documents
-- [1997](../events/1997.md) - 4 shared documents
-- [2008](../events/2008.md) - 4 shared documents
 - [1995](../events/1995.md) - 4 shared documents
+- [1997](../events/1997.md) - 4 shared documents
+- [2000](../events/2000.md) - 4 shared documents
+- [2007](../events/2007.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
 
 ## Timeline
 

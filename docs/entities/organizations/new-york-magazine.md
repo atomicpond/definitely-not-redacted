@@ -46,9 +46,9 @@ Top 10 documents by mention frequency:
 - [Times](times.md) - 15 shared documents
 - [Harvard](harvard.md) - 15 shared documents
 - [Vanity Fair](vanity-fair.md) - 12 shared documents
-- [ISIS](isis.md) - 11 shared documents
-- [Cooper Union](cooper-union.md) - 11 shared documents
 - [Carnegie](carnegie.md) - 11 shared documents
+- [Cooper Union](cooper-union.md) - 11 shared documents
+- [ISIS](isis.md) - 11 shared documents
 - [NYU](nyu.md) - 10 shared documents
 - [New York Post](new-york-post.md) - 9 shared documents
 - [Rockefeller](rockefeller.md) - 9 shared documents
@@ -57,26 +57,26 @@ Top 10 documents by mention frequency:
 
 - [Palm Beach](../locations/palm-beach.md) - 14 shared documents
 - [Manhattan](../locations/manhattan.md) - 13 shared documents
-- [Paris](../locations/paris.md) - 12 shared documents
 - [Coney Island](../locations/coney-island.md) - 12 shared documents
-- [Europe](../locations/europe.md) - 11 shared documents
-- [Qatar](../locations/qatar.md) - 11 shared documents
-- [New Mexico](../locations/new-mexico.md) - 11 shared documents
+- [Paris](../locations/paris.md) - 12 shared documents
 - [Dalton](../locations/dalton.md) - 11 shared documents
-- [New York](../locations/new-york.md) - 9 shared documents
+- [Europe](../locations/europe.md) - 11 shared documents
+- [New Mexico](../locations/new-mexico.md) - 11 shared documents
+- [Qatar](../locations/qatar.md) - 11 shared documents
 - [Caribbean](../locations/caribbean.md) - 9 shared documents
+- [Connecticut](../locations/connecticut.md) - 9 shared documents
 
 **Events:**
 
-- [tomorrow](../events/tomorrow.md) - 14 shared documents
 - [2002](../events/2002.md) - 14 shared documents
+- [tomorrow](../events/tomorrow.md) - 14 shared documents
+- [1982](../events/1982.md) - 12 shared documents
 - [2004](../events/2004.md) - 12 shared documents
 - [Sunday](../events/sunday.md) - 12 shared documents
 - [two years](../events/two-years.md) - 12 shared documents
-- [1982](../events/1982.md) - 12 shared documents
-- [daily](../events/daily.md) - 11 shared documents
 - [1953](../events/1953.md) - 11 shared documents
 - [1994](../events/1994.md) - 11 shared documents
+- [daily](../events/daily.md) - 11 shared documents
 - [1974](../events/1974.md) - 10 shared documents
 
 ## Timeline

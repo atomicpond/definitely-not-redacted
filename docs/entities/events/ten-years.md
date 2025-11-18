@@ -70,8 +70,8 @@ Top 10 documents by mention frequency:
 - [2002](2002.md) - 25 shared documents
 - [two years](two-years.md) - 24 shared documents
 - [2009](2009.md) - 24 shared documents
-- [last year](last-year.md) - 23 shared documents
 - [2010](2010.md) - 23 shared documents
+- [last year](last-year.md) - 23 shared documents
 - [many years](many-years.md) - 23 shared documents
 - [1994](1994.md) - 22 shared documents
 

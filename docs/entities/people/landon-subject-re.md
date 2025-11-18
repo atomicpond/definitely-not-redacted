@@ -32,33 +32,31 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Thomas Jr](thomas-jr.md) - 10 shared documents
-- [jr thomas](jr-thomas.md) - 10 shared documents
 - [Jeffrey E](jeffrey-e.md) - 10 shared documents
+- [jr thomas](jr-thomas.md) - 10 shared documents
 - [Landon](landon.md) - 10 shared documents
 - [Landon Thomas](landon-thomas.md) - 9 shared documents
 - [jeffrey E. <](jeffrey-e.md) - 6 shared documents
 - [jr thomas/inde  
 x.html](jr-thomas-inde-xhtml.md) - 6 shared documents
-- [Mr. 
-Trump](trump.md) - 5 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 10 shared documents
 - [New York Times](../organizations/new-york-times.md) - 10 shared documents
-- [Congress](../organizations/congress.md) - 4 shared documents
-- [the White House](../organizations/the-white-house.md) - 4 shared documents
 - [CIA](../organizations/cia.md) - 4 shared documents
+- [Congress](../organizations/congress.md) - 4 shared documents
 - [Pentagon](../organizations/pentagon.md) - 4 shared documents
+- [the White House](../organizations/the-white-house.md) - 4 shared documents
 
 **Locations:**
 
-- [USA](../locations/usa.md) - 4 shared documents
-- [London](../locations/london.md) - 4 shared documents
 - [France](../locations/france.md) - 4 shared documents
-- [Saudi Arabia](../locations/saudi-arabia.md) - 4 shared documents
-- [Paris](../locations/paris.md) - 4 shared documents
 - [Istanbul](../locations/istanbul.md) - 4 shared documents
+- [London](../locations/london.md) - 4 shared documents
+- [Paris](../locations/paris.md) - 4 shared documents
+- [Saudi Arabia](../locations/saudi-arabia.md) - 4 shared documents
+- [USA](../locations/usa.md) - 4 shared documents
 
 **Events:**
 

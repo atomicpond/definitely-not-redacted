@@ -29,14 +29,14 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
-- [London](../locations/london.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 5 shared documents
+- [London](../locations/london.md) - 5 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 6 shared documents
-- [2011](../events/2011.md) - 4 shared documents
 - [16](../events/16.md) - 4 shared documents
+- [2011](../events/2011.md) - 4 shared documents
 
 ## Timeline
 

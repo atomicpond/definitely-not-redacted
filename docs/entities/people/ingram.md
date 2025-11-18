@@ -29,18 +29,18 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [jeff epstein](jeff-epstein.md) - 15 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 15 shared documents
 - [martin Weinberg](martin-weinberg.md) - 15 shared documents
+- [David](david.md) - 15 shared documents
 - [Donald 
 Trump](donald-trump.md) - 15 shared documents
-- [Epstein](epstein.md) - 15 shared documents
-- [David](david.md) - 15 shared documents
 - [Jeffrey E](jeffrey-e.md) - 14 shared documents
 - [marty](marty.md) - 14 shared documents
 - [David Ingram 
 Correspondent](david-ingram-correspondent.md) - 10 shared documents
 - [Is Mr](is-mr.md) - 8 shared documents
+- [katie johnson v](katie-johnson-v.md) - 8 shared documents
+- [MARTIN G. WEINBERG](martin-g-weinberg.md) - 8 shared documents
 
 **Organizations:**
 
@@ -59,15 +59,15 @@ Office](../organizations/thomson-reuters-office.md) - 6 shared documents
 
 **Events:**
 
+- [1994](../events/1994.md) - 15 shared documents
 - [2016](../events/2016.md) - 15 shared documents
 - [this week](../events/this-week.md) - 15 shared documents
-- [1994](../events/1994.md) - 15 shared documents
-- [April 28, 2016](../events/april-28-2016.md) - 8 shared documents
 - [12:14 PM](../events/1214-pm.md) - 8 shared documents
 - [12:14:37 PM EDT](../events/121437-pm-edt.md) - 8 shared documents
 - [12:20 PM](../events/1220-pm.md) - 8 shared documents
 - [4/28/2016](../events/4282016.md) - 8 shared documents
 - [Apr 28, 2016](../events/apr-28-2016.md) - 8 shared documents
+- [April 28, 2016](../events/april-28-2016.md) - 8 shared documents
 - [Thu, Apr 28](../events/thu-apr-28.md) - 8 shared documents
 
 ## Timeline

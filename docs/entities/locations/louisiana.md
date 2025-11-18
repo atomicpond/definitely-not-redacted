@@ -50,23 +50,23 @@ Top 10 documents by mention frequency:
 - [Illinois](illinois.md) - 11 shared documents
 - [Michigan](michigan.md) - 10 shared documents
 - [United States](united-states.md) - 10 shared documents
-- [Florida](florida.md) - 10 shared documents
 - [Colorado](colorado.md) - 10 shared documents
+- [Florida](florida.md) - 10 shared documents
 - [Mississippi](mississippi.md) - 9 shared documents
 - [New Jersey](new-jersey.md) - 9 shared documents
 
 **Events:**
 
-- [2000](../events/2000.md) - 10 shared documents
 - [1985](../events/1985.md) - 10 shared documents
+- [2000](../events/2000.md) - 10 shared documents
 - [1996](../events/1996.md) - 9 shared documents
 - [1998](../events/1998.md) - 9 shared documents
-- [2010](../events/2010.md) - 9 shared documents
 - [2006](../events/2006.md) - 9 shared documents
-- [2004](../events/2004.md) - 8 shared documents
-- [2007](../events/2007.md) - 8 shared documents
-- [2009](../events/2009.md) - 8 shared documents
-- [2012](../events/2012.md) - 8 shared documents
+- [2010](../events/2010.md) - 9 shared documents
+- [1976](../events/1976.md) - 8 shared documents
+- [1979](../events/1979.md) - 8 shared documents
+- [1990](../events/1990.md) - 8 shared documents
+- [1994](../events/1994.md) - 8 shared documents
 
 ## Timeline
 

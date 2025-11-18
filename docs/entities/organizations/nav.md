@@ -28,22 +28,22 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Japan](../locations/japan.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
+- [Asia](../locations/asia.md) - 4 shared documents
+- [Australia](../locations/australia.md) - 4 shared documents
 - [Brazil](../locations/brazil.md) - 4 shared documents
 - [Canada](../locations/canada.md) - 4 shared documents
-- [Mexico](../locations/mexico.md) - 4 shared documents
-- [Asia](../locations/asia.md) - 4 shared documents
 - [Frankfurt](../locations/frankfurt.md) - 4 shared documents
-- [Australia](../locations/australia.md) - 4 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 4 shared documents
-- [Singapore](../locations/singapore.md) - 4 shared documents
+- [India](../locations/india.md) - 4 shared documents
+- [Indonesia](../locations/indonesia.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
+- [Mexico](../locations/mexico.md) - 4 shared documents
 
 **Events:**
 
-- [2018](../events/2018.md) - 4 shared documents
 - [2015](../events/2015.md) - 4 shared documents
 - [2017](../events/2017.md) - 4 shared documents
+- [2018](../events/2018.md) - 4 shared documents
 - [2019](../events/2019.md) - 4 shared documents
 
 ## Timeline

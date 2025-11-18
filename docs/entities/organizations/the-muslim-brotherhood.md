@@ -30,27 +30,27 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 18 shared documents
 - [Middle East](../people/middle-east.md) - 16 shared documents
-- [Mr. Obama](../people/obama.md) - 14 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 14 shared documents
-- [Barack Obama](../people/barack-obama.md) - 13 shared documents
 - [Islamic Republic](../people/islamic-republic.md) - 13 shared documents
 - [Hosni Mubarak](../people/hosni-mubarak.md) - 11 shared documents
 - [Mr. Mubarak](../people/mubarak.md) - 11 shared documents
 - [White House](../people/white-house.md) - 11 shared documents
 - [Assad](../people/assad.md) - 9 shared documents
+- [Cold War](../people/cold-war.md) - 9 shared documents
+- [General Assembly](../people/general-assembly.md) - 9 shared documents
+- [Tahrir Square](../people/tahrir-square.md) - 9 shared documents
 
 **Organizations:**
 
-- [Congress](congress.md) - 18 shared documents
 - [al-Qaeda](al-qaeda.md) - 18 shared documents
+- [Congress](congress.md) - 18 shared documents
 - [Hamas](hamas.md) - 18 shared documents
 - [Islam](islam.md) - 18 shared documents
 - [Benghazi](benghazi.md) - 14 shared documents
 - [CIA](cia.md) - 11 shared documents
-- [NYT](nyt.md) - 11 shared documents
 - [Muslim Brotherhood](muslim-brotherhood.md) - 11 shared documents
+- [NYT](nyt.md) - 11 shared documents
 - [the United Nations](the-united-nations.md) - 9 shared documents
 - [UN](un.md) - 9 shared documents
 
@@ -63,7 +63,7 @@ Top 10 documents by mention frequency:
 - [Russia](../locations/russia.md) - 18 shared documents
 - [Syria](../locations/syria.md) - 18 shared documents
 - [the United States](../locations/the-united-states.md) - 18 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 17 shared documents
+- [Gaza](../locations/gaza.md) - 17 shared documents
 - [Iraq](../locations/iraq.md) - 17 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 17 shared documents
 

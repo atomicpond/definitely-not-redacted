@@ -57,8 +57,8 @@ Objet](../organizations/caroline-objet.md) - 5 shared documents
 - [week-end](week-end.md) - 5 shared documents
 - [2017](2017.md) - 5 shared documents
 - [a great week](a-great-week.md) - 5 shared documents
-- [Fri, Feb 10, 2017](fri-feb-10-2017.md) - 5 shared documents
 - [Feb 14, 2017](feb-14-2017.md) - 5 shared documents
+- [Fri, Feb 10, 2017](fri-feb-10-2017.md) - 5 shared documents
 
 ## Timeline
 

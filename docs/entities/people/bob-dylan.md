@@ -37,8 +37,8 @@ Top 8 documents by mention frequency:
 **Organizations:**
 
 - [the New York Times](../organizations/the-new-york-times.md) - 8 shared documents
-- [FBI](../organizations/fbi.md) - 5 shared documents
 - [Associated Press](../organizations/associated-press.md) - 5 shared documents
+- [FBI](../organizations/fbi.md) - 5 shared documents
 - [National Lampoon](../organizations/national-lampoon.md) - 5 shared documents
 - [Rolling Stone](../organizations/rolling-stone.md) - 5 shared documents
 - [the Free Speech Movement](../organizations/the-free-speech-movement.md) - 5 shared documents
@@ -54,12 +54,12 @@ Top 8 documents by mention frequency:
 **Events:**
 
 - [1969](../events/1969.md) - 7 shared documents
-- [two years](../events/two-years.md) - 6 shared documents
-- [the day](../events/the-day.md) - 6 shared documents
-- [1980](../events/1980.md) - 6 shared documents
 - [1965](../events/1965.md) - 6 shared documents
-- [1970](../events/1970.md) - 5 shared documents
+- [1980](../events/1980.md) - 6 shared documents
+- [the day](../events/the-day.md) - 6 shared documents
+- [two years](../events/two-years.md) - 6 shared documents
 - [1952](../events/1952.md) - 5 shared documents
+- [1970](../events/1970.md) - 5 shared documents
 - [1992](../events/1992.md) - 5 shared documents
 - [A few years later](../events/a-few-years-later.md) - 5 shared documents
 - [Christmas Day](../events/christmas-day.md) - 5 shared documents

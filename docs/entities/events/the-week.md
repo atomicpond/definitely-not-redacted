@@ -60,12 +60,12 @@ Top 10 documents by mention frequency:
 - [today](today.md) - 19 shared documents
 - [months](months.md) - 18 shared documents
 - [this year](this-year.md) - 17 shared documents
-- [Monday](monday.md) - 17 shared documents
 - [Friday](friday.md) - 17 shared documents
+- [Monday](monday.md) - 17 shared documents
 - [the day](the-day.md) - 17 shared documents
 - [years](years.md) - 16 shared documents
-- [daily](daily.md) - 15 shared documents
 - [a year](a-year.md) - 15 shared documents
+- [daily](daily.md) - 15 shared documents
 
 ## Timeline
 

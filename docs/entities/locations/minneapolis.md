@@ -31,7 +31,6 @@ Top 10 documents by mention frequency:
 
 - [Cynthia Jewett](../people/cynthia-jewett.md) - 11 shared documents
 - [Kiaran Kirk](../people/kiaran-kirk.md) - 11 shared documents
-- [Lawrence Krauss](../people/lawrence-krauss.md) - 11 shared documents
 - [Peter Aldhous](../people/peter-aldhous.md) - 11 shared documents
 
 **Organizations:**
@@ -51,27 +50,27 @@ Top 10 documents by mention frequency:
 
 - [Australia](australia.md) - 14 shared documents
 - [Iowa](iowa.md) - 14 shared documents
-- [London](london.md) - 13 shared documents
 - [America](america.md) - 13 shared documents
+- [London](london.md) - 13 shared documents
 - [Tempe](tempe.md) - 12 shared documents
 - [Arizona](arizona.md) - 12 shared documents
 - [Canberra](canberra.md) - 12 shared documents
 - [Las Vegas](las-vegas.md) - 12 shared documents
 - [the Galapagos Islands](the-galapagos-islands.md) - 11 shared documents
-- [Florida](florida.md) - 11 shared documents
+- [Arizona State](arizona-state.md) - 11 shared documents
 
 **Events:**
 
-- [2007](../events/2007.md) - 13 shared documents
-- [2014](../events/2014.md) - 13 shared documents
-- [this year](../events/this-year.md) - 13 shared documents
-- [2008](../events/2008.md) - 13 shared documents
-- [April 2011](../events/april-2011.md) - 13 shared documents
 - [2006](../events/2006.md) - 13 shared documents
+- [2007](../events/2007.md) - 13 shared documents
+- [2008](../events/2008.md) - 13 shared documents
+- [2014](../events/2014.md) - 13 shared documents
+- [April 2011](../events/april-2011.md) - 13 shared documents
+- [this year](../events/this-year.md) - 13 shared documents
 - [weeks](../events/weeks.md) - 13 shared documents
-- [October](../events/october.md) - 12 shared documents
 - [May 2011](../events/may-2011.md) - 12 shared documents
-- [85287-1404](../events/85287-1404.md) - 11 shared documents
+- [October](../events/october.md) - 12 shared documents
+- [2016](../events/2016.md) - 11 shared documents
 
 ## Timeline
 

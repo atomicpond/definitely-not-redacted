@@ -29,7 +29,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [andrew](../people/andrew.md) - 10 shared documents
 - [Bill 
 Clinton](../people/bill-clinton.md) - 10 shared documents
 - [Boris Nikolic](../people/boris-nikolic.md) - 10 shared documents
@@ -47,11 +46,11 @@ Andrew](../people/prince-andrew.md) - 10 shared documents
 
 **Events:**
 
-- [yesterday](../events/yesterday.md) - 10 shared documents
 - [day](../events/day.md) - 10 shared documents
 - [Thu, Jan 28, 2010](../events/thu-jan-28-2010.md) - 10 shared documents
 - [Thursday, January 28, 2010](../events/thursday-january-28-2010.md) - 10 shared documents
 - [Thursday, January 28 2010](../events/thursday-january-28-2010.md) - 10 shared documents
+- [yesterday](../events/yesterday.md) - 10 shared documents
 
 ## Timeline
 

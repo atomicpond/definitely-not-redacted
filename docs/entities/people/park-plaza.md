@@ -32,38 +32,37 @@ Top 10 documents by mention frequency:
 - [High 
 Privileged](high-privileged.md) - 5 shared documents
 - [MARTIN G. WEINBERG](martin-g-weinberg.md) - 5 shared documents
-- [President Clinton](president-clinton.md) - 4 shared documents
-- [Little St](little-st.md) - 4 shared documents
 - [James E.](james-e.md) - 4 shared documents
+- [Little St](little-st.md) - 4 shared documents
 
 **Organizations:**
 
 - [the Law Office of 
 ](../organizations/the-law-office-of.md) - 10 shared documents
-- [Maxwell](../organizations/maxwell.md) - 5 shared documents
 - [CVRA](../organizations/cvra.md) - 5 shared documents
-- [HOUSE](../organizations/house.md) - 4 shared documents
-- [iPad](../organizations/ipad.md) - 4 shared documents
+- [Maxwell](../organizations/maxwell.md) - 5 shared documents
 - [ABC](../organizations/abc.md) - 4 shared documents
 - [ABC News](../organizations/abc-news.md) - 4 shared documents
+- [HOUSE](../organizations/house.md) - 4 shared documents
+- [iPad](../organizations/ipad.md) - 4 shared documents
 
 **Locations:**
 
 - [Boston](../locations/boston.md) - 11 shared documents
-- [Palm Beach](../locations/palm-beach.md) - 6 shared documents
 - [Boston, MA](../locations/boston-ma.md) - 6 shared documents
 - [MA 02116](../locations/ma-02116.md) - 6 shared documents
+- [Palm Beach](../locations/palm-beach.md) - 6 shared documents
 - [Boston, MA](../locations/boston-ma.md) - 5 shared documents
 - [America](../locations/america.md) - 4 shared documents
 
 **Events:**
 
 - [a couple of weeks](../events/a-couple-of-weeks.md) - 5 shared documents
+- [1999](../events/1999.md) - 4 shared documents
 - [2007](../events/2007.md) - 4 shared documents
 - [2015](../events/2015.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [1999](../events/1999.md) - 4 shared documents
 - [Friday](../events/friday.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

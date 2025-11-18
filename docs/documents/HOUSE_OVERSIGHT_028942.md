@@ -9,7 +9,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Obama](../entities/people/mr-obama.md) - 2 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 2 mentions
 - [Media Lab](../entities/people/media-lab.md) - 1 mention
 - [High 
 Good](../entities/people/high-good.md) - 1 mention

@@ -29,14 +29,14 @@ Top 5 documents by mention frequency:
 **Events:**
 
 - [2003](2003.md) - 4 shared documents
-- [2018](2018.md) - 4 shared documents
 - [2015](2015.md) - 4 shared documents
+- [2017](2017.md) - 4 shared documents
+- [2018](2018.md) - 4 shared documents
+- [a decade](a-decade.md) - 4 shared documents
 - [annual](annual.md) - 4 shared documents
 - [daily](daily.md) - 4 shared documents
-- [2017](2017.md) - 4 shared documents
-- [November 2016](november-2016.md) - 4 shared documents
-- [a decade](a-decade.md) - 4 shared documents
 - [January 2017](january-2017.md) - 4 shared documents
+- [November 2016](november-2016.md) - 4 shared documents
 
 ## Timeline
 

@@ -34,13 +34,9 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Lawrence Krauss](../people/lawrence-krauss.md) - 11 shared documents
-- [Lawrence M. Krauss](../people/lawrence-m-krauss.md) - 11 shared documents
-- [Epstein](../people/epstein.md) - 10 shared documents
 - [Jeffrey](../people/jeffrey.md) - 10 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 10 shared documents
-- [Krauss](../people/krauss.md) - 10 shared documents
 - [Rebecca Watson](../people/rebecca-watson.md) - 10 shared documents
-- [Lawrence](../people/lawrence.md) - 6 shared documents
 
 **Organizations:**
 
@@ -68,11 +64,11 @@ School of Earth and Space Exploration](sciences-school-of-earth-and-space-explor
 **Events:**
 
 - [85287-1404](../events/85287-1404.md) - 11 shared documents
-- [today](../events/today.md) - 10 shared documents
-- [April 6, 2011](../events/april-6-2011.md) - 10 shared documents
-- [this weekend](../events/this-weekend.md) - 10 shared documents
 - [a few months ago](../events/a-few-months-ago.md) - 10 shared documents
 - [Apr 6, 2011](../events/apr-6-2011.md) - 10 shared documents
+- [April 6, 2011](../events/april-6-2011.md) - 10 shared documents
+- [this weekend](../events/this-weekend.md) - 10 shared documents
+- [today](../events/today.md) - 10 shared documents
 - [Wed, Apr 6, 2011](../events/wed-apr-6-2011.md) - 10 shared documents
 - [Thu, Apr 7, 2011](../events/thu-apr-7-2011.md) - 9 shared documents
 

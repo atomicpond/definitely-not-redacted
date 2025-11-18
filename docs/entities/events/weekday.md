@@ -50,12 +50,12 @@ Top 5 documents by mention frequency:
 - [weekly](weekly.md) - 5 shared documents
 - [today](today.md) - 5 shared documents
 - [annual](annual.md) - 4 shared documents
-- [the 1980s](the-1980s.md) - 4 shared documents
-- [Thursday](thursday.md) - 4 shared documents
 - [last year](last-year.md) - 4 shared documents
 - [Monday](monday.md) - 4 shared documents
 - [Sunday](sunday.md) - 4 shared documents
+- [the 1980s](the-1980s.md) - 4 shared documents
 - [the weekend](the-weekend.md) - 4 shared documents
+- [Thursday](thursday.md) - 4 shared documents
 
 ## Timeline
 

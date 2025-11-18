@@ -48,20 +48,20 @@ Trump](donald-trump.md) - 7 shared documents
 
 **Locations:**
 
-- [California](../locations/california.md) - 7 shared documents
-- [Middle East](../locations/middle-east.md) - 7 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 7 shared documents
 - [Africa](../locations/africa.md) - 7 shared documents
-- [Europe](../locations/europe.md) - 7 shared documents
-- [Qatar](../locations/qatar.md) - 7 shared documents
-- [Doha](../locations/doha.md) - 7 shared documents
 - [c2c](../locations/c2c.md) - 7 shared documents
+- [California](../locations/california.md) - 7 shared documents
+- [Doha](../locations/doha.md) - 7 shared documents
+- [Europe](../locations/europe.md) - 7 shared documents
+- [Middle East](../locations/middle-east.md) - 7 shared documents
+- [Qatar](../locations/qatar.md) - 7 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 7 shared documents
 
 **Events:**
 
-- [two years](../events/two-years.md) - 7 shared documents
 - [11/2/2012](../events/1122012.md) - 7 shared documents
 - [40 years of age](../events/40-years-of-age.md) - 7 shared documents
+- [two years](../events/two-years.md) - 7 shared documents
 - [Jan 12, 2012](../events/jan-12-2012.md) - 6 shared documents
 
 ## Timeline

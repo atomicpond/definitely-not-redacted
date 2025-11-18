@@ -31,14 +31,14 @@ Top 10 documents by mention frequency:
 
 - [Jane Doe](../people/jane-doe.md) - 15 shared documents
 - [Paul Cassell](../people/paul-cassell.md) - 13 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 11 shared documents
 - [Crime Victims](../people/crime-victims.md) - 11 shared documents
 - [Jack Scarola](../people/jack-scarola.md) - 11 shared documents
 - [New Mexico](../people/new-mexico.md) - 11 shared documents
 - [Rights Act](../people/rights-act.md) - 11 shared documents
 - [Paul G. Cassell](../people/paul-g-cassell.md) - 10 shared documents
 - [Sarah Kellen](../people/sarah-kellen.md) - 9 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 8 shared documents
+- [Jane Does](../people/jane-does.md) - 8 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 7 shared documents
 
 **Organizations:**
 
@@ -61,23 +61,23 @@ Top 10 documents by mention frequency:
 - [United States](../locations/united-states.md) - 13 shared documents
 - [Virginia](../locations/virginia.md) - 13 shared documents
 - [the United States](../locations/the-united-states.md) - 12 shared documents
-- [Washington](../locations/washington.md) - 11 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 11 shared documents
 - [New Mexico](../locations/new-mexico.md) - 11 shared documents
-- [U.S.](../locations/us.md) - 10 shared documents
+- [the Southern District](../locations/the-southern-district.md) - 11 shared documents
+- [Washington](../locations/washington.md) - 11 shared documents
+- [England](../locations/england.md) - 10 shared documents
 
 **Events:**
 
 - [2007](../events/2007.md) - 14 shared documents
-- [2011](../events/2011.md) - 13 shared documents
-- [2010](../events/2010.md) - 13 shared documents
-- [2006](../events/2006.md) - 13 shared documents
 - [2002](../events/2002.md) - 13 shared documents
-- [2009](../events/2009.md) - 12 shared documents
+- [2006](../events/2006.md) - 13 shared documents
+- [2010](../events/2010.md) - 13 shared documents
+- [2011](../events/2011.md) - 13 shared documents
 - [1998](../events/1998.md) - 12 shared documents
 - [2005](../events/2005.md) - 12 shared documents
 - [2008](../events/2008.md) - 12 shared documents
-- [2003](../events/2003.md) - 11 shared documents
+- [2009](../events/2009.md) - 12 shared documents
+- [1999](../events/1999.md) - 11 shared documents
 
 ## Timeline
 

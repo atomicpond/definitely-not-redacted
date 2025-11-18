@@ -26,27 +26,27 @@ Top 5 documents by mention frequency:
 **Organizations:**
 
 - [Supreme Court](supreme-court.md) - 5 shared documents
-- [Senate](senate.md) - 4 shared documents
 - [Congress](congress.md) - 4 shared documents
 - [Court](court.md) - 4 shared documents
-- [State](state.md) - 4 shared documents
 - [SEC](sec.md) - 4 shared documents
+- [Senate](senate.md) - 4 shared documents
+- [State](state.md) - 4 shared documents
 
 **Locations:**
 
 - [California](../locations/california.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
 - [the United States](../locations/the-united-states.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 4 shared documents
 
 **Events:**
 
-- [2004](../events/2004.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
-- [1996](../events/1996.md) - 4 shared documents
-- [1985](../events/1985.md) - 4 shared documents
 - [1970](../events/1970.md) - 4 shared documents
+- [1985](../events/1985.md) - 4 shared documents
 - [1988](../events/1988.md) - 4 shared documents
 - [1992](../events/1992.md) - 4 shared documents
+- [1996](../events/1996.md) - 4 shared documents
+- [2004](../events/2004.md) - 4 shared documents
+- [annual](../events/annual.md) - 4 shared documents
 
 ## Timeline
 

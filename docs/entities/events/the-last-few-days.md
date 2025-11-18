@@ -32,10 +32,10 @@ Top 8 documents by mention frequency:
 **Events:**
 
 - [today](today.md) - 6 shared documents
-- [2012](2012.md) - 4 shared documents
-- [next year](next-year.md) - 4 shared documents
-- [last week](last-week.md) - 4 shared documents
 - [1980](1980.md) - 4 shared documents
+- [2012](2012.md) - 4 shared documents
+- [last week](last-week.md) - 4 shared documents
+- [next year](next-year.md) - 4 shared documents
 
 ## Timeline
 

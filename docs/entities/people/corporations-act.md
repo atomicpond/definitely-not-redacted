@@ -30,12 +30,12 @@ Top 4 documents by mention frequency:
 
 **Locations:**
 
-- [China](../locations/china.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
-- [Canada](../locations/canada.md) - 4 shared documents
-- [London](../locations/london.md) - 4 shared documents
 - [Australia](../locations/australia.md) - 4 shared documents
+- [Canada](../locations/canada.md) - 4 shared documents
+- [China](../locations/china.md) - 4 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
+- [London](../locations/london.md) - 4 shared documents
 - [Singapore](../locations/singapore.md) - 4 shared documents
 
 **Events:**

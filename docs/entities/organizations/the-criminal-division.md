@@ -39,38 +39,38 @@ Top 9 documents by mention frequency:
 - [State](state.md) - 8 shared documents
 - [Department](department.md) - 7 shared documents
 - [Government](government.md) - 7 shared documents
-- [HOUSE](house.md) - 6 shared documents
-- [Senate](senate.md) - 6 shared documents
 - [Congress](congress.md) - 6 shared documents
+- [Criminal Division](criminal-division.md) - 6 shared documents
+- [HOUSE](house.md) - 6 shared documents
 - [Justice Department](justice-department.md) - 6 shared documents
 - [Office](office.md) - 6 shared documents
-- [Criminal Division](criminal-division.md) - 6 shared documents
+- [Senate](senate.md) - 6 shared documents
 
 **Locations:**
 
+- [D.C.](../locations/dc.md) - 8 shared documents
 - [United States](../locations/united-states.md) - 8 shared documents
 - [Washington](../locations/washington.md) - 8 shared documents
-- [D.C.](../locations/dc.md) - 8 shared documents
 - [California](../locations/california.md) - 7 shared documents
 - [Florida](../locations/florida.md) - 7 shared documents
 - [the United States](../locations/the-united-states.md) - 7 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 6 shared documents
 - [N.W.](../locations/nw.md) - 6 shared documents
-- [U.S.](../locations/us.md) - 5 shared documents
-- [USA](../locations/usa.md) - 5 shared documents
+- [777 South Figueroa Street](../locations/777-south-figueroa-street.md) - 5 shared documents
+- [950 Pennsylvania Avenue](../locations/950-pennsylvania-avenue.md) - 5 shared documents
 
 **Events:**
 
 - [2007](../events/2007.md) - 7 shared documents
-- [2004](../events/2004.md) - 5 shared documents
-- [1985](../events/1985.md) - 5 shared documents
-- [1997](../events/1997.md) - 5 shared documents
-- [2005](../events/2005.md) - 5 shared documents
-- [2006](../events/2006.md) - 5 shared documents
 - [16](../events/16.md) - 5 shared documents
 - [18 U.S.C.](../events/18-usc.md) - 5 shared documents
+- [1985](../events/1985.md) - 5 shared documents
+- [1997](../events/1997.md) - 5 shared documents
+- [2004](../events/2004.md) - 5 shared documents
+- [2005](../events/2005.md) - 5 shared documents
+- [2006](../events/2006.md) - 5 shared documents
 - [May 19, 2008](../events/may-19-2008.md) - 5 shared documents
-- [1986](../events/1986.md) - 4 shared documents
+- [14](../events/14.md) - 4 shared documents
 
 ## Timeline
 

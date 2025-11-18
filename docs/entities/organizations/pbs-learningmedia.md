@@ -37,7 +37,7 @@ Clinton](../people/bill-clinton.md) - 10 shared documents
 - [Jeffrey](../people/jeffrey.md) - 8 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 8 shared documents
 - [Dear Jeffrey](../people/dear-jeffrey.md) - 7 shared documents
-- [jeffrey E. <](../people/jeffrey-e.md) - 7 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 7 shared documents
 - [American Literature 
 Harvard](../people/american-literature-harvard.md) - 6 shared documents
 - [Art Sport](../people/art-sport.md) - 6 shared documents
@@ -58,29 +58,29 @@ Harvard](../people/american-literature-harvard.md) - 6 shared documents
 **Locations:**
 
 - [America](../locations/america.md) - 10 shared documents
-- [Cambridge](../locations/cambridge.md) - 6 shared documents
-- [templeton](../locations/templeton.md) - 6 shared documents
-- [Boston](../locations/boston.md) - 6 shared documents
-- [US](../locations/us.md) - 6 shared documents
-- [MA](../locations/ma.md) - 6 shared documents
-- [Broadway](../locations/broadway.md) - 6 shared documents
 - [Barker Center](../locations/barker-center.md) - 6 shared documents
+- [Boston](../locations/boston.md) - 6 shared documents
+- [Broadway](../locations/broadway.md) - 6 shared documents
+- [Cambridge](../locations/cambridge.md) - 6 shared documents
+- [MA](../locations/ma.md) - 6 shared documents
 - [Quincy Street](../locations/quincy-street.md) - 6 shared documents
 - [Street 
 Cambridge, MA](../locations/street-cambridge-ma.md) - 6 shared documents
+- [templeton](../locations/templeton.md) - 6 shared documents
+- [US](../locations/us.md) - 6 shared documents
 
 **Events:**
 
-- [last year](../events/last-year.md) - 6 shared documents
-- [this year](../events/this-year.md) - 6 shared documents
+- [12/2/2015](../events/1222015.md) - 6 shared documents
 - [2017](../events/2017.md) - 6 shared documents
-- [the new year](../events/the-new-year.md) - 6 shared documents
 - [a year ago](../events/a-year-ago.md) - 6 shared documents
 - [a year later](../events/a-year-later.md) - 6 shared documents
-- [the last year](../events/the-last-year.md) - 6 shared documents
-- [this spring](../events/this-spring.md) - 6 shared documents
 - [early 2016](../events/early-2016.md) - 6 shared documents
+- [eight-episode season](../events/eight-episode-season.md) - 6 shared documents
+- [last year](../events/last-year.md) - 6 shared documents
 - [Overnight](../events/overnight.md) - 6 shared documents
+- [the 17th or 18th](../events/the-17th-or-18th.md) - 6 shared documents
+- [the coming year](../events/the-coming-year.md) - 6 shared documents
 
 ## Timeline
 

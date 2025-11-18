@@ -32,15 +32,13 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Richard Kahn](richard-kahn.md) - 23 shared documents
-- [Lexington Avenue](lexington-avenue.md) - 15 shared documents
 - [Associates Inc](associates-inc.md) - 15 shared documents
+- [Lexington Avenue](lexington-avenue.md) - 15 shared documents
 - [Floor New York](floor-new-york.md) - 14 shared documents
 - [Jeffrey E](jeffrey-e.md) - 11 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 9 shared documents
 - [High 
 Richard Kahn](high-richard-kahn.md) - 6 shared documents
-- [Mr. 
-Trump](trump.md) - 4 shared documents
 
 **Organizations:**
 
@@ -50,10 +48,10 @@ Trump](trump.md) - 4 shared documents
 - [Richard Kahn 
 HBRK Associates Inc](../organizations/richard-kahn-hbrk-associates-inc.md) - 11 shared documents
 - [Trump](../organizations/trump.md) - 9 shared documents
+- [4th Floor](../organizations/4th-floor.md) - 6 shared documents
 - [High 
 Richard Kahn 
 HBRK Associates Inc](../organizations/high-richard-kahn-hbrk-associates-inc.md) - 6 shared documents
-- [4th Floor](../organizations/4th-floor.md) - 6 shared documents
 
 **Locations:**
 
@@ -65,9 +63,9 @@ HBRK Associates Inc](../organizations/high-richard-kahn-hbrk-associates-inc.md) 
 
 **Events:**
 
-- [2018](../events/2018.md) - 4 shared documents
 - [2015](../events/2015.md) - 4 shared documents
 - [2016](../events/2016.md) - 4 shared documents
+- [2018](../events/2018.md) - 4 shared documents
 
 ## Timeline
 

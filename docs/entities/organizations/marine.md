@@ -34,10 +34,10 @@ Top 5 documents by mention frequency:
 - [White House](white-house.md) - 5 shared documents
 - [Congress](congress.md) - 5 shared documents
 - [FBI](fbi.md) - 5 shared documents
-- [Facebook](facebook.md) - 4 shared documents
-- [DOJ](doj.md) - 4 shared documents
-- [Justice](justice.md) - 4 shared documents
 - [Comey](comey.md) - 4 shared documents
+- [DOJ](doj.md) - 4 shared documents
+- [Enron](enron.md) - 4 shared documents
+- [Facebook](facebook.md) - 4 shared documents
 
 **Locations:**
 
@@ -46,9 +46,9 @@ Top 5 documents by mention frequency:
 **Events:**
 
 - [April](../events/april.md) - 5 shared documents
-- [November](../events/november.md) - 4 shared documents
 - [every day](../events/every-day.md) - 4 shared documents
 - [June](../events/june.md) - 4 shared documents
+- [November](../events/november.md) - 4 shared documents
 
 ## Timeline
 

@@ -33,14 +33,14 @@ Top 10 documents by mention frequency:
 - [Jeffrey E](../people/jeffrey-e.md) - 42 shared documents
 - [New Mexico](../people/new-mexico.md) - 36 shared documents
 - [Middle East](../people/middle-east.md) - 32 shared documents
-- [Bill 
-Clinton](../people/bill-clinton.md) - 31 shared documents
-- [President Obama](../people/president-obama.md) - 31 shared documents
 - [Vanity Fair](../people/vanity-fair.md) - 31 shared documents
 - [White House](../people/white-house.md) - 30 shared documents
 - [Harvard University](../people/harvard-university.md) - 29 shared documents
-- [Larry Summers](../people/larry-summers.md) - 29 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 28 shared documents
+- [United 
+States](../people/united-states.md) - 26 shared documents
+- [Jeffrey](../people/jeffrey.md) - 25 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 25 shared documents
+- [Michael Reiter](../people/michael-reiter.md) - 24 shared documents
 
 **Organizations:**
 
@@ -62,10 +62,10 @@ Clinton](../people/bill-clinton.md) - 31 shared documents
 - [Europe](../locations/europe.md) - 54 shared documents
 - [New York](../locations/new-york.md) - 52 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 52 shared documents
-- [China](../locations/china.md) - 51 shared documents
-- [Cambridge](../locations/cambridge.md) - 51 shared documents
-- [Paris](../locations/paris.md) - 51 shared documents
 - [Boston](../locations/boston.md) - 51 shared documents
+- [Cambridge](../locations/cambridge.md) - 51 shared documents
+- [China](../locations/china.md) - 51 shared documents
+- [Paris](../locations/paris.md) - 51 shared documents
 - [Florida](../locations/florida.md) - 48 shared documents
 
 **Events:**
@@ -75,11 +75,11 @@ Clinton](../people/bill-clinton.md) - 31 shared documents
 - [last year](../events/last-year.md) - 53 shared documents
 - [years](../events/years.md) - 53 shared documents
 - [the day](../events/the-day.md) - 50 shared documents
-- [2008](../events/2008.md) - 48 shared documents
 - [2006](../events/2006.md) - 48 shared documents
+- [2008](../events/2008.md) - 48 shared documents
 - [two years](../events/two-years.md) - 48 shared documents
-- [daily](../events/daily.md) - 47 shared documents
 - [2010](../events/2010.md) - 47 shared documents
+- [daily](../events/daily.md) - 47 shared documents
 
 ## Timeline
 

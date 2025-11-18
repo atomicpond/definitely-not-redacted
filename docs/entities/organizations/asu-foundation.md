@@ -31,12 +31,10 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Lawrence Krauss](../people/lawrence-krauss.md) - 18 shared documents
-- [Lawrence M. Krauss](../people/lawrence-m-krauss.md) - 13 shared documents
+- [Lawrence Krauss](../people/lawrence-krauss.md) - 13 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 11 shared documents
 - [Research Office](../people/research-office.md) - 11 shared documents
 - [Space Exploration](../people/space-exploration.md) - 11 shared documents
-- [Lawrence](../people/lawrence.md) - 8 shared documents
 - [Cosmology Initiative 
 Foundation](../people/cosmology-initiative-foundation.md) - 7 shared documents
 - [Foundation Professor 
@@ -44,6 +42,8 @@ School](../people/foundation-professor-school.md) - 7 shared documents
 - [Krauss 
 Director](../people/krauss-director.md) - 7 shared documents
 - [noam](../people/noam.md) - 7 shared documents
+- [Noam Chomsky](../people/noam-chomsky.md) - 7 shared documents
+- [Physics Department](../people/physics-department.md) - 7 shared documents
 
 **Organizations:**
 
@@ -69,8 +69,8 @@ Arizona State University](cosmology-initiative-foundation-professor-school-of-ea
 - [Tempe](../locations/tempe.md) - 18 shared documents
 - [Tempe, AZ](../locations/tempe-az.md) - 11 shared documents
 - [AZ](../locations/az.md) - 9 shared documents
-- [Tempe, AZ](../locations/tempe-az.md) - 5 shared documents
 - [Australia](../locations/australia.md) - 5 shared documents
+- [Tempe, AZ](../locations/tempe-az.md) - 5 shared documents
 
 **Events:**
 

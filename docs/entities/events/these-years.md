@@ -51,10 +51,10 @@ Top 8 documents by mention frequency:
 - [2000](2000.md) - 6 shared documents
 - [a year](a-year.md) - 6 shared documents
 - [the day](the-day.md) - 6 shared documents
+- [1982](1982.md) - 5 shared documents
 - [1986](1986.md) - 5 shared documents
-- [2009](2009.md) - 5 shared documents
-- [Sunday](sunday.md) - 5 shared documents
-- [1997](1997.md) - 5 shared documents
+- [1988](1988.md) - 5 shared documents
+- [1989](1989.md) - 5 shared documents
 
 ## Timeline
 

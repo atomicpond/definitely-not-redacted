@@ -31,7 +31,7 @@
 - [December](../entities/events/december.md) - 1 mention
 - [last Sunday](../entities/events/last-sunday.md) - 1 mention
 - [early November](../entities/events/early-november.md) - 1 mention
-- [10/19/2013](../entities/events/10192013.md) - 1 mention
+- [10/19/2013](../entities/events/10-19-2013.md) - 1 mention
 
 ## Document Text
 

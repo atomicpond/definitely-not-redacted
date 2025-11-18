@@ -28,40 +28,37 @@ Top 7 documents by mention frequency:
 
 - [Public Policy](public-policy.md) - 5 shared documents
 - [Sloan School](sloan-school.md) - 5 shared documents
-- [Harvard University](harvard-university.md) - 5 shared documents
 - [Harvard Law School](harvard-law-school.md) - 5 shared documents
-- [President Obama](president-obama.md) - 4 shared documents
+- [Harvard University](harvard-university.md) - 5 shared documents
 - [Salt Lake City](salt-lake-city.md) - 4 shared documents
 - [San Diego](san-diego.md) - 4 shared documents
 - [White House](white-house.md) - 4 shared documents
-- [Asia Pacific](asia-pacific.md) - 4 shared documents
-- [Global Head](global-head.md) - 4 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 6 shared documents
 - [Harvard University](../organizations/harvard-university.md) - 5 shared documents
 - [MIT](../organizations/mit.md) - 5 shared documents
-- [White House](../organizations/white-house.md) - 4 shared documents
-- [Washington Post](../organizations/washington-post.md) - 4 shared documents
-- [NASA](../organizations/nasa.md) - 4 shared documents
+- [Boston Globe](../organizations/boston-globe.md) - 4 shared documents
+- [eBay](../organizations/ebay.md) - 4 shared documents
+- [Editorial Board](../organizations/editorial-board.md) - 4 shared documents
+- [Goldman Sachs](../organizations/goldman-sachs.md) - 4 shared documents
+- [Google](../organizations/google.md) - 4 shared documents
 - [Harvard](../organizations/harvard.md) - 4 shared documents
-- [Wall Street Journal](../organizations/wall-street-journal.md) - 4 shared documents
-- [Treasury](../organizations/treasury.md) - 4 shared documents
 - [Harvard Law School](../organizations/harvard-law-school.md) - 4 shared documents
 
 **Locations:**
 
 - [New York](../locations/new-york.md) - 7 shared documents
 - [New York City](../locations/new-york-city.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
 - [Latin America](../locations/latin-america.md) - 5 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
-- [U.S.](../locations/us.md) - 4 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
 - [Iraq](../locations/iraq.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
+- [Maryland](../locations/maryland.md) - 4 shared documents
 
 **Events:**
 

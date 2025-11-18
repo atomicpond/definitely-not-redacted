@@ -29,26 +29,23 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [New Mexico](new-mexico.md) - 6 shared documents
-- [Martha Stewart](martha-stewart.md) - 6 shared documents
-- [Michael Reiter](michael-reiter.md) - 6 shared documents
 - [Chief Reiter](chief-reiter.md) - 6 shared documents
 - [Eliot Spitzer](eliot-spitzer.md) - 6 shared documents
+- [Martha Stewart](martha-stewart.md) - 6 shared documents
+- [Michael Reiter](michael-reiter.md) - 6 shared documents
+- [New Mexico](new-mexico.md) - 6 shared documents
 - [Sarah Kellen](sarah-kellen.md) - 4 shared documents
 - [Yet Mr](yet-mr.md) - 4 shared documents
-- [Gerald Lefcourt](gerald-lefcourt.md) - 4 shared documents
-- [Kenneth Starr](kenneth-starr.md) - 4 shared documents
 
 **Organizations:**
 
-- [Fed](../organizations/fed.md) - 6 shared documents
 - [FBI](../organizations/fbi.md) - 6 shared documents
+- [Fed](../organizations/fed.md) - 6 shared documents
 - [Harvard](../organizations/harvard.md) - 6 shared documents
 - [The New York Times Company](../organizations/the-new-york-times-company.md) - 6 shared documents
-- [the University of Miami](../organizations/the-university-of-miami.md) - 6 shared documents
 - [The Palm Beach Post](../organizations/the-palm-beach-post.md) - 6 shared documents
+- [the University of Miami](../organizations/the-university-of-miami.md) - 6 shared documents
 - [State](../organizations/state.md) - 5 shared documents
-- [White House](../organizations/white-house.md) - 4 shared documents
 
 **Locations:**
 
@@ -61,16 +58,16 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
-- [this year](../events/this-year.md) - 8 shared documents
 - [August](../events/august.md) - 8 shared documents
-- [October](../events/october.md) - 6 shared documents
-- [July](../events/july.md) - 6 shared documents
-- [2006](../events/2006.md) - 6 shared documents
-- [May 1](../events/may-1.md) - 6 shared documents
-- [one year](../events/one-year.md) - 6 shared documents
+- [this year](../events/this-year.md) - 8 shared documents
 - [14](../events/14.md) - 6 shared documents
-- [Months earlier](../events/months-earlier.md) - 6 shared documents
-- [several months](../events/several-months.md) - 6 shared documents
+- [2006](../events/2006.md) - 6 shared documents
+- [53](../events/53.md) - 6 shared documents
+- [early this year](../events/early-this-year.md) - 6 shared documents
+- [July](../events/july.md) - 6 shared documents
+- [late July](../events/late-july.md) - 6 shared documents
+- [March 2005](../events/march-2005.md) - 6 shared documents
+- [May 1](../events/may-1.md) - 6 shared documents
 
 ## Timeline
 

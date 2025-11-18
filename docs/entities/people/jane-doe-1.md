@@ -56,26 +56,26 @@ Top 10 documents by mention frequency:
 - [Florida](../locations/florida.md) - 9 shared documents
 - [the United States](../locations/the-united-states.md) - 9 shared documents
 - [United States](../locations/united-states.md) - 8 shared documents
-- [New York](../locations/new-york.md) - 7 shared documents
 - [London](../locations/london.md) - 7 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 7 shared documents
+- [New York](../locations/new-york.md) - 7 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 7 shared documents
+- [the Southern District](../locations/the-southern-district.md) - 7 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 7 shared documents
-- [U.S.](../locations/us.md) - 6 shared documents
-- [Virginia](../locations/virginia.md) - 6 shared documents
+- [Australia](../locations/australia.md) - 6 shared documents
+- [Fort Lauderdale](../locations/fort-lauderdale.md) - 6 shared documents
 
 **Events:**
 
 - [2011](../events/2011.md) - 9 shared documents
 - [2007](../events/2007.md) - 8 shared documents
-- [2009](../events/2009.md) - 6 shared documents
-- [2015](../events/2015.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
 - [2001](../events/2001.md) - 6 shared documents
+- [2009](../events/2009.md) - 6 shared documents
 - [2010](../events/2010.md) - 6 shared documents
 - [2013](../events/2013.md) - 6 shared documents
+- [2015](../events/2015.md) - 6 shared documents
 - [January](../events/january.md) - 6 shared documents
-- [1999](../events/1999.md) - 5 shared documents
+- [today](../events/today.md) - 6 shared documents
+- [13 months](../events/13-months.md) - 5 shared documents
 
 ## Timeline
 

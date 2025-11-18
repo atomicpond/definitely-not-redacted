@@ -29,7 +29,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Computer Science](../people/computer-science.md) - 5 shared documents
 
 **Organizations:**
@@ -43,29 +43,29 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 7 shared documents
 - [America](../locations/america.md) - 7 shared documents
+- [New York](../locations/new-york.md) - 7 shared documents
 - [the United States](../locations/the-united-states.md) - 7 shared documents
+- [Boston](../locations/boston.md) - 6 shared documents
 - [California](../locations/california.md) - 6 shared documents
 - [China](../locations/china.md) - 6 shared documents
+- [England](../locations/england.md) - 6 shared documents
 - [Europe](../locations/europe.md) - 6 shared documents
 - [New York City](../locations/new-york-city.md) - 6 shared documents
 - [Paris](../locations/paris.md) - 6 shared documents
-- [England](../locations/england.md) - 6 shared documents
-- [Boston](../locations/boston.md) - 6 shared documents
 
 **Events:**
 
 - [2010](../events/2010.md) - 8 shared documents
-- [2009](../events/2009.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
-- [the year](../events/the-year.md) - 6 shared documents
-- [2006](../events/2006.md) - 6 shared documents
 - [1981](../events/1981.md) - 6 shared documents
-- [2004](../events/2004.md) - 5 shared documents
+- [2006](../events/2006.md) - 6 shared documents
+- [2009](../events/2009.md) - 6 shared documents
+- [the year](../events/the-year.md) - 6 shared documents
+- [years](../events/years.md) - 6 shared documents
+- [1960](../events/1960.md) - 5 shared documents
 - [1985](../events/1985.md) - 5 shared documents
 - [1993](../events/1993.md) - 5 shared documents
-- [2008](../events/2008.md) - 5 shared documents
+- [2004](../events/2004.md) - 5 shared documents
 
 ## Timeline
 

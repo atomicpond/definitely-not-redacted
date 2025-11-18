@@ -34,19 +34,19 @@ Top 10 documents by mention frequency:
 - [Saudi Arabia](../people/saudi-arabia.md) - 8 shared documents
 - [White House](../people/white-house.md) - 8 shared documents
 - [America Merrill Lynch](../people/america-merrill-lynch.md) - 7 shared documents
-- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Wealth Management](../people/wealth-management.md) - 7 shared documents
 - [Asia Pacific](../people/asia-pacific.md) - 6 shared documents
 - [Federal Reserve](../people/federal-reserve.md) - 6 shared documents
 - [Goldman Sachs](../people/goldman-sachs.md) - 6 shared documents
+- [Merrill Lynch](../people/merrill-lynch.md) - 6 shared documents
 
 **Organizations:**
 
 - [Treasury](treasury.md) - 13 shared documents
 - [Fed](fed.md) - 13 shared documents
 - [Bloomberg](bloomberg.md) - 12 shared documents
-- [HOUSE](house.md) - 11 shared documents
 - [Congress](congress.md) - 11 shared documents
+- [HOUSE](house.md) - 11 shared documents
 - [Bank](bank.md) - 10 shared documents
 - [Trump](trump.md) - 9 shared documents
 - [S&P](sp.md) - 8 shared documents
@@ -58,26 +58,26 @@ Top 10 documents by mention frequency:
 - [China](../locations/china.md) - 18 shared documents
 - [Europe](../locations/europe.md) - 16 shared documents
 - [Russia](../locations/russia.md) - 14 shared documents
-- [Japan](../locations/japan.md) - 13 shared documents
 - [Asia](../locations/asia.md) - 13 shared documents
+- [Japan](../locations/japan.md) - 13 shared documents
 - [Spain](../locations/spain.md) - 13 shared documents
 - [Brazil](../locations/brazil.md) - 12 shared documents
 - [Canada](../locations/canada.md) - 11 shared documents
+- [France](../locations/france.md) - 11 shared documents
 - [Germany](../locations/germany.md) - 11 shared documents
-- [Mexico](../locations/mexico.md) - 11 shared documents
 
 **Events:**
 
 - [this year](../events/this-year.md) - 14 shared documents
 - [2015](../events/2015.md) - 13 shared documents
-- [today](../events/today.md) - 13 shared documents
 - [2017](../events/2017.md) - 13 shared documents
-- [2018](../events/2018.md) - 10 shared documents
-- [2016](../events/2016.md) - 10 shared documents
+- [today](../events/today.md) - 13 shared documents
 - [2000](../events/2000.md) - 10 shared documents
-- [2012](../events/2012.md) - 10 shared documents
-- [last year](../events/last-year.md) - 10 shared documents
 - [2010](../events/2010.md) - 10 shared documents
+- [2012](../events/2012.md) - 10 shared documents
+- [2016](../events/2016.md) - 10 shared documents
+- [2018](../events/2018.md) - 10 shared documents
+- [2019](../events/2019.md) - 10 shared documents
 
 ## Timeline
 

@@ -61,23 +61,23 @@ Top 10 documents by mention frequency:
 - [Utah](utah.md) - 9 shared documents
 - [Texas](texas.md) - 9 shared documents
 - [Virginia](virginia.md) - 8 shared documents
+- [Boston](boston.md) - 8 shared documents
 - [Colorado](colorado.md) - 8 shared documents
 - [Pennsylvania](pennsylvania.md) - 8 shared documents
-- [Boston](boston.md) - 8 shared documents
-- [California](california.md) - 7 shared documents
+- [Arizona](arizona.md) - 7 shared documents
 
 **Events:**
 
 - [2000](../events/2000.md) - 13 shared documents
 - [2012](../events/2012.md) - 13 shared documents
 - [2004](../events/2004.md) - 11 shared documents
-- [daily](../events/daily.md) - 10 shared documents
 - [1999](../events/1999.md) - 10 shared documents
-- [2003](../events/2003.md) - 9 shared documents
+- [daily](../events/daily.md) - 10 shared documents
+- [1987](../events/1987.md) - 9 shared documents
 - [1997](../events/1997.md) - 9 shared documents
 - [1998](../events/1998.md) - 9 shared documents
-- [1987](../events/1987.md) - 9 shared documents
-- [1996](../events/1996.md) - 8 shared documents
+- [2003](../events/2003.md) - 9 shared documents
+- [1965](../events/1965.md) - 8 shared documents
 
 ## Timeline
 

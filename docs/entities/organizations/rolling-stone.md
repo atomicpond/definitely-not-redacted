@@ -47,24 +47,24 @@ Top 7 documents by mention frequency:
 
 **Locations:**
 
-- [San Francisco](../locations/san-francisco.md) - 7 shared documents
 - [Berkeley](../locations/berkeley.md) - 7 shared documents
+- [San Francisco](../locations/san-francisco.md) - 7 shared documents
 - [Spain](../locations/spain.md) - 6 shared documents
 - [Dallas](../locations/dallas.md) - 5 shared documents
 - [America](../locations/america.md) - 4 shared documents
 
 **Events:**
 
-- [two years](../events/two-years.md) - 7 shared documents
 - [1969](../events/1969.md) - 7 shared documents
-- [the day](../events/the-day.md) - 7 shared documents
 - [1980](../events/1980.md) - 7 shared documents
+- [the day](../events/the-day.md) - 7 shared documents
+- [two years](../events/two-years.md) - 7 shared documents
 - [1952](../events/1952.md) - 6 shared documents
 - [1992](../events/1992.md) - 6 shared documents
-- [A few years later](../events/a-few-years-later.md) - 5 shared documents
 - [1965](../events/1965.md) - 5 shared documents
+- [A few years later](../events/a-few-years-later.md) - 5 shared documents
 - [Christmas Day](../events/christmas-day.md) - 5 shared documents
-- [1970](../events/1970.md) - 4 shared documents
+- [1964](../events/1964.md) - 4 shared documents
 
 ## Timeline
 

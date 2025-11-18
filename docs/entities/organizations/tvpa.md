@@ -24,17 +24,17 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [Fed](fed.md) - 5 shared documents
 - [FBI](fbi.md) - 5 shared documents
+- [Fed](fed.md) - 5 shared documents
 - [CIA](cia.md) - 4 shared documents
 - [Court](court.md) - 4 shared documents
 - [State](state.md) - 4 shared documents
 
 **Locations:**
 
+- [the United States](../locations/the-united-states.md) - 5 shared documents
 - [United States](../locations/united-states.md) - 5 shared documents
 - [Washington](../locations/washington.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 4 shared documents
 - [Pakistan](../locations/pakistan.md) - 4 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 4 shared documents
@@ -44,16 +44,16 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [2004](../events/2004.md) - 5 shared documents
 - [14](../events/14.md) - 5 shared documents
-- [2000](../events/2000.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
+- [2004](../events/2004.md) - 5 shared documents
+- [1980](../events/1980.md) - 4 shared documents
+- [1983](../events/1983.md) - 4 shared documents
+- [1984](../events/1984.md) - 4 shared documents
+- [1988](../events/1988.md) - 4 shared documents
+- [1991](../events/1991.md) - 4 shared documents
 - [1997](../events/1997.md) - 4 shared documents
 - [1998](../events/1998.md) - 4 shared documents
-- [2001](../events/2001.md) - 4 shared documents
-- [1984](../events/1984.md) - 4 shared documents
-- [2002](../events/2002.md) - 4 shared documents
-- [one year](../events/one-year.md) - 4 shared documents
+- [2000](../events/2000.md) - 4 shared documents
 
 ## Timeline
 

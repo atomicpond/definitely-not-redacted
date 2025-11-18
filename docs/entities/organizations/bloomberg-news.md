@@ -50,28 +50,27 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [China](../locations/china.md) - 6 shared documents
-- [New York](../locations/new-york.md) - 5 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [London](../locations/london.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
-- [New York City](../locations/new-york-city.md) - 5 shared documents
+- [Europe](../locations/europe.md) - 5 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 5 shared documents
-- [California](../locations/california.md) - 4 shared documents
+- [London](../locations/london.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
+- [New York City](../locations/new-york-city.md) - 5 shared documents
+- [Russia](../locations/russia.md) - 5 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 6 shared documents
 - [two years](../events/two-years.md) - 6 shared documents
+- [1991](../events/1991.md) - 5 shared documents
 - [2004](../events/2004.md) - 5 shared documents
 - [2008](../events/2008.md) - 5 shared documents
-- [Friday](../events/friday.md) - 5 shared documents
 - [2013](../events/2013.md) - 5 shared documents
-- [1991](../events/1991.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [2007](../events/2007.md) - 4 shared documents
-- [2009](../events/2009.md) - 4 shared documents
+- [Friday](../events/friday.md) - 5 shared documents
+- [10 years](../events/10-years.md) - 4 shared documents
+- [1964](../events/1964.md) - 4 shared documents
+- [1974](../events/1974.md) - 4 shared documents
 
 ## Timeline
 

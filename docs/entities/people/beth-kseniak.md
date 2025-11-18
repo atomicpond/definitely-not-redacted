@@ -37,37 +37,32 @@ Top 8 documents by mention frequency:
 **Organizations:**
 
 - [Marchesa](../organizations/marchesa.md) - 6 shared documents
-- [HOUSE](../organizations/house.md) - 5 shared documents
 - [AVENUE Magazine](../organizations/avenue-magazine.md) - 5 shared documents
-- [CBS](../organizations/cbs.md) - 4 shared documents
-- [Ford](../organizations/ford.md) - 4 shared documents
-- [CNN](../organizations/cnn.md) - 4 shared documents
+- [HOUSE](../organizations/house.md) - 5 shared documents
 
 **Locations:**
 
 - [New York City](../locations/new-york-city.md) - 8 shared documents
 - [New York](../locations/new-york.md) - 6 shared documents
 - [London](../locations/london.md) - 5 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
+- [Cairo](../locations/cairo.md) - 4 shared documents
+- [California](../locations/california.md) - 4 shared documents
+- [Cannes](../locations/cannes.md) - 4 shared documents
 - [Carolina](../locations/carolina.md) - 4 shared documents
-- [Manhattan](../locations/manhattan.md) - 4 shared documents
-- [Toronto](../locations/toronto.md) - 4 shared documents
 
 **Events:**
 
-- [the next day](../events/the-next-day.md) - 8 shared documents
 - [Mid-day](../events/mid-day.md) - 8 shared documents
+- [the next day](../events/the-next-day.md) - 8 shared documents
 - [September](../events/september.md) - 5 shared documents
-- [October](../events/october.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
-- [six months](../events/six-months.md) - 4 shared documents
-- [last year](../events/last-year.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
+- [13-year-old](../events/13-year-old.md) - 4 shared documents
+- [1982](../events/1982.md) - 4 shared documents
+- [1985](../events/1985.md) - 4 shared documents
+- [1987](../events/1987.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
+- [86-year-old](../events/86-year-old.md) - 4 shared documents
 
 ## Timeline
 

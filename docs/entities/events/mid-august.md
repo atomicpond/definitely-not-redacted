@@ -43,8 +43,8 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [June](june.md) - 5 shared documents
 - [days](days.md) - 5 shared documents
+- [June](june.md) - 5 shared documents
 - [months](months.md) - 4 shared documents
 - [September](september.md) - 4 shared documents
 - [six months](six-months.md) - 4 shared documents

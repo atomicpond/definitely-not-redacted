@@ -24,20 +24,20 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [Times](../organizations/times.md) - 4 shared documents
 - [CIA](../organizations/cia.md) - 4 shared documents
 - [the New York Times](../organizations/the-new-york-times.md) - 4 shared documents
+- [Times](../organizations/times.md) - 4 shared documents
 
 **Locations:**
 
 - [Earth](../locations/earth.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
 - [France](../locations/france.md) - 4 shared documents
+- [Russia](../locations/russia.md) - 4 shared documents
 
 **Events:**
 
-- [years](../events/years.md) - 4 shared documents
 - [these days](../events/these-days.md) - 4 shared documents
+- [years](../events/years.md) - 4 shared documents
 
 ## Timeline
 

@@ -26,19 +26,19 @@ Top 6 documents by mention frequency:
 **Organizations:**
 
 - [Washington Post](../organizations/washington-post.md) - 5 shared documents
-- [Trump](../organizations/trump.md) - 4 shared documents
 - [Congress](../organizations/congress.md) - 4 shared documents
 - [the New York Times](../organizations/the-new-york-times.md) - 4 shared documents
+- [Trump](../organizations/trump.md) - 4 shared documents
 
 **Locations:**
 
 - [Florida](../locations/florida.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
 - [China](../locations/china.md) - 4 shared documents
 - [Russia](../locations/russia.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
 - [San Francisco](../locations/san-francisco.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 

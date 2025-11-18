@@ -32,7 +32,6 @@ Top 10 documents by mention frequency:
 
 - [Middle East](../people/middle-east.md) - 18 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 14 shared documents
-- [President Obama](../people/president-obama.md) - 13 shared documents
 - [White House](../people/white-house.md) - 13 shared documents
 
 **Organizations:**
@@ -46,14 +45,15 @@ Top 10 documents by mention frequency:
 - [The Wall Street Journal](../organizations/the-wall-street-journal.md) - 11 shared documents
 - [Google](../organizations/google.md) - 10 shared documents
 - [Senate](../organizations/senate.md) - 10 shared documents
+- [the New York Times](../organizations/the-new-york-times.md) - 10 shared documents
 
 **Locations:**
 
-- [Japan](japan.md) - 25 shared documents
-- [Germany](germany.md) - 25 shared documents
 - [France](france.md) - 25 shared documents
-- [China](china.md) - 23 shared documents
+- [Germany](germany.md) - 25 shared documents
+- [Japan](japan.md) - 25 shared documents
 - [Canada](canada.md) - 23 shared documents
+- [China](china.md) - 23 shared documents
 - [Russia](russia.md) - 21 shared documents
 - [India](india.md) - 21 shared documents
 - [Paris](paris.md) - 20 shared documents
@@ -66,12 +66,12 @@ Top 10 documents by mention frequency:
 - [years](../events/years.md) - 18 shared documents
 - [2003](../events/2003.md) - 17 shared documents
 - [annual](../events/annual.md) - 17 shared documents
-- [three years](../events/three-years.md) - 17 shared documents
 - [decades](../events/decades.md) - 17 shared documents
 - [the day](../events/the-day.md) - 17 shared documents
+- [three years](../events/three-years.md) - 17 shared documents
+- [2000](../events/2000.md) - 16 shared documents
+- [2001](../events/2001.md) - 16 shared documents
 - [2004](../events/2004.md) - 16 shared documents
-- [2007](../events/2007.md) - 16 shared documents
-- [2015](../events/2015.md) - 16 shared documents
 
 ## Timeline
 

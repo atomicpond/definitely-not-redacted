@@ -54,13 +54,13 @@ Top 10 documents by mention frequency:
 - [Hong Kong](hong-kong.md) - 50 shared documents
 - [China](china.md) - 47 shared documents
 - [Japan](japan.md) - 47 shared documents
-- [Russia](russia.md) - 43 shared documents
 - [Australia](australia.md) - 43 shared documents
 - [India](india.md) - 43 shared documents
+- [Russia](russia.md) - 43 shared documents
+- [Asia](asia.md) - 42 shared documents
 - [Brazil](brazil.md) - 42 shared documents
 - [Canada](canada.md) - 42 shared documents
 - [Germany](germany.md) - 42 shared documents
-- [Asia](asia.md) - 42 shared documents
 
 **Events:**
 
@@ -71,8 +71,8 @@ Top 10 documents by mention frequency:
 - [2015](../events/2015.md) - 27 shared documents
 - [this year](../events/this-year.md) - 27 shared documents
 - [2012](../events/2012.md) - 26 shared documents
-- [annual](../events/annual.md) - 24 shared documents
 - [2017](../events/2017.md) - 24 shared documents
+- [annual](../events/annual.md) - 24 shared documents
 - [2004](../events/2004.md) - 22 shared documents
 
 ## Timeline

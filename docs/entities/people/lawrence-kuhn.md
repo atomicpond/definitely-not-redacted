@@ -24,18 +24,17 @@ Top 5 documents by mention frequency:
 
 **People:**
 
-- [President Trump](president-trump.md) - 5 shared documents
 - [Robert Lawrence Kuhn](robert-lawrence-kuhn.md) - 5 shared documents
 
 **Organizations:**
 
-- [Trump](../organizations/trump.md) - 4 shared documents
 - [Party](../organizations/party.md) - 4 shared documents
+- [Trump](../organizations/trump.md) - 4 shared documents
 
 **Locations:**
 
-- [China](../locations/china.md) - 5 shared documents
 - [Beijing](../locations/beijing.md) - 5 shared documents
+- [China](../locations/china.md) - 5 shared documents
 
 ## Timeline
 

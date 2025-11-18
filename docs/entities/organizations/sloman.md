@@ -24,9 +24,9 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Washington](../locations/washington.md) - 4 shared documents
 - [Miami](../locations/miami.md) - 4 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 ## Timeline
 

@@ -55,8 +55,8 @@ Top 10 documents by mention frequency:
 - [six months](six-months.md) - 11 shared documents
 - [the day](the-day.md) - 11 shared documents
 - [year](year.md) - 11 shared documents
+- [2013](2013.md) - 11 shared documents
 - [2015](2015.md) - 11 shared documents
-- [daily](daily.md) - 11 shared documents
 
 ## Timeline
 

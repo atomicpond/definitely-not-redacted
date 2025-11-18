@@ -46,22 +46,21 @@ Sent](enter-sent.md) - 9 shared documents
 **Organizations:**
 
 - [Trump](../organizations/trump.md) - 17 shared documents
-- [HOUSE](../organizations/house.md) - 14 shared documents
 - [Facebook](../organizations/facebook.md) - 14 shared documents
-- [Twitter](../organizations/twitter.md) - 13 shared documents
+- [HOUSE](../organizations/house.md) - 14 shared documents
 - [the New York Times](../organizations/the-new-york-times.md) - 13 shared documents
+- [Twitter](../organizations/twitter.md) - 13 shared documents
 - [the Board of Trustees 
 ](../organizations/the-board-of-trustees.md) - 12 shared documents
 - [the European Parliament](../organizations/the-european-parliament.md) - 12 shared documents
-- [FBI](../organizations/fbi.md) - 11 shared documents
 
 **Locations:**
 
 - [Europe](../locations/europe.md) - 21 shared documents
 - [London](../locations/london.md) - 19 shared documents
-- [USA](../locations/usa.md) - 14 shared documents
 - [East](../locations/east.md) - 14 shared documents
 - [Italy](../locations/italy.md) - 14 shared documents
+- [USA](../locations/usa.md) - 14 shared documents
 - [America](../locations/america.md) - 13 shared documents
 - [Pennsylvania](../locations/pennsylvania.md) - 13 shared documents
 - [Brussels](../locations/brussels.md) - 12 shared documents
@@ -73,12 +72,12 @@ Sent](enter-sent.md) - 9 shared documents
 - [2014](../events/2014.md) - 26 shared documents
 - [2016](../events/2016.md) - 21 shared documents
 - [1984](../events/1984.md) - 16 shared documents
-- [2007](../events/2007.md) - 14 shared documents
-- [daily](../events/daily.md) - 14 shared documents
-- [2019](../events/2019.md) - 14 shared documents
 - [2006](../events/2006.md) - 14 shared documents
-- [Friday](../events/friday.md) - 12 shared documents
+- [2007](../events/2007.md) - 14 shared documents
+- [2019](../events/2019.md) - 14 shared documents
+- [daily](../events/daily.md) - 14 shared documents
 - [1994](../events/1994.md) - 12 shared documents
+- [Friday](../events/friday.md) - 12 shared documents
 - [2008](../events/2008.md) - 11 shared documents
 
 ## Timeline

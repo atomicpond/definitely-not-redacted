@@ -37,36 +37,36 @@ Top 10 documents by mention frequency:
 - [Edge](../organizations/edge.md) - 7 shared documents
 - [Harvard](../organizations/harvard.md) - 6 shared documents
 - [HOUSE](../organizations/house.md) - 5 shared documents
-- [the New York Times](../organizations/the-new-york-times.md) - 5 shared documents
 - [New York Times](../organizations/new-york-times.md) - 5 shared documents
 - [Oxford University](../organizations/oxford-university.md) - 5 shared documents
+- [the New York Times](../organizations/the-new-york-times.md) - 5 shared documents
 - [Harvard University](../organizations/harvard-university.md) - 4 shared documents
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 4 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [Earth](../locations/earth.md) - 4 shared documents
-- [China](../locations/china.md) - 4 shared documents
-- [Cambridge](../locations/cambridge.md) - 4 shared documents
-- [Paris](../locations/paris.md) - 4 shared documents
 - [Australia](../locations/australia.md) - 4 shared documents
+- [Boston](../locations/boston.md) - 4 shared documents
+- [California](../locations/california.md) - 4 shared documents
+- [Cambridge](../locations/cambridge.md) - 4 shared documents
+- [China](../locations/china.md) - 4 shared documents
+- [Earth](../locations/earth.md) - 4 shared documents
 - [England](../locations/england.md) - 4 shared documents
 - [Massachusetts](../locations/massachusetts.md) - 4 shared documents
-- [Boston](../locations/boston.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
+- [Paris](../locations/paris.md) - 4 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 6 shared documents
 - [tomorrow](../events/tomorrow.md) - 6 shared documents
 - [Sunday](../events/sunday.md) - 5 shared documents
-- [Thursday](../events/thursday.md) - 4 shared documents
+- [1973](../events/1973.md) - 4 shared documents
+- [1993](../events/1993.md) - 4 shared documents
+- [2002](../events/2002.md) - 4 shared documents
+- [2010](../events/2010.md) - 4 shared documents
+- [2011](../events/2011.md) - 4 shared documents
 - [2012](../events/2012.md) - 4 shared documents
 - [daily](../events/daily.md) - 4 shared documents
-- [2011](../events/2011.md) - 4 shared documents
-- [1993](../events/1993.md) - 4 shared documents
-- [2010](../events/2010.md) - 4 shared documents
-- [one day](../events/one-day.md) - 4 shared documents
 
 ## Timeline
 

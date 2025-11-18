@@ -10,8 +10,8 @@
 
 ### People
 - [White House](../entities/people/white-house.md) - 5 mentions
-- [Ms. Ruemmler](../entities/people/ms-ruemmler.md) - 5 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 4 mentions
+- [Ms. Ruemmler](../entities/people/kathy-ruemmler.md) - 5 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 4 mentions
 - [Eric Holder](../entities/people/eric-holder.md) - 2 mentions
 - [New
 York](../entities/people/new-york.md) - 2 mentions

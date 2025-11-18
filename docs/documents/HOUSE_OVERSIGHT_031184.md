@@ -17,7 +17,7 @@
 - [Diana](../entities/people/diana.md) - 7 mentions
 - [Diana deGette](../entities/people/diana-degette.md) - 6 mentions
 - [Barbro Ehnbom](../entities/people/barbro-ehnbom.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 
 ### Organizations
 - [Congress](../entities/organizations/congress.md) - 6 mentions

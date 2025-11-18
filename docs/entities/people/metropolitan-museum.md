@@ -38,12 +38,12 @@ Top 7 documents by mention frequency:
 
 - [Los Angeles](../locations/los-angeles.md) - 5 shared documents
 - [New York City](../locations/new-york-city.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
-- [U.S.](../locations/us.md) - 4 shared documents
+- [America](../locations/america.md) - 4 shared documents
 - [Germany](../locations/germany.md) - 4 shared documents
 - [London](../locations/london.md) - 4 shared documents
-- [America](../locations/america.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
 - [the United States](../locations/the-united-states.md) - 4 shared documents
+- [U.S.](../locations/us.md) - 4 shared documents
 
 **Events:**
 

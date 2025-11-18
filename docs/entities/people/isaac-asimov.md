@@ -45,26 +45,19 @@ Top 9 documents by mention frequency:
 - [Berkeley](../locations/berkeley.md) - 7 shared documents
 - [America](../locations/america.md) - 6 shared documents
 - [San Francisco](../locations/san-francisco.md) - 6 shared documents
-- [New York](../locations/new-york.md) - 5 shared documents
-- [California](../locations/california.md) - 5 shared documents
-- [Earth](../locations/earth.md) - 5 shared documents
-- [U.S.](../locations/us.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
-- [China](../locations/china.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
 
 **Events:**
 
-- [two years](../events/two-years.md) - 9 shared documents
 - [the day](../events/the-day.md) - 9 shared documents
+- [two years](../events/two-years.md) - 9 shared documents
+- [1965](../events/1965.md) - 8 shared documents
 - [1970](../events/1970.md) - 8 shared documents
 - [A few years later](../events/a-few-years-later.md) - 8 shared documents
-- [1965](../events/1965.md) - 8 shared documents
 - [1952](../events/1952.md) - 7 shared documents
 - [1969](../events/1969.md) - 7 shared documents
 - [1980](../events/1980.md) - 7 shared documents
-- [2019](../events/2019.md) - 6 shared documents
 - [1964](../events/1964.md) - 6 shared documents
+- [2019](../events/2019.md) - 6 shared documents
 
 ## Timeline
 

@@ -49,9 +49,9 @@ Top 10 documents by mention frequency:
 - [Supreme Court](supreme-court.md) - 6 shared documents
 - [Treasury](treasury.md) - 6 shared documents
 - [Vanity Fair](vanity-fair.md) - 6 shared documents
-- [Harvard University](harvard-university.md) - 6 shared documents
 - [FBI](fbi.md) - 6 shared documents
 - [Ford](ford.md) - 6 shared documents
+- [Harvard University](harvard-university.md) - 6 shared documents
 - [Maxwell](maxwell.md) - 6 shared documents
 
 **Locations:**
@@ -62,23 +62,23 @@ Top 10 documents by mention frequency:
 - [Palm Beach](../locations/palm-beach.md) - 8 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 8 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 7 shared documents
+- [New Mexico](../locations/new-mexico.md) - 6 shared documents
 - [New York](../locations/new-york.md) - 6 shared documents
 - [U.S.](../locations/us.md) - 6 shared documents
 - [United States](../locations/united-states.md) - 6 shared documents
-- [New Mexico](../locations/new-mexico.md) - 6 shared documents
 
 **Events:**
 
+- [2006](../events/2006.md) - 8 shared documents
 - [2007](../events/2007.md) - 8 shared documents
 - [2014](../events/2014.md) - 8 shared documents
-- [2006](../events/2006.md) - 8 shared documents
+- [1995](../events/1995.md) - 7 shared documents
 - [2004](../events/2004.md) - 7 shared documents
-- [2011](../events/2011.md) - 7 shared documents
 - [2005](../events/2005.md) - 7 shared documents
 - [2008](../events/2008.md) - 7 shared documents
-- [1995](../events/1995.md) - 7 shared documents
-- [2009](../events/2009.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
+- [2011](../events/2011.md) - 7 shared documents
+- [1984](../events/1984.md) - 6 shared documents
+- [1991](../events/1991.md) - 6 shared documents
 
 ## Timeline
 

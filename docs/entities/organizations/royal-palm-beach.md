@@ -50,7 +50,6 @@ Top 10 documents by mention frequency:
 - [Palm Beach Community College](palm-beach-community-college.md) - 7 shared documents
 - [the University of Pittsburgh](the-university-of-pittsburgh.md) - 6 shared documents
 - [Town](town.md) - 6 shared documents
-- [MySpace](myspace.md) - 6 shared documents
 
 **Locations:**
 
@@ -61,21 +60,19 @@ Top 10 documents by mention frequency:
 - [Manhattan](../locations/manhattan.md) - 9 shared documents
 - [Miami](../locations/miami.md) - 8 shared documents
 - [New Mexico](../locations/new-mexico.md) - 8 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
-- [the United States](../locations/the-united-states.md) - 6 shared documents
 
 **Events:**
 
 - [last month](../events/last-month.md) - 9 shared documents
-- [October](../events/october.md) - 8 shared documents
-- [last year](../events/last-year.md) - 8 shared documents
 - [2006](../events/2006.md) - 8 shared documents
-- [Monday](../events/monday.md) - 7 shared documents
-- [July](../events/july.md) - 7 shared documents
-- [last week](../events/last-week.md) - 7 shared documents
-- [1984](../events/1984.md) - 7 shared documents
+- [last year](../events/last-year.md) - 8 shared documents
+- [October](../events/october.md) - 8 shared documents
+- [11-month](../events/11-month.md) - 7 shared documents
 - [14](../events/14.md) - 7 shared documents
 - [14-year-old](../events/14-year-old.md) - 7 shared documents
+- [18](../events/18.md) - 7 shared documents
+- [1984](../events/1984.md) - 7 shared documents
+- [20](../events/20.md) - 7 shared documents
 
 ## Timeline
 

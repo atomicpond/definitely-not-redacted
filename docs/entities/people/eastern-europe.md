@@ -35,7 +35,6 @@ Top 10 documents by mention frequency:
 
 - [Middle East](middle-east.md) - 11 shared documents
 - [Saudi Arabia](saudi-arabia.md) - 10 shared documents
-- [President Obama](president-obama.md) - 9 shared documents
 - [Tel Aviv](tel-aviv.md) - 8 shared documents
 - [Jean Luc Brunel](jean-luc-brunel.md) - 6 shared documents
 - [Larry Summers](larry-summers.md) - 6 shared documents
@@ -43,11 +42,11 @@ Top 10 documents by mention frequency:
 - [Security Council](security-council.md) - 6 shared documents
 - [West Bank](west-bank.md) - 6 shared documents
 - [Western Europe](western-europe.md) - 6 shared documents
+- [El Brillo Way](el-brillo-way.md) - 5 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 11 shared documents
-- [FBI](../organizations/fbi.md) - 9 shared documents
 
 **Locations:**
 
@@ -55,12 +54,12 @@ Top 10 documents by mention frequency:
 - [France](../locations/france.md) - 15 shared documents
 - [Europe](../locations/europe.md) - 14 shared documents
 - [America](../locations/america.md) - 13 shared documents
+- [Asia](../locations/asia.md) - 12 shared documents
 - [Germany](../locations/germany.md) - 12 shared documents
 - [Washington](../locations/washington.md) - 12 shared documents
-- [Asia](../locations/asia.md) - 12 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 11 shared documents
 - [China](../locations/china.md) - 11 shared documents
 - [Japan](../locations/japan.md) - 11 shared documents
+- [London](../locations/london.md) - 11 shared documents
 
 **Events:**
 
@@ -68,9 +67,9 @@ Top 10 documents by mention frequency:
 - [2007](../events/2007.md) - 13 shared documents
 - [daily](../events/daily.md) - 13 shared documents
 - [last week](../events/last-week.md) - 12 shared documents
+- [2002](../events/2002.md) - 11 shared documents
 - [2003](../events/2003.md) - 11 shared documents
 - [2004](../events/2004.md) - 11 shared documents
-- [2002](../events/2002.md) - 11 shared documents
 - [2009](../events/2009.md) - 10 shared documents
 - [2011](../events/2011.md) - 10 shared documents
 - [months](../events/months.md) - 10 shared documents

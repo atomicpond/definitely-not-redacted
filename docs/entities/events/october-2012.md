@@ -35,7 +35,7 @@ Top 9 documents by mention frequency:
 - [Middle East](../people/middle-east.md) - 8 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 7 shared documents
 - [White House](../people/white-house.md) - 7 shared documents
-- [President Obama](../people/president-obama.md) - 6 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 
 **Organizations:**
 
@@ -59,15 +59,15 @@ Top 9 documents by mention frequency:
 **Events:**
 
 - [this year](this-year.md) - 8 shared documents
-- [annual](annual.md) - 7 shared documents
 - [2012](2012.md) - 7 shared documents
-- [monthly](monthly.md) - 7 shared documents
 - [2013](2013.md) - 7 shared documents
+- [annual](annual.md) - 7 shared documents
+- [monthly](monthly.md) - 7 shared documents
 - [the years](the-years.md) - 6 shared documents
 - [today](today.md) - 6 shared documents
-- [2004](2004.md) - 6 shared documents
+- [1973](1973.md) - 6 shared documents
+- [1992](1992.md) - 6 shared documents
 - [2000](2000.md) - 6 shared documents
-- [last week](last-week.md) - 6 shared documents
 
 ## Timeline
 

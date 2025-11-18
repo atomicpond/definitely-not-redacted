@@ -49,10 +49,10 @@ Sent](../people/ok-sent.md) - 5 shared documents
 
 **Events:**
 
-- [Saturday](saturday.md) - 9 shared documents
-- [May 28, 2017](may-28-2017.md) - 9 shared documents
 - [8 or early tomorrow](8-or-early-tomorrow.md) - 9 shared documents
 - [May 27, 2017](may-27-2017.md) - 9 shared documents
+- [May 28, 2017](may-28-2017.md) - 9 shared documents
+- [Saturday](saturday.md) - 9 shared documents
 - [May 29, 2017](may-29-2017.md) - 6 shared documents
 - [Monday, May 29](monday-may-29.md) - 6 shared documents
 - [Friday, June 2, 2017](friday-june-2-2017.md) - 5 shared documents

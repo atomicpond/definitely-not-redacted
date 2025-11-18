@@ -27,35 +27,29 @@ Top 7 documents by mention frequency:
 **Organizations:**
 
 - [State](state.md) - 5 shared documents
-- [Senate](senate.md) - 4 shared documents
-- [Fed](fed.md) - 4 shared documents
-- [Congress](congress.md) - 4 shared documents
 
 **Locations:**
 
 - [China](../locations/china.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
-- [Mexico](../locations/mexico.md) - 5 shared documents
-- [Spain](../locations/spain.md) - 5 shared documents
-- [South Africa](../locations/south-africa.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
 - [Korea](../locations/korea.md) - 5 shared documents
-- [Dubai](../locations/dubai.md) - 4 shared documents
-- [U.S.](../locations/us.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
+- [Mexico](../locations/mexico.md) - 5 shared documents
+- [South Africa](../locations/south-africa.md) - 5 shared documents
+- [Spain](../locations/spain.md) - 5 shared documents
 
 **Events:**
 
+- [2001](../events/2001.md) - 6 shared documents
 - [2004](../events/2004.md) - 6 shared documents
 - [monthly](../events/monthly.md) - 6 shared documents
-- [2001](../events/2001.md) - 6 shared documents
-- [annual](../events/annual.md) - 5 shared documents
+- [1959](../events/1959.md) - 5 shared documents
+- [1984](../events/1984.md) - 5 shared documents
+- [1995](../events/1995.md) - 5 shared documents
 - [1996](../events/1996.md) - 5 shared documents
 - [2000](../events/2000.md) - 5 shared documents
-- [1984](../events/1984.md) - 5 shared documents
-- [1959](../events/1959.md) - 5 shared documents
+- [annual](../events/annual.md) - 5 shared documents
 - [the day](../events/the-day.md) - 5 shared documents
-- [1995](../events/1995.md) - 5 shared documents
 
 ## Timeline
 

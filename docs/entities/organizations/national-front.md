@@ -30,37 +30,36 @@ Top 6 documents by mention frequency:
 **Organizations:**
 
 - [Trump](trump.md) - 5 shared documents
-- [HOUSE](house.md) - 4 shared documents
-- [Congress](congress.md) - 4 shared documents
 - [BBC](bbc.md) - 4 shared documents
 - [Boeing](boeing.md) - 4 shared documents
 - [Breitbart News](breitbart-news.md) - 4 shared documents
+- [Congress](congress.md) - 4 shared documents
 
 **Locations:**
 
 - [Europe](../locations/europe.md) - 6 shared documents
 - [France](../locations/france.md) - 6 shared documents
-- [China](../locations/china.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
-- [London](../locations/london.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
-- [Brussels](../locations/brussels.md) - 5 shared documents
 - [Beijing](../locations/beijing.md) - 5 shared documents
+- [Brussels](../locations/brussels.md) - 5 shared documents
+- [China](../locations/china.md) - 5 shared documents
+- [London](../locations/london.md) - 5 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 - [West](../locations/west.md) - 5 shared documents
 
 **Events:**
 
-- [this week](../events/this-week.md) - 5 shared documents
 - [the years](../events/the-years.md) - 5 shared documents
-- [2014](../events/2014.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
+- [this week](../events/this-week.md) - 5 shared documents
 - [2008](../events/2008.md) - 4 shared documents
-- [tomorrow](../events/tomorrow.md) - 4 shared documents
+- [2014](../events/2014.md) - 4 shared documents
 - [every day](../events/every-day.md) - 4 shared documents
-- [the decade](../events/the-decade.md) - 4 shared documents
 - [the 20th century](../events/the-20th-century.md) - 4 shared documents
+- [the decade](../events/the-decade.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
+- [tomorrow](../events/tomorrow.md) - 4 shared documents
+- [years](../events/years.md) - 4 shared documents
 
 ## Timeline
 

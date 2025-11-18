@@ -29,16 +29,16 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Brad Edwards](../people/brad-edwards.md) - 18 shared documents
 - [New Mexico](../people/new-mexico.md) - 18 shared documents
 - [Vanity Fair](../people/vanity-fair.md) - 17 shared documents
 - [Alfredo Rodriguez](../people/alfredo-rodriguez.md) - 15 shared documents
 - [Jane Doe](../people/jane-doe.md) - 14 shared documents
 - [Robert Maxwell](../people/robert-maxwell.md) - 14 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 12 shared documents
 - [Daily News](../people/daily-news.md) - 12 shared documents
 - [Les Wexner](../people/les-wexner.md) - 12 shared documents
 - [Ace Greenberg](../people/ace-greenberg.md) - 11 shared documents
+- [Chris Tucker](../people/chris-tucker.md) - 11 shared documents
+- [Daily Mail](../people/daily-mail.md) - 11 shared documents
 
 **Organizations:**
 
@@ -63,20 +63,20 @@ Top 10 documents by mention frequency:
 - [Paris](../locations/paris.md) - 15 shared documents
 - [United States](../locations/united-states.md) - 14 shared documents
 - [Africa](../locations/africa.md) - 13 shared documents
-- [the United States](../locations/the-united-states.md) - 13 shared documents
 - [Britain](../locations/britain.md) - 13 shared documents
+- [Coney Island](../locations/coney-island.md) - 13 shared documents
 
 **Events:**
 
 - [daily](../events/daily.md) - 19 shared documents
 - [2009](../events/2009.md) - 17 shared documents
-- [today](../events/today.md) - 16 shared documents
 - [2010](../events/2010.md) - 16 shared documents
-- [last year](../events/last-year.md) - 15 shared documents
+- [today](../events/today.md) - 16 shared documents
 - [2006](../events/2006.md) - 15 shared documents
-- [2008](../events/2008.md) - 14 shared documents
+- [last year](../events/last-year.md) - 15 shared documents
 - [18 months](../events/18-months.md) - 14 shared documents
 - [2002](../events/2002.md) - 14 shared documents
+- [2008](../events/2008.md) - 14 shared documents
 - [the day](../events/the-day.md) - 14 shared documents
 
 ## Timeline

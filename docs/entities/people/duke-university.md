@@ -31,35 +31,32 @@ Top 7 documents by mention frequency:
 **Organizations:**
 
 - [Duke University](../organizations/duke-university.md) - 7 shared documents
-- [Harvard University](../organizations/harvard-university.md) - 4 shared documents
-- [Congress](../organizations/congress.md) - 4 shared documents
-- [State](../organizations/state.md) - 4 shared documents
 
 **Locations:**
 
 - [China](../locations/china.md) - 6 shared documents
 - [Europe](../locations/europe.md) - 6 shared documents
 - [Israel](../locations/israel.md) - 6 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
 - [France](../locations/france.md) - 5 shared documents
+- [Germany](../locations/germany.md) - 5 shared documents
+- [Greece](../locations/greece.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
 - [Iraq](../locations/iraq.md) - 5 shared documents
+- [Paris](../locations/paris.md) - 5 shared documents
 
 **Events:**
 
 - [2009](../events/2009.md) - 5 shared documents
-- [2012](../events/2012.md) - 5 shared documents
 - [2011](../events/2011.md) - 5 shared documents
+- [2012](../events/2012.md) - 5 shared documents
 - [the years](../events/the-years.md) - 5 shared documents
-- [2004](../events/2004.md) - 4 shared documents
-- [2007](../events/2007.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
-- [the year](../events/the-year.md) - 4 shared documents
 - [1999](../events/1999.md) - 4 shared documents
+- [2002](../events/2002.md) - 4 shared documents
+- [2004](../events/2004.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
+- [2007](../events/2007.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
 
 ## Timeline
 

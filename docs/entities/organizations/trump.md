@@ -31,17 +31,16 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jeffrey E](../people/jeffrey-e.md) - 202 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 118 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 100 shared documents
-- [Donald 
-Trump](../people/donald-trump.md) - 73 shared documents
 - [Michael Wolff](../people/michael-wolff.md) - 69 shared documents
 - [White House](../people/white-house.md) - 65 shared documents
 - [jeffrey E. <](../people/jeffrey-e.md) - 64 shared documents
-- [President Trump](../people/president-trump.md) - 58 shared documents
-- [Steve Bannon](../people/steve-bannon.md) - 50 shared documents
-- [Mr. Bannon](../people/bannon.md) - 48 shared documents
+- [Jeffrey](../people/jeffrey.md) - 39 shared documents
+- [jeffrey E.](../people/jeffrey-e.md) - 33 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 32 shared documents
+- [Richard Kahn](../people/richard-kahn.md) - 32 shared documents
+- [New
+York](../people/new-york.md) - 25 shared documents
+- [Thomas Jr](../people/thomas-jr.md) - 25 shared documents
 
 **Organizations:**
 
@@ -65,8 +64,8 @@ Trump](../people/donald-trump.md) - 73 shared documents
 - [Florida](../locations/florida.md) - 65 shared documents
 - [Europe](../locations/europe.md) - 61 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 61 shared documents
-- [Washington](../locations/washington.md) - 58 shared documents
 - [London](../locations/london.md) - 58 shared documents
+- [Washington](../locations/washington.md) - 58 shared documents
 - [America](../locations/america.md) - 55 shared documents
 
 **Events:**

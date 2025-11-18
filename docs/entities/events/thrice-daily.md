@@ -57,15 +57,15 @@ Top 5 documents by mention frequency:
 **Events:**
 
 - [Wednesday](wednesday.md) - 5 shared documents
-- [daily](daily.md) - 5 shared documents
-- [this week](this-week.md) - 5 shared documents
-- [last week](last-week.md) - 5 shared documents
-- [2005](2005.md) - 5 shared documents
 - [13 months](13-months.md) - 5 shared documents
-- [2002](2002.md) - 5 shared documents
-- [every day](every-day.md) - 5 shared documents
-- [one year](one-year.md) - 5 shared documents
 - [20-year](20-year.md) - 5 shared documents
+- [2002](2002.md) - 5 shared documents
+- [2005](2005.md) - 5 shared documents
+- [daily](daily.md) - 5 shared documents
+- [each day](each-day.md) - 5 shared documents
+- [every day](every-day.md) - 5 shared documents
+- [last week](last-week.md) - 5 shared documents
+- [one year](one-year.md) - 5 shared documents
 
 ## Timeline
 

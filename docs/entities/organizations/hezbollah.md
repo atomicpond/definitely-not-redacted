@@ -30,16 +30,16 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 16 shared documents
-- [President Obama](../people/president-obama.md) - 15 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 15 shared documents
-- [Barack Obama](../people/barack-obama.md) - 14 shared documents
 - [Bashar al-Assad](../people/bashar-al-assad.md) - 12 shared documents
-- [Mr. Obama](../people/obama.md) - 12 shared documents
 - [West Bank](../people/west-bank.md) - 11 shared documents
 - [White House](../people/white-house.md) - 11 shared documents
 - [Hosni Mubarak](../people/hosni-mubarak.md) - 10 shared documents
 - [United 
 States](../people/united-states.md) - 10 shared documents
+- [Assad](../people/assad.md) - 9 shared documents
+- [Mr. Mubarak](../people/mubarak.md) - 9 shared documents
+- [Arab League](../people/arab-league.md) - 8 shared documents
 
 **Organizations:**
 
@@ -58,14 +58,14 @@ States](../people/united-states.md) - 10 shared documents
 
 - [Syria](../locations/syria.md) - 20 shared documents
 - [Iran](../locations/iran.md) - 19 shared documents
+- [Egypt](../locations/egypt.md) - 18 shared documents
 - [Iraq](../locations/iraq.md) - 18 shared documents
 - [Israel](../locations/israel.md) - 18 shared documents
-- [Egypt](../locations/egypt.md) - 18 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 17 shared documents
 - [Jordan](../locations/jordan.md) - 17 shared documents
-- [Libya](../locations/libya.md) - 16 shared documents
-- [the United States](../locations/the-united-states.md) - 16 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 17 shared documents
 - [Cairo](../locations/cairo.md) - 16 shared documents
+- [Libya](../locations/libya.md) - 16 shared documents
+- [Tehran](../locations/tehran.md) - 16 shared documents
 
 **Events:**
 

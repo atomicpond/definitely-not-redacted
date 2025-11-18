@@ -29,16 +29,18 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Lawrence Krauss](../people/lawrence-krauss.md) - 27 shared documents
-- [Lawrence M. Krauss](../people/lawrence-m-krauss.md) - 20 shared documents
+- [Lawrence Krauss](../people/lawrence-krauss.md) - 20 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 14 shared documents
 - [Research Office](../people/research-office.md) - 13 shared documents
 - [Space Exploration](../people/space-exploration.md) - 13 shared documents
-- [Barack Obama's](../people/barack-obamas.md) - 9 shared documents
+- [Barack Obama](../people/barack-obama.md) - 9 shared documents
 - [Cynthia Jewett](../people/cynthia-jewett.md) - 9 shared documents
 - [Kiaran Kirk](../people/kiaran-kirk.md) - 9 shared documents
-- [Lawrence](../people/lawrence.md) - 9 shared documents
 - [Peter Aldhous](../people/peter-aldhous.md) - 9 shared documents
+- [Cosmology Initiative 
+Foundation](../people/cosmology-initiative-foundation.md) - 8 shared documents
+- [Foundation Professor 
+School](../people/foundation-professor-school.md) - 8 shared documents
 
 **Organizations:**
 
@@ -63,25 +65,25 @@ Arizona State University](cosmology-initiative-foundation-professor-school-of-ea
 - [AZ](../locations/az.md) - 15 shared documents
 - [Australia](../locations/australia.md) - 13 shared documents
 - [Tempe, AZ](../locations/tempe-az.md) - 13 shared documents
-- [London](../locations/london.md) - 9 shared documents
 - [America](../locations/america.md) - 9 shared documents
 - [Arizona State](../locations/arizona-state.md) - 9 shared documents
 - [Canberra](../locations/canberra.md) - 9 shared documents
 - [Des Moines](../locations/des-moines.md) - 9 shared documents
 - [Iowa](../locations/iowa.md) - 9 shared documents
+- [Las Vegas](../locations/las-vegas.md) - 9 shared documents
 
 **Events:**
 
 - [85287-1404](../events/85287-1404.md) - 27 shared documents
-- [October](../events/october.md) - 9 shared documents
+- [2006](../events/2006.md) - 9 shared documents
 - [2007](../events/2007.md) - 9 shared documents
+- [2008](../events/2008.md) - 9 shared documents
 - [2014](../events/2014.md) - 9 shared documents
 - [2016](../events/2016.md) - 9 shared documents
-- [2008](../events/2008.md) - 9 shared documents
+- [871404](../events/871404.md) - 9 shared documents
+- [April 16, 2008](../events/april-16-2008.md) - 9 shared documents
 - [April 2011](../events/april-2011.md) - 9 shared documents
-- [May 2011](../events/may-2011.md) - 9 shared documents
-- [November 2016](../events/november-2016.md) - 9 shared documents
-- [2006](../events/2006.md) - 9 shared documents
+- [April 2017](../events/april-2017.md) - 9 shared documents
 
 ## Timeline
 

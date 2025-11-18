@@ -34,14 +34,13 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 13 shared documents
-- [Epstein](../people/epstein.md) - 12 shared documents
 - [Jeffrey](../people/jeffrey.md) - 12 shared documents
-- [Krauss](../people/krauss.md) - 12 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 12 shared documents
 - [Lawrence Krauss](../people/lawrence-krauss.md) - 12 shared documents
-- [Lawrence M. Krauss](../people/lawrence-m-krauss.md) - 12 shared documents
 - [Rebecca Watson](../people/rebecca-watson.md) - 12 shared documents
-- [Lawrence](../people/lawrence.md) - 8 shared documents
+- [Dear Jeffrey](../people/dear-jeffrey.md) - 7 shared documents
+- [East Germans](../people/east-germans.md) - 7 shared documents
+- [High Castle](../people/high-castle.md) - 7 shared documents
 
 **Organizations:**
 

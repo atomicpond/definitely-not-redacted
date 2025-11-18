@@ -33,13 +33,14 @@ Top 10 documents by mention frequency:
 - [Saudi Arabia](../people/saudi-arabia.md) - 12 shared documents
 - [Persian Gulf](../people/persian-gulf.md) - 11 shared documents
 - [Middle East](../people/middle-east.md) - 10 shared documents
-- [Mr. Obama](../people/obama.md) - 9 shared documents
-- [Barack Obama](../people/barack-obama.md) - 8 shared documents
 - [Bashar al-Assad](../people/bashar-al-assad.md) - 8 shared documents
 - [Assad](../people/assad.md) - 6 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Hosni Mubarak](../people/hosni-mubarak.md) - 6 shared documents
 - [Islamic Republic](../people/islamic-republic.md) - 6 shared documents
 - [Mahmoud Abbas](../people/mahmoud-abbas.md) - 6 shared documents
+- [United 
+States](../people/united-states.md) - 6 shared documents
 
 **Organizations:**
 
@@ -61,24 +62,24 @@ Top 10 documents by mention frequency:
 - [China](china.md) - 14 shared documents
 - [Iran](iran.md) - 13 shared documents
 - [US](us.md) - 12 shared documents
-- [the Middle East](the-middle-east.md) - 12 shared documents
 - [America](america.md) - 12 shared documents
+- [the Middle East](the-middle-east.md) - 12 shared documents
 - [Washington](washington.md) - 11 shared documents
 - [Europe](europe.md) - 11 shared documents
 - [Iraq](iraq.md) - 11 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 11 shared documents
 - [2012](../events/2012.md) - 11 shared documents
+- [today](../events/today.md) - 11 shared documents
 - [2010](../events/2010.md) - 9 shared documents
 - [2003](../events/2003.md) - 8 shared documents
 - [last year](../events/last-year.md) - 8 shared documents
+- [2006](../events/2006.md) - 7 shared documents
 - [2009](../events/2009.md) - 7 shared documents
+- [decades](../events/decades.md) - 7 shared documents
 - [this year](../events/this-year.md) - 7 shared documents
 - [years](../events/years.md) - 7 shared documents
-- [2006](../events/2006.md) - 7 shared documents
-- [decades](../events/decades.md) - 7 shared documents
 
 ## Timeline
 

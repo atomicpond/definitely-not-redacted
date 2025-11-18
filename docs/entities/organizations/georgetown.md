@@ -31,17 +31,17 @@ Top 6 documents by mention frequency:
 
 - [Washington](../locations/washington.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
+- [America](../locations/america.md) - 4 shared documents
+- [Asia](../locations/asia.md) - 4 shared documents
 - [China](../locations/china.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
 - [Germany](../locations/germany.md) - 4 shared documents
-- [America](../locations/america.md) - 4 shared documents
-- [Asia](../locations/asia.md) - 4 shared documents
 
 **Events:**
 
-- [years](../events/years.md) - 4 shared documents
-- [2008](../events/2008.md) - 4 shared documents
 - [1991](../events/1991.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
+- [years](../events/years.md) - 4 shared documents
 
 ## Timeline
 

@@ -35,15 +35,15 @@ Top 5 documents by mention frequency:
 **Events:**
 
 - [the day](the-day.md) - 5 shared documents
-- [2005](2005.md) - 5 shared documents
 - [2002](2002.md) - 5 shared documents
+- [2005](2005.md) - 5 shared documents
+- [1990](1990.md) - 4 shared documents
+- [2001](2001.md) - 4 shared documents
 - [2003](2003.md) - 4 shared documents
 - [2004](2004.md) - 4 shared documents
 - [2007](2007.md) - 4 shared documents
+- [a year](a-year.md) - 4 shared documents
 - [daily](daily.md) - 4 shared documents
-- [1990](1990.md) - 4 shared documents
-- [2001](2001.md) - 4 shared documents
-- [months](months.md) - 4 shared documents
 
 ## Timeline
 

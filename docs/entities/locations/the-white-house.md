@@ -30,19 +30,18 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 27 shared documents
-- [Donald 
-Trump](../people/donald-trump.md) - 9 shared documents
 - [Hillary Clinton](../people/hillary-clinton.md) - 9 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 9 shared documents
 - [Supreme Court](../people/supreme-court.md) - 8 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 6 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 6 shared documents
 - [New 
 York Times](../people/new-york-times.md) - 6 shared documents
-- [Mr. Obama](../people/obama.md) - 6 shared documents
-- [President Trump](../people/president-trump.md) - 6 shared documents
 - [United 
 States](../people/united-states.md) - 6 shared documents
+- [Biden](../people/biden.md) - 5 shared documents
+- [Jeffrey E](../people/jeffrey-e.md) - 5 shared documents
 
 **Organizations:**
 
@@ -67,7 +66,7 @@ States](../people/united-states.md) - 6 shared documents
 - [France](france.md) - 6 shared documents
 - [Iran](iran.md) - 6 shared documents
 - [Turkey](turkey.md) - 5 shared documents
-- [New York](new-york.md) - 5 shared documents
+- [Egypt](egypt.md) - 5 shared documents
 - [Iraq](iraq.md) - 5 shared documents
 
 **Events:**
@@ -79,8 +78,8 @@ States](../people/united-states.md) - 6 shared documents
 - [November](../events/november.md) - 7 shared documents
 - [2012](../events/2012.md) - 6 shared documents
 - [daily](../events/daily.md) - 6 shared documents
-- [last year](../events/last-year.md) - 6 shared documents
 - [last month](../events/last-month.md) - 6 shared documents
+- [last year](../events/last-year.md) - 6 shared documents
 - [three days](../events/three-days.md) - 6 shared documents
 
 ## Timeline

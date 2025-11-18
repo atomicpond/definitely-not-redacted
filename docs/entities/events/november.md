@@ -31,7 +31,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 34 shared documents
-- [President Trump](../people/president-trump.md) - 21 shared documents
 
 **Organizations:**
 
@@ -60,12 +59,12 @@ Top 10 documents by mention frequency:
 
 - [today](today.md) - 41 shared documents
 - [this year](this-year.md) - 35 shared documents
-- [Monday](monday.md) - 29 shared documents
 - [last week](last-week.md) - 29 shared documents
+- [Monday](monday.md) - 29 shared documents
 - [years](years.md) - 27 shared documents
 - [yesterday](yesterday.md) - 26 shared documents
-- [last year](last-year.md) - 26 shared documents
 - [December](december.md) - 26 shared documents
+- [last year](last-year.md) - 26 shared documents
 - [two years](two-years.md) - 25 shared documents
 - [2015](2015.md) - 25 shared documents
 

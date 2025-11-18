@@ -39,8 +39,8 @@ Top 7 documents by mention frequency:
 - [HOUSE](../organizations/house.md) - 7 shared documents
 - [Trump](../organizations/trump.md) - 7 shared documents
 - [Merrill Lynch](../organizations/merrill-lynch.md) - 6 shared documents
-- [Pierce, Fenner & Smith Incorporated](../organizations/pierce-fenner-smith-incorporated.md) - 5 shared documents
 - [Bank of America Merrill Lynch](../organizations/bank-of-america-merrill-lynch.md) - 5 shared documents
+- [Pierce, Fenner & Smith Incorporated](../organizations/pierce-fenner-smith-incorporated.md) - 5 shared documents
 
 **Locations:**
 
@@ -49,9 +49,9 @@ Top 7 documents by mention frequency:
 
 **Events:**
 
-- [2018](../events/2018.md) - 4 shared documents
 - [2016](../events/2016.md) - 4 shared documents
 - [2017](../events/2017.md) - 4 shared documents
+- [2018](../events/2018.md) - 4 shared documents
 
 ## Timeline
 

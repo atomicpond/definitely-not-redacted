@@ -39,23 +39,23 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 - [California](../locations/california.md) - 4 shared documents
-- [Virginia](../locations/virginia.md) - 4 shared documents
 - [Paris](../locations/paris.md) - 4 shared documents
+- [Virginia](../locations/virginia.md) - 4 shared documents
 
 **Events:**
 
 - [Sunday](../events/sunday.md) - 5 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [months](../events/months.md) - 4 shared documents
-- [many years](../events/many-years.md) - 4 shared documents
 - [1963](../events/1963.md) - 4 shared documents
 - [1973](../events/1973.md) - 4 shared documents
 - [1977](../events/1977.md) - 4 shared documents
+- [many years](../events/many-years.md) - 4 shared documents
+- [months](../events/months.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

@@ -12,7 +12,7 @@
 - [Robert Trivers](../entities/people/robert-trivers.md) - 2 mentions
 - [West Coast](../entities/people/west-coast.md) - 1 mention
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 1 mention
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 1 mention
 
 ### Organizations
 - [HOUSE](../entities/organizations/house.md) - 1 mention

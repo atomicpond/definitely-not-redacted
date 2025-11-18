@@ -35,7 +35,8 @@ Top 8 documents by mention frequency:
 - [Ben Sasse](../people/ben-sasse.md) - 7 shared documents
 - [Brad Edwards](../people/brad-edwards.md) - 7 shared documents
 - [Byung J. "BJay](../people/byung-j-bjay.md) - 7 shared documents
-- [Mr. Edwards](../people/edwards.md) - 7 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 7 shared documents
 - [Emily Michot](../people/emily-michot.md) - 7 shared documents
 
 **Organizations:**
@@ -53,29 +54,29 @@ Top 8 documents by mention frequency:
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 8 shared documents
 - [Atlanta](../locations/atlanta.md) - 8 shared documents
 - [Georgia](../locations/georgia.md) - 8 shared documents
+- [New York](../locations/new-york.md) - 8 shared documents
 - [US](../locations/us.md) - 8 shared documents
-- [Florida](../locations/florida.md) - 7 shared documents
 - [Caribbean](../locations/caribbean.md) - 7 shared documents
+- [Florida](../locations/florida.md) - 7 shared documents
 - [Miami](../locations/miami.md) - 7 shared documents
+- [Nebraska](../locations/nebraska.md) - 7 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 7 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 7 shared documents
-- [Nebraska](../locations/nebraska.md) - 7 shared documents
 
 **Events:**
 
-- [2017](../events/2017.md) - 8 shared documents
 - [2008](../events/2008.md) - 8 shared documents
-- [2009](../events/2009.md) - 7 shared documents
-- [Monday](../events/monday.md) - 7 shared documents
-- [Friday](../events/friday.md) - 7 shared documents
-- [Tuesday](../events/tuesday.md) - 7 shared documents
+- [2017](../events/2017.md) - 8 shared documents
 - [13 months](../events/13-months.md) - 7 shared documents
-- [September](../events/september.md) - 7 shared documents
+- [2009](../events/2009.md) - 7 shared documents
 - [66](../events/66.md) - 7 shared documents
+- [Feb. 22](../events/feb-22.md) - 7 shared documents
+- [Friday](../events/friday.md) - 7 shared documents
 - [just days](../events/just-days.md) - 7 shared documents
+- [Monday](../events/monday.md) - 7 shared documents
+- [October 2017](../events/october-2017.md) - 7 shared documents
 
 ## Timeline
 

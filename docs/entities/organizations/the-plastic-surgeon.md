@@ -36,32 +36,32 @@ He](../people/mystery-he.md) - 5 shared documents
 - [the University of ... 
 www.justformenplasticsurgery.com/AboutDrEpstein.asp - Cached - Similar 
 ](the-university-of-wwwjustformenplasticsurgerycom-aboutdrepsteinasp-cached-similar.md) - 5 shared documents
-- [Google](google.md) - 5 shared documents
-- [Huffington Post](huffington-post.md) - 5 shared documents
-- [The Huffington Post](the-huffington-post.md) - 5 shared documents
-- [Edge](edge.md) - 5 shared documents
-- [Limited](limited.md) - 5 shared documents
 - [Clinical Professor at the University](clinical-professor-at-the-university.md) - 5 shared documents
+- [Edge](edge.md) - 5 shared documents
 - [Epstein and the hair transplant surgeons at the Foundation](epstein-and-the-hair-transplant-surgeons-at-the-foundation.md) - 5 shared documents
 - [Epstein Foundation](epstein-foundation.md) - 5 shared documents
 - [EPSTEIN is a money manager and science philanthropist who currently serves as the 
 Chairman and Chief Executive Officer of the Financial Trust](epstein-is-a-money-manager-and-science-philanthropist-who-currently-serves-as-the-chairman-and-chief-executive-officer-of-the-financial-trust.md) - 5 shared documents
+- [FACS](facs.md) - 5 shared documents
+- [FACS I Board Certified Plastic Surgeon](facs-i-board-certified-plastic-surgeon.md) - 5 shared documents
+- [Google](google.md) - 5 shared documents
+- [Huffington](huffington.md) - 5 shared documents
 
 **Locations:**
 
-- [New York City](../locations/new-york-city.md) - 5 shared documents
-- [Miami](../locations/miami.md) - 5 shared documents
 - [Coney Island](../locations/coney-island.md) - 5 shared documents
+- [Miami](../locations/miami.md) - 5 shared documents
+- [New York City](../locations/new-york-city.md) - 5 shared documents
 
 **Events:**
 
-- [daily](../events/daily.md) - 5 shared documents
-- [2005](../events/2005.md) - 5 shared documents
 - [1994](../events/1994.md) - 5 shared documents
-- [this day](../events/this-day.md) - 5 shared documents
-- [weekly](../events/weekly.md) - 5 shared documents
+- [2005](../events/2005.md) - 5 shared documents
+- [daily](../events/daily.md) - 5 shared documents
 - [Dec 2](../events/dec-2.md) - 5 shared documents
 - [January 20, 1953](../events/january-20-1953.md) - 5 shared documents
+- [this day](../events/this-day.md) - 5 shared documents
+- [weekly](../events/weekly.md) - 5 shared documents
 
 ## Timeline
 

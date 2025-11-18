@@ -30,31 +30,29 @@ Top 6 documents by mention frequency:
 **Organizations:**
 
 - [Harvard](../organizations/harvard.md) - 5 shared documents
-- [Times](../organizations/times.md) - 4 shared documents
 
 **Locations:**
 
 - [London](../locations/london.md) - 6 shared documents
 - [California](../locations/california.md) - 5 shared documents
+- [England](../locations/england.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
-- [Saudi Arabia](../locations/saudi-arabia.md) - 5 shared documents
 - [Pennsylvania](../locations/pennsylvania.md) - 5 shared documents
-- [England](../locations/england.md) - 5 shared documents
-- [Africa](../locations/africa.md) - 4 shared documents
+- [Saudi Arabia](../locations/saudi-arabia.md) - 5 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 6 shared documents
 - [1987](../events/1987.md) - 6 shared documents
+- [today](../events/today.md) - 6 shared documents
+- [1981](../events/1981.md) - 5 shared documents
+- [1982](../events/1982.md) - 5 shared documents
 - [1986](../events/1986.md) - 5 shared documents
-- [2003](../events/2003.md) - 5 shared documents
+- [1988](../events/1988.md) - 5 shared documents
+- [1989](../events/1989.md) - 5 shared documents
+- [1992](../events/1992.md) - 5 shared documents
 - [1996](../events/1996.md) - 5 shared documents
-- [July](../events/july.md) - 5 shared documents
-- [last week](../events/last-week.md) - 5 shared documents
 - [1998](../events/1998.md) - 5 shared documents
-- [1999](../events/1999.md) - 5 shared documents
-- [November](../events/november.md) - 5 shared documents
 
 ## Timeline
 

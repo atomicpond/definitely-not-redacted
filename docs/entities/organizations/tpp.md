@@ -42,15 +42,10 @@ Top 9 documents by mention frequency:
 **Organizations:**
 
 - [Trump](trump.md) - 8 shared documents
-- [JPY](jpy.md) - 6 shared documents
 - [Bank](bank.md) - 6 shared documents
+- [JPY](jpy.md) - 6 shared documents
 - [the Financial Conduct Authority](the-financial-conduct-authority.md) - 6 shared documents
 - [US Treasury](us-treasury.md) - 5 shared documents
-- [Merrill Lynch](merrill-lynch.md) - 5 shared documents
-- [Pierce, Fenner & Smith Incorporated](pierce-fenner-smith-incorporated.md) - 5 shared documents
-- [Bank of America Merrill Lynch](bank-of-america-merrill-lynch.md) - 5 shared documents
-- [BofA Merrill Lynch Global Research](bofa-merrill-lynch-global-research.md) - 5 shared documents
-- [Bank of America](bank-of-america.md) - 5 shared documents
 
 **Locations:**
 
@@ -58,21 +53,24 @@ Top 9 documents by mention frequency:
 - [Japan](../locations/japan.md) - 8 shared documents
 - [Europe](../locations/europe.md) - 7 shared documents
 - [Mexico](../locations/mexico.md) - 7 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
+- [Argentina](../locations/argentina.md) - 6 shared documents
 - [Canada](../locations/canada.md) - 6 shared documents
-- [London](../locations/london.md) - 6 shared documents
-- [Singapore](../locations/singapore.md) - 6 shared documents
 - [India](../locations/india.md) - 6 shared documents
+- [London](../locations/london.md) - 6 shared documents
 - [Moscow](../locations/moscow.md) - 6 shared documents
+- [Russia](../locations/russia.md) - 6 shared documents
 
 **Events:**
 
 - [2016](../events/2016.md) - 8 shared documents
 - [2001](../events/2001.md) - 7 shared documents
-- [this year](../events/this-year.md) - 6 shared documents
 - [2017](../events/2017.md) - 6 shared documents
-- [2018](../events/2018.md) - 5 shared documents
+- [this year](../events/this-year.md) - 6 shared documents
+- [1959](../events/1959.md) - 5 shared documents
+- [198602883D](../events/198602883d.md) - 5 shared documents
 - [2015](../events/2015.md) - 5 shared documents
+- [2018](../events/2018.md) - 5 shared documents
+- [the day](../events/the-day.md) - 5 shared documents
 
 ## Timeline
 

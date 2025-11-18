@@ -31,15 +31,15 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jack Scarola](../people/jack-scarola.md) - 22 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 18 shared documents
 - [Paul Cassell](../people/paul-cassell.md) - 17 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 11 shared documents
 - [Jane Doe](../people/jane-doe.md) - 11 shared documents
 - [Emily Michot](../people/emily-michot.md) - 10 shared documents
-- [Mr. Edwards](../people/edwards.md) - 9 shared documents
-- [Epstein](../people/epstein.md) - 9 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 9 shared documents
 - [Jack Goldberger](../people/jack-goldberger.md) - 9 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 9 shared documents
+- [New Mexico](../people/new-mexico.md) - 9 shared documents
+- [Acosta](../people/acosta.md) - 8 shared documents
+- [Alexander Acosta](../people/alexander-acosta.md) - 8 shared documents
 
 **Organizations:**
 
@@ -50,8 +50,8 @@ Top 10 documents by mention frequency:
 - [the Justice Department](the-justice-department.md) - 10 shared documents
 - [Maxwell](maxwell.md) - 10 shared documents
 - [the Miami Herald](the-miami-herald.md) - 9 shared documents
-- [HOUSE](house.md) - 9 shared documents
 - [Congress](congress.md) - 9 shared documents
+- [HOUSE](house.md) - 9 shared documents
 - [the Department of Justice](the-department-of-justice.md) - 8 shared documents
 
 **Locations:**
@@ -61,8 +61,8 @@ Top 10 documents by mention frequency:
 - [Palm Beach County](../locations/palm-beach-county.md) - 15 shared documents
 - [Miami](../locations/miami.md) - 13 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 13 shared documents
-- [New York](../locations/new-york.md) - 11 shared documents
 - [Caribbean](../locations/caribbean.md) - 11 shared documents
+- [New York](../locations/new-york.md) - 11 shared documents
 - [England](../locations/england.md) - 9 shared documents
 - [New Mexico](../locations/new-mexico.md) - 9 shared documents
 - [US](../locations/us.md) - 9 shared documents

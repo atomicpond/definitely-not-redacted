@@ -32,46 +32,44 @@ Top 10 documents by mention frequency:
 
 - [Barack Obama](barack-obama.md) - 6 shared documents
 - [White House](white-house.md) - 5 shared documents
-- [Middle East](middle-east.md) - 4 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 10 shared documents
 - [Congress](../organizations/congress.md) - 8 shared documents
 - [the White House](../organizations/the-white-house.md) - 7 shared documents
-- [Trump](../organizations/trump.md) - 6 shared documents
 - [CNN](../organizations/cnn.md) - 6 shared documents
-- [Senate](../organizations/senate.md) - 5 shared documents
+- [Trump](../organizations/trump.md) - 6 shared documents
 - [New York Times](../organizations/new-york-times.md) - 5 shared documents
+- [Senate](../organizations/senate.md) - 5 shared documents
 - [Treasury](../organizations/treasury.md) - 5 shared documents
-- [White House](../organizations/white-house.md) - 4 shared documents
 - [GOP](../organizations/gop.md) - 4 shared documents
 
 **Locations:**
 
-- [China](../locations/china.md) - 6 shared documents
 - [America](../locations/america.md) - 6 shared documents
+- [China](../locations/china.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 6 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
-- [Saudi Arabia](../locations/saudi-arabia.md) - 5 shared documents
 - [Paris](../locations/paris.md) - 5 shared documents
+- [Russia](../locations/russia.md) - 5 shared documents
+- [Saudi Arabia](../locations/saudi-arabia.md) - 5 shared documents
+- [Australia](../locations/australia.md) - 4 shared documents
 - [California](../locations/california.md) - 4 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
 
 **Events:**
 
 - [Sunday](../events/sunday.md) - 7 shared documents
+- [Friday](../events/friday.md) - 5 shared documents
 - [the week](../events/the-week.md) - 5 shared documents
 - [this year](../events/this-year.md) - 5 shared documents
-- [Friday](../events/friday.md) - 5 shared documents
-- [annual](../events/annual.md) - 4 shared documents
-- [Thursday](../events/thursday.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
 - [2010](../events/2010.md) - 4 shared documents
+- [2013](../events/2013.md) - 4 shared documents
+- [annual](../events/annual.md) - 4 shared documents
 - [months](../events/months.md) - 4 shared documents
 - [November](../events/november.md) - 4 shared documents
+- [Thursday](../events/thursday.md) - 4 shared documents
 
 ## Timeline
 

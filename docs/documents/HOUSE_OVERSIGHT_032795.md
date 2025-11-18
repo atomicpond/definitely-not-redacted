@@ -13,7 +13,7 @@
 Subject](../entities/people/reid-subject.md) - 1 mention
 - [Reid 
 Sent](../entities/people/reid-sent.md) - 1 mention
-- [Mr. Cohen](../entities/people/mr-cohen.md) - 1 mention
+- [Mr. Cohen](../entities/people/cohen.md) - 1 mention
 - [Jeffrey E. 
 Sent](../entities/people/jeffrey-e-sent.md) - 1 mention
 

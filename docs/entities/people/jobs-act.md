@@ -26,7 +26,6 @@ Top 5 documents by mention frequency:
 
 **People:**
 
-- [President Trump](president-trump.md) - 4 shared documents
 - [Tax Cuts](tax-cuts.md) - 4 shared documents
 
 **Organizations:**
@@ -36,8 +35,8 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [2018](../events/2018.md) - 4 shared documents
 - [2017](../events/2017.md) - 4 shared documents
+- [2018](../events/2018.md) - 4 shared documents
 
 ## Timeline
 

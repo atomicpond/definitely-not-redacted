@@ -34,11 +34,9 @@ Top 10 documents by mention frequency:
 - [Weingarten](weingarten.md) - 11 shared documents
 - [Jeffrey E](jeffrey-e.md) - 8 shared documents
 - [Michael C. Miller](michael-c-miller.md) - 7 shared documents
-- [Mr. 
-Trump](trump.md) - 6 shared documents
 - [Michael](michael.md) - 6 shared documents
-- [Jane Doe](jane-doe.md) - 5 shared documents
 - [Darren Indyke](darren-indyke.md) - 5 shared documents
+- [Jane Doe](jane-doe.md) - 5 shared documents
 - [Michael 
 Subject](michael-subject.md) - 5 shared documents
 

@@ -35,8 +35,8 @@ Clinton](bill-clinton.md) - 5 shared documents
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 5 shared documents
-- [State](../organizations/state.md) - 4 shared documents
 - [BBC](../organizations/bbc.md) - 4 shared documents
+- [State](../organizations/state.md) - 4 shared documents
 
 **Locations:**
 
@@ -44,8 +44,8 @@ Clinton](bill-clinton.md) - 5 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 4 shared documents
 - [daily](../events/daily.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

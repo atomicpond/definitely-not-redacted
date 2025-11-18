@@ -30,19 +30,19 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Lawrence Krauss](../people/lawrence-krauss.md) - 20 shared documents
-- [Lawrence M. Krauss](../people/lawrence-m-krauss.md) - 20 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 13 shared documents
 - [Cosmology Initiative 
 Foundation](../people/cosmology-initiative-foundation.md) - 10 shared documents
 - [Krauss 
 Director](../people/krauss-director.md) - 10 shared documents
-- [Lawrence](../people/lawrence.md) - 10 shared documents
 - [Physics Department 
 Arizona](../people/physics-department-arizona.md) - 10 shared documents
 - [Professor 
 School](../people/professor-school.md) - 10 shared documents
 - [Research Office](../people/research-office.md) - 10 shared documents
 - [Space Exploration](../people/space-exploration.md) - 10 shared documents
+- [State University](../people/state-university.md) - 10 shared documents
+- [noam](../people/noam.md) - 9 shared documents
 
 **Organizations:**
 
@@ -79,13 +79,13 @@ Arizona State University](../organizations/cosmology-initiative-foundation-profe
 - [85287-1404](../events/85287-1404.md) - 20 shared documents
 - [2007](../events/2007.md) - 10 shared documents
 - [2016](../events/2016.md) - 10 shared documents
+- [2008](../events/2008.md) - 9 shared documents
 - [2014](../events/2014.md) - 9 shared documents
 - [this year](../events/this-year.md) - 9 shared documents
-- [2008](../events/2008.md) - 9 shared documents
-- [October](../events/october.md) - 8 shared documents
+- [2006](../events/2006.md) - 8 shared documents
 - [April 2011](../events/april-2011.md) - 8 shared documents
-- [May 2011](../events/may-2011.md) - 8 shared documents
-- [November 2016](../events/november-2016.md) - 8 shared documents
+- [April 2017](../events/april-2017.md) - 8 shared documents
+- [December of 2007](../events/december-of-2007.md) - 8 shared documents
 
 ## Timeline
 

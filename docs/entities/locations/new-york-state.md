@@ -56,26 +56,26 @@ Top 10 documents by mention frequency:
 - [Manhattan](manhattan.md) - 8 shared documents
 - [U.S.](us.md) - 7 shared documents
 - [America](america.md) - 7 shared documents
-- [Florida](florida.md) - 7 shared documents
 - [Chicago](chicago.md) - 7 shared documents
+- [Florida](florida.md) - 7 shared documents
 - [Pennsylvania](pennsylvania.md) - 6 shared documents
 - [the United States](the-united-states.md) - 6 shared documents
-- [New York](new-york.md) - 6 shared documents
+- [Australia](australia.md) - 6 shared documents
+- [Brooklyn](brooklyn.md) - 6 shared documents
 - [California](california.md) - 6 shared documents
-- [Los Angeles](los-angeles.md) - 6 shared documents
 
 **Events:**
 
 - [2012](../events/2012.md) - 9 shared documents
 - [2000](../events/2000.md) - 7 shared documents
+- [1984](../events/1984.md) - 6 shared documents
 - [1986](../events/1986.md) - 6 shared documents
+- [1987](../events/1987.md) - 6 shared documents
+- [1988](../events/1988.md) - 6 shared documents
+- [1995](../events/1995.md) - 6 shared documents
+- [2001](../events/2001.md) - 6 shared documents
 - [2004](../events/2004.md) - 6 shared documents
 - [2007](../events/2007.md) - 6 shared documents
-- [2009](../events/2009.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [last year](../events/last-year.md) - 6 shared documents
-- [2011](../events/2011.md) - 6 shared documents
-- [2001](../events/2001.md) - 6 shared documents
 
 ## Timeline
 

@@ -25,8 +25,8 @@ Top 5 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Middle East](../people/middle-east.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 5 shared documents
 
 **Organizations:**
@@ -37,26 +37,26 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Middle East](../locations/middle-east.md) - 5 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
+- [Gulf](../locations/gulf.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
 - [Iraq](../locations/iraq.md) - 5 shared documents
-- [Syria](../locations/syria.md) - 5 shared documents
 - [Israel](../locations/israel.md) - 5 shared documents
-- [Gulf](../locations/gulf.md) - 5 shared documents
-- [Dubai](../locations/dubai.md) - 4 shared documents
-- [Jordan](../locations/jordan.md) - 4 shared documents
+- [Middle East](../locations/middle-east.md) - 5 shared documents
+- [Russia](../locations/russia.md) - 5 shared documents
+- [Syria](../locations/syria.md) - 5 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 4 shared documents
+- [Cairo](../locations/cairo.md) - 4 shared documents
 
 **Events:**
 
 - [annual](../events/annual.md) - 5 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [last year](../events/last-year.md) - 4 shared documents
-- [last week](../events/last-week.md) - 4 shared documents
+- [1973](../events/1973.md) - 4 shared documents
 - [2013](../events/2013.md) - 4 shared documents
 - [a year](../events/a-year.md) - 4 shared documents
-- [1973](../events/1973.md) - 4 shared documents
+- [last week](../events/last-week.md) - 4 shared documents
+- [last year](../events/last-year.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

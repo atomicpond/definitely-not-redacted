@@ -66,11 +66,11 @@ Top 10 documents by mention frequency:
 - [2015](../events/2015.md) - 25 shared documents
 - [the day](../events/the-day.md) - 25 shared documents
 - [2000](../events/2000.md) - 24 shared documents
+- [2013](../events/2013.md) - 23 shared documents
 - [annual](../events/annual.md) - 23 shared documents
 - [this year](../events/this-year.md) - 23 shared documents
-- [2013](../events/2013.md) - 23 shared documents
 - [2017](../events/2017.md) - 22 shared documents
-- [2004](../events/2004.md) - 21 shared documents
+- [1959](../events/1959.md) - 21 shared documents
 
 ## Timeline
 

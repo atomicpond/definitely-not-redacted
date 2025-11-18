@@ -30,17 +30,17 @@ Top 5 documents by mention frequency:
 **Locations:**
 
 - [Florida](../locations/florida.md) - 5 shared documents
-- [Virginia](../locations/virginia.md) - 5 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 5 shared documents
+- [Virginia](../locations/virginia.md) - 5 shared documents
 
 **Events:**
 
 - [2000](../events/2000.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [2007](../events/2007.md) - 4 shared documents
-- [2005](../events/2005.md) - 4 shared documents
-- [winter](../events/winter.md) - 4 shared documents
 - [1995](../events/1995.md) - 4 shared documents
+- [2003](../events/2003.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
+- [2007](../events/2007.md) - 4 shared documents
+- [winter](../events/winter.md) - 4 shared documents
 
 ## Timeline
 

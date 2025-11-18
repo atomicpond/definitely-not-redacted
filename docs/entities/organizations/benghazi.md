@@ -30,15 +30,15 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 18 shared documents
-- [President Obama](../people/president-obama.md) - 16 shared documents
-- [Barack Obama](../people/barack-obama.md) - 15 shared documents
 - [Middle East](../people/middle-east.md) - 15 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 12 shared documents
 - [Islamic Republic](../people/islamic-republic.md) - 10 shared documents
 - [Cold War](../people/cold-war.md) - 9 shared documents
-- [Mr. Obama](../people/obama.md) - 9 shared documents
 - [Security Council](../people/security-council.md) - 9 shared documents
 - [Daniel Pipes](../people/daniel-pipes.md) - 8 shared documents
+- [Hosni Mubarak](../people/hosni-mubarak.md) - 8 shared documents
+- [Tahrir Square](../people/tahrir-square.md) - 8 shared documents
+- [Bashar al-Assad](../people/bashar-al-assad.md) - 7 shared documents
 
 **Organizations:**
 
@@ -56,15 +56,15 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [Russia](../locations/russia.md) - 22 shared documents
-- [Libya](../locations/libya.md) - 20 shared documents
 - [Israel](../locations/israel.md) - 20 shared documents
+- [Libya](../locations/libya.md) - 20 shared documents
 - [the Middle East](../locations/the-middle-east.md) - 17 shared documents
 - [Washington](../locations/washington.md) - 17 shared documents
+- [Gaza](../locations/gaza.md) - 16 shared documents
 - [Iran](../locations/iran.md) - 16 shared documents
 - [Iraq](../locations/iraq.md) - 16 shared documents
 - [Syria](../locations/syria.md) - 16 shared documents
 - [the United States](../locations/the-united-states.md) - 16 shared documents
-- [Gaza](../locations/gaza.md) - 16 shared documents
 
 **Events:**
 
@@ -75,9 +75,9 @@ Top 10 documents by mention frequency:
 - [the day](../events/the-day.md) - 12 shared documents
 - [2010](../events/2010.md) - 11 shared documents
 - [decades](../events/decades.md) - 11 shared documents
+- [1991](../events/1991.md) - 10 shared documents
 - [2007](../events/2007.md) - 10 shared documents
-- [Sunday](../events/sunday.md) - 10 shared documents
-- [years](../events/years.md) - 10 shared documents
+- [June](../events/june.md) - 10 shared documents
 
 ## Timeline
 

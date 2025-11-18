@@ -26,20 +26,19 @@ Top 7 documents by mention frequency:
 
 **People:**
 
-- [President Obama](president-obama.md) - 5 shared documents
 - [Wealth Management](wealth-management.md) - 5 shared documents
-- [Deutsche Bank](deutsche-bank.md) - 5 shared documents
 - [Deutsche Asset](deutsche-asset.md) - 5 shared documents
+- [Deutsche Bank](deutsche-bank.md) - 5 shared documents
 
 **Organizations:**
 
 - [Deutsche Bank Trust Company](../organizations/deutsche-bank-trust-company.md) - 6 shared documents
+- [Bank](../organizations/bank.md) - 5 shared documents
 - [Deutsche Bank](../organizations/deutsche-bank.md) - 5 shared documents
 - [Deutsche Bank AG](../organizations/deutsche-bank-ag.md) - 5 shared documents
-- [Bank](../organizations/bank.md) - 5 shared documents
-- [Senate](../organizations/senate.md) - 4 shared documents
 - [Congress](../organizations/congress.md) - 4 shared documents
 - [IRS](../organizations/irs.md) - 4 shared documents
+- [Senate](../organizations/senate.md) - 4 shared documents
 - [Treasury](../organizations/treasury.md) - 4 shared documents
 
 **Locations:**
@@ -48,15 +47,15 @@ Top 7 documents by mention frequency:
 
 **Events:**
 
-- [2014](../events/2014.md) - 6 shared documents
 - [2012](../events/2012.md) - 6 shared documents
+- [2014](../events/2014.md) - 6 shared documents
 - [monthly](../events/monthly.md) - 5 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [2015](../events/2015.md) - 4 shared documents
 - [2000](../events/2000.md) - 4 shared documents
-- [2011](../events/2011.md) - 4 shared documents
+- [2009](../events/2009.md) - 4 shared documents
 - [2010](../events/2010.md) - 4 shared documents
+- [2011](../events/2011.md) - 4 shared documents
 - [2013](../events/2013.md) - 4 shared documents
+- [2015](../events/2015.md) - 4 shared documents
 
 ## Timeline
 

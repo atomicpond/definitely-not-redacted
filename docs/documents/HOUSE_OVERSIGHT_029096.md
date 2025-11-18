@@ -15,7 +15,7 @@
 - [On Thu](../entities/people/on-thu.md) - 2 mentions
 - [Joi Ito](../entities/people/joi-ito.md) - 2 mentions
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Joi Ito 
 Sent](../entities/people/joi-ito-sent.md) - 1 mention
 - [High 

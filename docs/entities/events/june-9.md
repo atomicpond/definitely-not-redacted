@@ -52,11 +52,11 @@ Top 6 documents by mention frequency:
 - [monthly](monthly.md) - 5 shared documents
 - [today](today.md) - 5 shared documents
 - [weeks](weeks.md) - 5 shared documents
-- [2007](2007.md) - 5 shared documents
-- [2001](2001.md) - 5 shared documents
-- [2002](2002.md) - 5 shared documents
 - [1987](1987.md) - 5 shared documents
 - [1994](1994.md) - 5 shared documents
+- [2001](2001.md) - 5 shared documents
+- [2002](2002.md) - 5 shared documents
+- [2007](2007.md) - 5 shared documents
 
 ## Timeline
 

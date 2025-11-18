@@ -32,40 +32,31 @@ Top 6 documents by mention frequency:
 **Organizations:**
 
 - [Congress](../organizations/congress.md) - 6 shared documents
-- [HOUSE](../organizations/house.md) - 5 shared documents
-- [Facebook](../organizations/facebook.md) - 5 shared documents
-- [Twitter](../organizations/twitter.md) - 5 shared documents
-- [the New York Times](../organizations/the-new-york-times.md) - 5 shared documents
 - [Bloomberg News](../organizations/bloomberg-news.md) - 5 shared documents
-- [Senate](../organizations/senate.md) - 4 shared documents
-- [Bloomberg](../organizations/bloomberg.md) - 4 shared documents
-- [Washington Post](../organizations/washington-post.md) - 4 shared documents
+- [Facebook](../organizations/facebook.md) - 5 shared documents
+- [HOUSE](../organizations/house.md) - 5 shared documents
+- [the New York Times](../organizations/the-new-york-times.md) - 5 shared documents
+- [Twitter](../organizations/twitter.md) - 5 shared documents
 
 **Locations:**
 
 - [China](../locations/china.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
 - [Massachusetts](../locations/massachusetts.md) - 5 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 
 **Events:**
 
 - [2016](../events/2016.md) - 5 shared documents
 - [years](../events/years.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [2004](../events/2004.md) - 4 shared documents
-- [2007](../events/2007.md) - 4 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [1996](../events/1996.md) - 4 shared documents
-- [2012](../events/2012.md) - 4 shared documents
-- [daily](../events/daily.md) - 4 shared documents
+- [1964](../events/1964.md) - 4 shared documents
+- [1974](../events/1974.md) - 4 shared documents
+- [1979](../events/1979.md) - 4 shared documents
+- [1980](../events/1980.md) - 4 shared documents
+- [1982](../events/1982.md) - 4 shared documents
+- [1985](../events/1985.md) - 4 shared documents
+- [1989](../events/1989.md) - 4 shared documents
+- [1990](../events/1990.md) - 4 shared documents
 
 ## Timeline
 

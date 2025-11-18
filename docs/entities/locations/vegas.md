@@ -41,14 +41,14 @@ Top 10 documents by mention frequency:
 
 - [Washington](washington.md) - 6 shared documents
 - [New York](new-york.md) - 6 shared documents
-- [California](california.md) - 5 shared documents
-- [U.S.](us.md) - 5 shared documents
-- [Mexico](mexico.md) - 5 shared documents
 - [America](america.md) - 5 shared documents
-- [Paris](paris.md) - 5 shared documents
+- [California](california.md) - 5 shared documents
 - [Las Vegas](las-vegas.md) - 5 shared documents
+- [Mexico](mexico.md) - 5 shared documents
+- [Paris](paris.md) - 5 shared documents
+- [U.S.](us.md) - 5 shared documents
 - [Virginia](virginia.md) - 4 shared documents
-- [New York, NY](new-york-ny.md) - 4 shared documents
+- [China](china.md) - 4 shared documents
 
 **Events:**
 
@@ -56,11 +56,11 @@ Top 10 documents by mention frequency:
 - [2008](../events/2008.md) - 5 shared documents
 - [the day](../events/the-day.md) - 5 shared documents
 - [2015](../events/2015.md) - 4 shared documents
-- [Thursday](../events/thursday.md) - 4 shared documents
+- [Friday](../events/friday.md) - 4 shared documents
+- [March](../events/march.md) - 4 shared documents
 - [Sunday](../events/sunday.md) - 4 shared documents
 - [this week](../events/this-week.md) - 4 shared documents
-- [March](../events/march.md) - 4 shared documents
-- [Friday](../events/friday.md) - 4 shared documents
+- [Thursday](../events/thursday.md) - 4 shared documents
 
 ## Timeline
 

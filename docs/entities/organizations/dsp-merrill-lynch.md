@@ -48,16 +48,16 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [Japan](../locations/japan.md) - 19 shared documents
-- [Canada](../locations/canada.md) - 19 shared documents
-- [Asia](../locations/asia.md) - 19 shared documents
-- [Israel](../locations/israel.md) - 19 shared documents
-- [India](../locations/india.md) - 19 shared documents
 - [Argentina](../locations/argentina.md) - 19 shared documents
+- [Asia](../locations/asia.md) - 19 shared documents
+- [Canada](../locations/canada.md) - 19 shared documents
+- [India](../locations/india.md) - 19 shared documents
+- [Israel](../locations/israel.md) - 19 shared documents
+- [Japan](../locations/japan.md) - 19 shared documents
 - [Germany](../locations/germany.md) - 18 shared documents
-- [Dubai](../locations/dubai.md) - 17 shared documents
+- [Australia](../locations/australia.md) - 17 shared documents
+- [BaFin](../locations/bafin.md) - 17 shared documents
 - [Brazil](../locations/brazil.md) - 17 shared documents
-- [Mexico](../locations/mexico.md) - 17 shared documents
 
 **Events:**
 

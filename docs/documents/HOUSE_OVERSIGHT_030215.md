@@ -11,7 +11,7 @@
 ### People
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 2 mentions
 - [Peter Thiel](../entities/people/peter-thiel.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [On Sep](../entities/people/on-sep.md) - 1 mention
 - [On Mon](../entities/people/on-mon.md) - 1 mention
 - [Kathy](../entities/people/kathy.md) - 1 mention

@@ -31,17 +31,16 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Mr. Obama](obama.md) - 7 shared documents
-- [Bashar al-Assad](bashar-al-assad.md) - 6 shared documents
+- [Barack Obama](barack-obama.md) - 7 shared documents
 - [Assad](assad.md) - 6 shared documents
-- [Middle East](middle-east.md) - 5 shared documents
-- [Barack Obama](barack-obama.md) - 5 shared documents
+- [Bashar al-Assad](bashar-al-assad.md) - 6 shared documents
 
 **Organizations:**
 
 - [Congress](../organizations/congress.md) - 6 shared documents
 - [Defense](../organizations/defense.md) - 6 shared documents
 - [Fatah](../organizations/fatah.md) - 5 shared documents
+- [Hamas](../organizations/hamas.md) - 5 shared documents
 
 **Locations:**
 
@@ -49,25 +48,25 @@ Top 10 documents by mention frequency:
 - [US](../locations/us.md) - 9 shared documents
 - [Europe](../locations/europe.md) - 8 shared documents
 - [America](../locations/america.md) - 7 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 6 shared documents
 - [Asia](../locations/asia.md) - 6 shared documents
 - [Iran](../locations/iran.md) - 6 shared documents
 - [Iraq](../locations/iraq.md) - 6 shared documents
+- [Israel](../locations/israel.md) - 6 shared documents
 - [Syria](../locations/syria.md) - 6 shared documents
-- [the United States](../locations/the-united-states.md) - 6 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 9 shared documents
-- [2009](../events/2009.md) - 8 shared documents
 - [2008](../events/2008.md) - 8 shared documents
-- [this week](../events/this-week.md) - 7 shared documents
+- [2009](../events/2009.md) - 8 shared documents
 - [last week](../events/last-week.md) - 7 shared documents
-- [last year](../events/last-year.md) - 6 shared documents
+- [this week](../events/this-week.md) - 7 shared documents
 - [every day](../events/every-day.md) - 6 shared documents
-- [Monday](../events/monday.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
+- [last year](../events/last-year.md) - 6 shared documents
+- [2010](../events/2010.md) - 5 shared documents
 - [2011](../events/2011.md) - 5 shared documents
+- [Monday](../events/monday.md) - 5 shared documents
 
 ## Timeline
 

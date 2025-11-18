@@ -31,13 +31,13 @@ Top 8 documents by mention frequency:
 
 **Events:**
 
-- [2015](2015.md) - 7 shared documents
 - [2012](2012.md) - 7 shared documents
-- [2018](2018.md) - 6 shared documents
-- [2016](2016.md) - 6 shared documents
-- [annual](annual.md) - 6 shared documents
+- [2015](2015.md) - 7 shared documents
 - [2000](2000.md) - 6 shared documents
+- [2016](2016.md) - 6 shared documents
+- [2018](2018.md) - 6 shared documents
 - [2019](2019.md) - 6 shared documents
+- [annual](annual.md) - 6 shared documents
 - [March 2015](march-2015.md) - 5 shared documents
 - [today](today.md) - 5 shared documents
 - [2004](2004.md) - 5 shared documents

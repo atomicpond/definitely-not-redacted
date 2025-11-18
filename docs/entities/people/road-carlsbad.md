@@ -28,8 +28,8 @@ Top 7 documents by mention frequency:
 
 **People:**
 
-- [Deepak Chopra](deepak-chopra.md) - 7 shared documents
 - [Costa Del Mar](costa-del-mar.md) - 7 shared documents
+- [Deepak Chopra](deepak-chopra.md) - 7 shared documents
 - [Super Genes](super-genes.md) - 5 shared documents
 - [Astonishing Power](astonishing-power.md) - 5 shared documents
 - [Optimum Health](optimum-health.md) - 5 shared documents

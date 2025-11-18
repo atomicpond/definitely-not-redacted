@@ -48,18 +48,16 @@ Top 10 documents by mention frequency:
 
 - [Maxwell](../organizations/maxwell.md) - 16 shared documents
 - [FBI](../organizations/fbi.md) - 14 shared documents
-- [HOUSE](../organizations/house.md) - 11 shared documents
 - [Harvard](../organizations/harvard.md) - 11 shared documents
-- [Ghislaine Maxwell](../organizations/ghislaine-maxwell.md) - 9 shared documents
-- [IRS](../organizations/irs.md) - 9 shared documents
+- [HOUSE](../organizations/house.md) - 11 shared documents
 
 **Locations:**
 
 - [Palm Beach](../locations/palm-beach.md) - 20 shared documents
 - [Florida](../locations/florida.md) - 18 shared documents
 - [El Brillo](../locations/el-brillo.md) - 17 shared documents
-- [New York City](../locations/new-york-city.md) - 16 shared documents
 - [New Mexico](../locations/new-mexico.md) - 16 shared documents
+- [New York City](../locations/new-york-city.md) - 16 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 16 shared documents
 - [Manhattan](../locations/manhattan.md) - 15 shared documents
 - [Miami](../locations/miami.md) - 14 shared documents
@@ -68,16 +66,16 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
-- [today](../events/today.md) - 15 shared documents
 - [the day](../events/the-day.md) - 15 shared documents
+- [today](../events/today.md) - 15 shared documents
 - [2005](../events/2005.md) - 13 shared documents
-- [daily](../events/daily.md) - 11 shared documents
 - [2011](../events/2011.md) - 11 shared documents
 - [a year](../events/a-year.md) - 11 shared documents
+- [daily](../events/daily.md) - 11 shared documents
+- [2006](../events/2006.md) - 10 shared documents
 - [2007](../events/2007.md) - 10 shared documents
 - [Wednesday](../events/wednesday.md) - 10 shared documents
 - [years](../events/years.md) - 10 shared documents
-- [2006](../events/2006.md) - 10 shared documents
 
 ## Timeline
 

@@ -58,8 +58,8 @@ Top 6 documents by mention frequency:
 
 **Events:**
 
-- [2004](2004.md) - 6 shared documents
 - [2001](2001.md) - 6 shared documents
+- [2004](2004.md) - 6 shared documents
 - [Saturday](saturday.md) - 5 shared documents
 - [Sunday](sunday.md) - 5 shared documents
 - [the early 1990s](the-early-1990s.md) - 5 shared documents

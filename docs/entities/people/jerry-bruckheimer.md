@@ -43,22 +43,22 @@ Top 8 documents by mention frequency:
 - [Academy](../organizations/academy.md) - 8 shared documents
 - [UTA](../organizations/uta.md) - 8 shared documents
 - [Vanity Fair](../organizations/vanity-fair.md) - 7 shared documents
-- [HBO](../organizations/hbo.md) - 6 shared documents
-- [Viacom](../organizations/viacom.md) - 6 shared documents
+- [ABC-TV](../organizations/abc-tv.md) - 6 shared documents
+- [DGA](../organizations/dga.md) - 6 shared documents
 - [Disney](../organizations/disney.md) - 6 shared documents
+- [HBO](../organizations/hbo.md) - 6 shared documents
 - [Marchesa](../organizations/marchesa.md) - 6 shared documents
 - [MontBlanc](../organizations/montblanc.md) - 6 shared documents
 - [Paramount](../organizations/paramount.md) - 6 shared documents
-- [Sony](../organizations/sony.md) - 6 shared documents
 
 **Locations:**
 
 - [America](../locations/america.md) - 7 shared documents
-- [New York](../locations/new-york.md) - 6 shared documents
-- [Toronto](../locations/toronto.md) - 6 shared documents
-- [Paris](../locations/paris.md) - 6 shared documents
-- [Cannes](../locations/cannes.md) - 6 shared documents
 - [Beverly Hills](../locations/beverly-hills.md) - 6 shared documents
+- [Cannes](../locations/cannes.md) - 6 shared documents
+- [New York](../locations/new-york.md) - 6 shared documents
+- [Paris](../locations/paris.md) - 6 shared documents
+- [Toronto](../locations/toronto.md) - 6 shared documents
 
 **Events:**
 

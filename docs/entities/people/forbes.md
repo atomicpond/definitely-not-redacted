@@ -28,8 +28,8 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 5 shared documents
 - [Google](../organizations/google.md) - 5 shared documents
+- [HOUSE](../organizations/house.md) - 5 shared documents
 - [Ghislaine Maxwell](../organizations/ghislaine-maxwell.md) - 4 shared documents
 - [New York Magazine](../organizations/new-york-magazine.md) - 4 shared documents
 
@@ -42,8 +42,8 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
 - [2000](../events/2000.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [next week](../events/next-week.md) - 4 shared documents
 
 ## Timeline

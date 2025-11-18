@@ -30,8 +30,8 @@ Top 5 documents by mention frequency:
 **Events:**
 
 - [this week](../events/this-week.md) - 5 shared documents
-- [Monday](../events/monday.md) - 4 shared documents
 - [Friday](../events/friday.md) - 4 shared documents
+- [Monday](../events/monday.md) - 4 shared documents
 - [Tuesday](../events/tuesday.md) - 4 shared documents
 
 ## Timeline

@@ -29,15 +29,15 @@ Top 9 documents by mention frequency:
 **Locations:**
 
 - [Yemen](../locations/yemen.md) - 8 shared documents
-- [China](../locations/china.md) - 5 shared documents
-- [Iran](../locations/iran.md) - 5 shared documents
 - [Brussels](../locations/brussels.md) - 5 shared documents
+- [China](../locations/china.md) - 5 shared documents
 - [Gulf](../locations/gulf.md) - 5 shared documents
+- [Iran](../locations/iran.md) - 5 shared documents
 - [Kuwait](../locations/kuwait.md) - 5 shared documents
+- [Geneva](../locations/geneva.md) - 4 shared documents
 - [Middle East](../locations/middle-east.md) - 4 shared documents
 - [Russia](../locations/russia.md) - 4 shared documents
-- [Syria](../locations/syria.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
+- [Sun](../locations/sun.md) - 4 shared documents
 
 **Events:**
 

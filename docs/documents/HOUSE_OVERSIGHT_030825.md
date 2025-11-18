@@ -17,7 +17,7 @@
 - [Assad](../entities/people/assad.md) - 8 mentions
 - [Bashar al-Assad](../entities/people/bashar-al-assad.md) - 1 mention
 - [Bashar Assad](../entities/people/bashar-assad.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 
 ### Organizations
 - [al-Qaeda](../entities/organizations/al-qaeda.md) - 3 mentions

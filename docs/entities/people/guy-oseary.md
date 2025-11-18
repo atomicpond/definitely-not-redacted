@@ -43,26 +43,26 @@ Top 8 documents by mention frequency:
 - [Academy](../organizations/academy.md) - 7 shared documents
 - [UTA](../organizations/uta.md) - 7 shared documents
 - [Vanity Fair](../organizations/vanity-fair.md) - 7 shared documents
-- [HBO](../organizations/hbo.md) - 6 shared documents
-- [Sony](../organizations/sony.md) - 6 shared documents
-- [CAA](../organizations/caa.md) - 6 shared documents
-- [Soho House](../organizations/soho-house.md) - 6 shared documents
 - [ABC-TV](../organizations/abc-tv.md) - 6 shared documents
+- [CAA](../organizations/caa.md) - 6 shared documents
 - [DGA](../organizations/dga.md) - 6 shared documents
+- [HBO](../organizations/hbo.md) - 6 shared documents
 - [PGA](../organizations/pga.md) - 6 shared documents
+- [Soho House](../organizations/soho-house.md) - 6 shared documents
+- [Sony](../organizations/sony.md) - 6 shared documents
 
 **Locations:**
 
 - [Beverly Hills](../locations/beverly-hills.md) - 7 shared documents
 - [America](../locations/america.md) - 6 shared documents
-- [Paris](../locations/paris.md) - 6 shared documents
 - [Cannes](../locations/cannes.md) - 6 shared documents
-- [New York](../locations/new-york.md) - 5 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
-- [Manhattan](../locations/manhattan.md) - 5 shared documents
-- [Toronto](../locations/toronto.md) - 5 shared documents
+- [Paris](../locations/paris.md) - 6 shared documents
 - [Hollywood](../locations/hollywood.md) - 5 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
+- [Manhattan](../locations/manhattan.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
+- [Toronto](../locations/toronto.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 
 **Events:**
 
@@ -72,8 +72,8 @@ Top 8 documents by mention frequency:
 - [last year](../events/last-year.md) - 6 shared documents
 - [years](../events/years.md) - 6 shared documents
 - [March](../events/march.md) - 5 shared documents
-- [the year](../events/the-year.md) - 5 shared documents
 - [the next day](../events/the-next-day.md) - 5 shared documents
+- [the year](../events/the-year.md) - 5 shared documents
 
 ## Timeline
 

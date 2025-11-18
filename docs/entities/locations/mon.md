@@ -62,15 +62,15 @@ Sent](../people/nicholas-ribis-sent.md) - 4 shared documents
 **Events:**
 
 - [2019](../events/2019.md) - 6 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [Saturday](../events/saturday.md) - 5 shared documents
-- [May 28, 2017](../events/may-28-2017.md) - 5 shared documents
 - [8 or early tomorrow](../events/8-or-early-tomorrow.md) - 5 shared documents
-- [May 27, 2017](../events/may-27-2017.md) - 5 shared documents
-- [Sunday, May 28, 2017](../events/sunday-may-28-2017.md) - 5 shared documents
-- [May 29, 2017](../events/may-29-2017.md) - 5 shared documents
-- [Monday, May 29](../events/monday-may-29.md) - 5 shared documents
+- [Apr 18, 2019](../events/apr-18-2019.md) - 5 shared documents
+- [Feb 28, 2019](../events/feb-28-2019.md) - 5 shared documents
 - [Friday, June 2, 2017](../events/friday-june-2-2017.md) - 5 shared documents
+- [June 2, 2017](../events/june-2-2017.md) - 5 shared documents
+- [Mar 4, 2019](../events/mar-4-2019.md) - 5 shared documents
+- [May 27, 2017](../events/may-27-2017.md) - 5 shared documents
+- [May 28, 2017](../events/may-28-2017.md) - 5 shared documents
+- [May 29, 2017](../events/may-29-2017.md) - 5 shared documents
 
 ## Timeline
 

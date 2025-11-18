@@ -31,13 +31,11 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 60 shared documents
 - [Jane Doe](../people/jane-doe.md) - 58 shared documents
-- [Epstein](../people/epstein.md) - 56 shared documents
 - [New Mexico](../people/new-mexico.md) - 42 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 35 shared documents
-- [Donald 
-Trump](../people/donald-trump.md) - 34 shared documents
+- [Jack Goldberger](../people/jack-goldberger.md) - 33 shared documents
+- [Jack Scarola](../people/jack-scarola.md) - 32 shared documents
+- [Paul Cassell](../people/paul-cassell.md) - 32 shared documents
 
 **Organizations:**
 
@@ -72,8 +70,8 @@ Trump](../people/donald-trump.md) - 34 shared documents
 - [2007](../events/2007.md) - 84 shared documents
 - [2006](../events/2006.md) - 67 shared documents
 - [2011](../events/2011.md) - 64 shared documents
-- [2009](../events/2009.md) - 63 shared documents
 - [2005](../events/2005.md) - 63 shared documents
+- [2009](../events/2009.md) - 63 shared documents
 - [2010](../events/2010.md) - 61 shared documents
 - [2016](../events/2016.md) - 53 shared documents
 - [2001](../events/2001.md) - 52 shared documents

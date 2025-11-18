@@ -28,7 +28,7 @@ Top 7 documents by mention frequency:
 
 - [Dean](../people/dean.md) - 7 shared documents
 - [Joe Biden](../people/joe-biden.md) - 7 shared documents
-- [larry](../people/larry.md) - 7 shared documents
+- [Lawrence Krauss](../people/lawrence-krauss.md) - 7 shared documents
 - [On Wednesday](../people/on-wednesday.md) - 6 shared documents
 - [American Literature 
 Harvard](../people/american-literature-harvard.md) - 5 shared documents
@@ -41,8 +41,8 @@ Clinton](../people/bill-clinton.md) - 5 shared documents
 
 **Organizations:**
 
-- [HOUSE](house.md) - 7 shared documents
 - [Harvard](harvard.md) - 7 shared documents
+- [HOUSE](house.md) - 7 shared documents
 - [the Harvard Graduate School of Education](the-harvard-graduate-school-of-education.md) - 5 shared documents
 - [The Nantucket Project](the-nantucket-project.md) - 5 shared documents
 - [The New Yorker](the-new-yorker.md) - 5 shared documents
@@ -50,34 +50,34 @@ Clinton](../people/bill-clinton.md) - 5 shared documents
 - [Threespot](threespot.md) - 5 shared documents
 - [Verse Video](verse-video.md) - 5 shared documents
 - [WGBH](wgbh.md) - 5 shared documents
-- [Harvard University](harvard-university.md) - 5 shared documents
+- [A recent partnership with Greenwich Country Day School and the Success Academy](a-recent-partnership-with-greenwich-country-day-school-and-the-success-academy.md) - 5 shared documents
 
 **Locations:**
 
 - [America](../locations/america.md) - 7 shared documents
 - [Cambridge](../locations/cambridge.md) - 7 shared documents
 - [US](../locations/us.md) - 7 shared documents
-- [templeton](../locations/templeton.md) - 5 shared documents
-- [Boston](../locations/boston.md) - 5 shared documents
-- [MA](../locations/ma.md) - 5 shared documents
-- [Broadway](../locations/broadway.md) - 5 shared documents
 - [Barker Center](../locations/barker-center.md) - 5 shared documents
+- [Boston](../locations/boston.md) - 5 shared documents
+- [Broadway](../locations/broadway.md) - 5 shared documents
+- [MA](../locations/ma.md) - 5 shared documents
 - [Quincy Street](../locations/quincy-street.md) - 5 shared documents
 - [Street 
 Cambridge, MA](../locations/street-cambridge-ma.md) - 5 shared documents
+- [templeton](../locations/templeton.md) - 5 shared documents
 
 **Events:**
 
 - [last year](../events/last-year.md) - 7 shared documents
-- [this year](../events/this-year.md) - 7 shared documents
 - [Overnight](../events/overnight.md) - 7 shared documents
+- [this year](../events/this-year.md) - 7 shared documents
 - [Wednesday](../events/wednesday.md) - 6 shared documents
+- [12/2/2015](../events/1222015.md) - 5 shared documents
 - [2015](../events/2015.md) - 5 shared documents
 - [2017](../events/2017.md) - 5 shared documents
-- [the new year](../events/the-new-year.md) - 5 shared documents
 - [a year ago](../events/a-year-ago.md) - 5 shared documents
 - [a year later](../events/a-year-later.md) - 5 shared documents
-- [the last year](../events/the-last-year.md) - 5 shared documents
+- [early 2016](../events/early-2016.md) - 5 shared documents
 
 ## Timeline
 

@@ -42,8 +42,8 @@ Top 6 documents by mention frequency:
 - [the Dubai Financial Services Authority](the-dubai-financial-services-authority.md) - 6 shared documents
 - [the Financial Conduct Authority](the-financial-conduct-authority.md) - 6 shared documents
 - [the Prudential Regulation Authority](the-prudential-regulation-authority.md) - 6 shared documents
-- [Bank of America](bank-of-america.md) - 6 shared documents
 - [Bank](bank.md) - 6 shared documents
+- [Bank of America](bank-of-america.md) - 6 shared documents
 - [Central Bank](central-bank.md) - 6 shared documents
 - [DIFC](difc.md) - 6 shared documents
 - [Singapore) Pte Ltd](singapore-pte-ltd.md) - 5 shared documents
@@ -52,26 +52,29 @@ report should contact Merrill Lynch International Bank](singapore-recipients-of-
 
 **Locations:**
 
-- [Dubai](../locations/dubai.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
+- [Argentina](../locations/argentina.md) - 6 shared documents
+- [Asia](../locations/asia.md) - 6 shared documents
+- [Australia](../locations/australia.md) - 6 shared documents
 - [Brazil](../locations/brazil.md) - 6 shared documents
 - [Canada](../locations/canada.md) - 6 shared documents
-- [Mexico](../locations/mexico.md) - 6 shared documents
-- [Asia](../locations/asia.md) - 6 shared documents
-- [Israel](../locations/israel.md) - 6 shared documents
-- [Australia](../locations/australia.md) - 6 shared documents
+- [Dubai](../locations/dubai.md) - 6 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 6 shared documents
-- [Singapore](../locations/singapore.md) - 6 shared documents
+- [India](../locations/india.md) - 6 shared documents
+- [Indonesia](../locations/indonesia.md) - 6 shared documents
+- [Israel](../locations/israel.md) - 6 shared documents
 
 **Events:**
 
-- [5-year](../events/5-year.md) - 6 shared documents
 - [12-month](../events/12-month.md) - 6 shared documents
 - [3-month](../events/3-month.md) - 6 shared documents
-- [2014](../events/2014.md) - 5 shared documents
+- [5-year](../events/5-year.md) - 6 shared documents
+- [10-year](../events/10-year.md) - 5 shared documents
+- [1959](../events/1959.md) - 5 shared documents
+- [198602883D](../events/198602883d.md) - 5 shared documents
+- [2-year](../events/2-year.md) - 5 shared documents
 - [2000](../events/2000.md) - 5 shared documents
-- [this year](../events/this-year.md) - 5 shared documents
-- [2017](../events/2017.md) - 5 shared documents
+- [2001](../events/2001.md) - 5 shared documents
+- [2014](../events/2014.md) - 5 shared documents
 
 ## Timeline
 

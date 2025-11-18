@@ -43,29 +43,29 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 5 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
-- [London](../locations/london.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [Europe](../locations/europe.md) - 5 shared documents
 - [France](../locations/france.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
 - [Iraq](../locations/iraq.md) - 5 shared documents
+- [Jordan](../locations/jordan.md) - 5 shared documents
+- [Kenya](../locations/kenya.md) - 5 shared documents
+- [Libya](../locations/libya.md) - 5 shared documents
+- [London](../locations/london.md) - 5 shared documents
+- [Nairobi](../locations/nairobi.md) - 5 shared documents
 
 **Events:**
 
-- [2007](../events/2007.md) - 5 shared documents
-- [the 1980s](../events/the-1980s.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [Sunday](../events/sunday.md) - 5 shared documents
-- [the year](../events/the-year.md) - 5 shared documents
 - [15-year-old](../events/15-year-old.md) - 5 shared documents
 - [1993](../events/1993.md) - 5 shared documents
 - [1998](../events/1998.md) - 5 shared documents
 - [1999](../events/1999.md) - 5 shared documents
 - [20 years](../events/20-years.md) - 5 shared documents
+- [2007](../events/2007.md) - 5 shared documents
+- [Friday](../events/friday.md) - 5 shared documents
+- [one day](../events/one-day.md) - 5 shared documents
+- [Saturday](../events/saturday.md) - 5 shared documents
+- [Saturdays](../events/saturdays.md) - 5 shared documents
 
 ## Timeline
 

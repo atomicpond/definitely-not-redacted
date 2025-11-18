@@ -37,20 +37,19 @@ Subject](reid-subject.md) - 32 shared documents
 Sent](jeffrey-e-sent.md) - 30 shared documents
 - [Reid 
 Sent](reid-sent.md) - 22 shared documents
-- [Mr. 
-Trump](trump.md) - 19 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 11 shared documents
 - [Miller](miller.md) - 11 shared documents
 - [Steptoe](steptoe.md) - 10 shared documents
 - [White House](white-house.md) - 8 shared documents
+- [Barack Obama](barack-obama.md) - 7 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 50 shared documents
 - [Trump](../organizations/trump.md) - 22 shared documents
 - [White House](../organizations/white-house.md) - 9 shared documents
-- [the White House](../organizations/the-white-house.md) - 8 shared documents
 - [Mueller](../organizations/mueller.md) - 8 shared documents
+- [the White House](../organizations/the-white-house.md) - 8 shared documents
 - [the Justice Department](../organizations/the-justice-department.md) - 7 shared documents
 - [Google](../organizations/google.md) - 6 shared documents
 - [Steptoe & Johnson LLP](../organizations/steptoe-johnson-llp.md) - 6 shared documents
@@ -62,19 +61,21 @@ Trump](trump.md) - 19 shared documents
 - [US](../locations/us.md) - 11 shared documents
 - [Sat](../locations/sat.md) - 9 shared documents
 - [Europe](../locations/europe.md) - 7 shared documents
-- [Paris](../locations/paris.md) - 7 shared documents
 - [N.Y.](../locations/ny.md) - 7 shared documents
+- [Paris](../locations/paris.md) - 7 shared documents
 - [NYC](../locations/nyc.md) - 6 shared documents
-- [Americas](../locations/americas.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
-- [Florida](../locations/florida.md) - 5 shared documents
 
 **Events:**
 
 - [tomorrow](../events/tomorrow.md) - 14 shared documents
 - [today](../events/today.md) - 11 shared documents
 - [2017](../events/2017.md) - 6 shared documents
-- [Monday](../events/monday.md) - 5 shared documents
+- [3:19 PM](../events/319-pm.md) - 5 shared documents
+- [3/24/2018](../events/3242018.md) - 5 shared documents
+- [5/22/2017](../events/5222017.md) - 5 shared documents
+- [January 03, 2018](../events/january-03-2018.md) - 5 shared documents
+- [Mar 24, 2018](../events/mar-24-2018.md) - 5 shared documents
+- [March 24, 2018](../events/march-24-2018.md) - 5 shared documents
 
 ## Timeline
 

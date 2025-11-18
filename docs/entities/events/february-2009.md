@@ -63,7 +63,7 @@ Top 6 documents by mention frequency:
 - [three years](three-years.md) - 5 shared documents
 - [today](today.md) - 5 shared documents
 - [years](years.md) - 5 shared documents
-- [2004](2004.md) - 5 shared documents
+- [1948](1948.md) - 5 shared documents
 
 ## Timeline
 

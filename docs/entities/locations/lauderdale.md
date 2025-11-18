@@ -31,10 +31,9 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Alfredo Rodriguez](../people/alfredo-rodriguez.md) - 9 shared documents
-- [Bradley J. Edwards](../people/bradley-j-edwards.md) - 9 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 9 shared documents
 - [Jane Doe](../people/jane-doe.md) - 8 shared documents
 - [Paul G. Cassell](../people/paul-g-cassell.md) - 8 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 7 shared documents
 - [Jack Goldberger](../people/jack-goldberger.md) - 7 shared documents
 - [L. GIUFFRE](../people/l-giuffre.md) - 7 shared documents
 - [Gerald Lefcourt](../people/gerald-lefcourt.md) - 6 shared documents
@@ -70,15 +69,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [2011](../events/2011.md) - 10 shared documents
-- [2007](../events/2007.md) - 9 shared documents
-- [2009](../events/2009.md) - 9 shared documents
-- [today](../events/today.md) - 9 shared documents
-- [daily](../events/daily.md) - 9 shared documents
 - [2005](../events/2005.md) - 9 shared documents
+- [2007](../events/2007.md) - 9 shared documents
 - [2008](../events/2008.md) - 9 shared documents
+- [2009](../events/2009.md) - 9 shared documents
+- [daily](../events/daily.md) - 9 shared documents
+- [today](../events/today.md) - 9 shared documents
+- [2002](../events/2002.md) - 8 shared documents
 - [2004](../events/2004.md) - 8 shared documents
-- [2015](../events/2015.md) - 8 shared documents
-- [2012](../events/2012.md) - 8 shared documents
+- [2010](../events/2010.md) - 8 shared documents
 
 ## Timeline
 

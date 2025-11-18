@@ -22,39 +22,18 @@ Top 5 documents by mention frequency:
 
 ### Most Frequently Co-occurring Entities
 
-**Organizations:**
-
-- [Harvard University](../organizations/harvard-university.md) - 4 shared documents
-- [Harvard](../organizations/harvard.md) - 4 shared documents
-- [the New York Times](../organizations/the-new-york-times.md) - 4 shared documents
-- [University](../organizations/university.md) - 4 shared documents
-- [Time](../organizations/time.md) - 4 shared documents
-
-**Locations:**
-
-- [New York](../locations/new-york.md) - 4 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
-- [London](../locations/london.md) - 4 shared documents
-- [America](../locations/america.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
-- [Cambridge](../locations/cambridge.md) - 4 shared documents
-
 **Events:**
 
-- [today](../events/today.md) - 4 shared documents
-- [1996](../events/1996.md) - 4 shared documents
-- [daily](../events/daily.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
-- [summer](../events/summer.md) - 4 shared documents
-- [the year](../events/the-year.md) - 4 shared documents
-- [1985](../events/1985.md) - 4 shared documents
-- [1970](../events/1970.md) - 4 shared documents
-- [1990](../events/1990.md) - 4 shared documents
+- [1951](../events/1951.md) - 4 shared documents
+- [1953](../events/1953.md) - 4 shared documents
+- [1954](../events/1954.md) - 4 shared documents
+- [1958](../events/1958.md) - 4 shared documents
+- [1960](../events/1960.md) - 4 shared documents
+- [1961](../events/1961.md) - 4 shared documents
+- [1963](../events/1963.md) - 4 shared documents
+- [1964](../events/1964.md) - 4 shared documents
+- [1967](../events/1967.md) - 4 shared documents
+- [1968](../events/1968.md) - 4 shared documents
 
 ## Timeline
 

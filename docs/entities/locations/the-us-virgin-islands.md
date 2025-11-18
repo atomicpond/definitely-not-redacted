@@ -37,7 +37,7 @@ Top 10 documents by mention frequency:
 - [Sarah Kellen](../people/sarah-kellen.md) - 7 shared documents
 - [Adriana Ross](../people/adriana-ross.md) - 6 shared documents
 - [Chris Tucker](../people/chris-tucker.md) - 6 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 5 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 5 shared documents
 - [Harvard University](../people/harvard-university.md) - 5 shared documents
 
 **Organizations:**
@@ -61,23 +61,23 @@ Top 10 documents by mention frequency:
 - [the Virgin Islands](the-virgin-islands.md) - 8 shared documents
 - [Washington](washington.md) - 8 shared documents
 - [Palm Beach](palm-beach.md) - 8 shared documents
+- [England](england.md) - 7 shared documents
 - [Miami](miami.md) - 7 shared documents
 - [Paris](paris.md) - 7 shared documents
-- [England](england.md) - 7 shared documents
 - [the United States](the-united-states.md) - 6 shared documents
 
 **Events:**
 
 - [2003](../events/2003.md) - 9 shared documents
-- [2008](../events/2008.md) - 8 shared documents
 - [2002](../events/2002.md) - 8 shared documents
+- [2008](../events/2008.md) - 8 shared documents
 - [2004](../events/2004.md) - 7 shared documents
-- [2007](../events/2007.md) - 7 shared documents
-- [2011](../events/2011.md) - 7 shared documents
-- [2010](../events/2010.md) - 7 shared documents
 - [2006](../events/2006.md) - 7 shared documents
-- [2009](../events/2009.md) - 6 shared documents
-- [2012](../events/2012.md) - 6 shared documents
+- [2007](../events/2007.md) - 7 shared documents
+- [2010](../events/2010.md) - 7 shared documents
+- [2011](../events/2011.md) - 7 shared documents
+- [13 months](../events/13-months.md) - 6 shared documents
+- [18 months](../events/18-months.md) - 6 shared documents
 
 ## Timeline
 

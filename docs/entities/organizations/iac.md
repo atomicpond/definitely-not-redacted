@@ -41,8 +41,8 @@ Top 8 documents by mention frequency:
 **Organizations:**
 
 - [Google](google.md) - 8 shared documents
-- [Ford](ford.md) - 7 shared documents
 - [AOL](aol.md) - 7 shared documents
+- [Ford](ford.md) - 7 shared documents
 - [HOUSE](house.md) - 6 shared documents
 - [Facebook](facebook.md) - 5 shared documents
 - [Marchesa](marchesa.md) - 4 shared documents
@@ -53,29 +53,29 @@ Top 8 documents by mention frequency:
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 7 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 7 shared documents
 - [America](../locations/america.md) - 7 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 7 shared documents
+- [New York](../locations/new-york.md) - 7 shared documents
 - [New York City](../locations/new-york-city.md) - 7 shared documents
 - [California](../locations/california.md) - 5 shared documents
 - [U.S.](../locations/us.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
+- [Cairo](../locations/cairo.md) - 4 shared documents
+- [Cannes](../locations/cannes.md) - 4 shared documents
 - [Carolina](../locations/carolina.md) - 4 shared documents
+- [Germany](../locations/germany.md) - 4 shared documents
 
 **Events:**
 
 - [annual](../events/annual.md) - 5 shared documents
 - [last year](../events/last-year.md) - 5 shared documents
-- [this year](../events/this-year.md) - 5 shared documents
 - [March](../events/march.md) - 5 shared documents
 - [the year](../events/the-year.md) - 5 shared documents
-- [October](../events/october.md) - 4 shared documents
+- [this year](../events/this-year.md) - 5 shared documents
+- [1982](../events/1982.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
 - [2014](../events/2014.md) - 4 shared documents
-- [six months](../events/six-months.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
+- [a few weeks](../events/a-few-weeks.md) - 4 shared documents
+- [Christmas](../events/christmas.md) - 4 shared documents
 
 ## Timeline
 

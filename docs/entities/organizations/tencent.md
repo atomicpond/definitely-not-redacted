@@ -25,18 +25,18 @@ Top 6 documents by mention frequency:
 
 **Organizations:**
 
-- [Senate](senate.md) - 4 shared documents
-- [Facebook](facebook.md) - 4 shared documents
 - [Amazon](amazon.md) - 4 shared documents
+- [Facebook](facebook.md) - 4 shared documents
+- [Senate](senate.md) - 4 shared documents
 
 **Locations:**
 
-- [China](../locations/china.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
 - [Asia](../locations/asia.md) - 4 shared documents
-- [Italy](../locations/italy.md) - 4 shared documents
+- [China](../locations/china.md) - 4 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 4 shared documents
 - [India](../locations/india.md) - 4 shared documents
+- [Italy](../locations/italy.md) - 4 shared documents
+- [Russia](../locations/russia.md) - 4 shared documents
 
 **Events:**
 

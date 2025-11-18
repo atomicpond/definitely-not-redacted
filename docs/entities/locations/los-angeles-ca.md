@@ -61,9 +61,9 @@ Kirkland & Ellis LLP](../organizations/starr-kirkland-ellis-llp.md) - 6 shared d
 - [California](california.md) - 7 shared documents
 - [N.W.](nw.md) - 6 shared documents
 - [Street, NW](street-nw.md) - 6 shared documents
-- [D.C.](dc.md) - 6 shared documents
 - [777 South Figueroa Street](777-south-figueroa-street.md) - 6 shared documents
 - [950 Pennsylvania Avenue](950-pennsylvania-avenue.md) - 6 shared documents
+- [D.C.](dc.md) - 6 shared documents
 - [Miami](miami.md) - 5 shared documents
 
 **Events:**
@@ -71,10 +71,10 @@ Kirkland & Ellis LLP](../organizations/starr-kirkland-ellis-llp.md) - 6 shared d
 - [May 19, 2008](../events/may-19-2008.md) - 6 shared documents
 - [2007](../events/2007.md) - 5 shared documents
 - [a few years ago](../events/a-few-years-ago.md) - 5 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [2016](../events/2016.md) - 4 shared documents
 - [2008](../events/2008.md) - 4 shared documents
+- [2009](../events/2009.md) - 4 shared documents
 - [2010](../events/2010.md) - 4 shared documents
+- [2016](../events/2016.md) - 4 shared documents
 
 ## Timeline
 

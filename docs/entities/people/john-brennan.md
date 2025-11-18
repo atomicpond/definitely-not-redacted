@@ -31,29 +31,30 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Reagan](reagan.md) - 7 shared documents
-- [President Trump](president-trump.md) - 6 shared documents
-- [Robert Mueller](robert-mueller.md) - 6 shared documents
+- [Barack Obama](barack-obama.md) - 6 shared documents
 - [Carter Page](carter-page.md) - 6 shared documents
 - [Federal Bureau](federal-bureau.md) - 6 shared documents
-- [Barack Obama](barack-obama.md) - 6 shared documents
-- [James Comey](james-comey.md) - 6 shared documents
 - [Justice 
 Department](justice-department.md) - 5 shared documents
 - [Michael horowitz](michael-horowitz.md) - 5 shared documents
 - [Michael Isikoff](michael-isikoff.md) - 5 shared documents
+- [Middle East](middle-east.md) - 5 shared documents
+- [Modern Ukraine](modern-ukraine.md) - 5 shared documents
+- [New 
+York Times](new-york-times.md) - 5 shared documents
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 10 shared documents
-- [Congress](../organizations/congress.md) - 10 shared documents
 - [CIA](../organizations/cia.md) - 10 shared documents
-- [Senate](../organizations/senate.md) - 8 shared documents
+- [Congress](../organizations/congress.md) - 10 shared documents
+- [HOUSE](../organizations/house.md) - 10 shared documents
 - [FBI](../organizations/fbi.md) - 8 shared documents
 - [Justice Department](../organizations/justice-department.md) - 8 shared documents
+- [Kremlin](../organizations/kremlin.md) - 8 shared documents
+- [Senate](../organizations/senate.md) - 8 shared documents
 - [the Justice Department](../organizations/the-justice-department.md) - 8 shared documents
 - [the New York Times](../organizations/the-new-york-times.md) - 8 shared documents
-- [Kremlin](../organizations/kremlin.md) - 8 shared documents
-- [Trump](../organizations/trump.md) - 6 shared documents
+- [DNC](../organizations/dnc.md) - 6 shared documents
 
 **Locations:**
 
@@ -71,15 +72,15 @@ Department](justice-department.md) - 5 shared documents
 **Events:**
 
 - [1974](../events/1974.md) - 9 shared documents
-- [2016](../events/2016.md) - 8 shared documents
 - [2012](../events/2012.md) - 8 shared documents
+- [2016](../events/2016.md) - 8 shared documents
 - [months](../events/months.md) - 8 shared documents
-- [more than a year](../events/more-than-a-year.md) - 7 shared documents
 - [1973](../events/1973.md) - 7 shared documents
 - [1987](../events/1987.md) - 7 shared documents
+- [more than a year](../events/more-than-a-year.md) - 7 shared documents
 - [2011](../events/2011.md) - 6 shared documents
 - [June 14](../events/june-14.md) - 6 shared documents
-- [2018](../events/2018.md) - 5 shared documents
+- [12:56:55 AM EDT](../events/125655-am-edt.md) - 5 shared documents
 
 ## Timeline
 

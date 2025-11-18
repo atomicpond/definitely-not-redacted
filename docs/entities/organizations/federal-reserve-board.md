@@ -37,22 +37,22 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Japan](../locations/japan.md) - 4 shared documents
 - [Italy](../locations/italy.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
 - [Spain](../locations/spain.md) - 4 shared documents
 
 **Events:**
 
-- [6-month](../events/6-month.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
-- [2000](../events/2000.md) - 4 shared documents
-- [monthly](../events/monthly.md) - 4 shared documents
-- [March](../events/march.md) - 4 shared documents
+- [1954](../events/1954.md) - 4 shared documents
+- [1960](../events/1960.md) - 4 shared documents
 - [1970](../events/1970.md) - 4 shared documents
+- [2000](../events/2000.md) - 4 shared documents
 - [2001](../events/2001.md) - 4 shared documents
 - [2006](../events/2006.md) - 4 shared documents
 - [2013](../events/2013.md) - 4 shared documents
-- [1954](../events/1954.md) - 4 shared documents
+- [6-month](../events/6-month.md) - 4 shared documents
+- [annual](../events/annual.md) - 4 shared documents
+- [March](../events/march.md) - 4 shared documents
 
 ## Timeline
 

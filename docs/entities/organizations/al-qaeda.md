@@ -33,15 +33,15 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 25 shared documents
-- [President Obama](../people/president-obama.md) - 21 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 21 shared documents
 - [White House](../people/white-house.md) - 19 shared documents
-- [Barack Obama](../people/barack-obama.md) - 18 shared documents
-- [Mr. Obama](../people/obama.md) - 15 shared documents
 - [Cold War](../people/cold-war.md) - 13 shared documents
 - [Hosni Mubarak](../people/hosni-mubarak.md) - 13 shared documents
 - [Islamic Republic](../people/islamic-republic.md) - 13 shared documents
 - [Al Qaeda](../people/al-qaeda.md) - 12 shared documents
+- [Bashar al-Assad](../people/bashar-al-assad.md) - 11 shared documents
+- [Security Council](../people/security-council.md) - 11 shared documents
+- [Tahrir Square](../people/tahrir-square.md) - 11 shared documents
 
 **Organizations:**
 
@@ -58,15 +58,15 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [the United States](../locations/the-united-states.md) - 29 shared documents
 - [Israel](../locations/israel.md) - 29 shared documents
-- [Washington](../locations/washington.md) - 28 shared documents
+- [the United States](../locations/the-united-states.md) - 29 shared documents
 - [Iraq](../locations/iraq.md) - 28 shared documents
-- [Russia](../locations/russia.md) - 27 shared documents
+- [Washington](../locations/washington.md) - 28 shared documents
 - [Libya](../locations/libya.md) - 27 shared documents
+- [Russia](../locations/russia.md) - 27 shared documents
 - [Syria](../locations/syria.md) - 27 shared documents
-- [Iran](../locations/iran.md) - 26 shared documents
 - [Egypt](../locations/egypt.md) - 26 shared documents
+- [Iran](../locations/iran.md) - 26 shared documents
 - [the Middle East](../locations/the-middle-east.md) - 25 shared documents
 
 **Events:**
@@ -75,12 +75,12 @@ Top 10 documents by mention frequency:
 - [2010](../events/2010.md) - 17 shared documents
 - [decades](../events/decades.md) - 17 shared documents
 - [2003](../events/2003.md) - 16 shared documents
-- [years](../events/years.md) - 16 shared documents
 - [the day](../events/the-day.md) - 16 shared documents
+- [years](../events/years.md) - 16 shared documents
 - [2012](../events/2012.md) - 15 shared documents
 - [daily](../events/daily.md) - 15 shared documents
-- [last week](../events/last-week.md) - 15 shared documents
 - [Friday](../events/friday.md) - 15 shared documents
+- [last week](../events/last-week.md) - 15 shared documents
 
 ## Timeline
 

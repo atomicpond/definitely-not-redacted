@@ -31,17 +31,18 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jeffrey E](../people/jeffrey-e.md) - 18 shared documents
-- [mueller](../people/mueller.md) - 18 shared documents
-- [Robert Mueller](../people/robert-mueller.md) - 18 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 18 shared documents
-- [Donald 
-Trump](../people/donald-trump.md) - 17 shared documents
 - [Hillary Clinton](../people/hillary-clinton.md) - 14 shared documents
 - [White House](../people/white-house.md) - 14 shared documents
-- [President Trump](../people/president-trump.md) - 13 shared documents
-- [James Comey](../people/james-comey.md) - 12 shared documents
-- [Michael Flynn](../people/michael-flynn.md) - 12 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 10 shared documents
+- [Steve Bannon](../people/steve-bannon.md) - 10 shared documents
+- [Deputy Attorney General](../people/deputy-attorney-general.md) - 9 shared documents
+- [Jeffrey E. 
+Sent](../people/jeffrey-e-sent.md) - 9 shared documents
+- [Justice 
+Department](../people/justice-department.md) - 9 shared documents
+- [Carter Page](../people/carter-page.md) - 8 shared documents
+- [David](../people/david.md) - 8 shared documents
 
 **Organizations:**
 
@@ -74,12 +75,12 @@ Trump](../people/donald-trump.md) - 17 shared documents
 - [today](../events/today.md) - 11 shared documents
 - [2018](../events/2018.md) - 10 shared documents
 - [months](../events/months.md) - 10 shared documents
-- [Thursday](../events/thursday.md) - 8 shared documents
 - [2012](../events/2012.md) - 8 shared documents
+- [Thursday](../events/thursday.md) - 8 shared documents
 - [daily](../events/daily.md) - 7 shared documents
-- [more than a year](../events/more-than-a-year.md) - 7 shared documents
 - [May 2017](../events/may-2017.md) - 7 shared documents
-- [May](../events/may.md) - 6 shared documents
+- [more than a year](../events/more-than-a-year.md) - 7 shared documents
+- [1987](../events/1987.md) - 6 shared documents
 
 ## Timeline
 

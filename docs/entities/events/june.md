@@ -37,7 +37,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 27 shared documents
-- [President Obama](../people/president-obama.md) - 22 shared documents
 
 **Organizations:**
 
@@ -68,8 +67,8 @@ Top 10 documents by mention frequency:
 - [this year](this-year.md) - 27 shared documents
 - [2006](2006.md) - 27 shared documents
 - [last year](last-year.md) - 26 shared documents
-- [July](july.md) - 26 shared documents
 - [2013](2013.md) - 26 shared documents
+- [July](july.md) - 26 shared documents
 - [May](may.md) - 25 shared documents
 - [2015](2015.md) - 24 shared documents
 

@@ -39,18 +39,18 @@ Top 10 documents by mention frequency:
 - [Peter 
 Elwell](peter-elwell.md) - 9 shared documents
 - [Kenneth Starr](kenneth-starr.md) - 8 shared documents
-- [Chief Michael Reiter](chief-michael-reiter.md) - 8 shared documents
 - [H.C. Clark II](hc-clark-ii.md) - 7 shared documents
 - [Harvard Law School](harvard-law-school.md) - 7 shared documents
+- [Eliot Spitzer](eliot-spitzer.md) - 6 shared documents
 
 **Organizations:**
 
 - [FBI](../organizations/fbi.md) - 10 shared documents
-- [State](../organizations/state.md) - 10 shared documents
 - [Harvard](../organizations/harvard.md) - 10 shared documents
-- [the Palm Beach Police Department](../organizations/the-palm-beach-police-department.md) - 10 shared documents
 - [Palm 
 Beach Atlantic University](../organizations/palm-beach-atlantic-university.md) - 10 shared documents
+- [State](../organizations/state.md) - 10 shared documents
+- [the Palm Beach Police Department](../organizations/the-palm-beach-police-department.md) - 10 shared documents
 - [Town](../organizations/town.md) - 10 shared documents
 - [Cokes](../organizations/cokes.md) - 9 shared documents
 - [Harvard Law School](../organizations/harvard-law-school.md) - 8 shared documents
@@ -58,24 +58,25 @@ Beach Atlantic University](../organizations/palm-beach-atlantic-university.md) -
 **Locations:**
 
 - [Palm Beach](../locations/palm-beach.md) - 10 shared documents
-- [West Palm Beach](../locations/west-palm-beach.md) - 10 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 10 shared documents
 - [Posh Palm Beach](../locations/posh-palm-beach.md) - 10 shared documents
-- [Quantico](../locations/quantico.md) - 9 shared documents
+- [West Palm Beach](../locations/west-palm-beach.md) - 10 shared documents
 - [Palm Beach County Jail](../locations/palm-beach-county-jail.md) - 9 shared documents
+- [Quantico](../locations/quantico.md) - 9 shared documents
+- [Miami-Dade State](../locations/miami-dade-state.md) - 8 shared documents
 
 **Events:**
 
-- [last year](../events/last-year.md) - 10 shared documents
-- [1984](../events/1984.md) - 10 shared documents
-- [last month](../events/last-month.md) - 10 shared documents
-- [May 1](../events/may-1.md) - 10 shared documents
 - [14](../events/14.md) - 10 shared documents
-- [1981](../events/1981.md) - 10 shared documents
-- [1991](../events/1991.md) - 10 shared documents
-- [48](../events/48.md) - 10 shared documents
 - [18](../events/18.md) - 10 shared documents
+- [1981](../events/1981.md) - 10 shared documents
+- [1984](../events/1984.md) - 10 shared documents
+- [1991](../events/1991.md) - 10 shared documents
+- [24 years](../events/24-years.md) - 10 shared documents
+- [32 years](../events/32-years.md) - 10 shared documents
+- [48](../events/48.md) - 10 shared documents
 - [53](../events/53.md) - 10 shared documents
+- [last month](../events/last-month.md) - 10 shared documents
 
 ## Timeline
 

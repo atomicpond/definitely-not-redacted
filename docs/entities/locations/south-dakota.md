@@ -29,9 +29,9 @@ Top 9 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 4 shared documents
 - [New Mexico](../people/new-mexico.md) - 4 shared documents
 - [President Bush](../people/president-bush.md) - 4 shared documents
-- [President Obama](../people/president-obama.md) - 4 shared documents
 - [San Francisco](../people/san-francisco.md) - 4 shared documents
 - [White House](../people/white-house.md) - 4 shared documents
 
@@ -49,24 +49,24 @@ Top 9 documents by mention frequency:
 - [Virginia](virginia.md) - 6 shared documents
 - [West Virginia](west-virginia.md) - 6 shared documents
 - [Middle East](middle-east.md) - 6 shared documents
-- [Russia](russia.md) - 6 shared documents
-- [Paris](paris.md) - 6 shared documents
 - [Oklahoma](oklahoma.md) - 6 shared documents
+- [Paris](paris.md) - 6 shared documents
+- [Russia](russia.md) - 6 shared documents
 - [Spain](spain.md) - 5 shared documents
 - [the Middle East](the-middle-east.md) - 5 shared documents
 
 **Events:**
 
-- [annual](../events/annual.md) - 6 shared documents
 - [1981](../events/1981.md) - 6 shared documents
 - [1988](../events/1988.md) - 6 shared documents
 - [1989](../events/1989.md) - 6 shared documents
 - [1992](../events/1992.md) - 6 shared documents
-- [daily](../events/daily.md) - 5 shared documents
-- [next year](../events/next-year.md) - 5 shared documents
-- [1998](../events/1998.md) - 5 shared documents
-- [weeks](../events/weeks.md) - 5 shared documents
+- [annual](../events/annual.md) - 6 shared documents
 - [1977](../events/1977.md) - 5 shared documents
+- [1998](../events/1998.md) - 5 shared documents
+- [daily](../events/daily.md) - 5 shared documents
+- [each year](../events/each-year.md) - 5 shared documents
+- [next year](../events/next-year.md) - 5 shared documents
 
 ## Timeline
 

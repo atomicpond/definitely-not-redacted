@@ -28,12 +28,12 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Alberto Gonzales](../people/alberto-gonzales.md) - 6 shared documents
 - [Attorney 
 General](../people/attorney-general.md) - 6 shared documents
 - [Attorney General  
 Sent](../people/attorney-general-sent.md) - 6 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Eric](../people/eric.md) - 6 shared documents
 - [Floor Statement](../people/floor-statement.md) - 6 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 6 shared documents
@@ -53,16 +53,16 @@ Sent](../people/kathy-ruemmler-sent.md) - 6 shared documents
 
 **Events:**
 
-- [a year](../events/a-year.md) - 6 shared documents
-- [Sat](../events/sat.md) - 6 shared documents
-- [September 20 2014](../events/september-20-2014.md) - 6 shared documents
-- [mid-October](../events/mid-october.md) - 6 shared documents
-- [Saturday, September 20, 2014](../events/saturday-september-20-2014.md) - 6 shared documents
 - [10:03 AM](../events/1003-am.md) - 6 shared documents
 - [12:59 PM](../events/1259-pm.md) - 6 shared documents
 - [2:25 PM](../events/225-pm.md) - 6 shared documents
 - [3:49 PM](../events/349-pm.md) - 6 shared documents
 - [3:54 PM](../events/354-pm.md) - 6 shared documents
+- [a year](../events/a-year.md) - 6 shared documents
+- [mid-October](../events/mid-october.md) - 6 shared documents
+- [Sat](../events/sat.md) - 6 shared documents
+- [Saturday, September 20, 2014](../events/saturday-september-20-2014.md) - 6 shared documents
+- [Sep 20, 2014](../events/sep-20-2014.md) - 6 shared documents
 
 ## Timeline
 

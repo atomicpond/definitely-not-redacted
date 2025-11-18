@@ -32,16 +32,14 @@ Top 10 documents by mention frequency:
 - [Eric Holder](eric-holder.md) - 10 shared documents
 - [Bill 
 Clinton](bill-clinton.md) - 7 shared documents
-- [CLINTON](clinton.md) - 7 shared documents
-- [Ken Starr](ken-starr.md) - 6 shared documents
-- [President Trump](president-trump.md) - 6 shared documents
 - [Jeffrey E](jeffrey-e.md) - 6 shared documents
-- [Mr. 
-Trump](trump.md) - 6 shared documents
 - [Justice 
 Department](justice-department.md) - 6 shared documents
+- [Ken Starr](ken-starr.md) - 6 shared documents
 - [On Oct](on-oct.md) - 6 shared documents
 - [Ms. Williams](williams.md) - 5 shared documents
+- [Yahoo News](yahoo-news.md) - 5 shared documents
+- [Young](young.md) - 5 shared documents
 
 **Organizations:**
 
@@ -52,30 +50,30 @@ Department](justice-department.md) - 6 shared documents
 - [the Justice Departments](../organizations/the-justice-departments.md) - 9 shared documents
 - [HOUSE](../organizations/house.md) - 7 shared documents
 - [Senate](../organizations/senate.md) - 7 shared documents
-- [Trump](../organizations/trump.md) - 6 shared documents
 - [Forbes](../organizations/forbes.md) - 6 shared documents
 - [New York Post](../organizations/new-york-post.md) - 6 shared documents
+- [Trump](../organizations/trump.md) - 6 shared documents
 
 **Locations:**
 
-- [Russia](../locations/russia.md) - 7 shared documents
-- [Washington](../locations/washington.md) - 7 shared documents
 - [Paris](../locations/paris.md) - 7 shared documents
+- [Russia](../locations/russia.md) - 7 shared documents
 - [US](../locations/us.md) - 7 shared documents
+- [Washington](../locations/washington.md) - 7 shared documents
 - [America](../locations/america.md) - 6 shared documents
 
 **Events:**
 
 - [1974](../events/1974.md) - 10 shared documents
 - [more than a year](../events/more-than-a-year.md) - 9 shared documents
+- [2006](../events/2006.md) - 6 shared documents
 - [2014](../events/2014.md) - 6 shared documents
 - [2016](../events/2016.md) - 6 shared documents
 - [Saturday](../events/saturday.md) - 6 shared documents
-- [2006](../events/2006.md) - 6 shared documents
 - [the day](../events/the-day.md) - 6 shared documents
-- [2004](../events/2004.md) - 5 shared documents
-- [2018](../events/2018.md) - 5 shared documents
-- [a day](../events/a-day.md) - 5 shared documents
+- [10-year](../events/10-year.md) - 5 shared documents
+- [12:56:55 AM EDT](../events/125655-am-edt.md) - 5 shared documents
+- [18](../events/18.md) - 5 shared documents
 
 ## Timeline
 

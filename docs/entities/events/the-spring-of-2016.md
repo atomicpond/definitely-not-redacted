@@ -37,16 +37,16 @@ Top 6 documents by mention frequency:
 
 **Events:**
 
-- [2012](2012.md) - 6 shared documents
-- [2017](2017.md) - 6 shared documents
 - [2008](2008.md) - 6 shared documents
 - [2010](2010.md) - 6 shared documents
+- [2012](2012.md) - 6 shared documents
 - [2013](2013.md) - 6 shared documents
-- [2018](2018.md) - 5 shared documents
+- [2017](2017.md) - 6 shared documents
+- [1990](1990.md) - 5 shared documents
+- [2006](2006.md) - 5 shared documents
+- [2011](2011.md) - 5 shared documents
 - [2014](2014.md) - 5 shared documents
 - [2015](2015.md) - 5 shared documents
-- [2016](2016.md) - 5 shared documents
-- [2011](2011.md) - 5 shared documents
 
 ## Timeline
 

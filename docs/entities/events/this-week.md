@@ -40,10 +40,9 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jeffrey E](../people/jeffrey-e.md) - 48 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 35 shared documents
-- [Donald 
-Trump](../people/donald-trump.md) - 28 shared documents
 - [White House](../people/white-house.md) - 27 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 25 shared documents
 
 **Organizations:**
 
@@ -73,8 +72,8 @@ Trump](../people/donald-trump.md) - 28 shared documents
 - [today](today.md) - 78 shared documents
 - [last week](last-week.md) - 52 shared documents
 - [Sunday](sunday.md) - 51 shared documents
-- [last year](last-year.md) - 48 shared documents
 - [Friday](friday.md) - 48 shared documents
+- [last year](last-year.md) - 48 shared documents
 - [Thursday](thursday.md) - 43 shared documents
 - [tomorrow](tomorrow.md) - 42 shared documents
 - [Wednesday](wednesday.md) - 41 shared documents

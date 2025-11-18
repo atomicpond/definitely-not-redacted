@@ -24,33 +24,33 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [Senate](senate.md) - 4 shared documents
-- [Fed](fed.md) - 4 shared documents
 - [Congress](congress.md) - 4 shared documents
+- [Fed](fed.md) - 4 shared documents
+- [Senate](senate.md) - 4 shared documents
 - [State](state.md) - 4 shared documents
 
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 5 shared documents
 - [Virginia](../locations/virginia.md) - 5 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
 - [Canada](../locations/canada.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
+- [Europe](../locations/europe.md) - 4 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 4 shared documents
 - [Texas](../locations/texas.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 
 - [1990](../events/1990.md) - 5 shared documents
-- [2004](../events/2004.md) - 4 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
 - [1962](../events/1962.md) - 4 shared documents
+- [1964](../events/1964.md) - 4 shared documents
+- [1980](../events/1980.md) - 4 shared documents
+- [1982](../events/1982.md) - 4 shared documents
+- [1989](../events/1989.md) - 4 shared documents
+- [1992](../events/1992.md) - 4 shared documents
+- [1994](../events/1994.md) - 4 shared documents
+- [1995](../events/1995.md) - 4 shared documents
 - [1996](../events/1996.md) - 4 shared documents
-- [2000](../events/2000.md) - 4 shared documents
-- [2012](../events/2012.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
-- [1998](../events/1998.md) - 4 shared documents
 
 ## Timeline
 

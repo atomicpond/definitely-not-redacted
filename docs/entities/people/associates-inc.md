@@ -38,17 +38,15 @@ New](floor-new.md) - 66 shared documents
 - [Richard Kahn 
 Sent](richard-kahn-sent.md) - 15 shared documents
 - [Jeffrey E](jeffrey-e.md) - 10 shared documents
-- [Mr. 
-Trump](trump.md) - 10 shared documents
-- [Mr. 
-Dershowitz](dershowitz.md) - 6 shared documents
 - [Donald 
-Trump](donald-trump.md) - 6 shared documents
+Trump](donald-trump.md) - 5 shared documents
+- [High 
+Richard Kahn](high-richard-kahn.md) - 5 shared documents
 
 **Organizations:**
 
-- [Lexington Avenue](../organizations/lexington-avenue.md) - 86 shared documents
 - [HBRK Associates Inc.](../organizations/hbrk-associates-inc.md) - 86 shared documents
+- [Lexington Avenue](../organizations/lexington-avenue.md) - 86 shared documents
 - [Richard Kahn 
 HBRK Associates Inc](../organizations/richard-kahn-hbrk-associates-inc.md) - 77 shared documents
 - [4th Floor](../organizations/4th-floor.md) - 38 shared documents

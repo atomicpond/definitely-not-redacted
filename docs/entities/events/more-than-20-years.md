@@ -41,16 +41,16 @@ Top 6 documents by mention frequency:
 
 **Events:**
 
-- [2008](2008.md) - 5 shared documents
 - [1991](1991.md) - 5 shared documents
+- [2008](2008.md) - 5 shared documents
 - [years](years.md) - 4 shared documents
-- [2003](2003.md) - 4 shared documents
-- [2004](2004.md) - 4 shared documents
-- [2007](2007.md) - 4 shared documents
-- [annual](annual.md) - 4 shared documents
-- [2012](2012.md) - 4 shared documents
-- [2011](2011.md) - 4 shared documents
+- [1967](1967.md) - 4 shared documents
+- [1987](1987.md) - 4 shared documents
+- [1989](1989.md) - 4 shared documents
 - [1990](1990.md) - 4 shared documents
+- [1992](1992.md) - 4 shared documents
+- [1995](1995.md) - 4 shared documents
+- [1997](1997.md) - 4 shared documents
 
 ## Timeline
 

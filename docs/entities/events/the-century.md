@@ -30,13 +30,12 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 10 shared documents
-- [President Obama](../people/president-obama.md) - 10 shared documents
 - [Cold War](../people/cold-war.md) - 9 shared documents
-- [Mr. Obama](../people/obama.md) - 8 shared documents
-- [CLINTON](../people/clinton.md) - 7 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 7 shared documents
 - [Communist Party](../people/communist-party.md) - 7 shared documents
 - [George W. Bush](../people/george-w-bush.md) - 7 shared documents
+- [Mao](../people/mao.md) - 7 shared documents
 
 **Organizations:**
 
@@ -68,7 +67,7 @@ Top 10 documents by mention frequency:
 - [last week](last-week.md) - 9 shared documents
 - [Thursday](thursday.md) - 7 shared documents
 - [yesterday](yesterday.md) - 7 shared documents
-- [daily](daily.md) - 7 shared documents
+- [1991](1991.md) - 7 shared documents
 
 ## Timeline
 

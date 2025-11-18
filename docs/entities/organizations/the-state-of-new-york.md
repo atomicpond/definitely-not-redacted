@@ -36,17 +36,17 @@ Top 7 documents by mention frequency:
 - [New York](../locations/new-york.md) - 6 shared documents
 - [United States](../locations/united-states.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [London](../locations/london.md) - 4 shared documents
 - [Florida](../locations/florida.md) - 4 shared documents
+- [London](../locations/london.md) - 4 shared documents
 - [New York City](../locations/new-york-city.md) - 4 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 5 shared documents
-- [annual](../events/annual.md) - 4 shared documents
-- [2008](../events/2008.md) - 4 shared documents
 - [16](../events/16.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
 - [2013](../events/2013.md) - 4 shared documents
+- [annual](../events/annual.md) - 4 shared documents
 
 ## Timeline
 

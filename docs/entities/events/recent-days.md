@@ -45,14 +45,14 @@ Top 8 documents by mention frequency:
 
 - [Thursday](thursday.md) - 5 shared documents
 - [2015](2015.md) - 5 shared documents
-- [May](may.md) - 5 shared documents
 - [last month](last-month.md) - 5 shared documents
-- [2018](2018.md) - 4 shared documents
+- [May](may.md) - 5 shared documents
 - [2009](2009.md) - 4 shared documents
 - [2017](2017.md) - 4 shared documents
-- [July](july.md) - 4 shared documents
+- [2018](2018.md) - 4 shared documents
+- [a decade](a-decade.md) - 4 shared documents
 - [Friday](friday.md) - 4 shared documents
-- [June](june.md) - 4 shared documents
+- [July](july.md) - 4 shared documents
 
 ## Timeline
 

@@ -55,8 +55,8 @@ Top 10 documents by mention frequency:
 - [daily](daily.md) - 23 shared documents
 - [the day](the-day.md) - 22 shared documents
 - [2010](2010.md) - 22 shared documents
-- [2009](2009.md) - 21 shared documents
 - [2001](2001.md) - 21 shared documents
+- [2009](2009.md) - 21 shared documents
 - [Saturday](saturday.md) - 21 shared documents
 
 ## Timeline

@@ -67,9 +67,9 @@ Sent](../people/ken-sent.md) - 5 shared documents
 - [this year](this-year.md) - 6 shared documents
 - [year-end](year-end.md) - 6 shared documents
 - [years](years.md) - 6 shared documents
+- [1980](1980.md) - 6 shared documents
 - [1986](1986.md) - 6 shared documents
 - [1990](1990.md) - 6 shared documents
-- [1980](1980.md) - 6 shared documents
 
 ## Timeline
 

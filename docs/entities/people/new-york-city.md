@@ -33,17 +33,19 @@ Top 10 documents by mention frequency:
 
 - [New
 York](new-york.md) - 21 shared documents
-- [Jeffrey Epstein](jeffrey-epstein.md) - 14 shared documents
 - [Donald 
 Trump](donald-trump.md) - 12 shared documents
-- [Epstein](epstein.md) - 10 shared documents
 - [Palm 
 Beach](palm-beach.md) - 7 shared documents
-- [Jeffrey](jeffrey.md) - 7 shared documents
-- [jeff epstein](jeff-epstein.md) - 7 shared documents
 - [Ghislaine Maxwell](ghislaine-maxwell.md) - 7 shared documents
+- [Jeffrey](jeffrey.md) - 7 shared documents
 - [Richard Kahn](richard-kahn.md) - 6 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 6 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 6 shared documents
 - [New Jersey](new-jersey.md) - 6 shared documents
+- [Prince 
+Andrew](prince-andrew.md) - 5 shared documents
 
 **Organizations:**
 
@@ -62,22 +64,22 @@ Beach](palm-beach.md) - 7 shared documents
 - [US](../locations/us.md) - 12 shared documents
 - [Brooklyn](../locations/brooklyn.md) - 11 shared documents
 - [NEW YORK NY](../locations/new-york-ny.md) - 8 shared documents
-- [Washington](../locations/washington.md) - 7 shared documents
 - [Florida](../locations/florida.md) - 7 shared documents
+- [New Jersey](../locations/new-jersey.md) - 7 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 7 shared documents
 
 **Events:**
 
 - [2011](../events/2011.md) - 9 shared documents
 - [years](../events/years.md) - 7 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [this year](../events/this-year.md) - 6 shared documents
 - [2005](../events/2005.md) - 6 shared documents
 - [2008](../events/2008.md) - 6 shared documents
-- [2014](../events/2014.md) - 5 shared documents
-- [last week](../events/last-week.md) - 5 shared documents
-- [Friday](../events/friday.md) - 5 shared documents
+- [this year](../events/this-year.md) - 6 shared documents
+- [today](../events/today.md) - 6 shared documents
 - [2013](../events/2013.md) - 5 shared documents
+- [2014](../events/2014.md) - 5 shared documents
+- [Friday](../events/friday.md) - 5 shared documents
+- [last week](../events/last-week.md) - 5 shared documents
 
 ## Timeline
 

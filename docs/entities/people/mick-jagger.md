@@ -33,12 +33,13 @@ Top 10 documents by mention frequency:
 
 - [Vanity Fair](vanity-fair.md) - 9 shared documents
 - [Ken Starr](ken-starr.md) - 9 shared documents
-- [Jeffrey Epstein](jeffrey-epstein.md) - 8 shared documents
-- [CLINTON](clinton.md) - 8 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 8 shared documents
 - [Boris Nikolic](boris-nikolic.md) - 8 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 8 shared documents
 - [Julie Taymor](julie-taymor.md) - 8 shared documents
-- [Beverly Hills](beverly-hills.md) - 7 shared documents
 - [Academy Awards](academy-awards.md) - 7 shared documents
+- [Beverly Hills](beverly-hills.md) - 7 shared documents
 - [Nicole Kidman](nicole-kidman.md) - 6 shared documents
 - [Paul Haggis](paul-haggis.md) - 6 shared documents
 
@@ -49,18 +50,21 @@ Top 10 documents by mention frequency:
 - [AT&T](../organizations/att.md) - 7 shared documents
 - [Samsung](../organizations/samsung.md) - 7 shared documents
 - [Windows Mobile](../organizations/windows-mobile.md) - 7 shared documents
+- [ABC-TV](../organizations/abc-tv.md) - 6 shared documents
 - [Academy](../organizations/academy.md) - 6 shared documents
-- [UTA](../organizations/uta.md) - 6 shared documents
+- [Daily Mail](../organizations/daily-mail.md) - 6 shared documents
+- [DGA](../organizations/dga.md) - 6 shared documents
+- [PGA](../organizations/pga.md) - 6 shared documents
 
 **Locations:**
 
 - [America](../locations/america.md) - 8 shared documents
 - [Manhattan](../locations/manhattan.md) - 8 shared documents
 - [New York City](../locations/new-york-city.md) - 8 shared documents
-- [New York](../locations/new-york.md) - 7 shared documents
-- [Washington](../locations/washington.md) - 7 shared documents
-- [Paris](../locations/paris.md) - 7 shared documents
 - [Beverly Hills](../locations/beverly-hills.md) - 7 shared documents
+- [New York](../locations/new-york.md) - 7 shared documents
+- [Paris](../locations/paris.md) - 7 shared documents
+- [Washington](../locations/washington.md) - 7 shared documents
 - [California](../locations/california.md) - 6 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 6 shared documents
 - [Switzerland](../locations/switzerland.md) - 6 shared documents
@@ -69,11 +73,12 @@ Top 10 documents by mention frequency:
 
 - [Sunday](../events/sunday.md) - 9 shared documents
 - [years](../events/years.md) - 8 shared documents
-- [annual](../events/annual.md) - 7 shared documents
 - [2005](../events/2005.md) - 7 shared documents
-- [this year](../events/this-year.md) - 6 shared documents
-- [a few weeks](../events/a-few-weeks.md) - 6 shared documents
+- [annual](../events/annual.md) - 7 shared documents
 - [1982](../events/1982.md) - 6 shared documents
+- [a few weeks](../events/a-few-weeks.md) - 6 shared documents
+- [Friday, January 28, 2011](../events/friday-january-28-2011.md) - 6 shared documents
+- [this year](../events/this-year.md) - 6 shared documents
 - [winter](../events/winter.md) - 6 shared documents
 
 ## Timeline

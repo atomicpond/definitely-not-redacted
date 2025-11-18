@@ -18,7 +18,7 @@
 - [J.P. Morgan](../entities/people/jp-morgan.md) - 4 mentions
 - [Michael Cembalest](../entities/people/michael-cembalest.md) - 1 mention
 - [Paul Volcker](../entities/people/paul-volcker.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 
 ### Organizations
 - [Bloomberg](../entities/organizations/bloomberg.md) - 6 mentions

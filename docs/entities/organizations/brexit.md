@@ -30,15 +30,15 @@ Top 5 documents by mention frequency:
 **Locations:**
 
 - [Australia](../locations/australia.md) - 5 shared documents
-- [Dubai](../locations/dubai.md) - 4 shared documents
-- [China](../locations/china.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
-- [Canada](../locations/canada.md) - 4 shared documents
-- [Mexico](../locations/mexico.md) - 4 shared documents
-- [London](../locations/london.md) - 4 shared documents
 - [Asia](../locations/asia.md) - 4 shared documents
+- [Canada](../locations/canada.md) - 4 shared documents
+- [China](../locations/china.md) - 4 shared documents
+- [Dubai](../locations/dubai.md) - 4 shared documents
+- [Europe](../locations/europe.md) - 4 shared documents
+- [Hong Kong](../locations/hong-kong.md) - 4 shared documents
+- [Israel](../locations/israel.md) - 4 shared documents
 - [Italy](../locations/italy.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
 
 **Events:**
 

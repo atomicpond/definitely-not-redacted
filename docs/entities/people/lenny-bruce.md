@@ -47,34 +47,34 @@ Times](../organizations/high-times.md) - 5 shared documents
 - [Rolling Stone](../organizations/rolling-stone.md) - 5 shared documents
 - [the Free Speech Movement](../organizations/the-free-speech-movement.md) - 5 shared documents
 - [the University of California in Berkeley](../organizations/the-university-of-california-in-berkeley.md) - 5 shared documents
-- [Trump](../organizations/trump.md) - 4 shared documents
 - [CIA](../organizations/cia.md) - 4 shared documents
+- [Trump](../organizations/trump.md) - 4 shared documents
 
 **Locations:**
 
 - [San Francisco](../locations/san-francisco.md) - 9 shared documents
 - [Dallas](../locations/dallas.md) - 6 shared documents
-- [New York](../locations/new-york.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [Berkeley](../locations/berkeley.md) - 5 shared documents
 - [Chicago](../locations/chicago.md) - 5 shared documents
 - [Hollywood](../locations/hollywood.md) - 5 shared documents
-- [Berkeley](../locations/berkeley.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 4 shared documents
 - [Russia](../locations/russia.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
+- [Spain](../locations/spain.md) - 4 shared documents
 
 **Events:**
 
 - [A few years later](../events/a-few-years-later.md) - 7 shared documents
 - [the day](../events/the-day.md) - 7 shared documents
-- [1970](../events/1970.md) - 6 shared documents
-- [two years](../events/two-years.md) - 6 shared documents
-- [1969](../events/1969.md) - 6 shared documents
-- [1980](../events/1980.md) - 6 shared documents
 - [1965](../events/1965.md) - 6 shared documents
-- [2019](../events/2019.md) - 5 shared documents
+- [1969](../events/1969.md) - 6 shared documents
+- [1970](../events/1970.md) - 6 shared documents
+- [1980](../events/1980.md) - 6 shared documents
+- [two years](../events/two-years.md) - 6 shared documents
 - [1992](../events/1992.md) - 5 shared documents
-- [next day](../events/next-day.md) - 5 shared documents
+- [2019](../events/2019.md) - 5 shared documents
+- [Christmas Day](../events/christmas-day.md) - 5 shared documents
 
 ## Timeline
 

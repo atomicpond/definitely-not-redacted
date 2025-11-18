@@ -1,0 +1,19 @@
+{
+  "statistics": {
+    "total": 2897,
+    "email_header": 2064,
+    "metadata": 239,
+    "content_parsed": 441,
+    "unknown": 153,
+    "high_confidence": 2064,
+    "medium_confidence": 239,
+    "low_confidence": 441
+  },
+  "date_range": {
+    "earliest": "1981-03-26",
+    "latest": "2038-05-15",
+    "span_years": 57
+  },
+  "output_file": "/Users/am/Research/Epstein/epstein-wiki/output/document_dates.json",
+  "generated_at": "2025-11-17T18:29:38.282182"
+}

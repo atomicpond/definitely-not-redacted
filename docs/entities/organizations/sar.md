@@ -27,8 +27,8 @@ Top 5 documents by mention frequency:
 **Organizations:**
 
 - [State](state.md) - 5 shared documents
-- [LLC](llc.md) - 4 shared documents
 - [IRS](irs.md) - 4 shared documents
+- [LLC](llc.md) - 4 shared documents
 
 **Locations:**
 
@@ -36,14 +36,14 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [2004](../events/2004.md) - 5 shared documents
 - [1992](../events/1992.md) - 5 shared documents
+- [2004](../events/2004.md) - 5 shared documents
+- [1933](../events/1933.md) - 4 shared documents
+- [1998](../events/1998.md) - 4 shared documents
+- [2000](../events/2000.md) - 4 shared documents
 - [2015](../events/2015.md) - 4 shared documents
 - [annual](../events/annual.md) - 4 shared documents
-- [2000](../events/2000.md) - 4 shared documents
-- [1998](../events/1998.md) - 4 shared documents
 - [recent years](../events/recent-years.md) - 4 shared documents
-- [1933](../events/1933.md) - 4 shared documents
 
 ## Timeline
 

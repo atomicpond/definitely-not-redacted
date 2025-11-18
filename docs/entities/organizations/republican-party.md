@@ -32,29 +32,29 @@ Top 7 documents by mention frequency:
 
 - [the Republican Party](the-republican-party.md) - 5 shared documents
 - [White House](white-house.md) - 5 shared documents
-- [Office](office.md) - 5 shared documents
 - [NSA](nsa.md) - 5 shared documents
-- [HHS](hhs.md) - 4 shared documents
+- [Office](office.md) - 5 shared documents
 - [Benghazi](benghazi.md) - 4 shared documents
-- [IRS](irs.md) - 4 shared documents
 - [DOJ](doj.md) - 4 shared documents
+- [HHS](hhs.md) - 4 shared documents
+- [IRS](irs.md) - 4 shared documents
 
 **Locations:**
 
+- [Israel](../locations/israel.md) - 5 shared documents
 - [Libya](../locations/libya.md) - 5 shared documents
 - [New York City](../locations/new-york-city.md) - 5 shared documents
-- [Israel](../locations/israel.md) - 5 shared documents
 - [Brooklyn](../locations/brooklyn.md) - 4 shared documents
 
 **Events:**
 
+- [1980](../events/1980.md) - 5 shared documents
 - [1986](../events/1986.md) - 5 shared documents
 - [1987](../events/1987.md) - 5 shared documents
-- [1980](../events/1980.md) - 5 shared documents
+- [1991](../events/1991.md) - 4 shared documents
 - [70](../events/70.md) - 4 shared documents
 - [June](../events/june.md) - 4 shared documents
 - [two weeks](../events/two-weeks.md) - 4 shared documents
-- [1991](../events/1991.md) - 4 shared documents
 
 ## Timeline
 

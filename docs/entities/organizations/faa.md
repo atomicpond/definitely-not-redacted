@@ -43,23 +43,23 @@ Top 10 documents by mention frequency:
 - [Florida](../locations/florida.md) - 7 shared documents
 - [Miami](../locations/miami.md) - 6 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
-- [London](../locations/london.md) - 5 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 5 shared documents
 - [Brooklyn](../locations/brooklyn.md) - 5 shared documents
+- [London](../locations/london.md) - 5 shared documents
 - [New York City](../locations/new-york-city.md) - 5 shared documents
+- [Palm Beach](../locations/palm-beach.md) - 5 shared documents
+- [Paris](../locations/paris.md) - 5 shared documents
 
 **Events:**
 
-- [last year](../events/last-year.md) - 7 shared documents
 - [2010](../events/2010.md) - 7 shared documents
+- [last year](../events/last-year.md) - 7 shared documents
+- [2001](../events/2001.md) - 6 shared documents
+- [2002](../events/2002.md) - 6 shared documents
 - [2004](../events/2004.md) - 6 shared documents
+- [2006](../events/2006.md) - 6 shared documents
 - [2007](../events/2007.md) - 6 shared documents
 - [July](../events/july.md) - 6 shared documents
-- [2001](../events/2001.md) - 6 shared documents
 - [months](../events/months.md) - 6 shared documents
-- [2006](../events/2006.md) - 6 shared documents
-- [2002](../events/2002.md) - 6 shared documents
 - [the day](../events/the-day.md) - 6 shared documents
 
 ## Timeline

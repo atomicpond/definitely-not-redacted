@@ -28,16 +28,16 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 8 shared documents
 - [Mahmoud Abbas](../people/mahmoud-abbas.md) - 8 shared documents
 - [Middle East](../people/middle-east.md) - 8 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 8 shared documents
 - [Security Council](../people/security-council.md) - 8 shared documents
 - [West Bank](../people/west-bank.md) - 8 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Bashar al-Assad](../people/bashar-al-assad.md) - 7 shared documents
 - [East Jerusalem](../people/east-jerusalem.md) - 7 shared documents
 - [Gaza Strip](../people/gaza-strip.md) - 7 shared documents
-- [President Obama](../people/president-obama.md) - 7 shared documents
+- [Tel Aviv](../people/tel-aviv.md) - 7 shared documents
 
 **Organizations:**
 
@@ -45,12 +45,12 @@ Top 9 documents by mention frequency:
 - [the United Nations](the-united-nations.md) - 8 shared documents
 - [State](state.md) - 7 shared documents
 - [Time](time.md) - 6 shared documents
-- [CIA](cia.md) - 6 shared documents
 - [Stratfor](stratfor.md) - 5 shared documents
 - [the Palestinian Authority](the-palestinian-authority.md) - 5 shared documents
 - [UN Security Council](un-security-council.md) - 5 shared documents
 - [PLO](plo.md) - 4 shared documents
 - [State Department](state-department.md) - 4 shared documents
+- [the Council on Foreign Relations](the-council-on-foreign-relations.md) - 4 shared documents
 
 **Locations:**
 
@@ -58,25 +58,25 @@ Top 9 documents by mention frequency:
 - [Israel](../locations/israel.md) - 9 shared documents
 - [Palestine](../locations/palestine.md) - 9 shared documents
 - [the West Bank](../locations/the-west-bank.md) - 9 shared documents
-- [Middle East](../locations/middle-east.md) - 8 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 8 shared documents
+- [East Jerusalem](../locations/east-jerusalem.md) - 8 shared documents
 - [Europe](../locations/europe.md) - 8 shared documents
-- [Washington](../locations/washington.md) - 8 shared documents
 - [Iran](../locations/iran.md) - 8 shared documents
+- [Jerusalem](../locations/jerusalem.md) - 8 shared documents
+- [Middle East](../locations/middle-east.md) - 8 shared documents
 - [Syria](../locations/syria.md) - 8 shared documents
 
 **Events:**
 
 - [years](../events/years.md) - 8 shared documents
+- [1998](../events/1998.md) - 7 shared documents
 - [2012](../events/2012.md) - 7 shared documents
 - [last week](../events/last-week.md) - 7 shared documents
-- [1998](../events/1998.md) - 7 shared documents
+- [1948](../events/1948.md) - 6 shared documents
+- [1973](../events/1973.md) - 6 shared documents
+- [1992](../events/1992.md) - 6 shared documents
+- [1993](../events/1993.md) - 6 shared documents
 - [2003](../events/2003.md) - 6 shared documents
 - [2009](../events/2009.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [last year](../events/last-year.md) - 6 shared documents
-- [1993](../events/1993.md) - 6 shared documents
-- [the years](../events/the-years.md) - 6 shared documents
 
 ## Timeline
 

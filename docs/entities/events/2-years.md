@@ -32,6 +32,7 @@ Top 10 documents by mention frequency:
 
 - [Alfre Woodard](../people/alfre-woodard.md) - 5 shared documents
 - [Anna Deveare Smith](../people/anna-deveare-smith.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Barker Center](../people/barker-center.md) - 5 shared documents
 - [Buck Riley 
 Alfre](../people/buck-riley-alfre.md) - 5 shared documents
@@ -44,7 +45,6 @@ Julie](../people/diane-paulus-julie.md) - 5 shared documents
 Yo Yo](../people/dunham-yo-yo.md) - 5 shared documents
 - [Ensler 
 Damian Woetzel](../people/ensler-damian-woetzel.md) - 5 shared documents
-- [John Lithgow](../people/john-lithgow.md) - 5 shared documents
 
 **Organizations:**
 

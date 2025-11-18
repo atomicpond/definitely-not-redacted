@@ -14,7 +14,7 @@
 - [Orange 
 County](../entities/people/orange-county.md) - 5 mentions
 - [Farooq Bajwa](../entities/people/farooq-bajwa.md) - 4 mentions
-- [Ms. Ruemmler](../entities/people/ms-ruemmler.md) - 2 mentions
+- [Ms. Ruemmler](../entities/people/kathy-ruemmler.md) - 2 mentions
 - [White House](../entities/people/white-house.md) - 1 mention
 - [President Obama](../entities/people/president-obama.md) - 1 mention
 - [District Court](../entities/people/district-court.md) - 1 mention

@@ -29,17 +29,19 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Michael Flynn](../people/michael-flynn.md) - 7 shared documents
 - [Arthur Anderson](../people/arthur-anderson.md) - 6 shared documents
 - [mccabe](../people/mccabe.md) - 6 shared documents
 - [Michael Cohen](../people/michael-cohen.md) - 6 shared documents
-- [mueller](../people/mueller.md) - 6 shared documents
+- [Robert Mueller](../people/robert-mueller.md) - 6 shared documents
 - [White House](../people/white-house.md) - 6 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 5 shared documents
 - [Justice 
 Department](../people/justice-department.md) - 5 shared documents
-- [Mr. Obama](../people/obama.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 4 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 4 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 4 shared documents
 
 **Organizations:**
 
@@ -60,24 +62,24 @@ Department](../people/justice-department.md) - 5 shared documents
 - [Washington](../locations/washington.md) - 6 shared documents
 - [US](../locations/us.md) - 5 shared documents
 - [California](../locations/california.md) - 4 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
 - [Germany](../locations/germany.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
 - [Switzerland](../locations/switzerland.md) - 4 shared documents
 
 **Events:**
 
 - [one day](../events/one-day.md) - 6 shared documents
 - [weekly](../events/weekly.md) - 6 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [daily](../events/daily.md) - 5 shared documents
-- [these days](../events/these-days.md) - 5 shared documents
-- [November](../events/november.md) - 5 shared documents
-- [years ago](../events/years-ago.md) - 5 shared documents
-- [April](../events/april.md) - 5 shared documents
 - [1995](../events/1995.md) - 5 shared documents
-- [2018](../events/2018.md) - 4 shared documents
+- [April](../events/april.md) - 5 shared documents
+- [daily](../events/daily.md) - 5 shared documents
+- [November](../events/november.md) - 5 shared documents
+- [these days](../events/these-days.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
+- [years ago](../events/years-ago.md) - 5 shared documents
+- [1990](../events/1990.md) - 4 shared documents
 
 ## Timeline
 

@@ -35,15 +35,15 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [2004](../events/2004.md) - 4 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [2005](../events/2005.md) - 4 shared documents
-- [2008](../events/2008.md) - 4 shared documents
-- [three years](../events/three-years.md) - 4 shared documents
 - [1976](../events/1976.md) - 4 shared documents
 - [1981](../events/1981.md) - 4 shared documents
 - [1983](../events/1983.md) - 4 shared documents
+- [2004](../events/2004.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
+- [2009](../events/2009.md) - 4 shared documents
+- [three years](../events/three-years.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

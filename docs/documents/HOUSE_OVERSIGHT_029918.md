@@ -23,7 +23,7 @@
 - [Barack Obama](../entities/people/barack-obama.md) - 1 mention
 - [President Barack Obama](../entities/people/president-barack-obama.md) - 1 mention
 - [President Bush](../entities/people/president-bush.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 
 ### Organizations
 - [Congress](../entities/organizations/congress.md) - 7 mentions

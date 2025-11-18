@@ -48,8 +48,8 @@ Top 6 documents by mention frequency:
 - [the day](the-day.md) - 5 shared documents
 - [today](today.md) - 5 shared documents
 - [two years](two-years.md) - 5 shared documents
-- [2007](2007.md) - 5 shared documents
-- [A few days later](a-few-days-later.md) - 5 shared documents
+- [1969](1969.md) - 5 shared documents
+- [1996](1996.md) - 5 shared documents
 
 ## Timeline
 

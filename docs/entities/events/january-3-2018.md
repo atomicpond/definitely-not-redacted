@@ -27,12 +27,11 @@ Top 8 documents by mention frequency:
 
 **People:**
 
-- [Mr. 
-Trump](../people/trump.md) - 8 shared documents
 - [Jeffrey E. 
 Sent](../people/jeffrey-e-sent.md) - 7 shared documents
-- [mueller](../people/mueller.md) - 7 shared documents
-- [DONALD](../people/donald.md) - 5 shared documents
+- [Robert Mueller](../people/robert-mueller.md) - 7 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 5 shared documents
 - [Reid 
 Subject](../people/reid-subject.md) - 5 shared documents
 

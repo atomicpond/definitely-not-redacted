@@ -61,8 +61,8 @@ Top 8 documents by mention frequency:
 - [decades](decades.md) - 7 shared documents
 - [the 1970s](the-1970s.md) - 6 shared documents
 - [1970](1970.md) - 6 shared documents
-- [2010](2010.md) - 6 shared documents
 - [2006](2006.md) - 6 shared documents
+- [2010](2010.md) - 6 shared documents
 - [last year](last-year.md) - 5 shared documents
 - [one day](one-day.md) - 5 shared documents
 - [ten years](ten-years.md) - 5 shared documents

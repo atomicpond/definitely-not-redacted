@@ -28,9 +28,9 @@ Top 6 documents by mention frequency:
 **People:**
 
 - [Cynthia McFadden](cynthia-mcfadden.md) - 4 shared documents
+- [Henry Kravis](henry-kravis.md) - 4 shared documents
 - [Jean Pigozzi](jean-pigozzi.md) - 4 shared documents
 - [Larry Gagosian's](larry-gagosians.md) - 4 shared documents
-- [Henry Kravis](henry-kravis.md) - 4 shared documents
 
 **Organizations:**
 
@@ -49,16 +49,16 @@ Top 6 documents by mention frequency:
 
 **Events:**
 
-- [1985](../events/1985.md) - 5 shared documents
-- [2008](../events/2008.md) - 5 shared documents
-- [the next day](../events/the-next-day.md) - 5 shared documents
 - [13-year-old](../events/13-year-old.md) - 5 shared documents
+- [1985](../events/1985.md) - 5 shared documents
 - [1987](../events/1987.md) - 5 shared documents
+- [2008](../events/2008.md) - 5 shared documents
 - [all day](../events/all-day.md) - 5 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [Wednesday](../events/wednesday.md) - 4 shared documents
-- [last day](../events/last-day.md) - 4 shared documents
+- [the next day](../events/the-next-day.md) - 5 shared documents
+- [86-year-old](../events/86-year-old.md) - 4 shared documents
 - [February](../events/february.md) - 4 shared documents
+- [last day](../events/last-day.md) - 4 shared documents
+- [September](../events/september.md) - 4 shared documents
 
 ## Timeline
 

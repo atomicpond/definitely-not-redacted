@@ -32,8 +32,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Epstein](../people/epstein.md) - 9 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 8 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 9 shared documents
 - [New
 York](../people/new-york.md) - 8 shared documents
 - [Donald 
@@ -46,8 +45,6 @@ Clinton](../people/bill-clinton.md) - 5 shared documents
 - [New Mexico](../people/new-mexico.md) - 5 shared documents
 - [Palm 
 Beach](../people/palm-beach.md) - 5 shared documents
-- [President Bill  
-Clinton](../people/president-bill-clinton.md) - 5 shared documents
 
 **Organizations:**
 
@@ -75,14 +72,14 @@ Clinton](../people/president-bill-clinton.md) - 5 shared documents
 **Events:**
 
 - [2008](../events/2008.md) - 9 shared documents
-- [Thursday](../events/thursday.md) - 6 shared documents
-- [July](../events/july.md) - 6 shared documents
-- [2011](../events/2011.md) - 6 shared documents
 - [2005](../events/2005.md) - 6 shared documents
+- [2011](../events/2011.md) - 6 shared documents
 - [Friday](../events/friday.md) - 6 shared documents
+- [July](../events/july.md) - 6 shared documents
+- [Thursday](../events/thursday.md) - 6 shared documents
+- [2006](../events/2006.md) - 5 shared documents
 - [2007](../events/2007.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [Wednesday](../events/wednesday.md) - 5 shared documents
+- [August](../events/august.md) - 5 shared documents
 - [this week](../events/this-week.md) - 5 shared documents
 
 ## Timeline

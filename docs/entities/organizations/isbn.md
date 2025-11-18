@@ -30,25 +30,25 @@ Top 5 documents by mention frequency:
 **Locations:**
 
 - [California](../locations/california.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
 - [Florida](../locations/florida.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
-- [Virginia](../locations/virginia.md) - 4 shared documents
 - [Manhattan](../locations/manhattan.md) - 4 shared documents
 - [Paris](../locations/paris.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 4 shared documents
+- [Virginia](../locations/virginia.md) - 4 shared documents
 
 **Events:**
 
-- [2007](../events/2007.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [2012](../events/2012.md) - 4 shared documents
-- [daily](../events/daily.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
-- [2005](../events/2005.md) - 4 shared documents
-- [one day](../events/one-day.md) - 4 shared documents
-- [weeks](../events/weeks.md) - 4 shared documents
 - [16](../events/16.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
+- [2007](../events/2007.md) - 4 shared documents
+- [2012](../events/2012.md) - 4 shared documents
+- [a few days](../events/a-few-days.md) - 4 shared documents
 - [a year](../events/a-year.md) - 4 shared documents
+- [daily](../events/daily.md) - 4 shared documents
+- [decades](../events/decades.md) - 4 shared documents
+- [every day](../events/every-day.md) - 4 shared documents
+- [one day](../events/one-day.md) - 4 shared documents
 
 ## Timeline
 

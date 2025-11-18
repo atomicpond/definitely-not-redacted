@@ -27,11 +27,11 @@ Top 8 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 4 shared documents
 - [General Partner](../people/general-partner.md) - 4 shared documents
 - [Goldman Sachs](../people/goldman-sachs.md) - 4 shared documents
 - [Harvard University](../people/harvard-university.md) - 4 shared documents
 - [Legal Counsel](../people/legal-counsel.md) - 4 shared documents
-- [President Obama](../people/president-obama.md) - 4 shared documents
 - [Rockefeller University](../people/rockefeller-university.md) - 4 shared documents
 - [Salt Lake City](../people/salt-lake-city.md) - 4 shared documents
 - [San Diego](../people/san-diego.md) - 4 shared documents
@@ -40,29 +40,29 @@ Top 8 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](house.md) - 5 shared documents
 - [Goldman Sachs](goldman-sachs.md) - 5 shared documents
+- [HOUSE](house.md) - 5 shared documents
 - [MIT](mit.md) - 5 shared documents
 - [NYSE](nyse.md) - 4 shared documents
 - [Oracle](oracle.md) - 4 shared documents
 - [Rockefeller University](rockefeller-university.md) - 4 shared documents
 - [Stanford University](stanford-university.md) - 4 shared documents
 - [Supreme Court](supreme-court.md) - 4 shared documents
-- [Harvard University](harvard-university.md) - 4 shared documents
-- [Harvard](harvard.md) - 4 shared documents
+- [eBay](ebay.md) - 4 shared documents
+- [Google](google.md) - 4 shared documents
 
 **Locations:**
 
 - [New York](../locations/new-york.md) - 6 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
 - [Netherlands](../locations/netherlands.md) - 5 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
-- [U.S.](../locations/us.md) - 4 shared documents
+- [Indiana](../locations/indiana.md) - 4 shared documents
 - [Japan](../locations/japan.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
-- [New York City](../locations/new-york-city.md) - 4 shared documents
-- [San Francisco](../locations/san-francisco.md) - 4 shared documents
+- [Latin America](../locations/latin-america.md) - 4 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
 - [Maryland](../locations/maryland.md) - 4 shared documents
+- [New York City](../locations/new-york-city.md) - 4 shared documents
+- [Salt Lake City](../locations/salt-lake-city.md) - 4 shared documents
 
 **Events:**
 

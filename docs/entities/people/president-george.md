@@ -39,9 +39,9 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [US](../locations/us.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
 - [the United States](../locations/the-united-states.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 

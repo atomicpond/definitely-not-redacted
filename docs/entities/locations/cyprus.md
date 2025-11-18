@@ -60,12 +60,12 @@ Top 10 documents by mention frequency:
 - [2003](../events/2003.md) - 13 shared documents
 - [2007](../events/2007.md) - 10 shared documents
 - [last year](../events/last-year.md) - 10 shared documents
-- [2004](../events/2004.md) - 9 shared documents
-- [years](../events/years.md) - 9 shared documents
-- [the year](../events/the-year.md) - 9 shared documents
 - [2001](../events/2001.md) - 9 shared documents
+- [2004](../events/2004.md) - 9 shared documents
 - [Friday](../events/friday.md) - 9 shared documents
-- [1998](../events/1998.md) - 8 shared documents
+- [the year](../events/the-year.md) - 9 shared documents
+- [years](../events/years.md) - 9 shared documents
+- [1995](../events/1995.md) - 8 shared documents
 
 ## Timeline
 

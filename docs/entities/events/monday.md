@@ -28,11 +28,6 @@ Top 10 documents by mention frequency:
 
 ### Most Frequently Co-occurring Entities
 
-**People:**
-
-- [Mr. 
-Trump](../people/trump.md) - 27 shared documents
-
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 70 shared documents

@@ -24,14 +24,14 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [annual](annual.md) - 5 shared documents
 - [2012](2012.md) - 5 shared documents
-- [monthly](monthly.md) - 5 shared documents
+- [annual](annual.md) - 5 shared documents
 - [annually](annually.md) - 5 shared documents
-- [2015](2015.md) - 4 shared documents
+- [monthly](monthly.md) - 5 shared documents
 - [1999](1999.md) - 4 shared documents
-- [five years](five-years.md) - 4 shared documents
+- [2015](2015.md) - 4 shared documents
 - [each year](each-year.md) - 4 shared documents
+- [five years](five-years.md) - 4 shared documents
 
 ## Timeline
 

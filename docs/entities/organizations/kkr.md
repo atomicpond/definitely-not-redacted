@@ -27,9 +27,9 @@ Top 6 documents by mention frequency:
 
 - [Asia Pacific](../people/asia-pacific.md) - 5 shared documents
 - [Goldman Sachs](../people/goldman-sachs.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 4 shared documents
 - [Global Head](../people/global-head.md) - 4 shared documents
 - [Mexico City](../people/mexico-city.md) - 4 shared documents
-- [President Obama](../people/president-obama.md) - 4 shared documents
 - [San Francisco](../people/san-francisco.md) - 4 shared documents
 
 **Organizations:**
@@ -38,21 +38,21 @@ Top 6 documents by mention frequency:
 - [Goldman Sachs](goldman-sachs.md) - 5 shared documents
 - [PayPal](paypal.md) - 4 shared documents
 - [Treasury](treasury.md) - 4 shared documents
-- [HOUSE](house.md) - 4 shared documents
-- [CFO](cfo.md) - 4 shared documents
 - [American Express](american-express.md) - 4 shared documents
 - [Business Development](business-development.md) - 4 shared documents
+- [CFO](cfo.md) - 4 shared documents
 - [First Data](first-data.md) - 4 shared documents
+- [HOUSE](house.md) - 4 shared documents
 
 **Locations:**
 
 - [Japan](../locations/japan.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
-- [U.S.](../locations/us.md) - 4 shared documents
 - [Germany](../locations/germany.md) - 4 shared documents
+- [Latin America](../locations/latin-america.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
 - [New York City](../locations/new-york-city.md) - 4 shared documents
 - [San Francisco](../locations/san-francisco.md) - 4 shared documents
-- [Latin America](../locations/latin-america.md) - 4 shared documents
+- [U.S.](../locations/us.md) - 4 shared documents
 
 **Events:**
 

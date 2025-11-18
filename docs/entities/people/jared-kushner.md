@@ -43,18 +43,18 @@ Trump](donald-trump.md) - 6 shared documents
 - [White House](../organizations/white-house.md) - 6 shared documents
 - [Bloomberg](../organizations/bloomberg.md) - 5 shared documents
 - [Treasury](../organizations/treasury.md) - 5 shared documents
-- [Lexington Avenue](../organizations/lexington-avenue.md) - 4 shared documents
+- [CNN](../organizations/cnn.md) - 4 shared documents
 - [Harvard](../organizations/harvard.md) - 4 shared documents
+- [Lexington Avenue](../organizations/lexington-avenue.md) - 4 shared documents
 - [Richard Kahn 
 HBRK Associates Inc](../organizations/richard-kahn-hbrk-associates-inc.md) - 4 shared documents
-- [CNN](../organizations/cnn.md) - 4 shared documents
 
 **Locations:**
 
 - [Russia](../locations/russia.md) - 5 shared documents
 - [Washington](../locations/washington.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
 - [New York City](../locations/new-york-city.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
 
 **Events:**
 

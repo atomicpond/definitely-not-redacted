@@ -33,36 +33,31 @@ Top 8 documents by mention frequency:
 
 - [Oxford University](../organizations/oxford-university.md) - 8 shared documents
 - [Oxford University Press](../organizations/oxford-university-press.md) - 8 shared documents
-- [Harvard University](../organizations/harvard-university.md) - 7 shared documents
-- [Harvard](../organizations/harvard.md) - 7 shared documents
 - [Cambridge University](../organizations/cambridge-university.md) - 7 shared documents
+- [Harvard](../organizations/harvard.md) - 7 shared documents
+- [Harvard University](../organizations/harvard-university.md) - 7 shared documents
 - [Princeton University](../organizations/princeton-university.md) - 7 shared documents
 
 **Locations:**
 
 - [Cambridge](../locations/cambridge.md) - 8 shared documents
 - [Oxford](../locations/oxford.md) - 8 shared documents
+- [Boston](../locations/boston.md) - 7 shared documents
 - [London](../locations/london.md) - 7 shared documents
 - [the United States](../locations/the-united-states.md) - 7 shared documents
-- [Boston](../locations/boston.md) - 7 shared documents
-- [California](../locations/california.md) - 6 shared documents
-- [Earth](../locations/earth.md) - 6 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
-- [England](../locations/england.md) - 6 shared documents
 
 **Events:**
 
+- [1995](../events/1995.md) - 8 shared documents
 - [1996](../events/1996.md) - 8 shared documents
 - [1997](../events/1997.md) - 8 shared documents
 - [2002](../events/2002.md) - 8 shared documents
-- [1995](../events/1995.md) - 8 shared documents
+- [1973](../events/1973.md) - 7 shared documents
+- [2001](../events/2001.md) - 7 shared documents
 - [2003](../events/2003.md) - 7 shared documents
 - [2004](../events/2004.md) - 7 shared documents
-- [2009](../events/2009.md) - 7 shared documents
-- [today](../events/today.md) - 7 shared documents
-- [years](../events/years.md) - 7 shared documents
-- [2001](../events/2001.md) - 7 shared documents
+- [2006](../events/2006.md) - 7 shared documents
+- [2008](../events/2008.md) - 7 shared documents
 
 ## Timeline
 

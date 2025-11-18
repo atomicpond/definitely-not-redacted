@@ -70,7 +70,7 @@ Top 10 documents by mention frequency:
 - [2003](../events/2003.md) - 15 shared documents
 - [annual](../events/annual.md) - 15 shared documents
 - [the years](../events/the-years.md) - 15 shared documents
-- [daily](../events/daily.md) - 14 shared documents
+- [2008](../events/2008.md) - 14 shared documents
 
 ## Timeline
 

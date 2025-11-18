@@ -14,7 +14,7 @@
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
 - [CLINTON](../entities/people/clinton.md) - 1 mention
 - [Mrs. 
-Gore](../entities/people/mrs-gore.md) - 1 mention
+Gore](../entities/people/gore.md) - 1 mention
 
 ### Organizations
 - [HOUSE](../entities/organizations/house.md) - 2 mentions

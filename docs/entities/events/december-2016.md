@@ -50,9 +50,9 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [2017](2017.md) - 10 shared documents
-- [2018](2018.md) - 8 shared documents
 - [2015](2015.md) - 8 shared documents
 - [2016](2016.md) - 8 shared documents
+- [2018](2018.md) - 8 shared documents
 - [annual](annual.md) - 7 shared documents
 - [many years](many-years.md) - 6 shared documents
 - [the end of 2017](the-end-of-2017.md) - 6 shared documents

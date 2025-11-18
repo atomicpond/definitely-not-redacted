@@ -24,7 +24,7 @@
 - [2017](../entities/events/2017.md) - 1 mention
 - [this week](../entities/events/this-week.md) - 1 mention
 - [May 28, 2017](../entities/events/may-28-2017.md) - 1 mention
-- [5/28/2017](../entities/events/5282017.md) - 1 mention
+- [5/28/2017](../entities/events/5-28-2017.md) - 1 mention
 - [Sunday, May 28](../entities/events/sunday-may-28.md) - 1 mention
 
 ## Document Text

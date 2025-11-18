@@ -33,15 +33,14 @@ Top 10 documents by mention frequency:
 
 - [White House](../people/white-house.md) - 27 shared documents
 - [Middle East](../people/middle-east.md) - 21 shared documents
-- [President Obama](../people/president-obama.md) - 21 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 17 shared documents
 - [Vanity Fair](../people/vanity-fair.md) - 17 shared documents
 - [Daily News](../people/daily-news.md) - 16 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 15 shared documents
-- [Mr. Obama](../people/obama.md) - 15 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 15 shared documents
 - [New Year](../people/new-year.md) - 14 shared documents
+- [Saudi Arabia](../people/saudi-arabia.md) - 14 shared documents
+- [Security Council](../people/security-council.md) - 14 shared documents
+- [Daily Mail](../people/daily-mail.md) - 13 shared documents
+- [New Mexico](../people/new-mexico.md) - 12 shared documents
+- [District Court](../people/district-court.md) - 11 shared documents
 
 **Organizations:**
 
@@ -60,8 +59,8 @@ Trump](../people/trump.md) - 15 shared documents
 
 - [Europe](../locations/europe.md) - 28 shared documents
 - [America](../locations/america.md) - 27 shared documents
-- [New York](../locations/new-york.md) - 25 shared documents
 - [Britain](../locations/britain.md) - 25 shared documents
+- [New York](../locations/new-york.md) - 25 shared documents
 - [US](../locations/us.md) - 23 shared documents
 - [China](../locations/china.md) - 22 shared documents
 - [Manhattan](../locations/manhattan.md) - 22 shared documents

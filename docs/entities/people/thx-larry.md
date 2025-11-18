@@ -34,9 +34,8 @@ Top 10 documents by mention frequency:
 - [Larry Visoski](larry-visoski.md) - 24 shared documents
 - [Larry Visoski 
 Sent](larry-visoski-sent.md) - 18 shared documents
-- [Mr. 
-Trump](trump.md) - 6 shared documents
-- [President Trump](president-trump.md) - 4 shared documents
+- [Donald 
+Trump](donald-trump.md) - 4 shared documents
 
 **Organizations:**
 

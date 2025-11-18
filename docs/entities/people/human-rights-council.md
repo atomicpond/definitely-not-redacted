@@ -42,9 +42,9 @@ Top 8 documents by mention frequency:
 **Events:**
 
 - [this year](../events/this-year.md) - 6 shared documents
+- [about a year](../events/about-a-year.md) - 5 shared documents
 - [today](../events/today.md) - 5 shared documents
 - [tomorrow](../events/tomorrow.md) - 5 shared documents
-- [about a year](../events/about-a-year.md) - 5 shared documents
 - [early September](../events/early-september.md) - 4 shared documents
 
 ## Timeline

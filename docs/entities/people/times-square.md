@@ -40,29 +40,29 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [the United States](../locations/the-united-states.md) - 11 shared documents
 - [New York City](../locations/new-york-city.md) - 11 shared documents
 - [Paris](../locations/paris.md) - 11 shared documents
-- [London](../locations/london.md) - 10 shared documents
+- [the United States](../locations/the-united-states.md) - 11 shared documents
 - [Florida](../locations/florida.md) - 10 shared documents
+- [London](../locations/london.md) - 10 shared documents
 - [Manhattan](../locations/manhattan.md) - 10 shared documents
 - [Massachusetts](../locations/massachusetts.md) - 10 shared documents
-- [New York](../locations/new-york.md) - 9 shared documents
+- [Brooklyn](../locations/brooklyn.md) - 9 shared documents
 - [California](../locations/california.md) - 9 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 9 shared documents
+- [England](../locations/england.md) - 9 shared documents
 
 **Events:**
 
 - [2011](../events/2011.md) - 13 shared documents
-- [2010](../events/2010.md) - 11 shared documents
 - [1995](../events/1995.md) - 11 shared documents
+- [2010](../events/2010.md) - 11 shared documents
+- [1989](../events/1989.md) - 10 shared documents
+- [1997](../events/1997.md) - 10 shared documents
+- [2000](../events/2000.md) - 10 shared documents
 - [2003](../events/2003.md) - 10 shared documents
 - [2009](../events/2009.md) - 10 shared documents
-- [2000](../events/2000.md) - 10 shared documents
-- [years](../events/years.md) - 10 shared documents
-- [1997](../events/1997.md) - 10 shared documents
-- [1989](../events/1989.md) - 10 shared documents
 - [the day](../events/the-day.md) - 10 shared documents
+- [years](../events/years.md) - 10 shared documents
 
 ## Timeline
 

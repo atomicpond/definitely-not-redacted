@@ -27,9 +27,8 @@ Top 8 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Cold War](../people/cold-war.md) - 6 shared documents
-- [President Obama](../people/president-obama.md) - 6 shared documents
-- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Los Angeles](../people/los-angeles.md) - 5 shared documents
 - [Middle East](../people/middle-east.md) - 5 shared documents
 
@@ -47,23 +46,23 @@ Top 8 documents by mention frequency:
 - [Russia](russia.md) - 7 shared documents
 - [United States](united-states.md) - 7 shared documents
 - [Washington](washington.md) - 7 shared documents
+- [America](america.md) - 7 shared documents
 - [China](china.md) - 7 shared documents
 - [Germany](germany.md) - 7 shared documents
-- [America](america.md) - 7 shared documents
 - [Jerusalem](jerusalem.md) - 6 shared documents
 
 **Events:**
 
 - [2009](../events/2009.md) - 7 shared documents
-- [today](../events/today.md) - 7 shared documents
 - [2012](../events/2012.md) - 7 shared documents
-- [years](../events/years.md) - 6 shared documents
-- [2011](../events/2011.md) - 6 shared documents
-- [2010](../events/2010.md) - 6 shared documents
-- [months](../events/months.md) - 6 shared documents
-- [2006](../events/2006.md) - 6 shared documents
-- [2013](../events/2013.md) - 6 shared documents
+- [today](../events/today.md) - 7 shared documents
+- [1945](../events/1945.md) - 6 shared documents
+- [1948](../events/1948.md) - 6 shared documents
 - [1972](../events/1972.md) - 6 shared documents
+- [2006](../events/2006.md) - 6 shared documents
+- [2010](../events/2010.md) - 6 shared documents
+- [2011](../events/2011.md) - 6 shared documents
+- [2013](../events/2013.md) - 6 shared documents
 
 ## Timeline
 

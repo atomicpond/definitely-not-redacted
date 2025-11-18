@@ -14,7 +14,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Obama](../entities/people/mr-obama.md) - 6 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 6 mentions
 - [White House](../entities/people/white-house.md) - 2 mentions
 - [Los Angeles Times](../entities/people/los-angeles-times.md) - 2 mentions
 - [President Obama](../entities/people/president-obama.md) - 1 mention
@@ -25,7 +25,7 @@
 York](../entities/people/new-york.md) - 1 mention
 - [Great Britain](../entities/people/great-britain.md) - 1 mention
 - [Mr. 
-President](../entities/people/mr-president.md) - 1 mention
+President](../entities/people/president.md) - 1 mention
 
 ### Organizations
 - [Cabinet](../entities/organizations/cabinet.md) - 6 mentions

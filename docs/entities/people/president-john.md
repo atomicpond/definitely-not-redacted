@@ -29,31 +29,31 @@ Top 6 documents by mention frequency:
 
 **Organizations:**
 
+- [Google](../organizations/google.md) - 4 shared documents
+- [New York Times](../organizations/new-york-times.md) - 4 shared documents
 - [Senate](../organizations/senate.md) - 4 shared documents
-- [Times](../organizations/times.md) - 4 shared documents
 - [the New York Times](../organizations/the-new-york-times.md) - 4 shared documents
 - [The New Yorker](../organizations/the-new-yorker.md) - 4 shared documents
-- [New York Times](../organizations/new-york-times.md) - 4 shared documents
-- [Google](../organizations/google.md) - 4 shared documents
+- [Times](../organizations/times.md) - 4 shared documents
 
 **Locations:**
 
 - [Japan](../locations/japan.md) - 5 shared documents
 - [Massachusetts](../locations/massachusetts.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
-- [London](../locations/london.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
-- [France](../locations/france.md) - 4 shared documents
-- [Iran](../locations/iran.md) - 4 shared documents
 - [Boston](../locations/boston.md) - 4 shared documents
+- [France](../locations/france.md) - 4 shared documents
+- [Germany](../locations/germany.md) - 4 shared documents
+- [Iran](../locations/iran.md) - 4 shared documents
+- [London](../locations/london.md) - 4 shared documents
 
 **Events:**
 
 - [1978](../events/1978.md) - 5 shared documents
-- [October](../events/october.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
 - [2000](../events/2000.md) - 4 shared documents
+- [October](../events/october.md) - 4 shared documents
 - [this year](../events/this-year.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 - [weekly](../events/weekly.md) - 4 shared documents
 
 ## Timeline

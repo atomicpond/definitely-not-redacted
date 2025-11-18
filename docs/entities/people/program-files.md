@@ -35,35 +35,35 @@ Office](microsoft-office.md) - 5 shared documents
 - [Microsoft Shared](microsoft-shared.md) - 5 shared documents
 - [Microsoft Word](microsoft-word.md) - 5 shared documents
 - [Object Library](object-library.md) - 5 shared documents
-- [Barack Obama](barack-obama.md) - 4 shared documents
 
 **Organizations:**
 
 - [Congress](../organizations/congress.md) - 5 shared documents
-- [Hamas](../organizations/hamas.md) - 5 shared documents
 - [Files\Common Files\Microsoft Shared\OFFICE12\MSO.DLL#Microsoft Office](../organizations/filescommon-filesmicrosoft-sharedoffice12msodllmicrosoft-office.md) - 5 shared documents
+- [Hamas](../organizations/hamas.md) - 5 shared documents
 - [Object Library](../organizations/object-library.md) - 5 shared documents
 - [OLE Aut](../organizations/ole-aut.md) - 5 shared documents
 - [tem](../organizations/tem.md) - 5 shared documents
-- [State](../organizations/state.md) - 4 shared documents
 
 **Locations:**
 
 - [China](../locations/china.md) - 6 shared documents
 - [Iraq](../locations/iraq.md) - 6 shared documents
 - [Syria](../locations/syria.md) - 6 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [Brazil](../locations/brazil.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [Brazil](../locations/brazil.md) - 5 shared documents
+- [Egypt](../locations/egypt.md) - 5 shared documents
 - [France](../locations/france.md) - 5 shared documents
+- [India](../locations/india.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
+- [Israel](../locations/israel.md) - 5 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
 - [0000-0000-C000-000000000046};Word8.0;&H00000000](../events/0000-0000-c000-000000000046word80h00000000.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
+- [decades](../events/decades.md) - 4 shared documents
+- [September](../events/september.md) - 4 shared documents
 
 ## Timeline
 

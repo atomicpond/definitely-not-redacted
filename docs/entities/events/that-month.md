@@ -32,16 +32,16 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [daily](daily.md) - 5 shared documents
 - [1990](1990.md) - 5 shared documents
+- [daily](daily.md) - 5 shared documents
+- [1991](1991.md) - 4 shared documents
+- [1995](1995.md) - 4 shared documents
+- [2002](2002.md) - 4 shared documents
 - [2003](2003.md) - 4 shared documents
 - [2004](2004.md) - 4 shared documents
-- [annual](annual.md) - 4 shared documents
-- [monthly](monthly.md) - 4 shared documents
 - [2005](2005.md) - 4 shared documents
-- [Friday](friday.md) - 4 shared documents
-- [months](months.md) - 4 shared documents
-- [2002](2002.md) - 4 shared documents
+- [a year](a-year.md) - 4 shared documents
+- [annual](annual.md) - 4 shared documents
 
 ## Timeline
 

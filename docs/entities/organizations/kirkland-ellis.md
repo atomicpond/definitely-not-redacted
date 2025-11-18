@@ -34,18 +34,18 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [the United States](../locations/the-united-states.md) - 4 shared documents
 - [New Mexico](../locations/new-mexico.md) - 4 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 4 shared documents
 
 **Events:**
 
-- [2007](../events/2007.md) - 4 shared documents
-- [2015](../events/2015.md) - 4 shared documents
-- [2011](../events/2011.md) - 4 shared documents
-- [2006](../events/2006.md) - 4 shared documents
 - [1995](../events/1995.md) - 4 shared documents
+- [2006](../events/2006.md) - 4 shared documents
+- [2007](../events/2007.md) - 4 shared documents
+- [2011](../events/2011.md) - 4 shared documents
+- [2015](../events/2015.md) - 4 shared documents
 
 ## Timeline
 

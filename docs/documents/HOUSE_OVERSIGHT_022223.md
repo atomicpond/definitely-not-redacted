@@ -41,7 +41,7 @@ He](../entities/people/mystery-he.md) - 1 mention
 - [weekly](../entities/events/weekly.md) - 1 mention
 - [this day](../entities/events/this-day.md) - 1 mention
 - [December 16, 2010](../entities/events/december-16-2010.md) - 1 mention
-- [12/16/2010](../entities/events/12162010.md) - 1 mention
+- [12/16/2010](../entities/events/12-16-2010.md) - 1 mention
 - [January 20, 1953](../entities/events/january-20-1953.md) - 1 mention
 - [Dec 2](../entities/events/dec-2.md) - 1 mention
 

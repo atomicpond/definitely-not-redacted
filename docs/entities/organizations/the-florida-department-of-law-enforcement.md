@@ -39,33 +39,32 @@ Top 6 documents by mention frequency:
 - [State](state.md) - 6 shared documents
 - [Court](court.md) - 5 shared documents
 - [FDLE](fdle.md) - 5 shared documents
-- [District Court](district-court.md) - 4 shared documents
 
 **Locations:**
 
 - [Florida](../locations/florida.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 6 shared documents
-- [U.S.](../locations/us.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
-- [London](../locations/london.md) - 5 shared documents
 - [Jordan](../locations/jordan.md) - 5 shared documents
+- [London](../locations/london.md) - 5 shared documents
 - [South America](../locations/south-america.md) - 5 shared documents
 - [the Southern District](../locations/the-southern-district.md) - 5 shared documents
+- [U.S.](../locations/us.md) - 5 shared documents
+- [United States](../locations/united-states.md) - 5 shared documents
+- [Virginia](../locations/virginia.md) - 5 shared documents
 
 **Events:**
 
+- [2001](../events/2001.md) - 6 shared documents
 - [2004](../events/2004.md) - 6 shared documents
 - [2007](../events/2007.md) - 6 shared documents
-- [2001](../events/2001.md) - 6 shared documents
-- [2015](../events/2015.md) - 5 shared documents
-- [that day](../events/that-day.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [2012](../events/2012.md) - 5 shared documents
-- [2011](../events/2011.md) - 5 shared documents
 - [1990](../events/1990.md) - 5 shared documents
 - [1999](../events/1999.md) - 5 shared documents
+- [2008](../events/2008.md) - 5 shared documents
+- [2010](../events/2010.md) - 5 shared documents
+- [2011](../events/2011.md) - 5 shared documents
+- [2012](../events/2012.md) - 5 shared documents
+- [2015](../events/2015.md) - 5 shared documents
 
 ## Timeline
 

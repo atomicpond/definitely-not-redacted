@@ -38,10 +38,9 @@ Top 10 documents by mention frequency:
 - [Landon 
 Sent](../people/landon-sent.md) - 43 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 39 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 37 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 31 shared documents
 - [jeffrey E. <](../people/jeffrey-e.md) - 30 shared documents
+- [White House](../people/white-house.md) - 29 shared documents
+- [Thomas Jr.](../people/thomas-jr.md) - 20 shared documents
 
 **Organizations:**
 
@@ -59,15 +58,15 @@ Trump](../people/trump.md) - 37 shared documents
 **Locations:**
 
 - [New York](../locations/new-york.md) - 36 shared documents
-- [Washington](../locations/washington.md) - 33 shared documents
 - [London](../locations/london.md) - 33 shared documents
+- [Washington](../locations/washington.md) - 33 shared documents
 - [France](../locations/france.md) - 32 shared documents
-- [the United States](../locations/the-united-states.md) - 29 shared documents
 - [Paris](../locations/paris.md) - 29 shared documents
+- [the United States](../locations/the-united-states.md) - 29 shared documents
 - [China](../locations/china.md) - 28 shared documents
 - [Japan](../locations/japan.md) - 25 shared documents
 - [Russia](../locations/russia.md) - 25 shared documents
-- [United States](../locations/united-states.md) - 24 shared documents
+- [Europe](../locations/europe.md) - 24 shared documents
 
 **Events:**
 
@@ -75,12 +74,12 @@ Trump](../people/trump.md) - 37 shared documents
 - [years](../events/years.md) - 33 shared documents
 - [2016](../events/2016.md) - 27 shared documents
 - [2000](../events/2000.md) - 26 shared documents
-- [last week](../events/last-week.md) - 26 shared documents
-- [2010](../events/2010.md) - 26 shared documents
 - [2006](../events/2006.md) - 26 shared documents
+- [2010](../events/2010.md) - 26 shared documents
+- [last week](../events/last-week.md) - 26 shared documents
 - [2011](../events/2011.md) - 25 shared documents
+- [2008](../events/2008.md) - 24 shared documents
 - [2009](../events/2009.md) - 24 shared documents
-- [2012](../events/2012.md) - 24 shared documents
 
 ## Timeline
 

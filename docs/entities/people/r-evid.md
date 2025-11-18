@@ -37,30 +37,27 @@ Top 7 documents by mention frequency:
 - [Fed](../organizations/fed.md) - 7 shared documents
 - [Court](../organizations/court.md) - 5 shared documents
 - [State](../organizations/state.md) - 5 shared documents
-- [HOUSE](../organizations/house.md) - 4 shared documents
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 7 shared documents
 - [S.D.](../locations/sd.md) - 7 shared documents
+- [United States](../locations/united-states.md) - 7 shared documents
 - [New York](../locations/new-york.md) - 6 shared documents
 - [U.S.](../locations/us.md) - 6 shared documents
 - [Virginia](../locations/virginia.md) - 6 shared documents
-- [Utah](../locations/utah.md) - 5 shared documents
 - [Fla.](../locations/fla.md) - 5 shared documents
 - [N.D.](../locations/nd.md) - 5 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [Florida](../locations/florida.md) - 4 shared documents
+- [Utah](../locations/utah.md) - 5 shared documents
 
 **Events:**
 
 - [1989](../events/1989.md) - 7 shared documents
-- [1996](../events/1996.md) - 6 shared documents
-- [1993](../events/1993.md) - 6 shared documents
-- [2001](../events/2001.md) - 6 shared documents
-- [1984](../events/1984.md) - 6 shared documents
-- [2002](../events/2002.md) - 6 shared documents
 - [1976](../events/1976.md) - 6 shared documents
+- [1984](../events/1984.md) - 6 shared documents
+- [1993](../events/1993.md) - 6 shared documents
+- [1996](../events/1996.md) - 6 shared documents
+- [2001](../events/2001.md) - 6 shared documents
+- [2002](../events/2002.md) - 6 shared documents
 - [1985](../events/1985.md) - 5 shared documents
 - [1998](../events/1998.md) - 5 shared documents
 - [1999](../events/1999.md) - 5 shared documents

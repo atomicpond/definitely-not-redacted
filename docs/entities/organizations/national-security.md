@@ -30,17 +30,16 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 11 shared documents
-- [Michael Flynn](../people/michael-flynn.md) - 7 shared documents
 - [Breitbart News](../people/breitbart-news.md) - 6 shared documents
 - [Sergey Kislyak](../people/sergey-kislyak.md) - 6 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 6 shared documents
 - [Adrienne Ross](../people/adrienne-ross.md) - 5 shared documents
 - [As Dangerous](../people/as-dangerous.md) - 5 shared documents
 - [Big Government](../people/big-government.md) - 5 shared documents
 - [Donald 
 Trump](../people/donald-trump.md) - 5 shared documents
-- [flynn](../people/flynn.md) - 5 shared documents
+- [Follow Thomas](../people/follow-thomas.md) - 5 shared documents
+- [Frances Martel](../people/frances-martel.md) - 5 shared documents
+- [He Is](../people/he-is.md) - 5 shared documents
 
 **Organizations:**
 
@@ -50,9 +49,9 @@ Trump](../people/donald-trump.md) - 5 shared documents
 - [Congress](congress.md) - 7 shared documents
 - [FBI](fbi.md) - 7 shared documents
 - [Trump](trump.md) - 6 shared documents
-- [Facebook](facebook.md) - 6 shared documents
-- [Comey](comey.md) - 6 shared documents
 - [Breitbart News](breitbart-news.md) - 6 shared documents
+- [Comey](comey.md) - 6 shared documents
+- [Facebook](facebook.md) - 6 shared documents
 - [Stamper](stamper.md) - 5 shared documents
 
 **Locations:**
@@ -60,25 +59,25 @@ Trump](../people/donald-trump.md) - 5 shared documents
 - [Russia](../locations/russia.md) - 10 shared documents
 - [Germany](../locations/germany.md) - 9 shared documents
 - [Italy](../locations/italy.md) - 7 shared documents
-- [USA](../locations/usa.md) - 6 shared documents
 - [France](../locations/france.md) - 6 shared documents
 - [Hungary](../locations/hungary.md) - 6 shared documents
 - [US](../locations/us.md) - 6 shared documents
+- [USA](../locations/usa.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
+- [America](../locations/america.md) - 4 shared documents
+- [Iraq](../locations/iraq.md) - 4 shared documents
 
 **Events:**
 
 - [April](../events/april.md) - 6 shared documents
 - [every day](../events/every-day.md) - 6 shared documents
 - [week](../events/week.md) - 6 shared documents
-- [May](../events/may.md) - 5 shared documents
-- [Friday](../events/friday.md) - 5 shared documents
-- [November](../events/november.md) - 5 shared documents
 - [16 months](../events/16-months.md) - 5 shared documents
+- [Friday](../events/friday.md) - 5 shared documents
 - [June](../events/june.md) - 5 shared documents
 - [March 11, 2018](../events/march-11-2018.md) - 5 shared documents
+- [May](../events/may.md) - 5 shared documents
+- [November](../events/november.md) - 5 shared documents
 - [the last
 few weeks](../events/the-last-few-weeks.md) - 5 shared documents
 

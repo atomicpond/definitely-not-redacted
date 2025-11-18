@@ -35,7 +35,7 @@ Powell](elisa-new-powell.md) - 7 shared documents
 - [Harvard University](harvard-university.md) - 7 shared documents
 - [Lisa New](lisa-new.md) - 7 shared documents
 - [Barker Center](barker-center.md) - 7 shared documents
-- [Lawrence Summers](lawrence-summers.md) - 6 shared documents
+- [Larry Summers](larry-summers.md) - 6 shared documents
 - [Powell M. Cabot](powell-m-cabot.md) - 6 shared documents
 - [Ray Dalio](ray-dalio.md) - 6 shared documents
 - [Robert Frost](robert-frost.md) - 6 shared documents
@@ -61,13 +61,13 @@ Harvard University](../organizations/cabot-professor-of-american-literature-harv
 - [12 Quincy Street](../locations/12-quincy-street.md) - 6 shared documents
 - [Amherst](../locations/amherst.md) - 6 shared documents
 - [Vermont](../locations/vermont.md) - 6 shared documents
+- [Aspen](../locations/aspen.md) - 5 shared documents
+- [Boston](../locations/boston.md) - 5 shared documents
 - [California](../locations/california.md) - 5 shared documents
+- [Massachusetts](../locations/massachusetts.md) - 5 shared documents
+- [Nantucket](../locations/nantucket.md) - 5 shared documents
 - [Street 
 Cambridge, MA](../locations/street-cambridge-ma.md) - 5 shared documents
-- [Massachusetts](../locations/massachusetts.md) - 5 shared documents
-- [Boston](../locations/boston.md) - 5 shared documents
-- [Nantucket](../locations/nantucket.md) - 5 shared documents
-- [Aspen](../locations/aspen.md) - 5 shared documents
 
 ## Timeline
 

@@ -26,7 +26,7 @@ Top 5 documents by mention frequency:
 
 - [Esq](esq.md) - 5 shared documents
 - [Tonja Haddad Coleman](tonja-haddad-coleman.md) - 5 shared documents
-- [Bradley Edwards](bradley-edwards.md) - 4 shared documents
+- [Brad Edwards](brad-edwards.md) - 4 shared documents
 
 **Organizations:**
 
@@ -34,16 +34,16 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 4 shared documents
-- [London](../locations/london.md) - 4 shared documents
 - [England](../locations/england.md) - 4 shared documents
+- [London](../locations/london.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
-- [Saturday](../events/saturday.md) - 4 shared documents
 - [age 17](../events/age-17.md) - 4 shared documents
+- [Saturday](../events/saturday.md) - 4 shared documents
+- [Sunday](../events/sunday.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

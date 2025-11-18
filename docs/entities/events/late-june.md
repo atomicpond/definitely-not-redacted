@@ -34,12 +34,12 @@ Top 6 documents by mention frequency:
 **Events:**
 
 - [daily](daily.md) - 5 shared documents
-- [annual](annual.md) - 4 shared documents
 - [2000](2000.md) - 4 shared documents
 - [2012](2012.md) - 4 shared documents
-- [Friday](friday.md) - 4 shared documents
+- [annual](annual.md) - 4 shared documents
 - [April](april.md) - 4 shared documents
 - [February](february.md) - 4 shared documents
+- [Friday](friday.md) - 4 shared documents
 
 ## Timeline
 

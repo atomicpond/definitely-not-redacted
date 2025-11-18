@@ -35,18 +35,18 @@ Top 6 documents by mention frequency:
 - [Private Investments](private-investments.md) - 6 shared documents
 - [SIPC](sipc.md) - 6 shared documents
 - [the Federal Deposit Insurance Corporation](the-federal-deposit-insurance-corporation.md) - 6 shared documents
-- [Bank](bank.md) - 6 shared documents
-- [FINRA](finra.md) - 6 shared documents
-- [FDIC](fdic.md) - 6 shared documents
 - [Balanced Model Portfolios](balanced-model-portfolios.md) - 6 shared documents
+- [Bank](bank.md) - 6 shared documents
+- [FDIC](fdic.md) - 6 shared documents
+- [FINRA](finra.md) - 6 shared documents
 
 **Locations:**
 
 - [Asia](../locations/asia.md) - 5 shared documents
-- [Italy](../locations/italy.md) - 5 shared documents
 - [Greece](../locations/greece.md) - 5 shared documents
-- [Spain](../locations/spain.md) - 4 shared documents
+- [Italy](../locations/italy.md) - 5 shared documents
 - [Ireland](../locations/ireland.md) - 4 shared documents
+- [Spain](../locations/spain.md) - 4 shared documents
 
 **Events:**
 

@@ -60,11 +60,11 @@ Top 10 documents by mention frequency:
 
 - [today](today.md) - 19 shared documents
 - [two years](two-years.md) - 15 shared documents
+- [2006](2006.md) - 15 shared documents
 - [annual](annual.md) - 15 shared documents
 - [daily](daily.md) - 15 shared documents
-- [last year](last-year.md) - 15 shared documents
-- [2006](2006.md) - 15 shared documents
 - [five years](five-years.md) - 15 shared documents
+- [last year](last-year.md) - 15 shared documents
 - [Sunday](sunday.md) - 14 shared documents
 - [years](years.md) - 14 shared documents
 - [2004](2004.md) - 14 shared documents

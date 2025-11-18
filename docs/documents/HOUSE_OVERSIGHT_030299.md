@@ -17,7 +17,7 @@
 Beach](../entities/people/palm-beach.md) - 20 mentions
 - [Lefcourt](../entities/people/lefcourt.md) - 10 mentions
 - [Mr. 
-Dershowitz](../entities/people/mr-dershowitz.md) - 9 mentions
+Dershowitz](../entities/people/alan-dershowitz.md) - 9 mentions
 - [Jack Goldberger](../entities/people/jack-goldberger.md) - 6 mentions
 - [Michael Reiter](../entities/people/michael-reiter.md) - 5 mentions
 - [New

@@ -43,16 +43,16 @@ Top 7 documents by mention frequency:
 
 **Events:**
 
-- [2003](2003.md) - 6 shared documents
-- [2000](2000.md) - 6 shared documents
 - [1998](1998.md) - 6 shared documents
+- [2000](2000.md) - 6 shared documents
 - [2002](2002.md) - 6 shared documents
+- [2003](2003.md) - 6 shared documents
 - [the years](the-years.md) - 5 shared documents
 - [today](today.md) - 5 shared documents
-- [2009](2009.md) - 5 shared documents
+- [1994](1994.md) - 5 shared documents
 - [1997](1997.md) - 5 shared documents
 - [1999](1999.md) - 5 shared documents
-- [1994](1994.md) - 5 shared documents
+- [2009](2009.md) - 5 shared documents
 
 ## Timeline
 

@@ -33,7 +33,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jack Goldberger](../people/jack-goldberger.md) - 29 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 27 shared documents
 - [New Mexico](../people/new-mexico.md) - 26 shared documents
 - [Kenneth Starr](../people/kenneth-starr.md) - 25 shared documents
 - [Jane Doe](../people/jane-doe.md) - 24 shared documents
@@ -41,7 +40,8 @@ Top 10 documents by mention frequency:
 - [Jack Scarola](../people/jack-scarola.md) - 22 shared documents
 - [Michael Reiter](../people/michael-reiter.md) - 21 shared documents
 - [Sarah Kellen](../people/sarah-kellen.md) - 21 shared documents
-- [Epstein](../people/epstein.md) - 19 shared documents
+- [Crime Victims](../people/crime-victims.md) - 18 shared documents
+- [Rights Act](../people/rights-act.md) - 18 shared documents
 
 **Organizations:**
 
@@ -67,7 +67,7 @@ Top 10 documents by mention frequency:
 - [United States](united-states.md) - 29 shared documents
 - [New Mexico](new-mexico.md) - 26 shared documents
 - [the Southern District](the-southern-district.md) - 23 shared documents
-- [Manhattan](manhattan.md) - 22 shared documents
+- [Fort Lauderdale](fort-lauderdale.md) - 22 shared documents
 
 **Events:**
 
@@ -75,12 +75,12 @@ Top 10 documents by mention frequency:
 - [today](../events/today.md) - 31 shared documents
 - [2006](../events/2006.md) - 29 shared documents
 - [2007](../events/2007.md) - 28 shared documents
-- [Tuesday](../events/tuesday.md) - 25 shared documents
 - [14](../events/14.md) - 25 shared documents
+- [Tuesday](../events/tuesday.md) - 25 shared documents
+- [18 months](../events/18-months.md) - 24 shared documents
 - [2009](../events/2009.md) - 24 shared documents
 - [last year](../events/last-year.md) - 24 shared documents
-- [18 months](../events/18-months.md) - 24 shared documents
-- [Monday](../events/monday.md) - 22 shared documents
+- [2010](../events/2010.md) - 22 shared documents
 
 ## Timeline
 

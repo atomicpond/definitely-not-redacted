@@ -26,10 +26,10 @@ Top 5 documents by mention frequency:
 
 - [Fox News](../people/fox-news.md) - 5 shared documents
 - [White House](../people/white-house.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 4 shared documents
 - [Goldman Sachs](../people/goldman-sachs.md) - 4 shared documents
 - [Karl Rove](../people/karl-rove.md) - 4 shared documents
 - [Peter Thiel](../people/peter-thiel.md) - 4 shared documents
-- [President Obama](../people/president-obama.md) - 4 shared documents
 - [San Francisco](../people/san-francisco.md) - 4 shared documents
 
 **Organizations:**
@@ -47,23 +47,23 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Germany](../locations/germany.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [Germany](../locations/germany.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
-- [Iraq](../locations/iraq.md) - 4 shared documents
-- [San Francisco](../locations/san-francisco.md) - 4 shared documents
-- [Maryland](../locations/maryland.md) - 4 shared documents
 - [Afghanistan](../locations/afghanistan.md) - 4 shared documents
+- [Iraq](../locations/iraq.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
+- [Maryland](../locations/maryland.md) - 4 shared documents
+- [San Francisco](../locations/san-francisco.md) - 4 shared documents
 
 **Events:**
 
 - [2007](../events/2007.md) - 4 shared documents
 - [2009](../events/2009.md) - 4 shared documents
-- [2014](../events/2014.md) - 4 shared documents
 - [2011](../events/2011.md) - 4 shared documents
 - [2013](../events/2013.md) - 4 shared documents
+- [2014](../events/2014.md) - 4 shared documents
 - [weekly](../events/weekly.md) - 4 shared documents
 
 ## Timeline

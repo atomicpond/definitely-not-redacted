@@ -57,8 +57,8 @@ Top 10 documents by mention frequency:
 - [Monday](monday.md) - 6 shared documents
 - [tomorrow](tomorrow.md) - 6 shared documents
 - [Feb.](feb..md) - 6 shared documents
-- [1/9/2015](1/9/2015.md) - 5 shared documents
-- [1/10/2015](1/10/2015.md) - 5 shared documents
+- **1/9/2015** - 5 shared documents
+- **1/10/2015** - 5 shared documents
 - [past five years](past-five-years.md) - 4 shared documents
 - [a 21st century](a-21st-century.md) - 4 shared documents
 

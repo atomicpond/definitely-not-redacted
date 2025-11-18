@@ -29,14 +29,13 @@ Top 10 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Harvard University](../people/harvard-university.md) - 7 shared documents
 - [Los Angeles](../people/los-angeles.md) - 7 shared documents
-- [President Obama](../people/president-obama.md) - 7 shared documents
 - [Columbia University](../people/columbia-university.md) - 6 shared documents
 - [Los Angeles Times](../people/los-angeles-times.md) - 6 shared documents
 - [Middle East](../people/middle-east.md) - 6 shared documents
 - [San Francisco](../people/san-francisco.md) - 6 shared documents
-- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Rockefeller University](../people/rockefeller-university.md) - 5 shared documents
 - [Vanity Fair](../people/vanity-fair.md) - 5 shared documents
 
@@ -55,26 +54,26 @@ Top 10 documents by mention frequency:
 
 - [Germany](../locations/germany.md) - 14 shared documents
 - [Russia](../locations/russia.md) - 13 shared documents
+- [India](../locations/india.md) - 12 shared documents
 - [Japan](../locations/japan.md) - 12 shared documents
 - [the United States](../locations/the-united-states.md) - 12 shared documents
-- [India](../locations/india.md) - 12 shared documents
+- [Australia](../locations/australia.md) - 11 shared documents
 - [California](../locations/california.md) - 11 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 11 shared documents
-- [United States](../locations/united-states.md) - 11 shared documents
 - [China](../locations/china.md) - 11 shared documents
 - [Europe](../locations/europe.md) - 11 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 11 shared documents
 
 **Events:**
 
 - [1997](../events/1997.md) - 13 shared documents
 - [1999](../events/1999.md) - 13 shared documents
-- [2015](../events/2015.md) - 12 shared documents
-- [2012](../events/2012.md) - 12 shared documents
 - [1982](../events/1982.md) - 12 shared documents
 - [1995](../events/1995.md) - 12 shared documents
+- [2012](../events/2012.md) - 12 shared documents
+- [2015](../events/2015.md) - 12 shared documents
 - [2003](../events/2003.md) - 11 shared documents
-- [today](../events/today.md) - 11 shared documents
 - [daily](../events/daily.md) - 11 shared documents
+- [today](../events/today.md) - 11 shared documents
 - [years](../events/years.md) - 11 shared documents
 
 ## Timeline

@@ -29,9 +29,9 @@ Top 6 documents by mention frequency:
 
 **Events:**
 
-- [daily](daily.md) - 5 shared documents
-- [2005](2005.md) - 5 shared documents
 - [1994](1994.md) - 5 shared documents
+- [2005](2005.md) - 5 shared documents
+- [daily](daily.md) - 5 shared documents
 - [25](25.md) - 4 shared documents
 
 ## Timeline

@@ -29,12 +29,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 38 shared documents
-- [Bill 
-Clinton](../people/bill-clinton.md) - 30 shared documents
 - [Robert Maxwell](../people/robert-maxwell.md) - 29 shared documents
-- [Epstein](../people/epstein.md) - 28 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 26 shared documents
 - [Jimmy Cayne](../people/jimmy-cayne.md) - 26 shared documents
 - [Prince 
 Andrew](../people/prince-andrew.md) - 26 shared documents
@@ -73,8 +68,8 @@ Andrew](../people/prince-andrew.md) - 26 shared documents
 - [2010](../events/2010.md) - 48 shared documents
 - [2009](../events/2009.md) - 45 shared documents
 - [a year](../events/a-year.md) - 44 shared documents
-- [last week](../events/last-week.md) - 43 shared documents
 - [2011](../events/2011.md) - 43 shared documents
+- [last week](../events/last-week.md) - 43 shared documents
 - [many years](../events/many-years.md) - 43 shared documents
 
 ## Timeline

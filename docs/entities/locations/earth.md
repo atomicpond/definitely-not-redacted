@@ -30,7 +30,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 18 shared documents
 - [Cold War](../people/cold-war.md) - 17 shared documents
 - [Middle East](../people/middle-east.md) - 16 shared documents
 - [San Francisco](../people/san-francisco.md) - 14 shared documents
@@ -64,13 +63,13 @@ Top 10 documents by mention frequency:
 - [years](../events/years.md) - 27 shared documents
 - [decades](../events/decades.md) - 25 shared documents
 - [the day](../events/the-day.md) - 24 shared documents
-- [today](../events/today.md) - 22 shared documents
-- [daily](../events/daily.md) - 22 shared documents
 - [1991](../events/1991.md) - 22 shared documents
+- [daily](../events/daily.md) - 22 shared documents
+- [today](../events/today.md) - 22 shared documents
 - [2013](../events/2013.md) - 20 shared documents
 - [2009](../events/2009.md) - 19 shared documents
+- [1999](../events/1999.md) - 18 shared documents
 - [2004](../events/2004.md) - 18 shared documents
-- [2012](../events/2012.md) - 18 shared documents
 
 ## Timeline
 

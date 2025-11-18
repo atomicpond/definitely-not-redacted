@@ -46,10 +46,10 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [next year](next-year.md) - 5 shared documents
-- [July](july.md) - 5 shared documents
 - [five years](five-years.md) - 5 shared documents
 - [January](january.md) - 5 shared documents
+- [July](july.md) - 5 shared documents
+- [next year](next-year.md) - 5 shared documents
 - [September](september.md) - 4 shared documents
 - [the day](the-day.md) - 4 shared documents
 - [the past year](the-past-year.md) - 4 shared documents

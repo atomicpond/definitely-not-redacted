@@ -32,8 +32,8 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [the next day](../events/the-next-day.md) - 4 shared documents
 - [September](../events/september.md) - 4 shared documents
+- [the next day](../events/the-next-day.md) - 4 shared documents
 
 ## Timeline
 

@@ -32,13 +32,13 @@ Powell](elisa-new-powell.md) - 4 shared documents
 
 **Organizations:**
 
-- [Harvard University](../organizations/harvard-university.md) - 5 shared documents
 - [Harvard](../organizations/harvard.md) - 5 shared documents
-- [HOUSE](../organizations/house.md) - 4 shared documents
+- [Harvard University](../organizations/harvard-university.md) - 5 shared documents
 - [American Literature](../organizations/american-literature.md) - 4 shared documents
 - [Cabot Professor of American Literature 
 Harvard University](../organizations/cabot-professor-of-american-literature-harvard-university.md) - 4 shared documents
 - [Harvard Medical School](../organizations/harvard-medical-school.md) - 4 shared documents
+- [HOUSE](../organizations/house.md) - 4 shared documents
 - [Verse Video Education](../organizations/verse-video-education.md) - 4 shared documents
 - [WGBH](../organizations/wgbh.md) - 4 shared documents
 
@@ -49,11 +49,11 @@ Harvard University](../organizations/cabot-professor-of-american-literature-harv
 
 **Events:**
 
-- [2018](../events/2018.md) - 4 shared documents
-- [last year](../events/last-year.md) - 4 shared documents
 - [2017](../events/2017.md) - 4 shared documents
-- [the year](../events/the-year.md) - 4 shared documents
+- [2018](../events/2018.md) - 4 shared documents
 - [April 2018](../events/april-2018.md) - 4 shared documents
+- [last year](../events/last-year.md) - 4 shared documents
+- [the year](../events/the-year.md) - 4 shared documents
 
 ## Timeline
 

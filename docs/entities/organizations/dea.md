@@ -56,27 +56,27 @@ Top 9 documents by mention frequency:
 
 - [France](../locations/france.md) - 8 shared documents
 - [Virginia](../locations/virginia.md) - 8 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 7 shared documents
-- [United States](../locations/united-states.md) - 7 shared documents
-- [Russia](../locations/russia.md) - 7 shared documents
 - [Asia](../locations/asia.md) - 7 shared documents
+- [Russia](../locations/russia.md) - 7 shared documents
 - [Texas](../locations/texas.md) - 7 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 7 shared documents
 - [the United States](../locations/the-united-states.md) - 7 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
-- [London](../locations/london.md) - 6 shared documents
+- [United States](../locations/united-states.md) - 7 shared documents
+- [America](../locations/america.md) - 6 shared documents
+- [D.C.](../locations/dc.md) - 6 shared documents
 
 **Events:**
 
 - [2004](../events/2004.md) - 9 shared documents
 - [1998](../events/1998.md) - 8 shared documents
-- [2012](../events/2012.md) - 7 shared documents
 - [2001](../events/2001.md) - 7 shared documents
+- [2012](../events/2012.md) - 7 shared documents
 - [Friday](../events/friday.md) - 7 shared documents
-- [2015](../events/2015.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [Sunday](../events/sunday.md) - 6 shared documents
 - [1970](../events/1970.md) - 6 shared documents
 - [1999](../events/1999.md) - 6 shared documents
+- [20 years](../events/20-years.md) - 6 shared documents
+- [2008](../events/2008.md) - 6 shared documents
+- [2010](../events/2010.md) - 6 shared documents
 
 ## Timeline
 

@@ -50,26 +50,24 @@ Top 10 documents by mention frequency:
 
 - [Berkeley](../locations/berkeley.md) - 9 shared documents
 - [Spain](../locations/spain.md) - 8 shared documents
-- [Europe](../locations/europe.md) - 7 shared documents
 - [America](../locations/america.md) - 7 shared documents
-- [the United States](../locations/the-united-states.md) - 7 shared documents
-- [San Francisco](../locations/san-francisco.md) - 7 shared documents
-- [England](../locations/england.md) - 7 shared documents
 - [Boston](../locations/boston.md) - 7 shared documents
-- [New York](../locations/new-york.md) - 6 shared documents
-- [California](../locations/california.md) - 6 shared documents
+- [England](../locations/england.md) - 7 shared documents
+- [Europe](../locations/europe.md) - 7 shared documents
+- [San Francisco](../locations/san-francisco.md) - 7 shared documents
+- [the United States](../locations/the-united-states.md) - 7 shared documents
 
 **Events:**
 
-- [two years](../events/two-years.md) - 9 shared documents
 - [the day](../events/the-day.md) - 9 shared documents
-- [1970](../events/1970.md) - 8 shared documents
+- [two years](../events/two-years.md) - 9 shared documents
 - [1952](../events/1952.md) - 8 shared documents
-- [1992](../events/1992.md) - 8 shared documents
+- [1970](../events/1970.md) - 8 shared documents
 - [1980](../events/1980.md) - 8 shared documents
-- [2009](../events/2009.md) - 7 shared documents
-- [today](../events/today.md) - 7 shared documents
-- [years](../events/years.md) - 7 shared documents
+- [1992](../events/1992.md) - 8 shared documents
+- [1964](../events/1964.md) - 7 shared documents
+- [1965](../events/1965.md) - 7 shared documents
+- [1976](../events/1976.md) - 7 shared documents
 - [1985](../events/1985.md) - 7 shared documents
 
 ## Timeline

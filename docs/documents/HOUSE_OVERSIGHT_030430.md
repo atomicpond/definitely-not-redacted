@@ -11,7 +11,7 @@
 ### People
 - [John Brockman](../entities/people/john-brockman.md) - 1 mention
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 1 mention
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 1 mention
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 1 mention
 - [Steve Bannon](../entities/people/steve-bannon.md) - 1 mention
 - [Philip](../entities/people/philip.md) - 1 mention
 

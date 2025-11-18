@@ -46,25 +46,25 @@ He](../people/mystery-he.md) - 6 shared documents
 - [Limited](limited.md) - 6 shared documents
 - [New York Times](new-york-times.md) - 6 shared documents
 - [The Huffington Post](the-huffington-post.md) - 6 shared documents
-- [HOUSE](house.md) - 6 shared documents
 - [Epstein and the hair transplant surgeons at the Foundation](epstein-and-the-hair-transplant-surgeons-at-the-foundation.md) - 6 shared documents
 - [FACS](facs.md) - 6 shared documents
+- [HOUSE](house.md) - 6 shared documents
 - [Huffington](huffington.md) - 6 shared documents
 - [Philanthrophic](philanthrophic.md) - 5 shared documents
 - [Philanthrophic Work The Epstein Foundation](philanthrophic-work-the-epstein-foundation.md) - 5 shared documents
 
 **Locations:**
 
-- [New York City](../locations/new-york-city.md) - 9 shared documents
 - [Miami](../locations/miami.md) - 9 shared documents
+- [New York City](../locations/new-york-city.md) - 9 shared documents
 - [South Africa](../locations/south-africa.md) - 8 shared documents
 - [Coney Island](../locations/coney-island.md) - 7 shared documents
 - [France](../locations/france.md) - 6 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
 - [China](../locations/china.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
+- [India](../locations/india.md) - 5 shared documents
+- [Iraq](../locations/iraq.md) - 5 shared documents
+- [Paris](../locations/paris.md) - 5 shared documents
 
 **Events:**
 
@@ -77,7 +77,7 @@ He](../people/mystery-he.md) - 6 shared documents
 - [2000](../events/2000.md) - 6 shared documents
 - [January 20, 1953](../events/january-20-1953.md) - 6 shared documents
 - [2004](../events/2004.md) - 5 shared documents
-- [2014](../events/2014.md) - 5 shared documents
+- [2010](../events/2010.md) - 5 shared documents
 
 ## Timeline
 

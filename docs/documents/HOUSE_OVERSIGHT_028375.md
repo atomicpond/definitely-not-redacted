@@ -24,7 +24,7 @@ States](../entities/people/united-states.md) - 8 mentions
 - [New
 York](../entities/people/new-york.md) - 4 mentions
 - [Treasury Department](../entities/people/treasury-department.md) - 2 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 2 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 2 mentions
 - [European 
 Union](../entities/people/european-union.md) - 2 mentions
 - [White House](../entities/people/white-house.md) - 1 mention

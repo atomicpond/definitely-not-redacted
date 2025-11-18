@@ -34,11 +34,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 48 shared documents
-- [Bill 
-Clinton](../people/bill-clinton.md) - 38 shared documents
-- [Barack Obama](../people/barack-obama.md) - 35 shared documents
-- [President Obama](../people/president-obama.md) - 35 shared documents
 - [Middle East](../people/middle-east.md) - 34 shared documents
 
 **Organizations:**
@@ -47,6 +42,8 @@ Clinton](../people/bill-clinton.md) - 38 shared documents
 - [Maxwell](../organizations/maxwell.md) - 41 shared documents
 - [Congress](../organizations/congress.md) - 40 shared documents
 - [State](../organizations/state.md) - 38 shared documents
+- [FBI](../organizations/fbi.md) - 33 shared documents
+- [Vanity Fair](../organizations/vanity-fair.md) - 33 shared documents
 
 **Locations:**
 

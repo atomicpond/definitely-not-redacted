@@ -31,7 +31,6 @@ Top 10 documents by mention frequency:
 
 - [Cynthia Jewett](../people/cynthia-jewett.md) - 11 shared documents
 - [Kiaran Kirk](../people/kiaran-kirk.md) - 11 shared documents
-- [Lawrence Krauss](../people/lawrence-krauss.md) - 11 shared documents
 - [Peter Aldhous](../people/peter-aldhous.md) - 11 shared documents
 
 **Organizations:**
@@ -49,8 +48,8 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [London](london.md) - 14 shared documents
 - [Australia](australia.md) - 14 shared documents
+- [London](london.md) - 14 shared documents
 - [America](america.md) - 13 shared documents
 - [Minneapolis](minneapolis.md) - 11 shared documents
 - [Tempe](tempe.md) - 11 shared documents
@@ -62,13 +61,13 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
+- [2008](../events/2008.md) - 14 shared documents
 - [2014](../events/2014.md) - 14 shared documents
 - [2016](../events/2016.md) - 14 shared documents
-- [2008](../events/2008.md) - 14 shared documents
-- [October](../events/october.md) - 13 shared documents
-- [2007](../events/2007.md) - 13 shared documents
-- [this year](../events/this-year.md) - 13 shared documents
 - [2006](../events/2006.md) - 13 shared documents
+- [2007](../events/2007.md) - 13 shared documents
+- [October](../events/october.md) - 13 shared documents
+- [this year](../events/this-year.md) - 13 shared documents
 - [weeks](../events/weeks.md) - 13 shared documents
 - [April 2017](../events/april-2017.md) - 12 shared documents
 - [July 16](../events/july-16.md) - 12 shared documents

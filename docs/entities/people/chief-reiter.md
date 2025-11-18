@@ -62,21 +62,19 @@ Top 10 documents by mention frequency:
 - [West Palm Beach](../locations/west-palm-beach.md) - 10 shared documents
 - [the United States](../locations/the-united-states.md) - 9 shared documents
 - [New York City](../locations/new-york-city.md) - 8 shared documents
-- [United States](../locations/united-states.md) - 7 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 7 shared documents
 
 **Events:**
 
 - [2006](../events/2006.md) - 12 shared documents
 - [2005](../events/2005.md) - 10 shared documents
-- [Sunday](../events/sunday.md) - 9 shared documents
 - [July](../events/july.md) - 9 shared documents
-- [two years](../events/two-years.md) - 9 shared documents
 - [March 2005](../events/march-2005.md) - 9 shared documents
-- [October](../events/october.md) - 8 shared documents
-- [August](../events/august.md) - 8 shared documents
-- [last week](../events/last-week.md) - 8 shared documents
+- [Sunday](../events/sunday.md) - 9 shared documents
+- [two years](../events/two-years.md) - 9 shared documents
 - [18 months](../events/18-months.md) - 8 shared documents
+- [53](../events/53.md) - 8 shared documents
+- [August](../events/august.md) - 8 shared documents
+- [Christmas](../events/christmas.md) - 8 shared documents
 
 ## Timeline
 

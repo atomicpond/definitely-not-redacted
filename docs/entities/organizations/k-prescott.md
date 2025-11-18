@@ -40,19 +40,19 @@ Top 5 documents by mention frequency:
 **Locations:**
 
 - [Florida](../locations/florida.md) - 5 shared documents
-- [Virginia](../locations/virginia.md) - 5 shared documents
-- [Palm Beach](../locations/palm-beach.md) - 5 shared documents
-- [Holland](../locations/holland.md) - 5 shared documents
 - [HENDERSON](../locations/henderson.md) - 5 shared documents
-- [WOODBRIDGE](../locations/woodbridge.md) - 5 shared documents
+- [Holland](../locations/holland.md) - 5 shared documents
 - [NORTH LAKE](../locations/north-lake.md) - 5 shared documents
+- [Palm Beach](../locations/palm-beach.md) - 5 shared documents
+- [Virginia](../locations/virginia.md) - 5 shared documents
+- [WOODBRIDGE](../locations/woodbridge.md) - 5 shared documents
 
 **Events:**
 
+- [1995](../events/1995.md) - 5 shared documents
 - [1997](../events/1997.md) - 5 shared documents
 - [2005](../events/2005.md) - 5 shared documents
 - [winter](../events/winter.md) - 5 shared documents
-- [1995](../events/1995.md) - 5 shared documents
 
 ## Timeline
 

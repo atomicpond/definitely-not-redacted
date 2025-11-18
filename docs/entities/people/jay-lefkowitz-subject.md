@@ -31,10 +31,10 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [Kirkland & Ellis LLP](../organizations/kirkland-ellis-llp.md) - 5 shared documents
 - [It is the property of 
 Kirkland & Ellis LLP or Kirkland & Ellis International LLP](../organizations/it-is-the-property-of-kirkland-ellis-llp-or-kirkland-ellis-international-llp.md) - 5 shared documents
 - [Kirkland & Ellis International LLP](../organizations/kirkland-ellis-international-llp.md) - 5 shared documents
+- [Kirkland & Ellis LLP](../organizations/kirkland-ellis-llp.md) - 5 shared documents
 
 **Events:**
 

@@ -34,8 +34,9 @@ Top 10 documents by mention frequency:
 - [Seoul Branch](../people/seoul-branch.md) - 7 shared documents
 - [Wealth Management](../people/wealth-management.md) - 7 shared documents
 - [America Merrill Lynch](../people/america-merrill-lynch.md) - 6 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 6 shared documents
 - [Merrill Lynch Global](../people/merrill-lynch-global.md) - 6 shared documents
-- [President Trump](../people/president-trump.md) - 6 shared documents
 
 **Organizations:**
 
@@ -48,7 +49,7 @@ Top 10 documents by mention frequency:
 - [the Dubai Financial Services Authority](the-dubai-financial-services-authority.md) - 8 shared documents
 - [the Prudential Regulation Authority](the-prudential-regulation-authority.md) - 8 shared documents
 - [Trump](trump.md) - 8 shared documents
-- [Congress](congress.md) - 8 shared documents
+- [Bank](bank.md) - 8 shared documents
 
 **Locations:**
 
@@ -56,23 +57,23 @@ Top 10 documents by mention frequency:
 - [Japan](../locations/japan.md) - 12 shared documents
 - [Mexico](../locations/mexico.md) - 12 shared documents
 - [Singapore](../locations/singapore.md) - 12 shared documents
-- [Europe](../locations/europe.md) - 11 shared documents
-- [Canada](../locations/canada.md) - 11 shared documents
 - [Asia](../locations/asia.md) - 11 shared documents
-- [Italy](../locations/italy.md) - 11 shared documents
 - [Australia](../locations/australia.md) - 11 shared documents
+- [Canada](../locations/canada.md) - 11 shared documents
+- [Europe](../locations/europe.md) - 11 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 11 shared documents
+- [Italy](../locations/italy.md) - 11 shared documents
 
 **Events:**
 
 - [2015](../events/2015.md) - 11 shared documents
-- [today](../events/today.md) - 9 shared documents
-- [this year](../events/this-year.md) - 9 shared documents
-- [monthly](../events/monthly.md) - 9 shared documents
 - [2001](../events/2001.md) - 9 shared documents
+- [monthly](../events/monthly.md) - 9 shared documents
+- [this year](../events/this-year.md) - 9 shared documents
+- [today](../events/today.md) - 9 shared documents
+- [10-year](../events/10-year.md) - 8 shared documents
 - [2000](../events/2000.md) - 8 shared documents
 - [2017](../events/2017.md) - 8 shared documents
-- [10-year](../events/10-year.md) - 8 shared documents
 
 ## Timeline
 

@@ -21,7 +21,7 @@
 
 ### Events/Dates
 - [Fri, Jan 9, 2015](../entities/events/fri-jan-9-2015.md) - 1 mention
-- [1/9/2015](../entities/events/192015.md) - 1 mention
+- [1/9/2015](../entities/events/1-9-2015.md) - 1 mention
 - [past five years](../entities/events/past-five-years.md) - 1 mention
 
 ## Document Text

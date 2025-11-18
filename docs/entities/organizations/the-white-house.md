@@ -36,17 +36,17 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 92 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 43 shared documents
-- [Barack Obama](../people/barack-obama.md) - 41 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 31 shared documents
 - [Middle East](../people/middle-east.md) - 29 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 29 shared documents
-- [Mr. Obama](../people/obama.md) - 28 shared documents
-- [Donald 
-Trump](../people/donald-trump.md) - 27 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 27 shared documents
-- [President Obama](../people/president-obama.md) - 24 shared documents
+- [Hillary Clinton](../people/hillary-clinton.md) - 18 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 16 shared documents
+- [Bill Gates](../people/bill-gates.md) - 16 shared documents
+- [United 
+States](../people/united-states.md) - 16 shared documents
+- [George W. Bush](../people/george-w-bush.md) - 15 shared documents
+- [jeffrey E. <](../people/jeffrey-e.md) - 14 shared documents
 
 **Organizations:**
 
@@ -83,8 +83,8 @@ Trump](../people/donald-trump.md) - 27 shared documents
 - [Thursday](../events/thursday.md) - 31 shared documents
 - [2010](../events/2010.md) - 30 shared documents
 - [this year](../events/this-year.md) - 29 shared documents
-- [years](../events/years.md) - 27 shared documents
 - [two years](../events/two-years.md) - 27 shared documents
+- [years](../events/years.md) - 27 shared documents
 - [2012](../events/2012.md) - 26 shared documents
 
 ## Timeline

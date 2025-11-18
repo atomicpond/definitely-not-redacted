@@ -37,8 +37,8 @@ Top 6 documents by mention frequency:
 
 - [two years ago](two-years-ago.md) - 6 shared documents
 - [2010](2010.md) - 5 shared documents
-- [2011](2011.md) - 4 shared documents
 - [2005](2005.md) - 4 shared documents
+- [2011](2011.md) - 4 shared documents
 
 ## Timeline
 

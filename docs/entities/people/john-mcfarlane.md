@@ -24,8 +24,8 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [Financial Times](../organizations/financial-times.md) - 5 shared documents
 - [Barclays](../organizations/barclays.md) - 5 shared documents
+- [Financial Times](../organizations/financial-times.md) - 5 shared documents
 - [HOUSE](../organizations/house.md) - 4 shared documents
 - [Trump](../organizations/trump.md) - 4 shared documents
 

@@ -29,33 +29,22 @@ Top 5 documents by mention frequency:
 
 - [Harvard University](../people/harvard-university.md) - 4 shared documents
 
-**Organizations:**
-
-- [Harvard University](harvard-university.md) - 4 shared documents
-
 **Locations:**
 
 - [Boston](../locations/boston.md) - 5 shared documents
-- [Earth](../locations/earth.md) - 4 shared documents
-- [China](../locations/china.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
-- [America](../locations/america.md) - 4 shared documents
-- [Texas](../locations/texas.md) - 4 shared documents
-- [Hong Kong](../locations/hong-kong.md) - 4 shared documents
 
 **Events:**
 
+- [2002](../events/2002.md) - 5 shared documents
 - [2004](../events/2004.md) - 5 shared documents
 - [2012](../events/2012.md) - 5 shared documents
-- [2002](../events/2002.md) - 5 shared documents
 - [five years](../events/five-years.md) - 5 shared documents
-- [1986](../events/1986.md) - 4 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [2007](../events/2007.md) - 4 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
-- [1996](../events/1996.md) - 4 shared documents
+- [1964](../events/1964.md) - 4 shared documents
+- [1970](../events/1970.md) - 4 shared documents
+- [1972](../events/1972.md) - 4 shared documents
+- [1976](../events/1976.md) - 4 shared documents
+- [1977](../events/1977.md) - 4 shared documents
+- [1979](../events/1979.md) - 4 shared documents
 
 ## Timeline
 

@@ -44,21 +44,19 @@ Top 10 documents by mention frequency:
 - [Merrill Lynch](merrill-lynch.md) - 4 shared documents
 - [Pierce, Fenner & Smith Incorporated](pierce-fenner-smith-incorporated.md) - 4 shared documents
 - [State](state.md) - 4 shared documents
-- [Bank of America Merrill Lynch](bank-of-america-merrill-lynch.md) - 4 shared documents
-- [CFA](cfa.md) - 4 shared documents
 
 **Locations:**
 
 - [Europe](../locations/europe.md) - 7 shared documents
 - [Canada](../locations/canada.md) - 6 shared documents
-- [Dubai](../locations/dubai.md) - 5 shared documents
-- [U.S.](../locations/us.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
-- [Israel](../locations/israel.md) - 5 shared documents
 - [Australia](../locations/australia.md) - 5 shared documents
+- [Dubai](../locations/dubai.md) - 5 shared documents
+- [Germany](../locations/germany.md) - 5 shared documents
+- [India](../locations/india.md) - 5 shared documents
+- [Indonesia](../locations/indonesia.md) - 5 shared documents
+- [Israel](../locations/israel.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
+- [U.S.](../locations/us.md) - 5 shared documents
 
 **Events:**
 
@@ -70,8 +68,8 @@ Top 10 documents by mention frequency:
 - [2009](../events/2009.md) - 6 shared documents
 - [2015](../events/2015.md) - 6 shared documents
 - [2017](../events/2017.md) - 6 shared documents
-- [2016](../events/2016.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
+- [1987](../events/1987.md) - 5 shared documents
+- [2002](../events/2002.md) - 5 shared documents
 
 ## Timeline
 

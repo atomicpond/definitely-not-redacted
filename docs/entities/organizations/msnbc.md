@@ -31,9 +31,9 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 6 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Joseph McCarthy](../people/joseph-mccarthy.md) - 5 shared documents
 - [Middle East](../people/middle-east.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
 - [San Francisco](../people/san-francisco.md) - 5 shared documents
 
 **Organizations:**
@@ -53,27 +53,27 @@ Top 10 documents by mention frequency:
 
 - [America](../locations/america.md) - 9 shared documents
 - [Miami](../locations/miami.md) - 8 shared documents
-- [United States](../locations/united-states.md) - 7 shared documents
 - [China](../locations/china.md) - 7 shared documents
+- [New York City](../locations/new-york-city.md) - 7 shared documents
 - [Russia](../locations/russia.md) - 7 shared documents
 - [Texas](../locations/texas.md) - 7 shared documents
 - [the United States](../locations/the-united-states.md) - 7 shared documents
-- [New York City](../locations/new-york-city.md) - 7 shared documents
+- [United States](../locations/united-states.md) - 7 shared documents
 - [California](../locations/california.md) - 6 shared documents
 - [Germany](../locations/germany.md) - 6 shared documents
 
 **Events:**
 
 - [2011](../events/2011.md) - 8 shared documents
+- [2005](../events/2005.md) - 7 shared documents
 - [annual](../events/annual.md) - 7 shared documents
 - [Monday](../events/monday.md) - 7 shared documents
-- [2005](../events/2005.md) - 7 shared documents
-- [today](../events/today.md) - 6 shared documents
+- [1950](../events/1950.md) - 6 shared documents
 - [2012](../events/2012.md) - 6 shared documents
+- [a year](../events/a-year.md) - 6 shared documents
 - [daily](../events/daily.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
+- [decades](../events/decades.md) - 6 shared documents
 - [summer](../events/summer.md) - 6 shared documents
-- [the years](../events/the-years.md) - 6 shared documents
 
 ## Timeline
 

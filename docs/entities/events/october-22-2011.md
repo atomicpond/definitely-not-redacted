@@ -29,8 +29,9 @@ Top 5 documents by mention frequency:
 - [Angela Merkel](../people/angela-merkel.md) - 5 shared documents
 - [Australian Labor Party](../people/australian-labor-party.md) - 5 shared documents
 - [Barack Obama](../people/barack-obama.md) - 5 shared documents
-- [Barak Obama](../people/barak-obama.md) - 5 shared documents
 - [Berlin Wall](../people/berlin-wall.md) - 5 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 5 shared documents
 
 **Organizations:**
 

@@ -34,9 +34,6 @@ Top 10 documents by mention frequency:
 - [Larry Visoski](larry-visoski.md) - 27 shared documents
 - [Thx 
 Larry](thx-larry.md) - 18 shared documents
-- [Mr. 
-Trump](trump.md) - 5 shared documents
-- [larry](larry.md) - 5 shared documents
 
 **Organizations:**
 
@@ -55,9 +52,9 @@ Trump](trump.md) - 5 shared documents
 **Events:**
 
 - [Friday](../events/friday.md) - 9 shared documents
-- [Wednesday](../events/wednesday.md) - 4 shared documents
 - [Monday](../events/monday.md) - 4 shared documents
 - [Sunday](../events/sunday.md) - 4 shared documents
+- [Wednesday](../events/wednesday.md) - 4 shared documents
 
 ## Timeline
 

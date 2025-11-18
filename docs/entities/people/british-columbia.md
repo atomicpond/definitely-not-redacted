@@ -34,25 +34,25 @@ Top 8 documents by mention frequency:
 - [Canada](../locations/canada.md) - 6 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 5 shared documents
 - [New York City](../locations/new-york-city.md) - 5 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
 - [Asia](../locations/asia.md) - 4 shared documents
+- [California](../locations/california.md) - 4 shared documents
 - [France](../locations/france.md) - 4 shared documents
+- [India](../locations/india.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
 - [Toronto](../locations/toronto.md) - 4 shared documents
-- [Victoria](../locations/victoria.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 4 shared documents
 
 **Events:**
 
 - [1997](../events/1997.md) - 6 shared documents
-- [2004](../events/2004.md) - 5 shared documents
 - [2000](../events/2000.md) - 5 shared documents
 - [2002](../events/2002.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [2012](../events/2012.md) - 4 shared documents
+- [2004](../events/2004.md) - 5 shared documents
 - [1990](../events/1990.md) - 4 shared documents
+- [1994](../events/1994.md) - 4 shared documents
 - [1998](../events/1998.md) - 4 shared documents
 - [1999](../events/1999.md) - 4 shared documents
+- [2003](../events/2003.md) - 4 shared documents
 - [2005](../events/2005.md) - 4 shared documents
 
 ## Timeline

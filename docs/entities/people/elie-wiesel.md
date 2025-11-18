@@ -34,26 +34,26 @@ Top 5 documents by mention frequency:
 **Locations:**
 
 - [Africa](../locations/africa.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
-- [Florida](../locations/florida.md) - 5 shared documents
 - [England](../locations/england.md) - 5 shared documents
+- [Florida](../locations/florida.md) - 5 shared documents
 - [Massachusetts](../locations/massachusetts.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 - [Manhattan](../locations/manhattan.md) - 4 shared documents
 - [Paris](../locations/paris.md) - 4 shared documents
+- [Russia](../locations/russia.md) - 4 shared documents
 - [Singapore](../locations/singapore.md) - 4 shared documents
 
 **Events:**
 
+- [2002](../events/2002.md) - 5 shared documents
 - [2003](../events/2003.md) - 5 shared documents
 - [2004](../events/2004.md) - 5 shared documents
+- [2005](../events/2005.md) - 5 shared documents
 - [2007](../events/2007.md) - 5 shared documents
 - [2009](../events/2009.md) - 5 shared documents
-- [2005](../events/2005.md) - 5 shared documents
 - [2010](../events/2010.md) - 5 shared documents
-- [2002](../events/2002.md) - 5 shared documents
-- [2012](../events/2012.md) - 4 shared documents
-- [last week](../events/last-week.md) - 4 shared documents
+- [14 years old](../events/14-years-old.md) - 4 shared documents
+- [18 months](../events/18-months.md) - 4 shared documents
 - [1998](../events/1998.md) - 4 shared documents
 
 ## Timeline

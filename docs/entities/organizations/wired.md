@@ -25,40 +25,33 @@ Top 6 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 5 shared documents
-
-**Organizations:**
-
-- [the New York Times](the-new-york-times.md) - 6 shared documents
-- [Time](time.md) - 6 shared documents
-- [New York Times](new-york-times.md) - 6 shared documents
-- [Google](google.md) - 6 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 
 **Locations:**
 
+- [America](../locations/america.md) - 6 shared documents
+- [Australia](../locations/australia.md) - 6 shared documents
+- [Boston](../locations/boston.md) - 6 shared documents
 - [California](../locations/california.md) - 6 shared documents
 - [China](../locations/china.md) - 6 shared documents
+- [England](../locations/england.md) - 6 shared documents
 - [Europe](../locations/europe.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
 - [Germany](../locations/germany.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
-- [London](../locations/london.md) - 6 shared documents
-- [America](../locations/america.md) - 6 shared documents
-- [the United States](../locations/the-united-states.md) - 6 shared documents
-- [New York City](../locations/new-york-city.md) - 6 shared documents
+- [India](../locations/india.md) - 6 shared documents
+- [Japan](../locations/japan.md) - 6 shared documents
 
 **Events:**
 
+- [1968](../events/1968.md) - 6 shared documents
+- [1978](../events/1978.md) - 6 shared documents
+- [1991](../events/1991.md) - 6 shared documents
+- [1995](../events/1995.md) - 6 shared documents
+- [1996](../events/1996.md) - 6 shared documents
+- [1999](../events/1999.md) - 6 shared documents
+- [2001](../events/2001.md) - 6 shared documents
+- [2002](../events/2002.md) - 6 shared documents
 - [2003](../events/2003.md) - 6 shared documents
 - [2004](../events/2004.md) - 6 shared documents
-- [2009](../events/2009.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [1996](../events/1996.md) - 6 shared documents
-- [daily](../events/daily.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
-- [summer](../events/summer.md) - 6 shared documents
-- [2011](../events/2011.md) - 6 shared documents
-- [1999](../events/1999.md) - 6 shared documents
 
 ## Timeline
 

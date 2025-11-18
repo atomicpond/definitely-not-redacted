@@ -54,12 +54,12 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [Washington](../locations/washington.md) - 8 shared documents
 - [America](../locations/america.md) - 8 shared documents
-- [New York](../locations/new-york.md) - 7 shared documents
+- [Washington](../locations/washington.md) - 8 shared documents
 - [Iran](../locations/iran.md) - 7 shared documents
+- [New York](../locations/new-york.md) - 7 shared documents
 - [San Francisco](../locations/san-francisco.md) - 7 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
+- [Britain](../locations/britain.md) - 6 shared documents
 - [Europe](../locations/europe.md) - 6 shared documents
 - [Germany](../locations/germany.md) - 6 shared documents
 - [London](../locations/london.md) - 6 shared documents
@@ -67,16 +67,16 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
-- [the day](../events/the-day.md) - 9 shared documents
 - [1980](../events/1980.md) - 9 shared documents
-- [today](../events/today.md) - 8 shared documents
+- [the day](../events/the-day.md) - 9 shared documents
 - [2019](../events/2019.md) - 8 shared documents
+- [today](../events/today.md) - 8 shared documents
 - [two years](../events/two-years.md) - 8 shared documents
-- [annual](../events/annual.md) - 7 shared documents
-- [Thursday](../events/thursday.md) - 7 shared documents
 - [1970](../events/1970.md) - 7 shared documents
-- [Friday](../events/friday.md) - 7 shared documents
 - [1992](../events/1992.md) - 7 shared documents
+- [annual](../events/annual.md) - 7 shared documents
+- [Friday](../events/friday.md) - 7 shared documents
+- [Thursday](../events/thursday.md) - 7 shared documents
 
 ## Timeline
 

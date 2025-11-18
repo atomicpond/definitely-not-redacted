@@ -25,18 +25,18 @@ Top 6 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 5 shared documents
 - [Harvard](../organizations/harvard.md) - 5 shared documents
+- [HOUSE](../organizations/house.md) - 5 shared documents
 - [MOOC](../organizations/mooc.md) - 5 shared documents
 
 **Events:**
 
-- [2018](../events/2018.md) - 5 shared documents
 - [2014](../events/2014.md) - 5 shared documents
-- [last year](../events/last-year.md) - 5 shared documents
-- [this year](../events/this-year.md) - 5 shared documents
+- [2018](../events/2018.md) - 5 shared documents
 - [last fall](../events/last-fall.md) - 5 shared documents
+- [last year](../events/last-year.md) - 5 shared documents
 - [this fall](../events/this-fall.md) - 5 shared documents
+- [this year](../events/this-year.md) - 5 shared documents
 
 ## Timeline
 

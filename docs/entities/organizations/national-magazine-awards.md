@@ -27,35 +27,33 @@ Top 5 documents by mention frequency:
 **Organizations:**
 
 - [New York Times](new-york-times.md) - 5 shared documents
-- [IBM](ibm.md) - 4 shared documents
-- [Harvard](harvard.md) - 4 shared documents
 - [Apple](apple.md) - 4 shared documents
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
-- [China](../locations/china.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
-- [London](../locations/london.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
+- [China](../locations/china.md) - 4 shared documents
+- [England](../locations/england.md) - 4 shared documents
+- [Europe](../locations/europe.md) - 4 shared documents
+- [Germany](../locations/germany.md) - 4 shared documents
+- [Hollywood](../locations/hollywood.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
+- [London](../locations/london.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
+- [Paris](../locations/paris.md) - 4 shared documents
 
 **Events:**
 
-- [Sunday](../events/sunday.md) - 5 shared documents
 - [2013](../events/2013.md) - 5 shared documents
-- [2018](../events/2018.md) - 4 shared documents
+- [Sunday](../events/sunday.md) - 5 shared documents
+- [1933](../events/1933.md) - 4 shared documents
+- [1994](../events/1994.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
+- [2006](../events/2006.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
 - [2009](../events/2009.md) - 4 shared documents
-- [2014](../events/2014.md) - 4 shared documents
-- [2015](../events/2015.md) - 4 shared documents
-- [2016](../events/2016.md) - 4 shared documents
-- [the 1980s](../events/the-1980s.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [2012](../events/2012.md) - 4 shared documents
+- [2010](../events/2010.md) - 4 shared documents
+- [2011](../events/2011.md) - 4 shared documents
 
 ## Timeline
 

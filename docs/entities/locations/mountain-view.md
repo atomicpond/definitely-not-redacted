@@ -52,8 +52,8 @@ Top 10 documents by mention frequency:
 - [2016](../events/2016.md) - 7 shared documents
 - [last year](../events/last-year.md) - 6 shared documents
 - [Friday](../events/friday.md) - 5 shared documents
-- [2018](../events/2018.md) - 4 shared documents
 - [2017](../events/2017.md) - 4 shared documents
+- [2018](../events/2018.md) - 4 shared documents
 - [years](../events/years.md) - 4 shared documents
 
 ## Timeline

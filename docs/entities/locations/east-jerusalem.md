@@ -32,16 +32,16 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 14 shared documents
 - [Mahmoud Abbas](../people/mahmoud-abbas.md) - 13 shared documents
 - [East Jerusalem](../people/east-jerusalem.md) - 12 shared documents
 - [Middle East](../people/middle-east.md) - 12 shared documents
-- [President Obama](../people/president-obama.md) - 12 shared documents
 - [Gaza Strip](../people/gaza-strip.md) - 11 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 11 shared documents
 - [West Bank](../people/west-bank.md) - 11 shared documents
 - [Bashar al-Assad](../people/bashar-al-assad.md) - 10 shared documents
 - [Security Council](../people/security-council.md) - 10 shared documents
+- [Tel Aviv](../people/tel-aviv.md) - 10 shared documents
+- [White House](../people/white-house.md) - 10 shared documents
 
 **Organizations:**
 
@@ -67,14 +67,14 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [today](../events/today.md) - 12 shared documents
-- [2003](../events/2003.md) - 11 shared documents
-- [last week](../events/last-week.md) - 11 shared documents
-- [a year](../events/a-year.md) - 11 shared documents
 - [1967](../events/1967.md) - 11 shared documents
+- [2003](../events/2003.md) - 11 shared documents
+- [a year](../events/a-year.md) - 11 shared documents
+- [last week](../events/last-week.md) - 11 shared documents
 - [2009](../events/2009.md) - 9 shared documents
-- [years](../events/years.md) - 9 shared documents
 - [the years](../events/the-years.md) - 9 shared documents
-- [last year](../events/last-year.md) - 8 shared documents
+- [years](../events/years.md) - 9 shared documents
+- [1948](../events/1948.md) - 8 shared documents
 - [1993](../events/1993.md) - 8 shared documents
 
 ## Timeline

@@ -37,9 +37,9 @@ Top 10 documents by mention frequency:
 - [Court](court.md) - 8 shared documents
 - [State](state.md) - 6 shared documents
 - [the Supreme Court](the-supreme-court.md) - 6 shared documents
-- [Fed](fed.md) - 6 shared documents
 - [Congress](congress.md) - 6 shared documents
 - [FBI](fbi.md) - 6 shared documents
+- [Fed](fed.md) - 6 shared documents
 - [Inc.](inc.md) - 5 shared documents
 - [LLC](llc.md) - 5 shared documents
 - [LLP](llp.md) - 5 shared documents
@@ -47,26 +47,25 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 8 shared documents
 - [the United States](../locations/the-united-states.md) - 8 shared documents
+- [United States](../locations/united-states.md) - 8 shared documents
 - [Washington, DC](../locations/washington-dc.md) - 8 shared documents
+- [Florida](../locations/florida.md) - 7 shared documents
 - [Mexico](../locations/mexico.md) - 7 shared documents
 - [Washington](../locations/washington.md) - 7 shared documents
-- [Florida](../locations/florida.md) - 7 shared documents
-- [U.S.](../locations/us.md) - 5 shared documents
 
 **Events:**
 
 - [14](../events/14.md) - 8 shared documents
 - [2000](../events/2000.md) - 7 shared documents
 - [2002](../events/2002.md) - 7 shared documents
-- [2004](../events/2004.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
+- [1980](../events/1980.md) - 6 shared documents
+- [1983](../events/1983.md) - 6 shared documents
+- [1984](../events/1984.md) - 6 shared documents
 - [1985](../events/1985.md) - 6 shared documents
-- [2011](../events/2011.md) - 6 shared documents
-- [1993](../events/1993.md) - 6 shared documents
-- [1997](../events/1997.md) - 6 shared documents
+- [1988](../events/1988.md) - 6 shared documents
+- [1989](../events/1989.md) - 6 shared documents
+- [1991](../events/1991.md) - 6 shared documents
 
 ## Timeline
 

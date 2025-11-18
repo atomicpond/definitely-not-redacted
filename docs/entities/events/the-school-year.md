@@ -26,7 +26,7 @@ Top 6 documents by mention frequency:
 **People:**
 
 - [San Francisco](../people/san-francisco.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 4 shared documents
+- [Barack Obama](../people/barack-obama.md) - 4 shared documents
 
 **Organizations:**
 
@@ -53,11 +53,11 @@ Top 6 documents by mention frequency:
 - [the years](the-years.md) - 6 shared documents
 - [years](years.md) - 6 shared documents
 - [today](today.md) - 5 shared documents
-- [one day](one-day.md) - 5 shared documents
+- [10 years](10-years.md) - 5 shared documents
 - [2002](2002.md) - 5 shared documents
 - [a year](a-year.md) - 5 shared documents
 - [many years](many-years.md) - 5 shared documents
-- [10 years](10-years.md) - 5 shared documents
+- [one day](one-day.md) - 5 shared documents
 - [the day](the-day.md) - 5 shared documents
 - [the summer](the-summer.md) - 4 shared documents
 

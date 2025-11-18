@@ -35,8 +35,8 @@ Top 10 documents by mention frequency:
 - [San Francisco](../people/san-francisco.md) - 10 shared documents
 - [San Diego](../people/san-diego.md) - 7 shared documents
 - [White House](../people/white-house.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Los Angeles](../people/los-angeles.md) - 6 shared documents
-- [President Obama](../people/president-obama.md) - 6 shared documents
 - [Salt Lake City](../people/salt-lake-city.md) - 6 shared documents
 - [Asia Pacific](../people/asia-pacific.md) - 5 shared documents
 - [Harvard Law School](../people/harvard-law-school.md) - 5 shared documents
@@ -60,27 +60,27 @@ Top 10 documents by mention frequency:
 
 - [Germany](../locations/germany.md) - 11 shared documents
 - [San Francisco](../locations/san-francisco.md) - 10 shared documents
+- [Australia](../locations/australia.md) - 9 shared documents
+- [Japan](../locations/japan.md) - 9 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 9 shared documents
 - [U.S.](../locations/us.md) - 9 shared documents
-- [Japan](../locations/japan.md) - 9 shared documents
-- [Australia](../locations/australia.md) - 9 shared documents
+- [America](../locations/america.md) - 8 shared documents
 - [California](../locations/california.md) - 8 shared documents
 - [London](../locations/london.md) - 8 shared documents
-- [America](../locations/america.md) - 8 shared documents
-- [New York](../locations/new-york.md) - 7 shared documents
+- [China](../locations/china.md) - 7 shared documents
 
 **Events:**
 
+- [2001](../events/2001.md) - 7 shared documents
 - [2007](../events/2007.md) - 7 shared documents
 - [2009](../events/2009.md) - 7 shared documents
 - [2011](../events/2011.md) - 7 shared documents
-- [2001](../events/2001.md) - 7 shared documents
+- [1997](../events/1997.md) - 6 shared documents
+- [1998](../events/1998.md) - 6 shared documents
 - [2004](../events/2004.md) - 6 shared documents
+- [2008](../events/2008.md) - 6 shared documents
+- [2013](../events/2013.md) - 6 shared documents
 - [2014](../events/2014.md) - 6 shared documents
-- [annual](../events/annual.md) - 6 shared documents
-- [daily](../events/daily.md) - 6 shared documents
-- [last year](../events/last-year.md) - 6 shared documents
-- [this year](../events/this-year.md) - 6 shared documents
 
 ## Timeline
 

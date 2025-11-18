@@ -31,7 +31,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 59 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 46 shared documents
 
 **Organizations:**
 

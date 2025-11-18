@@ -31,7 +31,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 8 shared documents
+- [Barack Obama](../people/barack-obama.md) - 8 shared documents
 - [San Francisco](../people/san-francisco.md) - 6 shared documents
 - [White House](../people/white-house.md) - 6 shared documents
 
@@ -69,10 +69,10 @@ Top 10 documents by mention frequency:
 - [today](../events/today.md) - 11 shared documents
 - [years](../events/years.md) - 10 shared documents
 - [2009](../events/2009.md) - 9 shared documents
-- [2012](../events/2012.md) - 9 shared documents
-- [daily](../events/daily.md) - 9 shared documents
-- [2017](../events/2017.md) - 9 shared documents
 - [2010](../events/2010.md) - 9 shared documents
+- [2012](../events/2012.md) - 9 shared documents
+- [2017](../events/2017.md) - 9 shared documents
+- [daily](../events/daily.md) - 9 shared documents
 
 ## Timeline
 

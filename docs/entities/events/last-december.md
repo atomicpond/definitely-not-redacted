@@ -58,9 +58,9 @@ Top 9 documents by mention frequency:
 - [the next day](the-next-day.md) - 8 shared documents
 - [years](years.md) - 8 shared documents
 - [months](months.md) - 7 shared documents
+- [20 years](20-years.md) - 6 shared documents
 - [2000](2000.md) - 6 shared documents
 - [2012](2012.md) - 6 shared documents
-- [20 years](20-years.md) - 6 shared documents
 - [every day](every-day.md) - 6 shared documents
 - [monthly](monthly.md) - 5 shared documents
 - [the day](the-day.md) - 5 shared documents

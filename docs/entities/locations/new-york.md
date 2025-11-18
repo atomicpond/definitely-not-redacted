@@ -33,20 +33,14 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 138 shared documents
 - [New
 York](../people/new-york.md) - 104 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 89 shared documents
-- [Epstein](../people/epstein.md) - 69 shared documents
 - [Jeffrey](../people/jeffrey.md) - 62 shared documents
 - [Richard Kahn](../people/richard-kahn.md) - 61 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 59 shared documents
-- [Donald 
-Trump](../people/donald-trump.md) - 56 shared documents
 - [White House](../people/white-house.md) - 55 shared documents
-- [Bill 
-Clinton](../people/bill-clinton.md) - 51 shared documents
+- [Jane Doe](../people/jane-doe.md) - 46 shared documents
+- [BILL](../people/bill.md) - 35 shared documents
 
 **Organizations:**
 
@@ -83,8 +77,8 @@ Clinton](../people/bill-clinton.md) - 51 shared documents
 - [Friday](../events/friday.md) - 79 shared documents
 - [2011](../events/2011.md) - 75 shared documents
 - [Sunday](../events/sunday.md) - 70 shared documents
-- [Monday](../events/monday.md) - 68 shared documents
 - [2010](../events/2010.md) - 68 shared documents
+- [Monday](../events/monday.md) - 68 shared documents
 - [2014](../events/2014.md) - 62 shared documents
 
 ## Timeline

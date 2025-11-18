@@ -15,8 +15,8 @@
 
 ### People
 - [Judge Kavanaugh](../entities/people/judge-kavanaugh.md) - 35 mentions
-- [Mr. Kavanaugh](../entities/people/mr-kavanaugh.md) - 31 mentions
-- [Ms. Dolphin](../entities/people/ms-dolphin.md) - 28 mentions
+- [Mr. Kavanaugh](../entities/people/kavanaugh.md) - 31 mentions
+- [Ms. Dolphin](../entities/people/dolphin.md) - 28 mentions
 - [Supreme Court](../entities/people/supreme-court.md) - 6 mentions
 - [Brett Kavanaugh](../entities/people/brett-kavanaugh.md) - 5 mentions
 - [President Trump](../entities/people/president-trump.md) - 4 mentions

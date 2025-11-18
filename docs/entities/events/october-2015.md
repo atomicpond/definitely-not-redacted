@@ -51,14 +51,14 @@ Top 9 documents by mention frequency:
 
 - [2014](2014.md) - 8 shared documents
 - [today](today.md) - 7 shared documents
+- [2013](2013.md) - 7 shared documents
 - [2015](2015.md) - 7 shared documents
 - [2016](2016.md) - 7 shared documents
-- [2013](2013.md) - 7 shared documents
 - [the 1990s](the-1990s.md) - 6 shared documents
 - [the day](the-day.md) - 6 shared documents
 - [years](years.md) - 6 shared documents
-- [2007](2007.md) - 6 shared documents
-- [2009](2009.md) - 6 shared documents
+- [1989](1989.md) - 6 shared documents
+- [2000](2000.md) - 6 shared documents
 
 ## Timeline
 

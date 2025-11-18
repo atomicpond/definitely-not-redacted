@@ -21,7 +21,7 @@
 - [Middle East](../entities/people/middle-east.md) - 1 mention
 - [Adam Smith](../entities/people/adam-smith.md) - 1 mention
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Assad](../entities/people/assad.md) - 1 mention
 - [Saddam Hussein](../entities/people/saddam-hussein.md) - 1 mention
 

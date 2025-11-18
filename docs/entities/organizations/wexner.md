@@ -49,10 +49,10 @@ Top 10 documents by mention frequency:
 - [Vanity Fair](vanity-fair.md) - 14 shared documents
 - [Rockefeller](rockefeller.md) - 13 shared documents
 - [FBI](fbi.md) - 12 shared documents
-- [Treasury](treasury.md) - 11 shared documents
 - [Rockefeller University](rockefeller-university.md) - 11 shared documents
+- [Treasury](treasury.md) - 11 shared documents
+- [Cooper Union](cooper-union.md) - 10 shared documents
 - [Ghislaine Maxwell](ghislaine-maxwell.md) - 10 shared documents
-- [Maxwell](maxwell.md) - 10 shared documents
 
 **Locations:**
 
@@ -60,25 +60,25 @@ Top 10 documents by mention frequency:
 - [Manhattan](../locations/manhattan.md) - 18 shared documents
 - [New Mexico](../locations/new-mexico.md) - 16 shared documents
 - [Florida](../locations/florida.md) - 15 shared documents
-- [Paris](../locations/paris.md) - 14 shared documents
 - [Coney Island](../locations/coney-island.md) - 14 shared documents
-- [Europe](../locations/europe.md) - 11 shared documents
-- [Caribbean](../locations/caribbean.md) - 11 shared documents
+- [Paris](../locations/paris.md) - 14 shared documents
 - [Britain](../locations/britain.md) - 11 shared documents
+- [Caribbean](../locations/caribbean.md) - 11 shared documents
+- [Europe](../locations/europe.md) - 11 shared documents
 - [Dalton](../locations/dalton.md) - 10 shared documents
 
 **Events:**
 
-- [2002](../events/2002.md) - 14 shared documents
 - [1982](../events/1982.md) - 14 shared documents
+- [2002](../events/2002.md) - 14 shared documents
 - [2006](../events/2006.md) - 13 shared documents
+- [1953](../events/1953.md) - 11 shared documents
+- [1976](../events/1976.md) - 11 shared documents
+- [1995](../events/1995.md) - 11 shared documents
 - [2004](../events/2004.md) - 11 shared documents
 - [2007](../events/2007.md) - 11 shared documents
-- [the 1980s](../events/the-1980s.md) - 11 shared documents
-- [last year](../events/last-year.md) - 11 shared documents
-- [Sunday](../events/sunday.md) - 11 shared documents
 - [2010](../events/2010.md) - 11 shared documents
-- [1976](../events/1976.md) - 11 shared documents
+- [last year](../events/last-year.md) - 11 shared documents
 
 ## Timeline
 

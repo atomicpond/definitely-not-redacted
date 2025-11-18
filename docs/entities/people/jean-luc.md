@@ -45,25 +45,25 @@ Top 9 documents by mention frequency:
 
 - [Paris](../locations/paris.md) - 7 shared documents
 - [Florida](../locations/florida.md) - 5 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 5 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 5 shared documents
+- [the Southern District](../locations/the-southern-district.md) - 5 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
-- [London](../locations/london.md) - 4 shared documents
 - [France](../locations/france.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
+- [London](../locations/london.md) - 4 shared documents
+- [Miami](../locations/miami.md) - 4 shared documents
+- [New Mexico](../locations/new-mexico.md) - 4 shared documents
 - [New York City](../locations/new-york-city.md) - 4 shared documents
 
 **Events:**
 
-- [2004](../events/2004.md) - 5 shared documents
-- [daily](../events/daily.md) - 5 shared documents
-- [2005](../events/2005.md) - 5 shared documents
-- [Friday](../events/friday.md) - 5 shared documents
 - [2002](../events/2002.md) - 5 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [Wednesday](../events/wednesday.md) - 4 shared documents
-- [this week](../events/this-week.md) - 4 shared documents
+- [2004](../events/2004.md) - 5 shared documents
+- [2005](../events/2005.md) - 5 shared documents
+- [daily](../events/daily.md) - 5 shared documents
+- [Friday](../events/friday.md) - 5 shared documents
+- [2006](../events/2006.md) - 4 shared documents
+- [2010](../events/2010.md) - 4 shared documents
+- [April](../events/april.md) - 4 shared documents
 - [July](../events/july.md) - 4 shared documents
 - [last week](../events/last-week.md) - 4 shared documents
 

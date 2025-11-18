@@ -29,8 +29,9 @@ Top 10 documents by mention frequency:
 
 **People:**
 
+- [Donald 
+Trump](../people/donald-trump.md) - 6 shared documents
 - [Federal Reserve](../people/federal-reserve.md) - 6 shared documents
-- [President Trump](../people/president-trump.md) - 6 shared documents
 - [White House](../people/white-house.md) - 6 shared documents
 - [Central Bank](../people/central-bank.md) - 5 shared documents
 - [Merrill Lynch](../people/merrill-lynch.md) - 5 shared documents
@@ -56,15 +57,15 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [China](../locations/china.md) - 10 shared documents
-- [Europe](../locations/europe.md) - 9 shared documents
 - [Canada](../locations/canada.md) - 9 shared documents
+- [Europe](../locations/europe.md) - 9 shared documents
 - [Mexico](../locations/mexico.md) - 9 shared documents
 - [Japan](../locations/japan.md) - 8 shared documents
-- [Russia](../locations/russia.md) - 7 shared documents
-- [Washington](../locations/washington.md) - 7 shared documents
 - [Asia](../locations/asia.md) - 7 shared documents
-- [the United States](../locations/the-united-states.md) - 7 shared documents
+- [Australia](../locations/australia.md) - 7 shared documents
 - [Israel](../locations/israel.md) - 7 shared documents
+- [Russia](../locations/russia.md) - 7 shared documents
+- [the United States](../locations/the-united-states.md) - 7 shared documents
 
 **Events:**
 
@@ -72,12 +73,12 @@ Top 10 documents by mention frequency:
 - [2015](../events/2015.md) - 8 shared documents
 - [today](../events/today.md) - 8 shared documents
 - [2018](../events/2018.md) - 7 shared documents
-- [October](../events/october.md) - 6 shared documents
+- [2001](../events/2001.md) - 6 shared documents
+- [2010](../events/2010.md) - 6 shared documents
 - [2016](../events/2016.md) - 6 shared documents
-- [next year](../events/next-year.md) - 6 shared documents
 - [2017](../events/2017.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
-- [the year](../events/the-year.md) - 6 shared documents
+- [next year](../events/next-year.md) - 6 shared documents
+- [October](../events/october.md) - 6 shared documents
 
 ## Timeline
 

@@ -34,27 +34,26 @@ Top 7 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 7 shared documents
 - [the United States](../locations/the-united-states.md) - 7 shared documents
+- [United States](../locations/united-states.md) - 7 shared documents
 - [California](../locations/california.md) - 5 shared documents
-- [U.S.](../locations/us.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [New York City](../locations/new-york-city.md) - 5 shared documents
 - [S.D.](../locations/sd.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
+- [U.S.](../locations/us.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 
 **Events:**
 
-- [2004](../events/2004.md) - 7 shared documents
-- [years](../events/years.md) - 7 shared documents
 - [1993](../events/1993.md) - 7 shared documents
 - [2001](../events/2001.md) - 7 shared documents
-- [1996](../events/1996.md) - 6 shared documents
-- [1984](../events/1984.md) - 6 shared documents
-- [the years](../events/the-years.md) - 6 shared documents
-- [2002](../events/2002.md) - 6 shared documents
+- [2004](../events/2004.md) - 7 shared documents
+- [years](../events/years.md) - 7 shared documents
 - [1976](../events/1976.md) - 6 shared documents
 - [1982](../events/1982.md) - 6 shared documents
+- [1983](../events/1983.md) - 6 shared documents
+- [1984](../events/1984.md) - 6 shared documents
+- [1996](../events/1996.md) - 6 shared documents
+- [2002](../events/2002.md) - 6 shared documents
 
 ## Timeline
 

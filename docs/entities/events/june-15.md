@@ -51,8 +51,8 @@ Top 6 documents by mention frequency:
 - [one year](one-year.md) - 5 shared documents
 - [years](years.md) - 5 shared documents
 - [2012](2012.md) - 5 shared documents
-- [July](july.md) - 5 shared documents
 - [2013](2013.md) - 5 shared documents
+- [July](july.md) - 5 shared documents
 - [June](june.md) - 5 shared documents
 - [last week](last-week.md) - 4 shared documents
 - [last year](last-year.md) - 4 shared documents

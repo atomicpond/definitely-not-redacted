@@ -10,7 +10,7 @@
 
 ### People
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [jeffrey E. <](../entities/people/jeffrey-e.md) - 1 mention
 - [Reid](../entities/people/reid.md) - 1 mention
 - [On Jun](../entities/people/on-jun.md) - 1 mention

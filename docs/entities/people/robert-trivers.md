@@ -39,25 +39,25 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [California](../locations/california.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
 - [Boston](../locations/boston.md) - 5 shared documents
+- [California](../locations/california.md) - 5 shared documents
 - [Jamaica](../locations/jamaica.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
 - [Iraq](../locations/iraq.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 7 shared documents
 - [years](../events/years.md) - 6 shared documents
 - [the day](../events/the-day.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [1996](../events/1996.md) - 4 shared documents
+- [1964](../events/1964.md) - 4 shared documents
+- [1989](../events/1989.md) - 4 shared documents
 - [1990](../events/1990.md) - 4 shared documents
+- [1996](../events/1996.md) - 4 shared documents
 - [2001](../events/2001.md) - 4 shared documents
-- [2010](../events/2010.md) - 4 shared documents
-- [one day](../events/one-day.md) - 4 shared documents
 - [2002](../events/2002.md) - 4 shared documents
+- [2003](../events/2003.md) - 4 shared documents
 
 ## Timeline
 

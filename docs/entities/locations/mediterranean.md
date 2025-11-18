@@ -29,15 +29,14 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 17 shared documents
-- [President Obama](../people/president-obama.md) - 14 shared documents
-- [Mr. Obama](../people/obama.md) - 13 shared documents
 - [Middle East](../people/middle-east.md) - 12 shared documents
-- [CLINTON](../people/clinton.md) - 11 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 11 shared documents
 - [Cold War](../people/cold-war.md) - 11 shared documents
 - [George W. Bush](../people/george-w-bush.md) - 10 shared documents
 - [Hosni Mubarak](../people/hosni-mubarak.md) - 9 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 9 shared documents
+- [Communist Party](../people/communist-party.md) - 8 shared documents
 
 **Organizations:**
 
@@ -62,21 +61,21 @@ Top 10 documents by mention frequency:
 - [Syria](syria.md) - 16 shared documents
 - [the United States](the-united-states.md) - 16 shared documents
 - [Washington](washington.md) - 16 shared documents
+- [Britain](britain.md) - 16 shared documents
 - [Iran](iran.md) - 16 shared documents
-- [Iraq](iraq.md) - 16 shared documents
 
 **Events:**
 
 - [years](../events/years.md) - 17 shared documents
-- [today](../events/today.md) - 15 shared documents
 - [last week](../events/last-week.md) - 15 shared documents
+- [today](../events/today.md) - 15 shared documents
 - [2008](../events/2008.md) - 12 shared documents
 - [1967](../events/1967.md) - 11 shared documents
 - [three years](../events/three-years.md) - 10 shared documents
-- [2003](../events/2003.md) - 9 shared documents
 - [1996](../events/1996.md) - 9 shared documents
-- [the year](../events/the-year.md) - 9 shared documents
+- [2003](../events/2003.md) - 9 shared documents
 - [a decade](../events/a-decade.md) - 9 shared documents
+- [September](../events/september.md) - 9 shared documents
 
 ## Timeline
 

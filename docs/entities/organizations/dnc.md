@@ -28,19 +28,18 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [President Trump](../people/president-trump.md) - 8 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 7 shared documents
 - [Carter Page](../people/carter-page.md) - 7 shared documents
-- [CLINTON](../people/clinton.md) - 7 shared documents
-- [Donald 
-Trump](../people/donald-trump.md) - 7 shared documents
 - [Federal Bureau](../people/federal-bureau.md) - 7 shared documents
-- [James Comey](../people/james-comey.md) - 7 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 7 shared documents
 - [Christopher Steele](../people/christopher-steele.md) - 6 shared documents
-- [Mr. 
-Comey](../people/comey.md) - 6 shared documents
 - [Democratic National Committee](../people/democratic-national-committee.md) - 6 shared documents
+- [Deputy Attorney General](../people/deputy-attorney-general.md) - 6 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 6 shared documents
+- [Foreign Intelligence Surveillance](../people/foreign-intelligence-surveillance.md) - 6 shared documents
+- [George H.W. Bush](../people/george-hw-bush.md) - 6 shared documents
+- [George Papadopoulos](../people/george-papadopoulos.md) - 6 shared documents
 
 **Organizations:**
 
@@ -50,8 +49,8 @@ Comey](../people/comey.md) - 6 shared documents
 - [Senate](senate.md) - 7 shared documents
 - [the New York Times](the-new-york-times.md) - 7 shared documents
 - [the Supreme Court](the-supreme-court.md) - 7 shared documents
-- [Congress](congress.md) - 7 shared documents
 - [CIA](cia.md) - 7 shared documents
+- [Congress](congress.md) - 7 shared documents
 - [Hill](hill.md) - 6 shared documents
 - [HOUSE](house.md) - 6 shared documents
 
@@ -67,16 +66,15 @@ Comey](../people/comey.md) - 6 shared documents
 **Events:**
 
 - [2016](../events/2016.md) - 7 shared documents
+- [1987](../events/1987.md) - 6 shared documents
 - [2012](../events/2012.md) - 6 shared documents
 - [months](../events/months.md) - 6 shared documents
 - [more than a year](../events/more-than-a-year.md) - 6 shared documents
-- [1987](../events/1987.md) - 6 shared documents
-- [2018](../events/2018.md) - 5 shared documents
-- [1974](../events/1974.md) - 5 shared documents
-- [May 2017](../events/may-2017.md) - 5 shared documents
-- [Sept
-23](../events/sept-23.md) - 5 shared documents
+- [12:56:55 AM EDT](../events/125655-am-edt.md) - 5 shared documents
 - [1973](../events/1973.md) - 5 shared documents
+- [1974](../events/1974.md) - 5 shared documents
+- [2018](../events/2018.md) - 5 shared documents
+- [6/23/2018](../events/6232018.md) - 5 shared documents
 
 ## Timeline
 

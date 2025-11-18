@@ -10,7 +10,7 @@
 
 ### People
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Bill Gates](../entities/people/bill-gates.md) - 1 mention
 
 ### Organizations

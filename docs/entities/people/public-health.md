@@ -31,22 +31,19 @@ Top 10 documents by mention frequency:
 
 - [HOUSE](../organizations/house.md) - 5 shared documents
 - [State](../organizations/state.md) - 5 shared documents
-- [Congress](../organizations/congress.md) - 4 shared documents
-- [Supreme Court](../organizations/supreme-court.md) - 4 shared documents
-- [Harvard](../organizations/harvard.md) - 4 shared documents
 
 **Locations:**
 
 - [Washington](../locations/washington.md) - 7 shared documents
 - [D.C.](../locations/dc.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 6 shared documents
-- [U.S.](../locations/us.md) - 5 shared documents
 - [China](../locations/china.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
+- [U.S.](../locations/us.md) - 5 shared documents
 - [Africa](../locations/africa.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
+- [Asia](../locations/asia.md) - 4 shared documents
+- [Boston](../locations/boston.md) - 4 shared documents
+- [California](../locations/california.md) - 4 shared documents
+- [France](../locations/france.md) - 4 shared documents
 
 **Events:**
 
@@ -54,12 +51,12 @@ Top 10 documents by mention frequency:
 - [2003](../events/2003.md) - 6 shared documents
 - [2004](../events/2004.md) - 6 shared documents
 - [annual](../events/annual.md) - 6 shared documents
-- [2007](../events/2007.md) - 5 shared documents
-- [2000](../events/2000.md) - 5 shared documents
-- [2012](../events/2012.md) - 5 shared documents
 - [1997](../events/1997.md) - 5 shared documents
 - [1999](../events/1999.md) - 5 shared documents
+- [2000](../events/2000.md) - 5 shared documents
 - [2001](../events/2001.md) - 5 shared documents
+- [2006](../events/2006.md) - 5 shared documents
+- [2007](../events/2007.md) - 5 shared documents
 
 ## Timeline
 

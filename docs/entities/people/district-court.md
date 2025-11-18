@@ -36,9 +36,9 @@ Top 10 documents by mention frequency:
 - [Rights Act](rights-act.md) - 11 shared documents
 - [Gerald Lefcourt](gerald-lefcourt.md) - 9 shared documents
 - [Legal Counsel](legal-counsel.md) - 9 shared documents
-- [President Obama](president-obama.md) - 9 shared documents
 - [Secret Service](secret-service.md) - 9 shared documents
 - [Eastern Europe](eastern-europe.md) - 8 shared documents
+- [Kenneth Starr](kenneth-starr.md) - 8 shared documents
 
 **Organizations:**
 
@@ -56,10 +56,10 @@ Top 10 documents by mention frequency:
 - [New York](../locations/new-york.md) - 19 shared documents
 - [Virginia](../locations/virginia.md) - 19 shared documents
 - [California](../locations/california.md) - 16 shared documents
+- [France](../locations/france.md) - 16 shared documents
 - [U.S.](../locations/us.md) - 16 shared documents
 - [Washington](../locations/washington.md) - 16 shared documents
-- [France](../locations/france.md) - 16 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 15 shared documents
+- [America](../locations/america.md) - 15 shared documents
 
 **Events:**
 
@@ -69,10 +69,10 @@ Top 10 documents by mention frequency:
 - [1999](../events/1999.md) - 19 shared documents
 - [2002](../events/2002.md) - 19 shared documents
 - [2008](../events/2008.md) - 18 shared documents
-- [2009](../events/2009.md) - 17 shared documents
-- [daily](../events/daily.md) - 17 shared documents
 - [1998](../events/1998.md) - 17 shared documents
 - [2001](../events/2001.md) - 17 shared documents
+- [2005](../events/2005.md) - 17 shared documents
+- [2009](../events/2009.md) - 17 shared documents
 
 ## Timeline
 

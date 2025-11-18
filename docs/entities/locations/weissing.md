@@ -30,9 +30,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Bradley J. Edwards](../people/bradley-j-edwards.md) - 14 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 10 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 10 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 14 shared documents
 - [Jack Scarola](../people/jack-scarola.md) - 10 shared documents
 - [Jane Doe](../people/jane-doe.md) - 10 shared documents
 - [Paul G. Cassell](../people/paul-g-cassell.md) - 9 shared documents
@@ -41,6 +39,8 @@ Top 10 documents by mention frequency:
 - [Alfredo Rodriguez](../people/alfredo-rodriguez.md) - 7 shared documents
 - [Boulevard
 West Palm](../people/boulevard-west-palm.md) - 7 shared documents
+- [Crime Victims](../people/crime-victims.md) - 7 shared documents
+- [David Copperfield](../people/david-copperfield.md) - 6 shared documents
 
 **Organizations:**
 
@@ -60,27 +60,27 @@ University](../organizations/quinney-college-of-law-at-the-university.md) - 7 sh
 
 - [West Palm Beach](west-palm-beach.md) - 14 shared documents
 - [Florida](florida.md) - 14 shared documents
+- [Fort Lauderdale](fort-lauderdale.md) - 12 shared documents
 - [New York](new-york.md) - 12 shared documents
 - [United States](united-states.md) - 12 shared documents
-- [Fort Lauderdale](fort-lauderdale.md) - 12 shared documents
-- [U.S.](us.md) - 11 shared documents
 - [Palm Beach, FL](palm-beach-fl.md) - 11 shared documents
+- [U.S.](us.md) - 11 shared documents
+- [Edwards](edwards.md) - 10 shared documents
 - [Palm Beach](palm-beach.md) - 10 shared documents
 - [Palm Beach County](palm-beach-county.md) - 10 shared documents
-- [Edwards](edwards.md) - 10 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 9 shared documents
 - [daily](../events/daily.md) - 9 shared documents
-- [2009](../events/2009.md) - 8 shared documents
-- [2008](../events/2008.md) - 8 shared documents
+- [today](../events/today.md) - 9 shared documents
 - [14](../events/14.md) - 8 shared documents
-- [2011](../events/2011.md) - 7 shared documents
-- [1998](../events/1998.md) - 7 shared documents
+- [2008](../events/2008.md) - 8 shared documents
+- [2009](../events/2009.md) - 8 shared documents
 - [10](../events/10.md) - 7 shared documents
+- [1998](../events/1998.md) - 7 shared documents
 - [2](../events/2.md) - 7 shared documents
-- [2007](../events/2007.md) - 6 shared documents
+- [2011](../events/2011.md) - 7 shared documents
+- [18 U.S.C. § 3771](../events/18-usc-3771.md) - 6 shared documents
 
 ## Timeline
 

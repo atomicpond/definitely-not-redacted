@@ -31,7 +31,7 @@ Top 8 documents by mention frequency:
 - [Jane Doe](jane-doe.md) - 7 shared documents
 - [Meredith Schultz](meredith-schultz.md) - 6 shared documents
 - [Victims Refuse Silence](victims-refuse-silence.md) - 6 shared documents
-- [Bradley J. Edwards](bradley-j-edwards.md) - 6 shared documents
+- [Brad Edwards](brad-edwards.md) - 6 shared documents
 - [Rights Act](rights-act.md) - 5 shared documents
 - [Sigrid S. McCawley](sigrid-s-mccawley.md) - 5 shared documents
 - [Jane Doe 1](jane-doe-1.md) - 5 shared documents
@@ -39,40 +39,38 @@ Top 8 documents by mention frequency:
 **Organizations:**
 
 - [Court](../organizations/court.md) - 6 shared documents
-- [Ghislaine Maxwell](../organizations/ghislaine-maxwell.md) - 5 shared documents
-- [Maxwell](../organizations/maxwell.md) - 5 shared documents
 - [CVRA](../organizations/cvra.md) - 5 shared documents
-- [Ghislaine](../organizations/ghislaine.md) - 5 shared documents
 - [FISTOS & LEHRMAN](../organizations/fistos-lehrman.md) - 5 shared documents
+- [Ghislaine](../organizations/ghislaine.md) - 5 shared documents
+- [Ghislaine Maxwell](../organizations/ghislaine-maxwell.md) - 5 shared documents
 - [JAFFE](../organizations/jaffe.md) - 5 shared documents
-- [District Court](../organizations/district-court.md) - 4 shared documents
-- [Fed](../organizations/fed.md) - 4 shared documents
+- [Maxwell](../organizations/maxwell.md) - 5 shared documents
 
 **Locations:**
 
 - [United States](../locations/united-states.md) - 8 shared documents
 - [Virginia](../locations/virginia.md) - 8 shared documents
-- [New York](../locations/new-york.md) - 7 shared documents
-- [U.S.](../locations/us.md) - 7 shared documents
 - [Lauderdale](../locations/lauderdale.md) - 7 shared documents
 - [Lauderdale, FL](../locations/lauderdale-fl.md) - 7 shared documents
-- [London](../locations/london.md) - 6 shared documents
+- [New York](../locations/new-york.md) - 7 shared documents
+- [U.S.](../locations/us.md) - 7 shared documents
 - [Florida](../locations/florida.md) - 6 shared documents
-- [Salt Lake City](../locations/salt-lake-city.md) - 6 shared documents
 - [Lake City, UT](../locations/lake-city-ut.md) - 6 shared documents
+- [London](../locations/london.md) - 6 shared documents
+- [Salt Lake City](../locations/salt-lake-city.md) - 6 shared documents
 
 **Events:**
 
+- [1999](../events/1999.md) - 6 shared documents
 - [2009](../events/2009.md) - 6 shared documents
+- [2011](../events/2011.md) - 6 shared documents
+- [2013](../events/2013.md) - 6 shared documents
 - [2015](../events/2015.md) - 6 shared documents
 - [today](../events/today.md) - 6 shared documents
-- [2011](../events/2011.md) - 6 shared documents
-- [1999](../events/1999.md) - 6 shared documents
-- [2013](../events/2013.md) - 6 shared documents
-- [2016](../events/2016.md) - 5 shared documents
+- [15](../events/15.md) - 5 shared documents
+- [1989](../events/1989.md) - 5 shared documents
 - [2001](../events/2001.md) - 5 shared documents
 - [2008](../events/2008.md) - 5 shared documents
-- [2010](../events/2010.md) - 5 shared documents
 
 ## Timeline
 

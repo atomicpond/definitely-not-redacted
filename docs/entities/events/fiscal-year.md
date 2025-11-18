@@ -32,7 +32,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 8 shared documents
+- [Barack Obama](../people/barack-obama.md) - 8 shared documents
 - [Wealth Management](../people/wealth-management.md) - 7 shared documents
 
 **Organizations:**
@@ -61,16 +61,16 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
-- [2018](2018.md) - 11 shared documents
 - [2012](2012.md) - 11 shared documents
+- [2018](2018.md) - 11 shared documents
+- [2013](2013.md) - 10 shared documents
 - [2014](2014.md) - 10 shared documents
 - [2015](2015.md) - 10 shared documents
 - [annual](annual.md) - 10 shared documents
-- [2013](2013.md) - 10 shared documents
 - [2001](2001.md) - 9 shared documents
 - [five years](five-years.md) - 8 shared documents
 - [monthly](monthly.md) - 8 shared documents
-- [2004](2004.md) - 8 shared documents
+- [10 years](10-years.md) - 8 shared documents
 
 ## Timeline
 

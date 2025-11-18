@@ -35,7 +35,7 @@ Top 10 documents by mention frequency:
 - [New Mexico](new-mexico.md) - 7 shared documents
 - [Paul Cassell](paul-cassell.md) - 7 shared documents
 - [Robert Maxwell](robert-maxwell.md) - 7 shared documents
-- [Bradley Edwards](bradley-edwards.md) - 6 shared documents
+- [Brad Edwards](brad-edwards.md) - 6 shared documents
 - [Chris Tucker](chris-tucker.md) - 6 shared documents
 - [Jack Goldberger](jack-goldberger.md) - 6 shared documents
 - [Jack Scarola](jack-scarola.md) - 6 shared documents
@@ -54,24 +54,24 @@ Top 10 documents by mention frequency:
 - [West Palm Beach](../locations/west-palm-beach.md) - 10 shared documents
 - [Manhattan](../locations/manhattan.md) - 9 shared documents
 - [New Mexico](../locations/new-mexico.md) - 9 shared documents
+- [England](../locations/england.md) - 7 shared documents
 - [Europe](../locations/europe.md) - 7 shared documents
 - [Miami](../locations/miami.md) - 7 shared documents
 - [Paris](../locations/paris.md) - 7 shared documents
-- [England](../locations/england.md) - 7 shared documents
 - [the Virgin Islands](../locations/the-virgin-islands.md) - 7 shared documents
 
 **Events:**
 
 - [13 months](../events/13-months.md) - 10 shared documents
 - [18 months](../events/18-months.md) - 10 shared documents
+- [2002](../events/2002.md) - 9 shared documents
 - [2004](../events/2004.md) - 9 shared documents
 - [last week](../events/last-week.md) - 9 shared documents
-- [2002](../events/2002.md) - 9 shared documents
 - [2007](../events/2007.md) - 8 shared documents
 - [2009](../events/2009.md) - 8 shared documents
 - [2010](../events/2010.md) - 8 shared documents
 - [2003](../events/2003.md) - 7 shared documents
-- [2011](../events/2011.md) - 7 shared documents
+- [2005](../events/2005.md) - 7 shared documents
 
 ## Timeline
 

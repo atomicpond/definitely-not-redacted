@@ -54,14 +54,14 @@ Top 10 documents by mention frequency:
 
 - [the day](the-day.md) - 16 shared documents
 - [today](today.md) - 12 shared documents
-- [daily](daily.md) - 12 shared documents
 - [2001](2001.md) - 12 shared documents
+- [daily](daily.md) - 12 shared documents
+- [1959](1959.md) - 11 shared documents
 - [2015](2015.md) - 11 shared documents
 - [monthly](monthly.md) - 11 shared documents
-- [1959](1959.md) - 11 shared documents
 - [this year](this-year.md) - 10 shared documents
 - [years](years.md) - 10 shared documents
-- [2017](2017.md) - 10 shared documents
+- [2002](2002.md) - 10 shared documents
 
 ## Timeline
 

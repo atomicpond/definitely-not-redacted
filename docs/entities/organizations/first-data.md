@@ -26,11 +26,11 @@ Top 5 documents by mention frequency:
 
 - [San Francisco](../people/san-francisco.md) - 5 shared documents
 - [Asia Pacific](../people/asia-pacific.md) - 4 shared documents
+- [Barack Obama](../people/barack-obama.md) - 4 shared documents
 - [General Partners](../people/general-partners.md) - 4 shared documents
 - [Global Head](../people/global-head.md) - 4 shared documents
 - [Goldman Sachs](../people/goldman-sachs.md) - 4 shared documents
 - [Peter Thiel](../people/peter-thiel.md) - 4 shared documents
-- [President Obama](../people/president-obama.md) - 4 shared documents
 
 **Organizations:**
 
@@ -46,16 +46,16 @@ Top 5 documents by mention frequency:
 **Locations:**
 
 - [San Francisco](../locations/san-francisco.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
-- [U.S.](../locations/us.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
 - [Germany](../locations/germany.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
 - [New York City](../locations/new-york-city.md) - 4 shared documents
+- [U.S.](../locations/us.md) - 4 shared documents
 
 **Events:**
 
-- [2014](../events/2014.md) - 4 shared documents
 - [2013](../events/2013.md) - 4 shared documents
+- [2014](../events/2014.md) - 4 shared documents
 
 ## Timeline
 

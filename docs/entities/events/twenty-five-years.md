@@ -48,11 +48,11 @@ Top 7 documents by mention frequency:
 
 **Events:**
 
-- [today](today.md) - 6 shared documents
+- [1995](1995.md) - 6 shared documents
 - [1996](1996.md) - 6 shared documents
 - [daily](daily.md) - 6 shared documents
 - [decades](decades.md) - 6 shared documents
-- [1995](1995.md) - 6 shared documents
+- [today](today.md) - 6 shared documents
 - [twenty years](twenty-years.md) - 5 shared documents
 - [two days](two-days.md) - 5 shared documents
 - [two years](two-years.md) - 5 shared documents

@@ -53,9 +53,9 @@ Top 7 documents by mention frequency:
 - [the years](the-years.md) - 6 shared documents
 - [this day](this-day.md) - 6 shared documents
 - [today](today.md) - 6 shared documents
-- [2003](2003.md) - 6 shared documents
+- [1949](1949.md) - 6 shared documents
+- [1984](1984.md) - 6 shared documents
 - [1996](1996.md) - 6 shared documents
-- [daily](daily.md) - 6 shared documents
 
 ## Timeline
 

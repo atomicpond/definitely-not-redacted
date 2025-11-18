@@ -57,9 +57,9 @@ Top 7 documents by mention frequency:
 - [today](today.md) - 7 shared documents
 - [Sunday](sunday.md) - 6 shared documents
 - [2009](2009.md) - 6 shared documents
+- [2011](2011.md) - 6 shared documents
 - [2012](2012.md) - 6 shared documents
 - [daily](daily.md) - 6 shared documents
-- [2011](2011.md) - 6 shared documents
 - [last year](last-year.md) - 5 shared documents
 - [many years](many-years.md) - 5 shared documents
 - [Monday](monday.md) - 5 shared documents

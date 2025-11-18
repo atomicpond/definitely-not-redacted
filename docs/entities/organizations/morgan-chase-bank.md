@@ -38,10 +38,10 @@ Chief](../people/michael-cembalest-chief.md) - 6 shared documents
 - [Securities products purchased or sold through JPMS are not insured by the Federal Deposit Insurance Corporation](securities-products-purchased-or-sold-through-jpms-are-not-insured-by-the-federal-deposit-insurance-corporation.md) - 7 shared documents
 - [SIPC](sipc.md) - 7 shared documents
 - [the Federal Deposit Insurance Corporation](the-federal-deposit-insurance-corporation.md) - 7 shared documents
-- [JPMorgan Chase & Co.](jpmorgan-chase-co.md) - 7 shared documents
+- [Balanced Model Portfolios](balanced-model-portfolios.md) - 7 shared documents
 - [Bank](bank.md) - 7 shared documents
-- [FINRA](finra.md) - 7 shared documents
 - [FDIC](fdic.md) - 7 shared documents
+- [FINRA](finra.md) - 7 shared documents
 
 **Locations:**
 
@@ -51,15 +51,15 @@ Chief](../people/michael-cembalest-chief.md) - 6 shared documents
 - [Asia](../locations/asia.md) - 5 shared documents
 - [Greece](../locations/greece.md) - 5 shared documents
 - [Spain](../locations/spain.md) - 5 shared documents
-- [Latin America](../locations/latin-america.md) - 4 shared documents
 - [Ireland](../locations/ireland.md) - 4 shared documents
+- [Latin America](../locations/latin-america.md) - 4 shared documents
 
 **Events:**
 
 - [this year](../events/this-year.md) - 5 shared documents
 - [2012](../events/2012.md) - 4 shared documents
-- [next year](../events/next-year.md) - 4 shared documents
 - [last week](../events/last-week.md) - 4 shared documents
+- [next year](../events/next-year.md) - 4 shared documents
 
 ## Timeline
 

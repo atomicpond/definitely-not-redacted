@@ -43,36 +43,37 @@ Top 10 documents by mention frequency:
 - [the Dubai Financial Services Authority](the-dubai-financial-services-authority.md) - 7 shared documents
 - [Bank of America](bank-of-america.md) - 7 shared documents
 - [Bloomberg](bloomberg.md) - 7 shared documents
+- [Euro](euro.md) - 7 shared documents
 - [Fed](fed.md) - 7 shared documents
 - [FINRA](finra.md) - 7 shared documents
-- [Euro](euro.md) - 7 shared documents
 - [JPY](jpy.md) - 6 shared documents
 - [MAS](mas.md) - 6 shared documents
 
 **Locations:**
 
 - [Japan](../locations/japan.md) - 10 shared documents
+- [Brazil](../locations/brazil.md) - 9 shared documents
 - [China](../locations/china.md) - 9 shared documents
 - [Europe](../locations/europe.md) - 9 shared documents
-- [Brazil](../locations/brazil.md) - 9 shared documents
 - [Mexico](../locations/mexico.md) - 9 shared documents
 - [Spain](../locations/spain.md) - 9 shared documents
-- [Dubai](../locations/dubai.md) - 7 shared documents
-- [Russia](../locations/russia.md) - 7 shared documents
-- [Canada](../locations/canada.md) - 7 shared documents
+- [Argentina](../locations/argentina.md) - 7 shared documents
 - [Asia](../locations/asia.md) - 7 shared documents
+- [Australia](../locations/australia.md) - 7 shared documents
+- [Canada](../locations/canada.md) - 7 shared documents
 
 **Events:**
 
-- [2018](../events/2018.md) - 8 shared documents
 - [2015](../events/2015.md) - 8 shared documents
+- [2018](../events/2018.md) - 8 shared documents
 - [this year](../events/this-year.md) - 8 shared documents
-- [today](../events/today.md) - 7 shared documents
 - [December](../events/december.md) - 7 shared documents
-- [2016](../events/2016.md) - 6 shared documents
+- [today](../events/today.md) - 7 shared documents
 - [2000](../events/2000.md) - 6 shared documents
+- [2001](../events/2001.md) - 6 shared documents
+- [2013](../events/2013.md) - 6 shared documents
+- [2016](../events/2016.md) - 6 shared documents
 - [2017](../events/2017.md) - 6 shared documents
-- [monthly](../events/monthly.md) - 6 shared documents
 
 ## Timeline
 

@@ -40,22 +40,22 @@ Top 10 documents by mention frequency:
 - [Germany](germany.md) - 5 shared documents
 - [London](london.md) - 5 shared documents
 - [NYC](nyc.md) - 5 shared documents
-- [Europe](europe.md) - 4 shared documents
 - [America](america.md) - 4 shared documents
 - [Chicago](chicago.md) - 4 shared documents
+- [Europe](europe.md) - 4 shared documents
 
 **Events:**
 
+- [1983](../events/1983.md) - 5 shared documents
+- [1995](../events/1995.md) - 5 shared documents
 - [1997](../events/1997.md) - 5 shared documents
 - [1998](../events/1998.md) - 5 shared documents
 - [a year](../events/a-year.md) - 5 shared documents
 - [winter](../events/winter.md) - 5 shared documents
-- [1983](../events/1983.md) - 5 shared documents
-- [1995](../events/1995.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [2007](../events/2007.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
+- [1960](../events/1960.md) - 4 shared documents
+- [1989](../events/1989.md) - 4 shared documents
 - [2000](../events/2000.md) - 4 shared documents
+- [2001](../events/2001.md) - 4 shared documents
 
 ## Timeline
 

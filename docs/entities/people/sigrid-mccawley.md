@@ -28,44 +28,43 @@ Top 7 documents by mention frequency:
 
 - [David Boies](david-boies.md) - 6 shared documents
 - [Jane Doe](jane-doe.md) - 6 shared documents
+- [Fifth Amendment](fifth-amendment.md) - 5 shared documents
 - [Jack Scarola](jack-scarola.md) - 5 shared documents
+- [Juan Alessi](juan-alessi.md) - 5 shared documents
 - [New Mexico](new-mexico.md) - 5 shared documents
 - [Sarah Kellen](sarah-kellen.md) - 5 shared documents
-- [Fifth Amendment](fifth-amendment.md) - 5 shared documents
-- [Juan Alessi](juan-alessi.md) - 5 shared documents
-- [Boies Schiller](boies-schiller.md) - 4 shared documents
 
 **Organizations:**
 
 - [FBI](../organizations/fbi.md) - 5 shared documents
-- [Maxwell](../organizations/maxwell.md) - 5 shared documents
 - [Marcinkova](../organizations/marcinkova.md) - 5 shared documents
+- [Maxwell](../organizations/maxwell.md) - 5 shared documents
 
 **Locations:**
 
-- [London](../locations/london.md) - 6 shared documents
 - [Florida](../locations/florida.md) - 6 shared documents
-- [Palm Beach](../locations/palm-beach.md) - 6 shared documents
 - [Fort Lauderdale](../locations/fort-lauderdale.md) - 6 shared documents
-- [U.S.](../locations/us.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
-- [Virginia](../locations/virginia.md) - 5 shared documents
+- [London](../locations/london.md) - 6 shared documents
+- [Palm Beach](../locations/palm-beach.md) - 6 shared documents
+- [Australia](../locations/australia.md) - 5 shared documents
+- [England](../locations/england.md) - 5 shared documents
 - [Miami](../locations/miami.md) - 5 shared documents
+- [New Mexico](../locations/new-mexico.md) - 5 shared documents
+- [Thailand](../locations/thailand.md) - 5 shared documents
+- [the Southern District](../locations/the-southern-district.md) - 5 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 6 shared documents
 - [18](../events/18.md) - 6 shared documents
-- [2009](../events/2009.md) - 5 shared documents
-- [2015](../events/2015.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [2011](../events/2011.md) - 5 shared documents
-- [2010](../events/2010.md) - 5 shared documents
+- [today](../events/today.md) - 6 shared documents
 - [2002](../events/2002.md) - 5 shared documents
+- [2009](../events/2009.md) - 5 shared documents
+- [2010](../events/2010.md) - 5 shared documents
+- [2011](../events/2011.md) - 5 shared documents
+- [2015](../events/2015.md) - 5 shared documents
 - [January](../events/january.md) - 5 shared documents
 - [the day](../events/the-day.md) - 5 shared documents
+- [years](../events/years.md) - 5 shared documents
 
 ## Timeline
 

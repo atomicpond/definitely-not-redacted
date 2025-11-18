@@ -11,7 +11,7 @@
 ### People
 - [Steve Bannon](../entities/people/steve-bannon.md) - 7 mentions
 - [Susan Rice](../entities/people/susan-rice.md) - 4 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 4 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 4 mentions
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 3 mentions
 - [On Sat](../entities/people/on-sat.md) - 3 mentions
 - [High 

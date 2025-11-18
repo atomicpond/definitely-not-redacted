@@ -41,42 +41,42 @@ Top 9 documents by mention frequency:
 
 **Organizations:**
 
-- [HBO](../organizations/hbo.md) - 8 shared documents
 - [Disney](../organizations/disney.md) - 8 shared documents
+- [HBO](../organizations/hbo.md) - 8 shared documents
 - [Paramount](../organizations/paramount.md) - 8 shared documents
 - [Sony](../organizations/sony.md) - 8 shared documents
-- [Viacom](../organizations/viacom.md) - 7 shared documents
 - [Academy](../organizations/academy.md) - 7 shared documents
 - [UTA](../organizations/uta.md) - 7 shared documents
 - [Vanity Fair](../organizations/vanity-fair.md) - 7 shared documents
+- [Viacom](../organizations/viacom.md) - 7 shared documents
 - [Marchesa](../organizations/marchesa.md) - 6 shared documents
 - [MontBlanc](../organizations/montblanc.md) - 6 shared documents
 
 **Locations:**
 
 - [Paris](../locations/paris.md) - 8 shared documents
+- [Cannes](../locations/cannes.md) - 7 shared documents
 - [New York](../locations/new-york.md) - 7 shared documents
 - [Toronto](../locations/toronto.md) - 7 shared documents
-- [Cannes](../locations/cannes.md) - 7 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
-- [London](../locations/london.md) - 6 shared documents
 - [America](../locations/america.md) - 6 shared documents
-- [Rome](../locations/rome.md) - 6 shared documents
-- [New York City](../locations/new-york-city.md) - 6 shared documents
 - [Beverly Hills](../locations/beverly-hills.md) - 6 shared documents
+- [London](../locations/london.md) - 6 shared documents
+- [New York City](../locations/new-york-city.md) - 6 shared documents
+- [Rome](../locations/rome.md) - 6 shared documents
+- [Washington](../locations/washington.md) - 6 shared documents
 
 **Events:**
 
-- [this year](../events/this-year.md) - 7 shared documents
 - [the year](../events/the-year.md) - 7 shared documents
+- [this year](../events/this-year.md) - 7 shared documents
 - [last year](../events/last-year.md) - 6 shared documents
-- [Sunday](../events/sunday.md) - 6 shared documents
 - [March](../events/march.md) - 6 shared documents
+- [Sunday](../events/sunday.md) - 6 shared documents
 - [the next day](../events/the-next-day.md) - 6 shared documents
-- [annual](../events/annual.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
+- [1982](../events/1982.md) - 5 shared documents
 - [2005](../events/2005.md) - 5 shared documents
-- [December](../events/december.md) - 5 shared documents
+- [annual](../events/annual.md) - 5 shared documents
+- [Christmas](../events/christmas.md) - 5 shared documents
 
 ## Timeline
 

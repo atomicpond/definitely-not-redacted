@@ -25,8 +25,8 @@ Top 5 documents by mention frequency:
 **Organizations:**
 
 - [FBI](../organizations/fbi.md) - 5 shared documents
-- [Harvard](../organizations/harvard.md) - 4 shared documents
 - [DOJ](../organizations/doj.md) - 4 shared documents
+- [Harvard](../organizations/harvard.md) - 4 shared documents
 - [the Department of Justice](../organizations/the-department-of-justice.md) - 4 shared documents
 
 **Locations:**

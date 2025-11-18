@@ -19,7 +19,7 @@ Security](../entities/people/homeland-security.md) - 2 mentions
 - [San Diego](../entities/people/san-diego.md) - 1 mention
 - [Treasury Department](../entities/people/treasury-department.md) - 1 mention
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [United 
 States](../entities/people/united-states.md) - 1 mention
 

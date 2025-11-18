@@ -69,14 +69,14 @@ Top 10 documents by mention frequency:
 
 - [daily](../events/daily.md) - 8 shared documents
 - [2008](../events/2008.md) - 7 shared documents
-- [2004](../events/2004.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [2005](../events/2005.md) - 6 shared documents
-- [2010](../events/2010.md) - 6 shared documents
-- [2006](../events/2006.md) - 6 shared documents
-- [2002](../events/2002.md) - 6 shared documents
 - [14](../events/14.md) - 6 shared documents
-- [2009](../events/2009.md) - 5 shared documents
+- [2002](../events/2002.md) - 6 shared documents
+- [2004](../events/2004.md) - 6 shared documents
+- [2005](../events/2005.md) - 6 shared documents
+- [2006](../events/2006.md) - 6 shared documents
+- [2010](../events/2010.md) - 6 shared documents
+- [today](../events/today.md) - 6 shared documents
+- [1984](../events/1984.md) - 5 shared documents
 
 ## Timeline
 

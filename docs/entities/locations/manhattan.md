@@ -34,7 +34,6 @@ Top 10 documents by mention frequency:
 - [Vanity Fair](../people/vanity-fair.md) - 32 shared documents
 - [Jane Doe](../people/jane-doe.md) - 26 shared documents
 - [Michael Reiter](../people/michael-reiter.md) - 26 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 22 shared documents
 - [Robert Maxwell](../people/robert-maxwell.md) - 22 shared documents
 - [Roy Black](../people/roy-black.md) - 22 shared documents
 - [Sarah Kellen](../people/sarah-kellen.md) - 22 shared documents
@@ -63,8 +62,8 @@ Top 10 documents by mention frequency:
 - [Washington](washington.md) - 41 shared documents
 - [the United States](the-united-states.md) - 40 shared documents
 - [New York](new-york.md) - 38 shared documents
-- [Europe](europe.md) - 37 shared documents
 - [America](america.md) - 37 shared documents
+- [Europe](europe.md) - 37 shared documents
 
 **Events:**
 
@@ -73,8 +72,8 @@ Top 10 documents by mention frequency:
 - [years](../events/years.md) - 45 shared documents
 - [daily](../events/daily.md) - 43 shared documents
 - [2006](../events/2006.md) - 42 shared documents
-- [last year](../events/last-year.md) - 41 shared documents
 - [2002](../events/2002.md) - 41 shared documents
+- [last year](../events/last-year.md) - 41 shared documents
 - [2005](../events/2005.md) - 40 shared documents
 - [two years](../events/two-years.md) - 39 shared documents
 - [2004](../events/2004.md) - 37 shared documents

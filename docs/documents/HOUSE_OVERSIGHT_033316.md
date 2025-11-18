@@ -16,7 +16,7 @@
 - [Mr. 
 Trump](../entities/people/mr-trump.md) - 4 mentions
 - [White House](../entities/people/white-house.md) - 3 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Nixon](../entities/people/nixon.md) - 1 mention
 - [Trump Tower](../entities/people/trump-tower.md) - 1 mention
 

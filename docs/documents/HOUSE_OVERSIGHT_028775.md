@@ -10,8 +10,8 @@
 
 ### People
 - [Mr. 
-Wade](../entities/people/mr-wade.md) - 16 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 3 mentions
+Wade](../entities/people/wade.md) - 16 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 3 mentions
 - [President Obama](../entities/people/president-obama.md) - 2 mentions
 - [Bob](../entities/people/bob.md) - 2 mentions
 - [House Committee](../entities/people/house-committee.md) - 1 mention
@@ -20,7 +20,7 @@ Wade](../entities/people/mr-wade.md) - 16 mentions
 States](../entities/people/united-states.md) - 1 mention
 - [mailto 
 Sent](../entities/people/mailto-sent.md) - 1 mention
-- [Mr. Hill](../entities/people/mr-hill.md) - 1 mention
+- [Mr. Hill](../entities/people/hill.md) - 1 mention
 - [On Feb](../entities/people/on-feb.md) - 1 mention
 
 ### Organizations

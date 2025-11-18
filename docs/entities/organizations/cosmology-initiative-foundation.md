@@ -29,8 +29,7 @@ Top 7 documents by mention frequency:
 **People:**
 
 - [Lawrence Krauss](../people/lawrence-krauss.md) - 7 shared documents
-- [Lawrence M. Krauss](../people/lawrence-m-krauss.md) - 7 shared documents
-- [jeffrey E. <](../people/jeffrey-e.md) - 4 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 4 shared documents
 
 **Organizations:**
 

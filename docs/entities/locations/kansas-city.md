@@ -50,28 +50,28 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [Los Angeles](los-angeles.md) - 10 shared documents
-- [Germany](germany.md) - 10 shared documents
 - [France](france.md) - 10 shared documents
+- [Germany](germany.md) - 10 shared documents
 - [Russia](russia.md) - 9 shared documents
 - [the United States](the-united-states.md) - 9 shared documents
-- [China](china.md) - 9 shared documents
 - [America](america.md) - 9 shared documents
+- [China](china.md) - 9 shared documents
 - [London](london.md) - 8 shared documents
 - [New York](new-york.md) - 8 shared documents
 - [United States](united-states.md) - 8 shared documents
 
 **Events:**
 
-- [years](../events/years.md) - 8 shared documents
-- [the year](../events/the-year.md) - 8 shared documents
 - [1997](../events/1997.md) - 8 shared documents
-- [2004](../events/2004.md) - 7 shared documents
-- [today](../events/today.md) - 7 shared documents
-- [2012](../events/2012.md) - 7 shared documents
+- [the year](../events/the-year.md) - 8 shared documents
+- [years](../events/years.md) - 8 shared documents
 - [2002](../events/2002.md) - 7 shared documents
-- [daily](../events/daily.md) - 6 shared documents
+- [2004](../events/2004.md) - 7 shared documents
+- [2012](../events/2012.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
 - [1999](../events/1999.md) - 6 shared documents
 - [2001](../events/2001.md) - 6 shared documents
+- [2008](../events/2008.md) - 6 shared documents
 
 ## Timeline
 

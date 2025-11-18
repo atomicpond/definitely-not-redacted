@@ -26,22 +26,22 @@ Top 6 documents by mention frequency:
 **Locations:**
 
 - [Palm Beach](../locations/palm-beach.md) - 6 shared documents
+- [Britain](../locations/britain.md) - 4 shared documents
 - [California](../locations/california.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
 - [Florida](../locations/florida.md) - 4 shared documents
 - [Miami](../locations/miami.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 4 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 4 shared documents
-- [Britain](../locations/britain.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 4 shared documents
-- [last year](../events/last-year.md) - 4 shared documents
-- [Monday](../events/monday.md) - 4 shared documents
+- [14](../events/14.md) - 4 shared documents
 - [18-month](../events/18-month.md) - 4 shared documents
 - [Friday](../events/friday.md) - 4 shared documents
+- [last year](../events/last-year.md) - 4 shared documents
+- [Monday](../events/monday.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 - [Tuesday](../events/tuesday.md) - 4 shared documents
-- [14](../events/14.md) - 4 shared documents
 
 ## Timeline
 

@@ -51,16 +51,16 @@ Top 6 documents by mention frequency:
 
 **Events:**
 
-- [October](october.md) - 6 shared documents
-- [August](august.md) - 6 shared documents
-- [July](july.md) - 6 shared documents
 - [2006](2006.md) - 6 shared documents
+- [53](53.md) - 6 shared documents
+- [August](august.md) - 6 shared documents
+- [early this year](early-this-year.md) - 6 shared documents
+- [July](july.md) - 6 shared documents
+- [late July](late-july.md) - 6 shared documents
+- [March 2005](march-2005.md) - 6 shared documents
 - [May 1](may-1.md) - 6 shared documents
 - [Months earlier](months-earlier.md) - 6 shared documents
-- [several months](several-months.md) - 6 shared documents
-- [53](53.md) - 6 shared documents
-- [late July](late-july.md) - 6 shared documents
-- [early this year](early-this-year.md) - 6 shared documents
+- [October](october.md) - 6 shared documents
 
 ## Timeline
 

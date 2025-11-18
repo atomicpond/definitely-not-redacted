@@ -13,7 +13,7 @@
 - [Richard Kahn 
 Sent](../entities/people/richard-kahn-sent.md) - 1 mention
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Floor New York](../entities/people/floor-new-york.md) - 1 mention
 - [Lexington Avenue](../entities/people/lexington-avenue.md) - 1 mention
 - [Associates Inc](../entities/people/associates-inc.md) - 1 mention

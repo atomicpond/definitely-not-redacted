@@ -16,7 +16,7 @@ States](../entities/people/united-states.md) - 5 mentions
 - [Saudi Arabia](../entities/people/saudi-arabia.md) - 1 mention
 - [Ehud Barak](../entities/people/ehud-barak.md) - 1 mention
 - [An Israeli](../entities/people/an-israeli.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [On Mon](../entities/people/on-mon.md) - 1 mention
 - [Jeffrey Epstein 
 Unauthorized](../entities/people/jeffrey-epstein-unauthorized.md) - 1 mention

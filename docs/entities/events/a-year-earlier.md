@@ -56,8 +56,8 @@ Top 9 documents by mention frequency:
 - [the 1960s](the-1960s.md) - 7 shared documents
 - [the day](the-day.md) - 7 shared documents
 - [today](today.md) - 7 shared documents
-- [2003](2003.md) - 7 shared documents
 - [1999](1999.md) - 7 shared documents
+- [2003](2003.md) - 7 shared documents
 - [daily](daily.md) - 6 shared documents
 - [December](december.md) - 6 shared documents
 

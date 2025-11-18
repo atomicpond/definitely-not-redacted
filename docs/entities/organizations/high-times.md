@@ -41,13 +41,13 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [1970](../events/1970.md) - 4 shared documents
-- [2019](../events/2019.md) - 4 shared documents
-- [two years](../events/two-years.md) - 4 shared documents
 - [1969](../events/1969.md) - 4 shared documents
+- [1970](../events/1970.md) - 4 shared documents
+- [1980](../events/1980.md) - 4 shared documents
+- [2019](../events/2019.md) - 4 shared documents
 - [A few years later](../events/a-few-years-later.md) - 4 shared documents
 - [the day](../events/the-day.md) - 4 shared documents
-- [1980](../events/1980.md) - 4 shared documents
+- [two years](../events/two-years.md) - 4 shared documents
 
 ## Timeline
 

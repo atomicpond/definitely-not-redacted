@@ -27,9 +27,9 @@ Top 6 documents by mention frequency:
 **Locations:**
 
 - [China](../locations/china.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
-- [London](../locations/london.md) - 4 shared documents
 - [Israel](../locations/israel.md) - 4 shared documents
+- [London](../locations/london.md) - 4 shared documents
+- [Russia](../locations/russia.md) - 4 shared documents
 
 **Events:**
 

@@ -29,10 +29,10 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Bill Gates](bill-gates.md) - 8 shared documents
+- [Al Gore](al-gore.md) - 8 shared documents
 - [Bill 
 Clinton](bill-clinton.md) - 8 shared documents
-- [Al Gore](al-gore.md) - 8 shared documents
+- [Bill Gates](bill-gates.md) - 8 shared documents
 - [Hamid Karzai](hamid-karzai.md) - 7 shared documents
 - [HRH](hrh.md) - 7 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 7 shared documents
@@ -44,19 +44,19 @@ Clinton](bill-clinton.md) - 8 shared documents
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 10 shared documents
-- [US Treasury](../organizations/us-treasury.md) - 7 shared documents
-- [State](../organizations/state.md) - 7 shared documents
 - [BBC](../organizations/bbc.md) - 7 shared documents
-- [BBC World Service](../organizations/bbc-world-service.md) - 7 shared documents
 - [BBC News](../organizations/bbc-news.md) - 7 shared documents
 - [BBC Online](../organizations/bbc-online.md) - 7 shared documents
 - [BBC World](../organizations/bbc-world.md) - 7 shared documents
+- [BBC World Service](../organizations/bbc-world-service.md) - 7 shared documents
+- [State](../organizations/state.md) - 7 shared documents
 - [Today Programme](../organizations/today-programme.md) - 7 shared documents
+- [US Treasury](../organizations/us-treasury.md) - 7 shared documents
 
 **Locations:**
 
-- [Wales](../locations/wales.md) - 7 shared documents
 - [U.K.](../locations/uk.md) - 7 shared documents
+- [Wales](../locations/wales.md) - 7 shared documents
 - [York](../locations/york.md) - 7 shared documents
 
 **Events:**

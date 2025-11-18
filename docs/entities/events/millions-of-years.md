@@ -45,11 +45,11 @@ Top 5 documents by mention frequency:
 - [2012](2012.md) - 5 shared documents
 - [Friday](friday.md) - 5 shared documents
 - [many years](many-years.md) - 5 shared documents
-- [2015](2015.md) - 4 shared documents
-- [daily](daily.md) - 4 shared documents
-- [21st-century](21st-century.md) - 4 shared documents
+- [1960](1960.md) - 4 shared documents
+- [1981](1981.md) - 4 shared documents
+- [1982](1982.md) - 4 shared documents
 - [2013](2013.md) - 4 shared documents
-- [30 years](30-years.md) - 4 shared documents
+- [2015](2015.md) - 4 shared documents
 
 ## Timeline
 

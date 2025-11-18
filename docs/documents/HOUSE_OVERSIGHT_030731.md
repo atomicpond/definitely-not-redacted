@@ -9,7 +9,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 1 mention
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 1 mention
 - [Steve Bannon](../entities/people/steve-bannon.md) - 1 mention
 - [Putin Mayhem](../entities/people/putin-mayhem.md) - 1 mention
 - [Grip](../entities/people/grip.md) - 1 mention

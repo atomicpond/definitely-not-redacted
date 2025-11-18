@@ -59,11 +59,11 @@ University](../organizations/case-western-reserve-university.md) - 10 shared doc
 - [November 2016](november-2016.md) - 12 shared documents
 - [2014](2014.md) - 12 shared documents
 - [weeks](weeks.md) - 11 shared documents
-- [2007](2007.md) - 11 shared documents
-- [2016](2016.md) - 11 shared documents
-- [2008](2008.md) - 11 shared documents
-- [April 2011](april-2011.md) - 11 shared documents
 - [2006](2006.md) - 11 shared documents
+- [2007](2007.md) - 11 shared documents
+- [2008](2008.md) - 11 shared documents
+- [2016](2016.md) - 11 shared documents
+- [April 2011](april-2011.md) - 11 shared documents
 - [April 2017](april-2017.md) - 11 shared documents
 - [December 2011](december-2011.md) - 10 shared documents
 

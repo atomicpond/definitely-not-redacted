@@ -28,10 +28,10 @@ Top 5 documents by mention frequency:
 
 **People:**
 
-- [Paul G. Cassell](paul-g-cassell.md) - 5 shared documents
 - [East Las Olas](east-las-olas.md) - 5 shared documents
-- [Sigrid S. McCawley](sigrid-s-mccawley.md) - 5 shared documents
 - [Lake City](lake-city.md) - 5 shared documents
+- [Paul G. Cassell](paul-g-cassell.md) - 5 shared documents
+- [Sigrid S. McCawley](sigrid-s-mccawley.md) - 5 shared documents
 - [Jane Doe](jane-doe.md) - 4 shared documents
 
 **Organizations:**
@@ -41,17 +41,17 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Salt Lake City](../locations/salt-lake-city.md) - 5 shared documents
-- [Lake City, UT](../locations/lake-city-ut.md) - 5 shared documents
 - [401 East Las Olas Boulevard](../locations/401-east-las-olas-boulevard.md) - 5 shared documents
+- [Lake City, UT](../locations/lake-city-ut.md) - 5 shared documents
+- [Salt Lake City](../locations/salt-lake-city.md) - 5 shared documents
 - [New York](../locations/new-york.md) - 4 shared documents
 - [United States](../locations/united-states.md) - 4 shared documents
 - [Virginia](../locations/virginia.md) - 4 shared documents
 
 **Events:**
 
-- [2013](../events/2013.md) - 4 shared documents
 - [1989](../events/1989.md) - 4 shared documents
+- [2013](../events/2013.md) - 4 shared documents
 - [39](../events/39.md) - 4 shared documents
 
 ## Timeline

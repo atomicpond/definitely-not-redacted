@@ -31,7 +31,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 15 shared documents
 - [White House](../people/white-house.md) - 13 shared documents
 
 **Organizations:**

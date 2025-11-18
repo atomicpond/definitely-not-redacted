@@ -69,7 +69,7 @@ Top 10 documents by mention frequency:
 - [Washington](washington.md) - 14 shared documents
 - [London](london.md) - 14 shared documents
 - [United States](united-states.md) - 13 shared documents
-- [Japan](japan.md) - 13 shared documents
+- [Britain](britain.md) - 13 shared documents
 
 **Events:**
 
@@ -78,11 +78,11 @@ Top 10 documents by mention frequency:
 - [2004](../events/2004.md) - 19 shared documents
 - [1982](../events/1982.md) - 18 shared documents
 - [the 1980s](../events/the-1980s.md) - 17 shared documents
-- [Sunday](../events/sunday.md) - 16 shared documents
 - [1974](../events/1974.md) - 16 shared documents
 - [2006](../events/2006.md) - 16 shared documents
 - [many years](../events/many-years.md) - 16 shared documents
-- [daily](../events/daily.md) - 15 shared documents
+- [Sunday](../events/sunday.md) - 16 shared documents
+- [1980](../events/1980.md) - 15 shared documents
 
 ## Timeline
 

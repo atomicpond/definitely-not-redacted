@@ -39,30 +39,32 @@ Top 9 documents by mention frequency:
 - [OTM](otm.md) - 5 shared documents
 - [SPX](spx.md) - 5 shared documents
 - [USD](usd.md) - 5 shared documents
-- [ECB](ecb.md) - 5 shared documents
+- [ABN](abn.md) - 5 shared documents
 
 **Locations:**
 
-- [Russia](../locations/russia.md) - 9 shared documents
 - [Germany](../locations/germany.md) - 9 shared documents
+- [Russia](../locations/russia.md) - 9 shared documents
 - [Turkey](../locations/turkey.md) - 8 shared documents
 - [Iran](../locations/iran.md) - 6 shared documents
-- [China](../locations/china.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [USD](../locations/usd.md) - 5 shared documents
+- [Asia](../locations/asia.md) - 5 shared documents
+- [Australia](../locations/australia.md) - 5 shared documents
 - [Brazil](../locations/brazil.md) - 5 shared documents
 - [Canada](../locations/canada.md) - 5 shared documents
-- [Mexico](../locations/mexico.md) - 5 shared documents
+- [China](../locations/china.md) - 5 shared documents
+- [EUR](../locations/eur.md) - 5 shared documents
 
 **Events:**
 
-- [2014](../events/2014.md) - 5 shared documents
 - [2013](../events/2013.md) - 5 shared documents
+- [2014](../events/2014.md) - 5 shared documents
 - [5-year](../events/5-year.md) - 5 shared documents
-- [year-end](../events/year-end.md) - 4 shared documents
+- [10-year](../events/10-year.md) - 4 shared documents
+- [Friday](../events/friday.md) - 4 shared documents
+- [July](../events/july.md) - 4 shared documents
 - [last year](../events/last-year.md) - 4 shared documents
 - [Monday](../events/monday.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
+- [quarterly](../events/quarterly.md) - 4 shared documents
 
 ## Timeline
 

@@ -29,7 +29,7 @@ Subject](../entities/people/michael-wolff-subject.md) - 1 mention
 - [Monday](../entities/events/monday.md) - 1 mention
 - [Fri, Jan 9, 2015](../entities/events/fri-jan-9-2015.md) - 1 mention
 - [Feb.](../entities/events/feb.md) - 1 mention
-- [1/10/2015](../entities/events/1102015.md) - 1 mention
+- [1/10/2015](../entities/events/1-10-2015.md) - 1 mention
 
 ## Document Text
 

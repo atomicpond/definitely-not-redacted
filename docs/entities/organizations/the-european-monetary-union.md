@@ -26,9 +26,9 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [NYSE](nyse.md) - 5 shared documents
 - [Bank](bank.md) - 5 shared documents
 - [FINRA](finra.md) - 5 shared documents
+- [NYSE](nyse.md) - 5 shared documents
 - [SIPC](sipc.md) - 5 shared documents
 - [Congress](congress.md) - 4 shared documents
 - [ECB](ecb.md) - 4 shared documents
@@ -37,18 +37,18 @@ Top 5 documents by mention frequency:
 **Locations:**
 
 - [Asia](../locations/asia.md) - 5 shared documents
-- [Italy](../locations/italy.md) - 5 shared documents
 - [Greece](../locations/greece.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
+- [Italy](../locations/italy.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 4 shared documents
 - [Latin America](../locations/latin-america.md) - 4 shared documents
+- [Russia](../locations/russia.md) - 4 shared documents
 
 **Events:**
 
 - [this year](../events/this-year.md) - 5 shared documents
+- [the next few years](../events/the-next-few-years.md) - 4 shared documents
 - [today](../events/today.md) - 4 shared documents
 - [tomorrow](../events/tomorrow.md) - 4 shared documents
-- [the next few years](../events/the-next-few-years.md) - 4 shared documents
 
 ## Timeline
 

@@ -40,27 +40,27 @@ Top 6 documents by mention frequency:
 
 - [Disney](../organizations/disney.md) - 6 shared documents
 - [MontBlanc](../organizations/montblanc.md) - 6 shared documents
-- [HBO](../organizations/hbo.md) - 5 shared documents
-- [Viacom](../organizations/viacom.md) - 5 shared documents
 - [Academy](../organizations/academy.md) - 5 shared documents
+- [HBO](../organizations/hbo.md) - 5 shared documents
 - [Marchesa](../organizations/marchesa.md) - 5 shared documents
 - [Paramount](../organizations/paramount.md) - 5 shared documents
 - [Sony](../organizations/sony.md) - 5 shared documents
 - [UTA](../organizations/uta.md) - 5 shared documents
 - [Vanity Fair](../organizations/vanity-fair.md) - 5 shared documents
+- [Viacom](../organizations/viacom.md) - 5 shared documents
 
 **Locations:**
 
 - [Paris](../locations/paris.md) - 6 shared documents
+- [Cannes](../locations/cannes.md) - 5 shared documents
 - [New York](../locations/new-york.md) - 5 shared documents
 - [Rome](../locations/rome.md) - 5 shared documents
 - [Toronto](../locations/toronto.md) - 5 shared documents
-- [Cannes](../locations/cannes.md) - 5 shared documents
 
 **Events:**
 
-- [this year](../events/this-year.md) - 5 shared documents
 - [March](../events/march.md) - 5 shared documents
+- [this year](../events/this-year.md) - 5 shared documents
 
 ## Timeline
 

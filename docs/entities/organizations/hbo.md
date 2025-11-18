@@ -43,8 +43,8 @@ Top 10 documents by mention frequency:
 **Organizations:**
 
 - [Sony](sony.md) - 11 shared documents
-- [Google](google.md) - 11 shared documents
 - [Disney](disney.md) - 11 shared documents
+- [Google](google.md) - 11 shared documents
 - [Vanity Fair](vanity-fair.md) - 10 shared documents
 - [Paramount](paramount.md) - 9 shared documents
 - [the New York Times](the-new-york-times.md) - 9 shared documents
@@ -57,25 +57,25 @@ Top 10 documents by mention frequency:
 
 - [Paris](../locations/paris.md) - 14 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 12 shared documents
-- [New York](../locations/new-york.md) - 11 shared documents
-- [Washington](../locations/washington.md) - 11 shared documents
 - [America](../locations/america.md) - 11 shared documents
 - [Hollywood](../locations/hollywood.md) - 11 shared documents
+- [New York](../locations/new-york.md) - 11 shared documents
+- [Washington](../locations/washington.md) - 11 shared documents
 - [California](../locations/california.md) - 10 shared documents
 - [London](../locations/london.md) - 10 shared documents
 - [Manhattan](../locations/manhattan.md) - 10 shared documents
-- [Rome](../locations/rome.md) - 9 shared documents
+- [New York City](../locations/new-york-city.md) - 9 shared documents
 
 **Events:**
 
 - [this year](../events/this-year.md) - 13 shared documents
 - [Sunday](../events/sunday.md) - 11 shared documents
-- [years](../events/years.md) - 10 shared documents
+- [2005](../events/2005.md) - 10 shared documents
 - [last week](../events/last-week.md) - 10 shared documents
 - [March](../events/march.md) - 10 shared documents
-- [the year](../events/the-year.md) - 10 shared documents
-- [2005](../events/2005.md) - 10 shared documents
 - [the next day](../events/the-next-day.md) - 10 shared documents
+- [the year](../events/the-year.md) - 10 shared documents
+- [years](../events/years.md) - 10 shared documents
 - [last year](../events/last-year.md) - 9 shared documents
 - [two days](../events/two-days.md) - 9 shared documents
 

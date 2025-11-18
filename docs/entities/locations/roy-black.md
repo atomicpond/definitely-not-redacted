@@ -52,28 +52,28 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
+- [Coney Island](coney-island.md) - 11 shared documents
 - [Manhattan](manhattan.md) - 11 shared documents
-- [Paris](paris.md) - 11 shared documents
 - [New Mexico](new-mexico.md) - 11 shared documents
 - [Palm Beach](palm-beach.md) - 11 shared documents
-- [Coney Island](coney-island.md) - 11 shared documents
+- [Paris](paris.md) - 11 shared documents
 - [Dalton](dalton.md) - 10 shared documents
 - [the Upper East Side](the-upper-east-side.md) - 9 shared documents
-- [Europe](europe.md) - 9 shared documents
-- [Qatar](qatar.md) - 9 shared documents
-- [Queens](queens.md) - 9 shared documents
+- [Caribbean Island](caribbean-island.md) - 9 shared documents
+- [Connecticut](connecticut.md) - 9 shared documents
+- [Dallas](dallas.md) - 9 shared documents
 
 **Events:**
 
-- [last year](../events/last-year.md) - 11 shared documents
-- [Sunday](../events/sunday.md) - 11 shared documents
-- [Saturday](../events/saturday.md) - 11 shared documents
-- [2002](../events/2002.md) - 11 shared documents
 - [1953](../events/1953.md) - 11 shared documents
 - [1994](../events/1994.md) - 11 shared documents
+- [2002](../events/2002.md) - 11 shared documents
+- [last year](../events/last-year.md) - 11 shared documents
+- [Saturday](../events/saturday.md) - 11 shared documents
+- [Sunday](../events/sunday.md) - 11 shared documents
 - [2004](../events/2004.md) - 10 shared documents
 - [two years](../events/two-years.md) - 10 shared documents
-- [the 1980s](../events/the-1980s.md) - 9 shared documents
+- [18 months](../events/18-months.md) - 9 shared documents
 - [1974](../events/1974.md) - 9 shared documents
 
 ## Timeline

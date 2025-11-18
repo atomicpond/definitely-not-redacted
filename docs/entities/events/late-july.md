@@ -67,13 +67,13 @@ Top 10 documents by mention frequency:
 - [October](october.md) - 10 shared documents
 - [July](july.md) - 10 shared documents
 - [this year](this-year.md) - 9 shared documents
-- [August](august.md) - 9 shared documents
 - [2006](2006.md) - 9 shared documents
+- [August](august.md) - 9 shared documents
 - [several months](several-months.md) - 8 shared documents
 - [three years](three-years.md) - 8 shared documents
 - [two years](two-years.md) - 8 shared documents
 - [53](53.md) - 8 shared documents
-- [last week](last-week.md) - 7 shared documents
+- [1981](1981.md) - 7 shared documents
 
 ## Timeline
 

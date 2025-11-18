@@ -28,18 +28,17 @@ Top 7 documents by mention frequency:
 
 - [Jeffrey E. 
 Sent](../people/jeffrey-e-sent.md) - 7 shared documents
-- [mueller](../people/mueller.md) - 7 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 7 shared documents
-- [DONALD](../people/donald.md) - 5 shared documents
+- [Robert Mueller](../people/robert-mueller.md) - 7 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 5 shared documents
 - [Reid 
 Subject](../people/reid-subject.md) - 5 shared documents
 
 **Events:**
 
+- [January 03, 2018](january-03-2018.md) - 7 shared documents
 - [January 3, 2018](january-3-2018.md) - 7 shared documents
 - [Wed, Jan 3, 2018](wed-jan-3-2018.md) - 7 shared documents
-- [January 03, 2018](january-03-2018.md) - 7 shared documents
 - [tomorrow](tomorrow.md) - 4 shared documents
 
 ## Timeline

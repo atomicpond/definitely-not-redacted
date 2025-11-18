@@ -10,7 +10,7 @@
 
 ### People
 - [pritzker](../entities/people/pritzker.md) - 5 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 3 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 3 mentions
 - [President Obama](../entities/people/president-obama.md) - 2 mentions
 - [Commerce Department](../entities/people/commerce-department.md) - 2 mentions
 - [tom](../entities/people/tom.md) - 1 mention

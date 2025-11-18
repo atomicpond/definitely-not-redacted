@@ -25,39 +25,34 @@ Top 6 documents by mention frequency:
 
 **Organizations:**
 
-- [Twitter](../organizations/twitter.md) - 5 shared documents
 - [Apple](../organizations/apple.md) - 5 shared documents
-- [IBM](../organizations/ibm.md) - 4 shared documents
-- [iPhone](../organizations/iphone.md) - 4 shared documents
-- [Harvard](../organizations/harvard.md) - 4 shared documents
-- [BBC](../organizations/bbc.md) - 4 shared documents
-- [Time](../organizations/time.md) - 4 shared documents
+- [Twitter](../organizations/twitter.md) - 5 shared documents
 
 **Locations:**
 
 - [Japan](../locations/japan.md) - 5 shared documents
 - [Washington](../locations/washington.md) - 5 shared documents
-- [Earth](../locations/earth.md) - 4 shared documents
-- [U.S.](../locations/us.md) - 4 shared documents
-- [USA](../locations/usa.md) - 4 shared documents
+- [America](../locations/america.md) - 4 shared documents
+- [Atlantic](../locations/atlantic.md) - 4 shared documents
+- [Beijing](../locations/beijing.md) - 4 shared documents
+- [Boston](../locations/boston.md) - 4 shared documents
 - [China](../locations/china.md) - 4 shared documents
+- [Earth](../locations/earth.md) - 4 shared documents
+- [England](../locations/england.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
-- [London](../locations/london.md) - 4 shared documents
 
 **Events:**
 
 - [2001](../events/2001.md) - 5 shared documents
+- [1997](../events/1997.md) - 4 shared documents
+- [1999](../events/1999.md) - 4 shared documents
+- [2002](../events/2002.md) - 4 shared documents
 - [2003](../events/2003.md) - 4 shared documents
 - [2004](../events/2004.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
+- [2006](../events/2006.md) - 4 shared documents
 - [2007](../events/2007.md) - 4 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
-- [Thursday](../events/thursday.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [the year](../events/the-year.md) - 4 shared documents
-- [2011](../events/2011.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
 
 ## Timeline
 

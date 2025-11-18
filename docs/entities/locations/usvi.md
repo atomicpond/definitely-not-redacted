@@ -53,21 +53,21 @@ Top 10 documents by mention frequency:
 - [Virgin Islands](virgin-islands.md) - 7 shared documents
 - [America](america.md) - 7 shared documents
 - [Florida](florida.md) - 7 shared documents
-- [the United States](the-united-states.md) - 7 shared documents
 - [Palm Beach](palm-beach.md) - 7 shared documents
 - [St. Thomas](st-thomas.md) - 7 shared documents
+- [the United States](the-united-states.md) - 7 shared documents
 - [Miami](miami.md) - 6 shared documents
 - [the Virgin Islands](the-virgin-islands.md) - 6 shared documents
-- [New York](new-york.md) - 5 shared documents
 - [Boston](boston.md) - 5 shared documents
+- [New York](new-york.md) - 5 shared documents
 
 **Events:**
 
-- [Wednesday](../events/wednesday.md) - 7 shared documents
 - [Friday](../events/friday.md) - 7 shared documents
+- [Wednesday](../events/wednesday.md) - 7 shared documents
 - [annual](../events/annual.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
 - [this week](../events/this-week.md) - 6 shared documents
+- [today](../events/today.md) - 6 shared documents
 - [two years](../events/two-years.md) - 6 shared documents
 - [2015](../events/2015.md) - 5 shared documents
 - [daily](../events/daily.md) - 5 shared documents

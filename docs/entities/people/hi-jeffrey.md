@@ -65,10 +65,10 @@ Objet](../organizations/caroline-objet.md) - 11 shared documents
 - [Fri, Feb 10, 2017](../events/fri-feb-10-2017.md) - 11 shared documents
 - [Thu, Feb 9, 2017](../events/thu-feb-9-2017.md) - 11 shared documents
 - [vendredi 10](../events/vendredi-10.md) - 11 shared documents
-- [Sunday](../events/sunday.md) - 5 shared documents
-- [this year](../events/this-year.md) - 5 shared documents
-- [year](../events/year.md) - 5 shared documents
+- [2/15/2017](../events/2152017.md) - 5 shared documents
 - [30 years](../events/30-years.md) - 5 shared documents
+- [Feb 14, 2017](../events/feb-14-2017.md) - 5 shared documents
+- [mercredi 15](../events/mercredi-15.md) - 5 shared documents
 
 ## Timeline
 

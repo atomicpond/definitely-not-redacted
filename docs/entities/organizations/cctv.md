@@ -38,29 +38,29 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 5 shared documents
+- [Asia](../locations/asia.md) - 5 shared documents
+- [Beijing](../locations/beijing.md) - 5 shared documents
 - [China](../locations/china.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
-- [Asia](../locations/asia.md) - 5 shared documents
+- [Hong Kong](../locations/hong-kong.md) - 5 shared documents
+- [Hong Kong’s](../locations/hong-kongs.md) - 5 shared documents
+- [India](../locations/india.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
-- [the Soviet Union](../locations/the-soviet-union.md) - 5 shared documents
+- [Italy](../locations/italy.md) - 5 shared documents
 
 **Events:**
 
+- [1989](../events/1989.md) - 5 shared documents
+- [1990](../events/1990.md) - 5 shared documents
+- [2000](../events/2000.md) - 5 shared documents
+- [2001](../events/2001.md) - 5 shared documents
 - [2003](../events/2003.md) - 5 shared documents
+- [2012](../events/2012.md) - 5 shared documents
+- [2013](../events/2013.md) - 5 shared documents
 - [2015](../events/2015.md) - 5 shared documents
 - [annual](../events/annual.md) - 5 shared documents
-- [2000](../events/2000.md) - 5 shared documents
-- [2012](../events/2012.md) - 5 shared documents
 - [daily](../events/daily.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [1990](../events/1990.md) - 5 shared documents
-- [2001](../events/2001.md) - 5 shared documents
-- [2013](../events/2013.md) - 5 shared documents
 
 ## Timeline
 

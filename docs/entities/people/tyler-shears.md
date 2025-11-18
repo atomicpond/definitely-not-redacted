@@ -32,10 +32,10 @@ Top 7 documents by mention frequency:
 **Organizations:**
 
 - [Daily Mail](../organizations/daily-mail.md) - 6 shared documents
-- [HOUSE](../organizations/house.md) - 4 shared documents
 - [Ghislaine Maxwell](../organizations/ghislaine-maxwell.md) - 4 shared documents
-- [New York Magazine](../organizations/new-york-magazine.md) - 4 shared documents
 - [Google](../organizations/google.md) - 4 shared documents
+- [HOUSE](../organizations/house.md) - 4 shared documents
+- [New York Magazine](../organizations/new-york-magazine.md) - 4 shared documents
 
 **Locations:**
 

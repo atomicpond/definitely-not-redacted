@@ -28,11 +28,11 @@ Top 6 documents by mention frequency:
 
 - [today](today.md) - 5 shared documents
 - [Tuesday](tuesday.md) - 5 shared documents
-- [monthly](monthly.md) - 4 shared documents
 - [August](august.md) - 4 shared documents
 - [Friday](friday.md) - 4 shared documents
-- [next week](next-week.md) - 4 shared documents
 - [many years](many-years.md) - 4 shared documents
+- [monthly](monthly.md) - 4 shared documents
+- [next week](next-week.md) - 4 shared documents
 
 ## Timeline
 

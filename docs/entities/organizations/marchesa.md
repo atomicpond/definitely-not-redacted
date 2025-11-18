@@ -45,37 +45,36 @@ Top 8 documents by mention frequency:
 - [Sony](sony.md) - 6 shared documents
 - [UTA](uta.md) - 6 shared documents
 - [Viacom](viacom.md) - 6 shared documents
-- [HBO](hbo.md) - 6 shared documents
 - [Academy](academy.md) - 6 shared documents
 - [Disney](disney.md) - 6 shared documents
+- [HBO](hbo.md) - 6 shared documents
 - [Vanity Fair](vanity-fair.md) - 5 shared documents
-- [HOUSE](house.md) - 4 shared documents
 
 **Locations:**
 
 - [New York](../locations/new-york.md) - 7 shared documents
-- [Toronto](../locations/toronto.md) - 6 shared documents
+- [Cannes](../locations/cannes.md) - 6 shared documents
 - [New York City](../locations/new-york-city.md) - 6 shared documents
 - [Paris](../locations/paris.md) - 6 shared documents
-- [Cannes](../locations/cannes.md) - 6 shared documents
-- [London](../locations/london.md) - 5 shared documents
+- [Toronto](../locations/toronto.md) - 6 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [London](../locations/london.md) - 5 shared documents
 - [Rome](../locations/rome.md) - 5 shared documents
+- [Cairo](../locations/cairo.md) - 4 shared documents
 - [California](../locations/california.md) - 4 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
 
 **Events:**
 
 - [the next day](../events/the-next-day.md) - 7 shared documents
-- [this year](../events/this-year.md) - 6 shared documents
 - [March](../events/march.md) - 6 shared documents
 - [Mid-day](../events/mid-day.md) - 6 shared documents
-- [Sunday](../events/sunday.md) - 5 shared documents
-- [the year](../events/the-year.md) - 5 shared documents
+- [this year](../events/this-year.md) - 6 shared documents
 - [January](../events/january.md) - 5 shared documents
 - [September](../events/september.md) - 5 shared documents
-- [October](../events/october.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
+- [Sunday](../events/sunday.md) - 5 shared documents
+- [the year](../events/the-year.md) - 5 shared documents
+- [1982](../events/1982.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
 
 ## Timeline
 

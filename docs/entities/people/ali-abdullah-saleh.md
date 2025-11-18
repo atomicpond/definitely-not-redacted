@@ -24,16 +24,16 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
+- [Egypt](../locations/egypt.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 5 shared documents
 - [Syria](../locations/syria.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [Egypt](../locations/egypt.md) - 5 shared documents
 - [Yemen](../locations/yemen.md) - 5 shared documents
-- [Middle East](../locations/middle-east.md) - 4 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
+- [Bahrain](../locations/bahrain.md) - 4 shared documents
 - [China](../locations/china.md) - 4 shared documents
-- [Iraq](../locations/iraq.md) - 4 shared documents
+- [Damascus](../locations/damascus.md) - 4 shared documents
+- [Gulf](../locations/gulf.md) - 4 shared documents
 
 ## Timeline
 

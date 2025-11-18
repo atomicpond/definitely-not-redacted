@@ -32,29 +32,29 @@ Top 8 documents by mention frequency:
 
 **Locations:**
 
-- [China](../locations/china.md) - 7 shared documents
 - [Brazil](../locations/brazil.md) - 7 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
-- [Germany](../locations/germany.md) - 6 shared documents
-- [Italy](../locations/italy.md) - 6 shared documents
+- [China](../locations/china.md) - 7 shared documents
 - [Australia](../locations/australia.md) - 6 shared documents
-- [Singapore](../locations/singapore.md) - 6 shared documents
+- [Germany](../locations/germany.md) - 6 shared documents
 - [India](../locations/india.md) - 6 shared documents
-- [Switzerland](../locations/switzerland.md) - 6 shared documents
+- [Italy](../locations/italy.md) - 6 shared documents
+- [Japan](../locations/japan.md) - 6 shared documents
+- [Singapore](../locations/singapore.md) - 6 shared documents
 - [Sweden](../locations/sweden.md) - 6 shared documents
+- [Switzerland](../locations/switzerland.md) - 6 shared documents
 
 **Events:**
 
-- [2003](../events/2003.md) - 5 shared documents
-- [annual](../events/annual.md) - 5 shared documents
-- [2012](../events/2012.md) - 5 shared documents
-- [1993](../events/1993.md) - 5 shared documents
-- [1997](../events/1997.md) - 5 shared documents
 - [15 years](../events/15-years.md) - 5 shared documents
-- [one year](../events/one-year.md) - 5 shared documents
+- [1993](../events/1993.md) - 5 shared documents
 - [1995](../events/1995.md) - 5 shared documents
+- [1997](../events/1997.md) - 5 shared documents
+- [2003](../events/2003.md) - 5 shared documents
+- [2012](../events/2012.md) - 5 shared documents
+- [annual](../events/annual.md) - 5 shared documents
 - [annually](../events/annually.md) - 5 shared documents
-- [2004](../events/2004.md) - 4 shared documents
+- [one year](../events/one-year.md) - 5 shared documents
+- [1980](../events/1980.md) - 4 shared documents
 
 ## Timeline
 

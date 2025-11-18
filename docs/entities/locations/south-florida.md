@@ -29,16 +29,16 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Brad Edwards](../people/brad-edwards.md) - 13 shared documents
 - [Rights Act](../people/rights-act.md) - 12 shared documents
 - [Alex Acosta](../people/alex-acosta.md) - 11 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 11 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 11 shared documents
 - [Jack Goldberger](../people/jack-goldberger.md) - 11 shared documents
 - [Alfredo Rodriguez](../people/alfredo-rodriguez.md) - 10 shared documents
 - [Jane Doe](../people/jane-doe.md) - 10 shared documents
 - [Sarah Kellen](../people/sarah-kellen.md) - 10 shared documents
 - [Crime Victims](../people/crime-victims.md) - 9 shared documents
 - [El Brillo Way](../people/el-brillo-way.md) - 9 shared documents
+- [Jack Scarola](../people/jack-scarola.md) - 9 shared documents
 
 **Organizations:**
 
@@ -68,16 +68,16 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
-- [2007](../events/2007.md) - 15 shared documents
 - [2005](../events/2005.md) - 15 shared documents
-- [today](../events/today.md) - 14 shared documents
+- [2007](../events/2007.md) - 15 shared documents
 - [Friday](../events/friday.md) - 14 shared documents
+- [today](../events/today.md) - 14 shared documents
 - [13 months](../events/13-months.md) - 13 shared documents
 - [2009](../events/2009.md) - 12 shared documents
 - [daily](../events/daily.md) - 12 shared documents
-- [Monday](../events/monday.md) - 11 shared documents
-- [Sunday](../events/sunday.md) - 11 shared documents
-- [years](../events/years.md) - 11 shared documents
+- [2008](../events/2008.md) - 11 shared documents
+- [2011](../events/2011.md) - 11 shared documents
+- [last week](../events/last-week.md) - 11 shared documents
 
 ## Timeline
 

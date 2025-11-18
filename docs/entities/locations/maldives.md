@@ -46,10 +46,10 @@ Top 9 documents by mention frequency:
 - [tomorrow](../events/tomorrow.md) - 7 shared documents
 - [this year](../events/this-year.md) - 6 shared documents
 - [Thursday](../events/thursday.md) - 5 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [Saturday](../events/saturday.md) - 4 shared documents
 - [about a year](../events/about-a-year.md) - 4 shared documents
 - [early September](../events/early-september.md) - 4 shared documents
+- [Saturday](../events/saturday.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

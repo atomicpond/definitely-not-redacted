@@ -34,7 +34,6 @@ Top 10 documents by mention frequency:
 - [Nigel Farage](../people/nigel-farage.md) - 15 shared documents
 - [Los Angeles](../people/los-angeles.md) - 14 shared documents
 - [Michael Wolff](../people/michael-wolff.md) - 14 shared documents
-- [President Obama](../people/president-obama.md) - 14 shared documents
 - [Middle East](../people/middle-east.md) - 13 shared documents
 - [Freedom Caucus](../people/freedom-caucus.md) - 12 shared documents
 
@@ -55,8 +54,8 @@ Top 10 documents by mention frequency:
 
 - [Europe](europe.md) - 34 shared documents
 - [London](london.md) - 28 shared documents
-- [New York](new-york.md) - 24 shared documents
 - [Italy](italy.md) - 24 shared documents
+- [New York](new-york.md) - 24 shared documents
 - [Russia](russia.md) - 22 shared documents
 - [America](america.md) - 22 shared documents
 - [Brussels](brussels.md) - 22 shared documents
@@ -71,9 +70,9 @@ Top 10 documents by mention frequency:
 - [today](../events/today.md) - 19 shared documents
 - [2014](../events/2014.md) - 18 shared documents
 - [1984](../events/1984.md) - 17 shared documents
+- [1991](../events/1991.md) - 16 shared documents
 - [daily](../events/daily.md) - 16 shared documents
 - [decades](../events/decades.md) - 16 shared documents
-- [1991](../events/1991.md) - 16 shared documents
 - [Sunday](../events/sunday.md) - 15 shared documents
 - [2016](../events/2016.md) - 14 shared documents
 

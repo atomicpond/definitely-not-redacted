@@ -30,21 +30,26 @@ Top 9 documents by mention frequency:
 
 - [Cold War](../people/cold-war.md) - 9 shared documents
 - [Soviet Union](../people/soviet-union.md) - 9 shared documents
-- [Barack Obama](../people/barack-obama.md) - 8 shared documents
-- [Mr. Obama](../people/obama.md) - 8 shared documents
-- [President Obama](../people/president-obama.md) - 8 shared documents
 - [East Asia](../people/east-asia.md) - 7 shared documents
 - [Federal Reserve](../people/federal-reserve.md) - 7 shared documents
 - [George W. Bush](../people/george-w-bush.md) - 7 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 7 shared documents
 - [Labor
 Party](../people/labor-party.md) - 7 shared documents
+- [Ronald 
+Reagan](../people/ronald-reagan.md) - 7 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 6 shared documents
+- [Deng Xiaoping](../people/deng-xiaoping.md) - 6 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 9 shared documents
 - [NATO](../organizations/nato.md) - 6 shared documents
 - [Labor](../organizations/labor.md) - 5 shared documents
+- [the Australian Labor Party](../organizations/the-australian-labor-party.md) - 5 shared documents
+- [the Federal Reserve](../organizations/the-federal-reserve.md) - 5 shared documents
+- [US Federal Reserve](../organizations/us-federal-reserve.md) - 5 shared documents
 
 **Locations:**
 
@@ -69,8 +74,8 @@ Party](../people/labor-party.md) - 7 shared documents
 - [the 1990s](the-1990s.md) - 6 shared documents
 - [the coming century](the-coming-century.md) - 5 shared documents
 - [1990s](1990s.md) - 5 shared documents
-- [20th Century](20th-century.md) - 5 shared documents
 - [2050](2050.md) - 5 shared documents
+- [20th Century](20th-century.md) - 5 shared documents
 
 ## Timeline
 

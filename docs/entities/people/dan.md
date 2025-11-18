@@ -38,14 +38,14 @@ Is Invitation](yes-is-invitation.md) - 5 shared documents
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 5 shared documents
 - [GUID](../organizations/guid.md) - 5 shared documents
+- [HOUSE](../organizations/house.md) - 5 shared documents
 
 **Locations:**
 
 - [China](../locations/china.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
 
 **Events:**
 

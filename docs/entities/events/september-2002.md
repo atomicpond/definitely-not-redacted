@@ -28,7 +28,7 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [Bradley Edwards](../people/bradley-edwards.md) - 5 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 5 shared documents
 - [Les Wexner](../people/les-wexner.md) - 5 shared documents
 
 **Organizations:**
@@ -53,13 +53,13 @@ Top 9 documents by mention frequency:
 
 - [years](years.md) - 7 shared documents
 - [today](today.md) - 6 shared documents
-- [2000](2000.md) - 6 shared documents
 - [19](19.md) - 6 shared documents
+- [2000](2000.md) - 6 shared documents
 - [the next day](the-next-day.md) - 5 shared documents
-- [2007](2007.md) - 5 shared documents
-- [2009](2009.md) - 5 shared documents
-- [2012](2012.md) - 5 shared documents
-- [daily](daily.md) - 5 shared documents
+- [1982](1982.md) - 5 shared documents
+- [1983](1983.md) - 5 shared documents
+- [1988](1988.md) - 5 shared documents
+- [1989](1989.md) - 5 shared documents
 - [1998](1998.md) - 5 shared documents
 
 ## Timeline

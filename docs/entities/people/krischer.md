@@ -26,7 +26,6 @@ Top 6 documents by mention frequency:
 **People:**
 
 - [Jeffrey Epstein](jeffrey-epstein.md) - 6 shared documents
-- [Epstein](epstein.md) - 6 shared documents
 - [Michael Reiter](michael-reiter.md) - 5 shared documents
 - [Reiter](reiter.md) - 5 shared documents
 - [Bill 
@@ -45,8 +44,8 @@ Clinton](bill-clinton.md) - 5 shared documents
 
 **Events:**
 
-- [May 1](../events/may-1.md) - 5 shared documents
 - [53](../events/53.md) - 5 shared documents
+- [May 1](../events/may-1.md) - 5 shared documents
 
 ## Timeline
 

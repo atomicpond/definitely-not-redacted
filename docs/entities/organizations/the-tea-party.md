@@ -37,37 +37,32 @@ Top 8 documents by mention frequency:
 - [Harvard](harvard.md) - 6 shared documents
 - [Treasury](treasury.md) - 5 shared documents
 - [Goldman Sachs](goldman-sachs.md) - 5 shared documents
-- [Congress](congress.md) - 4 shared documents
-- [Facebook](facebook.md) - 4 shared documents
-- [ISIS](isis.md) - 4 shared documents
-- [the Justice Department](the-justice-department.md) - 4 shared documents
-- [CNN](cnn.md) - 4 shared documents
-- [General Electric](general-electric.md) - 4 shared documents
 
 **Locations:**
 
-- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [London](../locations/london.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
 - [Rome](../locations/rome.md) - 5 shared documents
+- [Russia](../locations/russia.md) - 5 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [United States](../locations/united-states.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 - [West](../locations/west.md) - 5 shared documents
 
 **Events:**
 
 - [2008](../events/2008.md) - 6 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [tomorrow](../events/tomorrow.md) - 5 shared documents
-- [years ago](../events/years-ago.md) - 5 shared documents
 - [every day](../events/every-day.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
+- [tomorrow](../events/tomorrow.md) - 5 shared documents
+- [years](../events/years.md) - 5 shared documents
+- [years ago](../events/years-ago.md) - 5 shared documents
 - [2014](../events/2014.md) - 4 shared documents
+- [35](../events/35.md) - 4 shared documents
 - [a day](../events/a-day.md) - 4 shared documents
-- [the years](../events/the-years.md) - 4 shared documents
+- [decades](../events/decades.md) - 4 shared documents
 
 ## Timeline
 

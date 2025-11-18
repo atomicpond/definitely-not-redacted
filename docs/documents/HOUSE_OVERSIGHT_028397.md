@@ -14,9 +14,9 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Kavanaugh](../entities/people/mr-kavanaugh.md) - 27 mentions
+- [Mr. Kavanaugh](../entities/people/kavanaugh.md) - 27 mentions
 - [Judge Kavanaugh](../entities/people/judge-kavanaugh.md) - 23 mentions
-- [Dr. Blasey](../entities/people/dr-blasey.md) - 14 mentions
+- [Dr. Blasey](../entities/people/blasey.md) - 14 mentions
 - [Supreme Court](../entities/people/supreme-court.md) - 11 mentions
 - [Mr. 
 Trump](../entities/people/mr-trump.md) - 7 mentions

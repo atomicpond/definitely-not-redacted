@@ -36,19 +36,19 @@ Top 5 documents by mention frequency:
 - [Singularity University](singularity-university.md) - 5 shared documents
 - [UCSF MD](ucsf-md.md) - 5 shared documents
 - [Wikipedia](wikipedia.md) - 5 shared documents
-- [Creative Commons](creative-commons.md) - 5 shared documents
-- [Electronic Frontier Foundation](electronic-frontier-foundation.md) - 5 shared documents
 - [@Google](google.md) - 5 shared documents
 - [Android Nexus 6](android-nexus-6.md) - 5 shared documents
+- [Creative Commons](creative-commons.md) - 5 shared documents
+- [Electronic Frontier Foundation](electronic-frontier-foundation.md) - 5 shared documents
 
 **Events:**
 
-- [a few years ago](../events/a-few-years-ago.md) - 5 shared documents
-- [day](../events/day.md) - 5 shared documents
-- [4 years 
-ago](../events/4-years-ago.md) - 5 shared documents
 - [01/19/17](../events/01-19-17.md) - 5 shared documents
 - [1/20/2017](../events/1-20-2017.md) - 5 shared documents
+- [4 years 
+ago](../events/4-years-ago.md) - 5 shared documents
+- [a few years ago](../events/a-few-years-ago.md) - 5 shared documents
+- [day](../events/day.md) - 5 shared documents
 - [Fri, Jan 20, 2017](../events/fri-jan-20-2017.md) - 5 shared documents
 - [Jan 20, 2017](../events/jan-20-2017.md) - 5 shared documents
 

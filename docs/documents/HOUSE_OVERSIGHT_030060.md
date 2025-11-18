@@ -15,7 +15,7 @@
 
 ### People
 - [Assad](../entities/people/assad.md) - 23 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 10 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 10 mentions
 - [kushner](../entities/people/kushner.md) - 8 mentions
 - [United 
 States](../entities/people/united-states.md) - 6 mentions

@@ -32,40 +32,40 @@ Top 10 documents by mention frequency:
 
 - [Security Council](../people/security-council.md) - 15 shared documents
 - [Middle East](../people/middle-east.md) - 10 shared documents
-- [Barack Obama](../people/barack-obama.md) - 9 shared documents
 - [Bashar al-Assad](../people/bashar-al-assad.md) - 8 shared documents
 - [Larry Summers](../people/larry-summers.md) - 8 shared documents
 - [Hosni Mubarak](../people/hosni-mubarak.md) - 7 shared documents
-- [President Obama](../people/president-obama.md) - 7 shared documents
 - [Ace Greenberg](../people/ace-greenberg.md) - 6 shared documents
 - [Apollo Global Management](../people/apollo-global-management.md) - 6 shared documents
 - [Avenue Foch](../people/avenue-foch.md) - 6 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
+- [Bernie Ebbers](../people/bernie-ebbers.md) - 6 shared documents
 
 **Organizations:**
 
 - [the New York Times](the-new-york-times.md) - 11 shared documents
 - [White House](white-house.md) - 10 shared documents
 - [Guardian](guardian.md) - 9 shared documents
-- [NATO](nato.md) - 8 shared documents
 - [Hamas](hamas.md) - 8 shared documents
+- [NATO](nato.md) - 8 shared documents
 - [the United Nations](the-united-nations.md) - 7 shared documents
 - [Times](times.md) - 7 shared documents
 - [U.N.](un.md) - 7 shared documents
-- [State](state.md) - 7 shared documents
 - [Tiffany’s](tiffanys.md) - 6 shared documents
+- [Treasury](treasury.md) - 6 shared documents
 
 **Locations:**
 
 - [Europe](../locations/europe.md) - 13 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 12 shared documents
 - [Iran](../locations/iran.md) - 12 shared documents
-- [Syria](../locations/syria.md) - 11 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 12 shared documents
 - [Israel](../locations/israel.md) - 11 shared documents
+- [Syria](../locations/syria.md) - 11 shared documents
+- [Britain](../locations/britain.md) - 10 shared documents
 - [Iraq](../locations/iraq.md) - 10 shared documents
 - [Libya](../locations/libya.md) - 10 shared documents
 - [Paris](../locations/paris.md) - 10 shared documents
-- [Britain](../locations/britain.md) - 10 shared documents
-- [Russia](../locations/russia.md) - 9 shared documents
+- [America](../locations/america.md) - 9 shared documents
 
 **Events:**
 
@@ -73,12 +73,12 @@ Top 10 documents by mention frequency:
 - [two years](../events/two-years.md) - 10 shared documents
 - [the 1980s](../events/the-1980s.md) - 9 shared documents
 - [2004](../events/2004.md) - 8 shared documents
-- [today](../events/today.md) - 8 shared documents
 - [many years](../events/many-years.md) - 8 shared documents
 - [September](../events/september.md) - 8 shared documents
-- [2003](../events/2003.md) - 7 shared documents
-- [2009](../events/2009.md) - 7 shared documents
-- [daily](../events/daily.md) - 7 shared documents
+- [today](../events/today.md) - 8 shared documents
+- [1974](../events/1974.md) - 7 shared documents
+- [1980](../events/1980.md) - 7 shared documents
+- [1982](../events/1982.md) - 7 shared documents
 
 ## Timeline
 

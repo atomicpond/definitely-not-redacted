@@ -65,12 +65,12 @@ Top 6 documents by mention frequency:
 - [September](september.md) - 6 shared documents
 - [Tuesday](tuesday.md) - 6 shared documents
 - [Friday](friday.md) - 6 shared documents
-- [2009](2009.md) - 5 shared documents
 - [2008](2008.md) - 5 shared documents
+- [2009](2009.md) - 5 shared documents
 - [just days](just-days.md) - 4 shared documents
 - [October 2017](october-2017.md) - 4 shared documents
+- [13 months](13-months.md) - 4 shared documents
 - [2017](2017.md) - 4 shared documents
-- [2019](2019.md) - 4 shared documents
 
 ## Timeline
 

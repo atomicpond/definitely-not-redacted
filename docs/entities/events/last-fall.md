@@ -62,9 +62,9 @@ Top 10 documents by mention frequency:
 
 - [this year](this-year.md) - 7 shared documents
 - [last year](last-year.md) - 6 shared documents
-- [2018](2018.md) - 6 shared documents
 - [2007](2007.md) - 6 shared documents
 - [2014](2014.md) - 6 shared documents
+- [2018](2018.md) - 6 shared documents
 - [last week](last-week.md) - 5 shared documents
 - [the years](the-years.md) - 5 shared documents
 - [this fall](this-fall.md) - 5 shared documents

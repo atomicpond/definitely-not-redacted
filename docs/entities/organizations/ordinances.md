@@ -26,7 +26,8 @@ Top 6 documents by mention frequency:
 **People:**
 
 - [County Road](../people/county-road.md) - 6 shared documents
-- [Trump Properties](../people/trump-properties.md) - 6 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 6 shared documents
 
 **Organizations:**
 
@@ -34,9 +35,9 @@ Top 6 documents by mention frequency:
 - [the Town of Palm Beach](the-town-of-palm-beach.md) - 6 shared documents
 - [Town](town.md) - 6 shared documents
 - [Trump Properties](trump-properties.md) - 6 shared documents
-- [LLC](llc.md) - 6 shared documents
 - [ARCOM](arcom.md) - 6 shared documents
 - [Code Enforcement](code-enforcement.md) - 6 shared documents
+- [LLC](llc.md) - 6 shared documents
 
 **Events:**
 

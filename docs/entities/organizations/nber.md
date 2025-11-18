@@ -29,17 +29,17 @@ Top 5 documents by mention frequency:
 **Locations:**
 
 - [Japan](../locations/japan.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
 - [Canada](../locations/canada.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 4 shared documents
 
 **Events:**
 
+- [10-year](../events/10-year.md) - 4 shared documents
+- [2000](../events/2000.md) - 4 shared documents
 - [2004](../events/2004.md) - 4 shared documents
+- [2013](../events/2013.md) - 4 shared documents
 - [annual](../events/annual.md) - 4 shared documents
 - [today](../events/today.md) - 4 shared documents
-- [2000](../events/2000.md) - 4 shared documents
-- [10-year](../events/10-year.md) - 4 shared documents
-- [2013](../events/2013.md) - 4 shared documents
 
 ## Timeline
 

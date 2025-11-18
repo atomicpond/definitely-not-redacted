@@ -29,8 +29,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Epstein](epstein.md) - 9 shared documents
-- [Jeffrey Epstein](jeffrey-epstein.md) - 8 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 9 shared documents
 - [Palm 
 Beach](palm-beach.md) - 6 shared documents
 - [Bill 
@@ -46,8 +45,8 @@ Clinton](bill-clinton.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 6 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 6 shared documents
 - [New York](../locations/new-york.md) - 4 shared documents
-- [West Palm Beach](../locations/west-palm-beach.md) - 4 shared documents
 - [Virgin Islands](../locations/virgin-islands.md) - 4 shared documents
+- [West Palm Beach](../locations/west-palm-beach.md) - 4 shared documents
 
 **Events:**
 

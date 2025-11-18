@@ -43,8 +43,8 @@ Top 10 documents by mention frequency:
 **Organizations:**
 
 - [Treasury](treasury.md) - 10 shared documents
-- [Harvard](harvard.md) - 10 shared documents
 - [Goldman Sachs](goldman-sachs.md) - 10 shared documents
+- [Harvard](harvard.md) - 10 shared documents
 - [Rockefeller](rockefeller.md) - 9 shared documents
 - [Rockefeller University](rockefeller-university.md) - 9 shared documents
 - [the Daily News](the-daily-news.md) - 9 shared documents
@@ -57,27 +57,27 @@ Top 10 documents by mention frequency:
 
 - [Europe](../locations/europe.md) - 10 shared documents
 - [Paris](../locations/paris.md) - 10 shared documents
-- [Qatar](../locations/qatar.md) - 9 shared documents
-- [Manhattan](../locations/manhattan.md) - 9 shared documents
-- [Queens](../locations/queens.md) - 9 shared documents
-- [Dallas](../locations/dallas.md) - 9 shared documents
-- [New Mexico](../locations/new-mexico.md) - 9 shared documents
-- [Palm Beach](../locations/palm-beach.md) - 9 shared documents
-- [Connecticut](../locations/connecticut.md) - 9 shared documents
+- [Caribbean Island](../locations/caribbean-island.md) - 9 shared documents
 - [Coney Island](../locations/coney-island.md) - 9 shared documents
+- [Connecticut](../locations/connecticut.md) - 9 shared documents
+- [Dallas](../locations/dallas.md) - 9 shared documents
+- [Dalton](../locations/dalton.md) - 9 shared documents
+- [Lafayette](../locations/lafayette.md) - 9 shared documents
+- [Manhattan](../locations/manhattan.md) - 9 shared documents
+- [Monterey](../locations/monterey.md) - 9 shared documents
 
 **Events:**
 
-- [the 1980s](../events/the-1980s.md) - 10 shared documents
-- [last year](../events/last-year.md) - 10 shared documents
-- [1974](../events/1974.md) - 10 shared documents
-- [2002](../events/2002.md) - 10 shared documents
-- [two years](../events/two-years.md) - 10 shared documents
 - [1953](../events/1953.md) - 10 shared documents
+- [1974](../events/1974.md) - 10 shared documents
 - [1982](../events/1982.md) - 10 shared documents
+- [2002](../events/2002.md) - 10 shared documents
+- [last year](../events/last-year.md) - 10 shared documents
+- [the 1980s](../events/the-1980s.md) - 10 shared documents
 - [Twentieth Century](../events/twentieth-century.md) - 10 shared documents
-- [Sunday](../events/sunday.md) - 9 shared documents
-- [Saturday](../events/saturday.md) - 9 shared documents
+- [two years](../events/two-years.md) - 10 shared documents
+- [18 months](../events/18-months.md) - 9 shared documents
+- [1994](../events/1994.md) - 9 shared documents
 
 ## Timeline
 

@@ -41,8 +41,8 @@ Top 8 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](house.md) - 7 shared documents
 - [Apple](apple.md) - 7 shared documents
+- [HOUSE](house.md) - 7 shared documents
 - [Ford](ford.md) - 6 shared documents
 - [LLC](llc.md) - 6 shared documents
 - [MILLER](miller.md) - 6 shared documents
@@ -58,22 +58,22 @@ Top 8 documents by mention frequency:
 - [Virginia](../locations/virginia.md) - 7 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 6 shared documents
 - [Charlotte](../locations/charlotte.md) - 5 shared documents
-- [Holland](../locations/holland.md) - 5 shared documents
 - [HENDERSON](../locations/henderson.md) - 5 shared documents
+- [Holland](../locations/holland.md) - 5 shared documents
 - [WOODBRIDGE](../locations/woodbridge.md) - 5 shared documents
 
 **Events:**
 
-- [2007](../events/2007.md) - 7 shared documents
 - [2000](../events/2000.md) - 7 shared documents
 - [2005](../events/2005.md) - 7 shared documents
-- [1997](../events/1997.md) - 6 shared documents
-- [1987](../events/1987.md) - 6 shared documents
+- [2007](../events/2007.md) - 7 shared documents
 - [1983](../events/1983.md) - 6 shared documents
+- [1987](../events/1987.md) - 6 shared documents
 - [1995](../events/1995.md) - 6 shared documents
-- [1996](../events/1996.md) - 5 shared documents
-- [1970](../events/1970.md) - 5 shared documents
-- [1990](../events/1990.md) - 5 shared documents
+- [1997](../events/1997.md) - 6 shared documents
+- [1960](../events/1960.md) - 5 shared documents
+- [1964](../events/1964.md) - 5 shared documents
+- [1968](../events/1968.md) - 5 shared documents
 
 ## Timeline
 

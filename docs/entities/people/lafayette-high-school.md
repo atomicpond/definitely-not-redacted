@@ -45,39 +45,39 @@ Top 10 documents by mention frequency:
 
 - [Bear Stearns](../organizations/bear-stearns.md) - 9 shared documents
 - [Harvard](../organizations/harvard.md) - 8 shared documents
-- [Vanity Fair](../organizations/vanity-fair.md) - 8 shared documents
 - [Lafayette High School](../organizations/lafayette-high-school.md) - 8 shared documents
+- [Vanity Fair](../organizations/vanity-fair.md) - 8 shared documents
 - [Ghislaine Maxwell](../organizations/ghislaine-maxwell.md) - 6 shared documents
 - [Maxwell](../organizations/maxwell.md) - 6 shared documents
-- [HOUSE](../organizations/house.md) - 5 shared documents
 - [Cooper Union](../organizations/cooper-union.md) - 5 shared documents
+- [HOUSE](../organizations/house.md) - 5 shared documents
 - [Wexner](../organizations/wexner.md) - 5 shared documents
 
 **Locations:**
 
+- [Coney Island](../locations/coney-island.md) - 9 shared documents
 - [Manhattan](../locations/manhattan.md) - 9 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 9 shared documents
-- [Coney Island](../locations/coney-island.md) - 9 shared documents
-- [Florida](../locations/florida.md) - 8 shared documents
 - [England](../locations/england.md) - 8 shared documents
+- [Florida](../locations/florida.md) - 8 shared documents
 - [New Mexico](../locations/new-mexico.md) - 8 shared documents
 - [Brooklyn](../locations/brooklyn.md) - 6 shared documents
-- [Paris](../locations/paris.md) - 6 shared documents
 - [Dalton](../locations/dalton.md) - 6 shared documents
-- [New York](../locations/new-york.md) - 5 shared documents
+- [Paris](../locations/paris.md) - 6 shared documents
+- [Caribbean](../locations/caribbean.md) - 5 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 6 shared documents
-- [two years](../events/two-years.md) - 6 shared documents
 - [1982](../events/1982.md) - 6 shared documents
 - [1995](../events/1995.md) - 6 shared documents
 - [50](../events/50.md) - 6 shared documents
+- [today](../events/today.md) - 6 shared documents
+- [two years](../events/two-years.md) - 6 shared documents
+- [1989](../events/1989.md) - 5 shared documents
+- [2002](../events/2002.md) - 5 shared documents
 - [2004](../events/2004.md) - 5 shared documents
 - [2015](../events/2015.md) - 5 shared documents
-- [Sunday](../events/sunday.md) - 5 shared documents
-- [2002](../events/2002.md) - 5 shared documents
-- [1989](../events/1989.md) - 5 shared documents
+- [several years](../events/several-years.md) - 5 shared documents
 
 ## Timeline
 

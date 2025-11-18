@@ -31,7 +31,6 @@ Top 10 documents by mention frequency:
 
 - [New Jersey](../people/new-jersey.md) - 14 shared documents
 - [White House](../people/white-house.md) - 13 shared documents
-- [President Obama](../people/president-obama.md) - 11 shared documents
 
 **Organizations:**
 
@@ -67,10 +66,10 @@ Top 10 documents by mention frequency:
 - [daily](../events/daily.md) - 22 shared documents
 - [2006](../events/2006.md) - 21 shared documents
 - [2008](../events/2008.md) - 20 shared documents
+- [1985](../events/1985.md) - 19 shared documents
 - [2004](../events/2004.md) - 19 shared documents
 - [2012](../events/2012.md) - 19 shared documents
-- [1985](../events/1985.md) - 19 shared documents
-- [2003](../events/2003.md) - 18 shared documents
+- [2000](../events/2000.md) - 18 shared documents
 
 ## Timeline
 

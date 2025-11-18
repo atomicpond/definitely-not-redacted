@@ -29,11 +29,11 @@ Top 9 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 4 shared documents
 - [Bard College](../people/bard-college.md) - 4 shared documents
 - [David Brooks](../people/david-brooks.md) - 4 shared documents
 - [Frank Gehry](../people/frank-gehry.md) - 4 shared documents
 - [Herbie Hancock](../people/herbie-hancock.md) - 4 shared documents
-- [President Obama](../people/president-obama.md) - 4 shared documents
 - [Yo Yo Ma](../people/yo-yo-ma.md) - 4 shared documents
 
 **Organizations:**
@@ -47,11 +47,11 @@ Top 9 documents by mention frequency:
 **Locations:**
 
 - [America](../locations/america.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
-- [China](../locations/china.md) - 4 shared documents
-- [France](../locations/france.md) - 4 shared documents
 - [Cambridge](../locations/cambridge.md) - 4 shared documents
 - [Caribbean](../locations/caribbean.md) - 4 shared documents
+- [China](../locations/china.md) - 4 shared documents
+- [France](../locations/france.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
 - [New York City](../locations/new-york-city.md) - 4 shared documents
 - [New York State](../locations/new-york-state.md) - 4 shared documents
 
@@ -60,8 +60,8 @@ Top 9 documents by mention frequency:
 - [last year](../events/last-year.md) - 5 shared documents
 - [the year](../events/the-year.md) - 5 shared documents
 - [the years](../events/the-years.md) - 5 shared documents
-- [2014](../events/2014.md) - 4 shared documents
 - [2012](../events/2012.md) - 4 shared documents
+- [2014](../events/2014.md) - 4 shared documents
 
 ## Timeline
 

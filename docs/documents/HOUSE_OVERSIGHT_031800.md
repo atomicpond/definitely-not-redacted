@@ -21,7 +21,7 @@
 
 ### Events/Dates
 - [Dec 22, 2018](../entities/events/dec-22-2018.md) - 3 mentions
-- [24/7](../entities/events/247.md) - 1 mention
+- [24/7](../entities/events/24-7.md) - 1 mention
 - [Sat](../entities/events/sat.md) - 1 mention
 
 ## Document Text

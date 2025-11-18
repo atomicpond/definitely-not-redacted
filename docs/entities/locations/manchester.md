@@ -43,10 +43,10 @@ Top 8 documents by mention frequency:
 
 - [Germany](germany.md) - 6 shared documents
 - [Spain](spain.md) - 5 shared documents
-- [Europe](europe.md) - 5 shared documents
-- [London](london.md) - 5 shared documents
 - [America](america.md) - 5 shared documents
 - [Australia](australia.md) - 5 shared documents
+- [Europe](europe.md) - 5 shared documents
+- [London](london.md) - 5 shared documents
 - [Palm Beach](palm-beach.md) - 4 shared documents
 - [Paris](paris.md) - 4 shared documents
 - [Russia](russia.md) - 4 shared documents
@@ -57,13 +57,13 @@ Top 8 documents by mention frequency:
 - [Sunday](../events/sunday.md) - 6 shared documents
 - [this year](../events/this-year.md) - 6 shared documents
 - [annual](../events/annual.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [the week](../events/the-week.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
+- [days](../events/days.md) - 5 shared documents
 - [Friday](../events/friday.md) - 5 shared documents
 - [months](../events/months.md) - 5 shared documents
-- [days](../events/days.md) - 5 shared documents
 - [the day](../events/the-day.md) - 5 shared documents
+- [the week](../events/the-week.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
+- [years](../events/years.md) - 5 shared documents
 
 ## Timeline
 

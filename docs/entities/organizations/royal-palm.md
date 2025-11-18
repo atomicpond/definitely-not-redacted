@@ -42,20 +42,20 @@ Top 8 documents by mention frequency:
 - [Palm Beach County](../locations/palm-beach-county.md) - 7 shared documents
 - [New York](../locations/new-york.md) - 6 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 6 shared documents
-- [Virginia](../locations/virginia.md) - 5 shared documents
 - [Palm Beach, FL](../locations/palm-beach-fl.md) - 5 shared documents
-- [California](../locations/california.md) - 4 shared documents
+- [Virginia](../locations/virginia.md) - 5 shared documents
+- [Australia](../locations/australia.md) - 4 shared documents
 - [Brazil](../locations/brazil.md) - 4 shared documents
-- [France](../locations/france.md) - 4 shared documents
+- [California](../locations/california.md) - 4 shared documents
 
 **Events:**
 
 - [2007](../events/2007.md) - 6 shared documents
-- [today](../events/today.md) - 5 shared documents
 - [monthly](../events/monthly.md) - 5 shared documents
-- [daily](../events/daily.md) - 4 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [2005](../events/2005.md) - 4 shared documents
 - [2008](../events/2008.md) - 4 shared documents
+- [daily](../events/daily.md) - 4 shared documents
 
 ## Timeline
 

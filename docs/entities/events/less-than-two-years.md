@@ -39,9 +39,9 @@ Top 7 documents by mention frequency:
 **Events:**
 
 - [2000](2000.md) - 5 shared documents
-- [2009](2009.md) - 4 shared documents
 - [1962](1962.md) - 4 shared documents
 - [1998](1998.md) - 4 shared documents
+- [2009](2009.md) - 4 shared documents
 
 ## Timeline
 

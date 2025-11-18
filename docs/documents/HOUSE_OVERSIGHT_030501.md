@@ -11,7 +11,7 @@
 ### People
 - [Jes Staley](../entities/people/jes-staley.md) - 4 mentions
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 2 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [robert](../entities/people/robert.md) - 1 mention
 
 ### Organizations

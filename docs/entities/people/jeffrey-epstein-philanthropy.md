@@ -27,24 +27,21 @@ Top 7 documents by mention frequency:
 **People:**
 
 - [Jeffrey Epstein](jeffrey-epstein.md) - 6 shared documents
-- [Jeffrey Edward Epstein](jeffrey-edward-epstein.md) - 6 shared documents
 - [Jeffrey Epstein - Wikipedia](jeffrey-epstein-wikipedia.md) - 6 shared documents
 - [Leslie Wexner](leslie-wexner.md) - 5 shared documents
-- [Epstein](epstein.md) - 5 shared documents
-- [jeff epstein](jeff-epstein.md) - 5 shared documents
 
 **Organizations:**
 
-- [Google](../organizations/google.md) - 5 shared documents
-- [Daily Mail](../organizations/daily-mail.md) - 5 shared documents
 - [Bear Stearns](../organizations/bear-stearns.md) - 5 shared documents
-- [The Jeffrey Epstein VI Foundation](../organizations/the-jeffrey-epstein-vi-foundation.md) - 5 shared documents
-- [Jeffrey Epstein VI Foundation](../organizations/jeffrey-epstein-vi-foundation.md) - 5 shared documents
-- [Limited](../organizations/limited.md) - 5 shared documents
 - [CEOs like Leslie Wexner of the Limited](../organizations/ceos-like-leslie-wexner-of-the-limited.md) - 5 shared documents
+- [Daily Mail](../organizations/daily-mail.md) - 5 shared documents
+- [Google](../organizations/google.md) - 5 shared documents
+- [Jeffrey Epstein VI Foundation](../organizations/jeffrey-epstein-vi-foundation.md) - 5 shared documents
 - [Life - Financial](../organizations/life-financial.md) - 5 shared documents
-- [HOUSE](../organizations/house.md) - 4 shared documents
+- [Limited](../organizations/limited.md) - 5 shared documents
+- [The Jeffrey Epstein VI Foundation](../organizations/the-jeffrey-epstein-vi-foundation.md) - 5 shared documents
 - [Ghislaine Maxwell](../organizations/ghislaine-maxwell.md) - 4 shared documents
+- [HOUSE](../organizations/house.md) - 4 shared documents
 
 **Locations:**
 

@@ -36,10 +36,8 @@ Top 9 documents by mention frequency:
 
 - [Jeffrey E](../people/jeffrey-e.md) - 9 shared documents
 - [Lawrence Krauss](../people/lawrence-krauss.md) - 9 shared documents
-- [Lawrence M. Krauss](../people/lawrence-m-krauss.md) - 9 shared documents
 - [Research Office](../people/research-office.md) - 9 shared documents
 - [Space Exploration](../people/space-exploration.md) - 9 shared documents
-- [Lawrence](../people/lawrence.md) - 7 shared documents
 - [Cosmology Initiative 
 Foundation](../people/cosmology-initiative-foundation.md) - 6 shared documents
 - [Foundation Professor 
@@ -47,16 +45,19 @@ School](../people/foundation-professor-school.md) - 6 shared documents
 - [Krauss 
 Director](../people/krauss-director.md) - 6 shared documents
 - [noam](../people/noam.md) - 6 shared documents
+- [Noam Chomsky](../people/noam-chomsky.md) - 6 shared documents
+- [Physics Department 
+Arizona](../people/physics-department-arizona.md) - 6 shared documents
 
 **Organizations:**
 
 - [Arizona State University](arizona-state-university.md) - 9 shared documents
 - [ASU 
 Foundation](asu-foundation.md) - 9 shared documents
-- [The Origins Project](the-origins-project.md) - 9 shared documents
-- [Research Office](research-office.md) - 9 shared documents
 - [P.O. Box 871404](po-box-871404.md) - 9 shared documents
+- [Research Office](research-office.md) - 9 shared documents
 - [School of Earth & Space Exploration and Physics Department](school-of-earth-space-exploration-and-physics-department.md) - 9 shared documents
+- [The Origins Project](the-origins-project.md) - 9 shared documents
 - [ASU](asu.md) - 8 shared documents
 - [Cosmology Initiative 
 Foundation Professor 

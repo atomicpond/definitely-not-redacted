@@ -9,7 +9,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 3 mentions
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 3 mentions
 - [Nicholas Ribis](../entities/people/nicholas-ribis.md) - 2 mentions
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
 - [Jeffrey E. 

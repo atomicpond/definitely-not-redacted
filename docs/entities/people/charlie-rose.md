@@ -29,8 +29,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Epstein](epstein.md) - 8 shared documents
-- [Jeffrey Epstein](jeffrey-epstein.md) - 8 shared documents
 - [Michael Wolff](michael-wolff.md) - 8 shared documents
 - [Connolly](connolly.md) - 7 shared documents
 - [JAMES PATTERSON](james-patterson.md) - 7 shared documents
@@ -40,6 +38,8 @@ Top 10 documents by mention frequency:
 - [Brown](brown.md) - 7 shared documents
 - [Kathy 
 Ruemmler](kathy-ruemmler.md) - 6 shared documents
+- [Daily Mail](daily-mail.md) - 5 shared documents
+- [El Brillo Way](el-brillo-way.md) - 5 shared documents
 
 **Organizations:**
 
@@ -49,34 +49,34 @@ Ruemmler](kathy-ruemmler.md) - 6 shared documents
 - [New York Times](../organizations/new-york-times.md) - 7 shared documents
 - [Trump Clinton](../organizations/trump-clinton.md) - 7 shared documents
 - [FBI](../organizations/fbi.md) - 6 shared documents
-- [the Justice Department](../organizations/the-justice-department.md) - 5 shared documents
 - [Post](../organizations/post.md) - 5 shared documents
+- [the Justice Department](../organizations/the-justice-department.md) - 5 shared documents
 
 **Locations:**
 
 - [Manhattan](../locations/manhattan.md) - 8 shared documents
-- [Paris](../locations/paris.md) - 7 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 7 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
+- [Paris](../locations/paris.md) - 7 shared documents
 - [Europe](../locations/europe.md) - 6 shared documents
-- [London](../locations/london.md) - 6 shared documents
 - [Florida](../locations/florida.md) - 6 shared documents
+- [London](../locations/london.md) - 6 shared documents
 - [New York City](../locations/new-york-city.md) - 6 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
+- [United States](../locations/united-states.md) - 6 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [Britain](../locations/britain.md) - 5 shared documents
 
 **Events:**
 
 - [August](../events/august.md) - 10 shared documents
 - [a couple of weeks](../events/a-couple-of-weeks.md) - 7 shared documents
-- [the day](../events/the-day.md) - 7 shared documents
 - [a year from now](../events/a-year-from-now.md) - 7 shared documents
-- [2007](../events/2007.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [daily](../events/daily.md) - 6 shared documents
-- [2011](../events/2011.md) - 6 shared documents
+- [the day](../events/the-day.md) - 7 shared documents
 - [2005](../events/2005.md) - 6 shared documents
+- [2007](../events/2007.md) - 6 shared documents
+- [2011](../events/2011.md) - 6 shared documents
+- [daily](../events/daily.md) - 6 shared documents
 - [Friday](../events/friday.md) - 6 shared documents
+- [today](../events/today.md) - 6 shared documents
 
 ## Timeline
 

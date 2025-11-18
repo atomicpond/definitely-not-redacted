@@ -46,8 +46,8 @@ Top 10 documents by mention frequency:
 
 - [France](france.md) - 6 shared documents
 - [Paris](paris.md) - 6 shared documents
-- [London](london.md) - 5 shared documents
 - [Florida](florida.md) - 5 shared documents
+- [London](london.md) - 5 shared documents
 - [Scotland](scotland.md) - 4 shared documents
 - [South](south.md) - 4 shared documents
 - [Spain](spain.md) - 4 shared documents
@@ -58,14 +58,14 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [2016](../events/2016.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
 - [daily](../events/daily.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [years](../events/years.md) - 5 shared documents
+- [1993](../events/1993.md) - 4 shared documents
 - [2003](../events/2003.md) - 4 shared documents
 - [annual](../events/annual.md) - 4 shared documents
-- [that day](../events/that-day.md) - 4 shared documents
-- [Thursday](../events/thursday.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
+- [August](../events/august.md) - 4 shared documents
+- [decades](../events/decades.md) - 4 shared documents
 - [monthly](../events/monthly.md) - 4 shared documents
 
 ## Timeline

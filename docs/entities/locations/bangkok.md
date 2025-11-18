@@ -60,13 +60,13 @@ Unauthorized](../people/jeffrey-epstein-unauthorized.md) - 6 shared documents
 - [today](../events/today.md) - 10 shared documents
 - [this year](../events/this-year.md) - 9 shared documents
 - [years](../events/years.md) - 9 shared documents
+- [1980](../events/1980.md) - 7 shared documents
 - [2009](../events/2009.md) - 7 shared documents
 - [2012](../events/2012.md) - 7 shared documents
 - [Friday](../events/friday.md) - 7 shared documents
 - [months](../events/months.md) - 7 shared documents
-- [Tuesday](../events/tuesday.md) - 7 shared documents
 - [tomorrow](../events/tomorrow.md) - 7 shared documents
-- [1980](../events/1980.md) - 7 shared documents
+- [Tuesday](../events/tuesday.md) - 7 shared documents
 
 ## Timeline
 

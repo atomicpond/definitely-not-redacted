@@ -36,8 +36,6 @@ Top 10 documents by mention frequency:
 - [White House](../people/white-house.md) - 28 shared documents
 - [Central Bank](../people/central-bank.md) - 26 shared documents
 - [Asia Pacific](../people/asia-pacific.md) - 23 shared documents
-- [Barack Obama](../people/barack-obama.md) - 23 shared documents
-- [President Obama](../people/president-obama.md) - 23 shared documents
 
 **Organizations:**
 
@@ -71,8 +69,8 @@ Top 10 documents by mention frequency:
 - [2001](../events/2001.md) - 43 shared documents
 - [2000](../events/2000.md) - 41 shared documents
 - [this year](../events/this-year.md) - 41 shared documents
-- [years](../events/years.md) - 39 shared documents
 - [the day](../events/the-day.md) - 39 shared documents
+- [years](../events/years.md) - 39 shared documents
 - [2015](../events/2015.md) - 38 shared documents
 - [annual](../events/annual.md) - 35 shared documents
 - [2004](../events/2004.md) - 34 shared documents

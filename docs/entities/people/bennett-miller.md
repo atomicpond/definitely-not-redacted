@@ -41,7 +41,6 @@ Top 7 documents by mention frequency:
 
 - [HBO](../organizations/hbo.md) - 7 shared documents
 - [Sony](../organizations/sony.md) - 7 shared documents
-- [Viacom](../organizations/viacom.md) - 6 shared documents
 - [Academy](../organizations/academy.md) - 6 shared documents
 - [Disney](../organizations/disney.md) - 6 shared documents
 - [Marchesa](../organizations/marchesa.md) - 6 shared documents
@@ -49,32 +48,31 @@ Top 7 documents by mention frequency:
 - [Paramount](../organizations/paramount.md) - 6 shared documents
 - [UTA](../organizations/uta.md) - 6 shared documents
 - [Vanity Fair](../organizations/vanity-fair.md) - 6 shared documents
+- [Viacom](../organizations/viacom.md) - 6 shared documents
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 7 shared documents
-- [Toronto](../locations/toronto.md) - 7 shared documents
-- [Paris](../locations/paris.md) - 7 shared documents
 - [Cannes](../locations/cannes.md) - 7 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 7 shared documents
+- [Paris](../locations/paris.md) - 7 shared documents
+- [Toronto](../locations/toronto.md) - 7 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
 - [Manhattan](../locations/manhattan.md) - 5 shared documents
 - [Rome](../locations/rome.md) - 5 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 
-- [this year](../events/this-year.md) - 7 shared documents
 - [March](../events/march.md) - 7 shared documents
+- [this year](../events/this-year.md) - 7 shared documents
 - [Sunday](../events/sunday.md) - 6 shared documents
 - [the next day](../events/the-next-day.md) - 6 shared documents
-- [last year](../events/last-year.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [the year](../events/the-year.md) - 5 shared documents
 - [January](../events/january.md) - 5 shared documents
-- [October](../events/october.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
+- [last year](../events/last-year.md) - 5 shared documents
+- [the year](../events/the-year.md) - 5 shared documents
+- [years](../events/years.md) - 5 shared documents
+- [1982](../events/1982.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
 
 ## Timeline
 

@@ -42,8 +42,8 @@ Top 9 documents by mention frequency:
 - [years](years.md) - 5 shared documents
 - [2005](2005.md) - 5 shared documents
 - [four months](four-months.md) - 5 shared documents
-- [months](months.md) - 4 shared documents
 - [a year](a-year.md) - 4 shared documents
+- [months](months.md) - 4 shared documents
 - [the day](the-day.md) - 4 shared documents
 
 ## Timeline

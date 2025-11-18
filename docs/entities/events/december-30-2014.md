@@ -27,14 +27,14 @@ Top 8 documents by mention frequency:
 
 **People:**
 
-- [Bradley J. Edwards](../people/bradley-j-edwards.md) - 7 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 7 shared documents
 - [Jane Doe](../people/jane-doe.md) - 7 shared documents
 - [Paul G. Cassell](../people/paul-g-cassell.md) - 7 shared documents
 - [Jack Scarola](../people/jack-scarola.md) - 6 shared documents
 - [Jane Does](../people/jane-does.md) - 6 shared documents
 - [Rights Act](../people/rights-act.md) - 6 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 5 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 5 shared documents
+- [Jane Doe 3](../people/jane-doe-3.md) - 5 shared documents
+- [Paul Cassell](../people/paul-cassell.md) - 5 shared documents
 
 **Organizations:**
 
@@ -67,14 +67,14 @@ University](../organizations/quinney-college-of-law-at-the-university.md) - 5 sh
 
 - [2011](2011.md) - 7 shared documents
 - [today](today.md) - 6 shared documents
-- [2015](2015.md) - 6 shared documents
 - [1999](1999.md) - 6 shared documents
 - [2008](2008.md) - 6 shared documents
 - [2013](2013.md) - 6 shared documents
+- [2015](2015.md) - 6 shared documents
 - [5](5.md) - 6 shared documents
-- [2009](2009.md) - 5 shared documents
-- [1998](1998.md) - 5 shared documents
+- [12](12.md) - 5 shared documents
 - [13](13.md) - 5 shared documents
+- [14](14.md) - 5 shared documents
 
 ## Timeline
 

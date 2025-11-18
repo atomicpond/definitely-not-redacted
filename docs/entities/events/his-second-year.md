@@ -47,11 +47,11 @@ Top 6 documents by mention frequency:
 - [several years](several-years.md) - 5 shared documents
 - [Twentieth Century](twentieth-century.md) - 5 shared documents
 - [two years](two-years.md) - 5 shared documents
-- [2004](2004.md) - 5 shared documents
-- [1974](1974.md) - 5 shared documents
 - [18 months](18-months.md) - 5 shared documents
-- [2002](2002.md) - 5 shared documents
+- [1974](1974.md) - 5 shared documents
 - [1994](1994.md) - 5 shared documents
+- [2002](2002.md) - 5 shared documents
+- [2004](2004.md) - 5 shared documents
 
 ## Timeline
 

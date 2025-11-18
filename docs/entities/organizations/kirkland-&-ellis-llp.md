@@ -78,7 +78,7 @@ Kirkland & Ellis LLP or Kirkland & Ellis International LLP](it-is-the-property-o
 - [16](../events/16.md) - 5 shared documents
 - [a few years ago](../events/a-few-years-ago.md) - 5 shared documents
 - [June 2, 2008](../events/june-2,-2008.md) - 5 shared documents
-- [3/7/2011](../events/3/7/2011.md) - 5 shared documents
+- [3/7/2011](../events/3-7-2011.md) - 5 shared documents
 
 ## Timeline
 

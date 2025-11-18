@@ -28,17 +28,17 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](house.md) - 5 shared documents
 - [Harvard](harvard.md) - 5 shared documents
+- [HOUSE](house.md) - 5 shared documents
 
 **Events:**
 
-- [2018](../events/2018.md) - 5 shared documents
 - [2014](../events/2014.md) - 5 shared documents
-- [last year](../events/last-year.md) - 5 shared documents
-- [this year](../events/this-year.md) - 5 shared documents
+- [2018](../events/2018.md) - 5 shared documents
 - [last fall](../events/last-fall.md) - 5 shared documents
+- [last year](../events/last-year.md) - 5 shared documents
 - [this fall](../events/this-fall.md) - 5 shared documents
+- [this year](../events/this-year.md) - 5 shared documents
 
 ## Timeline
 

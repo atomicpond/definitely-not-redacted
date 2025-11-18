@@ -22,7 +22,7 @@
 - [CLINTON](../entities/people/clinton.md) - 1 mention
 - [Donald 
 Trump](../entities/people/donald-trump.md) - 1 mention
-- [Mr. Kavanaugh](../entities/people/mr-kavanaugh.md) - 1 mention
+- [Mr. Kavanaugh](../entities/people/kavanaugh.md) - 1 mention
 - [Hillary Clinton](../entities/people/hillary-clinton.md) - 1 mention
 - [Christine Blasey Ford](../entities/people/christine-blasey-ford.md) - 1 mention
 

@@ -71,13 +71,13 @@ Dignitatis Humanae Institute](../organizations/benjamin-harnwell-founder-and-pre
 
 **Events:**
 
+- [1984](1984.md) - 11 shared documents
 - [2014](2014.md) - 11 shared documents
 - [2016](2016.md) - 11 shared documents
-- [Friday](friday.md) - 11 shared documents
-- [1984](1984.md) - 11 shared documents
 - [2018-07-22](2018-07-22.md) - 11 shared documents
 - [2019](2019.md) - 11 shared documents
 - [65](65.md) - 11 shared documents
+- [Friday](friday.md) - 11 shared documents
 - [July 22, 2018](july-22-2018.md) - 11 shared documents
 - [last summer](last-summer.md) - 11 shared documents
 - [next May](next-may.md) - 11 shared documents

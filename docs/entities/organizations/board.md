@@ -43,16 +43,14 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [Washington](../locations/washington.md) - 8 shared documents
 - [D.C.](../locations/dc.md) - 8 shared documents
-- [United States](../locations/united-states.md) - 7 shared documents
+- [Washington](../locations/washington.md) - 8 shared documents
 - [Canada](../locations/canada.md) - 7 shared documents
+- [United States](../locations/united-states.md) - 7 shared documents
 - [California](../locations/california.md) - 6 shared documents
 - [Germany](../locations/germany.md) - 6 shared documents
-- [Israel](../locations/israel.md) - 6 shared documents
 - [India](../locations/india.md) - 6 shared documents
-- [New York](../locations/new-york.md) - 5 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
+- [Israel](../locations/israel.md) - 6 shared documents
 
 **Events:**
 
@@ -60,12 +58,12 @@ Top 10 documents by mention frequency:
 - [monthly](../events/monthly.md) - 9 shared documents
 - [2004](../events/2004.md) - 8 shared documents
 - [today](../events/today.md) - 8 shared documents
-- [2014](../events/2014.md) - 7 shared documents
 - [2012](../events/2012.md) - 7 shared documents
-- [2003](../events/2003.md) - 6 shared documents
-- [2007](../events/2007.md) - 6 shared documents
-- [2015](../events/2015.md) - 6 shared documents
-- [2000](../events/2000.md) - 6 shared documents
+- [2014](../events/2014.md) - 7 shared documents
+- [1990](../events/1990.md) - 6 shared documents
+- [1994](../events/1994.md) - 6 shared documents
+- [1995](../events/1995.md) - 6 shared documents
+- [1999](../events/1999.md) - 6 shared documents
 
 ## Timeline
 

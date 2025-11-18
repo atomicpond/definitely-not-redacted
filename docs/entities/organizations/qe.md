@@ -36,33 +36,33 @@ Top 6 documents by mention frequency:
 - [ECB](ecb.md) - 5 shared documents
 - [GMOS](gmos.md) - 5 shared documents
 - [BoJ](boj.md) - 4 shared documents
-- [Fed](fed.md) - 4 shared documents
 - [EUR](eur.md) - 4 shared documents
+- [Fed](fed.md) - 4 shared documents
 
 **Locations:**
 
 - [China](../locations/china.md) - 6 shared documents
+- [EUR](../locations/eur.md) - 6 shared documents
 - [Europe](../locations/europe.md) - 6 shared documents
 - [Japan](../locations/japan.md) - 6 shared documents
-- [EUR](../locations/eur.md) - 6 shared documents
-- [US](../locations/us.md) - 6 shared documents
 - [U.K.](../locations/uk.md) - 6 shared documents
+- [US](../locations/us.md) - 6 shared documents
 - [Brazil](../locations/brazil.md) - 5 shared documents
 - [Spain](../locations/spain.md) - 5 shared documents
-- [Mexico](../locations/mexico.md) - 4 shared documents
 - [Asia](../locations/asia.md) - 4 shared documents
+- [Malaysia](../locations/malaysia.md) - 4 shared documents
 
 **Events:**
 
-- [last year](../events/last-year.md) - 6 shared documents
 - [2013](../events/2013.md) - 6 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [this week](../events/this-week.md) - 5 shared documents
-- [this year](../events/this-year.md) - 5 shared documents
-- [the year](../events/the-year.md) - 5 shared documents
-- [December](../events/december.md) - 5 shared documents
+- [last year](../events/last-year.md) - 6 shared documents
 - [7134-1816](../events/7134-1816.md) - 5 shared documents
 - [7134-7813](../events/7134-7813.md) - 5 shared documents
+- [December](../events/december.md) - 5 shared documents
+- [the year](../events/the-year.md) - 5 shared documents
+- [this week](../events/this-week.md) - 5 shared documents
+- [this year](../events/this-year.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [2015](../events/2015.md) - 4 shared documents
 
 ## Timeline

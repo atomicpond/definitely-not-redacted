@@ -31,8 +31,6 @@ Top 10 documents by mention frequency:
 
 - [Middle East](../people/middle-east.md) - 12 shared documents
 - [White House](../people/white-house.md) - 12 shared documents
-- [Barack Obama](../people/barack-obama.md) - 11 shared documents
-- [President Obama](../people/president-obama.md) - 11 shared documents
 - [Cold War](../people/cold-war.md) - 7 shared documents
 - [John Kerry](../people/john-kerry.md) - 7 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 7 shared documents
@@ -55,8 +53,8 @@ Top 10 documents by mention frequency:
 - [the United States](the-united-states.md) - 13 shared documents
 - [United States](united-states.md) - 13 shared documents
 - [Washington](washington.md) - 13 shared documents
-- [Germany](germany.md) - 13 shared documents
 - [Asia](asia.md) - 13 shared documents
+- [Germany](germany.md) - 13 shared documents
 - [Paris](paris.md) - 12 shared documents
 - [Japan](japan.md) - 12 shared documents
 - [Russia](russia.md) - 11 shared documents
@@ -65,16 +63,16 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
-- [today](../events/today.md) - 12 shared documents
 - [2008](../events/2008.md) - 12 shared documents
+- [today](../events/today.md) - 12 shared documents
 - [2009](../events/2009.md) - 11 shared documents
-- [annual](../events/annual.md) - 11 shared documents
-- [this year](../events/this-year.md) - 11 shared documents
 - [2013](../events/2013.md) - 11 shared documents
+- [annual](../events/annual.md) - 11 shared documents
 - [the day](../events/the-day.md) - 11 shared documents
-- [years](../events/years.md) - 10 shared documents
+- [this year](../events/this-year.md) - 11 shared documents
 - [2011](../events/2011.md) - 10 shared documents
-- [2003](../events/2003.md) - 9 shared documents
+- [years](../events/years.md) - 10 shared documents
+- [1979](../events/1979.md) - 9 shared documents
 
 ## Timeline
 

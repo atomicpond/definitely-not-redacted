@@ -41,33 +41,32 @@ Top 9 documents by mention frequency:
 - [Treasury](treasury.md) - 5 shared documents
 - [Bank](bank.md) - 5 shared documents
 - [Central Bank](central-bank.md) - 5 shared documents
-- [Bank of America](bank-of-america.md) - 4 shared documents
 
 **Locations:**
 
 - [Japan](../locations/japan.md) - 6 shared documents
-- [China](../locations/china.md) - 5 shared documents
+- [Argentina](../locations/argentina.md) - 5 shared documents
+- [Asia](../locations/asia.md) - 5 shared documents
+- [Australia](../locations/australia.md) - 5 shared documents
 - [Brazil](../locations/brazil.md) - 5 shared documents
 - [Canada](../locations/canada.md) - 5 shared documents
-- [Mexico](../locations/mexico.md) - 5 shared documents
-- [Asia](../locations/asia.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
-- [Australia](../locations/australia.md) - 5 shared documents
+- [China](../locations/china.md) - 5 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 5 shared documents
-- [Singapore](../locations/singapore.md) - 5 shared documents
+- [Mexico](../locations/mexico.md) - 5 shared documents
+- [non-US](../locations/non-us.md) - 5 shared documents
 
 **Events:**
 
-- [2016](../events/2016.md) - 6 shared documents
 - [2001](../events/2001.md) - 6 shared documents
-- [2015](../events/2015.md) - 5 shared documents
-- [annual](../events/annual.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [2017](../events/2017.md) - 5 shared documents
+- [2016](../events/2016.md) - 6 shared documents
 - [10-year](../events/10-year.md) - 5 shared documents
 - [2010](../events/2010.md) - 5 shared documents
-- [2014](../events/2014.md) - 4 shared documents
-- [2000](../events/2000.md) - 4 shared documents
+- [2015](../events/2015.md) - 5 shared documents
+- [2017](../events/2017.md) - 5 shared documents
+- [annual](../events/annual.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
+- [1934](../events/1934.md) - 4 shared documents
+- [1981](../events/1981.md) - 4 shared documents
 
 ## Timeline
 

@@ -28,16 +28,16 @@ Top 9 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Middle East](../people/middle-east.md) - 6 shared documents
-- [President Obama](../people/president-obama.md) - 6 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 6 shared documents
 - [White House](../people/white-house.md) - 6 shared documents
-- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [San Francisco](../people/san-francisco.md) - 5 shared documents
 - [Security Council](../people/security-council.md) - 5 shared documents
 - [Aung San Suu](../people/aung-san-suu.md) - 4 shared documents
 - [Bay Area](../people/bay-area.md) - 4 shared documents
 - [Cold War](../people/cold-war.md) - 4 shared documents
+- [Federal Reserve](../people/federal-reserve.md) - 4 shared documents
 
 **Organizations:**
 
@@ -48,21 +48,21 @@ Top 9 documents by mention frequency:
 - [Treasury](treasury.md) - 7 shared documents
 - [Supreme Court](supreme-court.md) - 6 shared documents
 - [Wall Street Journal](wall-street-journal.md) - 6 shared documents
-- [Congress](congress.md) - 6 shared documents
 - [CIA](cia.md) - 6 shared documents
+- [Congress](congress.md) - 6 shared documents
 - [Facebook](facebook.md) - 5 shared documents
 
 **Locations:**
 
+- [Afghanistan](../locations/afghanistan.md) - 9 shared documents
 - [Iraq](../locations/iraq.md) - 9 shared documents
 - [the United States](../locations/the-united-states.md) - 9 shared documents
-- [Afghanistan](../locations/afghanistan.md) - 9 shared documents
-- [Japan](../locations/japan.md) - 8 shared documents
-- [Germany](../locations/germany.md) - 8 shared documents
 - [America](../locations/america.md) - 8 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
+- [Germany](../locations/germany.md) - 8 shared documents
+- [Japan](../locations/japan.md) - 8 shared documents
+- [India](../locations/india.md) - 6 shared documents
+- [Latin America](../locations/latin-america.md) - 6 shared documents
 - [Russia](../locations/russia.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 6 shared documents
 
 **Events:**
@@ -71,11 +71,11 @@ Top 9 documents by mention frequency:
 - [2011](../events/2011.md) - 8 shared documents
 - [2013](../events/2013.md) - 8 shared documents
 - [2008](../events/2008.md) - 7 shared documents
+- [1990](../events/1990.md) - 6 shared documents
+- [1991](../events/1991.md) - 6 shared documents
 - [2007](../events/2007.md) - 6 shared documents
 - [2014](../events/2014.md) - 6 shared documents
 - [the 1980s](../events/the-1980s.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
-- [1990](../events/1990.md) - 6 shared documents
 - [the years](../events/the-years.md) - 6 shared documents
 
 ## Timeline

@@ -29,17 +29,15 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Donald 
-Trump](donald-trump.md) - 7 shared documents
 - [White House](white-house.md) - 6 shared documents
-- [President Trump](president-trump.md) - 5 shared documents
-- [Robert Mueller](robert-mueller.md) - 5 shared documents
-- [James Comey](james-comey.md) - 5 shared documents
-- [Rod 
-Rosenstein](rod-rosenstein.md) - 5 shared documents
-- [Rosenstein](rosenstein.md) - 5 shared documents
 - [Attorney 
 General](attorney-general.md) - 5 shared documents
+- [Donald 
+Trump](donald-trump.md) - 5 shared documents
+- [James Comey](james-comey.md) - 5 shared documents
+- [Robert Mueller](robert-mueller.md) - 5 shared documents
+- [Rod 
+Rosenstein](rod-rosenstein.md) - 5 shared documents
 - [Michael Flynn](michael-flynn.md) - 4 shared documents
 
 **Organizations:**
@@ -47,13 +45,13 @@ General](attorney-general.md) - 5 shared documents
 - [Trump](../organizations/trump.md) - 8 shared documents
 - [White House](../organizations/white-house.md) - 7 shared documents
 - [Congress](../organizations/congress.md) - 6 shared documents
-- [the White House](../organizations/the-white-house.md) - 6 shared documents
 - [FBI](../organizations/fbi.md) - 6 shared documents
+- [the White House](../organizations/the-white-house.md) - 6 shared documents
 - [DOJ](../organizations/doj.md) - 5 shared documents
 - [Justice](../organizations/justice.md) - 5 shared documents
 - [the Justice Department](../organizations/the-justice-department.md) - 5 shared documents
 - [the Supreme Court](../organizations/the-supreme-court.md) - 5 shared documents
-- [HOUSE](../organizations/house.md) - 4 shared documents
+- [Comey](../organizations/comey.md) - 4 shared documents
 
 **Locations:**
 

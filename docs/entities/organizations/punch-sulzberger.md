@@ -41,38 +41,38 @@ Top 7 documents by mention frequency:
 
 - [Vanity Fair](vanity-fair.md) - 7 shared documents
 - [White House](white-house.md) - 7 shared documents
-- [ISIS](isis.md) - 7 shared documents
-- [Harvard](harvard.md) - 7 shared documents
-- [Google](google.md) - 7 shared documents
-- [Cooper Union](cooper-union.md) - 7 shared documents
 - [Carnegie](carnegie.md) - 7 shared documents
-- [New York Magazine](new-york-magazine.md) - 6 shared documents
+- [Cooper Union](cooper-union.md) - 7 shared documents
+- [Google](google.md) - 7 shared documents
+- [Harvard](harvard.md) - 7 shared documents
+- [ISIS](isis.md) - 7 shared documents
 - [Melinda Gates Foundation](melinda-gates-foundation.md) - 6 shared documents
-- [NYU](nyu.md) - 5 shared documents
+- [New York Magazine](new-york-magazine.md) - 6 shared documents
+- [Bear Stearns](bear-stearns.md) - 5 shared documents
 
 **Locations:**
 
-- [Qatar](../locations/qatar.md) - 7 shared documents
-- [Manhattan](../locations/manhattan.md) - 7 shared documents
-- [Paris](../locations/paris.md) - 7 shared documents
-- [New Mexico](../locations/new-mexico.md) - 7 shared documents
 - [Coney Island](../locations/coney-island.md) - 7 shared documents
 - [Dalton](../locations/dalton.md) - 7 shared documents
 - [Kairat Kelimbetov](../locations/kairat-kelimbetov.md) - 7 shared documents
+- [Manhattan](../locations/manhattan.md) - 7 shared documents
+- [New Mexico](../locations/new-mexico.md) - 7 shared documents
+- [Paris](../locations/paris.md) - 7 shared documents
+- [Qatar](../locations/qatar.md) - 7 shared documents
 - [Europe](../locations/europe.md) - 6 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 6 shared documents
 - [Caribbean](../locations/caribbean.md) - 5 shared documents
 
 **Events:**
 
-- [Sunday](../events/sunday.md) - 7 shared documents
-- [2002](../events/2002.md) - 7 shared documents
-- [two years](../events/two-years.md) - 7 shared documents
 - [1953](../events/1953.md) - 7 shared documents
 - [1982](../events/1982.md) - 7 shared documents
 - [1994](../events/1994.md) - 7 shared documents
-- [several years](../events/several-years.md) - 7 shared documents
+- [2002](../events/2002.md) - 7 shared documents
 - [20s and 30s](../events/20s-and-30s.md) - 7 shared documents
+- [several years](../events/several-years.md) - 7 shared documents
+- [Sunday](../events/sunday.md) - 7 shared documents
+- [two years](../events/two-years.md) - 7 shared documents
 - [four years ago](../events/four-years-ago.md) - 6 shared documents
 - [2004](../events/2004.md) - 5 shared documents
 

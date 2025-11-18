@@ -25,8 +25,9 @@ Top 6 documents by mention frequency:
 
 **People:**
 
+- [Bill 
+Clinton](../people/bill-clinton.md) - 6 shared documents
 - [Boris Nikolic](../people/boris-nikolic.md) - 6 shared documents
-- [CLINTON](../people/clinton.md) - 6 shared documents
 - [Iga](../people/iga.md) - 6 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 6 shared documents
 - [Julie Taymor](../people/julie-taymor.md) - 6 shared documents

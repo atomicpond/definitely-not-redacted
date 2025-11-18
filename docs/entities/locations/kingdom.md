@@ -51,22 +51,22 @@ Top 10 documents by mention frequency:
 - [the Kingdom of Saudi Arabia](the-kingdom-of-saudi-arabia.md) - 7 shared documents
 - [the United States](the-united-states.md) - 7 shared documents
 - [China](china.md) - 7 shared documents
-- [Israel](israel.md) - 7 shared documents
 - [Egypt](egypt.md) - 7 shared documents
+- [Israel](israel.md) - 7 shared documents
 - [Russia](russia.md) - 6 shared documents
 
 **Events:**
 
-- [2004](../events/2004.md) - 7 shared documents
-- [2000](../events/2000.md) - 7 shared documents
+- [1991](../events/1991.md) - 7 shared documents
+- [1992](../events/1992.md) - 7 shared documents
 - [1998](../events/1998.md) - 7 shared documents
 - [1999](../events/1999.md) - 7 shared documents
+- [2000](../events/2000.md) - 7 shared documents
 - [2002](../events/2002.md) - 7 shared documents
-- [1992](../events/1992.md) - 7 shared documents
-- [1991](../events/1991.md) - 7 shared documents
-- [2003](../events/2003.md) - 6 shared documents
-- [annual](../events/annual.md) - 6 shared documents
-- [1996](../events/1996.md) - 6 shared documents
+- [2004](../events/2004.md) - 7 shared documents
+- [1980](../events/1980.md) - 6 shared documents
+- [1985](../events/1985.md) - 6 shared documents
+- [1989](../events/1989.md) - 6 shared documents
 
 ## Timeline
 

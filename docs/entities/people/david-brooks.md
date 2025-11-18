@@ -47,15 +47,15 @@ Powell](elisa-new-powell.md) - 6 shared documents
 **Organizations:**
 
 - [WGBH](../organizations/wgbh.md) - 9 shared documents
-- [Harvard University](../organizations/harvard-university.md) - 7 shared documents
 - [Harvard](../organizations/harvard.md) - 7 shared documents
+- [Harvard University](../organizations/harvard-university.md) - 7 shared documents
 - [American Literature](../organizations/american-literature.md) - 6 shared documents
 - [Cabot Professor of American Literature 
 Harvard University](../organizations/cabot-professor-of-american-literature-harvard-university.md) - 6 shared documents
 - [Herbie Hancock](../organizations/herbie-hancock.md) - 6 shared documents
 - [HOUSE](../organizations/house.md) - 5 shared documents
-- [State](../organizations/state.md) - 4 shared documents
 - [Arts](../organizations/arts.md) - 4 shared documents
+- [Harvard Law School](../organizations/harvard-law-school.md) - 4 shared documents
 - [SEC](../organizations/sec.md) - 4 shared documents
 
 **Locations:**
@@ -65,8 +65,8 @@ Harvard University](../organizations/cabot-professor-of-american-literature-harv
 - [12 Quincy Street](../locations/12-quincy-street.md) - 6 shared documents
 - [Street 
 Cambridge, MA](../locations/street-cambridge-ma.md) - 6 shared documents
-- [China](../locations/china.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
+- [China](../locations/china.md) - 4 shared documents
 - [NYC](../locations/nyc.md) - 4 shared documents
 
 **Events:**
@@ -74,10 +74,10 @@ Cambridge, MA](../locations/street-cambridge-ma.md) - 6 shared documents
 - [1976](../events/1976.md) - 7 shared documents
 - [Tue, Sep 23, 2014](../events/tue-sep-23-2014.md) - 5 shared documents
 - [last year](../events/last-year.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
+- [the season](../events/the-season.md) - 4 shared documents
 - [the year](../events/the-year.md) - 4 shared documents
 - [the years](../events/the-years.md) - 4 shared documents
-- [the season](../events/the-season.md) - 4 shared documents
+- [this year](../events/this-year.md) - 4 shared documents
 
 ## Timeline
 

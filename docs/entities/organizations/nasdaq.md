@@ -55,12 +55,12 @@ Top 10 documents by mention frequency:
 
 - [Mexico](../locations/mexico.md) - 9 shared documents
 - [China](../locations/china.md) - 8 shared documents
-- [Israel](../locations/israel.md) - 7 shared documents
-- [Australia](../locations/australia.md) - 7 shared documents
 - [Argentina](../locations/argentina.md) - 7 shared documents
+- [Australia](../locations/australia.md) - 7 shared documents
+- [Israel](../locations/israel.md) - 7 shared documents
 - [South Africa](../locations/south-africa.md) - 7 shared documents
 - [the United Kingdom](../locations/the-united-kingdom.md) - 7 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
+- [Asia](../locations/asia.md) - 6 shared documents
 - [Brazil](../locations/brazil.md) - 6 shared documents
 - [Canada](../locations/canada.md) - 6 shared documents
 
@@ -71,11 +71,11 @@ Top 10 documents by mention frequency:
 - [2015](../events/2015.md) - 6 shared documents
 - [daily](../events/daily.md) - 5 shared documents
 - [Friday](../events/friday.md) - 5 shared documents
-- [2018](../events/2018.md) - 4 shared documents
-- [2017](../events/2017.md) - 4 shared documents
-- [monthly](../events/monthly.md) - 4 shared documents
+- [12-month](../events/12-month.md) - 4 shared documents
+- [1995](../events/1995.md) - 4 shared documents
 - [1999](../events/1999.md) - 4 shared documents
 - [2001](../events/2001.md) - 4 shared documents
+- [2017](../events/2017.md) - 4 shared documents
 
 ## Timeline
 

@@ -36,39 +36,41 @@ Top 7 documents by mention frequency:
 **Organizations:**
 
 - [Pierce, Fenner & Smith Incorporated](pierce-fenner-smith-incorporated.md) - 5 shared documents
-- [Merrill Lynch](merrill-lynch.md) - 5 shared documents
-- [Bank of America Merrill Lynch](bank-of-america-merrill-lynch.md) - 5 shared documents
-- [BofA Merrill Lynch Global Research](bofa-merrill-lynch-global-research.md) - 5 shared documents
 - [Bank of America](bank-of-america.md) - 5 shared documents
 - [Bank of America
 Corporation](bank-of-america-corporation.md) - 5 shared documents
+- [Bank of America Merrill Lynch](bank-of-america-merrill-lynch.md) - 5 shared documents
 - [BofA Merrill Lynch](bofa-merrill-lynch.md) - 5 shared documents
+- [BofA Merrill Lynch Global Research](bofa-merrill-lynch-global-research.md) - 5 shared documents
 - [BoJ](boj.md) - 5 shared documents
 - [CFA](cfa.md) - 5 shared documents
 - [JPY](jpy.md) - 5 shared documents
+- [Merrill Lynch](merrill-lynch.md) - 5 shared documents
 
 **Locations:**
 
 - [Europe](../locations/europe.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
 - [Italy](../locations/italy.md) - 5 shared documents
-- [Dubai](../locations/dubai.md) - 4 shared documents
-- [China](../locations/china.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
-- [USD](../locations/usd.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
+- [Argentina](../locations/argentina.md) - 4 shared documents
+- [Asia](../locations/asia.md) - 4 shared documents
+- [Australia](../locations/australia.md) - 4 shared documents
+- [BaFin](../locations/bafin.md) - 4 shared documents
 - [Brazil](../locations/brazil.md) - 4 shared documents
 - [Canada](../locations/canada.md) - 4 shared documents
-- [Mexico](../locations/mexico.md) - 4 shared documents
+- [China](../locations/china.md) - 4 shared documents
 
 **Events:**
 
-- [2015](../events/2015.md) - 4 shared documents
+- [12-month](../events/12-month.md) - 4 shared documents
+- [1959](../events/1959.md) - 4 shared documents
+- [198602883D](../events/198602883d.md) - 4 shared documents
 - [2000](../events/2000.md) - 4 shared documents
+- [2015](../events/2015.md) - 4 shared documents
 - [2017](../events/2017.md) - 4 shared documents
-- [monthly](../events/monthly.md) - 4 shared documents
 - [last week](../events/last-week.md) - 4 shared documents
 - [May](../events/may.md) - 4 shared documents
-- [1959](../events/1959.md) - 4 shared documents
+- [monthly](../events/monthly.md) - 4 shared documents
 - [the day](../events/the-day.md) - 4 shared documents
 
 ## Timeline

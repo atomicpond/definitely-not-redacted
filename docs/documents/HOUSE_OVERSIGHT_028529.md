@@ -9,7 +9,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Obama](../entities/people/mr-obama.md) - 3 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 3 mentions
 - [Pope Francis](../entities/people/pope-francis.md) - 2 mentions
 - [Gates](../entities/people/gates.md) - 2 mentions
 - [Vladimir Putin](../entities/people/vladimir-putin.md) - 2 mentions

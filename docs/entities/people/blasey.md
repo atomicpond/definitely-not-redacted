@@ -29,11 +29,10 @@ Top 7 documents by mention frequency:
 - [Mr. Kavanaugh](kavanaugh.md) - 7 shared documents
 - [Supreme Court](supreme-court.md) - 7 shared documents
 - [Christine Blasey Ford](christine-blasey-ford.md) - 6 shared documents
+- [Donald 
+Trump](donald-trump.md) - 6 shared documents
 - [New 
 York Times](new-york-times.md) - 6 shared documents
-- [President Trump](president-trump.md) - 6 shared documents
-- [Mr. 
-Trump](trump.md) - 6 shared documents
 - [Brett Kavanaugh](brett-kavanaugh.md) - 5 shared documents
 - [Judge Brett Kavanaugh](judge-brett-kavanaugh.md) - 5 shared documents
 - [Judge Kavanaugh](judge-kavanaugh.md) - 5 shared documents
@@ -42,8 +41,8 @@ Trump](trump.md) - 6 shared documents
 **Organizations:**
 
 - [Supreme Court](../organizations/supreme-court.md) - 7 shared documents
-- [the New York Times](../organizations/the-new-york-times.md) - 6 shared documents
 - [New York Times](../organizations/new-york-times.md) - 6 shared documents
+- [the New York Times](../organizations/the-new-york-times.md) - 6 shared documents
 - [The Senate Judiciary Committee](../organizations/the-senate-judiciary-committee.md) - 5 shared documents
 - [Senate](../organizations/senate.md) - 4 shared documents
 - [The New Yorker](../organizations/the-new-yorker.md) - 4 shared documents
@@ -54,13 +53,13 @@ Trump](trump.md) - 6 shared documents
 
 **Events:**
 
-- [Thursday](../events/thursday.md) - 6 shared documents
 - [Sept](../events/sept.md) - 6 shared documents
+- [Thursday](../events/thursday.md) - 6 shared documents
+- [24, 2018](../events/24-2018.md) - 5 shared documents
 - [Monday](../events/monday.md) - 5 shared documents
 - [Sunday](../events/sunday.md) - 5 shared documents
-- [24, 2018](../events/24-2018.md) - 5 shared documents
-- [this week](../events/this-week.md) - 4 shared documents
 - [November](../events/november.md) - 4 shared documents
+- [this week](../events/this-week.md) - 4 shared documents
 
 ## Timeline
 

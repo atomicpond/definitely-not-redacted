@@ -52,11 +52,11 @@ Top 9 documents by mention frequency:
 - [annual](annual.md) - 5 shared documents
 - [the day](the-day.md) - 5 shared documents
 - [today](today.md) - 5 shared documents
+- [1999](1999.md) - 5 shared documents
 - [2003](2003.md) - 5 shared documents
 - [2004](2004.md) - 5 shared documents
+- [2006](2006.md) - 5 shared documents
 - [2009](2009.md) - 5 shared documents
-- [2015](2015.md) - 5 shared documents
-- [2016](2016.md) - 5 shared documents
 
 ## Timeline
 

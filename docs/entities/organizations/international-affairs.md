@@ -28,8 +28,8 @@ Top 9 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 5 shared documents
-- [Mr. Obama](../people/obama.md) - 5 shared documents
 
 **Organizations:**
 
@@ -40,14 +40,14 @@ Top 9 documents by mention frequency:
 **Locations:**
 
 - [China](../locations/china.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
 - [France](../locations/france.md) - 5 shared documents
+- [Germany](../locations/germany.md) - 5 shared documents
 - [India](../locations/india.md) - 5 shared documents
+- [Russia](../locations/russia.md) - 5 shared documents
 - [US](../locations/us.md) - 5 shared documents
-- [Tempe](../locations/tempe.md) - 4 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
+- [England](../locations/england.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
+- [Israel](../locations/israel.md) - 4 shared documents
 - [Japan](../locations/japan.md) - 4 shared documents
 
 **Events:**

@@ -32,7 +32,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 14 shared documents
 - [Middle East](../people/middle-east.md) - 13 shared documents
 - [Los Angeles](../people/los-angeles.md) - 12 shared documents
 - [White House](../people/white-house.md) - 12 shared documents
@@ -57,12 +56,12 @@ Top 10 documents by mention frequency:
 - [United States](united-states.md) - 21 shared documents
 - [France](france.md) - 21 shared documents
 - [California](california.md) - 20 shared documents
-- [Russia](russia.md) - 20 shared documents
 - [Germany](germany.md) - 20 shared documents
 - [Paris](paris.md) - 20 shared documents
+- [Russia](russia.md) - 20 shared documents
 - [Washington](washington.md) - 19 shared documents
 - [Europe](europe.md) - 19 shared documents
-- [London](london.md) - 18 shared documents
+- [America](america.md) - 18 shared documents
 
 **Events:**
 
@@ -70,12 +69,12 @@ Top 10 documents by mention frequency:
 - [today](../events/today.md) - 24 shared documents
 - [2007](../events/2007.md) - 19 shared documents
 - [2010](../events/2010.md) - 19 shared documents
+- [1989](../events/1989.md) - 18 shared documents
 - [2009](../events/2009.md) - 18 shared documents
 - [2012](../events/2012.md) - 18 shared documents
-- [1989](../events/1989.md) - 18 shared documents
 - [the day](../events/the-day.md) - 18 shared documents
-- [2016](../events/2016.md) - 17 shared documents
-- [2011](../events/2011.md) - 17 shared documents
+- [2001](../events/2001.md) - 17 shared documents
+- [2008](../events/2008.md) - 17 shared documents
 
 ## Timeline
 

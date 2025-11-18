@@ -41,8 +41,8 @@ Top 7 documents by mention frequency:
 
 - [Vanity Fair](vanity-fair.md) - 6 shared documents
 - [UTA](uta.md) - 5 shared documents
-- [Academy](academy.md) - 5 shared documents
 - [ABC-TV](abc-tv.md) - 5 shared documents
+- [Academy](academy.md) - 5 shared documents
 - [DGA](dga.md) - 5 shared documents
 - [PGA](pga.md) - 5 shared documents
 - [Fox](fox.md) - 4 shared documents
@@ -52,13 +52,13 @@ Top 7 documents by mention frequency:
 
 - [America](../locations/america.md) - 5 shared documents
 - [Beverly Hills](../locations/beverly-hills.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
-- [Manhattan](../locations/manhattan.md) - 4 shared documents
-- [Toronto](../locations/toronto.md) - 4 shared documents
-- [Paris](../locations/paris.md) - 4 shared documents
 - [Cannes](../locations/cannes.md) - 4 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
+- [Manhattan](../locations/manhattan.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
+- [Paris](../locations/paris.md) - 4 shared documents
+- [Toronto](../locations/toronto.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 

@@ -29,14 +29,10 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Epstein](../people/epstein.md) - 12 shared documents
 - [Jeffrey](../people/jeffrey.md) - 12 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 12 shared documents
-- [Krauss](../people/krauss.md) - 12 shared documents
 - [Lawrence Krauss](../people/lawrence-krauss.md) - 12 shared documents
-- [Lawrence M. Krauss](../people/lawrence-m-krauss.md) - 12 shared documents
 - [Rebecca Watson](../people/rebecca-watson.md) - 12 shared documents
-- [Lawrence](../people/lawrence.md) - 8 shared documents
 
 **Organizations:**
 
@@ -64,10 +60,10 @@ Sent](../organizations/arizona-state-university-sent.md) - 10 shared documents
 **Events:**
 
 - [85287-1404](85287-1404.md) - 12 shared documents
-- [today](today.md) - 12 shared documents
-- [April 6, 2011](april-6-2011.md) - 12 shared documents
 - [a few months ago](a-few-months-ago.md) - 12 shared documents
 - [Apr 6, 2011](apr-6-2011.md) - 12 shared documents
+- [April 6, 2011](april-6-2011.md) - 12 shared documents
+- [today](today.md) - 12 shared documents
 - [this weekend](this-weekend.md) - 10 shared documents
 - [Thu, Apr 7, 2011](thu-apr-7-2011.md) - 9 shared documents
 

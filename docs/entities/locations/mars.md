@@ -29,7 +29,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 
 **Organizations:**
 
@@ -49,8 +49,8 @@ Top 10 documents by mention frequency:
 - [Paris](paris.md) - 9 shared documents
 - [Europe](europe.md) - 8 shared documents
 - [London](london.md) - 8 shared documents
-- [China](china.md) - 7 shared documents
 - [America](america.md) - 7 shared documents
+- [China](china.md) - 7 shared documents
 - [New York](new-york.md) - 6 shared documents
 - [Oxford](oxford.md) - 6 shared documents
 - [Russia](russia.md) - 6 shared documents
@@ -60,15 +60,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [today](../events/today.md) - 7 shared documents
-- [2015](../events/2015.md) - 6 shared documents
-- [Thursday](../events/thursday.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
-- [the year](../events/the-year.md) - 6 shared documents
 - [1990](../events/1990.md) - 6 shared documents
+- [2015](../events/2015.md) - 6 shared documents
+- [decades](../events/decades.md) - 6 shared documents
 - [Friday](../events/friday.md) - 6 shared documents
+- [many years](../events/many-years.md) - 6 shared documents
 - [months](../events/months.md) - 6 shared documents
 - [one day](../events/one-day.md) - 6 shared documents
 - [Saturday](../events/saturday.md) - 6 shared documents
+- [ten years](../events/ten-years.md) - 6 shared documents
 
 ## Timeline
 

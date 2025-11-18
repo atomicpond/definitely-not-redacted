@@ -26,15 +26,15 @@ Top 6 documents by mention frequency:
 **Locations:**
 
 - [China](../locations/china.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 - [Florida](../locations/florida.md) - 4 shared documents
 - [the United States](../locations/the-united-states.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 
 - [2009](../events/2009.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
 - [2010](../events/2010.md) - 4 shared documents
+- [annual](../events/annual.md) - 4 shared documents
 
 ## Timeline
 

@@ -17,7 +17,7 @@
 - [Barack Obama](../entities/people/barack-obama.md) - 1 mention
 - [President Barack Obama](../entities/people/president-barack-obama.md) - 1 mention
 - [Treasury Department](../entities/people/treasury-department.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Dow Jones](../entities/people/dow-jones.md) - 1 mention
 
 ### Organizations

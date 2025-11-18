@@ -35,22 +35,22 @@ Top 6 documents by mention frequency:
 - [Florida](../locations/florida.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
 - [California](../locations/california.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
 - [Ohio](../locations/ohio.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 4 shared documents
 
 **Events:**
 
-- [2007](../events/2007.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [2011](../events/2011.md) - 5 shared documents
 - [2006](../events/2006.md) - 5 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
-- [2012](../events/2012.md) - 4 shared documents
-- [last year](../events/last-year.md) - 4 shared documents
-- [this week](../events/this-week.md) - 4 shared documents
+- [2007](../events/2007.md) - 5 shared documents
+- [2011](../events/2011.md) - 5 shared documents
+- [years](../events/years.md) - 5 shared documents
 - [2005](../events/2005.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
+- [2009](../events/2009.md) - 4 shared documents
+- [2010](../events/2010.md) - 4 shared documents
+- [2012](../events/2012.md) - 4 shared documents
+- [25](../events/25.md) - 4 shared documents
 
 ## Timeline
 

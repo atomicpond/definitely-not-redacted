@@ -33,26 +33,26 @@ Top 6 documents by mention frequency:
 - [China](../locations/china.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
 - [Japan](../locations/japan.md) - 5 shared documents
+- [Asia](../locations/asia.md) - 4 shared documents
+- [Australia](../locations/australia.md) - 4 shared documents
 - [Brazil](../locations/brazil.md) - 4 shared documents
 - [Canada](../locations/canada.md) - 4 shared documents
-- [Mexico](../locations/mexico.md) - 4 shared documents
-- [London](../locations/london.md) - 4 shared documents
-- [Asia](../locations/asia.md) - 4 shared documents
+- [Hong Kong](../locations/hong-kong.md) - 4 shared documents
 - [Israel](../locations/israel.md) - 4 shared documents
-- [Australia](../locations/australia.md) - 4 shared documents
+- [London](../locations/london.md) - 4 shared documents
 
 **Events:**
 
+- [2001](../events/2001.md) - 4 shared documents
 - [2014](../events/2014.md) - 4 shared documents
 - [2015](../events/2015.md) - 4 shared documents
 - [2016](../events/2016.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [next year](../events/next-year.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
 - [2017](../events/2017.md) - 4 shared documents
+- [annual](../events/annual.md) - 4 shared documents
+- [next year](../events/next-year.md) - 4 shared documents
 - [the year](../events/the-year.md) - 4 shared documents
-- [2001](../events/2001.md) - 4 shared documents
+- [this year](../events/this-year.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

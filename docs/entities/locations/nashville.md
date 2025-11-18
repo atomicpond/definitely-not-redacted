@@ -45,28 +45,28 @@ Top 8 documents by mention frequency:
 **Locations:**
 
 - [Texas](texas.md) - 6 shared documents
-- [California](california.md) - 5 shared documents
-- [Earth](earth.md) - 5 shared documents
 - [America](america.md) - 5 shared documents
 - [Boston](boston.md) - 5 shared documents
-- [Missouri](missouri.md) - 5 shared documents
+- [California](california.md) - 5 shared documents
+- [Earth](earth.md) - 5 shared documents
 - [Illinois](illinois.md) - 5 shared documents
+- [Missouri](missouri.md) - 5 shared documents
 - [New Jersey](new-jersey.md) - 4 shared documents
 - [New York](new-york.md) - 4 shared documents
 - [North Carolina](north-carolina.md) - 4 shared documents
 
 **Events:**
 
-- [1986](../events/1986.md) - 6 shared documents
-- [May](../events/may.md) - 6 shared documents
-- [1985](../events/1985.md) - 6 shared documents
-- [1988](../events/1988.md) - 6 shared documents
 - [1980](../events/1980.md) - 6 shared documents
 - [1983](../events/1983.md) - 6 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [1998](../events/1998.md) - 5 shared documents
-- [2001](../events/2001.md) - 5 shared documents
-- [November](../events/november.md) - 5 shared documents
+- [1985](../events/1985.md) - 6 shared documents
+- [1986](../events/1986.md) - 6 shared documents
+- [1988](../events/1988.md) - 6 shared documents
+- [May](../events/may.md) - 6 shared documents
+- [1964](../events/1964.md) - 5 shared documents
+- [1968](../events/1968.md) - 5 shared documents
+- [1976](../events/1976.md) - 5 shared documents
+- [1977](../events/1977.md) - 5 shared documents
 
 ## Timeline
 

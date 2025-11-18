@@ -56,13 +56,13 @@ Top 8 documents by mention frequency:
 
 - [three years](three-years.md) - 8 shared documents
 - [years](years.md) - 8 shared documents
-- [2003](2003.md) - 8 shared documents
-- [1998](1998.md) - 8 shared documents
-- [1999](1999.md) - 8 shared documents
-- [2002](2002.md) - 8 shared documents
 - [1956](1956.md) - 8 shared documents
 - [1981](1981.md) - 8 shared documents
 - [1992](1992.md) - 8 shared documents
+- [1998](1998.md) - 8 shared documents
+- [1999](1999.md) - 8 shared documents
+- [2002](2002.md) - 8 shared documents
+- [2003](2003.md) - 8 shared documents
 - [the years](the-years.md) - 7 shared documents
 
 ## Timeline

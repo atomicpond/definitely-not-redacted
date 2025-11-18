@@ -49,8 +49,8 @@ Ruemmler](kathy-ruemmler.md) - 7 shared documents
 
 **Events:**
 
-- [the other day](../events/the-other-day.md) - 7 shared documents
 - [2/15/2017](../events/2152017.md) - 7 shared documents
+- [the other day](../events/the-other-day.md) - 7 shared documents
 - [Wed, Feb 15, 2017](../events/wed-feb-15-2017.md) - 6 shared documents
 - [today](../events/today.md) - 5 shared documents
 

@@ -47,9 +47,9 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
+- [2002](2002.md) - 9 shared documents
 - [2004](2004.md) - 9 shared documents
 - [daily](daily.md) - 9 shared documents
-- [2002](2002.md) - 9 shared documents
 - [2005](2005.md) - 8 shared documents
 - [last week](last-week.md) - 7 shared documents
 - [one year](one-year.md) - 7 shared documents

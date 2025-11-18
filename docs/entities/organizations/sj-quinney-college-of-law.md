@@ -28,7 +28,7 @@ Top 8 documents by mention frequency:
 **People:**
 
 - [Paul G. Cassell](../people/paul-g-cassell.md) - 8 shared documents
-- [Bradley J. Edwards](../people/bradley-j-edwards.md) - 7 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 7 shared documents
 - [Jane Doe](../people/jane-doe.md) - 7 shared documents
 - [Salt Lake City](../people/salt-lake-city.md) - 7 shared documents
 - [Rights Act](../people/rights-act.md) - 6 shared documents
@@ -48,29 +48,29 @@ University](quinney-college-of-law-at-the-university.md) - 8 shared documents
 
 **Locations:**
 
-- [Salt Lake City](../locations/salt-lake-city.md) - 8 shared documents
 - [Fort Lauderdale](../locations/fort-lauderdale.md) - 8 shared documents
+- [Salt Lake City](../locations/salt-lake-city.md) - 8 shared documents
+- [Florida](../locations/florida.md) - 7 shared documents
 - [New York](../locations/new-york.md) - 7 shared documents
 - [United States](../locations/united-states.md) - 7 shared documents
-- [Florida](../locations/florida.md) - 7 shared documents
-- [West Palm Beach](../locations/west-palm-beach.md) - 7 shared documents
 - [Weissing](../locations/weissing.md) - 7 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 6 shared documents
-- [Virginia](../locations/virginia.md) - 6 shared documents
+- [West Palm Beach](../locations/west-palm-beach.md) - 7 shared documents
 - [Fla.](../locations/fla.md) - 6 shared documents
+- [Lake City, UT](../locations/lake-city-ut.md) - 6 shared documents
+- [the Southern District](../locations/the-southern-district.md) - 6 shared documents
 
 **Events:**
 
 - [2011](../events/2011.md) - 7 shared documents
+- [14](../events/14.md) - 6 shared documents
 - [1998](../events/1998.md) - 6 shared documents
 - [1999](../events/1999.md) - 6 shared documents
-- [14](../events/14.md) - 6 shared documents
 - [9](../events/9.md) - 6 shared documents
-- [2009](../events/2009.md) - 5 shared documents
-- [2014](../events/2014.md) - 5 shared documents
-- [2008](../events/2008.md) - 5 shared documents
+- [10](../events/10.md) - 5 shared documents
+- [16](../events/16.md) - 5 shared documents
+- [19](../events/19.md) - 5 shared documents
+- [2002](../events/2002.md) - 5 shared documents
 - [2006](../events/2006.md) - 5 shared documents
-- [4](../events/4.md) - 5 shared documents
 
 ## Timeline
 

@@ -30,7 +30,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Columbia University](../people/columbia-university.md) - 5 shared documents
 - [Middle East](../people/middle-east.md) - 5 shared documents
 - [White House](../people/white-house.md) - 5 shared documents
@@ -46,28 +46,28 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 10 shared documents
-- [United States](../locations/united-states.md) - 9 shared documents
 - [Europe](../locations/europe.md) - 9 shared documents
+- [United States](../locations/united-states.md) - 9 shared documents
 - [California](../locations/california.md) - 8 shared documents
-- [Germany](../locations/germany.md) - 8 shared documents
-- [Paris](../locations/paris.md) - 8 shared documents
 - [England](../locations/england.md) - 8 shared documents
+- [Germany](../locations/germany.md) - 8 shared documents
 - [India](../locations/india.md) - 8 shared documents
-- [China](../locations/china.md) - 7 shared documents
-- [Japan](../locations/japan.md) - 7 shared documents
+- [Paris](../locations/paris.md) - 8 shared documents
+- [America](../locations/america.md) - 7 shared documents
+- [Boston](../locations/boston.md) - 7 shared documents
 
 **Events:**
 
 - [years](../events/years.md) - 10 shared documents
 - [2003](../events/2003.md) - 9 shared documents
 - [2009](../events/2009.md) - 9 shared documents
-- [today](../events/today.md) - 9 shared documents
 - [decades](../events/decades.md) - 9 shared documents
-- [Sunday](../events/sunday.md) - 8 shared documents
+- [today](../events/today.md) - 9 shared documents
+- [1981](../events/1981.md) - 8 shared documents
 - [2010](../events/2010.md) - 8 shared documents
-- [the years](../events/the-years.md) - 8 shared documents
-- [recent years](../events/recent-years.md) - 8 shared documents
 - [many years](../events/many-years.md) - 8 shared documents
+- [recent years](../events/recent-years.md) - 8 shared documents
+- [Sunday](../events/sunday.md) - 8 shared documents
 
 ## Timeline
 

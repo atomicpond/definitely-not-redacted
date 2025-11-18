@@ -14,9 +14,9 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Obama](../entities/people/mr-obama.md) - 38 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 38 mentions
 - [Assad](../entities/people/assad.md) - 11 mentions
-- [Mr. Mubarak](../entities/people/mr-mubarak.md) - 6 mentions
+- [Mr. Mubarak](../entities/people/mubarak.md) - 6 mentions
 - [CLINTON](../entities/people/clinton.md) - 5 mentions
 - [Erdogan](../entities/people/erdogan.md) - 5 mentions
 - [Merkel](../entities/people/merkel.md) - 4 mentions

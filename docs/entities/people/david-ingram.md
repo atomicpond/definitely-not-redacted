@@ -26,9 +26,7 @@ Top 5 documents by mention frequency:
 
 - [Donald 
 Trump](donald-trump.md) - 5 shared documents
-- [Epstein](epstein.md) - 5 shared documents
 - [Ingram](ingram.md) - 5 shared documents
-- [jeff epstein](jeff-epstein.md) - 5 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 5 shared documents
 - [martin Weinberg](martin-weinberg.md) - 5 shared documents
 - [marty](marty.md) - 5 shared documents
@@ -46,9 +44,9 @@ Trump](donald-trump.md) - 5 shared documents
 
 **Events:**
 
+- [1994](../events/1994.md) - 5 shared documents
 - [2016](../events/2016.md) - 5 shared documents
 - [this week](../events/this-week.md) - 5 shared documents
-- [1994](../events/1994.md) - 5 shared documents
 
 ## Timeline
 

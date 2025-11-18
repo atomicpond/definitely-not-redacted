@@ -33,10 +33,9 @@ Top 10 documents by mention frequency:
 Clinton](../people/bill-clinton.md) - 8 shared documents
 - [Dean](../people/dean.md) - 8 shared documents
 - [Joe Biden](../people/joe-biden.md) - 8 shared documents
-- [larry](../people/larry.md) - 8 shared documents
+- [Lawrence Krauss](../people/lawrence-krauss.md) - 8 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 7 shared documents
 - [New Year](../people/new-year.md) - 7 shared documents
-- [Mr. Obama](../people/obama.md) - 7 shared documents
 - [On Wednesday](../people/on-wednesday.md) - 7 shared documents
 
 **Organizations:**

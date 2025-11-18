@@ -11,7 +11,7 @@
 ### People
 - [Bob Iger](../entities/people/bob-iger.md) - 4 mentions
 - [President Trump](../entities/people/president-trump.md) - 2 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 2 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 2 mentions
 - [Mr. 
 Trump](../entities/people/mr-trump.md) - 2 mentions
 - [Epstein Jeffrey](../entities/people/epstein-jeffrey.md) - 1 mention

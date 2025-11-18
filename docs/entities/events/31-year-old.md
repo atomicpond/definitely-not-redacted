@@ -55,9 +55,9 @@ Top 7 documents by mention frequency:
 - [2007](2007.md) - 6 shared documents
 - [last week](last-week.md) - 5 shared documents
 - [today](today.md) - 5 shared documents
+- [1989](1989.md) - 5 shared documents
 - [1993](1993.md) - 5 shared documents
 - [1999](1999.md) - 5 shared documents
-- [1989](1989.md) - 5 shared documents
 - [a few months](a-few-months.md) - 4 shared documents
 - [four years later](four-years-later.md) - 4 shared documents
 - [January](january.md) - 4 shared documents

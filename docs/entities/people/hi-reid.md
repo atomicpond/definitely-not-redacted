@@ -28,25 +28,24 @@ Top 6 documents by mention frequency:
 - [Reid](reid.md) - 6 shared documents
 - [Weingarten](weingarten.md) - 6 shared documents
 - [Parker](parker.md) - 5 shared documents
-- [President Trump](president-trump.md) - 5 shared documents
 - [Reid 
 Subject](reid-subject.md) - 5 shared documents
-- [Mr. 
-Trump](trump.md) - 5 shared documents
 - [Washington Post](washington-post.md) - 5 shared documents
 - [White House](white-house.md) - 5 shared documents
 - [Ashley](ashley.md) - 5 shared documents
 - [Ashley 
 Ashley Parker](ashley-ashley-parker.md) - 5 shared documents
+- [Ashley Parker](ashley-parker.md) - 5 shared documents
+- [Bob Costa](bob-costa.md) - 5 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 6 shared documents
-- [Trump](../organizations/trump.md) - 5 shared documents
-- [White House](../organizations/white-house.md) - 5 shared documents
-- [the White House](../organizations/the-white-house.md) - 5 shared documents
 - [the Washington Post](../organizations/the-washington-post.md) - 5 shared documents
+- [the White House](../organizations/the-white-house.md) - 5 shared documents
+- [Trump](../organizations/trump.md) - 5 shared documents
 - [WaPo](../organizations/wapo.md) - 5 shared documents
+- [White House](../organizations/white-house.md) - 5 shared documents
 
 **Events:**
 

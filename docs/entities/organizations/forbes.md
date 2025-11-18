@@ -63,23 +63,23 @@ Top 10 documents by mention frequency:
 - [America](../locations/america.md) - 14 shared documents
 - [Boston](../locations/boston.md) - 12 shared documents
 - [the Upper East Side](../locations/the-upper-east-side.md) - 12 shared documents
-- [New York](../locations/new-york.md) - 11 shared documents
-- [Washington](../locations/washington.md) - 11 shared documents
-- [Queens](../locations/queens.md) - 11 shared documents
+- [Britain](../locations/britain.md) - 11 shared documents
 - [Israel](../locations/israel.md) - 11 shared documents
+- [Lafayette](../locations/lafayette.md) - 11 shared documents
+- [Monterey](../locations/monterey.md) - 11 shared documents
 
 **Events:**
 
 - [two years](../events/two-years.md) - 18 shared documents
-- [2006](../events/2006.md) - 17 shared documents
 - [2002](../events/2002.md) - 17 shared documents
+- [2006](../events/2006.md) - 17 shared documents
 - [the 1980s](../events/the-1980s.md) - 16 shared documents
-- [2004](../events/2004.md) - 15 shared documents
 - [1980](../events/1980.md) - 15 shared documents
+- [2004](../events/2004.md) - 15 shared documents
 - [ten years](../events/ten-years.md) - 15 shared documents
+- [1994](../events/1994.md) - 14 shared documents
 - [last year](../events/last-year.md) - 14 shared documents
 - [Sunday](../events/sunday.md) - 14 shared documents
-- [tomorrow](../events/tomorrow.md) - 14 shared documents
 
 ## Timeline
 

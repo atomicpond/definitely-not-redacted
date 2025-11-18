@@ -32,7 +32,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 15 shared documents
 - [White House](../people/white-house.md) - 12 shared documents
 - [New Mexico](../people/new-mexico.md) - 10 shared documents
 - [El Brillo Way](../people/el-brillo-way.md) - 9 shared documents
@@ -42,6 +41,7 @@ Top 10 documents by mention frequency:
 - [Treasury Department](../people/treasury-department.md) - 8 shared documents
 - [Vanity Fair](../people/vanity-fair.md) - 8 shared documents
 - [Alfredo Rodriguez](../people/alfredo-rodriguez.md) - 7 shared documents
+- [Central Park](../people/central-park.md) - 7 shared documents
 
 **Organizations:**
 
@@ -63,23 +63,23 @@ Top 10 documents by mention frequency:
 - [California](../locations/california.md) - 19 shared documents
 - [China](../locations/china.md) - 19 shared documents
 - [London](../locations/london.md) - 18 shared documents
-- [New York](../locations/new-york.md) - 17 shared documents
-- [Washington](../locations/washington.md) - 17 shared documents
+- [Australia](../locations/australia.md) - 17 shared documents
 - [Florida](../locations/florida.md) - 17 shared documents
 - [France](../locations/france.md) - 17 shared documents
-- [Australia](../locations/australia.md) - 17 shared documents
+- [New York](../locations/new-york.md) - 17 shared documents
+- [Washington](../locations/washington.md) - 17 shared documents
 
 **Events:**
 
-- [annual](../events/annual.md) - 25 shared documents
 - [2012](../events/2012.md) - 25 shared documents
+- [annual](../events/annual.md) - 25 shared documents
 - [2014](../events/2014.md) - 22 shared documents
 - [2017](../events/2017.md) - 21 shared documents
 - [years](../events/years.md) - 21 shared documents
-- [2015](../events/2015.md) - 20 shared documents
-- [today](../events/today.md) - 20 shared documents
 - [2010](../events/2010.md) - 20 shared documents
 - [2013](../events/2013.md) - 20 shared documents
+- [2015](../events/2015.md) - 20 shared documents
+- [today](../events/today.md) - 20 shared documents
 - [2009](../events/2009.md) - 19 shared documents
 
 ## Timeline

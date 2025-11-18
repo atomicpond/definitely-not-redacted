@@ -36,20 +36,19 @@ Top 10 documents by mention frequency:
 - [Michael Wolff](michael-wolff.md) - 11 shared documents
 - [Nigel Farage](nigel-farage.md) - 11 shared documents
 - [White House](white-house.md) - 11 shared documents
-- [jeffrey E.](jeffrey-e.md) - 11 shared documents
 - [Cambridge Analytica](cambridge-analytica.md) - 11 shared documents
 - [Daily Beast](daily-beast.md) - 11 shared documents
+- [European Parliament](european-parliament.md) - 11 shared documents
 - [Yes 
 Sent](yes-sent.md) - 4 shared documents
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 11 shared documents
-- [Trump](../organizations/trump.md) - 11 shared documents
-- [Facebook](../organizations/facebook.md) - 11 shared documents
 - [Benjamin Harnwell 
 Founder and President of the Board of Trustees 
 Dignitatis Humanae Institute](../organizations/benjamin-harnwell-founder-and-president-of-the-board-of-trustees-dignitatis-humanae-institute.md) - 11 shared documents
+- [Facebook](../organizations/facebook.md) - 11 shared documents
+- [HOUSE](../organizations/house.md) - 11 shared documents
 - [Lega](../organizations/lega.md) - 11 shared documents
 - [Movement](../organizations/movement.md) - 11 shared documents
 - [Movimento](../organizations/movimento.md) - 11 shared documents
@@ -57,29 +56,30 @@ Dignitatis Humanae Institute](../organizations/benjamin-harnwell-founder-and-pre
 - [Sacratissimo Corde Iesu](../organizations/sacratissimo-corde-iesu.md) - 11 shared documents
 - [the Board of Trustees 
 ](../organizations/the-board-of-trustees.md) - 11 shared documents
+- [the Democratic party](../organizations/the-democratic-party.md) - 11 shared documents
 
 **Locations:**
 
-- [USA](../locations/usa.md) - 11 shared documents
-- [Europe](../locations/europe.md) - 11 shared documents
-- [London](../locations/london.md) - 11 shared documents
 - [Brussels](../locations/brussels.md) - 11 shared documents
 - [Cambridge](../locations/cambridge.md) - 11 shared documents
 - [Charlottesville](../locations/charlottesville.md) - 11 shared documents
 - [East](../locations/east.md) - 11 shared documents
+- [Europe](../locations/europe.md) - 11 shared documents
 - [Italy](../locations/italy.md) - 11 shared documents
+- [London](../locations/london.md) - 11 shared documents
 - [Lost Paradise](../locations/lost-paradise.md) - 11 shared documents
 - [Paradise](../locations/paradise.md) - 11 shared documents
+- [Pennsylvania](../locations/pennsylvania.md) - 11 shared documents
 
 **Events:**
 
+- [1984](../events/1984.md) - 11 shared documents
 - [2014](../events/2014.md) - 11 shared documents
 - [2016](../events/2016.md) - 11 shared documents
-- [Friday](../events/friday.md) - 11 shared documents
-- [1984](../events/1984.md) - 11 shared documents
 - [2018-07-22](../events/2018-07-22.md) - 11 shared documents
 - [2019](../events/2019.md) - 11 shared documents
 - [65](../events/65.md) - 11 shared documents
+- [Friday](../events/friday.md) - 11 shared documents
 - [July 22, 2018](../events/july-22-2018.md) - 11 shared documents
 - [last summer](../events/last-summer.md) - 11 shared documents
 - [next May](../events/next-may.md) - 11 shared documents

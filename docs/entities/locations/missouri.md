@@ -33,7 +33,6 @@ Top 10 documents by mention frequency:
 - [Los Angeles](../people/los-angeles.md) - 9 shared documents
 - [New Jersey](../people/new-jersey.md) - 9 shared documents
 - [San Francisco](../people/san-francisco.md) - 8 shared documents
-- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 
 **Organizations:**
 
@@ -55,24 +54,24 @@ Top 10 documents by mention frequency:
 - [Texas](texas.md) - 13 shared documents
 - [United States](united-states.md) - 13 shared documents
 - [Michigan](michigan.md) - 13 shared documents
-- [Los Angeles](los-angeles.md) - 12 shared documents
 - [Illinois](illinois.md) - 12 shared documents
+- [Los Angeles](los-angeles.md) - 12 shared documents
 - [America](america.md) - 11 shared documents
 - [Florida](florida.md) - 11 shared documents
 - [Louisiana](louisiana.md) - 11 shared documents
 
 **Events:**
 
-- [1996](../events/1996.md) - 13 shared documents
-- [2012](../events/2012.md) - 13 shared documents
 - [1985](../events/1985.md) - 13 shared documents
+- [1996](../events/1996.md) - 13 shared documents
 - [1998](../events/1998.md) - 13 shared documents
-- [2000](../events/2000.md) - 12 shared documents
-- [years](../events/years.md) - 12 shared documents
-- [2001](../events/2001.md) - 12 shared documents
-- [2010](../events/2010.md) - 12 shared documents
-- [2006](../events/2006.md) - 12 shared documents
+- [2012](../events/2012.md) - 13 shared documents
 - [1976](../events/1976.md) - 12 shared documents
+- [2000](../events/2000.md) - 12 shared documents
+- [2001](../events/2001.md) - 12 shared documents
+- [2006](../events/2006.md) - 12 shared documents
+- [2010](../events/2010.md) - 12 shared documents
+- [years](../events/years.md) - 12 shared documents
 
 ## Timeline
 

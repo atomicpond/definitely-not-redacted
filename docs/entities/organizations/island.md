@@ -26,8 +26,8 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
-- [Island](../locations/island.md) - 4 shared documents
 - [Boston](../locations/boston.md) - 4 shared documents
+- [Island](../locations/island.md) - 4 shared documents
 
 **Events:**
 

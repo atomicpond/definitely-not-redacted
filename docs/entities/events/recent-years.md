@@ -31,7 +31,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 27 shared documents
 - [Middle East](../people/middle-east.md) - 26 shared documents
 
 **Organizations:**
@@ -59,13 +58,13 @@ Top 10 documents by mention frequency:
 - [today](today.md) - 57 shared documents
 - [2012](2012.md) - 42 shared documents
 - [2000](2000.md) - 41 shared documents
-- [2018](2018.md) - 35 shared documents
 - [2010](2010.md) - 35 shared documents
+- [2018](2018.md) - 35 shared documents
 - [years](years.md) - 33 shared documents
+- [2001](2001.md) - 33 shared documents
 - [2003](2003.md) - 33 shared documents
 - [2009](2009.md) - 33 shared documents
-- [2001](2001.md) - 33 shared documents
-- [2008](2008.md) - 32 shared documents
+- [2006](2006.md) - 32 shared documents
 
 ## Timeline
 

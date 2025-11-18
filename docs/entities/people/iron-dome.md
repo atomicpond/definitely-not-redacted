@@ -36,22 +36,22 @@ States](united-states.md) - 5 shared documents
 
 **Locations:**
 
-- [Iran](../locations/iran.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
-- [Israel](../locations/israel.md) - 5 shared documents
-- [Turkey](../locations/turkey.md) - 5 shared documents
 - [Egypt](../locations/egypt.md) - 5 shared documents
+- [Iran](../locations/iran.md) - 5 shared documents
+- [Israel](../locations/israel.md) - 5 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Turkey](../locations/turkey.md) - 5 shared documents
 - [US](../locations/us.md) - 5 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
 - [Iraq](../locations/iraq.md) - 4 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 4 shared documents
+- [Syria](../locations/syria.md) - 4 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 5 shared documents
-- [years](../events/years.md) - 4 shared documents
 - [2008](../events/2008.md) - 4 shared documents
+- [years](../events/years.md) - 4 shared documents
 
 ## Timeline
 

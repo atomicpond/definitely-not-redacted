@@ -36,8 +36,8 @@ Top 5 documents by mention frequency:
 **Locations:**
 
 - [New York](../locations/new-york.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
 - [Southern District](../locations/southern-district.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 4 shared documents
 
 ## Timeline
 

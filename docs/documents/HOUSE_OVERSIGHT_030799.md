@@ -11,7 +11,7 @@
 ### People
 - [Reid](../entities/people/reid.md) - 5 mentions
 - [Weingarten](../entities/people/weingarten.md) - 5 mentions
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 1 mention
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 1 mention
 
 ### Organizations
 - [HOUSE](../entities/organizations/house.md) - 2 mentions

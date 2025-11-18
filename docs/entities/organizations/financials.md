@@ -50,27 +50,27 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [Japan](../locations/japan.md) - 10 shared documents
 - [Brazil](../locations/brazil.md) - 10 shared documents
+- [Japan](../locations/japan.md) - 10 shared documents
 - [Mexico](../locations/mexico.md) - 10 shared documents
 - [Spain](../locations/spain.md) - 10 shared documents
 - [China](../locations/china.md) - 9 shared documents
 - [Europe](../locations/europe.md) - 9 shared documents
-- [Russia](../locations/russia.md) - 8 shared documents
-- [Canada](../locations/canada.md) - 8 shared documents
-- [Germany](../locations/germany.md) - 8 shared documents
 - [Australia](../locations/australia.md) - 8 shared documents
+- [Canada](../locations/canada.md) - 8 shared documents
+- [EUR](../locations/eur.md) - 8 shared documents
+- [Germany](../locations/germany.md) - 8 shared documents
 
 **Events:**
 
 - [2018](../events/2018.md) - 10 shared documents
+- [10-year](../events/10-year.md) - 8 shared documents
 - [2004](../events/2004.md) - 8 shared documents
+- [2013](../events/2013.md) - 8 shared documents
 - [2015](../events/2015.md) - 8 shared documents
 - [this year](../events/this-year.md) - 8 shared documents
-- [10-year](../events/10-year.md) - 8 shared documents
-- [2013](../events/2013.md) - 8 shared documents
+- [5-year](../events/5-year.md) - 7 shared documents
 - [6-month](../events/6-month.md) - 7 shared documents
-- [today](../events/today.md) - 7 shared documents
 - [last year](../events/last-year.md) - 7 shared documents
 - [recent weeks](../events/recent-weeks.md) - 7 shared documents
 

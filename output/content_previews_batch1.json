@@ -1,0 +1,630 @@
+{
+  "previews": {
+    "group_0004": {
+      "canonical": "HOUSE_OVERSIGHT_023621",
+      "preview": "Email from Kelly Friendly • regarding Re: Larry Summers mentioning Happy New Year and On Sun.",
+      "char_count": 93,
+      "entities_mentioned": [
+        "Happy New Year",
+        "On Sun",
+        "Jeffrey Epstein",
+        "On Jan",
+        "Kelly Friendly \nSent"
+      ]
+    },
+    "group_0005": {
+      "canonical": "HOUSE_OVERSIGHT_030814",
+      "preview": "Document mentioning Like Don Quixote and Vaclav Smil.",
+      "char_count": 53,
+      "entities_mentioned": [
+        "Like Don Quixote",
+        "Vaclav Smil",
+        "Another Don Quixote",
+        "Foreign Policy",
+        "Energy Myths"
+      ]
+    },
+    "group_0006": {
+      "canonical": "HOUSE_OVERSIGHT_030522",
+      "preview": "Email from Jeffrey Epstein <jeevacation©gmail.com> regarding Re: Looking for someone who made the early bet that Middle East would implode... mentioning Middle East and Jeffrey Epstein.",
+      "char_count": 185,
+      "entities_mentioned": [
+        "Middle East",
+        "Jeffrey Epstein",
+        "Ghislaine Maxwell",
+        "Or New Orleans",
+        "New York"
+      ]
+    },
+    "group_0007": {
+      "canonical": "HOUSE_OVERSIGHT_028970",
+      "preview": "Email from Jeffrey E. [mailto:jeevacation@qmail.com] regarding Fwd: Reuters / lawsuit against Jeffrey Epstein mentioning Jack Goldberger \nSubject and Redacted \nSent.",
+      "char_count": 165,
+      "entities_mentioned": [
+        "Jack Goldberger \nSubject",
+        "Redacted \nSent",
+        "Is Mr",
+        "Jeff Epstein",
+        "Jeffrey Epstein \nHi"
+      ]
+    },
+    "group_0008": {
+      "canonical": "HOUSE_OVERSIGHT_027655",
+      "preview": "Document mentioning End Time and Start Time.",
+      "char_count": 44,
+      "entities_mentioned": [
+        "End Time",
+        "Start Time",
+        "Source Entry",
+        "Chat Room",
+        "Last Message"
+      ]
+    },
+    "group_0009": {
+      "canonical": "HOUSE_OVERSIGHT_030620",
+      "preview": "Email from Sharon Churcher ___________________ regarding Request for comment from The Mail on Sunday with noon ET Saturday deadline re Mr mentioning Redacted \nSent and Mr Epstein.",
+      "char_count": 179,
+      "entities_mentioned": [
+        "Redacted \nSent",
+        "Mr Epstein",
+        "Liz Hartley",
+        "Darren Indyk",
+        "Jeffrey Epstein"
+      ]
+    },
+    "group_0010": {
+      "canonical": "HOUSE_OVERSIGHT_030904",
+      "preview": "Email from Lawrence Krauss regarding Re: Statement in the Daily Beast? mentioning Lawrence Krauss \nSubject and On Apr.",
+      "char_count": 118,
+      "entities_mentioned": [
+        "Lawrence Krauss \nSubject",
+        "On Apr",
+        "On Thu",
+        "Daily Beast",
+        "Lawrence Krauss \nFoundation"
+      ]
+    },
+    "group_0011": {
+      "canonical": "HOUSE_OVERSIGHT_029684",
+      "preview": "Email from Jeffrey Epstein [jeeyacation@gmail.com] regarding Re: mentioning On Sun and Jeffrey Epstein.",
+      "char_count": 103,
+      "entities_mentioned": [
+        "On Sun",
+        "Jeffrey Epstein",
+        "On Jan",
+        "Mohamed Waheed \nSubject",
+        "On Sat"
+      ]
+    },
+    "group_0012": {
+      "canonical": "HOUSE_OVERSIGHT_023035",
+      "preview": "Email from Jeffrey Epstein <jeevacation@gmail.com> regarding Fwd: FW: Ghislaine Maxwell mentioning Forwarded Message \nFrom and Ghislaine Maxwell \nDear.",
+      "char_count": 151,
+      "entities_mentioned": [
+        "Forwarded Message \nFrom",
+        "Ghislaine Maxwell \nDear",
+        "Jaffe \nSubject",
+        "Brett Jaffe",
+        "Jeffrey Epstein"
+      ]
+    },
+    "group_0013": {
+      "canonical": "HOUSE_OVERSIGHT_022746",
+      "preview": "Document mentioning Jeffrey Epstein.",
+      "char_count": 36,
+      "entities_mentioned": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "group_0014": {
+      "canonical": "HOUSE_OVERSIGHT_028453",
+      "preview": "Document.",
+      "char_count": 9,
+      "entities_mentioned": []
+    },
+    "group_0015": {
+      "canonical": "HOUSE_OVERSIGHT_027097",
+      "preview": "Email from Jeffrey Epstein [jeevacation@gmail.com] regarding Re: B 727 thought mentioning On Thu and Middle East.",
+      "char_count": 113,
+      "entities_mentioned": [
+        "On Thu",
+        "Middle East",
+        "Jeffrey Epstein",
+        "On Jan",
+        "Super Boeing"
+      ]
+    },
+    "group_0016": {
+      "canonical": "HOUSE_OVERSIGHT_031388",
+      "preview": "Email from Lilly Sanchez I regarding Herald mentioning Brad Edwards and Play Video.",
+      "char_count": 83,
+      "entities_mentioned": [
+        "Brad Edwards",
+        "Play Video",
+        "Meta Viers",
+        "Ken Starr \nSubject",
+        "Jeffrey Epstein"
+      ]
+    },
+    "group_0017": {
+      "canonical": "HOUSE_OVERSIGHT_021403",
+      "preview": "Email from \"Wolfe, Alexandra\" regarding RE: mentioning Dear Mr and Original Message.",
+      "char_count": 84,
+      "entities_mentioned": [
+        "Dear Mr",
+        "Original Message",
+        "Jeffrey Epstein",
+        "Ghislaine Maxwell",
+        "The Jeffrey Epstein"
+      ]
+    },
+    "group_0018": {
+      "canonical": "HOUSE_OVERSIGHT_023107",
+      "preview": "Email thread regarding On the frontlines of the world's most stressful desk job mentioning Going Down and Global Entry.",
+      "char_count": 119,
+      "entities_mentioned": [
+        "Going Down",
+        "Global Entry"
+      ]
+    },
+    "group_0019": {
+      "canonical": "HOUSE_OVERSIGHT_027056",
+      "preview": "Email from Jeffrey Epstein [mailto:jeevacation@gmail.com] regarding FW: Tix for Jeffrey mentioning Boris Nikolic \nSubject and Boris Nikolic.",
+      "char_count": 140,
+      "entities_mentioned": [
+        "Boris Nikolic \nSubject",
+        "Boris Nikolic",
+        "Jeffrey Epstein",
+        "High \nForgot",
+        "Magdalena Schuster"
+      ]
+    },
+    "group_0020": {
+      "canonical": "HOUSE_OVERSIGHT_030478",
+      "preview": "Email from Jeffrey Epstein <jeevacation@gmail.com> regarding Re: Looking for someone who made the early bet that Middle East would implode... mentioning Middle East and Jeffrey Epstein.",
+      "char_count": 185,
+      "entities_mentioned": [
+        "Middle East",
+        "Jeffrey Epstein",
+        "Ghislaine Maxwell",
+        "Or New Orleans",
+        "New York"
+      ]
+    },
+    "group_0021": {
+      "canonical": "HOUSE_OVERSIGHT_030343",
+      "preview": "Email from David Pegg regarding Fwd: Media Enquiry - The Guardian - Re: Jeffrey Epstein mentioning Mr Epstein and Mr Weinberg.",
+      "char_count": 126,
+      "entities_mentioned": [
+        "Mr Epstein",
+        "Mr Weinberg",
+        "The Guard",
+        "High \nPrivileged",
+        "David Pegg \nThe"
+      ]
+    },
+    "group_0022": {
+      "canonical": "HOUSE_OVERSIGHT_031618",
+      "preview": "Email from jeffrey E. [jeeyacation@gmail.com] regarding Re: Trump mentioning High \nMe and On Monday.",
+      "char_count": 100,
+      "entities_mentioned": [
+        "High \nMe",
+        "On Monday",
+        "York Times",
+        "Landon \nSubject",
+        "Trump \nImportance"
+      ]
+    },
+    "group_0023": {
+      "canonical": "HOUSE_OVERSIGHT_021408",
+      "preview": "Email from Lawrence Krauss_______________________________ regarding Re: URGENT: BuzzFeed News inquiry re allegations of sexual harassment mentioning Lawrence Krauss \nSubject and Research Office.",
+      "char_count": 194,
+      "entities_mentioned": [
+        "Lawrence Krauss \nSubject",
+        "Research Office",
+        "Assistant \nOrigins Office",
+        "Professor \nSchool",
+        "Physics Department \nArizona"
+      ]
+    },
+    "group_0024": {
+      "canonical": "HOUSE_OVERSIGHT_033384",
+      "preview": "Email from Jeffrey Epstein [mailto:jeevacationagmail.com] regarding Re: mentioning Original Message and Jack Goldberger \nSubject.",
+      "char_count": 129,
+      "entities_mentioned": [
+        "Original Message",
+        "Jack Goldberger \nSubject",
+        "Jack Goldberger",
+        "Jeffrey Epstein",
+        "Donald Trump"
+      ]
+    },
+    "group_0025": {
+      "canonical": "HOUSE_OVERSIGHT_025028",
+      "preview": "Email from Jeffrey Epstein <jeevacationagmail.com> regarding Re: Fro- The Control Factor - Frontpage Magazine interview mentioning Jeffrey Epstein and Fri Feb.",
+      "char_count": 159,
+      "entities_mentioned": [
+        "Jeffrey Epstein",
+        "Fri Feb",
+        "The Control Factor",
+        "Bill Siegel",
+        "Bill Siegel \nSent"
+      ]
+    },
+    "group_0026": {
+      "canonical": "HOUSE_OVERSIGHT_031813",
+      "preview": "Email from Richard Kahn regarding Re: AVG° mentioning Paul Barrett \nAlpha and On Jul.",
+      "char_count": 85,
+      "entities_mentioned": [
+        "Paul Barrett \nAlpha",
+        "On Jul",
+        "Paul Barrett",
+        "Floor \nNew York",
+        "Associates Inc"
+      ]
+    },
+    "group_0027": {
+      "canonical": "HOUSE_OVERSIGHT_027374",
+      "preview": "Document mentioning Source Entr and End Time.",
+      "char_count": 45,
+      "entities_mentioned": [
+        "Source Entr",
+        "End Time",
+        "Start Time",
+        "Thanks \nSender",
+        "Tommy Robinson"
+      ]
+    },
+    "group_0028": {
+      "canonical": "HOUSE_OVERSIGHT_028648",
+      "preview": "Email correspondence mentioning Ray Takeyh \nFebruary and Jeffrey Epstein.",
+      "char_count": 73,
+      "entities_mentioned": [
+        "Ray Takeyh \nFebruary",
+        "Jeffrey Epstein",
+        "On Feb",
+        "Larry Summers",
+        "United States"
+      ]
+    },
+    "group_0029": {
+      "canonical": "HOUSE_OVERSIGHT_030512",
+      "preview": "Email from Kirsty Mackenzie regarding RE: Please forward mentioning Jack Goldberger \nSubject and Mr Epstein.",
+      "char_count": 108,
+      "entities_mentioned": [
+        "Jack Goldberger \nSubject",
+        "Mr Epstein",
+        "Jack Goldberger",
+        "Jeffrey Epstein",
+        "World Service"
+      ]
+    },
+    "group_0030": {
+      "canonical": "HOUSE_OVERSIGHT_030311",
+      "preview": "Email from Michael Reiter/PalmBeach regarding Epstein -- I apologize if you have received this but it keeps coming back to me  mentioning Jeffrey Epstein and Public Records.",
+      "char_count": 173,
+      "entities_mentioned": [
+        "Jeffrey Epstein",
+        "Public Records",
+        "Jessica Cadwell \nSubject",
+        "Martin Weinberg",
+        "Michael Reiter"
+      ]
+    },
+    "group_0031": {
+      "canonical": "HOUSE_OVERSIGHT_031986",
+      "preview": "Email from Jeffrey Epstein <jeevacation@gmail.com> regarding Re: You should see this movie/documentary mentioning Original Message and How \nBy.",
+      "char_count": 143,
+      "entities_mentioned": [
+        "Original Message",
+        "How \nBy",
+        "On Sun",
+        "Inside Job",
+        "Jeffrey Epstein"
+      ]
+    },
+    "group_0032": {
+      "canonical": "HOUSE_OVERSIGHT_028850",
+      "preview": "Email from Joi Ito regarding Re: NYTimes: Sanctions Revive Search for Secret Putin Fortune mentioning On Sun and Jeffrey Epstein.",
+      "char_count": 129,
+      "entities_mentioned": [
+        "On Sun",
+        "Jeffrey Epstein",
+        "Joi Ito \nSent",
+        "President Obama",
+        "Secret Putin Fortune"
+      ]
+    },
+    "group_0033": {
+      "canonical": "HOUSE_OVERSIGHT_022230",
+      "preview": "Email from Jeffrey Epstein <jeevacation@gmail.com> regarding Re: Results mentioning On Thu and Daily Beast.",
+      "char_count": 107,
+      "entities_mentioned": [
+        "On Thu",
+        "Daily Beast",
+        "High \nConshita",
+        "Jeffrey Epstein",
+        "Results \nImportance"
+      ]
+    },
+    "group_0034": {
+      "canonical": "HOUSE_OVERSIGHT_022262",
+      "preview": "Email from Vinit Sahni regarding Re: Oil options mentioning Original Message and Nay Gupta.",
+      "char_count": 91,
+      "entities_mentioned": [
+        "Original Message",
+        "Nay Gupta",
+        "Tazia Smith",
+        "On Thu",
+        "External Communication \nAgree"
+      ]
+    },
+    "group_0035": {
+      "canonical": "HOUSE_OVERSIGHT_033498",
+      "preview": "Email from Jeffrey Epstein [mailto:jeevacation@gmail.com] regarding Re: FW: Jane Doe mentioning Certified Paralegal \nFlorida and Jane Doe \nYes.",
+      "char_count": 143,
+      "entities_mentioned": [
+        "Certified Paralegal \nFlorida",
+        "Jane Doe \nYes",
+        "Jane Doe \nFrom",
+        "West Palm Beach",
+        "Jane Doe \nPrivileged"
+      ]
+    },
+    "group_0036": {
+      "canonical": "HOUSE_OVERSIGHT_025594",
+      "preview": "Email from J <jeevacation@gmail.com> regarding Re: $25K from ASU mentioning On Mar and On Thu.",
+      "char_count": 94,
+      "entities_mentioned": [
+        "On Mar",
+        "On Thu",
+        "On Feb",
+        "Joi Ito",
+        "On May"
+      ]
+    },
+    "group_0037": {
+      "canonical": "HOUSE_OVERSIGHT_029298",
+      "preview": "Letter involving Stuart Weitzman, Bill Clinton.",
+      "char_count": 47,
+      "entities_mentioned": [
+        "Stuart Weitzman",
+        "Bill Clinton",
+        "Dear Ms",
+        "Herbie \nHancock",
+        "Amazon Prime"
+      ]
+    },
+    "group_0038": {
+      "canonical": "HOUSE_OVERSIGHT_032496",
+      "preview": "Email from Darren Indyke regarding Re: update mentioning Darren Indyke \nSent and Floor \nNew York.",
+      "char_count": 97,
+      "entities_mentioned": [
+        "Darren Indyke \nSent",
+        "Floor \nNew York",
+        "Jeffrey Epstein",
+        "On Feb",
+        "New York"
+      ]
+    },
+    "group_0039": {
+      "canonical": "HOUSE_OVERSIGHT_029196",
+      "preview": "Email thread regarding October 19, Heidelberg mentioning Research Office and State Universit.",
+      "char_count": 93,
+      "entities_mentioned": [
+        "Research Office",
+        "State Universit",
+        "Physics Department \nArizona",
+        "On Aug",
+        "State University"
+      ]
+    },
+    "group_0040": {
+      "canonical": "HOUSE_OVERSIGHT_030511",
+      "preview": "Email from Jeffrey Epstein <jeevacation©grnail.corn> regarding feel fre to pass this to your presss people, mentioning Jeffrey Epstein and Jeffrey Epstein \nUnauthorized.",
+      "char_count": 169,
+      "entities_mentioned": [
+        "Jeffrey Epstein",
+        "Jeffrey Epstein \nUnauthorized",
+        "The Duke"
+      ]
+    },
+    "group_0041": {
+      "canonical": "HOUSE_OVERSIGHT_027594",
+      "preview": "Document mentioning End Time and Start Time.",
+      "char_count": 44,
+      "entities_mentioned": [
+        "End Time",
+        "Start Time",
+        "Source Entry",
+        "Chat Room",
+        "Last Message"
+      ]
+    },
+    "group_0042": {
+      "canonical": "HOUSE_OVERSIGHT_016574",
+      "preview": "Meeting notes or agenda mentioning Code Enforcement Officer and Member\n\n\t\t\t\t\t\tCynthia Van.",
+      "char_count": 90,
+      "entities_mentioned": [
+        "Code Enforcement Officer",
+        "Member\n\n\t\t\t\t\t\tCynthia Van",
+        "Member\n\n\t\t\t\t\t\tCatherine",
+        "Roll Call",
+        "Recording Secretary"
+      ]
+    },
+    "group_0043": {
+      "canonical": "HOUSE_OVERSIGHT_031020",
+      "preview": "Email from Jeffrey Epstein <jeevacation@gmail.com> regarding Re: mentioning Jeffrey Epstein and Windows Mobile.",
+      "char_count": 111,
+      "entities_mentioned": [
+        "Jeffrey Epstein",
+        "Windows Mobile",
+        "Boris Nikolic",
+        "On Sun"
+      ]
+    },
+    "group_0044": {
+      "canonical": "HOUSE_OVERSIGHT_018158",
+      "preview": "Email from Jeffrey Epstein [jeeyacation@gmail.com] regarding Re: Gps GTX Smart Shoe mentioning On Thu and Sultan Bin Sulayem.",
+      "char_count": 125,
+      "entities_mentioned": [
+        "On Thu",
+        "Sultan Bin Sulayem",
+        "Patrick Bertagna",
+        "Jeffrey Epstein",
+        "Sandy Dhuyvetter"
+      ]
+    },
+    "group_0045": {
+      "canonical": "HOUSE_OVERSIGHT_021794",
+      "preview": "Email from • regarding Fw: Epstein News Articles mentioning By Elisa Cramer and Post Editorial.",
+      "char_count": 95,
+      "entities_mentioned": [
+        "By Elisa Cramer",
+        "Post Editorial",
+        "Jeffrey Epstein",
+        "Jessica Cadwell",
+        "Public Records"
+      ]
+    },
+    "group_0046": {
+      "canonical": "HOUSE_OVERSIGHT_031096",
+      "preview": "Email from Jeffrey E. regarding Re: mentioning Maxwell \nSubject and On Sat.",
+      "char_count": 75,
+      "entities_mentioned": [
+        "Maxwell \nSubject",
+        "On Sat"
+      ]
+    },
+    "group_0047": {
+      "canonical": "HOUSE_OVERSIGHT_031301",
+      "preview": "Email from jeffrey E. [jeeyacation@gmail.com] regarding could you put something like this out. if you want mentioning Bilbo Baggins and Jean Luc.",
+      "char_count": 145,
+      "entities_mentioned": [
+        "Bilbo Baggins",
+        "Jean Luc"
+      ]
+    },
+    "group_0048": {
+      "canonical": "HOUSE_OVERSIGHT_029671",
+      "preview": "Email from jeffrey epstein [jeeyacation@gmail.com] regarding Re: After Words mentioning Dear Friends and The Australian.",
+      "char_count": 120,
+      "entities_mentioned": [
+        "Dear Friends",
+        "The Australian",
+        "Paul Keating",
+        "After Words",
+        "Katherine Keating \nSubject"
+      ]
+    },
+    "group_0049": {
+      "canonical": "HOUSE_OVERSIGHT_030149",
+      "preview": "Email from J <jeevacation@gmail.com> regarding Re: FW: Reporter question mentioning Office \nCell and Redacted \nOn Wed.",
+      "char_count": 118,
+      "entities_mentioned": [
+        "Office \nCell",
+        "Redacted \nOn Wed",
+        "Law Office",
+        "Kate Briquelet",
+        "Martin Weinberg"
+      ]
+    },
+    "group_0050": {
+      "canonical": "HOUSE_OVERSIGHT_032444",
+      "preview": "Email from Robert Kuhn regarding Re: Kuhn mentioning On Sun and Robert Kuhn \nSent.",
+      "char_count": 82,
+      "entities_mentioned": [
+        "On Sun",
+        "Robert Kuhn \nSent",
+        "On Jan",
+        "China Tues",
+        "Closer To Truth"
+      ]
+    },
+    "group_0051": {
+      "canonical": "HOUSE_OVERSIGHT_029889",
+      "preview": "Email from Jacquie Johnson [mailto regarding RE: Jane Doe mentioning Certified Paralegal \nFlorida and Jane Doe \nYes.",
+      "char_count": 116,
+      "entities_mentioned": [
+        "Certified Paralegal \nFlorida",
+        "Jane Doe \nYes",
+        "Jessica Cadwell \nSent",
+        "Connie Zaguirre \nSubject",
+        "West Palm Beach"
+      ]
+    },
+    "group_0052": {
+      "canonical": "HOUSE_OVERSIGHT_023205",
+      "preview": "Email from jeffrey E. [jeevacation@gmail.com] regarding Re: and....another bit of advice ...? on WA mentioning Mayor Rahm Emanuel and Richard Dawkins.",
+      "char_count": 150,
+      "entities_mentioned": [
+        "Mayor Rahm Emanuel",
+        "Richard Dawkins",
+        "Martha Minow",
+        "Vice President Biden",
+        "Peter Gallison"
+      ]
+    },
+    "group_0053": {
+      "canonical": "HOUSE_OVERSIGHT_033293",
+      "preview": "Email thread regarding media inquiry - Fox News mentioning Fox News \nJust and Alan Dershowitz.",
+      "char_count": 94,
+      "entities_mentioned": [
+        "Fox News \nJust",
+        "Alan Dershowitz",
+        "Jeffrey Epstein",
+        "Donald Trump",
+        "High \nFrom"
+      ]
+    }
+  },
+  "statistics": {
+    "groups_processed": 50,
+    "groups_failed": 0,
+    "total_groups": 50,
+    "average_preview_length": 110.6,
+    "most_common_entities": [
+      {
+        "entity": "Jeffrey Epstein",
+        "count": 31
+      },
+      {
+        "entity": "On Sun",
+        "count": 6
+      },
+      {
+        "entity": "On Thu",
+        "count": 6
+      },
+      {
+        "entity": "On Jan",
+        "count": 4
+      },
+      {
+        "entity": "On Mon",
+        "count": 4
+      },
+      {
+        "entity": "Ghislaine Maxwell",
+        "count": 4
+      },
+      {
+        "entity": "New York",
+        "count": 4
+      },
+      {
+        "entity": "Original Message",
+        "count": 4
+      },
+      {
+        "entity": "On Fri",
+        "count": 4
+      },
+      {
+        "entity": "On Sat",
+        "count": 3
+      }
+    ]
+  }
+}

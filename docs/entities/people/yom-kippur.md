@@ -30,17 +30,17 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [the United States](../locations/the-united-states.md) - 4 shared documents
-- [Pennsylvania](../locations/pennsylvania.md) - 4 shared documents
 - [Israel](../locations/israel.md) - 4 shared documents
 - [Palestine](../locations/palestine.md) - 4 shared documents
+- [Pennsylvania](../locations/pennsylvania.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
 
 **Events:**
 
-- [2009](../events/2009.md) - 4 shared documents
-- [Two years later](../events/two-years-later.md) - 4 shared documents
 - [1973](../events/1973.md) - 4 shared documents
 - [1981](../events/1981.md) - 4 shared documents
+- [2009](../events/2009.md) - 4 shared documents
+- [Two years later](../events/two-years-later.md) - 4 shared documents
 
 ## Timeline
 

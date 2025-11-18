@@ -32,8 +32,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](middle-east.md) - 23 shared documents
-- [Barack Obama](barack-obama.md) - 21 shared documents
-- [President Obama](president-obama.md) - 20 shared documents
 - [Saudi Arabia](saudi-arabia.md) - 20 shared documents
 - [White House](white-house.md) - 16 shared documents
 - [Security Council](security-council.md) - 15 shared documents
@@ -56,20 +54,20 @@ Economic Forum](world-economic-forum.md) - 4 shared documents
 - [Iraq](../locations/iraq.md) - 23 shared documents
 - [Syria](../locations/syria.md) - 22 shared documents
 - [the West Bank](../locations/the-west-bank.md) - 22 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 21 shared documents
 - [Iran](../locations/iran.md) - 21 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 21 shared documents
 - [the United States](../locations/the-united-states.md) - 21 shared documents
-- [Russia](../locations/russia.md) - 19 shared documents
-- [Washington](../locations/washington.md) - 19 shared documents
 - [Gaza](../locations/gaza.md) - 19 shared documents
+- [Lebanon](../locations/lebanon.md) - 19 shared documents
+- [Palestine](../locations/palestine.md) - 19 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 20 shared documents
 - [2003](../events/2003.md) - 16 shared documents
 - [2009](../events/2009.md) - 16 shared documents
-- [last week](../events/last-week.md) - 16 shared documents
 - [decades](../events/decades.md) - 16 shared documents
+- [last week](../events/last-week.md) - 16 shared documents
 - [years](../events/years.md) - 14 shared documents
 
 ## Timeline

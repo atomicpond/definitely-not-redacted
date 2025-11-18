@@ -26,8 +26,8 @@ Top 6 documents by mention frequency:
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 5 shared documents
-- [Trump](../organizations/trump.md) - 4 shared documents
 - [iPad](../organizations/ipad.md) - 4 shared documents
+- [Trump](../organizations/trump.md) - 4 shared documents
 
 ## Timeline
 

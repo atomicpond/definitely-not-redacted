@@ -42,23 +42,23 @@ Top 10 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 8 shared documents
 - [Amazon](../organizations/amazon.md) - 8 shared documents
 - [Google](../organizations/google.md) - 8 shared documents
-- [Ford](../organizations/ford.md) - 7 shared documents
+- [HOUSE](../organizations/house.md) - 8 shared documents
 - [Academy](../organizations/academy.md) - 7 shared documents
 - [Disney](../organizations/disney.md) - 7 shared documents
+- [Ford](../organizations/ford.md) - 7 shared documents
 - [UTA](../organizations/uta.md) - 7 shared documents
+- [ABC-TV](../organizations/abc-tv.md) - 6 shared documents
 - [CBS](../organizations/cbs.md) - 6 shared documents
-- [Facebook](../organizations/facebook.md) - 6 shared documents
-- [Twitter](../organizations/twitter.md) - 6 shared documents
+- [DGA](../organizations/dga.md) - 6 shared documents
 
 **Locations:**
 
 - [America](../locations/america.md) - 10 shared documents
 - [Washington](../locations/washington.md) - 9 shared documents
-- [Paris](../locations/paris.md) - 8 shared documents
 - [Beverly Hills](../locations/beverly-hills.md) - 8 shared documents
+- [Paris](../locations/paris.md) - 8 shared documents
 - [California](../locations/california.md) - 7 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 7 shared documents
 - [Manhattan](../locations/manhattan.md) - 6 shared documents
@@ -68,12 +68,12 @@ Top 10 documents by mention frequency:
 - [this year](../events/this-year.md) - 12 shared documents
 - [years](../events/years.md) - 10 shared documents
 - [annual](../events/annual.md) - 9 shared documents
-- [six months](../events/six-months.md) - 8 shared documents
 - [last year](../events/last-year.md) - 8 shared documents
+- [six months](../events/six-months.md) - 8 shared documents
 - [Sunday](../events/sunday.md) - 8 shared documents
 - [last week](../events/last-week.md) - 7 shared documents
-- [tomorrow](../events/tomorrow.md) - 7 shared documents
 - [the next day](../events/the-next-day.md) - 7 shared documents
+- [tomorrow](../events/tomorrow.md) - 7 shared documents
 - [two days](../events/two-days.md) - 7 shared documents
 
 ## Timeline

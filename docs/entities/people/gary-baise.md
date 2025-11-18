@@ -26,17 +26,15 @@ Top 5 documents by mention frequency:
 **People:**
 
 - [Jeffrey Epstein](jeffrey-epstein.md) - 5 shared documents
-- [Mr. 
-Trump](trump.md) - 5 shared documents
 - [DARREN K. INDYKE](darren-k-indyke.md) - 5 shared documents
 
 **Organizations:**
 
 - [PLLC](../organizations/pllc.md) - 5 shared documents
 - [HOUSE](../organizations/house.md) - 4 shared documents
-- [Trump](../organizations/trump.md) - 4 shared documents
 - [Lexington Avenue](../organizations/lexington-avenue.md) - 4 shared documents
 - [the White House](../organizations/the-white-house.md) - 4 shared documents
+- [Trump](../organizations/trump.md) - 4 shared documents
 
 **Locations:**
 

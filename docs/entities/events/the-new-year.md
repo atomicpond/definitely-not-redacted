@@ -72,8 +72,8 @@ Cambridge, MA](../locations/street-cambridge-ma.md) - 6 shared documents
 - [a year later](a-year-later.md) - 8 shared documents
 - [this spring](this-spring.md) - 7 shared documents
 - [Overnight](overnight.md) - 7 shared documents
+- [12/2/2015](1222015.md) - 6 shared documents
 - [a year ago](a-year-ago.md) - 6 shared documents
-- [early 2016](early-2016.md) - 6 shared documents
 
 ## Timeline
 

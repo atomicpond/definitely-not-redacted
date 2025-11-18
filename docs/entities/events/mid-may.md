@@ -27,7 +27,7 @@ Top 7 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 6 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 
 **Organizations:**
 
@@ -50,8 +50,8 @@ Top 7 documents by mention frequency:
 
 **Events:**
 
-- [August](august.md) - 6 shared documents
 - [April](april.md) - 6 shared documents
+- [August](august.md) - 6 shared documents
 - [September](september.md) - 5 shared documents
 - [December](december.md) - 5 shared documents
 - [four months](four-months.md) - 5 shared documents

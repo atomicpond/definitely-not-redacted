@@ -27,46 +27,47 @@ Top 6 documents by mention frequency:
 
 - [Crime Victims](crime-victims.md) - 6 shared documents
 - [Rights Act](rights-act.md) - 6 shared documents
-- [Bradley Edwards](bradley-edwards.md) - 6 shared documents
+- [Brad Edwards](brad-edwards.md) - 6 shared documents
+- [Donald 
+Trump](donald-trump.md) - 5 shared documents
 - [Francey Hakes](francey-hakes.md) - 5 shared documents
 - [Jay Lefkowitz](jay-lefkowitz.md) - 5 shared documents
 - [Lanna Belohlavek](lanna-belohlavek.md) - 5 shared documents
 - [Miami Herald](miami-herald.md) - 5 shared documents
-- [President Trump](president-trump.md) - 5 shared documents
 
 **Organizations:**
 
-- [FBI](../organizations/fbi.md) - 6 shared documents
 - [Circuit Court](../organizations/circuit-court.md) - 6 shared documents
-- [District Court](../organizations/district-court.md) - 5 shared documents
+- [FBI](../organizations/fbi.md) - 6 shared documents
 - [Court](../organizations/court.md) - 5 shared documents
+- [District Court](../organizations/district-court.md) - 5 shared documents
+- [Herald](../organizations/herald.md) - 5 shared documents
 - [Justice](../organizations/justice.md) - 5 shared documents
 - [Office](../organizations/office.md) - 5 shared documents
-- [Herald](../organizations/herald.md) - 5 shared documents
 - [the Miami Herald](../organizations/the-miami-herald.md) - 5 shared documents
 - [the Justice Department](../organizations/the-justice-department.md) - 4 shared documents
 
 **Locations:**
 
 - [Florida](../locations/florida.md) - 6 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 6 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 6 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
+- [the Southern District](../locations/the-southern-district.md) - 6 shared documents
+- [Fort Lauderdale](../locations/fort-lauderdale.md) - 5 shared documents
 - [Miami](../locations/miami.md) - 5 shared documents
 - [Miami Herald](../locations/miami-herald.md) - 5 shared documents
-- [Fort Lauderdale](../locations/fort-lauderdale.md) - 5 shared documents
+- [United States](../locations/united-states.md) - 5 shared documents
 - [California](../locations/california.md) - 4 shared documents
 
 **Events:**
 
-- [2011](../events/2011.md) - 6 shared documents
 - [13 months](../events/13-months.md) - 6 shared documents
+- [2011](../events/2011.md) - 6 shared documents
 - [January](../events/january.md) - 6 shared documents
-- [September 2007](../events/september-2007.md) - 5 shared documents
 - [June 30, 2008](../events/june-30-2008.md) - 5 shared documents
-- [November](../events/november.md) - 4 shared documents
+- [September 2007](../events/september-2007.md) - 5 shared documents
 - [2019](../events/2019.md) - 4 shared documents
 - [last month](../events/last-month.md) - 4 shared documents
+- [November](../events/november.md) - 4 shared documents
 - [the next day](../events/the-next-day.md) - 4 shared documents
 
 ## Timeline

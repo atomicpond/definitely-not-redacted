@@ -29,7 +29,6 @@ Top 8 documents by mention frequency:
 
 - [Bill 
 Clinton](../people/bill-clinton.md) - 6 shared documents
-- [CLINTON](../people/clinton.md) - 6 shared documents
 - [David](../people/david.md) - 6 shared documents
 - [Hillary Clinton](../people/hillary-clinton.md) - 6 shared documents
 - [Reagan](../people/reagan.md) - 6 shared documents
@@ -58,11 +57,11 @@ Clinton](../people/bill-clinton.md) - 6 shared documents
 
 **Events:**
 
+- [1973](1973.md) - 7 shared documents
+- [1974](1974.md) - 7 shared documents
+- [1987](1987.md) - 7 shared documents
 - [2012](2012.md) - 7 shared documents
 - [months](months.md) - 7 shared documents
-- [1974](1974.md) - 7 shared documents
-- [1973](1973.md) - 7 shared documents
-- [1987](1987.md) - 7 shared documents
 - [May 2017](may-2017.md) - 6 shared documents
 - [quarter-century earlier](quarter-century-earlier.md) - 5 shared documents
 - [Sept

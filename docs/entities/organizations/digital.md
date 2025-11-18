@@ -31,11 +31,11 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Computer Science](../people/computer-science.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Harvard University](../people/harvard-university.md) - 6 shared documents
 - [Los Angeles](../people/los-angeles.md) - 6 shared documents
 - [Middle East](../people/middle-east.md) - 6 shared documents
 - [New Jersey](../people/new-jersey.md) - 6 shared documents
-- [President Obama](../people/president-obama.md) - 6 shared documents
 - [San Francisco](../people/san-francisco.md) - 6 shared documents
 - [Richard Feynman](../people/richard-feynman.md) - 5 shared documents
 - [White House](../people/white-house.md) - 5 shared documents
@@ -57,27 +57,27 @@ Top 10 documents by mention frequency:
 
 - [China](../locations/china.md) - 15 shared documents
 - [Europe](../locations/europe.md) - 12 shared documents
-- [Japan](../locations/japan.md) - 11 shared documents
 - [Germany](../locations/germany.md) - 11 shared documents
-- [United States](../locations/united-states.md) - 10 shared documents
-- [Russia](../locations/russia.md) - 10 shared documents
-- [London](../locations/london.md) - 10 shared documents
+- [Japan](../locations/japan.md) - 11 shared documents
 - [Asia](../locations/asia.md) - 10 shared documents
 - [Australia](../locations/australia.md) - 10 shared documents
 - [India](../locations/india.md) - 10 shared documents
+- [London](../locations/london.md) - 10 shared documents
+- [Russia](../locations/russia.md) - 10 shared documents
+- [United States](../locations/united-states.md) - 10 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 14 shared documents
 - [years](../events/years.md) - 13 shared documents
-- [the year](../events/the-year.md) - 10 shared documents
 - [the day](../events/the-day.md) - 10 shared documents
+- [the year](../events/the-year.md) - 10 shared documents
 - [2003](../events/2003.md) - 9 shared documents
+- [2008](../events/2008.md) - 9 shared documents
 - [2009](../events/2009.md) - 9 shared documents
 - [annual](../events/annual.md) - 9 shared documents
 - [daily](../events/daily.md) - 9 shared documents
 - [last year](../events/last-year.md) - 9 shared documents
-- [this year](../events/this-year.md) - 9 shared documents
 
 ## Timeline
 

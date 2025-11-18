@@ -10,7 +10,7 @@
 
 ### People
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 2 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 2 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 2 mentions
 - [Sultan Bin Sulayem](../entities/people/sultan-bin-sulayem.md) - 2 mentions
 - [Jim](../entities/people/jim.md) - 1 mention
 

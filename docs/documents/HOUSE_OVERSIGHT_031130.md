@@ -9,7 +9,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [CLINTON](../entities/people/clinton.md) - 1 mention
 - [Nixon](../entities/people/nixon.md) - 1 mention
 - [Reagan](../entities/people/reagan.md) - 1 mention

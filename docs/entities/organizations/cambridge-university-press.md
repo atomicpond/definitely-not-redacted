@@ -35,10 +35,10 @@ Top 10 documents by mention frequency:
 - [Harvard University Press](../people/harvard-university-press.md) - 8 shared documents
 - [Middle East](../people/middle-east.md) - 8 shared documents
 - [Basic Books](../people/basic-books.md) - 7 shared documents
-- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [John Kerry](../people/john-kerry.md) - 6 shared documents
 - [White House](../people/white-house.md) - 6 shared documents
 - [Yale University Press](../people/yale-university-press.md) - 6 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Bashar al-Assad](../people/bashar-al-assad.md) - 5 shared documents
 - [Chicago Press](../people/chicago-press.md) - 5 shared documents
 
@@ -58,28 +58,28 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [Iraq](../locations/iraq.md) - 11 shared documents
-- [Russia](../locations/russia.md) - 10 shared documents
-- [the United States](../locations/the-united-states.md) - 10 shared documents
 - [Cambridge](../locations/cambridge.md) - 10 shared documents
 - [Israel](../locations/israel.md) - 10 shared documents
-- [United States](../locations/united-states.md) - 9 shared documents
-- [Germany](../locations/germany.md) - 9 shared documents
+- [Russia](../locations/russia.md) - 10 shared documents
+- [the United States](../locations/the-united-states.md) - 10 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 9 shared documents
 - [America](../locations/america.md) - 9 shared documents
-- [France](../locations/france.md) - 9 shared documents
 - [Chicago](../locations/chicago.md) - 9 shared documents
+- [France](../locations/france.md) - 9 shared documents
+- [Germany](../locations/germany.md) - 9 shared documents
 
 **Events:**
 
 - [2000](../events/2000.md) - 12 shared documents
+- [1997](../events/1997.md) - 11 shared documents
 - [2003](../events/2003.md) - 11 shared documents
 - [2004](../events/2004.md) - 11 shared documents
-- [today](../events/today.md) - 11 shared documents
-- [years](../events/years.md) - 11 shared documents
-- [1997](../events/1997.md) - 11 shared documents
 - [2010](../events/2010.md) - 11 shared documents
 - [one day](../events/one-day.md) - 11 shared documents
-- [2007](../events/2007.md) - 10 shared documents
-- [2008](../events/2008.md) - 10 shared documents
+- [today](../events/today.md) - 11 shared documents
+- [years](../events/years.md) - 11 shared documents
+- [1973](../events/1973.md) - 10 shared documents
+- [1979](../events/1979.md) - 10 shared documents
 
 ## Timeline
 

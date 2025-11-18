@@ -34,24 +34,24 @@ Top 7 documents by mention frequency:
 
 - [Florida](../locations/florida.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [Virginia](../locations/virginia.md) - 4 shared documents
-- [Massachusetts](../locations/massachusetts.md) - 4 shared documents
-- [West Palm Beach](../locations/west-palm-beach.md) - 4 shared documents
 - [Connecticut](../locations/connecticut.md) - 4 shared documents
+- [Massachusetts](../locations/massachusetts.md) - 4 shared documents
 - [Michigan](../locations/michigan.md) - 4 shared documents
+- [Virginia](../locations/virginia.md) - 4 shared documents
+- [West Palm Beach](../locations/west-palm-beach.md) - 4 shared documents
 
 **Events:**
 
 - [2003](../events/2003.md) - 5 shared documents
-- [2007](../events/2007.md) - 4 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [2000](../events/2000.md) - 4 shared documents
+- [1984](../events/1984.md) - 4 shared documents
 - [1985](../events/1985.md) - 4 shared documents
-- [2011](../events/2011.md) - 4 shared documents
+- [1987](../events/1987.md) - 4 shared documents
 - [1993](../events/1993.md) - 4 shared documents
 - [1997](../events/1997.md) - 4 shared documents
 - [1999](../events/1999.md) - 4 shared documents
+- [2000](../events/2000.md) - 4 shared documents
 - [2005](../events/2005.md) - 4 shared documents
+- [2007](../events/2007.md) - 4 shared documents
 
 ## Timeline
 

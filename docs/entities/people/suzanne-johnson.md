@@ -39,8 +39,8 @@ Fellowship](house-fellowship.md) - 7 shared documents
 
 **Organizations:**
 
-- [Trump](../organizations/trump.md) - 7 shared documents
 - [The White House Fellowship Commison](../organizations/the-white-house-fellowship-commison.md) - 7 shared documents
+- [Trump](../organizations/trump.md) - 7 shared documents
 
 **Events:**
 

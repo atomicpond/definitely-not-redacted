@@ -34,28 +34,28 @@ Top 6 documents by mention frequency:
 **Locations:**
 
 - [Japan](../locations/japan.md) - 6 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
-- [London](../locations/london.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
-- [Manhattan](../locations/manhattan.md) - 5 shared documents
-- [Paris](../locations/paris.md) - 5 shared documents
 - [Australia](../locations/australia.md) - 5 shared documents
 - [England](../locations/england.md) - 5 shared documents
+- [London](../locations/london.md) - 5 shared documents
+- [Manhattan](../locations/manhattan.md) - 5 shared documents
 - [Massachusetts](../locations/massachusetts.md) - 5 shared documents
+- [Paris](../locations/paris.md) - 5 shared documents
 - [Princeton](../locations/princeton.md) - 5 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [United States](../locations/united-states.md) - 5 shared documents
 
 **Events:**
 
-- [2015](../events/2015.md) - 6 shared documents
 - [2012](../events/2012.md) - 6 shared documents
+- [2015](../events/2015.md) - 6 shared documents
 - [the day](../events/the-day.md) - 6 shared documents
-- [2009](../events/2009.md) - 5 shared documents
-- [2014](../events/2014.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [daily](../events/daily.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [2011](../events/2011.md) - 5 shared documents
 - [2005](../events/2005.md) - 5 shared documents
+- [2009](../events/2009.md) - 5 shared documents
+- [2010](../events/2010.md) - 5 shared documents
+- [2011](../events/2011.md) - 5 shared documents
+- [2013](../events/2013.md) - 5 shared documents
+- [2014](../events/2014.md) - 5 shared documents
+- [daily](../events/daily.md) - 5 shared documents
 
 ## Timeline
 

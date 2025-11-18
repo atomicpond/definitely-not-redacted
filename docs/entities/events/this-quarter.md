@@ -31,9 +31,9 @@ Top 6 documents by mention frequency:
 **Events:**
 
 - [today](today.md) - 5 shared documents
-- [last year](last-year.md) - 4 shared documents
 - [2013](2013.md) - 4 shared documents
 - [January](january.md) - 4 shared documents
+- [last year](last-year.md) - 4 shared documents
 
 ## Timeline
 

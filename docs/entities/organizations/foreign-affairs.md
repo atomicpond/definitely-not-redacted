@@ -28,35 +28,31 @@ Top 7 documents by mention frequency:
 
 - [Middle East](../people/middle-east.md) - 5 shared documents
 
-**Organizations:**
-
-- [Congress](congress.md) - 4 shared documents
-
 **Locations:**
 
 - [China](../locations/china.md) - 7 shared documents
 - [Africa](../locations/africa.md) - 6 shared documents
 - [Israel](../locations/israel.md) - 6 shared documents
-- [Middle East](../locations/middle-east.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
 - [Asia](../locations/asia.md) - 5 shared documents
+- [Indonesia](../locations/indonesia.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
 - [Iraq](../locations/iraq.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
+- [Middle East](../locations/middle-east.md) - 5 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 6 shared documents
 - [2003](../events/2003.md) - 5 shared documents
-- [2004](../events/2004.md) - 4 shared documents
+- [1979](../events/1979.md) - 4 shared documents
+- [1995](../events/1995.md) - 4 shared documents
 - [1996](../events/1996.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
 - [2001](../events/2001.md) - 4 shared documents
 - [2002](../events/2002.md) - 4 shared documents
+- [2004](../events/2004.md) - 4 shared documents
 - [2013](../events/2013.md) - 4 shared documents
 - [decades](../events/decades.md) - 4 shared documents
-- [1979](../events/1979.md) - 4 shared documents
 
 ## Timeline
 

@@ -40,26 +40,26 @@ Top 10 documents by mention frequency:
 - [Bloomberg](bloomberg.md) - 7 shared documents
 - [Senate](senate.md) - 6 shared documents
 - [Treasury](treasury.md) - 6 shared documents
-- [Bank of America](bank-of-america.md) - 6 shared documents
-- [Congress](congress.md) - 6 shared documents
+- [Bank](bank.md) - 6 shared documents
 - [LLC](llc.md) - 5 shared documents
 - [Non-US](non-us.md) - 5 shared documents
 - [S&P](sp.md) - 5 shared documents
 - [USDA](usda.md) - 5 shared documents
 - [Extended Review](extended-review.md) - 4 shared documents
+- [FCA](fca.md) - 4 shared documents
 
 **Locations:**
 
+- [Australia](../locations/australia.md) - 9 shared documents
 - [Brazil](../locations/brazil.md) - 9 shared documents
 - [Canada](../locations/canada.md) - 9 shared documents
 - [Germany](../locations/germany.md) - 9 shared documents
 - [Mexico](../locations/mexico.md) - 9 shared documents
-- [Australia](../locations/australia.md) - 9 shared documents
-- [China](../locations/china.md) - 8 shared documents
-- [Japan](../locations/japan.md) - 8 shared documents
-- [Russia](../locations/russia.md) - 8 shared documents
+- [Argentina](../locations/argentina.md) - 8 shared documents
 - [Asia](../locations/asia.md) - 8 shared documents
+- [China](../locations/china.md) - 8 shared documents
 - [India](../locations/india.md) - 8 shared documents
+- [Japan](../locations/japan.md) - 8 shared documents
 
 **Events:**
 
@@ -67,10 +67,10 @@ Top 10 documents by mention frequency:
 - [annual](../events/annual.md) - 10 shared documents
 - [2015](../events/2015.md) - 9 shared documents
 - [2017](../events/2017.md) - 9 shared documents
-- [2012](../events/2012.md) - 8 shared documents
 - [12-month](../events/12-month.md) - 8 shared documents
-- [monthly](../events/monthly.md) - 7 shared documents
+- [2012](../events/2012.md) - 8 shared documents
 - [5-year](../events/5-year.md) - 7 shared documents
+- [monthly](../events/monthly.md) - 7 shared documents
 - [quarterly](../events/quarterly.md) - 7 shared documents
 - [2004](../events/2004.md) - 6 shared documents
 

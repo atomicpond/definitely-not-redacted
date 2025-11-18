@@ -40,13 +40,13 @@ Top 6 documents by mention frequency:
 
 - [today](today.md) - 6 shared documents
 - [weeks](weeks.md) - 6 shared documents
-- [many years](many-years.md) - 5 shared documents
 - [July 2, 2008](july-2-2008.md) - 5 shared documents
 - [July 7, 2008](july-7-2008.md) - 5 shared documents
+- [many years](many-years.md) - 5 shared documents
 - [annual](annual.md) - 4 shared documents
-- [last year](last-year.md) - 4 shared documents
-- [monthly](monthly.md) - 4 shared documents
 - [August](august.md) - 4 shared documents
+- [December](december.md) - 4 shared documents
+- [February](february.md) - 4 shared documents
 - [Friday](friday.md) - 4 shared documents
 
 ## Timeline

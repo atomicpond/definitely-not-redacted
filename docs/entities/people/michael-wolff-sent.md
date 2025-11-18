@@ -33,7 +33,7 @@ Top 10 documents by mention frequency:
 
 - [Michael Wolff](michael-wolff.md) - 15 shared documents
 - [jeffrey E.](jeffrey-e.md) - 4 shared documents
-- [jeffrey E. <](jeffrey-e.md) - 4 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 4 shared documents
 
 **Organizations:**
 

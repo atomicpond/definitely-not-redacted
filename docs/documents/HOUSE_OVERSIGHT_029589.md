@@ -9,7 +9,7 @@
 ## Entities Mentioned
 
 ### People
-- [Ms. Williams](../entities/people/ms-williams.md) - 2 mentions
+- [Ms. Williams](../entities/people/williams.md) - 2 mentions
 - [Herbie Hancock](../entities/people/herbie-hancock.md) - 1 mention
 - [Joe Biden](../entities/people/joe-biden.md) - 1 mention
 - [Barker Center](../entities/people/barker-center.md) - 1 mention

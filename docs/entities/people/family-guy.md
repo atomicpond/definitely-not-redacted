@@ -28,8 +28,8 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
 - [Chicago](../locations/chicago.md) - 4 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
 - [San Francisco](../locations/san-francisco.md) - 4 shared documents
 
 **Events:**

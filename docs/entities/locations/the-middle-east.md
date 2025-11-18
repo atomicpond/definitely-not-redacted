@@ -34,15 +34,13 @@ Top 10 documents by mention frequency:
 
 - [Middle East](../people/middle-east.md) - 92 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 48 shared documents
-- [President Obama](../people/president-obama.md) - 41 shared documents
 - [White House](../people/white-house.md) - 39 shared documents
-- [Barack Obama](../people/barack-obama.md) - 37 shared documents
-- [Mr. Obama](../people/obama.md) - 32 shared documents
 - [United 
 States](../people/united-states.md) - 24 shared documents
 - [Security Council](../people/security-council.md) - 23 shared documents
 - [Bashar al-Assad](../people/bashar-al-assad.md) - 21 shared documents
 - [West Bank](../people/west-bank.md) - 21 shared documents
+- [Hosni Mubarak](../people/hosni-mubarak.md) - 20 shared documents
 
 **Organizations:**
 
@@ -76,9 +74,9 @@ States](../people/united-states.md) - 24 shared documents
 - [2009](../events/2009.md) - 47 shared documents
 - [years](../events/years.md) - 45 shared documents
 - [2012](../events/2012.md) - 39 shared documents
-- [this year](../events/this-year.md) - 38 shared documents
-- [last week](../events/last-week.md) - 38 shared documents
 - [2008](../events/2008.md) - 38 shared documents
+- [last week](../events/last-week.md) - 38 shared documents
+- [this year](../events/this-year.md) - 38 shared documents
 - [annual](../events/annual.md) - 37 shared documents
 - [decades](../events/decades.md) - 37 shared documents
 - [2006](../events/2006.md) - 36 shared documents

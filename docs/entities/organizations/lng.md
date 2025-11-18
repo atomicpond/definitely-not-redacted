@@ -37,21 +37,21 @@ Top 8 documents by mention frequency:
 **Locations:**
 
 - [Russia](../locations/russia.md) - 6 shared documents
-- [Middle East](../locations/middle-east.md) - 5 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 5 shared documents
 - [India](../locations/india.md) - 5 shared documents
-- [China](../locations/china.md) - 4 shared documents
-- [Brazil](../locations/brazil.md) - 4 shared documents
+- [Middle East](../locations/middle-east.md) - 5 shared documents
 - [Asia](../locations/asia.md) - 4 shared documents
+- [Brazil](../locations/brazil.md) - 4 shared documents
+- [China](../locations/china.md) - 4 shared documents
 - [Iran](../locations/iran.md) - 4 shared documents
 - [Israel](../locations/israel.md) - 4 shared documents
 - [Paris](../locations/paris.md) - 4 shared documents
 
 **Events:**
 
+- [2012](../events/2012.md) - 4 shared documents
 - [annual](../events/annual.md) - 4 shared documents
 - [today](../events/today.md) - 4 shared documents
-- [2012](../events/2012.md) - 4 shared documents
 - [years](../events/years.md) - 4 shared documents
 
 ## Timeline

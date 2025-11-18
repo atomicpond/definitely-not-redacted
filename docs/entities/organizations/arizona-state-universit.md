@@ -25,8 +25,7 @@ Top 6 documents by mention frequency:
 
 **People:**
 
-- [Lawrence Krauss](../people/lawrence-krauss.md) - 6 shared documents
-- [Lawrence M. Krauss](../people/lawrence-m-krauss.md) - 5 shared documents
+- [Lawrence Krauss](../people/lawrence-krauss.md) - 5 shared documents
 - [PO Box](../people/po-box.md) - 5 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 4 shared documents
 - [Physics Department](../people/physics-department.md) - 4 shared documents

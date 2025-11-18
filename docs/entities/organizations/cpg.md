@@ -28,15 +28,15 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Virginia](../locations/virginia.md) - 4 shared documents
 - [Charlotte](../locations/charlotte.md) - 4 shared documents
+- [Virginia](../locations/virginia.md) - 4 shared documents
 
 **Events:**
 
-- [2018](../events/2018.md) - 4 shared documents
+- [1997](../events/1997.md) - 4 shared documents
 - [2000](../events/2000.md) - 4 shared documents
 - [2017](../events/2017.md) - 4 shared documents
-- [1997](../events/1997.md) - 4 shared documents
+- [2018](../events/2018.md) - 4 shared documents
 
 ## Timeline
 

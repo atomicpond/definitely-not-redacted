@@ -48,16 +48,16 @@ Top 6 documents by mention frequency:
 **Locations:**
 
 - [France](../locations/france.md) - 6 shared documents
-- [Italy](../locations/italy.md) - 6 shared documents
 - [Hungary](../locations/hungary.md) - 6 shared documents
-- [USA](../locations/usa.md) - 5 shared documents
+- [Italy](../locations/italy.md) - 6 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
+- [USA](../locations/usa.md) - 5 shared documents
 - [Sun](../locations/sun.md) - 4 shared documents
 
 **Events:**
 
-- [week](../events/week.md) - 5 shared documents
 - [March 11, 2018](../events/march-11-2018.md) - 5 shared documents
+- [week](../events/week.md) - 5 shared documents
 
 ## Timeline
 

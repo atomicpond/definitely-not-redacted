@@ -55,6 +55,7 @@ Elisa New](../people/lisa-elisa-new.md) - 25 shared documents
 Harvard University](../organizations/cabot-professor-of-american-literature-harvard-university.md) - 26 shared documents
 - [Twitter](../organizations/twitter.md) - 25 shared documents
 - [Facebook](../organizations/facebook.md) - 24 shared documents
+- [Trump](../organizations/trump.md) - 19 shared documents
 
 **Locations:**
 
@@ -80,8 +81,8 @@ Cambridge, MA](street-cambridge-ma.md) - 27 shared documents
 - [years](../events/years.md) - 26 shared documents
 - [2004](../events/2004.md) - 24 shared documents
 - [2018](../events/2018.md) - 24 shared documents
-- [2015](../events/2015.md) - 23 shared documents
-- [last year](../events/last-year.md) - 23 shared documents
+- [2002](../events/2002.md) - 23 shared documents
+- [2006](../events/2006.md) - 23 shared documents
 
 ## Timeline
 

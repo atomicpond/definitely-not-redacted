@@ -38,7 +38,7 @@ Top 10 documents by mention frequency:
 - [Landon Thomas](landon-thomas.md) - 9 shared documents
 - [jeffrey E. <](jeffrey-e-<.md) - 6 shared documents
 - [jr thomas/inde  
-x.html](jr-thomas/inde-xhtml.md) - 6 shared documents
+x.html](jr-thomas-inde-xhtml.md) - 6 shared documents
 - [Mr. 
 Trump](trump.md) - 5 shared documents
 

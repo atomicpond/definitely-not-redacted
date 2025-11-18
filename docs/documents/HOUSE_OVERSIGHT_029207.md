@@ -14,7 +14,7 @@
 - [Neil Gershenfeld](../entities/people/neil-gershenfeld.md) - 1 mention
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Jeffrey](../entities/people/jeffrey.md) - 1 mention
 - [On Mon](../entities/people/on-mon.md) - 1 mention
 - [On Dec](../entities/people/on-dec.md) - 1 mention

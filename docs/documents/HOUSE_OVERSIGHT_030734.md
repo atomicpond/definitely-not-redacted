@@ -11,7 +11,7 @@
 ### People
 - [Steve Bannon](../entities/people/steve-bannon.md) - 4 mentions
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 2 mentions
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 2 mentions
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 2 mentions
 - [Putin Mayhem](../entities/people/putin-mayhem.md) - 2 mentions
 - [Grip](../entities/people/grip.md) - 2 mentions
 - [jeffrey E. <](../entities/people/jeffrey-e.md) - 1 mention

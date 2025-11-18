@@ -26,7 +26,8 @@ Top 7 documents by mention frequency:
 
 **People:**
 
-- [Trump Properties](../people/trump-properties.md) - 7 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 7 shared documents
 - [County Road](../people/county-road.md) - 6 shared documents
 
 **Organizations:**
@@ -49,8 +50,8 @@ Top 7 documents by mention frequency:
 
 - [today](../events/today.md) - 6 shared documents
 - [yesterday](../events/yesterday.md) - 6 shared documents
-- [June 19, 2008](../events/june-19-2008.md) - 5 shared documents
 - [JUNE 18, 2008](../events/june-18-2008.md) - 5 shared documents
+- [June 19, 2008](../events/june-19-2008.md) - 5 shared documents
 - [June 26, 2008](../events/june-26-2008.md) - 5 shared documents
 
 ## Timeline

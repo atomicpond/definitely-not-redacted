@@ -47,8 +47,8 @@ Israel](merrill-lynch-israel.md) - 17 shared documents
 - [Pierce, Fenner & Smith Incorporated](../organizations/pierce-fenner-smith-incorporated.md) - 28 shared documents
 - [Bank of America Merrill Lynch](../organizations/bank-of-america-merrill-lynch.md) - 25 shared documents
 - [Trump](../organizations/trump.md) - 23 shared documents
-- [HOUSE](../organizations/house.md) - 22 shared documents
 - [Bank of America](../organizations/bank-of-america.md) - 22 shared documents
+- [HOUSE](../organizations/house.md) - 22 shared documents
 - [Bank](../organizations/bank.md) - 21 shared documents
 - [BofA Merrill Lynch Global Research](../organizations/bofa-merrill-lynch-global-research.md) - 20 shared documents
 - [Bank of America
@@ -58,20 +58,20 @@ Corporation](../organizations/bank-of-america-corporation.md) - 19 shared docume
 **Locations:**
 
 - [China](../locations/china.md) - 24 shared documents
-- [Japan](../locations/japan.md) - 24 shared documents
 - [Germany](../locations/germany.md) - 24 shared documents
 - [India](../locations/india.md) - 24 shared documents
-- [Russia](../locations/russia.md) - 23 shared documents
-- [Canada](../locations/canada.md) - 23 shared documents
+- [Japan](../locations/japan.md) - 24 shared documents
 - [Argentina](../locations/argentina.md) - 23 shared documents
+- [Canada](../locations/canada.md) - 23 shared documents
+- [Russia](../locations/russia.md) - 23 shared documents
+- [Asia](../locations/asia.md) - 22 shared documents
 - [Brazil](../locations/brazil.md) - 22 shared documents
 - [Mexico](../locations/mexico.md) - 22 shared documents
-- [Asia](../locations/asia.md) - 22 shared documents
 
 **Events:**
 
-- [2018](../events/2018.md) - 20 shared documents
 - [2017](../events/2017.md) - 20 shared documents
+- [2018](../events/2018.md) - 20 shared documents
 - [2001](../events/2001.md) - 19 shared documents
 - [the day](../events/the-day.md) - 19 shared documents
 

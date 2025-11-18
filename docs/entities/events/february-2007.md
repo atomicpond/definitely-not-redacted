@@ -48,10 +48,10 @@ Top 8 documents by mention frequency:
 - [2008](2008.md) - 7 shared documents
 - [2010](2010.md) - 7 shared documents
 - [last year](last-year.md) - 6 shared documents
-- [2009](2009.md) - 6 shared documents
-- [2016](2016.md) - 6 shared documents
-- [2011](2011.md) - 6 shared documents
 - [1990](1990.md) - 6 shared documents
+- [2009](2009.md) - 6 shared documents
+- [2011](2011.md) - 6 shared documents
+- [2016](2016.md) - 6 shared documents
 
 ## Timeline
 

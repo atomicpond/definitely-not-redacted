@@ -33,7 +33,7 @@ Top 10 documents by mention frequency:
 - [Bill 
 Clinton](../people/bill-clinton.md) - 8 shared documents
 - [DARREN K. INDYKE](../people/darren-k-indyke.md) - 5 shared documents
-- [hillary](../people/hillary.md) - 5 shared documents
+- [Hillary Clinton](../people/hillary-clinton.md) - 5 shared documents
 
 **Organizations:**
 

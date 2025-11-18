@@ -33,7 +33,6 @@ Top 10 documents by mention frequency:
 - [White House](../people/white-house.md) - 7 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 6 shared documents
 - [Barack Obama](../people/barack-obama.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
 - [San Francisco](../people/san-francisco.md) - 5 shared documents
 
 **Organizations:**
@@ -53,27 +52,27 @@ Top 10 documents by mention frequency:
 
 - [America](../locations/america.md) - 9 shared documents
 - [the United States](../locations/the-united-states.md) - 9 shared documents
+- [France](../locations/france.md) - 8 shared documents
 - [Germany](../locations/germany.md) - 8 shared documents
 - [Washington](../locations/washington.md) - 8 shared documents
-- [France](../locations/france.md) - 8 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 7 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 7 shared documents
 - [China](../locations/china.md) - 7 shared documents
 - [Europe](../locations/europe.md) - 7 shared documents
-- [Russia](../locations/russia.md) - 7 shared documents
+- [Iran](../locations/iran.md) - 7 shared documents
+- [Iraq](../locations/iraq.md) - 7 shared documents
+- [Israel](../locations/israel.md) - 7 shared documents
 
 **Events:**
 
+- [1994](../events/1994.md) - 8 shared documents
 - [2007](../events/2007.md) - 8 shared documents
 - [2009](../events/2009.md) - 8 shared documents
-- [2012](../events/2012.md) - 8 shared documents
-- [2011](../events/2011.md) - 8 shared documents
 - [2010](../events/2010.md) - 8 shared documents
-- [1994](../events/1994.md) - 8 shared documents
+- [2011](../events/2011.md) - 8 shared documents
+- [2012](../events/2012.md) - 8 shared documents
+- [1978](../events/1978.md) - 7 shared documents
+- [1979](../events/1979.md) - 7 shared documents
 - [2003](../events/2003.md) - 7 shared documents
-- [six months](../events/six-months.md) - 7 shared documents
-- [today](../events/today.md) - 7 shared documents
-- [this year](../events/this-year.md) - 7 shared documents
+- [2006](../events/2006.md) - 7 shared documents
 
 ## Timeline
 

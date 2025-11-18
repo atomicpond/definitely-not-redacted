@@ -28,7 +28,7 @@ Top 5 documents by mention frequency:
 - [Arab Spring](../people/arab-spring.md) - 5 shared documents
 - [Ayatollah Ali Khamenei](../people/ayatollah-ali-khamenei.md) - 5 shared documents
 - [Barack Obama](../people/barack-obama.md) - 5 shared documents
-- [Benjamin Netanyahu](../people/benjamin-netanyahu.md) - 5 shared documents
+- [Bibi](../people/bibi.md) - 5 shared documents
 - [Biden](../people/biden.md) - 5 shared documents
 - [Chuck 
 Hagel](../people/chuck-hagel.md) - 5 shared documents

@@ -28,12 +28,11 @@ Top 8 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 8 shared documents
-- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Middle East](../people/middle-east.md) - 6 shared documents
 - [San Francisco](../people/san-francisco.md) - 6 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Cold War](../people/cold-war.md) - 5 shared documents
 - [District Court](../people/district-court.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 5 shared documents
 - [Vietnam War](../people/vietnam-war.md) - 5 shared documents
 
@@ -53,28 +52,19 @@ Top 8 documents by mention frequency:
 **Locations:**
 
 - [Russia](../locations/russia.md) - 8 shared documents
-- [California](../locations/california.md) - 6 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 6 shared documents
-- [China](../locations/china.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
-- [Germany](../locations/germany.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
-- [London](../locations/london.md) - 6 shared documents
-- [America](../locations/america.md) - 6 shared documents
-- [France](../locations/france.md) - 6 shared documents
 
 **Events:**
 
+- [1948](../events/1948.md) - 6 shared documents
+- [1956](../events/1956.md) - 6 shared documents
+- [1961](../events/1961.md) - 6 shared documents
+- [1967](../events/1967.md) - 6 shared documents
+- [1969](../events/1969.md) - 6 shared documents
+- [1971](../events/1971.md) - 6 shared documents
+- [1974](../events/1974.md) - 6 shared documents
+- [1977](../events/1977.md) - 6 shared documents
+- [1978](../events/1978.md) - 6 shared documents
 - [1986](../events/1986.md) - 6 shared documents
-- [2007](../events/2007.md) - 6 shared documents
-- [annual](../events/annual.md) - 6 shared documents
-- [six months](../events/six-months.md) - 6 shared documents
-- [Thursday](../events/thursday.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [1996](../events/1996.md) - 6 shared documents
-- [daily](../events/daily.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
-- [summer](../events/summer.md) - 6 shared documents
 
 ## Timeline
 

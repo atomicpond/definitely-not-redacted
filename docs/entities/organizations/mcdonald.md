@@ -42,10 +42,10 @@ Top 10 documents by mention frequency:
 - [Senate](senate.md) - 6 shared documents
 - [Social Security](social-security.md) - 6 shared documents
 - [Supreme Court](supreme-court.md) - 6 shared documents
-- [Apple](apple.md) - 6 shared documents
 - [MURPHY](murphy.md) - 5 shared documents
 - [the Democratic party](the-democratic-party.md) - 5 shared documents
 - [Trump](trump.md) - 5 shared documents
+- [Turner](turner.md) - 5 shared documents
 
 **Locations:**
 
@@ -53,25 +53,21 @@ Top 10 documents by mention frequency:
 - [America](../locations/america.md) - 8 shared documents
 - [Virginia](../locations/virginia.md) - 8 shared documents
 - [Ohio](../locations/ohio.md) - 7 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 6 shared documents
-- [Germany](../locations/germany.md) - 6 shared documents
 - [France](../locations/france.md) - 6 shared documents
-- [the United States](../locations/the-united-states.md) - 6 shared documents
-- [Silicon Valley](../locations/silicon-valley.md) - 6 shared documents
-- [Pennsylvania](../locations/pennsylvania.md) - 6 shared documents
+- [Germany](../locations/germany.md) - 6 shared documents
 
 **Events:**
 
 - [daily](../events/daily.md) - 10 shared documents
 - [2000](../events/2000.md) - 9 shared documents
-- [2003](../events/2003.md) - 8 shared documents
-- [2007](../events/2007.md) - 8 shared documents
-- [2005](../events/2005.md) - 8 shared documents
 - [1980](../events/1980.md) - 8 shared documents
-- [2004](../events/2004.md) - 7 shared documents
+- [2003](../events/2003.md) - 8 shared documents
+- [2005](../events/2005.md) - 8 shared documents
+- [2007](../events/2007.md) - 8 shared documents
+- [1978](../events/1978.md) - 7 shared documents
+- [1992](../events/1992.md) - 7 shared documents
+- [1995](../events/1995.md) - 7 shared documents
 - [1996](../events/1996.md) - 7 shared documents
-- [1997](../events/1997.md) - 7 shared documents
-- [1998](../events/1998.md) - 7 shared documents
 
 ## Timeline
 

@@ -24,38 +24,38 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [Financials](financials.md) - 5 shared documents
 - [BoJ](boj.md) - 5 shared documents
-- [Fed](fed.md) - 5 shared documents
 - [ECB](ecb.md) - 5 shared documents
 - [EUR](eur.md) - 5 shared documents
 - [Euro](euro.md) - 5 shared documents
+- [Fed](fed.md) - 5 shared documents
+- [Financials](financials.md) - 5 shared documents
 - [S&P500](sp500.md) - 5 shared documents
 - [JGB](jgb.md) - 4 shared documents
 
 **Locations:**
 
+- [Brazil](../locations/brazil.md) - 5 shared documents
 - [China](../locations/china.md) - 5 shared documents
+- [EUR](../locations/eur.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
 - [Japan](../locations/japan.md) - 5 shared documents
-- [Brazil](../locations/brazil.md) - 5 shared documents
 - [Mexico](../locations/mexico.md) - 5 shared documents
 - [Spain](../locations/spain.md) - 5 shared documents
-- [EUR](../locations/eur.md) - 5 shared documents
 - [Malaysia](../locations/malaysia.md) - 4 shared documents
 
 **Events:**
 
 - [2015](../events/2015.md) - 5 shared documents
 - [last week](../events/last-week.md) - 5 shared documents
+- [last week’s](../events/last-weeks.md) - 5 shared documents
 - [recent weeks](../events/recent-weeks.md) - 5 shared documents
 - [the past two weeks](../events/the-past-two-weeks.md) - 5 shared documents
-- [last week’s](../events/last-weeks.md) - 5 shared documents
 - [2018](../events/2018.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
-- [months](../events/months.md) - 4 shared documents
 - [December](../events/december.md) - 4 shared documents
+- [months](../events/months.md) - 4 shared documents
+- [this year](../events/this-year.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

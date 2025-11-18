@@ -31,8 +31,9 @@ Top 10 documents by mention frequency:
 
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 8 shared documents
 - [Ken Starr](../people/ken-starr.md) - 8 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 7 shared documents
 - [Boris Nikolic](../people/boris-nikolic.md) - 7 shared documents
-- [CLINTON](../people/clinton.md) - 7 shared documents
 - [Julie Taymor](../people/julie-taymor.md) - 7 shared documents
 - [Mick Jagger](../people/mick-jagger.md) - 7 shared documents
 - [Iga](../people/iga.md) - 6 shared documents
@@ -44,8 +45,8 @@ Top 10 documents by mention frequency:
 
 - [HOUSE](house.md) - 16 shared documents
 - [CFA](cfa.md) - 8 shared documents
-- [Fed](fed.md) - 8 shared documents
 - [Facebook](facebook.md) - 8 shared documents
+- [Fed](fed.md) - 8 shared documents
 - [Windows Mobile](windows-mobile.md) - 7 shared documents
 - [AT&T](att.md) - 7 shared documents
 - [Twitter](twitter.md) - 5 shared documents
@@ -58,28 +59,28 @@ Authority](the-australian-prudential-regulation-authority.md) - 4 shared documen
 **Locations:**
 
 - [London](../locations/london.md) - 11 shared documents
-- [U.S.](../locations/us.md) - 9 shared documents
 - [Canada](../locations/canada.md) - 9 shared documents
 - [the United States](../locations/the-united-states.md) - 9 shared documents
+- [U.S.](../locations/us.md) - 9 shared documents
 - [Spain](../locations/spain.md) - 8 shared documents
-- [Europe](../locations/europe.md) - 7 shared documents
-- [Japan](../locations/japan.md) - 7 shared documents
-- [Germany](../locations/germany.md) - 7 shared documents
-- [Washington](../locations/washington.md) - 7 shared documents
 - [America](../locations/america.md) - 7 shared documents
+- [Boston](../locations/boston.md) - 7 shared documents
+- [England](../locations/england.md) - 7 shared documents
+- [Europe](../locations/europe.md) - 7 shared documents
+- [Germany](../locations/germany.md) - 7 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 12 shared documents
 - [2016](../events/2016.md) - 10 shared documents
-- [2014](../events/2014.md) - 9 shared documents
-- [Wednesday](../events/wednesday.md) - 9 shared documents
-- [last week](../events/last-week.md) - 9 shared documents
 - [2001](../events/2001.md) - 9 shared documents
-- [last year](../events/last-year.md) - 8 shared documents
-- [this week](../events/this-week.md) - 8 shared documents
-- [this year](../events/this-year.md) - 8 shared documents
+- [2014](../events/2014.md) - 9 shared documents
+- [last week](../events/last-week.md) - 9 shared documents
+- [Wednesday](../events/wednesday.md) - 9 shared documents
+- [2010](../events/2010.md) - 8 shared documents
 - [2011](../events/2011.md) - 8 shared documents
+- [Friday](../events/friday.md) - 8 shared documents
+- [last year](../events/last-year.md) - 8 shared documents
 
 ## Timeline
 

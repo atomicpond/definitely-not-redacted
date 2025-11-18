@@ -27,19 +27,20 @@ Top 8 documents by mention frequency:
 
 **People:**
 
-- [Trump Properties](trump-properties.md) - 6 shared documents
+- [Donald 
+Trump](donald-trump.md) - 6 shared documents
 - [Circuit Court](circuit-court.md) - 4 shared documents
 
 **Organizations:**
 
 - [the Town of Palm Beach](../organizations/the-town-of-palm-beach.md) - 7 shared documents
 - [Town](../organizations/town.md) - 7 shared documents
-- [LLC](../organizations/llc.md) - 6 shared documents
-- [Trump Properties](../organizations/trump-properties.md) - 6 shared documents
 - [ARCOM](../organizations/arcom.md) - 6 shared documents
 - [Code Enforcement](../organizations/code-enforcement.md) - 6 shared documents
+- [LLC](../organizations/llc.md) - 6 shared documents
 - [Ordinances](../organizations/ordinances.md) - 6 shared documents
 - [the Architectural Commission](../organizations/the-architectural-commission.md) - 6 shared documents
+- [Trump Properties](../organizations/trump-properties.md) - 6 shared documents
 - [State](../organizations/state.md) - 5 shared documents
 - [Court](../organizations/court.md) - 4 shared documents
 
@@ -53,12 +54,12 @@ Top 8 documents by mention frequency:
 - [yesterday](../events/yesterday.md) - 6 shared documents
 - [JUNE 18, 2008](../events/june-18-2008.md) - 5 shared documents
 - [June 26, 2008](../events/june-26-2008.md) - 5 shared documents
-- [October](../events/october.md) - 4 shared documents
 - [annual](../events/annual.md) - 4 shared documents
+- [February](../events/february.md) - 4 shared documents
+- [Friday](../events/friday.md) - 4 shared documents
 - [last year](../events/last-year.md) - 4 shared documents
-- [this week](../events/this-week.md) - 4 shared documents
-- [monthly](../events/monthly.md) - 4 shared documents
 - [May](../events/may.md) - 4 shared documents
+- [monthly](../events/monthly.md) - 4 shared documents
 
 ## Timeline
 

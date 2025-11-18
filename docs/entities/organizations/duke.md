@@ -35,28 +35,28 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [Washington](../locations/washington.md) - 8 shared documents
-- [London](../locations/london.md) - 7 shared documents
 - [D.C.](../locations/dc.md) - 7 shared documents
+- [London](../locations/london.md) - 7 shared documents
 - [Florida](../locations/florida.md) - 6 shared documents
 - [Paris](../locations/paris.md) - 6 shared documents
-- [California](../locations/california.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [California](../locations/california.md) - 5 shared documents
 - [England](../locations/england.md) - 5 shared documents
+- [Palm Beach](../locations/palm-beach.md) - 5 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 9 shared documents
 - [annual](../events/annual.md) - 7 shared documents
 - [last year](../events/last-year.md) - 7 shared documents
-- [daily](../events/daily.md) - 6 shared documents
-- [August](../events/august.md) - 6 shared documents
-- [2011](../events/2011.md) - 6 shared documents
 - [1999](../events/1999.md) - 6 shared documents
+- [2011](../events/2011.md) - 6 shared documents
+- [August](../events/august.md) - 6 shared documents
+- [daily](../events/daily.md) - 6 shared documents
 - [tomorrow](../events/tomorrow.md) - 6 shared documents
 - [weekly](../events/weekly.md) - 6 shared documents
-- [2000](../events/2000.md) - 5 shared documents
+- [1976](../events/1976.md) - 5 shared documents
 
 ## Timeline
 

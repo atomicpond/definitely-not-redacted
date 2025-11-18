@@ -35,9 +35,9 @@ Top 6 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](house.md) - 5 shared documents
 - [Aug](aug.md) - 5 shared documents
 - [AVGO](avgo.md) - 5 shared documents
+- [HOUSE](house.md) - 5 shared documents
 
 **Locations:**
 
@@ -47,15 +47,15 @@ Top 6 documents by mention frequency:
 **Events:**
 
 - [August](../events/august.md) - 5 shared documents
-- [one day](../events/one-day.md) - 5 shared documents
-- [yesterday](../events/yesterday.md) - 5 shared documents
-- [months ago](../events/months-ago.md) - 5 shared documents
-- [Sept](../events/sept.md) - 5 shared documents
-- [the weekend](../events/the-weekend.md) - 5 shared documents
-- [many years](../events/many-years.md) - 5 shared documents
-- [the same month](../events/the-same-month.md) - 5 shared documents
 - [Friday, July 13, 2018](../events/friday-july-13-2018.md) - 5 shared documents
+- [many years](../events/many-years.md) - 5 shared documents
+- [months ago](../events/months-ago.md) - 5 shared documents
+- [one day](../events/one-day.md) - 5 shared documents
+- [Sept](../events/sept.md) - 5 shared documents
 - [Sept 200](../events/sept-200.md) - 5 shared documents
+- [the same month](../events/the-same-month.md) - 5 shared documents
+- [the weekend](../events/the-weekend.md) - 5 shared documents
+- [yesterday](../events/yesterday.md) - 5 shared documents
 
 ## Timeline
 

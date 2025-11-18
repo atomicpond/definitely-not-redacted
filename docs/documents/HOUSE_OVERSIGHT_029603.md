@@ -11,7 +11,7 @@
 ### People
 - [Cabot Professor](../entities/people/cabot-professor.md) - 2 mentions
 - [Powell M. Cabot](../entities/people/powell-m-cabot.md) - 2 mentions
-- [Ms. Williams](../entities/people/ms-williams.md) - 2 mentions
+- [Ms. Williams](../entities/people/williams.md) - 2 mentions
 - [Pulitzer Prize](../entities/people/pulitzer-prize.md) - 1 mention
 - [Herbie Hancock](../entities/people/herbie-hancock.md) - 1 mention
 - [Joe Biden](../entities/people/joe-biden.md) - 1 mention

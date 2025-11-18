@@ -33,11 +33,11 @@ Top 5 documents by mention frequency:
 - [2015](2015.md) - 5 shared documents
 - [2016](2016.md) - 5 shared documents
 - [2019](2019.md) - 5 shared documents
-- [2018](2018.md) - 4 shared documents
 - [2000](2000.md) - 4 shared documents
-- [2017](2017.md) - 4 shared documents
-- [2020](2020.md) - 4 shared documents
 - [2006](2006.md) - 4 shared documents
+- [2017](2017.md) - 4 shared documents
+- [2018](2018.md) - 4 shared documents
+- [2020](2020.md) - 4 shared documents
 
 ## Timeline
 

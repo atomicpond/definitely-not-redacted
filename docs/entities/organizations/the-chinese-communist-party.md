@@ -30,24 +30,24 @@ Top 5 documents by mention frequency:
 **Locations:**
 
 - [China](../locations/china.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 - [West](../locations/west.md) - 5 shared documents
-- [Middle East](../locations/middle-east.md) - 4 shared documents
 - [Africa](../locations/africa.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
+- [Beijing](../locations/beijing.md) - 4 shared documents
+- [Britain](../locations/britain.md) - 4 shared documents
 - [Iraq](../locations/iraq.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
 - [decades](../events/decades.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
+- [2002](../events/2002.md) - 4 shared documents
 - [2003](../events/2003.md) - 4 shared documents
 - [2004](../events/2004.md) - 4 shared documents
 - [2014](../events/2014.md) - 4 shared documents
-- [2002](../events/2002.md) - 4 shared documents
 - [the day](../events/the-day.md) - 4 shared documents
 
 ## Timeline

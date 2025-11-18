@@ -49,9 +49,9 @@ Top 10 documents by mention frequency:
 - [HOUSE](house.md) - 22 shared documents
 - [Trump](trump.md) - 20 shared documents
 - [Twitter](twitter.md) - 13 shared documents
-- [Congress](congress.md) - 13 shared documents
 - [AT&T](att.md) - 13 shared documents
 - [BlackBerry](blackberry.md) - 13 shared documents
+- [Congress](congress.md) - 13 shared documents
 - [the Republican Party](the-republican-party.md) - 12 shared documents
 - [Facebook](facebook.md) - 12 shared documents
 - [the European Parliament](the-european-parliament.md) - 11 shared documents
@@ -64,12 +64,12 @@ Dignitatis Humanae Institute](benjamin-harnwell-founder-and-president-of-the-boa
 - [Europe](../locations/europe.md) - 18 shared documents
 - [Pennsylvania](../locations/pennsylvania.md) - 16 shared documents
 - [Rome](../locations/rome.md) - 15 shared documents
-- [London](../locations/london.md) - 14 shared documents
 - [Italy](../locations/italy.md) - 14 shared documents
+- [London](../locations/london.md) - 14 shared documents
 - [USA](../locations/usa.md) - 13 shared documents
-- [New York](../locations/new-york.md) - 12 shared documents
 - [America](../locations/america.md) - 12 shared documents
 - [Cambridge](../locations/cambridge.md) - 12 shared documents
+- [New York](../locations/new-york.md) - 12 shared documents
 - [Brussels](../locations/brussels.md) - 11 shared documents
 
 **Events:**
@@ -77,8 +77,8 @@ Dignitatis Humanae Institute](benjamin-harnwell-founder-and-president-of-the-boa
 - [2016](../events/2016.md) - 17 shared documents
 - [Friday](../events/friday.md) - 15 shared documents
 - [2019](../events/2019.md) - 14 shared documents
-- [2014](../events/2014.md) - 13 shared documents
 - [1984](../events/1984.md) - 13 shared documents
+- [2014](../events/2014.md) - 13 shared documents
 - [2018-07-22](../events/2018-07-22.md) - 11 shared documents
 - [65](../events/65.md) - 11 shared documents
 - [July 22, 2018](../events/july-22-2018.md) - 11 shared documents

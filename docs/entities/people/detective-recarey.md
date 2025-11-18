@@ -39,37 +39,36 @@ Top 7 documents by mention frequency:
 - [Recarey](../organizations/recarey.md) - 7 shared documents
 - [the Palm Beach Police Department](../organizations/the-palm-beach-police-department.md) - 6 shared documents
 - [Court](../organizations/court.md) - 5 shared documents
-- [State](../organizations/state.md) - 5 shared documents
 - [Harvard](../organizations/harvard.md) - 5 shared documents
 - [Maxwell](../organizations/maxwell.md) - 5 shared documents
 - [Office](../organizations/office.md) - 5 shared documents
-- [Vanity Fair](../organizations/vanity-fair.md) - 5 shared documents
+- [State](../organizations/state.md) - 5 shared documents
 
 **Locations:**
 
 - [Florida](../locations/florida.md) - 7 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 7 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
 - [London](../locations/london.md) - 6 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 6 shared documents
-- [the United States](../locations/the-united-states.md) - 6 shared documents
 - [Miami](../locations/miami.md) - 6 shared documents
 - [New Mexico](../locations/new-mexico.md) - 6 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 6 shared documents
+- [the Southern District](../locations/the-southern-district.md) - 6 shared documents
+- [the United States](../locations/the-united-states.md) - 6 shared documents
+- [United States](../locations/united-states.md) - 6 shared documents
 - [New York](../locations/new-york.md) - 5 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 7 shared documents
 - [2005](../events/2005.md) - 7 shared documents
 - [2006](../events/2006.md) - 7 shared documents
 - [the day](../events/the-day.md) - 7 shared documents
-- [2004](../events/2004.md) - 6 shared documents
+- [today](../events/today.md) - 7 shared documents
 - [16](../events/16.md) - 6 shared documents
-- [Thursday](../events/thursday.md) - 5 shared documents
-- [Sunday](../events/sunday.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [March](../events/march.md) - 5 shared documents
+- [2004](../events/2004.md) - 6 shared documents
+- [14](../events/14.md) - 5 shared documents
+- [18](../events/18.md) - 5 shared documents
+- [1995](../events/1995.md) - 5 shared documents
+- [2002](../events/2002.md) - 5 shared documents
 
 ## Timeline
 

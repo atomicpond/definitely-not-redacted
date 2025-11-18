@@ -29,16 +29,17 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Mr. Obama](obama.md) - 20 shared documents
-- [CLINTON](clinton.md) - 13 shared documents
 - [George W. Bush](george-w-bush.md) - 13 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 11 shared documents
 - [Saddam Hussein](saddam-hussein.md) - 11 shared documents
 - [Barack Obama](barack-obama.md) - 11 shared documents
-- [President Obama](president-obama.md) - 9 shared documents
 - [Assad](assad.md) - 9 shared documents
 - [Jeffrey E](jeffrey-e.md) - 8 shared documents
 - [Middle East](middle-east.md) - 8 shared documents
+- [Mr. Mubarak](mubarak.md) - 8 shared documents
+- [New
+York](new-york.md) - 8 shared documents
+- [Reagan](reagan.md) - 8 shared documents
 
 **Organizations:**
 
@@ -47,7 +48,6 @@ Top 10 documents by mention frequency:
 - [Congress](../organizations/congress.md) - 10 shared documents
 - [State](../organizations/state.md) - 10 shared documents
 - [NYT](../organizations/nyt.md) - 9 shared documents
-- [Harvard](../organizations/harvard.md) - 8 shared documents
 
 **Locations:**
 
@@ -55,12 +55,12 @@ Top 10 documents by mention frequency:
 - [Iraq](../locations/iraq.md) - 17 shared documents
 - [the United States](../locations/the-united-states.md) - 17 shared documents
 - [New York](../locations/new-york.md) - 15 shared documents
-- [Syria](../locations/syria.md) - 13 shared documents
 - [Israel](../locations/israel.md) - 13 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 12 shared documents
+- [Syria](../locations/syria.md) - 13 shared documents
 - [China](../locations/china.md) - 12 shared documents
 - [Europe](../locations/europe.md) - 12 shared documents
-- [Russia](../locations/russia.md) - 12 shared documents
+- [Iran](../locations/iran.md) - 12 shared documents
+- [Libya](../locations/libya.md) - 12 shared documents
 
 **Events:**
 
@@ -72,8 +72,8 @@ Top 10 documents by mention frequency:
 - [2009](../events/2009.md) - 9 shared documents
 - [2011](../events/2011.md) - 9 shared documents
 - [the day](../events/the-day.md) - 9 shared documents
-- [the 1980s](../events/the-1980s.md) - 8 shared documents
-- [last week](../events/last-week.md) - 8 shared documents
+- [2005](../events/2005.md) - 8 shared documents
+- [2006](../events/2006.md) - 8 shared documents
 
 ## Timeline
 

@@ -29,12 +29,11 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Mr. Obama](obama.md) - 11 shared documents
-- [CLINTON](clinton.md) - 6 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 6 shared documents
 - [New
 York](new-york.md) - 5 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 5 shared documents
-- [Epstein](epstein.md) - 5 shared documents
 
 **Organizations:**
 
@@ -50,24 +49,24 @@ York](new-york.md) - 5 shared documents
 - [Canada](../locations/canada.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
 - [California](../locations/california.md) - 4 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
+- [England](../locations/england.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
-- [Syria](../locations/syria.md) - 4 shared documents
 - [Israel](../locations/israel.md) - 4 shared documents
+- [Quantico](../locations/quantico.md) - 4 shared documents
+- [Syria](../locations/syria.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 7 shared documents
 - [three years](../events/three-years.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
 - [2010](../events/2010.md) - 6 shared documents
 - [two years](../events/two-years.md) - 6 shared documents
-- [last year](../events/last-year.md) - 5 shared documents
-- [last month](../events/last-month.md) - 5 shared documents
 - [1981](../events/1981.md) - 5 shared documents
-- [October](../events/october.md) - 4 shared documents
-- [2007](../events/2007.md) - 4 shared documents
-- [2009](../events/2009.md) - 4 shared documents
+- [last month](../events/last-month.md) - 5 shared documents
+- [last year](../events/last-year.md) - 5 shared documents
+- [18 months](../events/18-months.md) - 4 shared documents
+- [1984](../events/1984.md) - 4 shared documents
+- [1991](../events/1991.md) - 4 shared documents
 
 ## Timeline
 

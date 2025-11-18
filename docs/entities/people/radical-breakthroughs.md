@@ -32,7 +32,7 @@ Top 10 documents by mention frequency:
 - [Robert Kuhn](robert-kuhn.md) - 12 shared documents
 - [Closer To Truth](closer-to-truth.md) - 12 shared documents
 - [Jeffrey E](jeffrey-e.md) - 11 shared documents
-- [jeffrey E. <](jeffrey-e.md) - 9 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 9 shared documents
 - [Robert Lawrence Kuhn](robert-lawrence-kuhn.md) - 8 shared documents
 - [Rare Sentience](rare-sentience.md) - 7 shared documents
 - [Replicability Crisis](replicability-crisis.md) - 7 shared documents
@@ -42,13 +42,17 @@ Top 10 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 11 shared documents
 - [Harvard](../organizations/harvard.md) - 11 shared documents
+- [HOUSE](../organizations/house.md) - 11 shared documents
 - [Skype](../organizations/skype.md) - 10 shared documents
 - [Trump](../organizations/trump.md) - 8 shared documents
-- [NYTimes](../organizations/nytimes.md) - 7 shared documents
-- [UN](../organizations/un.md) - 7 shared documents
 - [CNN Intl](../organizations/cnn-intl.md) - 7 shared documents
+- [Family](../organizations/family.md) - 7 shared documents
+- [Foundations of Mathematics / Philosophy/Meaning of Math](../organizations/foundations-of-mathematics-philosophymeaning-of-math.md) - 7 shared documents
+- [Mathematics and Truth / Overview / Show Excitement/Importance 
+2](../organizations/mathematics-and-truth-overview-show-excitementimportance-2.md) - 7 shared documents
+- [Modify Mathematical Breakthrough](../organizations/modify-mathematical-breakthrough.md) - 7 shared documents
+- [NYTimes](../organizations/nytimes.md) - 7 shared documents
 
 **Locations:**
 
@@ -59,15 +63,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [today](../events/today.md) - 8 shared documents
-- [2018](../events/2018.md) - 7 shared documents
+- [12:50 AM](../events/1250-am.md) - 7 shared documents
+- [1:45 AM](../events/145-am.md) - 7 shared documents
 - [2016](../events/2016.md) - 7 shared documents
 - [2017](../events/2017.md) - 7 shared documents
-- [May](../events/may.md) - 7 shared documents
-- [recent years](../events/recent-years.md) - 7 shared documents
-- [late-afternoon](../events/late-afternoon.md) - 7 shared documents
-- [This morning](../events/this-morning.md) - 7 shared documents
+- [2018](../events/2018.md) - 7 shared documents
+- [5:30 pm / early evening](../events/530-pm-early-evening.md) - 7 shared documents
+- [6:19 AM](../events/619-am.md) - 7 shared documents
+- [7:40 AM](../events/740-am.md) - 7 shared documents
 - [Dec 11, 2017](../events/dec-11-2017.md) - 7 shared documents
-- [12:50 AM](../events/1250-am.md) - 7 shared documents
 
 ## Timeline
 

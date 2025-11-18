@@ -46,19 +46,19 @@ Top 10 documents by mention frequency:
 - [the Secret Service](../organizations/the-secret-service.md) - 17 shared documents
 - [HOUSE](../organizations/house.md) - 15 shared documents
 - [State](../organizations/state.md) - 14 shared documents
-- [the White House](../organizations/the-white-house.md) - 11 shared documents
 - [Facebook](../organizations/facebook.md) - 11 shared documents
 - [ISIS](../organizations/isis.md) - 11 shared documents
+- [the White House](../organizations/the-white-house.md) - 11 shared documents
 
 **Locations:**
 
 - [Washington](../locations/washington.md) - 18 shared documents
-- [United States](../locations/united-states.md) - 16 shared documents
 - [the United States](../locations/the-united-states.md) - 16 shared documents
+- [United States](../locations/united-states.md) - 16 shared documents
 - [America](../locations/america.md) - 14 shared documents
-- [New York](../locations/new-york.md) - 13 shared documents
-- [London](../locations/london.md) - 13 shared documents
 - [Florida](../locations/florida.md) - 13 shared documents
+- [London](../locations/london.md) - 13 shared documents
+- [New York](../locations/new-york.md) - 13 shared documents
 - [Virginia](../locations/virginia.md) - 13 shared documents
 - [Manhattan](../locations/manhattan.md) - 12 shared documents
 - [Miami](../locations/miami.md) - 12 shared documents
@@ -66,15 +66,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [2011](../events/2011.md) - 17 shared documents
-- [2014](../events/2014.md) - 14 shared documents
 - [2008](../events/2008.md) - 14 shared documents
 - [2010](../events/2010.md) - 14 shared documents
-- [today](../events/today.md) - 13 shared documents
+- [2014](../events/2014.md) - 14 shared documents
 - [14](../events/14.md) - 13 shared documents
 - [the day](../events/the-day.md) - 13 shared documents
+- [today](../events/today.md) - 13 shared documents
+- [1999](../events/1999.md) - 12 shared documents
 - [2004](../events/2004.md) - 12 shared documents
-- [2007](../events/2007.md) - 12 shared documents
-- [2012](../events/2012.md) - 12 shared documents
+- [2006](../events/2006.md) - 12 shared documents
 
 ## Timeline
 

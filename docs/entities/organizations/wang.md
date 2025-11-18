@@ -46,29 +46,28 @@ Top 9 documents by mention frequency:
 
 **Locations:**
 
+- [Boston](../locations/boston.md) - 8 shared documents
+- [Cambridge](../locations/cambridge.md) - 8 shared documents
 - [Earth](../locations/earth.md) - 8 shared documents
-- [USA](../locations/usa.md) - 8 shared documents
-- [Russia](../locations/russia.md) - 8 shared documents
 - [Germany](../locations/germany.md) - 8 shared documents
 - [Iraq](../locations/iraq.md) - 8 shared documents
+- [Russia](../locations/russia.md) - 8 shared documents
 - [the United States](../locations/the-united-states.md) - 8 shared documents
-- [Cambridge](../locations/cambridge.md) - 8 shared documents
-- [Boston](../locations/boston.md) - 8 shared documents
+- [USA](../locations/usa.md) - 8 shared documents
 - [West](../locations/west.md) - 8 shared documents
-- [California](../locations/california.md) - 7 shared documents
 
 **Events:**
 
 - [2001](../events/2001.md) - 9 shared documents
-- [2003](../events/2003.md) - 8 shared documents
-- [today](../events/today.md) - 8 shared documents
-- [2000](../events/2000.md) - 8 shared documents
-- [years](../events/years.md) - 8 shared documents
+- [1980](../events/1980.md) - 8 shared documents
+- [1989](../events/1989.md) - 8 shared documents
 - [1990](../events/1990.md) - 8 shared documents
+- [1995](../events/1995.md) - 8 shared documents
 - [1997](../events/1997.md) - 8 shared documents
 - [1999](../events/1999.md) - 8 shared documents
+- [2000](../events/2000.md) - 8 shared documents
 - [2002](../events/2002.md) - 8 shared documents
-- [1989](../events/1989.md) - 8 shared documents
+- [2003](../events/2003.md) - 8 shared documents
 
 ## Timeline
 

@@ -38,10 +38,10 @@ York](new-york.md) - 5 shared documents
 
 **Events:**
 
-- [Wednesday](../events/wednesday.md) - 4 shared documents
-- [last year](../events/last-year.md) - 4 shared documents
-- [2008](../events/2008.md) - 4 shared documents
 - [2002](../events/2002.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
+- [last year](../events/last-year.md) - 4 shared documents
+- [Wednesday](../events/wednesday.md) - 4 shared documents
 
 ## Timeline
 

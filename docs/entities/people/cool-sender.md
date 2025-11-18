@@ -52,15 +52,15 @@ Entry](source-entry.md) - 5 shared documents
 - [China](../locations/china.md) - 6 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 6 shared documents
 - [New York](../locations/new-york.md) - 5 shared documents
-- [Paris](../locations/paris.md) - 5 shared documents
 - [N.Y.](../locations/ny.md) - 5 shared documents
+- [Paris](../locations/paris.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
 
 **Events:**
 
 - [tomorrow](../events/tomorrow.md) - 7 shared documents
-- [today](../events/today.md) - 5 shared documents
 - [Sunday](../events/sunday.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [yesterday](../events/yesterday.md) - 4 shared documents
 
 ## Timeline

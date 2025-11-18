@@ -29,9 +29,8 @@ Top 8 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Angela Merkel](../people/angela-merkel.md) - 5 shared documents
-- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Cold War](../people/cold-war.md) - 5 shared documents
 - [Middle East](../people/middle-east.md) - 5 shared documents
 - [San Francisco](../people/san-francisco.md) - 5 shared documents
@@ -39,6 +38,7 @@ Top 8 documents by mention frequency:
 - [Vietnam War](../people/vietnam-war.md) - 5 shared documents
 - [White House](../people/white-house.md) - 5 shared documents
 - [District Court](../people/district-court.md) - 4 shared documents
+- [Nicolas Sarkozy](../people/nicolas-sarkozy.md) - 4 shared documents
 
 **Organizations:**
 
@@ -55,29 +55,27 @@ Top 8 documents by mention frequency:
 
 **Locations:**
 
-- [Russia](../locations/russia.md) - 8 shared documents
-- [Germany](../locations/germany.md) - 8 shared documents
 - [America](../locations/america.md) - 8 shared documents
 - [Britain](../locations/britain.md) - 8 shared documents
+- [Germany](../locations/germany.md) - 8 shared documents
+- [Russia](../locations/russia.md) - 8 shared documents
 - [China](../locations/china.md) - 7 shared documents
 - [France](../locations/france.md) - 6 shared documents
 - [Israel](../locations/israel.md) - 6 shared documents
 - [Moscow](../locations/moscow.md) - 6 shared documents
-- [California](../locations/california.md) - 5 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
 
 **Events:**
 
 - [December](../events/december.md) - 8 shared documents
 - [2014](../events/2014.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
 - [June](../events/june.md) - 6 shared documents
-- [October](../events/october.md) - 5 shared documents
+- [today](../events/today.md) - 6 shared documents
+- [1952](../events/1952.md) - 5 shared documents
+- [1981](../events/1981.md) - 5 shared documents
+- [1994](../events/1994.md) - 5 shared documents
+- [1996](../events/1996.md) - 5 shared documents
 - [2007](../events/2007.md) - 5 shared documents
-- [A few days later](../events/a-few-days-later.md) - 5 shared documents
-- [annual](../events/annual.md) - 5 shared documents
-- [six months](../events/six-months.md) - 5 shared documents
-- [Thursday](../events/thursday.md) - 5 shared documents
+- [a few days](../events/a-few-days.md) - 5 shared documents
 
 ## Timeline
 

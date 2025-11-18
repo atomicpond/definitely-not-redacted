@@ -36,27 +36,27 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Middle East](../locations/middle-east.md) - 5 shared documents
+- [Britain](../locations/britain.md) - 5 shared documents
 - [China](../locations/china.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
 - [Iraq](../locations/iraq.md) - 5 shared documents
+- [Middle East](../locations/middle-east.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [Britain](../locations/britain.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 - [West](../locations/west.md) - 5 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
+- [Cairo](../locations/cairo.md) - 4 shared documents
+- [Egypt](../locations/egypt.md) - 4 shared documents
 
 **Events:**
 
 - [2009](../events/2009.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
-- [2006](../events/2006.md) - 4 shared documents
-- [three years](../events/three-years.md) - 4 shared documents
-- [two years](../events/two-years.md) - 4 shared documents
 - [1979](../events/1979.md) - 4 shared documents
+- [2003](../events/2003.md) - 4 shared documents
+- [2006](../events/2006.md) - 4 shared documents
+- [this year](../events/this-year.md) - 4 shared documents
+- [three years](../events/three-years.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
+- [two years](../events/two-years.md) - 4 shared documents
 
 ## Timeline
 

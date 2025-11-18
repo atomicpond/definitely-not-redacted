@@ -56,8 +56,8 @@ Top 10 documents by mention frequency:
 - [West Palm Beach](west-palm-beach.md) - 9 shared documents
 - [California](california.md) - 9 shared documents
 - [Los Angeles](los-angeles.md) - 8 shared documents
-- [Ohio](ohio.md) - 8 shared documents
 - [Miami](miami.md) - 8 shared documents
+- [Ohio](ohio.md) - 8 shared documents
 - [Palm Beach](palm-beach.md) - 7 shared documents
 - [Palm Beach, FL](palm-beach-fl.md) - 7 shared documents
 - [Palm Beach County](palm-beach-county.md) - 7 shared documents
@@ -66,12 +66,12 @@ Top 10 documents by mention frequency:
 
 - [Friday](../events/friday.md) - 13 shared documents
 - [today](../events/today.md) - 11 shared documents
-- [2007](../events/2007.md) - 9 shared documents
-- [Thursday](../events/thursday.md) - 9 shared documents
-- [this week](../events/this-week.md) - 9 shared documents
 - [1990](../events/1990.md) - 9 shared documents
 - [2001](../events/2001.md) - 9 shared documents
+- [2007](../events/2007.md) - 9 shared documents
 - [2008](../events/2008.md) - 9 shared documents
+- [this week](../events/this-week.md) - 9 shared documents
+- [Thursday](../events/thursday.md) - 9 shared documents
 - [2014](../events/2014.md) - 8 shared documents
 - [last year](../events/last-year.md) - 8 shared documents
 

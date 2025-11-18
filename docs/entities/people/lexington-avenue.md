@@ -38,10 +38,10 @@ New](floor-new.md) - 71 shared documents
 - [Richard Kahn 
 Sent](richard-kahn-sent.md) - 15 shared documents
 - [Jeffrey E](jeffrey-e.md) - 15 shared documents
-- [Mr. 
-Trump](trump.md) - 13 shared documents
 - [Darren Indyke](darren-indyke.md) - 11 shared documents
 - [DARREN K. INDYKE](darren-k-indyke.md) - 11 shared documents
+- [New
+York](new-york.md) - 10 shared documents
 
 **Organizations:**
 
@@ -73,8 +73,8 @@ New York, NY](../locations/floor-new-york-ny.md) - 66 shared documents
 - [2017](../events/2017.md) - 8 shared documents
 - [today](../events/today.md) - 7 shared documents
 - [this year](../events/this-year.md) - 5 shared documents
-- [2018](../events/2018.md) - 4 shared documents
 - [2016](../events/2016.md) - 4 shared documents
+- [2018](../events/2018.md) - 4 shared documents
 
 ## Timeline
 

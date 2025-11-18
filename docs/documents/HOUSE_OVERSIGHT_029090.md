@@ -14,7 +14,7 @@
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
 - [jeffrey E. <](../entities/people/jeffrey-e.md) - 1 mention
 - [Jeffrey](../entities/people/jeffrey.md) - 1 mention
-- [Mr. Thiel](../entities/people/mr-thiel.md) - 1 mention
+- [Mr. Thiel](../entities/people/thiel.md) - 1 mention
 
 ### Organizations
 - [HOUSE](../entities/organizations/house.md) - 1 mention

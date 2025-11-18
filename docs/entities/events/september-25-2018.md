@@ -54,7 +54,7 @@ Subject](../people/reid-subject.md) - 5 shared documents
 - [Wednesday, October 3, 2018](wednesday-october-3-2018.md) - 5 shared documents
 - [20 years](20-years.md) - 5 shared documents
 - [3 year old](3-year-old.md) - 5 shared documents
-- [October 3, 2018](october-3-2018.md) - 5 shared documents
+- [age 8](age-8.md) - 5 shared documents
 
 ## Timeline
 

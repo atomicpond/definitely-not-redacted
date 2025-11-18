@@ -11,7 +11,7 @@
 ### People
 - [Michael Wolff](../entities/people/michael-wolff.md) - 1 mention
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 1 mention
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 1 mention
 - [Harvey](../entities/people/harvey.md) - 1 mention
 - [jeffrey E. <](../entities/people/jeffrey-e.md) - 1 mention
 - [Ronan](../entities/people/ronan.md) - 1 mention

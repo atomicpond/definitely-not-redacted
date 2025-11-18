@@ -63,14 +63,14 @@ Top 10 documents by mention frequency:
 
 - [two years](two-years.md) - 12 shared documents
 - [Sunday](sunday.md) - 11 shared documents
-- [2002](2002.md) - 10 shared documents
 - [1953](1953.md) - 10 shared documents
+- [2002](2002.md) - 10 shared documents
 - [September](september.md) - 9 shared documents
 - [the next day](the-next-day.md) - 9 shared documents
-- [2004](2004.md) - 9 shared documents
-- [2008](2008.md) - 9 shared documents
 - [1982](1982.md) - 9 shared documents
 - [1994](1994.md) - 9 shared documents
+- [2004](2004.md) - 9 shared documents
+- [2008](2008.md) - 9 shared documents
 
 ## Timeline
 

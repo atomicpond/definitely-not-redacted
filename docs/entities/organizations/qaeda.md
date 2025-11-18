@@ -24,19 +24,19 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [Congress](congress.md) - 4 shared documents
 - [CIA](cia.md) - 4 shared documents
+- [Congress](congress.md) - 4 shared documents
 
 **Locations:**
 
 - [Washington](../locations/washington.md) - 5 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
 - [Iran](../locations/iran.md) - 4 shared documents
 - [Iraq](../locations/iraq.md) - 4 shared documents
 - [Pakistan](../locations/pakistan.md) - 4 shared documents
 - [the United States](../locations/the-united-states.md) - 4 shared documents
 - [Turkey](../locations/turkey.md) - 4 shared documents
-- [Afghanistan](../locations/afghanistan.md) - 4 shared documents
 
 **Events:**
 

@@ -29,16 +29,16 @@ Top 4 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](house.md) - 4 shared documents
 - [Arizona State University](arizona-state-university.md) - 4 shared documents
 - [ASU](asu.md) - 4 shared documents
+- [HOUSE](house.md) - 4 shared documents
 
 **Locations:**
 
-- [Tempe](../locations/tempe.md) - 4 shared documents
+- [Australia](../locations/australia.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
 - [Germany](../locations/germany.md) - 4 shared documents
-- [Australia](../locations/australia.md) - 4 shared documents
+- [Tempe](../locations/tempe.md) - 4 shared documents
 
 **Events:**
 

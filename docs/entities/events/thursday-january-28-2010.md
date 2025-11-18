@@ -30,7 +30,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 11 shared documents
-- [andrew](../people/andrew.md) - 10 shared documents
 - [Bill 
 Clinton](../people/bill-clinton.md) - 10 shared documents
 - [Boris Nikolic](../people/boris-nikolic.md) - 10 shared documents

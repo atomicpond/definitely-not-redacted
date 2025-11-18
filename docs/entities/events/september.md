@@ -59,14 +59,14 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [today](today.md) - 43 shared documents
-- [2009](2009.md) - 37 shared documents
 - [2008](2008.md) - 37 shared documents
+- [2009](2009.md) - 37 shared documents
 - [this year](this-year.md) - 34 shared documents
 - [Sunday](sunday.md) - 33 shared documents
 - [the day](the-day.md) - 33 shared documents
 - [years](years.md) - 32 shared documents
-- [daily](daily.md) - 32 shared documents
 - [2006](2006.md) - 32 shared documents
+- [daily](daily.md) - 32 shared documents
 - [Friday](friday.md) - 31 shared documents
 
 ## Timeline

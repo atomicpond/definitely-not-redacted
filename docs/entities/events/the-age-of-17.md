@@ -54,14 +54,14 @@ Top 10 documents by mention frequency:
 
 - [2005](2005.md) - 8 shared documents
 - [2000](2000.md) - 7 shared documents
-- [last week](last-week.md) - 7 shared documents
 - [2002](2002.md) - 7 shared documents
 - [every day](every-day.md) - 7 shared documents
+- [last week](last-week.md) - 7 shared documents
 - [the day](the-day.md) - 6 shared documents
 - [this week](this-week.md) - 6 shared documents
 - [2003](2003.md) - 6 shared documents
+- [2006](2006.md) - 6 shared documents
 - [2007](2007.md) - 6 shared documents
-- [2011](2011.md) - 6 shared documents
 
 ## Timeline
 

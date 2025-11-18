@@ -56,10 +56,10 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [Japan](../locations/japan.md) - 29 shared documents
-- [Canada](../locations/canada.md) - 28 shared documents
 - [Asia](../locations/asia.md) - 28 shared documents
-- [Brazil](../locations/brazil.md) - 27 shared documents
+- [Canada](../locations/canada.md) - 28 shared documents
 - [Australia](../locations/australia.md) - 27 shared documents
+- [Brazil](../locations/brazil.md) - 27 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 27 shared documents
 - [Dubai](../locations/dubai.md) - 26 shared documents
 - [Germany](../locations/germany.md) - 26 shared documents

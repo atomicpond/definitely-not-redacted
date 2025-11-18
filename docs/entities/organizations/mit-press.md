@@ -51,34 +51,35 @@ Top 10 documents by mention frequency:
 - [Yale University](yale-university.md) - 8 shared documents
 - [Harvard](harvard.md) - 8 shared documents
 - [Princeton University Press](princeton-university-press.md) - 7 shared documents
-- [Cambridge University](cambridge-university.md) - 7 shared documents
 - [University Press](university-press.md) - 6 shared documents
 - [Yale University Press](yale-university-press.md) - 6 shared documents
+- [Stanford](stanford.md) - 5 shared documents
 
 **Locations:**
 
-- [Iraq](../locations/iraq.md) - 8 shared documents
-- [Cambridge](../locations/cambridge.md) - 8 shared documents
 - [Boston](../locations/boston.md) - 8 shared documents
-- [London](../locations/london.md) - 7 shared documents
-- [France](../locations/france.md) - 7 shared documents
-- [the United States](../locations/the-united-states.md) - 7 shared documents
+- [Cambridge](../locations/cambridge.md) - 8 shared documents
+- [Iraq](../locations/iraq.md) - 8 shared documents
 - [Chicago](../locations/chicago.md) - 7 shared documents
+- [France](../locations/france.md) - 7 shared documents
+- [London](../locations/london.md) - 7 shared documents
 - [Oxford](../locations/oxford.md) - 7 shared documents
 - [Spain](../locations/spain.md) - 7 shared documents
+- [the United States](../locations/the-united-states.md) - 7 shared documents
+- [West](../locations/west.md) - 7 shared documents
 
 **Events:**
 
-- [2002](../events/2002.md) - 10 shared documents
 - [1995](../events/1995.md) - 10 shared documents
+- [2002](../events/2002.md) - 10 shared documents
+- [1997](../events/1997.md) - 9 shared documents
 - [2000](../events/2000.md) - 9 shared documents
 - [years](../events/years.md) - 9 shared documents
-- [1997](../events/1997.md) - 9 shared documents
-- [2003](../events/2003.md) - 8 shared documents
-- [2004](../events/2004.md) - 8 shared documents
-- [2007](../events/2007.md) - 8 shared documents
-- [2009](../events/2009.md) - 8 shared documents
-- [today](../events/today.md) - 8 shared documents
+- [1973](../events/1973.md) - 8 shared documents
+- [1980](../events/1980.md) - 8 shared documents
+- [1996](../events/1996.md) - 8 shared documents
+- [1999](../events/1999.md) - 8 shared documents
+- [2001](../events/2001.md) - 8 shared documents
 
 ## Timeline
 

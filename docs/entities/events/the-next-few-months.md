@@ -38,11 +38,11 @@ Top 8 documents by mention frequency:
 **Events:**
 
 - [many years](many-years.md) - 7 shared documents
-- [the end of the year](the-end-of-the-year.md) - 5 shared documents
 - [the coming months](the-coming-months.md) - 5 shared documents
+- [the end of the year](the-end-of-the-year.md) - 5 shared documents
+- [December 2016](december-2016.md) - 4 shared documents
 - [next year](next-year.md) - 4 shared documents
 - [the end of 2017](the-end-of-2017.md) - 4 shared documents
-- [December 2016](december-2016.md) - 4 shared documents
 
 ## Timeline
 

@@ -32,8 +32,8 @@ Top 9 documents by mention frequency:
 
 **Organizations:**
 
-- [Facebook](facebook.md) - 4 shared documents
 - [Apple](apple.md) - 4 shared documents
+- [Facebook](facebook.md) - 4 shared documents
 
 **Locations:**
 

@@ -29,7 +29,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Trump](president-trump.md) - 5 shared documents
 - [Leslie Wexner](leslie-wexner.md) - 4 shared documents
 - [New
 York](new-york.md) - 4 shared documents
@@ -42,35 +41,32 @@ York](new-york.md) - 4 shared documents
 - [HOUSE](../organizations/house.md) - 9 shared documents
 - [FBI](../organizations/fbi.md) - 7 shared documents
 - [Trump](../organizations/trump.md) - 6 shared documents
-- [Congress](../organizations/congress.md) - 5 shared documents
-- [the Justice Department](../organizations/the-justice-department.md) - 5 shared documents
-- [the New York Times](../organizations/the-new-york-times.md) - 5 shared documents
 
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 8 shared documents
-- [New York](../locations/new-york.md) - 7 shared documents
 - [London](../locations/london.md) - 7 shared documents
-- [New York City](../locations/new-york-city.md) - 7 shared documents
 - [Miami](../locations/miami.md) - 7 shared documents
-- [Paris](../locations/paris.md) - 7 shared documents
+- [New York](../locations/new-york.md) - 7 shared documents
+- [New York City](../locations/new-york-city.md) - 7 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 7 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
+- [Paris](../locations/paris.md) - 7 shared documents
+- [America](../locations/america.md) - 6 shared documents
 - [Europe](../locations/europe.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
+- [Florida](../locations/florida.md) - 6 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 7 shared documents
-- [2011](../events/2011.md) - 7 shared documents
 - [2010](../events/2010.md) - 7 shared documents
+- [2011](../events/2011.md) - 7 shared documents
 - [one year](../events/one-year.md) - 7 shared documents
-- [annual](../events/annual.md) - 6 shared documents
-- [Wednesday](../events/wednesday.md) - 6 shared documents
+- [today](../events/today.md) - 7 shared documents
 - [1996](../events/1996.md) - 6 shared documents
-- [2017](../events/2017.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
 - [2005](../events/2005.md) - 6 shared documents
+- [2008](../events/2008.md) - 6 shared documents
+- [2017](../events/2017.md) - 6 shared documents
+- [annual](../events/annual.md) - 6 shared documents
+- [September](../events/september.md) - 6 shared documents
 
 ## Timeline
 

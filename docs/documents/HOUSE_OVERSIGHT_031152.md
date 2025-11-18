@@ -12,7 +12,7 @@
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 10 mentions
 - [Reid](../entities/people/reid.md) - 10 mentions
 - [Weingarten](../entities/people/weingarten.md) - 10 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 
 ### Organizations
 - [HOUSE](../entities/organizations/house.md) - 5 mentions

@@ -27,7 +27,7 @@ Clinton](../entities/people/bill-clinton.md) - 3 mentions
 - [President Clinton](../entities/people/president-clinton.md) - 1 mention
 - [Justice 
 Department](../entities/people/justice-department.md) - 1 mention
-- [Ms. Ruemmler](../entities/people/ms-ruemmler.md) - 1 mention
+- [Ms. Ruemmler](../entities/people/kathy-ruemmler.md) - 1 mention
 
 ### Organizations
 - [White House Counsel](../entities/organizations/white-house-counsel.md) - 2 mentions

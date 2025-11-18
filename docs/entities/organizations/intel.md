@@ -47,25 +47,25 @@ Top 10 documents by mention frequency:
 - [China](../locations/china.md) - 7 shared documents
 - [Germany](../locations/germany.md) - 7 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 7 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
+- [America](../locations/america.md) - 6 shared documents
 - [Europe](../locations/europe.md) - 6 shared documents
 - [Japan](../locations/japan.md) - 6 shared documents
 - [Mexico](../locations/mexico.md) - 6 shared documents
-- [America](../locations/america.md) - 6 shared documents
+- [Paris](../locations/paris.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 6 shared documents
 
 **Events:**
 
 - [2004](../events/2004.md) - 7 shared documents
 - [today](../events/today.md) - 7 shared documents
-- [Thursday](../events/thursday.md) - 6 shared documents
-- [daily](../events/daily.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
 - [2013](../events/2013.md) - 6 shared documents
-- [two years](../events/two-years.md) - 6 shared documents
+- [daily](../events/daily.md) - 6 shared documents
 - [the day](../events/the-day.md) - 6 shared documents
-- [2003](../events/2003.md) - 5 shared documents
-- [2018](../events/2018.md) - 5 shared documents
+- [Thursday](../events/thursday.md) - 6 shared documents
+- [two years](../events/two-years.md) - 6 shared documents
+- [years](../events/years.md) - 6 shared documents
+- [1990](../events/1990.md) - 5 shared documents
+- [2001](../events/2001.md) - 5 shared documents
 
 ## Timeline
 

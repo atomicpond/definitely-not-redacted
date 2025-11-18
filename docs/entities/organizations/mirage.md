@@ -31,7 +31,6 @@ Top 8 documents by mention frequency:
 - [Barack Obama](../people/barack-obama.md) - 4 shared documents
 - [Middle East](../people/middle-east.md) - 4 shared documents
 - [Middle Eastern](../people/middle-eastern.md) - 4 shared documents
-- [President Obama](../people/president-obama.md) - 4 shared documents
 - [Security Council](../people/security-council.md) - 4 shared documents
 
 **Organizations:**
@@ -40,34 +39,32 @@ Top 8 documents by mention frequency:
 - [Harvard](harvard.md) - 5 shared documents
 - [NATO](nato.md) - 4 shared documents
 - [United Nations](united-nations.md) - 4 shared documents
-- [al-Qaeda](al-qaeda.md) - 4 shared documents
-- [Benghazi](benghazi.md) - 4 shared documents
 
 **Locations:**
 
-- [Russia](../locations/russia.md) - 7 shared documents
 - [Germany](../locations/germany.md) - 7 shared documents
+- [Russia](../locations/russia.md) - 7 shared documents
 - [Asia](../locations/asia.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Aspen](../locations/aspen.md) - 5 shared documents
 - [Italy](../locations/italy.md) - 5 shared documents
 - [Paris](../locations/paris.md) - 5 shared documents
-- [Aspen](../locations/aspen.md) - 5 shared documents
-- [Middle East](../locations/middle-east.md) - 4 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
-- [China](../locations/china.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Britain](../locations/britain.md) - 4 shared documents
+- [Cairo](../locations/cairo.md) - 4 shared documents
+- [Canada](../locations/canada.md) - 4 shared documents
 
 **Events:**
 
 - [the day](../events/the-day.md) - 7 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [the next few years](../events/the-next-few-years.md) - 5 shared documents
 - [the days ahead](../events/the-days-ahead.md) - 5 shared documents
+- [the next few years](../events/the-next-few-years.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
+- [1981](../events/1981.md) - 4 shared documents
 - [1986](../events/1986.md) - 4 shared documents
+- [1987](../events/1987.md) - 4 shared documents
 - [2003](../events/2003.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
-- [one day](../events/one-day.md) - 4 shared documents
 - [a year](../events/a-year.md) - 4 shared documents
+- [annual](../events/annual.md) - 4 shared documents
 
 ## Timeline
 

@@ -31,7 +31,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 19 shared documents
-- [President Obama](../people/president-obama.md) - 19 shared documents
 - [San Francisco](../people/san-francisco.md) - 18 shared documents
 
 **Organizations:**
@@ -44,6 +43,7 @@ Top 10 documents by mention frequency:
 - [Harvard](../organizations/harvard.md) - 18 shared documents
 - [Trump](../organizations/trump.md) - 18 shared documents
 - [Bloomberg](../organizations/bloomberg.md) - 17 shared documents
+- [the New York Times](../organizations/the-new-york-times.md) - 17 shared documents
 
 **Locations:**
 
@@ -66,8 +66,8 @@ Top 10 documents by mention frequency:
 - [2000](2000.md) - 25 shared documents
 - [2001](2001.md) - 24 shared documents
 - [the day](the-day.md) - 24 shared documents
-- [this year](this-year.md) - 23 shared documents
 - [Friday](friday.md) - 23 shared documents
+- [this year](this-year.md) - 23 shared documents
 - [years](years.md) - 22 shared documents
 - [monthly](monthly.md) - 22 shared documents
 

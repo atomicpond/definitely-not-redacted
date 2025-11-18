@@ -31,7 +31,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 12 shared documents
 - [Middle East](../people/middle-east.md) - 12 shared documents
 - [White House](../people/white-house.md) - 11 shared documents
 
@@ -58,9 +57,9 @@ Top 10 documents by mention frequency:
 - [today](today.md) - 16 shared documents
 - [years](years.md) - 16 shared documents
 - [daily](daily.md) - 16 shared documents
-- [months](months.md) - 14 shared documents
 - [1981](1981.md) - 14 shared documents
 - [decades](decades.md) - 14 shared documents
+- [months](months.md) - 14 shared documents
 - [weeks](weeks.md) - 13 shared documents
 - [Friday](friday.md) - 13 shared documents
 - [the next day](the-next-day.md) - 12 shared documents

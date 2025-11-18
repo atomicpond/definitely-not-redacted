@@ -36,39 +36,36 @@ Top 9 documents by mention frequency:
 
 - [EM](../organizations/em.md) - 7 shared documents
 - [JPMorgan Chase & Co](../organizations/jpmorgan-chase-co.md) - 6 shared documents
-- [Fed](../organizations/fed.md) - 5 shared documents
 - [ECB](../organizations/ecb.md) - 5 shared documents
+- [Fed](../organizations/fed.md) - 5 shared documents
 - [GMOS](../organizations/gmos.md) - 5 shared documents
 - [QE](../organizations/qe.md) - 5 shared documents
-- [BoJ](../organizations/boj.md) - 4 shared documents
-- [EUR](../organizations/eur.md) - 4 shared documents
-- [NYSE](../organizations/nyse.md) - 4 shared documents
 
 **Locations:**
 
 - [US](../locations/us.md) - 9 shared documents
 - [China](../locations/china.md) - 8 shared documents
 - [Europe](../locations/europe.md) - 8 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [Mexico](../locations/mexico.md) - 5 shared documents
 - [Asia](../locations/asia.md) - 5 shared documents
-- [Spain](../locations/spain.md) - 5 shared documents
-- [Malaysia](../locations/malaysia.md) - 5 shared documents
 - [EUR](../locations/eur.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
+- [Malaysia](../locations/malaysia.md) - 5 shared documents
+- [Mexico](../locations/mexico.md) - 5 shared documents
+- [Spain](../locations/spain.md) - 5 shared documents
 - [U.K.](../locations/uk.md) - 5 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 9 shared documents
+- [2013](../events/2013.md) - 6 shared documents
 - [this week](../events/this-week.md) - 6 shared documents
 - [this year](../events/this-year.md) - 6 shared documents
-- [2013](../events/2013.md) - 6 shared documents
+- [7134-1816](../events/7134-1816.md) - 5 shared documents
+- [7134-7813](../events/7134-7813.md) - 5 shared documents
+- [December](../events/december.md) - 5 shared documents
+- [last week’s](../events/last-weeks.md) - 5 shared documents
 - [last year](../events/last-year.md) - 5 shared documents
 - [the year](../events/the-year.md) - 5 shared documents
-- [December](../events/december.md) - 5 shared documents
-- [yesterday](../events/yesterday.md) - 5 shared documents
-- [week](../events/week.md) - 5 shared documents
-- [last week’s](../events/last-weeks.md) - 5 shared documents
 
 ## Timeline
 

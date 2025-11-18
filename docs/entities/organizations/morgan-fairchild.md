@@ -48,31 +48,18 @@ Top 5 documents by mention frequency:
 - [Politico](politico.md) - 5 shared documents
 - [Ponzi](ponzi.md) - 5 shared documents
 
-**Locations:**
-
-- [Europe](../locations/europe.md) - 5 shared documents
-- [America](../locations/america.md) - 5 shared documents
-- [Qatar](../locations/qatar.md) - 5 shared documents
-- [Manhattan](../locations/manhattan.md) - 5 shared documents
-- [Queens](../locations/queens.md) - 5 shared documents
-- [Caribbean](../locations/caribbean.md) - 5 shared documents
-- [Dallas](../locations/dallas.md) - 5 shared documents
-- [Israel](../locations/israel.md) - 5 shared documents
-- [Paris](../locations/paris.md) - 5 shared documents
-- [Mail](../locations/mail.md) - 5 shared documents
-
 **Events:**
 
-- [2004](../events/2004.md) - 5 shared documents
-- [2014](../events/2014.md) - 5 shared documents
-- [a day](../events/a-day.md) - 5 shared documents
-- [the 1980s](../events/the-1980s.md) - 5 shared documents
-- [daily](../events/daily.md) - 5 shared documents
-- [last year](../events/last-year.md) - 5 shared documents
-- [Sunday](../events/sunday.md) - 5 shared documents
 - [10-year](../events/10-year.md) - 5 shared documents
-- [Saturday](../events/saturday.md) - 5 shared documents
+- [18](../events/18.md) - 5 shared documents
+- [18 months](../events/18-months.md) - 5 shared documents
+- [1953](../events/1953.md) - 5 shared documents
 - [1974](../events/1974.md) - 5 shared documents
+- [1976](../events/1976.md) - 5 shared documents
+- [1980](../events/1980.md) - 5 shared documents
+- [1982](../events/1982.md) - 5 shared documents
+- [1994](../events/1994.md) - 5 shared documents
+- [2002](../events/2002.md) - 5 shared documents
 
 ## Timeline
 

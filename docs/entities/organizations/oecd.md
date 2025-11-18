@@ -31,7 +31,6 @@ Top 10 documents by mention frequency:
 
 - [Central Bank](../people/central-bank.md) - 8 shared documents
 - [Harvard University](../people/harvard-university.md) - 8 shared documents
-- [President Obama](../people/president-obama.md) - 8 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 8 shared documents
 - [Asia Pacific](../people/asia-pacific.md) - 7 shared documents
 - [Columbia University](../people/columbia-university.md) - 7 shared documents
@@ -39,6 +38,7 @@ Top 10 documents by mention frequency:
 - [Federal Reserve](../people/federal-reserve.md) - 7 shared documents
 - [Middle East](../people/middle-east.md) - 7 shared documents
 - [White House](../people/white-house.md) - 7 shared documents
+- [Census Bureau](../people/census-bureau.md) - 6 shared documents
 
 **Organizations:**
 
@@ -70,13 +70,13 @@ Top 10 documents by mention frequency:
 
 - [2012](../events/2012.md) - 19 shared documents
 - [2000](../events/2000.md) - 15 shared documents
-- [the year](../events/the-year.md) - 15 shared documents
 - [2013](../events/2013.md) - 15 shared documents
+- [the year](../events/the-year.md) - 15 shared documents
+- [2001](../events/2001.md) - 14 shared documents
 - [2015](../events/2015.md) - 14 shared documents
 - [annual](../events/annual.md) - 14 shared documents
-- [today](../events/today.md) - 14 shared documents
-- [2001](../events/2001.md) - 14 shared documents
 - [recent years](../events/recent-years.md) - 14 shared documents
+- [today](../events/today.md) - 14 shared documents
 - [2003](../events/2003.md) - 13 shared documents
 
 ## Timeline

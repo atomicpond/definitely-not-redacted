@@ -31,18 +31,17 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Darren Indyke](darren-indyke.md) - 27 shared documents
-- [Jeffrey Epstein](jeffrey-epstein.md) - 26 shared documents
 - [Steven J. Hoffenberg](steven-j-hoffenberg.md) - 12 shared documents
-- [jeff epstein](jeff-epstein.md) - 11 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 11 shared documents
 - [Lexington Avenue](lexington-avenue.md) - 11 shared documents
 - [Darren](darren.md) - 11 shared documents
 - [Steven](steven.md) - 10 shared documents
 - [Darren Indyke 
 Sent](darren-indyke-sent.md) - 10 shared documents
-- [Mr. 
-Trump](trump.md) - 9 shared documents
 - [Donald 
-Trump](donald-trump.md) - 8 shared documents
+Trump](donald-trump.md) - 9 shared documents
+- [Jeffrey E](jeffrey-e.md) - 8 shared documents
+- [steven hoffenberg <](steven-hoffenberg.md) - 8 shared documents
 
 **Organizations:**
 
@@ -54,7 +53,7 @@ Trump](donald-trump.md) - 8 shared documents
 - [New York Post Publishing Inc.](../organizations/new-york-post-publishing-inc.md) - 12 shared documents
 - [WHAM INC](../organizations/wham-inc.md) - 10 shared documents
 - [Confidential - Fwd](../organizations/confidential-fwd.md) - 6 shared documents
-- [the White House](../organizations/the-white-house.md) - 5 shared documents
+- [Google Alerts](../organizations/google-alerts.md) - 5 shared documents
 - [RSS](../organizations/rss.md) - 5 shared documents
 
 **Locations:**

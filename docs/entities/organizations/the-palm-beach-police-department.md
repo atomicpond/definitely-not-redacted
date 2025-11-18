@@ -48,12 +48,12 @@ Top 10 documents by mention frequency:
 - [State](state.md) - 19 shared documents
 - [Harvard](harvard.md) - 17 shared documents
 - [Maxwell](maxwell.md) - 15 shared documents
-- [the Justice Department](the-justice-department.md) - 12 shared documents
 - [Office](office.md) - 12 shared documents
 - [Vanity Fair](vanity-fair.md) - 11 shared documents
 - [Town](town.md) - 10 shared documents
 - [The Palm Beach Post](the-palm-beach-post.md) - 8 shared documents
 - [the State of Florida](the-state-of-florida.md) - 6 shared documents
+- [the Supreme Court](the-supreme-court.md) - 6 shared documents
 
 **Locations:**
 
@@ -63,23 +63,23 @@ Top 10 documents by mention frequency:
 - [Miami](../locations/miami.md) - 19 shared documents
 - [New Mexico](../locations/new-mexico.md) - 18 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 18 shared documents
-- [United States](../locations/united-states.md) - 16 shared documents
 - [the United States](../locations/the-united-states.md) - 16 shared documents
+- [United States](../locations/united-states.md) - 16 shared documents
 - [the Southern District](../locations/the-southern-district.md) - 14 shared documents
-- [New York](../locations/new-york.md) - 13 shared documents
+- [Manhattan](../locations/manhattan.md) - 13 shared documents
 
 **Events:**
 
 - [18 months](../events/18-months.md) - 19 shared documents
-- [one year](../events/one-year.md) - 18 shared documents
 - [14](../events/14.md) - 18 shared documents
+- [one year](../events/one-year.md) - 18 shared documents
 - [2005](../events/2005.md) - 17 shared documents
 - [2006](../events/2006.md) - 17 shared documents
 - [2010](../events/2010.md) - 16 shared documents
-- [2002](../events/2002.md) - 15 shared documents
 - [18](../events/18.md) - 15 shared documents
+- [2002](../events/2002.md) - 15 shared documents
+- [1984](../events/1984.md) - 14 shared documents
 - [2004](../events/2004.md) - 14 shared documents
-- [last year](../events/last-year.md) - 14 shared documents
 
 ## Timeline
 

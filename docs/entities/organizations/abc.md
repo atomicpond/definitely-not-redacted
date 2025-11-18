@@ -60,19 +60,19 @@ Top 10 documents by mention frequency:
 - [Palm Beach](../locations/palm-beach.md) - 16 shared documents
 - [France](../locations/france.md) - 15 shared documents
 - [New York City](../locations/new-york-city.md) - 15 shared documents
-- [California](../locations/california.md) - 14 shared documents
 - [America](../locations/america.md) - 14 shared documents
-- [Paris](../locations/paris.md) - 14 shared documents
+- [Boston](../locations/boston.md) - 14 shared documents
+- [California](../locations/california.md) - 14 shared documents
 
 **Events:**
 
 - [2007](../events/2007.md) - 17 shared documents
 - [2011](../events/2011.md) - 17 shared documents
 - [2010](../events/2010.md) - 16 shared documents
-- [today](../events/today.md) - 15 shared documents
-- [2000](../events/2000.md) - 15 shared documents
-- [1999](../events/1999.md) - 15 shared documents
 - [1995](../events/1995.md) - 15 shared documents
+- [1999](../events/1999.md) - 15 shared documents
+- [2000](../events/2000.md) - 15 shared documents
+- [today](../events/today.md) - 15 shared documents
 - [2003](../events/2003.md) - 14 shared documents
 - [2005](../events/2005.md) - 14 shared documents
 - [2008](../events/2008.md) - 14 shared documents

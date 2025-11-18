@@ -29,17 +29,17 @@ Top 5 documents by mention frequency:
 **Locations:**
 
 - [Hollywood](../locations/hollywood.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
 - [Australia](../locations/australia.md) - 4 shared documents
 - [Denmark](../locations/denmark.md) - 4 shared documents
+- [Germany](../locations/germany.md) - 4 shared documents
 
 **Events:**
 
 - [annual](../events/annual.md) - 4 shared documents
+- [months](../events/months.md) - 4 shared documents
 - [the week](../events/the-week.md) - 4 shared documents
 - [this year](../events/this-year.md) - 4 shared documents
-- [months](../events/months.md) - 4 shared documents
 
 ## Timeline
 

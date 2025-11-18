@@ -34,19 +34,19 @@ Top 8 documents by mention frequency:
 **Locations:**
 
 - [Cambridge](../locations/cambridge.md) - 8 shared documents
-- [Earth](../locations/earth.md) - 4 shared documents
-- [USA](../locations/usa.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
 - [Boston](../locations/boston.md) - 4 shared documents
+- [Earth](../locations/earth.md) - 4 shared documents
+- [Germany](../locations/germany.md) - 4 shared documents
+- [Russia](../locations/russia.md) - 4 shared documents
+- [USA](../locations/usa.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 6 shared documents
 - [Friday](../events/friday.md) - 6 shared documents
-- [weeks](../events/weeks.md) - 4 shared documents
+- [today](../events/today.md) - 6 shared documents
 - [1989](../events/1989.md) - 4 shared documents
 - [the day](../events/the-day.md) - 4 shared documents
+- [weeks](../events/weeks.md) - 4 shared documents
 
 ## Timeline
 

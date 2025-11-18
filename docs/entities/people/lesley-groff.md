@@ -29,11 +29,9 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Jeffrey Epstein](jeffrey-epstein.md) - 15 shared documents
-- [larry](larry.md) - 12 shared documents
+- [Lawrence Krauss](lawrence-krauss.md) - 12 shared documents
 - [Jeffrey E](jeffrey-e.md) - 11 shared documents
 - [Jeffrey](jeffrey.md) - 10 shared documents
-- [Mr. Obama](obama.md) - 9 shared documents
 - [Bill 
 Clinton](bill-clinton.md) - 9 shared documents
 - [Lesley Groff 
@@ -42,6 +40,9 @@ Sent](lesley-groff-sent.md) - 8 shared documents
 - [lesley](lesley.md) - 6 shared documents
 - [Lesley Groff 
 Subject](lesley-groff-subject.md) - 5 shared documents
+- [New
+York](new-york.md) - 5 shared documents
+- [On Wednesday](on-wednesday.md) - 5 shared documents
 
 **Organizations:**
 
@@ -56,23 +57,23 @@ Subject](lesley-groff-subject.md) - 5 shared documents
 - [US](../locations/us.md) - 7 shared documents
 - [N.Y.](../locations/ny.md) - 6 shared documents
 - [America](../locations/america.md) - 5 shared documents
-- [New York City](../locations/new-york-city.md) - 4 shared documents
-- [Paris](../locations/paris.md) - 4 shared documents
-- [Palm Beach](../locations/palm-beach.md) - 4 shared documents
 - [Boston](../locations/boston.md) - 4 shared documents
+- [New York City](../locations/new-york-city.md) - 4 shared documents
+- [Palm Beach](../locations/palm-beach.md) - 4 shared documents
+- [Paris](../locations/paris.md) - 4 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 11 shared documents
 - [Friday](../events/friday.md) - 7 shared documents
 - [That week](../events/that-week.md) - 7 shared documents
-- [Wednesday](../events/wednesday.md) - 6 shared documents
+- [Nov 16, 2017](../events/nov-16-2017.md) - 6 shared documents
+- [sunday the 26th](../events/sunday-the-26th.md) - 6 shared documents
 - [the week](../events/the-week.md) - 6 shared documents
 - [this week](../events/this-week.md) - 6 shared documents
-- [Nov 16, 2017](../events/nov-16-2017.md) - 6 shared documents
 - [Thu, Nov 16, 2017](../events/thu-nov-16-2017.md) - 6 shared documents
-- [sunday the 26th](../events/sunday-the-26th.md) - 6 shared documents
-- [one week](../events/one-week.md) - 5 shared documents
+- [Wednesday](../events/wednesday.md) - 6 shared documents
+- [last minute](../events/last-minute.md) - 5 shared documents
 
 ## Timeline
 

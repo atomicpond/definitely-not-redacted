@@ -29,19 +29,19 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Michael Cohen](../people/michael-cohen.md) - 4 shared documents
 - [Michael Flynn](../people/michael-flynn.md) - 4 shared documents
-- [mueller](../people/mueller.md) - 4 shared documents
+- [Robert Mueller](../people/robert-mueller.md) - 4 shared documents
 
 **Organizations:**
 
 - [HOUSE](house.md) - 6 shared documents
 - [Trump](trump.md) - 4 shared documents
 - [Weissmann](weissmann.md) - 4 shared documents
+- [Enron](enron.md) - 4 shared documents
 - [FBI](fbi.md) - 4 shared documents
 - [Mueller](mueller.md) - 4 shared documents
-- [Enron](enron.md) - 4 shared documents
 
 **Locations:**
 
@@ -51,8 +51,8 @@ Top 9 documents by mention frequency:
 
 - [2018](../events/2018.md) - 4 shared documents
 - [one day](../events/one-day.md) - 4 shared documents
-- [years ago](../events/years-ago.md) - 4 shared documents
 - [weekly](../events/weekly.md) - 4 shared documents
+- [years ago](../events/years-ago.md) - 4 shared documents
 
 ## Timeline
 

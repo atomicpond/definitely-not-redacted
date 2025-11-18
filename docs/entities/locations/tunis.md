@@ -30,15 +30,14 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 13 shared documents
-- [Barack Obama](../people/barack-obama.md) - 11 shared documents
-- [President Obama](../people/president-obama.md) - 11 shared documents
 - [White House](../people/white-house.md) - 11 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 9 shared documents
 - [West Bank](../people/west-bank.md) - 8 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Cold War](../people/cold-war.md) - 7 shared documents
 - [Hosni Mubarak](../people/hosni-mubarak.md) - 7 shared documents
-- [President Barack Obama](../people/president-barack-obama.md) - 7 shared documents
 - [Security Council](../people/security-council.md) - 7 shared documents
+- [Arab League](../people/arab-league.md) - 6 shared documents
 
 **Organizations:**
 
@@ -55,29 +54,29 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [Russia](russia.md) - 14 shared documents
 - [Israel](israel.md) - 14 shared documents
+- [Russia](russia.md) - 14 shared documents
 - [Egypt](egypt.md) - 13 shared documents
+- [Cairo](cairo.md) - 12 shared documents
 - [China](china.md) - 12 shared documents
 - [France](france.md) - 12 shared documents
 - [Iran](iran.md) - 12 shared documents
 - [Iraq](iraq.md) - 12 shared documents
-- [Syria](syria.md) - 12 shared documents
 - [Paris](paris.md) - 12 shared documents
-- [Cairo](cairo.md) - 12 shared documents
+- [Syria](syria.md) - 12 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 11 shared documents
 - [decades](../events/decades.md) - 11 shared documents
+- [today](../events/today.md) - 11 shared documents
 - [2003](../events/2003.md) - 10 shared documents
 - [1993](../events/1993.md) - 9 shared documents
-- [years](../events/years.md) - 8 shared documents
-- [the years](../events/the-years.md) - 8 shared documents
 - [the day](../events/the-day.md) - 8 shared documents
-- [2009](../events/2009.md) - 7 shared documents
-- [the 1980s](../events/the-1980s.md) - 7 shared documents
-- [1996](../events/1996.md) - 7 shared documents
+- [the years](../events/the-years.md) - 8 shared documents
+- [years](../events/years.md) - 8 shared documents
+- [1967](../events/1967.md) - 7 shared documents
+- [1974](../events/1974.md) - 7 shared documents
+- [1977](../events/1977.md) - 7 shared documents
 
 ## Timeline
 

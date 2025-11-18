@@ -30,7 +30,6 @@ Top 9 documents by mention frequency:
 
 - [Cynthia Jewett](../people/cynthia-jewett.md) - 9 shared documents
 - [Kiaran Kirk](../people/kiaran-kirk.md) - 9 shared documents
-- [Lawrence Krauss](../people/lawrence-krauss.md) - 9 shared documents
 - [Peter Aldhous](../people/peter-aldhous.md) - 9 shared documents
 
 **Organizations:**
@@ -49,8 +48,6 @@ University](case-western-reserve-university.md) - 9 shared documents
 
 **Locations:**
 
-- [Tempe](../locations/tempe.md) - 9 shared documents
-- [London](../locations/london.md) - 9 shared documents
 - [America](../locations/america.md) - 9 shared documents
 - [Arizona](../locations/arizona.md) - 9 shared documents
 - [Arizona State](../locations/arizona-state.md) - 9 shared documents
@@ -59,19 +56,21 @@ University](case-western-reserve-university.md) - 9 shared documents
 - [Des Moines](../locations/des-moines.md) - 9 shared documents
 - [Iowa](../locations/iowa.md) - 9 shared documents
 - [Las Vegas](../locations/las-vegas.md) - 9 shared documents
+- [London](../locations/london.md) - 9 shared documents
+- [Melbourne](../locations/melbourne.md) - 9 shared documents
 
 **Events:**
 
-- [October](../events/october.md) - 9 shared documents
-- [85287-1404](../events/85287-1404.md) - 9 shared documents
+- [2006](../events/2006.md) - 9 shared documents
 - [2007](../events/2007.md) - 9 shared documents
+- [2008](../events/2008.md) - 9 shared documents
 - [2014](../events/2014.md) - 9 shared documents
 - [2016](../events/2016.md) - 9 shared documents
-- [this year](../events/this-year.md) - 9 shared documents
-- [2008](../events/2008.md) - 9 shared documents
+- [5 years](../events/5-years.md) - 9 shared documents
+- [85287-1404](../events/85287-1404.md) - 9 shared documents
+- [a full month](../events/a-full-month.md) - 9 shared documents
 - [April 2011](../events/april-2011.md) - 9 shared documents
-- [May 2011](../events/may-2011.md) - 9 shared documents
-- [November 2016](../events/november-2016.md) - 9 shared documents
+- [April 2017](../events/april-2017.md) - 9 shared documents
 
 ## Timeline
 

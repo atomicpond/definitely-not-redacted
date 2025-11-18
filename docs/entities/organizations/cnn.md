@@ -30,19 +30,16 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 19 shared documents
 - [Middle East](../people/middle-east.md) - 19 shared documents
 - [White House](../people/white-house.md) - 18 shared documents
 - [Los Angeles](../people/los-angeles.md) - 17 shared documents
-- [Donald 
-Trump](../people/donald-trump.md) - 15 shared documents
 - [New
 York](../people/new-york.md) - 14 shared documents
-- [President Barack Obama](../people/president-barack-obama.md) - 13 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 13 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 12 shared documents
-- [President Trump](../people/president-trump.md) - 12 shared documents
+- [Barack Obama](../people/barack-obama.md) - 13 shared documents
+- [San Francisco](../people/san-francisco.md) - 12 shared documents
+- [Jeffrey E](../people/jeffrey-e.md) - 11 shared documents
+- [Saudi Arabia](../people/saudi-arabia.md) - 11 shared documents
+- [Fox News](../people/fox-news.md) - 10 shared documents
 
 **Organizations:**
 
@@ -81,7 +78,7 @@ Trump](../people/trump.md) - 13 shared documents
 - [2009](../events/2009.md) - 23 shared documents
 - [Sunday](../events/sunday.md) - 23 shared documents
 - [tomorrow](../events/tomorrow.md) - 23 shared documents
-- [this week](../events/this-week.md) - 22 shared documents
+- [2013](../events/2013.md) - 22 shared documents
 
 ## Timeline
 

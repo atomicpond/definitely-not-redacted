@@ -65,12 +65,12 @@ Top 10 documents by mention frequency:
 - [2004](2004.md) - 7 shared documents
 - [Friday](friday.md) - 6 shared documents
 - [that day](that-day.md) - 6 shared documents
-- [2015](2015.md) - 6 shared documents
-- [2012](2012.md) - 6 shared documents
 - [1990](1990.md) - 6 shared documents
 - [1999](1999.md) - 6 shared documents
 - [2001](2001.md) - 6 shared documents
 - [2010](2010.md) - 6 shared documents
+- [2012](2012.md) - 6 shared documents
+- [2015](2015.md) - 6 shared documents
 
 ## Timeline
 

@@ -34,10 +34,10 @@ Top 5 documents by mention frequency:
 **Events:**
 
 - [today](today.md) - 5 shared documents
+- [1991](1991.md) - 4 shared documents
 - [2007](2007.md) - 4 shared documents
 - [2008](2008.md) - 4 shared documents
 - [several years](several-years.md) - 4 shared documents
-- [1991](1991.md) - 4 shared documents
 
 ## Timeline
 

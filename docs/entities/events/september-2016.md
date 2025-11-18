@@ -56,14 +56,14 @@ Top 10 documents by mention frequency:
 
 - [2016](2016.md) - 13 shared documents
 - [2017](2017.md) - 12 shared documents
-- [2018](2018.md) - 11 shared documents
 - [2015](2015.md) - 11 shared documents
+- [2018](2018.md) - 11 shared documents
 - [2001](2001.md) - 10 shared documents
 - [today](today.md) - 9 shared documents
 - [the day](the-day.md) - 8 shared documents
 - [2004](2004.md) - 8 shared documents
-- [2014](2014.md) - 8 shared documents
 - [2012](2012.md) - 8 shared documents
+- [2013](2013.md) - 8 shared documents
 
 ## Timeline
 

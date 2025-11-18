@@ -30,33 +30,32 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [White House](white-house.md) - 17 shared documents
-- [Mr. 
-Trump](trump.md) - 16 shared documents
-- [President Trump](president-trump.md) - 13 shared documents
+- [Donald 
+Trump](donald-trump.md) - 13 shared documents
 - [Brett Kavanaugh](brett-kavanaugh.md) - 11 shared documents
 - [Hillary Clinton](hillary-clinton.md) - 11 shared documents
 - [Mr. Kavanaugh](kavanaugh.md) - 10 shared documents
-- [Donald 
-Trump](donald-trump.md) - 9 shared documents
 - [New 
 York Times](new-york-times.md) - 9 shared documents
 - [United 
 States](united-states.md) - 8 shared documents
-- [Rod 
-Rosenstein](rod-rosenstein.md) - 8 shared documents
+- [Dr. Blasey](blasey.md) - 7 shared documents
+- [Christine Blasey Ford](christine-blasey-ford.md) - 7 shared documents
+- [Justice 
+Department](justice-department.md) - 7 shared documents
 
 **Organizations:**
 
 - [Supreme Court](../organizations/supreme-court.md) - 20 shared documents
 - [Congress](../organizations/congress.md) - 13 shared documents
 - [Senate](../organizations/senate.md) - 12 shared documents
-- [Trump](../organizations/trump.md) - 12 shared documents
 - [the Supreme Court](../organizations/the-supreme-court.md) - 12 shared documents
-- [White House](../organizations/white-house.md) - 11 shared documents
+- [Trump](../organizations/trump.md) - 12 shared documents
 - [the White House](../organizations/the-white-house.md) - 11 shared documents
+- [White House](../organizations/white-house.md) - 11 shared documents
 - [HOUSE](../organizations/house.md) - 10 shared documents
-- [the New York Times](../organizations/the-new-york-times.md) - 8 shared documents
 - [New York Times](../organizations/new-york-times.md) - 8 shared documents
+- [the New York Times](../organizations/the-new-york-times.md) - 8 shared documents
 
 **Locations:**
 
@@ -65,8 +64,10 @@ Rosenstein](rod-rosenstein.md) - 8 shared documents
 - [New York](../locations/new-york.md) - 9 shared documents
 - [Washington](../locations/washington.md) - 9 shared documents
 - [the White House](../locations/the-white-house.md) - 8 shared documents
-- [United States](../locations/united-states.md) - 7 shared documents
 - [America](../locations/america.md) - 7 shared documents
+- [United States](../locations/united-states.md) - 7 shared documents
+- [Iowa](../locations/iowa.md) - 6 shared documents
+- [Iran](../locations/iran.md) - 6 shared documents
 
 **Events:**
 
@@ -79,6 +80,7 @@ Rosenstein](rod-rosenstein.md) - 8 shared documents
 - [this week](../events/this-week.md) - 7 shared documents
 - [2018](../events/2018.md) - 6 shared documents
 - [last year](../events/last-year.md) - 6 shared documents
+- [Sept](../events/sept.md) - 6 shared documents
 
 ## Timeline
 

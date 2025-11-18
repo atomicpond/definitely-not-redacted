@@ -47,29 +47,29 @@ Top 7 documents by mention frequency:
 
 **Locations:**
 
-- [Europe](../locations/europe.md) - 7 shared documents
-- [Qatar](../locations/qatar.md) - 7 shared documents
-- [Manhattan](../locations/manhattan.md) - 7 shared documents
-- [Queens](../locations/queens.md) - 7 shared documents
-- [Caribbean](../locations/caribbean.md) - 7 shared documents
-- [Dallas](../locations/dallas.md) - 7 shared documents
-- [Paris](../locations/paris.md) - 7 shared documents
-- [New Mexico](../locations/new-mexico.md) - 7 shared documents
-- [Palm Beach](../locations/palm-beach.md) - 7 shared documents
 - [Britain](../locations/britain.md) - 7 shared documents
+- [Caribbean](../locations/caribbean.md) - 7 shared documents
+- [Caribbean Island](../locations/caribbean-island.md) - 7 shared documents
+- [Coney Island](../locations/coney-island.md) - 7 shared documents
+- [Connecticut](../locations/connecticut.md) - 7 shared documents
+- [Dallas](../locations/dallas.md) - 7 shared documents
+- [Dalton](../locations/dalton.md) - 7 shared documents
+- [Europe](../locations/europe.md) - 7 shared documents
+- [Lafayette](../locations/lafayette.md) - 7 shared documents
+- [Manhattan](../locations/manhattan.md) - 7 shared documents
 
 **Events:**
 
-- [the 1980s](../events/the-1980s.md) - 7 shared documents
-- [daily](../events/daily.md) - 7 shared documents
-- [last year](../events/last-year.md) - 7 shared documents
-- [Sunday](../events/sunday.md) - 7 shared documents
-- [Saturday](../events/saturday.md) - 7 shared documents
-- [1974](../events/1974.md) - 7 shared documents
-- [2006](../events/2006.md) - 7 shared documents
-- [tomorrow](../events/tomorrow.md) - 7 shared documents
 - [18 months](../events/18-months.md) - 7 shared documents
+- [1953](../events/1953.md) - 7 shared documents
+- [1974](../events/1974.md) - 7 shared documents
+- [1976](../events/1976.md) - 7 shared documents
+- [1980](../events/1980.md) - 7 shared documents
+- [1982](../events/1982.md) - 7 shared documents
+- [1994](../events/1994.md) - 7 shared documents
 - [2002](../events/2002.md) - 7 shared documents
+- [2006](../events/2006.md) - 7 shared documents
+- [62-year-old](../events/62-year-old.md) - 7 shared documents
 
 ## Timeline
 

@@ -55,23 +55,22 @@ Chief](../people/michael-cembalest-chief.md) - 6 shared documents
 - [Spain](../locations/spain.md) - 9 shared documents
 - [Asia](../locations/asia.md) - 8 shared documents
 - [Japan](../locations/japan.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
 - [N.A](../locations/na.md) - 6 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
-- [Portugal](../locations/portugal.md) - 5 shared documents
+- [Russia](../locations/russia.md) - 6 shared documents
+- [Belgium](../locations/belgium.md) - 5 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 9 shared documents
-- [annual](../events/annual.md) - 8 shared documents
 - [2012](../events/2012.md) - 8 shared documents
-- [this year](../events/this-year.md) - 7 shared documents
-- [2013](../events/2013.md) - 7 shared documents
+- [annual](../events/annual.md) - 8 shared documents
 - [10 years](../events/10-years.md) - 7 shared documents
+- [2013](../events/2013.md) - 7 shared documents
+- [this year](../events/this-year.md) - 7 shared documents
 - [10-year](../events/10-year.md) - 6 shared documents
-- [2015](../events/2015.md) - 5 shared documents
-- [next year](../events/next-year.md) - 5 shared documents
-- [the year](../events/the-year.md) - 5 shared documents
+- [1950](../events/1950.md) - 5 shared documents
+- [1980](../events/1980.md) - 5 shared documents
+- [2010](../events/2010.md) - 5 shared documents
 
 ## Timeline
 

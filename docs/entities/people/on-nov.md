@@ -29,7 +29,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [jeffrey E. <](jeffrey-e.md) - 9 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 9 shared documents
 - [Jeffrey E](jeffrey-e.md) - 8 shared documents
 - [On Thu](on-thu.md) - 5 shared documents
 

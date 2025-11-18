@@ -12,7 +12,7 @@
 - [Epstein](../entities/people/epstein.md) - 20 mentions
 - [Jane Doe](../entities/people/jane-doe.md) - 13 mentions
 - [Mr. 
-Dershowitz](../entities/people/mr-dershowitz.md) - 8 mentions
+Dershowitz](../entities/people/alan-dershowitz.md) - 8 mentions
 - [Mr. Edwards](../entities/people/mr-edwards.md) - 3 mentions
 - [Lilly Ann Sanchez](../entities/people/lilly-ann-sanchez.md) - 2 mentions
 - [Ann Sanchez](../entities/people/ann-sanchez.md) - 2 mentions

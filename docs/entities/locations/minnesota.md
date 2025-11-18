@@ -54,9 +54,9 @@ Top 10 documents by mention frequency:
 - [China](china.md) - 11 shared documents
 - [Germany](germany.md) - 11 shared documents
 - [Texas](texas.md) - 10 shared documents
-- [Japan](japan.md) - 10 shared documents
-- [France](france.md) - 10 shared documents
 - [Australia](australia.md) - 10 shared documents
+- [France](france.md) - 10 shared documents
+- [Japan](japan.md) - 10 shared documents
 - [Russia](russia.md) - 9 shared documents
 - [Switzerland](switzerland.md) - 9 shared documents
 
@@ -64,14 +64,14 @@ Top 10 documents by mention frequency:
 
 - [daily](../events/daily.md) - 12 shared documents
 - [2012](../events/2012.md) - 11 shared documents
-- [2004](../events/2004.md) - 10 shared documents
-- [today](../events/today.md) - 10 shared documents
-- [Sunday](../events/sunday.md) - 10 shared documents
 - [1999](../events/1999.md) - 10 shared documents
+- [2004](../events/2004.md) - 10 shared documents
+- [Sunday](../events/sunday.md) - 10 shared documents
+- [today](../events/today.md) - 10 shared documents
 - [two years](../events/two-years.md) - 10 shared documents
-- [2009](../events/2009.md) - 9 shared documents
+- [1991](../events/1991.md) - 9 shared documents
+- [1995](../events/1995.md) - 9 shared documents
 - [1996](../events/1996.md) - 9 shared documents
-- [summer](../events/summer.md) - 9 shared documents
 
 ## Timeline
 

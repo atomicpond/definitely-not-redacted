@@ -53,13 +53,13 @@ Top 8 documents by mention frequency:
 
 - [the year](the-year.md) - 6 shared documents
 - [years](years.md) - 5 shared documents
-- [six months](six-months.md) - 5 shared documents
 - [2012](2012.md) - 5 shared documents
-- [July](july.md) - 5 shared documents
-- [April](april.md) - 5 shared documents
 - [2013](2013.md) - 5 shared documents
+- [April](april.md) - 5 shared documents
+- [July](july.md) - 5 shared documents
 - [June](june.md) - 5 shared documents
 - [several years](several-years.md) - 5 shared documents
+- [six months](six-months.md) - 5 shared documents
 - [this year](this-year.md) - 4 shared documents
 
 ## Timeline

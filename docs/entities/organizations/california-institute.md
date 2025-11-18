@@ -32,28 +32,28 @@ Top 7 documents by mention frequency:
 **Locations:**
 
 - [California](../locations/california.md) - 7 shared documents
-- [New York](../locations/new-york.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
+- [Berlin](../locations/berlin.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 5 shared documents
 - [France](../locations/france.md) - 5 shared documents
-- [Texas](../locations/texas.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Germany](../locations/germany.md) - 5 shared documents
+- [India](../locations/india.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
+- [Oregon](../locations/oregon.md) - 5 shared documents
 
 **Events:**
 
-- [2009](../events/2009.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
+- [1981](../events/1981.md) - 5 shared documents
+- [1995](../events/1995.md) - 5 shared documents
 - [1996](../events/1996.md) - 5 shared documents
 - [2000](../events/2000.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
+- [2009](../events/2009.md) - 5 shared documents
 - [2010](../events/2010.md) - 5 shared documents
 - [2013](../events/2013.md) - 5 shared documents
+- [decades](../events/decades.md) - 5 shared documents
 - [three years](../events/three-years.md) - 5 shared documents
-- [two years](../events/two-years.md) - 5 shared documents
-- [1981](../events/1981.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
 
 ## Timeline
 

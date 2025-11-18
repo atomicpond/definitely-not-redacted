@@ -55,8 +55,6 @@ Top 10 documents by mention frequency:
 - [Washington](washington.md) - 6 shared documents
 - [Florida](florida.md) - 6 shared documents
 - [Washington, DC](washington-dc.md) - 5 shared documents
-- [Europe](europe.md) - 5 shared documents
-- [New York City](new-york-city.md) - 5 shared documents
 
 **Events:**
 
@@ -66,10 +64,10 @@ Top 10 documents by mention frequency:
 - [1999](../events/1999.md) - 8 shared documents
 - [2001](../events/2001.md) - 8 shared documents
 - [2002](../events/2002.md) - 8 shared documents
-- [2003](../events/2003.md) - 7 shared documents
-- [2004](../events/2004.md) - 7 shared documents
-- [1996](../events/1996.md) - 7 shared documents
 - [1984](../events/1984.md) - 7 shared documents
+- [1988](../events/1988.md) - 7 shared documents
+- [1991](../events/1991.md) - 7 shared documents
+- [1992](../events/1992.md) - 7 shared documents
 
 ## Timeline
 

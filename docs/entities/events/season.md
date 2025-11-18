@@ -33,10 +33,10 @@ Top 9 documents by mention frequency:
 - [monthly](monthly.md) - 5 shared documents
 - [annual](annual.md) - 4 shared documents
 - [daily](daily.md) - 4 shared documents
+- [days](days.md) - 4 shared documents
+- [June](june.md) - 4 shared documents
 - [last year](last-year.md) - 4 shared documents
 - [May](may.md) - 4 shared documents
-- [June](june.md) - 4 shared documents
-- [days](days.md) - 4 shared documents
 
 ## Timeline
 

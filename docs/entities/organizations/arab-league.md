@@ -34,11 +34,11 @@ Top 10 documents by mention frequency:
 - [Middle East](../people/middle-east.md) - 7 shared documents
 - [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Bashar al-Assad](../people/bashar-al-assad.md) - 6 shared documents
-- [President Obama](../people/president-obama.md) - 6 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 6 shared documents
 - [Security Council](../people/security-council.md) - 6 shared documents
 - [West Bank](../people/west-bank.md) - 6 shared documents
 - [East Jerusalem](../people/east-jerusalem.md) - 5 shared documents
+- [Mahmoud Abbas](../people/mahmoud-abbas.md) - 5 shared documents
 
 **Organizations:**
 
@@ -50,31 +50,31 @@ Top 10 documents by mention frequency:
 - [the United Nations](the-united-nations.md) - 7 shared documents
 - [Defense](defense.md) - 6 shared documents
 - [Fatah](fatah.md) - 6 shared documents
-- [al-Qaeda](al-qaeda.md) - 6 shared documents
 - [CIA](cia.md) - 5 shared documents
+- [Congress](congress.md) - 5 shared documents
 
 **Locations:**
 
+- [Egypt](../locations/egypt.md) - 10 shared documents
 - [Iraq](../locations/iraq.md) - 10 shared documents
+- [Israel](../locations/israel.md) - 10 shared documents
 - [Jordan](../locations/jordan.md) - 10 shared documents
 - [Syria](../locations/syria.md) - 10 shared documents
-- [Israel](../locations/israel.md) - 10 shared documents
-- [Egypt](../locations/egypt.md) - 10 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 9 shared documents
 - [Iran](../locations/iran.md) - 9 shared documents
-- [Turkey](../locations/turkey.md) - 9 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 9 shared documents
 - [Tunisia](../locations/tunisia.md) - 9 shared documents
-- [Middle East](../locations/middle-east.md) - 8 shared documents
+- [Turkey](../locations/turkey.md) - 9 shared documents
+- [Gaza](../locations/gaza.md) - 8 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 8 shared documents
-- [2003](../events/2003.md) - 7 shared documents
 - [1967](../events/1967.md) - 7 shared documents
+- [2003](../events/2003.md) - 7 shared documents
 - [September](../events/september.md) - 7 shared documents
-- [last week](../events/last-week.md) - 6 shared documents
 - [1947](../events/1947.md) - 6 shared documents
 - [decades](../events/decades.md) - 6 shared documents
+- [last week](../events/last-week.md) - 6 shared documents
 
 ## Timeline
 

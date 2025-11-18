@@ -34,34 +34,34 @@ Top 10 documents by mention frequency:
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 7 shared documents
-- [Senate](../organizations/senate.md) - 5 shared documents
 - [Congress](../organizations/congress.md) - 5 shared documents
-- [State](../organizations/state.md) - 5 shared documents
 - [Medicare](../organizations/medicare.md) - 5 shared documents
-- [Trump](../organizations/trump.md) - 4 shared documents
+- [Senate](../organizations/senate.md) - 5 shared documents
+- [State](../organizations/state.md) - 5 shared documents
 - [GOP](../organizations/gop.md) - 4 shared documents
-- [Supreme Court](../organizations/supreme-court.md) - 4 shared documents
 - [Mueller](../organizations/mueller.md) - 4 shared documents
 - [Pentagon](../organizations/pentagon.md) - 4 shared documents
+- [Supreme Court](../organizations/supreme-court.md) - 4 shared documents
+- [Trump](../organizations/trump.md) - 4 shared documents
 
 **Locations:**
 
 - [America](../locations/america.md) - 5 shared documents
-- [Pennsylvania](../locations/pennsylvania.md) - 5 shared documents
 - [Michigan](../locations/michigan.md) - 5 shared documents
+- [Pennsylvania](../locations/pennsylvania.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 4 shared documents
-- [Silicon Valley](../locations/silicon-valley.md) - 4 shared documents
+- [New Hampshire](../locations/new-hampshire.md) - 4 shared documents
 - [New York City](../locations/new-york-city.md) - 4 shared documents
 - [Ohio](../locations/ohio.md) - 4 shared documents
-- [New Hampshire](../locations/new-hampshire.md) - 4 shared documents
+- [Silicon Valley](../locations/silicon-valley.md) - 4 shared documents
 - [Wisconsin](../locations/wisconsin.md) - 4 shared documents
 
 **Events:**
 
 - [2016](../events/2016.md) - 5 shared documents
 - [2020](../events/2020.md) - 5 shared documents
-- [May](../events/may.md) - 5 shared documents
 - [every year](../events/every-year.md) - 5 shared documents
+- [May](../events/may.md) - 5 shared documents
 - [daily](../events/daily.md) - 4 shared documents
 - [months](../events/months.md) - 4 shared documents
 

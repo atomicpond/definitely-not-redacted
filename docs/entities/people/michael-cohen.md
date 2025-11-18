@@ -33,14 +33,15 @@ Top 10 documents by mention frequency:
 
 - [Michael Flynn](michael-flynn.md) - 8 shared documents
 - [White House](white-house.md) - 7 shared documents
-- [mueller](mueller.md) - 6 shared documents
+- [Robert Mueller](robert-mueller.md) - 6 shared documents
 - [mccabe](mccabe.md) - 6 shared documents
 - [Michael Cohen Sentenced](michael-cohen-sentenced.md) - 5 shared documents
 - [On Wed](on-wed.md) - 5 shared documents
 - [Richard Kahn](richard-kahn.md) - 5 shared documents
-- [Robert Mueller](robert-mueller.md) - 5 shared documents
 - [Years In Prison](years-in-prison.md) - 5 shared documents
-- [James Comey](james-comey.md) - 5 shared documents
+- [Arthur Anderson](arthur-anderson.md) - 5 shared documents
+- [Donald 
+Trump](donald-trump.md) - 5 shared documents
 
 **Organizations:**
 
@@ -48,33 +49,33 @@ Top 10 documents by mention frequency:
 - [Trump](../organizations/trump.md) - 15 shared documents
 - [FBI](../organizations/fbi.md) - 8 shared documents
 - [Mueller](../organizations/mueller.md) - 8 shared documents
-- [White House](../organizations/white-house.md) - 6 shared documents
-- [Congress](../organizations/congress.md) - 6 shared documents
-- [the White House](../organizations/the-white-house.md) - 6 shared documents
 - [Comey](../organizations/comey.md) - 6 shared documents
+- [Congress](../organizations/congress.md) - 6 shared documents
 - [Enron](../organizations/enron.md) - 6 shared documents
+- [the White House](../organizations/the-white-house.md) - 6 shared documents
 - [Weissmann](../organizations/weissmann.md) - 6 shared documents
+- [White House](../organizations/white-house.md) - 6 shared documents
 
 **Locations:**
 
 - [Russia](../locations/russia.md) - 10 shared documents
 - [New York](../locations/new-york.md) - 7 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 - [Florida](../locations/florida.md) - 4 shared documents
 - [Manhattan](../locations/manhattan.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 
 - [2018](../events/2018.md) - 9 shared documents
 - [today](../events/today.md) - 6 shared documents
-- [Thursday](../events/thursday.md) - 5 shared documents
-- [November](../events/november.md) - 5 shared documents
-- [3 years](../events/3-years.md) - 5 shared documents
 - [12/12/2018](../events/12122018.md) - 5 shared documents
+- [3 years](../events/3-years.md) - 5 shared documents
+- [November](../events/november.md) - 5 shared documents
+- [Thursday](../events/thursday.md) - 5 shared documents
 - [daily](../events/daily.md) - 4 shared documents
-- [Monday](../events/monday.md) - 4 shared documents
-- [these days](../events/these-days.md) - 4 shared documents
+- [every day](../events/every-day.md) - 4 shared documents
 - [Friday](../events/friday.md) - 4 shared documents
+- [Monday](../events/monday.md) - 4 shared documents
 
 ## Timeline
 

@@ -27,32 +27,19 @@ Top 5 documents by mention frequency:
 - [Twitter](twitter.md) - 5 shared documents
 - [Facebook](facebook.md) - 5 shared documents
 - [Google](google.md) - 5 shared documents
-- [Harvard University](harvard-university.md) - 4 shared documents
-- [IBM](ibm.md) - 4 shared documents
-
-**Locations:**
-
-- [Earth](../locations/earth.md) - 4 shared documents
-- [China](../locations/china.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
-- [America](../locations/america.md) - 4 shared documents
-- [Cambridge](../locations/cambridge.md) - 4 shared documents
-- [Boston](../locations/boston.md) - 4 shared documents
 
 **Events:**
 
-- [2003](../events/2003.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
 - [1999](../events/1999.md) - 5 shared documents
 - [2002](../events/2002.md) - 5 shared documents
+- [2003](../events/2003.md) - 5 shared documents
 - [the day](../events/the-day.md) - 5 shared documents
-- [2004](../events/2004.md) - 4 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [2015](../events/2015.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [1996](../events/1996.md) - 4 shared documents
+- [years](../events/years.md) - 5 shared documents
+- [1949](../events/1949.md) - 4 shared documents
+- [1952](../events/1952.md) - 4 shared documents
+- [1964](../events/1964.md) - 4 shared documents
+- [1970](../events/1970.md) - 4 shared documents
+- [1972](../events/1972.md) - 4 shared documents
 
 ## Timeline
 

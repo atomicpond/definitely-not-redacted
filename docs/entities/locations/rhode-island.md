@@ -44,24 +44,24 @@ Top 8 documents by mention frequency:
 - [Texas](texas.md) - 6 shared documents
 - [United States](united-states.md) - 6 shared documents
 - [Washington](washington.md) - 6 shared documents
-- [France](france.md) - 6 shared documents
-- [Pennsylvania](pennsylvania.md) - 6 shared documents
-- [Massachusetts](massachusetts.md) - 6 shared documents
 - [Connecticut](connecticut.md) - 6 shared documents
+- [France](france.md) - 6 shared documents
 - [Illinois](illinois.md) - 6 shared documents
+- [Massachusetts](massachusetts.md) - 6 shared documents
+- [Michigan](michigan.md) - 6 shared documents
 
 **Events:**
 
 - [2000](../events/2000.md) - 7 shared documents
-- [2003](../events/2003.md) - 6 shared documents
-- [2004](../events/2004.md) - 6 shared documents
-- [1996](../events/1996.md) - 6 shared documents
-- [2012](../events/2012.md) - 6 shared documents
 - [1985](../events/1985.md) - 6 shared documents
-- [2011](../events/2011.md) - 6 shared documents
-- [2010](../events/2010.md) - 6 shared documents
 - [1988](../events/1988.md) - 6 shared documents
 - [1992](../events/1992.md) - 6 shared documents
+- [1996](../events/1996.md) - 6 shared documents
+- [2003](../events/2003.md) - 6 shared documents
+- [2004](../events/2004.md) - 6 shared documents
+- [2010](../events/2010.md) - 6 shared documents
+- [2011](../events/2011.md) - 6 shared documents
+- [2012](../events/2012.md) - 6 shared documents
 
 ## Timeline
 

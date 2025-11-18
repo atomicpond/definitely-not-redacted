@@ -29,8 +29,8 @@ Top 5 documents by mention frequency:
 **Locations:**
 
 - [China](../locations/china.md) - 5 shared documents
-- [Iran](../locations/iran.md) - 4 shared documents
 - [Beijing](../locations/beijing.md) - 4 shared documents
+- [Iran](../locations/iran.md) - 4 shared documents
 
 ## Timeline
 

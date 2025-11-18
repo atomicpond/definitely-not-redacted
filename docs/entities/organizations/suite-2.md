@@ -29,28 +29,29 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Bradley J. Edwards](../people/bradley-j-edwards.md) - 12 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 10 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 12 shared documents
 - [Jack Scarola](../people/jack-scarola.md) - 10 shared documents
 - [Jane Doe](../people/jane-doe.md) - 9 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 8 shared documents
 - [Paul G. Cassell](../people/paul-g-cassell.md) - 8 shared documents
 - [New Mexico](../people/new-mexico.md) - 7 shared documents
 - [Rights Act](../people/rights-act.md) - 7 shared documents
 - [Salt Lake City](../people/salt-lake-city.md) - 7 shared documents
 - [Alfredo Rodriguez](../people/alfredo-rodriguez.md) - 6 shared documents
+- [Boulevard
+West Palm](../people/boulevard-west-palm.md) - 6 shared documents
+- [Searcy Denney Scarola](../people/searcy-denney-scarola.md) - 6 shared documents
 
 **Organizations:**
 
 - [Court](court.md) - 10 shared documents
 - [FBI](fbi.md) - 9 shared documents
-- [Ghislaine Maxwell](ghislaine-maxwell.md) - 8 shared documents
 - [CVRA](cvra.md) - 8 shared documents
 - [FISTOS & LEHRMAN](fistos-lehrman.md) - 8 shared documents
-- [State](state.md) - 7 shared documents
+- [Ghislaine Maxwell](ghislaine-maxwell.md) - 8 shared documents
+- [Ghislaine](ghislaine.md) - 7 shared documents
 - [Maxwell](maxwell.md) - 7 shared documents
 - [P.A.](pa.md) - 7 shared documents
-- [Ghislaine](ghislaine.md) - 7 shared documents
+- [State](state.md) - 7 shared documents
 - [Suite 700](suite-700.md) - 5 shared documents
 
 **Locations:**
@@ -60,21 +61,22 @@ Top 10 documents by mention frequency:
 - [West Palm Beach](../locations/west-palm-beach.md) - 12 shared documents
 - [New York](../locations/new-york.md) - 11 shared documents
 - [United States](../locations/united-states.md) - 11 shared documents
+- [425 North Andrews Avenue](../locations/425-north-andrews-avenue.md) - 10 shared documents
 - [Miami](../locations/miami.md) - 10 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 10 shared documents
-- [425 North Andrews Avenue](../locations/425-north-andrews-avenue.md) - 10 shared documents
 - [Weissing](../locations/weissing.md) - 10 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 9 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 10 shared documents
-- [daily](../events/daily.md) - 7 shared documents
-- [6](../events/6.md) - 7 shared documents
 - [14](../events/14.md) - 7 shared documents
 - [19](../events/19.md) - 7 shared documents
-- [2009](../events/2009.md) - 6 shared documents
-- [2011](../events/2011.md) - 6 shared documents
+- [6](../events/6.md) - 7 shared documents
+- [daily](../events/daily.md) - 7 shared documents
+- [10](../events/10.md) - 6 shared documents
+- [12](../events/12.md) - 6 shared documents
+- [2008](../events/2008.md) - 6 shared documents
 
 ## Timeline
 

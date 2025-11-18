@@ -33,11 +33,11 @@ Top 7 documents by mention frequency:
 **Locations:**
 
 - [China](../locations/china.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
 - [Germany](../locations/germany.md) - 4 shared documents
+- [Italy](../locations/italy.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
 - [London](../locations/london.md) - 4 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 4 shared documents
-- [Italy](../locations/italy.md) - 4 shared documents
 - [Spain](../locations/spain.md) - 4 shared documents
 - [the United Kingdom](../locations/the-united-kingdom.md) - 4 shared documents
 
@@ -47,12 +47,12 @@ Top 7 documents by mention frequency:
 - [annual](../events/annual.md) - 7 shared documents
 - [2000](../events/2000.md) - 6 shared documents
 - [2012](../events/2012.md) - 6 shared documents
-- [years](../events/years.md) - 5 shared documents
 - [1999](../events/1999.md) - 5 shared documents
 - [2002](../events/2002.md) - 5 shared documents
 - [several years](../events/several-years.md) - 5 shared documents
-- [1986](../events/1986.md) - 4 shared documents
-- [2015](../events/2015.md) - 4 shared documents
+- [years](../events/years.md) - 5 shared documents
+- [12-month](../events/12-month.md) - 4 shared documents
+- [1985](../events/1985.md) - 4 shared documents
 
 ## Timeline
 

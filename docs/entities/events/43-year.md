@@ -24,10 +24,10 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [2009](2009.md) - 4 shared documents
-- [2008](2008.md) - 4 shared documents
 - [1988](1988.md) - 4 shared documents
 - [1995](1995.md) - 4 shared documents
+- [2008](2008.md) - 4 shared documents
+- [2009](2009.md) - 4 shared documents
 
 ## Timeline
 

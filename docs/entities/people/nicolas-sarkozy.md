@@ -29,9 +29,8 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](president-obama.md) - 7 shared documents
-- [Barack Obama](barack-obama.md) - 7 shared documents
 - [Angela Merkel](angela-merkel.md) - 7 shared documents
+- [Barack Obama](barack-obama.md) - 7 shared documents
 - [Middle East](middle-east.md) - 6 shared documents
 
 **Organizations:**
@@ -48,21 +47,21 @@ Top 10 documents by mention frequency:
 - [Russia](../locations/russia.md) - 10 shared documents
 - [France](../locations/france.md) - 9 shared documents
 - [India](../locations/india.md) - 9 shared documents
-- [Germany](../locations/germany.md) - 8 shared documents
 - [America](../locations/america.md) - 8 shared documents
+- [Australia](../locations/australia.md) - 8 shared documents
+- [Britain](../locations/britain.md) - 8 shared documents
+- [Germany](../locations/germany.md) - 8 shared documents
 - [Iran](../locations/iran.md) - 8 shared documents
 - [Iraq](../locations/iraq.md) - 8 shared documents
-- [Pakistan](../locations/pakistan.md) - 8 shared documents
-- [Australia](../locations/australia.md) - 8 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 7 shared documents
 - [decades](../events/decades.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
 - [2004](../events/2004.md) - 6 shared documents
 - [2009](../events/2009.md) - 6 shared documents
-- [two years](../events/two-years.md) - 6 shared documents
 - [the day](../events/the-day.md) - 6 shared documents
+- [two years](../events/two-years.md) - 6 shared documents
 
 ## Timeline
 

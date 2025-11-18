@@ -41,8 +41,8 @@ Chief](../people/michael-cembalest-chief.md) - 7 shared documents
 - [NYSE](nyse.md) - 9 shared documents
 - [SIPC](sipc.md) - 9 shared documents
 - [the Federal Deposit Insurance Corporation](the-federal-deposit-insurance-corporation.md) - 9 shared documents
-- [FINRA](finra.md) - 9 shared documents
 - [FDIC](fdic.md) - 9 shared documents
+- [FINRA](finra.md) - 9 shared documents
 - [J.P.
 Morgan](jp-morgan.md) - 9 shared documents
 - [JPMS](jpms.md) - 8 shared documents
@@ -51,20 +51,20 @@ Morgan](jp-morgan.md) - 9 shared documents
 **Locations:**
 
 - [N.A](../locations/na.md) - 8 shared documents
-- [Germany](../locations/germany.md) - 6 shared documents
 - [Asia](../locations/asia.md) - 6 shared documents
+- [Germany](../locations/germany.md) - 6 shared documents
 - [Italy](../locations/italy.md) - 6 shared documents
 - [Spain](../locations/spain.md) - 6 shared documents
 - [Greece](../locations/greece.md) - 5 shared documents
+- [Ireland](../locations/ireland.md) - 4 shared documents
 - [Japan](../locations/japan.md) - 4 shared documents
 - [Latin America](../locations/latin-america.md) - 4 shared documents
-- [Ireland](../locations/ireland.md) - 4 shared documents
 
 **Events:**
 
 - [this year](../events/this-year.md) - 6 shared documents
-- [annual](../events/annual.md) - 5 shared documents
 - [2012](../events/2012.md) - 5 shared documents
+- [annual](../events/annual.md) - 5 shared documents
 - [next year](../events/next-year.md) - 5 shared documents
 - [last week](../events/last-week.md) - 4 shared documents
 

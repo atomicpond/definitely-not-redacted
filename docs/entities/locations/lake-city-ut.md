@@ -30,15 +30,15 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Paul G. Cassell](../people/paul-g-cassell.md) - 12 shared documents
-- [Bradley J. Edwards](../people/bradley-j-edwards.md) - 11 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 11 shared documents
 - [Jane Doe](../people/jane-doe.md) - 10 shared documents
 - [Salt Lake City](../people/salt-lake-city.md) - 8 shared documents
 - [East Las Olas](../people/east-las-olas.md) - 7 shared documents
 - [Jane Does](../people/jane-does.md) - 7 shared documents
 - [Rights Act](../people/rights-act.md) - 7 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 6 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 6 shared documents
 - [Jack Scarola](../people/jack-scarola.md) - 6 shared documents
+- [Judge Marra](../people/judge-marra.md) - 6 shared documents
+- [L. GIUFFRE](../people/l-giuffre.md) - 6 shared documents
 
 **Organizations:**
 
@@ -68,16 +68,16 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
-- [2015](../events/2015.md) - 8 shared documents
-- [2011](../events/2011.md) - 8 shared documents
 - [1999](../events/1999.md) - 8 shared documents
+- [2011](../events/2011.md) - 8 shared documents
 - [2013](../events/2013.md) - 8 shared documents
-- [today](../events/today.md) - 7 shared documents
+- [2015](../events/2015.md) - 8 shared documents
 - [2008](../events/2008.md) - 7 shared documents
 - [December 30, 2014](../events/december-30-2014.md) - 7 shared documents
-- [2009](../events/2009.md) - 6 shared documents
-- [1998](../events/1998.md) - 6 shared documents
+- [today](../events/today.md) - 7 shared documents
+- [12](../events/12.md) - 6 shared documents
 - [13](../events/13.md) - 6 shared documents
+- [15](../events/15.md) - 6 shared documents
 
 ## Timeline
 

@@ -35,42 +35,39 @@ Top 7 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 5 shared documents
-- [Senate](../organizations/senate.md) - 5 shared documents
-- [White House](../organizations/white-house.md) - 5 shared documents
 - [Congress](../organizations/congress.md) - 5 shared documents
-- [the White House](../organizations/the-white-house.md) - 5 shared documents
+- [Daily News](../organizations/daily-news.md) - 5 shared documents
 - [FBI](../organizations/fbi.md) - 5 shared documents
+- [HOUSE](../organizations/house.md) - 5 shared documents
 - [IRS](../organizations/irs.md) - 5 shared documents
 - [Justice](../organizations/justice.md) - 5 shared documents
-- [Daily News](../organizations/daily-news.md) - 5 shared documents
-- [Fed](../organizations/fed.md) - 4 shared documents
+- [Senate](../organizations/senate.md) - 5 shared documents
+- [the White House](../organizations/the-white-house.md) - 5 shared documents
+- [White House](../organizations/white-house.md) - 5 shared documents
 
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 6 shared documents
+- [America](../locations/america.md) - 5 shared documents
 - [California](../locations/california.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
 - [Russia](../locations/russia.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
-- [America](../locations/america.md) - 5 shared documents
+- [United States](../locations/united-states.md) - 5 shared documents
 - [Virginia](../locations/virginia.md) - 5 shared documents
-- [China](../locations/china.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 6 shared documents
 - [this year](../events/this-year.md) - 6 shared documents
-- [Thursday](../events/thursday.md) - 5 shared documents
-- [daily](../events/daily.md) - 5 shared documents
-- [this week](../events/this-week.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [monthly](../events/monthly.md) - 5 shared documents
+- [today](../events/today.md) - 6 shared documents
 - [2010](../events/2010.md) - 5 shared documents
+- [daily](../events/daily.md) - 5 shared documents
+- [monthly](../events/monthly.md) - 5 shared documents
 - [months](../events/months.md) - 5 shared documents
 - [one year](../events/one-year.md) - 5 shared documents
+- [this week](../events/this-week.md) - 5 shared documents
+- [Thursday](../events/thursday.md) - 5 shared documents
+- [years](../events/years.md) - 5 shared documents
 
 ## Timeline
 

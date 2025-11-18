@@ -40,12 +40,12 @@ Top 10 documents by mention frequency:
 - [Crime Victims](../people/crime-victims.md) - 22 shared documents
 - [Rights Act](../people/rights-act.md) - 22 shared documents
 - [New Mexico](../people/new-mexico.md) - 18 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 16 shared documents
 - [Paul Cassell](../people/paul-cassell.md) - 16 shared documents
 - [Vanity Fair](../people/vanity-fair.md) - 16 shared documents
 - [Alfredo Rodriguez](../people/alfredo-rodriguez.md) - 15 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 15 shared documents
 - [Sarah Kellen](../people/sarah-kellen.md) - 15 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 14 shared documents
+- [District Court](../people/district-court.md) - 14 shared documents
 
 **Organizations:**
 
@@ -76,15 +76,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [2008](../events/2008.md) - 25 shared documents
-- [today](../events/today.md) - 24 shared documents
-- [2011](../events/2011.md) - 24 shared documents
 - [2005](../events/2005.md) - 24 shared documents
+- [2011](../events/2011.md) - 24 shared documents
+- [today](../events/today.md) - 24 shared documents
 - [2007](../events/2007.md) - 22 shared documents
 - [2004](../events/2004.md) - 21 shared documents
-- [2010](../events/2010.md) - 21 shared documents
 - [2006](../events/2006.md) - 21 shared documents
-- [2009](../events/2009.md) - 19 shared documents
+- [2010](../events/2010.md) - 21 shared documents
 - [2002](../events/2002.md) - 19 shared documents
+- [2009](../events/2009.md) - 19 shared documents
 
 ## Timeline
 

@@ -61,26 +61,26 @@ York](../people/new-york.md) - 6 shared documents
 - [London](london.md) - 9 shared documents
 - [Palm Beach](palm-beach.md) - 9 shared documents
 - [Florida](florida.md) - 8 shared documents
-- [Paris](paris.md) - 8 shared documents
 - [New Mexico](new-mexico.md) - 8 shared documents
+- [Paris](paris.md) - 8 shared documents
 - [the United States](the-united-states.md) - 7 shared documents
-- [New York](new-york.md) - 7 shared documents
+- [Boston](boston.md) - 7 shared documents
 - [California](california.md) - 7 shared documents
-- [France](france.md) - 7 shared documents
 - [Cambridge](cambridge.md) - 7 shared documents
+- [France](france.md) - 7 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 11 shared documents
 - [this week](../events/this-week.md) - 7 shared documents
 - [daily](../events/daily.md) - 6 shared documents
-- [Sunday](../events/sunday.md) - 6 shared documents
 - [May](../events/may.md) - 6 shared documents
-- [the next day](../events/the-next-day.md) - 6 shared documents
+- [Sunday](../events/sunday.md) - 6 shared documents
 - [the day](../events/the-day.md) - 6 shared documents
-- [that day](../events/that-day.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [monthly](../events/monthly.md) - 5 shared documents
+- [the next day](../events/the-next-day.md) - 6 shared documents
+- [1991](../events/1991.md) - 5 shared documents
+- [1995](../events/1995.md) - 5 shared documents
+- [a year](../events/a-year.md) - 5 shared documents
 
 ## Timeline
 

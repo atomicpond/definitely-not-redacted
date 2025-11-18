@@ -34,13 +34,13 @@ Top 10 documents by mention frequency:
 - [Associates Inc](../people/associates-inc.md) - 86 shared documents
 - [Floor 
 New](../people/floor-new.md) - 71 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 63 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 31 shared documents
 - [DARREN K. INDYKE](../people/darren-k-indyke.md) - 29 shared documents
 - [Darren Indyke](../people/darren-indyke.md) - 26 shared documents
 - [Floor New York](../people/floor-new-york.md) - 24 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 23 shared documents
+- [Richard Kahn 
+Sent](../people/richard-kahn-sent.md) - 18 shared documents
+- [Steven](../people/steven.md) - 14 shared documents
 
 **Organizations:**
 
@@ -77,8 +77,8 @@ New York, NY](../locations/floor-new-york-ny.md) - 66 shared documents
 - [today](../events/today.md) - 9 shared documents
 - [August 11, 2016](../events/august-11-2016.md) - 7 shared documents
 - [Monday, August 15, 2016](../events/monday-august-15-2016.md) - 7 shared documents
-- [this year](../events/this-year.md) - 7 shared documents
 - [OCT 10 2016](../events/oct-10-2016.md) - 7 shared documents
+- [this year](../events/this-year.md) - 7 shared documents
 - [2018](../events/2018.md) - 6 shared documents
 - [year](../events/year.md) - 6 shared documents
 - [2014](../events/2014.md) - 5 shared documents

@@ -28,14 +28,10 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [Epstein](../people/epstein.md) - 9 shared documents
 - [Jeffrey](../people/jeffrey.md) - 9 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 9 shared documents
-- [Krauss](../people/krauss.md) - 9 shared documents
 - [Lawrence Krauss](../people/lawrence-krauss.md) - 9 shared documents
-- [Lawrence M. Krauss](../people/lawrence-m-krauss.md) - 9 shared documents
 - [Rebecca Watson](../people/rebecca-watson.md) - 9 shared documents
-- [Lawrence](../people/lawrence.md) - 5 shared documents
 
 **Organizations:**
 
@@ -66,10 +62,10 @@ Co-Director](../organizations/project-co-director.md) - 9 shared documents
 - [today](today.md) - 9 shared documents
 - [Wed, Apr 6, 2011](wed-apr-6-2011.md) - 9 shared documents
 - [85287-1404](85287-1404.md) - 9 shared documents
-- [April 6, 2011](april-6-2011.md) - 9 shared documents
-- [this weekend](this-weekend.md) - 9 shared documents
 - [a few months ago](a-few-months-ago.md) - 9 shared documents
 - [Apr 6, 2011](apr-6-2011.md) - 9 shared documents
+- [April 6, 2011](april-6-2011.md) - 9 shared documents
+- [this weekend](this-weekend.md) - 9 shared documents
 
 ## Timeline
 

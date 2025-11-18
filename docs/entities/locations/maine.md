@@ -30,8 +30,8 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Mr. 
-Trump](../people/trump.md) - 6 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 6 shared documents
 - [Jane Doe](../people/jane-doe.md) - 5 shared documents
 
 **Organizations:**
@@ -62,14 +62,14 @@ Trump](../people/trump.md) - 6 shared documents
 
 - [2007](../events/2007.md) - 8 shared documents
 - [today](../events/today.md) - 7 shared documents
-- [annual](../events/annual.md) - 6 shared documents
 - [1996](../events/1996.md) - 6 shared documents
-- [daily](../events/daily.md) - 6 shared documents
-- [Sunday](../events/sunday.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
-- [the year](../events/the-year.md) - 6 shared documents
 - [2002](../events/2002.md) - 6 shared documents
-- [three years](../events/three-years.md) - 6 shared documents
+- [annual](../events/annual.md) - 6 shared documents
+- [daily](../events/daily.md) - 6 shared documents
+- [days](../events/days.md) - 6 shared documents
+- [September](../events/september.md) - 6 shared documents
+- [Sunday](../events/sunday.md) - 6 shared documents
+- [the year](../events/the-year.md) - 6 shared documents
 
 ## Timeline
 

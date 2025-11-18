@@ -44,14 +44,14 @@ Sent](ii-sent.md) - 6 shared documents
 
 **Events:**
 
-- [Sep 8, 2017](../events/sep-8-2017.md) - 12 shared documents
 - [Fri, Sep 8, 2017](../events/fri-sep-8-2017.md) - 12 shared documents
+- [Sep 8, 2017](../events/sep-8-2017.md) - 12 shared documents
 - [thurs](../events/thurs.md) - 11 shared documents
 - [Sat](../events/sat.md) - 10 shared documents
 - [Sep 9, 2017](../events/sep-9-2017.md) - 10 shared documents
 - [9/9/2017](../events/992017.md) - 7 shared documents
-- [Thursday](../events/thursday.md) - 6 shared documents
 - [fri](../events/fri.md) - 6 shared documents
+- [Thursday](../events/thursday.md) - 6 shared documents
 - [his first week](../events/his-first-week.md) - 4 shared documents
 
 ## Timeline

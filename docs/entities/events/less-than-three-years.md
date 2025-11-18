@@ -25,8 +25,8 @@ Top 6 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Cold War](../people/cold-war.md) - 6 shared documents
-- [President Obama](../people/president-obama.md) - 6 shared documents
 
 **Organizations:**
 

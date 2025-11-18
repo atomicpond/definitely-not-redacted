@@ -53,7 +53,6 @@ Top 10 documents by mention frequency:
 - [Harvard](../organizations/harvard.md) - 18 shared documents
 - [FBI](../organizations/fbi.md) - 16 shared documents
 - [Harvard University](../organizations/harvard-university.md) - 12 shared documents
-- [HOUSE](../organizations/house.md) - 10 shared documents
 
 **Locations:**
 
@@ -62,11 +61,11 @@ Top 10 documents by mention frequency:
 - [Miami](../locations/miami.md) - 15 shared documents
 - [New York](../locations/new-york.md) - 13 shared documents
 - [United States](../locations/united-states.md) - 13 shared documents
-- [U.S.](../locations/us.md) - 12 shared documents
 - [America](../locations/america.md) - 12 shared documents
 - [New York City](../locations/new-york-city.md) - 12 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 12 shared documents
-- [Germany](../locations/germany.md) - 11 shared documents
+- [U.S.](../locations/us.md) - 12 shared documents
+- [Australia](../locations/australia.md) - 11 shared documents
 
 **Events:**
 
@@ -74,12 +73,12 @@ Top 10 documents by mention frequency:
 - [2011](../events/2011.md) - 15 shared documents
 - [last year](../events/last-year.md) - 13 shared documents
 - [one year](../events/one-year.md) - 13 shared documents
+- [1991](../events/1991.md) - 12 shared documents
 - [2008](../events/2008.md) - 12 shared documents
 - [two years](../events/two-years.md) - 12 shared documents
-- [1991](../events/1991.md) - 12 shared documents
-- [2009](../events/2009.md) - 11 shared documents
-- [July](../events/july.md) - 11 shared documents
-- [2010](../events/2010.md) - 11 shared documents
+- [14](../events/14.md) - 11 shared documents
+- [18 months](../events/18-months.md) - 11 shared documents
+- [1981](../events/1981.md) - 11 shared documents
 
 ## Timeline
 

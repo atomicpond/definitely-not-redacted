@@ -16,7 +16,7 @@
 - [Angela Merkel](../entities/people/angela-merkel.md) - 2 mentions
 - [East Asia](../entities/people/east-asia.md) - 2 mentions
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 2 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 2 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 2 mentions
 - [George W. Bush](../entities/people/george-w-bush.md) - 2 mentions
 - [On Oct](../entities/people/on-oct.md) - 2 mentions
 

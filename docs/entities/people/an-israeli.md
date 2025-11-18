@@ -32,33 +32,33 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [Defense](../organizations/defense.md) - 4 shared documents
-- [State](../organizations/state.md) - 4 shared documents
 - [Arab League](../organizations/arab-league.md) - 4 shared documents
+- [Defense](../organizations/defense.md) - 4 shared documents
 - [Hamas](../organizations/hamas.md) - 4 shared documents
+- [State](../organizations/state.md) - 4 shared documents
 - [the Palestinian Authority](../organizations/the-palestinian-authority.md) - 4 shared documents
 - [the State of Israel](../organizations/the-state-of-israel.md) - 4 shared documents
 - [the United Nations](../organizations/the-united-nations.md) - 4 shared documents
 
 **Locations:**
 
+- [Egypt](../locations/egypt.md) - 5 shared documents
+- [Israel](../locations/israel.md) - 5 shared documents
 - [the Middle East](../locations/the-middle-east.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [Israel](../locations/israel.md) - 5 shared documents
 - [Turkey](../locations/turkey.md) - 5 shared documents
-- [Egypt](../locations/egypt.md) - 5 shared documents
-- [Middle East](../locations/middle-east.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
+- [Europe](../locations/europe.md) - 4 shared documents
+- [France](../locations/france.md) - 4 shared documents
+- [Gaza](../locations/gaza.md) - 4 shared documents
+- [Haifa](../locations/haifa.md) - 4 shared documents
 
 **Events:**
 
 - [a few weeks](../events/a-few-weeks.md) - 5 shared documents
-- [1993](../events/1993.md) - 4 shared documents
 - [1947](../events/1947.md) - 4 shared documents
 - [1967](../events/1967.md) - 4 shared documents
+- [1993](../events/1993.md) - 4 shared documents
 - [1994](../events/1994.md) - 4 shared documents
 - [decades](../events/decades.md) - 4 shared documents
 

@@ -18,9 +18,9 @@
 - [Khamenei](../entities/people/khamenei.md) - 19 mentions
 - [United 
 States](../entities/people/united-states.md) - 17 mentions
-- [Mr. Mubarak](../entities/people/mr-mubarak.md) - 15 mentions
+- [Mr. Mubarak](../entities/people/mubarak.md) - 15 mentions
 - [Assad](../entities/people/assad.md) - 14 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 8 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 8 mentions
 - [Al Qaeda](../entities/people/al-qaeda.md) - 6 mentions
 - [Gates](../entities/people/gates.md) - 6 mentions
 - [Middle East](../entities/people/middle-east.md) - 5 mentions

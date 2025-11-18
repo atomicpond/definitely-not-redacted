@@ -66,23 +66,23 @@ Beach Atlantic University](palm-beach-atlantic-university.md) - 8 shared documen
 - [Palm Beach](../locations/palm-beach.md) - 13 shared documents
 - [New York](../locations/new-york.md) - 12 shared documents
 - [New York City](../locations/new-york-city.md) - 12 shared documents
-- [West Palm Beach](../locations/west-palm-beach.md) - 12 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 12 shared documents
+- [West Palm Beach](../locations/west-palm-beach.md) - 12 shared documents
+- [America](../locations/america.md) - 11 shared documents
 - [U.S.](../locations/us.md) - 11 shared documents
-- [United States](../locations/united-states.md) - 11 shared documents
 
 **Events:**
 
 - [2007](../events/2007.md) - 14 shared documents
-- [last year](../events/last-year.md) - 13 shared documents
-- [2011](../events/2011.md) - 13 shared documents
-- [2010](../events/2010.md) - 13 shared documents
 - [18 months](../events/18-months.md) - 13 shared documents
-- [one year](../events/one-year.md) - 13 shared documents
 - [1981](../events/1981.md) - 13 shared documents
 - [1991](../events/1991.md) - 13 shared documents
+- [2010](../events/2010.md) - 13 shared documents
+- [2011](../events/2011.md) - 13 shared documents
+- [last year](../events/last-year.md) - 13 shared documents
+- [one year](../events/one-year.md) - 13 shared documents
+- [14](../events/14.md) - 12 shared documents
 - [2008](../events/2008.md) - 12 shared documents
-- [two years](../events/two-years.md) - 12 shared documents
 
 ## Timeline
 

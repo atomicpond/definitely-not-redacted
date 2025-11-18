@@ -10,7 +10,7 @@
 
 ### People
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 1 mention
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 1 mention
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 1 mention
 - [Putin](../entities/people/putin.md) - 1 mention
 - [Linda Stone](../entities/people/linda-stone.md) - 1 mention
 

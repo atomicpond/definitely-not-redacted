@@ -32,16 +32,11 @@ Top 7 documents by mention frequency:
 - [New Mexico Gov](new-mexico-gov.md) - 7 shared documents
 - [Adriana Ross](adriana-ross.md) - 6 shared documents
 - [Sarah Kellen](sarah-kellen.md) - 6 shared documents
-- [Harvard University](harvard-university.md) - 4 shared documents
-- [Gerald Lefcourt](gerald-lefcourt.md) - 4 shared documents
-- [Kenneth Starr](kenneth-starr.md) - 4 shared documents
-- [Roy Black](roy-black.md) - 4 shared documents
 
 **Organizations:**
 
 - [Treasury](../organizations/treasury.md) - 7 shared documents
 - [Maxwell](../organizations/maxwell.md) - 6 shared documents
-- [Harvard University](../organizations/harvard-university.md) - 4 shared documents
 
 **Locations:**
 
@@ -52,22 +47,22 @@ Top 7 documents by mention frequency:
 - [Paris](../locations/paris.md) - 6 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 6 shared documents
 - [the Virgin Islands](../locations/the-virgin-islands.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
+- [Beirut](../locations/beirut.md) - 4 shared documents
+- [Caribbean](../locations/caribbean.md) - 4 shared documents
 
 **Events:**
 
-- [last week](../events/last-week.md) - 7 shared documents
-- [2005](../events/2005.md) - 7 shared documents
 - [13 months](../events/13-months.md) - 7 shared documents
 - [2002](../events/2002.md) - 7 shared documents
+- [2005](../events/2005.md) - 7 shared documents
+- [last week](../events/last-week.md) - 7 shared documents
+- [18 months](../events/18-months.md) - 6 shared documents
 - [2004](../events/2004.md) - 6 shared documents
 - [2007](../events/2007.md) - 6 shared documents
-- [18 months](../events/18-months.md) - 6 shared documents
 - [April](../events/april.md) - 6 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [Wednesday](../events/wednesday.md) - 4 shared documents
+- [1998](../events/1998.md) - 4 shared documents
+- [20 years](../events/20-years.md) - 4 shared documents
 
 ## Timeline
 

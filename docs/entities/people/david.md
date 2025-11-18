@@ -30,17 +30,17 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jeffrey E](jeffrey-e.md) - 27 shared documents
-- [Donald 
-Trump](donald-trump.md) - 25 shared documents
-- [Jeffrey Epstein](jeffrey-epstein.md) - 22 shared documents
-- [Epstein](epstein.md) - 17 shared documents
-- [jeff epstein](jeff-epstein.md) - 16 shared documents
 - [martin Weinberg](martin-weinberg.md) - 16 shared documents
 - [Ingram](ingram.md) - 15 shared documents
 - [marty](marty.md) - 14 shared documents
-- [CLINTON](clinton.md) - 11 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 11 shared documents
 - [David Ingram 
 Correspondent](david-ingram-correspondent.md) - 10 shared documents
+- [MARTIN G. WEINBERG](martin-g-weinberg.md) - 9 shared documents
+- [Is Mr](is-mr.md) - 8 shared documents
+- [katie johnson v](katie-johnson-v.md) - 8 shared documents
+- [Reuters News](reuters-news.md) - 8 shared documents
 
 **Organizations:**
 
@@ -52,8 +52,6 @@ Correspondent](david-ingram-correspondent.md) - 10 shared documents
 - [Thomson Reuters](../organizations/thomson-reuters.md) - 9 shared documents
 - [Mueller](../organizations/mueller.md) - 8 shared documents
 - [Reuters.com](../organizations/reuterscom.md) - 7 shared documents
-- [Senate](../organizations/senate.md) - 6 shared documents
-- [Congress](../organizations/congress.md) - 6 shared documents
 
 **Locations:**
 
@@ -62,6 +60,7 @@ Correspondent](david-ingram-correspondent.md) - 10 shared documents
 - [London](../locations/london.md) - 10 shared documents
 - [Russia](../locations/russia.md) - 9 shared documents
 - [Washington](../locations/washington.md) - 8 shared documents
+- [Pennsylvania](../locations/pennsylvania.md) - 6 shared documents
 
 **Events:**
 
@@ -70,11 +69,11 @@ Correspondent](david-ingram-correspondent.md) - 10 shared documents
 - [this week](../events/this-week.md) - 15 shared documents
 - [today](../events/today.md) - 11 shared documents
 - [1987](../events/1987.md) - 9 shared documents
-- [2018](../events/2018.md) - 8 shared documents
-- [2012](../events/2012.md) - 8 shared documents
-- [April 28, 2016](../events/april-28-2016.md) - 8 shared documents
 - [12:14 PM](../events/1214-pm.md) - 8 shared documents
 - [12:14:37 PM EDT](../events/121437-pm-edt.md) - 8 shared documents
+- [12:20 PM](../events/1220-pm.md) - 8 shared documents
+- [2012](../events/2012.md) - 8 shared documents
+- [2018](../events/2018.md) - 8 shared documents
 
 ## Timeline
 

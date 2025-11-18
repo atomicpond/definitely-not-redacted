@@ -31,7 +31,7 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jeffrey E](../people/jeffrey-e.md) - 8 shared documents
-- [General Assembly](../people/general-assembly.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 
 **Organizations:**
 
@@ -60,16 +60,16 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
-- [today](today.md) - 14 shared documents
 - [2013](2013.md) - 14 shared documents
+- [today](today.md) - 14 shared documents
 - [this week](this-week.md) - 13 shared documents
-- [Friday](friday.md) - 12 shared documents
 - [decades](decades.md) - 12 shared documents
+- [Friday](friday.md) - 12 shared documents
 - [2018](2018.md) - 11 shared documents
-- [last year](last-year.md) - 11 shared documents
 - [last week](last-week.md) - 11 shared documents
+- [last year](last-year.md) - 11 shared documents
+- [2011](2011.md) - 10 shared documents
 - [2012](2012.md) - 10 shared documents
-- [daily](daily.md) - 10 shared documents
 
 ## Timeline
 

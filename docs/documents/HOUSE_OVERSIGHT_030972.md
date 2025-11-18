@@ -12,7 +12,7 @@
 - [Epstein](../entities/people/epstein.md) - 14 mentions
 - [Michael Wolff](../entities/people/michael-wolff.md) - 2 mentions
 - [Dmitry Rybolovlev](../entities/people/dmitry-rybolovlev.md) - 2 mentions
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 2 mentions
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 2 mentions
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 1 mention
 - [Mr. 
 Trump](../entities/people/mr-trump.md) - 1 mention

@@ -47,20 +47,20 @@ Top 9 documents by mention frequency:
 - [ISIS](isis.md) - 8 shared documents
 - [New York Magazine](new-york-magazine.md) - 8 shared documents
 - [NYU](nyu.md) - 8 shared documents
-- [Cooper Union](cooper-union.md) - 8 shared documents
 - [Carnegie](carnegie.md) - 8 shared documents
+- [Cooper Union](cooper-union.md) - 8 shared documents
 - [philanthropy](philanthropy.md) - 6 shared documents
 - [the Gates Foundation](the-gates-foundation.md) - 6 shared documents
 
 **Locations:**
 
-- [Qatar](../locations/qatar.md) - 8 shared documents
-- [Manhattan](../locations/manhattan.md) - 8 shared documents
 - [Caribbean](../locations/caribbean.md) - 8 shared documents
-- [Paris](../locations/paris.md) - 8 shared documents
-- [New Mexico](../locations/new-mexico.md) - 8 shared documents
 - [Coney Island](../locations/coney-island.md) - 8 shared documents
 - [Dalton](../locations/dalton.md) - 8 shared documents
+- [Manhattan](../locations/manhattan.md) - 8 shared documents
+- [New Mexico](../locations/new-mexico.md) - 8 shared documents
+- [Paris](../locations/paris.md) - 8 shared documents
+- [Qatar](../locations/qatar.md) - 8 shared documents
 - [the West Village](../locations/the-west-village.md) - 8 shared documents
 - [Europe](../locations/europe.md) - 7 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 7 shared documents
@@ -68,14 +68,14 @@ Top 9 documents by mention frequency:
 **Events:**
 
 - [Sunday](../events/sunday.md) - 9 shared documents
-- [daily](../events/daily.md) - 8 shared documents
-- [2002](../events/2002.md) - 8 shared documents
-- [two years](../events/two-years.md) - 8 shared documents
 - [1953](../events/1953.md) - 8 shared documents
 - [1982](../events/1982.md) - 8 shared documents
 - [1994](../events/1994.md) - 8 shared documents
-- [early September](../events/early-september.md) - 8 shared documents
+- [2002](../events/2002.md) - 8 shared documents
 - [20s and 30s](../events/20s-and-30s.md) - 8 shared documents
+- [daily](../events/daily.md) - 8 shared documents
+- [early September](../events/early-september.md) - 8 shared documents
+- [two years](../events/two-years.md) - 8 shared documents
 - [2004](../events/2004.md) - 7 shared documents
 
 ## Timeline

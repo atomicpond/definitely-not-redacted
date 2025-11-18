@@ -57,7 +57,7 @@ Top 6 documents by mention frequency:
 - [the 1990s](the-1990s.md) - 4 shared documents
 - [the day](the-day.md) - 4 shared documents
 - [today](today.md) - 4 shared documents
-- [2003](2003.md) - 4 shared documents
+- [1982](1982.md) - 4 shared documents
 
 ## Timeline
 

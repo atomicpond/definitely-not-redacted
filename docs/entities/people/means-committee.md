@@ -27,7 +27,6 @@ Top 6 documents by mention frequency:
 
 **People:**
 
-- [President Obama](president-obama.md) - 5 shared documents
 - [House Ways](house-ways.md) - 5 shared documents
 
 **Organizations:**
@@ -48,11 +47,11 @@ Top 6 documents by mention frequency:
 - [2014](../events/2014.md) - 6 shared documents
 - [2013](../events/2013.md) - 5 shared documents
 - [2009](../events/2009.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
-- [2012](../events/2012.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
-- [the year](../events/the-year.md) - 4 shared documents
 - [2010](../events/2010.md) - 4 shared documents
+- [2012](../events/2012.md) - 4 shared documents
+- [annual](../events/annual.md) - 4 shared documents
+- [the year](../events/the-year.md) - 4 shared documents
+- [this year](../events/this-year.md) - 4 shared documents
 
 ## Timeline
 

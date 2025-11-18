@@ -35,11 +35,11 @@ PS](../people/david-ps.md) - 5 shared documents
 
 - [Wikipedia](wikipedia.md) - 6 shared documents
 - [Creative Commons](creative-commons.md) - 6 shared documents
-- [Singularity University](singularity-university.md) - 6 shared documents
 - [Electronic Frontier Foundation](electronic-frontier-foundation.md) - 6 shared documents
 - [PLoS](plos.md) - 6 shared documents
-- [Signal](signal.md) - 6 shared documents
 - [Public Library of Science](public-library-of-science.md) - 6 shared documents
+- [Signal](signal.md) - 6 shared documents
+- [Singularity University](singularity-university.md) - 6 shared documents
 - [@Google](google.md) - 5 shared documents
 - [Android Nexus 6](android-nexus-6.md) - 5 shared documents
 - [Internet Archive](internet-archive.md) - 5 shared documents
@@ -48,10 +48,10 @@ PS](../people/david-ps.md) - 5 shared documents
 
 - [a few years ago](../events/a-few-years-ago.md) - 6 shared documents
 - [day](../events/day.md) - 6 shared documents
-- [4 years 
-ago](../events/4-years-ago.md) - 5 shared documents
 - [01/19/17](../events/01-19-17.md) - 5 shared documents
 - [1/20/2017](../events/1-20-2017.md) - 5 shared documents
+- [4 years 
+ago](../events/4-years-ago.md) - 5 shared documents
 - [Fri, Jan 20, 2017](../events/fri-jan-20-2017.md) - 5 shared documents
 - [Jan 20, 2017](../events/jan-20-2017.md) - 5 shared documents
 

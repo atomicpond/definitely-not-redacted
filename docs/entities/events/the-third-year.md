@@ -40,9 +40,9 @@ Top 6 documents by mention frequency:
 
 - [three years](three-years.md) - 6 shared documents
 - [two years](two-years.md) - 5 shared documents
+- [2012](2012.md) - 5 shared documents
 - [2014](2014.md) - 5 shared documents
 - [2015](2015.md) - 5 shared documents
-- [2012](2012.md) - 5 shared documents
 - [last week](last-week.md) - 5 shared documents
 - [this week](this-week.md) - 4 shared documents
 - [this year](this-year.md) - 4 shared documents

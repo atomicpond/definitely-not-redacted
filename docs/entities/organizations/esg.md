@@ -36,35 +36,32 @@ Top 10 documents by mention frequency:
 - [the European Union](the-european-union.md) - 6 shared documents
 - [Goldman Sachs](goldman-sachs.md) - 5 shared documents
 - [the Financial Conduct Authority](the-financial-conduct-authority.md) - 5 shared documents
-- [Bloomberg](bloomberg.md) - 4 shared documents
-- [Congress](congress.md) - 4 shared documents
-- [EPS](eps.md) - 4 shared documents
 
 **Locations:**
 
 - [Spain](../locations/spain.md) - 7 shared documents
-- [Europe](../locations/europe.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
-- [Brazil](../locations/brazil.md) - 6 shared documents
-- [London](../locations/london.md) - 6 shared documents
 - [Asia](../locations/asia.md) - 6 shared documents
+- [Brazil](../locations/brazil.md) - 6 shared documents
+- [Europe](../locations/europe.md) - 6 shared documents
 - [France](../locations/france.md) - 6 shared documents
-- [Paris](../locations/paris.md) - 6 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 6 shared documents
+- [Japan](../locations/japan.md) - 6 shared documents
+- [London](../locations/london.md) - 6 shared documents
+- [Paris](../locations/paris.md) - 6 shared documents
 - [Singapore](../locations/singapore.md) - 6 shared documents
 
 **Events:**
 
-- [year](../events/year.md) - 6 shared documents
 - [many years](../events/many-years.md) - 6 shared documents
 - [the end of the year](../events/the-end-of-the-year.md) - 6 shared documents
+- [year](../events/year.md) - 6 shared documents
+- [10-year](../events/10-year.md) - 5 shared documents
 - [2015](../events/2015.md) - 5 shared documents
 - [annual](../events/annual.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [10-year](../events/10-year.md) - 5 shared documents
 - [December 2016](../events/december-2016.md) - 5 shared documents
-- [2018](../events/2018.md) - 4 shared documents
-- [2016](../events/2016.md) - 4 shared documents
+- [years](../events/years.md) - 5 shared documents
+- [2001](../events/2001.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
 
 ## Timeline
 

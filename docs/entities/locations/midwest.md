@@ -31,9 +31,9 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 11 shared documents
+- [Barack Obama](../people/barack-obama.md) - 8 shared documents
 - [Goldman Sachs](../people/goldman-sachs.md) - 8 shared documents
 - [Los Angeles](../people/los-angeles.md) - 8 shared documents
-- [President Obama](../people/president-obama.md) - 8 shared documents
 - [San Francisco](../people/san-francisco.md) - 8 shared documents
 - [White House](../people/white-house.md) - 8 shared documents
 
@@ -61,7 +61,7 @@ Top 10 documents by mention frequency:
 - [France](france.md) - 12 shared documents
 - [West](west.md) - 11 shared documents
 - [Texas](texas.md) - 10 shared documents
-- [China](china.md) - 10 shared documents
+- [America](america.md) - 10 shared documents
 
 **Events:**
 
@@ -69,12 +69,12 @@ Top 10 documents by mention frequency:
 - [years](../events/years.md) - 13 shared documents
 - [2008](../events/2008.md) - 11 shared documents
 - [2012](../events/2012.md) - 10 shared documents
+- [every day](../events/every-day.md) - 10 shared documents
 - [this year](../events/this-year.md) - 10 shared documents
 - [tomorrow](../events/tomorrow.md) - 10 shared documents
-- [every day](../events/every-day.md) - 10 shared documents
+- [2005](../events/2005.md) - 8 shared documents
 - [2014](../events/2014.md) - 8 shared documents
 - [a day](../events/a-day.md) - 8 shared documents
-- [2005](../events/2005.md) - 8 shared documents
 
 ## Timeline
 

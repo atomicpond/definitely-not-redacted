@@ -32,14 +32,13 @@ Top 10 documents by mention frequency:
 
 **People:**
 
+- [Donald 
+Trump](../people/donald-trump.md) - 6 shared documents
 - [James Comey](../people/james-comey.md) - 6 shared documents
 - [Michael Flynn](../people/michael-flynn.md) - 6 shared documents
-- [Robert Mueller](../people/robert-mueller.md) - 6 shared documents
 - [Rudy Giuliani](../people/rudy-giuliani.md) - 6 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 6 shared documents
 - [Giuliani](../people/giuliani.md) - 5 shared documents
-- [mueller](../people/mueller.md) - 5 shared documents
+- [Robert Mueller](../people/robert-mueller.md) - 5 shared documents
 - [Sergey Kislyak](../people/sergey-kislyak.md) - 5 shared documents
 - [White House](../people/white-house.md) - 5 shared documents
 

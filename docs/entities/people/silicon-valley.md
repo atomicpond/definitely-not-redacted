@@ -30,8 +30,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Hillary Clinton](hillary-clinton.md) - 7 shared documents
-- [Mr. 
-Trump](trump.md) - 6 shared documents
 - [White House](white-house.md) - 5 shared documents
 - [Biden](biden.md) - 5 shared documents
 - [Donald 
@@ -41,11 +39,11 @@ Trump](donald-trump.md) - 5 shared documents
 **Organizations:**
 
 - [Facebook](../organizations/facebook.md) - 6 shared documents
+- [Congress](../organizations/congress.md) - 5 shared documents
 - [HOUSE](../organizations/house.md) - 5 shared documents
 - [Trump](../organizations/trump.md) - 5 shared documents
-- [Congress](../organizations/congress.md) - 5 shared documents
-- [Supreme Court](../organizations/supreme-court.md) - 4 shared documents
 - [Google](../organizations/google.md) - 4 shared documents
+- [Supreme Court](../organizations/supreme-court.md) - 4 shared documents
 
 **Locations:**
 
@@ -62,9 +60,9 @@ Trump](donald-trump.md) - 5 shared documents
 - [2016](../events/2016.md) - 7 shared documents
 - [2019](../events/2019.md) - 5 shared documents
 - [daily](../events/daily.md) - 4 shared documents
-- [next year](../events/next-year.md) - 4 shared documents
 - [May](../events/may.md) - 4 shared documents
 - [months](../events/months.md) - 4 shared documents
+- [next year](../events/next-year.md) - 4 shared documents
 
 ## Timeline
 

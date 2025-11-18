@@ -38,43 +38,42 @@ Top 10 documents by mention frequency:
 - [New Jersey](new-jersey.md) - 8 shared documents
 - [West Coast](west-coast.md) - 7 shared documents
 - [Harvard Medical School](harvard-medical-school.md) - 6 shared documents
-- [President Obama](president-obama.md) - 6 shared documents
 - [Saudi Arabia](saudi-arabia.md) - 6 shared documents
 - [Vice President](vice-president.md) - 6 shared documents
+- [White House](white-house.md) - 6 shared documents
 
 **Organizations:**
 
 - [Columbia University](../organizations/columbia-university.md) - 17 shared documents
-- [the New York Times](../organizations/the-new-york-times.md) - 12 shared documents
 - [Stanford University](../organizations/stanford-university.md) - 12 shared documents
+- [the New York Times](../organizations/the-new-york-times.md) - 12 shared documents
 - [Harvard](../organizations/harvard.md) - 11 shared documents
-- [Harvard University](../organizations/harvard-university.md) - 10 shared documents
 
 **Locations:**
 
 - [China](../locations/china.md) - 14 shared documents
-- [the United States](../locations/the-united-states.md) - 14 shared documents
 - [Paris](../locations/paris.md) - 14 shared documents
-- [United States](../locations/united-states.md) - 13 shared documents
-- [Russia](../locations/russia.md) - 13 shared documents
-- [Germany](../locations/germany.md) - 13 shared documents
+- [the United States](../locations/the-united-states.md) - 14 shared documents
 - [France](../locations/france.md) - 13 shared documents
+- [Germany](../locations/germany.md) - 13 shared documents
 - [India](../locations/india.md) - 13 shared documents
+- [Russia](../locations/russia.md) - 13 shared documents
+- [United States](../locations/united-states.md) - 13 shared documents
 - [California](../locations/california.md) - 12 shared documents
-- [Japan](../locations/japan.md) - 12 shared documents
+- [England](../locations/england.md) - 12 shared documents
 
 **Events:**
 
 - [daily](../events/daily.md) - 13 shared documents
 - [decades](../events/decades.md) - 13 shared documents
-- [2004](../events/2004.md) - 12 shared documents
-- [today](../events/today.md) - 12 shared documents
-- [2012](../events/2012.md) - 12 shared documents
-- [years](../events/years.md) - 12 shared documents
-- [the year](../events/the-year.md) - 12 shared documents
 - [1999](../events/1999.md) - 12 shared documents
 - [2001](../events/2001.md) - 12 shared documents
+- [2004](../events/2004.md) - 12 shared documents
+- [2012](../events/2012.md) - 12 shared documents
+- [the year](../events/the-year.md) - 12 shared documents
+- [today](../events/today.md) - 12 shared documents
 - [weekly](../events/weekly.md) - 12 shared documents
+- [years](../events/years.md) - 12 shared documents
 
 ## Timeline
 

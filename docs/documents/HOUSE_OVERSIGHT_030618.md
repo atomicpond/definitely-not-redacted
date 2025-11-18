@@ -39,7 +39,7 @@
 - [today](../entities/events/today.md) - 1 mention
 - [age 17](../entities/events/age-17.md) - 1 mention
 - [October 18, 2013](../entities/events/october-18-2013.md) - 1 mention
-- [10/19/2013](../entities/events/10192013.md) - 1 mention
+- [10/19/2013](../entities/events/10-19-2013.md) - 1 mention
 
 ## Document Text
 

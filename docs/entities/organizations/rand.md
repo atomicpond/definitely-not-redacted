@@ -33,7 +33,6 @@ Top 10 documents by mention frequency:
 - [Cold War](../people/cold-war.md) - 6 shared documents
 - [Middle East](../people/middle-east.md) - 6 shared documents
 - [Barack Obama](../people/barack-obama.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
 - [San Francisco](../people/san-francisco.md) - 5 shared documents
 
 **Organizations:**
@@ -51,29 +50,29 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 9 shared documents
-- [Russia](../locations/russia.md) - 9 shared documents
-- [Germany](../locations/germany.md) - 9 shared documents
 - [France](../locations/france.md) - 9 shared documents
-- [the United States](../locations/the-united-states.md) - 9 shared documents
+- [Germany](../locations/germany.md) - 9 shared documents
 - [India](../locations/india.md) - 9 shared documents
+- [Russia](../locations/russia.md) - 9 shared documents
+- [the United States](../locations/the-united-states.md) - 9 shared documents
+- [United States](../locations/united-states.md) - 9 shared documents
+- [America](../locations/america.md) - 8 shared documents
+- [Australia](../locations/australia.md) - 8 shared documents
 - [California](../locations/california.md) - 8 shared documents
 - [China](../locations/china.md) - 8 shared documents
-- [Europe](../locations/europe.md) - 8 shared documents
-- [Japan](../locations/japan.md) - 8 shared documents
 
 **Events:**
 
-- [2012](../events/2012.md) - 10 shared documents
 - [1995](../events/1995.md) - 10 shared documents
+- [2012](../events/2012.md) - 10 shared documents
+- [1990](../events/1990.md) - 9 shared documents
+- [1991](../events/1991.md) - 9 shared documents
+- [1996](../events/1996.md) - 9 shared documents
+- [1999](../events/1999.md) - 9 shared documents
 - [2003](../events/2003.md) - 9 shared documents
 - [2004](../events/2004.md) - 9 shared documents
-- [1996](../events/1996.md) - 9 shared documents
-- [1990](../events/1990.md) - 9 shared documents
-- [1999](../events/1999.md) - 9 shared documents
-- [1991](../events/1991.md) - 9 shared documents
-- [2009](../events/2009.md) - 8 shared documents
-- [2014](../events/2014.md) - 8 shared documents
+- [1978](../events/1978.md) - 8 shared documents
+- [1985](../events/1985.md) - 8 shared documents
 
 ## Timeline
 

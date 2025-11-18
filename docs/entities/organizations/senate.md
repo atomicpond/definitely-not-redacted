@@ -32,16 +32,16 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 36 shared documents
-- [Barack Obama](../people/barack-obama.md) - 26 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 26 shared documents
-- [President Trump](../people/president-trump.md) - 23 shared documents
-- [President Obama](../people/president-obama.md) - 22 shared documents
 - [Middle East](../people/middle-east.md) - 21 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 20 shared documents
-- [CLINTON](../people/clinton.md) - 17 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 17 shared documents
 - [Hillary Clinton](../people/hillary-clinton.md) - 16 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 16 shared documents
+- [Los Angeles](../people/los-angeles.md) - 15 shared documents
+- [Federal Bureau](../people/federal-bureau.md) - 14 shared documents
+- [New Jersey](../people/new-jersey.md) - 14 shared documents
+- [Federal Reserve](../people/federal-reserve.md) - 13 shared documents
 
 **Organizations:**
 
@@ -79,8 +79,8 @@ Trump](../people/trump.md) - 26 shared documents
 - [2016](../events/2016.md) - 31 shared documents
 - [last year](../events/last-year.md) - 31 shared documents
 - [years](../events/years.md) - 31 shared documents
-- [2009](../events/2009.md) - 30 shared documents
 - [2000](../events/2000.md) - 30 shared documents
+- [2009](../events/2009.md) - 30 shared documents
 
 ## Timeline
 

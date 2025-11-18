@@ -28,7 +28,6 @@ Top 6 documents by mention frequency:
 - [Jane Doe](../people/jane-doe.md) - 6 shared documents
 - [Rights Act](../people/rights-act.md) - 6 shared documents
 - [Brad Edwards](../people/brad-edwards.md) - 5 shared documents
-- [Bradley J. Edwards](../people/bradley-j-edwards.md) - 5 shared documents
 - [Crime Victims](../people/crime-victims.md) - 5 shared documents
 - [Jack Scarola](../people/jack-scarola.md) - 5 shared documents
 - [Paul Cassell](../people/paul-cassell.md) - 5 shared documents
@@ -58,14 +57,14 @@ Top 6 documents by mention frequency:
 
 - [2008](2008.md) - 6 shared documents
 - [today](today.md) - 5 shared documents
-- [2015](2015.md) - 5 shared documents
-- [2011](2011.md) - 5 shared documents
 - [1999](1999.md) - 5 shared documents
-- [2003](2003.md) - 4 shared documents
-- [2009](2009.md) - 4 shared documents
-- [2010](2010.md) - 4 shared documents
-- [2006](2006.md) - 4 shared documents
+- [2011](2011.md) - 5 shared documents
+- [2015](2015.md) - 5 shared documents
+- [16](16.md) - 4 shared documents
+- [1988](1988.md) - 4 shared documents
+- [1989](1989.md) - 4 shared documents
 - [2002](2002.md) - 4 shared documents
+- [2003](2003.md) - 4 shared documents
 
 ## Timeline
 

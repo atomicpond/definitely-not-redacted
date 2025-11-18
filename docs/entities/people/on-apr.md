@@ -30,8 +30,7 @@ Top 9 documents by mention frequency:
 
 - [Jeffrey Epstein](jeffrey-epstein.md) - 9 shared documents
 - [On Sun](on-sun.md) - 6 shared documents
-- [President Obama](president-obama.md) - 6 shared documents
-- [Mr. Obama](obama.md) - 6 shared documents
+- [Barack Obama](barack-obama.md) - 6 shared documents
 - [Joi Ito](joi-ito.md) - 6 shared documents
 
 **Organizations:**
@@ -44,8 +43,8 @@ Top 9 documents by mention frequency:
 
 **Events:**
 
-- [2014](../events/2014.md) - 6 shared documents
 - [15-year](../events/15-year.md) - 6 shared documents
+- [2014](../events/2014.md) - 6 shared documents
 - [6:54 AM](../events/654-am.md) - 6 shared documents
 - [Apr 27, 2014](../events/apr-27-2014.md) - 6 shared documents
 - [04:41](../events/0441.md) - 5 shared documents

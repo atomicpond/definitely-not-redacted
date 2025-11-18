@@ -31,13 +31,14 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 17 shared documents
-- [President Obama](../people/president-obama.md) - 14 shared documents
-- [Barack Obama](../people/barack-obama.md) - 11 shared documents
+- [Barack Obama](../people/barack-obama.md) - 14 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 10 shared documents
 - [Los Angeles](../people/los-angeles.md) - 8 shared documents
 - [Middle East](../people/middle-east.md) - 8 shared documents
 - [San Francisco](../people/san-francisco.md) - 8 shared documents
 - [Medicaid Services](../people/medicaid-services.md) - 7 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 6 shared documents
 - [Las Vegas](../people/las-vegas.md) - 6 shared documents
 - [New Hampshire](../people/new-hampshire.md) - 6 shared documents
 
@@ -60,8 +61,8 @@ Top 10 documents by mention frequency:
 - [America](../locations/america.md) - 17 shared documents
 - [Florida](../locations/florida.md) - 16 shared documents
 - [Canada](../locations/canada.md) - 15 shared documents
-- [Washington](../locations/washington.md) - 14 shared documents
 - [Ohio](../locations/ohio.md) - 14 shared documents
+- [Washington](../locations/washington.md) - 14 shared documents
 - [California](../locations/california.md) - 13 shared documents
 - [United States](../locations/united-states.md) - 13 shared documents
 - [Germany](../locations/germany.md) - 12 shared documents
@@ -70,14 +71,14 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [annual](../events/annual.md) - 22 shared documents
-- [today](../events/today.md) - 18 shared documents
 - [2012](../events/2012.md) - 18 shared documents
+- [today](../events/today.md) - 18 shared documents
+- [last week](../events/last-week.md) - 16 shared documents
 - [this year](../events/this-year.md) - 16 shared documents
 - [years](../events/years.md) - 16 shared documents
-- [last week](../events/last-week.md) - 16 shared documents
-- [2014](../events/2014.md) - 15 shared documents
 - [2000](../events/2000.md) - 15 shared documents
 - [2013](../events/2013.md) - 15 shared documents
+- [2014](../events/2014.md) - 15 shared documents
 - [2009](../events/2009.md) - 14 shared documents
 
 ## Timeline

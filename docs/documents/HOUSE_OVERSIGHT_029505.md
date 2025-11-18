@@ -10,7 +10,7 @@
 
 ### People
 - [Saudi Arabia](../entities/people/saudi-arabia.md) - 4 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 4 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 4 mentions
 - [Muslim 
 Brotherhood](../entities/people/muslim-brotherhood.md) - 4 mentions
 - [kushner](../entities/people/kushner.md) - 4 mentions

@@ -33,33 +33,31 @@ Top 10 documents by mention frequency:
 - [Kenneth W. Starr](kenneth-w-starr.md) - 9 shared documents
 - [Mark Filip](mark-filip.md) - 8 shared documents
 - [Alex Acosta](alex-acosta.md) - 6 shared documents
-- [Jay Lefkowitz](jay-lefkowitz.md) - 6 shared documents
-- [Fax Transmittal](fax-transmittal.md) - 6 shared documents
 - [Starr May](starr-may.md) - 5 shared documents
 
 **Organizations:**
 
 - [State](../organizations/state.md) - 11 shared documents
+- [CEOS](../organizations/ceos.md) - 9 shared documents
 - [HOUSE](../organizations/house.md) - 9 shared documents
+- [Kirkland & Ellis LLP](../organizations/kirkland-ellis-llp.md) - 9 shared documents
 - [Office](../organizations/office.md) - 9 shared documents
 - [USAO](../organizations/usao.md) - 9 shared documents
-- [CEOS](../organizations/ceos.md) - 9 shared documents
-- [Kirkland & Ellis LLP](../organizations/kirkland-ellis-llp.md) - 9 shared documents
 - [the New York Times](../organizations/the-new-york-times.md) - 8 shared documents
 - [United States Department of Justice](../organizations/united-states-department-of-justice.md) - 8 shared documents
 - [the Department of Justice](../organizations/the-department-of-justice.md) - 7 shared documents
-- [Senate](../organizations/senate.md) - 6 shared documents
+- [Alston & Bird LLP](../organizations/alston-bird-llp.md) - 6 shared documents
 
 **Locations:**
 
 - [California](../locations/california.md) - 10 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 10 shared documents
 - [D.C.](../locations/dc.md) - 10 shared documents
-- [USA](../locations/usa.md) - 9 shared documents
-- [Washington](../locations/washington.md) - 9 shared documents
-- [the United States](../locations/the-united-states.md) - 9 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 10 shared documents
 - [777 South Figueroa Street](../locations/777-south-figueroa-street.md) - 9 shared documents
 - [950 Pennsylvania Avenue](../locations/950-pennsylvania-avenue.md) - 9 shared documents
+- [the United States](../locations/the-united-states.md) - 9 shared documents
+- [USA](../locations/usa.md) - 9 shared documents
+- [Washington](../locations/washington.md) - 9 shared documents
 - [Miami](../locations/miami.md) - 8 shared documents
 - [N.W.](../locations/nw.md) - 8 shared documents
 
@@ -67,8 +65,8 @@ Top 10 documents by mention frequency:
 
 - [May 19, 2008](../events/may-19-2008.md) - 9 shared documents
 - [two-year](../events/two-year.md) - 7 shared documents
-- [2007](../events/2007.md) - 6 shared documents
 - [16](../events/16.md) - 6 shared documents
+- [2007](../events/2007.md) - 6 shared documents
 
 ## Timeline
 

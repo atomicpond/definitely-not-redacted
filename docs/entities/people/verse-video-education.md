@@ -24,15 +24,14 @@ Top 5 documents by mention frequency:
 
 **People:**
 
-- [Lisa New](lisa-new.md) - 5 shared documents
 - [Al Gore](al-gore.md) - 5 shared documents
-- [Larry Summers](larry-summers.md) - 4 shared documents
+- [Lisa New](lisa-new.md) - 5 shared documents
 - [elena kagan](elena-kagan.md) - 4 shared documents
 - [Elena Kagan 
 Sir](elena-kagan-sir.md) - 4 shared documents
-- [Rahm Emanuel](rahm-emanuel.md) - 4 shared documents
-- [Treasury Larry Summers](treasury-larry-summers.md) - 4 shared documents
 - [High School](high-school.md) - 4 shared documents
+- [Larry Summers](larry-summers.md) - 4 shared documents
+- [Rahm Emanuel](rahm-emanuel.md) - 4 shared documents
 
 **Organizations:**
 

@@ -11,7 +11,7 @@
 ### People
 - [Epstein](../entities/people/epstein.md) - 4 mentions
 - [Mr. 
-Dershowitz](../entities/people/mr-dershowitz.md) - 2 mentions
+Dershowitz](../entities/people/alan-dershowitz.md) - 2 mentions
 - [Alan 
 Dershowitz](../entities/people/alan-dershowitz.md) - 2 mentions
 - [Lolita Express](../entities/people/lolita-express.md) - 1 mention

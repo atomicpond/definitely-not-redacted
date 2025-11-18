@@ -26,26 +26,26 @@ Top 5 documents by mention frequency:
 **Organizations:**
 
 - [HOUSE](house.md) - 5 shared documents
-- [The New Yorker](the-new-yorker.md) - 4 shared documents
-- [New York Times](new-york-times.md) - 4 shared documents
 - [Google](google.md) - 4 shared documents
+- [New York Times](new-york-times.md) - 4 shared documents
+- [The New Yorker](the-new-yorker.md) - 4 shared documents
 
 **Locations:**
 
 - [London](../locations/london.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
-- [USA](../locations/usa.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 - [Australia](../locations/australia.md) - 4 shared documents
 - [Britain](../locations/britain.md) - 4 shared documents
+- [Germany](../locations/germany.md) - 4 shared documents
 - [Latin America](../locations/latin-america.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 4 shared documents
+- [USA](../locations/usa.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 
-- [summer](../events/summer.md) - 4 shared documents
-- [2011](../events/2011.md) - 4 shared documents
 - [2010](../events/2010.md) - 4 shared documents
+- [2011](../events/2011.md) - 4 shared documents
+- [summer](../events/summer.md) - 4 shared documents
 
 ## Timeline
 

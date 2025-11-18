@@ -29,8 +29,8 @@ Top 5 documents by mention frequency:
 **Locations:**
 
 - [US](../locations/us.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
 - [Boston](../locations/boston.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
 
 ## Timeline
 

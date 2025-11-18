@@ -47,23 +47,23 @@ Top 10 documents by mention frequency:
 - [Germany](germany.md) - 13 shared documents
 - [the United States](the-united-states.md) - 12 shared documents
 - [Africa](africa.md) - 12 shared documents
+- [Chicago](chicago.md) - 12 shared documents
 - [Florida](florida.md) - 12 shared documents
 - [France](france.md) - 12 shared documents
-- [Chicago](chicago.md) - 12 shared documents
 - [Israel](israel.md) - 11 shared documents
 
 **Events:**
 
+- [2010](../events/2010.md) - 12 shared documents
 - [annual](../events/annual.md) - 12 shared documents
 - [years](../events/years.md) - 12 shared documents
-- [2010](../events/2010.md) - 12 shared documents
 - [today](../events/today.md) - 11 shared documents
+- [1981](../events/1981.md) - 10 shared documents
+- [1999](../events/1999.md) - 10 shared documents
 - [2000](../events/2000.md) - 10 shared documents
 - [2012](../events/2012.md) - 10 shared documents
-- [1999](../events/1999.md) - 10 shared documents
-- [three years](../events/three-years.md) - 10 shared documents
-- [1981](../events/1981.md) - 10 shared documents
 - [each year](../events/each-year.md) - 10 shared documents
+- [three years](../events/three-years.md) - 10 shared documents
 
 ## Timeline
 

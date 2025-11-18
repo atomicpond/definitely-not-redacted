@@ -26,7 +26,7 @@ Top 5 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 4 shared documents
+- [Barack Obama](../people/barack-obama.md) - 4 shared documents
 - [San Francisco](../people/san-francisco.md) - 4 shared documents
 - [Sloan School](../people/sloan-school.md) - 4 shared documents
 - [White House](../people/white-house.md) - 4 shared documents
@@ -46,16 +46,16 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
 - [Iraq](../locations/iraq.md) - 4 shared documents
+- [Netherlands](../locations/netherlands.md) - 4 shared documents
 - [New York City](../locations/new-york-city.md) - 4 shared documents
 - [San Francisco](../locations/san-francisco.md) - 4 shared documents
-- [Netherlands](../locations/netherlands.md) - 4 shared documents
-- [Afghanistan](../locations/afghanistan.md) - 4 shared documents
 
 **Events:**
 

@@ -48,15 +48,15 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Massachusetts](../locations/massachusetts.md) - 5 shared documents
-- [Boston](../locations/boston.md) - 5 shared documents
-- [Nantucket](../locations/nantucket.md) - 5 shared documents
 - [Amherst](../locations/amherst.md) - 5 shared documents
+- [Boston](../locations/boston.md) - 5 shared documents
+- [Massachusetts](../locations/massachusetts.md) - 5 shared documents
+- [Nantucket](../locations/nantucket.md) - 5 shared documents
 - [Vermont](../locations/vermont.md) - 5 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [Jamaica](../locations/jamaica.md) - 4 shared documents
 - [Aspen](../locations/aspen.md) - 4 shared documents
+- [California](../locations/california.md) - 4 shared documents
 - [Connecticut](../locations/connecticut.md) - 4 shared documents
+- [Jamaica](../locations/jamaica.md) - 4 shared documents
 
 ## Timeline
 

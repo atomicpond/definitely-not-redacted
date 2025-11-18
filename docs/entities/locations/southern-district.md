@@ -60,8 +60,8 @@ Top 10 documents by mention frequency:
 - [Florida](florida.md) - 17 shared documents
 - [Palm Beach](palm-beach.md) - 17 shared documents
 - [the Southern District](the-southern-district.md) - 15 shared documents
-- [New York](new-york.md) - 15 shared documents
 - [Miami](miami.md) - 15 shared documents
+- [New York](new-york.md) - 15 shared documents
 - [West Palm Beach](west-palm-beach.md) - 14 shared documents
 - [New Mexico](new-mexico.md) - 13 shared documents
 - [the United States](the-united-states.md) - 12 shared documents
@@ -72,13 +72,13 @@ Top 10 documents by mention frequency:
 - [2008](../events/2008.md) - 14 shared documents
 - [today](../events/today.md) - 13 shared documents
 - [years](../events/years.md) - 12 shared documents
-- [2009](../events/2009.md) - 11 shared documents
 - [2006](../events/2006.md) - 11 shared documents
-- [Wednesday](../events/wednesday.md) - 10 shared documents
+- [2009](../events/2009.md) - 11 shared documents
 - [the day](../events/the-day.md) - 10 shared documents
-- [daily](../events/daily.md) - 9 shared documents
-- [2011](../events/2011.md) - 9 shared documents
+- [Wednesday](../events/wednesday.md) - 10 shared documents
+- [14](../events/14.md) - 9 shared documents
 - [1984](../events/1984.md) - 9 shared documents
+- [2002](../events/2002.md) - 9 shared documents
 
 ## Timeline
 

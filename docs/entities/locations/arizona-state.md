@@ -27,10 +27,6 @@ Top 10 documents by mention frequency:
 
 ### Most Frequently Co-occurring Entities
 
-**People:**
-
-- [Lawrence Krauss](../people/lawrence-krauss.md) - 12 shared documents
-
 **Organizations:**
 
 - [Arizona State University](../organizations/arizona-state-university.md) - 12 shared documents
@@ -60,15 +56,15 @@ University](../organizations/case-western-reserve-university.md) - 11 shared doc
 
 **Events:**
 
-- [October](../events/october.md) - 13 shared documents
-- [2007](../events/2007.md) - 13 shared documents
-- [2014](../events/2014.md) - 13 shared documents
-- [2008](../events/2008.md) - 13 shared documents
 - [2006](../events/2006.md) - 13 shared documents
-- [this year](../events/this-year.md) - 12 shared documents
+- [2007](../events/2007.md) - 13 shared documents
+- [2008](../events/2008.md) - 13 shared documents
+- [2014](../events/2014.md) - 13 shared documents
+- [October](../events/october.md) - 13 shared documents
 - [earlier this year](../events/earlier-this-year.md) - 12 shared documents
-- [85287-1404](../events/85287-1404.md) - 11 shared documents
+- [this year](../events/this-year.md) - 12 shared documents
 - [2016](../events/2016.md) - 11 shared documents
+- [85287-1404](../events/85287-1404.md) - 11 shared documents
 - [April 2011](../events/april-2011.md) - 11 shared documents
 
 ## Timeline

@@ -29,7 +29,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [jeffrey E. <](../people/jeffrey-e.md) - 17 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 17 shared documents
 - [jeffrey E.](../people/jeffrey-e.md) - 13 shared documents
 - [Michael Wolff](../people/michael-wolff.md) - 6 shared documents
 - [Charlie Rose](../people/charlie-rose.md) - 4 shared documents
@@ -57,8 +57,8 @@ Top 10 documents by mention frequency:
 - [Monday](monday.md) - 6 shared documents
 - [tomorrow](tomorrow.md) - 6 shared documents
 - [Feb.](feb.md) - 6 shared documents
-- [1/9/2015](1-9-2015.md) - 5 shared documents
 - [1/10/2015](1-10-2015.md) - 5 shared documents
+- [1/9/2015](1-9-2015.md) - 5 shared documents
 - [past five years](past-five-years.md) - 4 shared documents
 - [a 21st century](a-21st-century.md) - 4 shared documents
 

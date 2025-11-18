@@ -30,24 +30,22 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Bill 
-Clinton](bill-clinton.md) - 8 shared documents
-- [Mr. Obama](obama.md) - 8 shared documents
-- [Barack Obama](barack-obama.md) - 7 shared documents
+Clinton](bill-clinton.md) - 7 shared documents
 - [George W. Bush](george-w-bush.md) - 7 shared documents
-- [CLINTON](clinton.md) - 7 shared documents
 - [Ronald 
 Reagan](ronald-reagan.md) - 6 shared documents
 - [World War](world-war.md) - 6 shared documents
 - [Communist Party](communist-party.md) - 6 shared documents
 - [Mao](mao.md) - 6 shared documents
 - [Roosevelt](roosevelt.md) - 5 shared documents
+- [Rudd](rudd.md) - 5 shared documents
+- [So Russian](so-russian.md) - 5 shared documents
+- [Soviet Union](soviet-union.md) - 5 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 10 shared documents
 - [NATO](../organizations/nato.md) - 6 shared documents
-- [Congress](../organizations/congress.md) - 5 shared documents
-- [Labor](../organizations/labor.md) - 5 shared documents
 
 **Locations:**
 
@@ -55,23 +53,25 @@ Reagan](ronald-reagan.md) - 6 shared documents
 - [US](../locations/us.md) - 10 shared documents
 - [China](../locations/china.md) - 8 shared documents
 - [Europe](../locations/europe.md) - 8 shared documents
-- [Japan](../locations/japan.md) - 7 shared documents
 - [Asia](../locations/asia.md) - 7 shared documents
 - [France](../locations/france.md) - 7 shared documents
-- [the United States](../locations/the-united-states.md) - 7 shared documents
-- [India](../locations/india.md) - 7 shared documents
 - [Greece](../locations/greece.md) - 7 shared documents
+- [India](../locations/india.md) - 7 shared documents
+- [Japan](../locations/japan.md) - 7 shared documents
+- [Mediterranean](../locations/mediterranean.md) - 7 shared documents
 
 **Events:**
 
-- [years](../events/years.md) - 6 shared documents
-- [last week](../events/last-week.md) - 6 shared documents
 - [2008](../events/2008.md) - 6 shared documents
+- [last week](../events/last-week.md) - 6 shared documents
 - [the century](../events/the-century.md) - 6 shared documents
+- [years](../events/years.md) - 6 shared documents
+- [1973](../events/1973.md) - 5 shared documents
 - [1990s](../events/1990s.md) - 5 shared documents
 - [1996](../events/1996.md) - 5 shared documents
-- [1973](../events/1973.md) - 5 shared documents
-- [the 1990s](../events/the-1990s.md) - 5 shared documents
+- [2050](../events/2050.md) - 5 shared documents
+- [20th Century](../events/20th-century.md) - 5 shared documents
+- [25 years ago](../events/25-years-ago.md) - 5 shared documents
 
 ## Timeline
 

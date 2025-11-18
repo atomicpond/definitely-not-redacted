@@ -30,16 +30,12 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Lawrence Krauss](../people/lawrence-krauss.md) - 46 shared documents
-- [Lawrence M. Krauss](../people/lawrence-m-krauss.md) - 38 shared documents
-- [Krauss](../people/krauss.md) - 20 shared documents
-- [Epstein](../people/epstein.md) - 19 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 19 shared documents
-- [Lawrence](../people/lawrence.md) - 18 shared documents
+- [Lawrence Krauss](../people/lawrence-krauss.md) - 38 shared documents
 - [Space Exploration](../people/space-exploration.md) - 17 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 16 shared documents
 - [Research Office](../people/research-office.md) - 16 shared documents
 - [Jeffrey](../people/jeffrey.md) - 12 shared documents
+- [Rebecca Watson](../people/rebecca-watson.md) - 12 shared documents
 
 **Organizations:**
 
@@ -65,8 +61,8 @@ Foundation](../organizations/asu-foundation.md) - 18 shared documents
 - [London](london.md) - 13 shared documents
 - [Florida](florida.md) - 12 shared documents
 - [Iowa](iowa.md) - 12 shared documents
+- [Ithaca](ithaca.md) - 12 shared documents
 - [Las Vegas](las-vegas.md) - 12 shared documents
-- [Minneapolis](minneapolis.md) - 12 shared documents
 
 **Events:**
 
@@ -74,12 +70,12 @@ Foundation](../organizations/asu-foundation.md) - 18 shared documents
 - [today](../events/today.md) - 16 shared documents
 - [2008](../events/2008.md) - 14 shared documents
 - [weeks](../events/weeks.md) - 14 shared documents
-- [October](../events/october.md) - 13 shared documents
-- [2007](../events/2007.md) - 13 shared documents
 - [2006](../events/2006.md) - 13 shared documents
+- [2007](../events/2007.md) - 13 shared documents
+- [October](../events/october.md) - 13 shared documents
 - [2014](../events/2014.md) - 12 shared documents
 - [2016](../events/2016.md) - 12 shared documents
-- [this year](../events/this-year.md) - 12 shared documents
+- [a few months ago](../events/a-few-months-ago.md) - 12 shared documents
 
 ## Timeline
 

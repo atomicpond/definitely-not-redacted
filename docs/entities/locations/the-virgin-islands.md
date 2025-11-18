@@ -60,8 +60,8 @@ Top 10 documents by mention frequency:
 - [Palm Beach](palm-beach.md) - 22 shared documents
 - [New Mexico](new-mexico.md) - 20 shared documents
 - [West Palm Beach](west-palm-beach.md) - 16 shared documents
-- [the United States](the-united-states.md) - 15 shared documents
 - [Miami](miami.md) - 15 shared documents
+- [the United States](the-united-states.md) - 15 shared documents
 - [Washington](washington.md) - 14 shared documents
 - [Manhattan](manhattan.md) - 14 shared documents
 - [New York City](new-york-city.md) - 14 shared documents
@@ -71,12 +71,12 @@ Top 10 documents by mention frequency:
 
 - [today](../events/today.md) - 17 shared documents
 - [2006](../events/2006.md) - 16 shared documents
+- [2002](../events/2002.md) - 15 shared documents
 - [2007](../events/2007.md) - 15 shared documents
 - [daily](../events/daily.md) - 15 shared documents
-- [2002](../events/2002.md) - 15 shared documents
-- [2011](../events/2011.md) - 14 shared documents
 - [2005](../events/2005.md) - 14 shared documents
 - [2008](../events/2008.md) - 14 shared documents
+- [2011](../events/2011.md) - 14 shared documents
 - [2009](../events/2009.md) - 13 shared documents
 - [last week](../events/last-week.md) - 13 shared documents
 

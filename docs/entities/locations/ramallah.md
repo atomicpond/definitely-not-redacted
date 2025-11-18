@@ -30,15 +30,14 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Mahmoud Abbas](../people/mahmoud-abbas.md) - 10 shared documents
-- [Barack Obama](../people/barack-obama.md) - 9 shared documents
 - [Middle East](../people/middle-east.md) - 9 shared documents
 - [West Bank](../people/west-bank.md) - 9 shared documents
 - [Gaza Strip](../people/gaza-strip.md) - 8 shared documents
-- [President Obama](../people/president-obama.md) - 8 shared documents
 - [East Jerusalem](../people/east-jerusalem.md) - 7 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 7 shared documents
 - [Security Council](../people/security-council.md) - 7 shared documents
 - [White House](../people/white-house.md) - 7 shared documents
+- [Tel Aviv](../people/tel-aviv.md) - 6 shared documents
 
 **Organizations:**
 
@@ -61,23 +60,23 @@ Top 10 documents by mention frequency:
 - [Israel](israel.md) - 11 shared documents
 - [Jerusalem](jerusalem.md) - 11 shared documents
 - [Washington](washington.md) - 10 shared documents
-- [Middle East](middle-east.md) - 10 shared documents
 - [Iraq](iraq.md) - 10 shared documents
 - [Jordan](jordan.md) - 10 shared documents
 - [Lebanon](lebanon.md) - 10 shared documents
+- [Middle East](middle-east.md) - 10 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 9 shared documents
 - [last week](../events/last-week.md) - 9 shared documents
-- [the years](../events/the-years.md) - 8 shared documents
+- [today](../events/today.md) - 9 shared documents
 - [1967](../events/1967.md) - 8 shared documents
-- [years](../events/years.md) - 7 shared documents
-- [Tuesday](../events/tuesday.md) - 7 shared documents
+- [the years](../events/the-years.md) - 8 shared documents
 - [10 years](../events/10-years.md) - 7 shared documents
 - [1973](../events/1973.md) - 7 shared documents
+- [Tuesday](../events/tuesday.md) - 7 shared documents
+- [years](../events/years.md) - 7 shared documents
+- [1993](../events/1993.md) - 6 shared documents
 - [2009](../events/2009.md) - 6 shared documents
-- [2012](../events/2012.md) - 6 shared documents
 
 ## Timeline
 

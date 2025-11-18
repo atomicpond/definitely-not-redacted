@@ -46,12 +46,12 @@ Top 10 documents by mention frequency:
 - [China](../locations/china.md) - 5 shared documents
 - [Japan](../locations/japan.md) - 5 shared documents
 - [Mexico](../locations/mexico.md) - 5 shared documents
+- [America](../locations/america.md) - 4 shared documents
+- [Argentina](../locations/argentina.md) - 4 shared documents
 - [Brazil](../locations/brazil.md) - 4 shared documents
 - [Germany](../locations/germany.md) - 4 shared documents
-- [America](../locations/america.md) - 4 shared documents
-- [Italy](../locations/italy.md) - 4 shared documents
 - [India](../locations/india.md) - 4 shared documents
-- [Argentina](../locations/argentina.md) - 4 shared documents
+- [Italy](../locations/italy.md) - 4 shared documents
 
 **Events:**
 
@@ -60,11 +60,11 @@ Top 10 documents by mention frequency:
 - [2007](../events/2007.md) - 5 shared documents
 - [last week](../events/last-week.md) - 5 shared documents
 - [tomorrow](../events/tomorrow.md) - 5 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
-- [Wednesday](../events/wednesday.md) - 4 shared documents
-- [2000](../events/2000.md) - 4 shared documents
 - [10-year](../events/10-year.md) - 4 shared documents
+- [1987](../events/1987.md) - 4 shared documents
+- [2000](../events/2000.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
+- [2009](../events/2009.md) - 4 shared documents
 
 ## Timeline
 

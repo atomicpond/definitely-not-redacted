@@ -31,10 +31,10 @@ Top 6 documents by mention frequency:
 **Events:**
 
 - [one year](one-year.md) - 6 shared documents
-- [2004](2004.md) - 5 shared documents
-- [2007](2007.md) - 5 shared documents
-- [2005](2005.md) - 5 shared documents
 - [2002](2002.md) - 5 shared documents
+- [2004](2004.md) - 5 shared documents
+- [2005](2005.md) - 5 shared documents
+- [2007](2007.md) - 5 shared documents
 - [20 years](20-years.md) - 4 shared documents
 
 ## Timeline

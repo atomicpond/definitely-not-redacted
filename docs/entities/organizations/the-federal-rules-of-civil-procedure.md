@@ -38,8 +38,8 @@ Top 7 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 6 shared documents
 - [Southern District](../locations/southern-district.md) - 6 shared documents
+- [United States](../locations/united-states.md) - 6 shared documents
 - [New York](../locations/new-york.md) - 5 shared documents
 
 ## Timeline

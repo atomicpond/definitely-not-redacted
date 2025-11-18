@@ -57,24 +57,24 @@ Top 8 documents by mention frequency:
 - [Paris](paris.md) - 5 shared documents
 - [Switzerland](switzerland.md) - 5 shared documents
 - [Washington](washington.md) - 5 shared documents
-- [California](california.md) - 5 shared documents
 - [America](america.md) - 5 shared documents
+- [California](california.md) - 5 shared documents
 - [Los Angeles](los-angeles.md) - 4 shared documents
 - [Manhattan](manhattan.md) - 4 shared documents
 - [Toronto](toronto.md) - 4 shared documents
 
 **Events:**
 
-- [the year](../events/the-year.md) - 6 shared documents
 - [Saturday](../events/saturday.md) - 6 shared documents
+- [the year](../events/the-year.md) - 6 shared documents
+- [1982](../events/1982.md) - 5 shared documents
+- [2005](../events/2005.md) - 5 shared documents
 - [annual](../events/annual.md) - 5 shared documents
+- [last week](../events/last-week.md) - 5 shared documents
 - [Sunday](../events/sunday.md) - 5 shared documents
+- [the second year](../events/the-second-year.md) - 5 shared documents
 - [this year](../events/this-year.md) - 5 shared documents
 - [years](../events/years.md) - 5 shared documents
-- [last week](../events/last-week.md) - 5 shared documents
-- [2005](../events/2005.md) - 5 shared documents
-- [1982](../events/1982.md) - 5 shared documents
-- [the second year](../events/the-second-year.md) - 5 shared documents
 
 ## Timeline
 

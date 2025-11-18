@@ -57,13 +57,13 @@ Clinton](../people/bill-clinton.md) - 5 shared documents
 
 **Events:**
 
-- [November](../events/november.md) - 6 shared documents
-- [yesterday](../events/yesterday.md) - 6 shared documents
-- [September](../events/september.md) - 6 shared documents
-- [this coming week](../events/this-coming-week.md) - 6 shared documents
 - [a crazy week](../events/a-crazy-week.md) - 6 shared documents
 - [mid or end](../events/mid-or-end.md) - 6 shared documents
+- [November](../events/november.md) - 6 shared documents
 - [Sept 27](../events/sept-27.md) - 6 shared documents
+- [September](../events/september.md) - 6 shared documents
+- [this coming week](../events/this-coming-week.md) - 6 shared documents
+- [yesterday](../events/yesterday.md) - 6 shared documents
 - [this year](../events/this-year.md) - 4 shared documents
 - [year](../events/year.md) - 4 shared documents
 

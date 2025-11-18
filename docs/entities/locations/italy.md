@@ -34,7 +34,6 @@ Top 10 documents by mention frequency:
 - [White House](../people/white-house.md) - 34 shared documents
 - [Middle East](../people/middle-east.md) - 28 shared documents
 - [Federal Reserve](../people/federal-reserve.md) - 22 shared documents
-- [Barack Obama](../people/barack-obama.md) - 21 shared documents
 
 **Organizations:**
 
@@ -73,7 +72,7 @@ Top 10 documents by mention frequency:
 - [Friday](../events/friday.md) - 34 shared documents
 - [2016](../events/2016.md) - 33 shared documents
 - [annual](../events/annual.md) - 33 shared documents
-- [daily](../events/daily.md) - 31 shared documents
+- [2001](../events/2001.md) - 31 shared documents
 
 ## Timeline
 

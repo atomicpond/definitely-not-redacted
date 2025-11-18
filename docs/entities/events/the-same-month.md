@@ -49,13 +49,13 @@ Alpha Group Capital LLC](../organizations/paul-barrett-alpha-group-capital-llc.m
 **Events:**
 
 - [one day](one-day.md) - 7 shared documents
-- [months ago](months-ago.md) - 6 shared documents
 - [many years](many-years.md) - 6 shared documents
+- [months ago](months-ago.md) - 6 shared documents
 - [the weekend](the-weekend.md) - 5 shared documents
 - [yesterday](yesterday.md) - 5 shared documents
 - [August](august.md) - 5 shared documents
-- [Sept](sept.md) - 5 shared documents
 - [Friday, July 13, 2018](friday-july-13-2018.md) - 5 shared documents
+- [Sept](sept.md) - 5 shared documents
 - [Sept 200](sept-200.md) - 5 shared documents
 
 ## Timeline

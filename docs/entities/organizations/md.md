@@ -30,28 +30,28 @@ Top 6 documents by mention frequency:
 **Locations:**
 
 - [United States](../locations/united-states.md) - 6 shared documents
+- [Australia](../locations/australia.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 5 shared documents
 - [France](../locations/france.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
 - [Miami](../locations/miami.md) - 5 shared documents
-- [Australia](../locations/australia.md) - 5 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [U.S.](../locations/us.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
 - [Africa](../locations/africa.md) - 4 shared documents
+- [California](../locations/california.md) - 4 shared documents
 - [China](../locations/china.md) - 4 shared documents
+- [Germany](../locations/germany.md) - 4 shared documents
 
 **Events:**
 
-- [2004](../events/2004.md) - 6 shared documents
 - [1993](../events/1993.md) - 6 shared documents
+- [2004](../events/2004.md) - 6 shared documents
 - [one year](../events/one-year.md) - 6 shared documents
-- [daily](../events/daily.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
 - [2001](../events/2001.md) - 5 shared documents
 - [2002](../events/2002.md) - 5 shared documents
-- [1986](../events/1986.md) - 4 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
+- [daily](../events/daily.md) - 5 shared documents
+- [years](../events/years.md) - 5 shared documents
+- [1976](../events/1976.md) - 4 shared documents
+- [1982](../events/1982.md) - 4 shared documents
+- [1983](../events/1983.md) - 4 shared documents
 
 ## Timeline
 

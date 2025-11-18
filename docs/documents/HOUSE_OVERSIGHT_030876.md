@@ -9,7 +9,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 10 mentions
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 10 mentions
 - [Fareed Zakaria](../entities/people/fareed-zakaria.md) - 3 mentions
 - [Donald 
 Trump](../entities/people/donald-trump.md) - 2 mentions

@@ -60,24 +60,24 @@ Top 10 documents by mention frequency:
 - [United States](united-states.md) - 16 shared documents
 - [Florida](florida.md) - 14 shared documents
 - [Washington](washington.md) - 12 shared documents
-- [France](france.md) - 12 shared documents
-- [New York City](new-york-city.md) - 12 shared documents
-- [Israel](israel.md) - 12 shared documents
 - [England](england.md) - 12 shared documents
-- [New York](new-york.md) - 11 shared documents
+- [France](france.md) - 12 shared documents
+- [Israel](israel.md) - 12 shared documents
+- [New York City](new-york-city.md) - 12 shared documents
+- [Australia](australia.md) - 11 shared documents
 - [California](california.md) - 11 shared documents
 
 **Events:**
 
 - [2004](../events/2004.md) - 18 shared documents
 - [years](../events/years.md) - 18 shared documents
+- [2006](../events/2006.md) - 15 shared documents
 - [2009](../events/2009.md) - 15 shared documents
 - [today](../events/today.md) - 15 shared documents
-- [2006](../events/2006.md) - 15 shared documents
 - [2008](../events/2008.md) - 14 shared documents
 - [2010](../events/2010.md) - 14 shared documents
 - [2000](../events/2000.md) - 13 shared documents
-- [daily](../events/daily.md) - 13 shared documents
+- [2002](../events/2002.md) - 13 shared documents
 - [2005](../events/2005.md) - 13 shared documents
 
 ## Timeline

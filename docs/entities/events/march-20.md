@@ -51,11 +51,11 @@ Top 5 documents by mention frequency:
 - [November](november.md) - 4 shared documents
 - [the 1970s](the-1970s.md) - 4 shared documents
 - [years](years.md) - 4 shared documents
-- [2009](2009.md) - 4 shared documents
-- [1996](1996.md) - 4 shared documents
 - [1990](1990.md) - 4 shared documents
+- [1991](1991.md) - 4 shared documents
+- [1996](1996.md) - 4 shared documents
 - [2008](2008.md) - 4 shared documents
-- [December](december.md) - 4 shared documents
+- [2009](2009.md) - 4 shared documents
 - [2013](2013.md) - 4 shared documents
 
 ## Timeline

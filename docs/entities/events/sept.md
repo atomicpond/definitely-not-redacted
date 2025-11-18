@@ -34,16 +34,16 @@ Top 10 documents by mention frequency:
 - [Jeffrey E](../people/jeffrey-e.md) - 10 shared documents
 - [New 
 York Times](../people/new-york-times.md) - 9 shared documents
-- [President Trump](../people/president-trump.md) - 9 shared documents
 - [New
 York](../people/new-york.md) - 8 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 8 shared documents
 - [Dr. Blasey](../people/blasey.md) - 6 shared documents
 - [Christine Blasey Ford](../people/christine-blasey-ford.md) - 6 shared documents
 - [Jeffrey](../people/jeffrey.md) - 6 shared documents
 - [Mr. Kavanaugh](../people/kavanaugh.md) - 6 shared documents
 - [Richard Kahn](../people/richard-kahn.md) - 6 shared documents
+- [Supreme Court](../people/supreme-court.md) - 6 shared documents
+- [United 
+States](../people/united-states.md) - 6 shared documents
 
 **Organizations:**
 
@@ -72,14 +72,14 @@ Alpha Group Capital LLC](../organizations/paul-barrett-alpha-group-capital-llc.m
 
 - [the weekend](the-weekend.md) - 9 shared documents
 - [2018](2018.md) - 9 shared documents
-- [Monday](monday.md) - 9 shared documents
 - [August](august.md) - 9 shared documents
+- [Monday](monday.md) - 9 shared documents
 - [Thursday](thursday.md) - 8 shared documents
 - [Sunday](sunday.md) - 7 shared documents
 - [this week](this-week.md) - 7 shared documents
 - [yesterday](yesterday.md) - 7 shared documents
-- [last year](last-year.md) - 7 shared documents
 - [2017](2017.md) - 7 shared documents
+- [24, 2018](24-2018.md) - 7 shared documents
 
 ## Timeline
 

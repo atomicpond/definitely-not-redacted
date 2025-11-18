@@ -29,32 +29,24 @@ Top 9 documents by mention frequency:
 **Organizations:**
 
 - [iPhone](iphone.md) - 6 shared documents
-- [Harvard University](harvard-university.md) - 4 shared documents
 
 **Locations:**
 
 - [America](../locations/america.md) - 5 shared documents
 - [England](../locations/england.md) - 5 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [Earth](../locations/earth.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
-- [London](../locations/london.md) - 4 shared documents
 
 **Events:**
 
+- [1973](../events/1973.md) - 5 shared documents
+- [1996](../events/1996.md) - 5 shared documents
+- [2002](../events/2002.md) - 5 shared documents
 - [2003](../events/2003.md) - 5 shared documents
 - [2004](../events/2004.md) - 5 shared documents
-- [2009](../events/2009.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [1996](../events/1996.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
 - [2005](../events/2005.md) - 5 shared documents
+- [2009](../events/2009.md) - 5 shared documents
 - [2010](../events/2010.md) - 5 shared documents
+- [many years](../events/many-years.md) - 5 shared documents
 - [one day](../events/one-day.md) - 5 shared documents
-- [the years](../events/the-years.md) - 5 shared documents
 
 ## Timeline
 

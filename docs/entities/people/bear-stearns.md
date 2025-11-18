@@ -59,10 +59,10 @@ Top 10 documents by mention frequency:
 - [New Mexico](../locations/new-mexico.md) - 14 shared documents
 - [Coney Island](../locations/coney-island.md) - 13 shared documents
 - [Florida](../locations/florida.md) - 12 shared documents
+- [England](../locations/england.md) - 11 shared documents
 - [Europe](../locations/europe.md) - 11 shared documents
 - [London](../locations/london.md) - 11 shared documents
-- [England](../locations/england.md) - 11 shared documents
-- [the United States](../locations/the-united-states.md) - 10 shared documents
+- [Miami](../locations/miami.md) - 10 shared documents
 - [New York City](../locations/new-york-city.md) - 10 shared documents
 
 **Events:**
@@ -70,12 +70,12 @@ Top 10 documents by mention frequency:
 - [today](../events/today.md) - 13 shared documents
 - [2003](../events/2003.md) - 11 shared documents
 - [last year](../events/last-year.md) - 10 shared documents
-- [2004](../events/2004.md) - 9 shared documents
-- [2009](../events/2009.md) - 9 shared documents
-- [the 1980s](../events/the-1980s.md) - 9 shared documents
+- [1982](../events/1982.md) - 9 shared documents
 - [2000](../events/2000.md) - 9 shared documents
-- [Sunday](../events/sunday.md) - 9 shared documents
-- [last week](../events/last-week.md) - 9 shared documents
+- [2002](../events/2002.md) - 9 shared documents
+- [2004](../events/2004.md) - 9 shared documents
+- [2006](../events/2006.md) - 9 shared documents
+- [2009](../events/2009.md) - 9 shared documents
 - [2010](../events/2010.md) - 9 shared documents
 
 ## Timeline

@@ -30,7 +30,6 @@ Top 7 documents by mention frequency:
 - [jeffrey E. <](jeffrey-e.md) - 6 shared documents
 - [Michael Wolff](michael-wolff.md) - 6 shared documents
 - [Ronan](ronan.md) - 6 shared documents
-- [Mr. Bannon](bannon.md) - 6 shared documents
 - [Larry Gagosian](larry-gagosian.md) - 5 shared documents
 
 **Organizations:**

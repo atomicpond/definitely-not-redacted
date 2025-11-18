@@ -38,8 +38,8 @@ Top 10 documents by mention frequency:
 
 - [State](state.md) - 9 shared documents
 - [Court](court.md) - 8 shared documents
-- [HOUSE](house.md) - 7 shared documents
 - [Government](government.md) - 7 shared documents
+- [HOUSE](house.md) - 7 shared documents
 - [FBI](fbi.md) - 6 shared documents
 - [Office](office.md) - 5 shared documents
 - [Vanity Fair](vanity-fair.md) - 5 shared documents
@@ -47,29 +47,29 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 8 shared documents
 - [Florida](../locations/florida.md) - 8 shared documents
-- [New York](../locations/new-york.md) - 7 shared documents
+- [United States](../locations/united-states.md) - 8 shared documents
 - [London](../locations/london.md) - 7 shared documents
-- [the United States](../locations/the-united-states.md) - 7 shared documents
+- [New York](../locations/new-york.md) - 7 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 7 shared documents
+- [the United States](../locations/the-united-states.md) - 7 shared documents
+- [Miami](../locations/miami.md) - 6 shared documents
+- [the Southern District](../locations/the-southern-district.md) - 6 shared documents
 - [U.S.](../locations/us.md) - 6 shared documents
 - [Washington](../locations/washington.md) - 6 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 6 shared documents
-- [Miami](../locations/miami.md) - 6 shared documents
 
 **Events:**
 
+- [16](../events/16.md) - 7 shared documents
 - [2007](../events/2007.md) - 7 shared documents
 - [today](../events/today.md) - 7 shared documents
-- [16](../events/16.md) - 7 shared documents
 - [2004](../events/2004.md) - 6 shared documents
 - [a week](../events/a-week.md) - 6 shared documents
 - [tomorrow](../events/tomorrow.md) - 6 shared documents
-- [2011](../events/2011.md) - 5 shared documents
 - [2005](../events/2005.md) - 5 shared documents
 - [2008](../events/2008.md) - 5 shared documents
 - [2010](../events/2010.md) - 5 shared documents
+- [2011](../events/2011.md) - 5 shared documents
 
 ## Timeline
 

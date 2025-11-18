@@ -29,7 +29,7 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 8 shared documents
+- [Barack Obama](../people/barack-obama.md) - 8 shared documents
 - [Cold War](../people/cold-war.md) - 7 shared documents
 
 **Organizations:**
@@ -60,13 +60,13 @@ Top 9 documents by mention frequency:
 
 **Events:**
 
+- [1991](1991.md) - 9 shared documents
 - [decades](decades.md) - 9 shared documents
 - [the day](the-day.md) - 9 shared documents
-- [1991](1991.md) - 9 shared documents
 - [years](years.md) - 8 shared documents
 - [the 1950s](the-1950s.md) - 8 shared documents
-- [daily](daily.md) - 7 shared documents
 - [2013](2013.md) - 7 shared documents
+- [daily](daily.md) - 7 shared documents
 - [70](70.md) - 6 shared documents
 - [last year](last-year.md) - 6 shared documents
 - [week](week.md) - 5 shared documents

@@ -32,21 +32,21 @@ Top 8 documents by mention frequency:
 - [Ray Dalio](ray-dalio.md) - 4 shared documents
 - [Whitman](whitman.md) - 4 shared documents
 - [Yo Yo Ma](yo-yo-ma.md) - 4 shared documents
-- [Harvard University](harvard-university.md) - 4 shared documents
+- [Alfre Woodard](alfre-woodard.md) - 4 shared documents
 - [Dear Jeffrey](dear-jeffrey.md) - 4 shared documents
 - [Elisa New 
 Powell](elisa-new-powell.md) - 4 shared documents
 - [Harvard Medical School](harvard-medical-school.md) - 4 shared documents
-- [Herbie Hancock](herbie-hancock.md) - 4 shared documents
+- [Harvard University](harvard-university.md) - 4 shared documents
 
 **Organizations:**
 
 - [Harvard](../organizations/harvard.md) - 8 shared documents
-- [HOUSE](../organizations/house.md) - 7 shared documents
-- [Harvard University](../organizations/harvard-university.md) - 7 shared documents
 - [American Literature](../organizations/american-literature.md) - 7 shared documents
 - [Cabot Professor of American Literature 
 Harvard University](../organizations/cabot-professor-of-american-literature-harvard-university.md) - 7 shared documents
+- [Harvard University](../organizations/harvard-university.md) - 7 shared documents
+- [HOUSE](../organizations/house.md) - 7 shared documents
 - [WGBH](../organizations/wgbh.md) - 7 shared documents
 - [Harvard Medical School](../organizations/harvard-medical-school.md) - 4 shared documents
 - [Verse Video Education](../organizations/verse-video-education.md) - 4 shared documents
@@ -59,10 +59,10 @@ Harvard University](../organizations/cabot-professor-of-american-literature-harv
 
 **Events:**
 
-- [2018](../events/2018.md) - 4 shared documents
-- [last year](../events/last-year.md) - 4 shared documents
 - [2017](../events/2017.md) - 4 shared documents
+- [2018](../events/2018.md) - 4 shared documents
 - [April 2018](../events/april-2018.md) - 4 shared documents
+- [last year](../events/last-year.md) - 4 shared documents
 
 ## Timeline
 

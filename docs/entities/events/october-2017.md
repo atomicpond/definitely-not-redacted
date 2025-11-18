@@ -32,8 +32,6 @@ Top 10 documents by mention frequency:
 - [Acosta](../people/acosta.md) - 8 shared documents
 - [Alexander Acosta](../people/alexander-acosta.md) - 8 shared documents
 - [Brad Edwards](../people/brad-edwards.md) - 8 shared documents
-- [Mr. Edwards](../people/edwards.md) - 8 shared documents
-- [Epstein](../people/epstein.md) - 8 shared documents
 - [Jack Scarola](../people/jack-scarola.md) - 8 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 8 shared documents
 - [Kenneth A. Marra](../people/kenneth-a-marra.md) - 8 shared documents
@@ -70,10 +68,10 @@ Top 10 documents by mention frequency:
 
 - [2017](2017.md) - 15 shared documents
 - [September](september.md) - 11 shared documents
-- [2009](2009.md) - 11 shared documents
 - [2008](2008.md) - 11 shared documents
-- [Monday](monday.md) - 10 shared documents
+- [2009](2009.md) - 11 shared documents
 - [Friday](friday.md) - 10 shared documents
+- [Monday](monday.md) - 10 shared documents
 - [66](66.md) - 9 shared documents
 - [2019](2019.md) - 8 shared documents
 - [Feb. 22](feb-22.md) - 8 shared documents

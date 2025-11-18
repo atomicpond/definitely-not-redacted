@@ -17,7 +17,7 @@
 - [White House](../entities/people/white-house.md) - 21 mentions
 - [Rosenstein](../entities/people/rosenstein.md) - 11 mentions
 - [Mr. 
-Comey](../entities/people/mr-comey.md) - 7 mentions
+Comey](../entities/people/james-comey.md) - 7 mentions
 - [mccabe](../entities/people/mccabe.md) - 6 mentions
 - [mueller](../entities/people/mueller.md) - 5 mentions
 - [Attorney 

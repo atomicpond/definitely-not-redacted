@@ -34,9 +34,9 @@ Top 7 documents by mention frequency:
 - [Justice](justice.md) - 5 shared documents
 - [Trump](trump.md) - 4 shared documents
 - [White House](white-house.md) - 4 shared documents
-- [Senate](senate.md) - 4 shared documents
 - [Congress](congress.md) - 4 shared documents
 - [FBI](fbi.md) - 4 shared documents
+- [Senate](senate.md) - 4 shared documents
 
 **Locations:**
 
@@ -48,10 +48,10 @@ Top 7 documents by mention frequency:
 
 **Events:**
 
-- [2016](../events/2016.md) - 4 shared documents
-- [Thursday](../events/thursday.md) - 4 shared documents
-- [Monday](../events/monday.md) - 4 shared documents
 - [2008](../events/2008.md) - 4 shared documents
+- [2016](../events/2016.md) - 4 shared documents
+- [Monday](../events/monday.md) - 4 shared documents
+- [Thursday](../events/thursday.md) - 4 shared documents
 
 ## Timeline
 

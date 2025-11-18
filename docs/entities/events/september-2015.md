@@ -35,11 +35,11 @@ Top 7 documents by mention frequency:
 - [2015](2015.md) - 7 shared documents
 - [the last decade](the-last-decade.md) - 6 shared documents
 - [2012](2012.md) - 5 shared documents
-- [2020](2020.md) - 5 shared documents
 - [2013](2013.md) - 5 shared documents
+- [2020](2020.md) - 5 shared documents
+- [1999](1999.md) - 4 shared documents
 - [annual](annual.md) - 4 shared documents
 - [daily](daily.md) - 4 shared documents
-- [1999](1999.md) - 4 shared documents
 
 ## Timeline
 

@@ -32,7 +32,6 @@ Top 10 documents by mention frequency:
 - [Middle East](middle-east.md) - 6 shared documents
 - [Saudi Arabia](saudi-arabia.md) - 6 shared documents
 - [Western Europe](western-europe.md) - 6 shared documents
-- [President Obama](president-obama.md) - 5 shared documents
 - [Soviet Union](soviet-union.md) - 5 shared documents
 - [Financial Times](financial-times.md) - 4 shared documents
 - [Goldman Sachs](goldman-sachs.md) - 4 shared documents
@@ -40,11 +39,12 @@ Top 10 documents by mention frequency:
 - [Latin 
 America](latin-america.md) - 4 shared documents
 - [Marx](marx.md) - 4 shared documents
+- [New
+York](new-york.md) - 4 shared documents
 
 **Organizations:**
 
 - [Congress](../organizations/congress.md) - 8 shared documents
-- [State](../organizations/state.md) - 6 shared documents
 
 **Locations:**
 
@@ -53,24 +53,24 @@ America](latin-america.md) - 4 shared documents
 - [Russia](../locations/russia.md) - 10 shared documents
 - [Africa](../locations/africa.md) - 9 shared documents
 - [Europe](../locations/europe.md) - 9 shared documents
-- [Washington](../locations/washington.md) - 9 shared documents
 - [France](../locations/france.md) - 9 shared documents
 - [Iraq](../locations/iraq.md) - 9 shared documents
 - [Moscow](../locations/moscow.md) - 9 shared documents
 - [Spain](../locations/spain.md) - 9 shared documents
+- [Washington](../locations/washington.md) - 9 shared documents
 
 **Events:**
 
 - [years](../events/years.md) - 9 shared documents
-- [today](../events/today.md) - 8 shared documents
 - [the years](../events/the-years.md) - 8 shared documents
-- [2012](../events/2012.md) - 7 shared documents
+- [today](../events/today.md) - 8 shared documents
 - [2008](../events/2008.md) - 7 shared documents
-- [2007](../events/2007.md) - 6 shared documents
-- [2009](../events/2009.md) - 6 shared documents
-- [2014](../events/2014.md) - 6 shared documents
-- [the year](../events/the-year.md) - 6 shared documents
+- [2012](../events/2012.md) - 7 shared documents
+- [1992](../events/1992.md) - 6 shared documents
+- [1994](../events/1994.md) - 6 shared documents
 - [1999](../events/1999.md) - 6 shared documents
+- [2001](../events/2001.md) - 6 shared documents
+- [2002](../events/2002.md) - 6 shared documents
 
 ## Timeline
 

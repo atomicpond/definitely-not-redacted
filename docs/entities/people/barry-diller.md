@@ -39,28 +39,28 @@ Top 7 documents by mention frequency:
 
 **Organizations:**
 
-- [HBO](../organizations/hbo.md) - 6 shared documents
 - [Academy](../organizations/academy.md) - 6 shared documents
 - [Disney](../organizations/disney.md) - 6 shared documents
+- [HBO](../organizations/hbo.md) - 6 shared documents
 - [Paramount](../organizations/paramount.md) - 6 shared documents
 - [Sony](../organizations/sony.md) - 6 shared documents
 - [UTA](../organizations/uta.md) - 6 shared documents
 - [Vanity Fair](../organizations/vanity-fair.md) - 6 shared documents
+- [ABC-TV](../organizations/abc-tv.md) - 5 shared documents
+- [CAA](../organizations/caa.md) - 5 shared documents
 - [CBS](../organizations/cbs.md) - 5 shared documents
-- [Fox](../organizations/fox.md) - 5 shared documents
-- [Google](../organizations/google.md) - 5 shared documents
 
 **Locations:**
 
 - [Beverly Hills](../locations/beverly-hills.md) - 7 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
 - [America](../locations/america.md) - 6 shared documents
 - [Paris](../locations/paris.md) - 6 shared documents
-- [New York](../locations/new-york.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 6 shared documents
 - [California](../locations/california.md) - 5 shared documents
+- [Cannes](../locations/cannes.md) - 5 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 5 shared documents
 - [Manhattan](../locations/manhattan.md) - 5 shared documents
-- [Toronto](../locations/toronto.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
 - [New York City](../locations/new-york-city.md) - 5 shared documents
 
 **Events:**
@@ -68,13 +68,13 @@ Top 7 documents by mention frequency:
 - [annual](../events/annual.md) - 6 shared documents
 - [last year](../events/last-year.md) - 6 shared documents
 - [Sunday](../events/sunday.md) - 6 shared documents
-- [this year](../events/this-year.md) - 6 shared documents
 - [the year](../events/the-year.md) - 6 shared documents
-- [years](../events/years.md) - 5 shared documents
+- [this year](../events/this-year.md) - 6 shared documents
+- [1982](../events/1982.md) - 5 shared documents
 - [2005](../events/2005.md) - 5 shared documents
 - [Christmas](../events/christmas.md) - 5 shared documents
-- [1982](../events/1982.md) - 5 shared documents
 - [two days](../events/two-days.md) - 5 shared documents
+- [winter](../events/winter.md) - 5 shared documents
 
 ## Timeline
 

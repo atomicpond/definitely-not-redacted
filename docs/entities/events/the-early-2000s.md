@@ -36,12 +36,12 @@ Top 7 documents by mention frequency:
 
 - [today](today.md) - 5 shared documents
 - [years](years.md) - 5 shared documents
+- [2006](2006.md) - 5 shared documents
 - [2007](2007.md) - 5 shared documents
 - [2009](2009.md) - 5 shared documents
-- [2015](2015.md) - 5 shared documents
 - [2010](2010.md) - 5 shared documents
-- [2006](2006.md) - 5 shared documents
 - [2013](2013.md) - 5 shared documents
+- [2015](2015.md) - 5 shared documents
 - [a year](a-year.md) - 5 shared documents
 - [the day](the-day.md) - 5 shared documents
 

@@ -30,9 +30,9 @@ Top 5 documents by mention frequency:
 **Locations:**
 
 - [Florida](../locations/florida.md) - 5 shared documents
+- [Fort Lauderdale](../locations/fort-lauderdale.md) - 5 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 5 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 5 shared documents
-- [Fort Lauderdale](../locations/fort-lauderdale.md) - 5 shared documents
 - [Miami](../locations/miami.md) - 4 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 4 shared documents
 

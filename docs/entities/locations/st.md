@@ -33,22 +33,22 @@ Top 9 documents by mention frequency:
 **Locations:**
 
 - [the United States](the-united-states.md) - 5 shared documents
-- [Europe](europe.md) - 4 shared documents
-- [London](london.md) - 4 shared documents
 - [America](america.md) - 4 shared documents
 - [England](england.md) - 4 shared documents
+- [Europe](europe.md) - 4 shared documents
+- [London](london.md) - 4 shared documents
 
 **Events:**
 
 - [2011](../events/2011.md) - 6 shared documents
-- [annual](../events/annual.md) - 5 shared documents
-- [2012](../events/2012.md) - 5 shared documents
 - [2002](../events/2002.md) - 5 shared documents
+- [2012](../events/2012.md) - 5 shared documents
+- [annual](../events/annual.md) - 5 shared documents
+- [2008](../events/2008.md) - 4 shared documents
 - [2009](../events/2009.md) - 4 shared documents
+- [2010](../events/2010.md) - 4 shared documents
+- [2013](../events/2013.md) - 4 shared documents
 - [2016](../events/2016.md) - 4 shared documents
-- [Thursday](../events/thursday.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [Wednesday](../events/wednesday.md) - 4 shared documents
 - [Sunday](../events/sunday.md) - 4 shared documents
 
 ## Timeline

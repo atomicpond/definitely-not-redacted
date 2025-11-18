@@ -24,7 +24,8 @@ Top 5 documents by mention frequency:
 
 **People:**
 
-- [Trump Properties](../people/trump-properties.md) - 5 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 5 shared documents
 
 **Organizations:**
 

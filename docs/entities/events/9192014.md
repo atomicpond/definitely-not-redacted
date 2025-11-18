@@ -29,8 +29,9 @@ Top 9 documents by mention frequency:
 **People:**
 
 - [bill burns](../people/bill-burns.md) - 9 shared documents
-- [boris](../people/boris.md) - 9 shared documents
-- [CLINTON](../people/clinton.md) - 9 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 9 shared documents
+- [Boris Nikolic](../people/boris-nikolic.md) - 9 shared documents
 - [gordon brown](../people/gordon-brown.md) - 9 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 9 shared documents
 - [Kathy 

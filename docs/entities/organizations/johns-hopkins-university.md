@@ -50,28 +50,28 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 9 shared documents
-- [United States](../locations/united-states.md) - 8 shared documents
+- [Australia](../locations/australia.md) - 8 shared documents
 - [China](../locations/china.md) - 8 shared documents
 - [Europe](../locations/europe.md) - 8 shared documents
-- [Japan](../locations/japan.md) - 8 shared documents
-- [Russia](../locations/russia.md) - 8 shared documents
-- [Paris](../locations/paris.md) - 8 shared documents
-- [Australia](../locations/australia.md) - 8 shared documents
 - [India](../locations/india.md) - 8 shared documents
-- [California](../locations/california.md) - 7 shared documents
+- [Japan](../locations/japan.md) - 8 shared documents
+- [Paris](../locations/paris.md) - 8 shared documents
+- [Russia](../locations/russia.md) - 8 shared documents
+- [United States](../locations/united-states.md) - 8 shared documents
+- [Africa](../locations/africa.md) - 7 shared documents
 
 **Events:**
 
 - [2011](../events/2011.md) - 8 shared documents
-- [today](../events/today.md) - 7 shared documents
-- [daily](../events/daily.md) - 7 shared documents
-- [years](../events/years.md) - 7 shared documents
 - [2001](../events/2001.md) - 7 shared documents
+- [daily](../events/daily.md) - 7 shared documents
 - [decades](../events/decades.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
+- [years](../events/years.md) - 7 shared documents
+- [1990](../events/1990.md) - 6 shared documents
+- [1993](../events/1993.md) - 6 shared documents
 - [2003](../events/2003.md) - 6 shared documents
-- [2009](../events/2009.md) - 6 shared documents
-- [2012](../events/2012.md) - 6 shared documents
-- [last year](../events/last-year.md) - 6 shared documents
+- [2005](../events/2005.md) - 6 shared documents
 
 ## Timeline
 

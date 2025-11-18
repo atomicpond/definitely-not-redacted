@@ -33,37 +33,33 @@ Top 9 documents by mention frequency:
 
 **Organizations:**
 
-- [NASA](../organizations/nasa.md) - 5 shared documents
-- [Harvard](../organizations/harvard.md) - 5 shared documents
-- [the New York Times](../organizations/the-new-york-times.md) - 5 shared documents
-- [Time](../organizations/time.md) - 5 shared documents
-- [New York Times](../organizations/new-york-times.md) - 5 shared documents
+- [Columbia University](../organizations/columbia-university.md) - 5 shared documents
 
 **Locations:**
 
-- [U.S.](../locations/us.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
-- [China](../locations/china.md) - 5 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
-- [London](../locations/london.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [Boston](../locations/boston.md) - 5 shared documents
+- [Cambridge](../locations/cambridge.md) - 5 shared documents
+- [China](../locations/china.md) - 5 shared documents
+- [England](../locations/england.md) - 5 shared documents
+- [Europe](../locations/europe.md) - 5 shared documents
+- [Germany](../locations/germany.md) - 5 shared documents
+- [India](../locations/india.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
+- [London](../locations/london.md) - 5 shared documents
 
 **Events:**
 
 - [2012](../events/2012.md) - 6 shared documents
+- [1976](../events/1976.md) - 5 shared documents
+- [1994](../events/1994.md) - 5 shared documents
+- [1997](../events/1997.md) - 5 shared documents
+- [1999](../events/1999.md) - 5 shared documents
+- [2001](../events/2001.md) - 5 shared documents
+- [2002](../events/2002.md) - 5 shared documents
 - [2003](../events/2003.md) - 5 shared documents
 - [2004](../events/2004.md) - 5 shared documents
-- [2009](../events/2009.md) - 5 shared documents
-- [the 1980s](../events/the-1980s.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [summer](../events/summer.md) - 5 shared documents
-- [the year](../events/the-year.md) - 5 shared documents
-- [2011](../events/2011.md) - 5 shared documents
-- [1997](../events/1997.md) - 5 shared documents
+- [2005](../events/2005.md) - 5 shared documents
 
 ## Timeline
 

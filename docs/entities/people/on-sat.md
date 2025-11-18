@@ -30,9 +30,8 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jeffrey E](jeffrey-e.md) - 47 shared documents
-- [jeffrey E. <](jeffrey-e.md) - 26 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 26 shared documents
 - [On Fri](on-fri.md) - 20 shared documents
-- [Jeffrey Epstein](jeffrey-epstein.md) - 19 shared documents
 - [On Sep](on-sep.md) - 15 shared documents
 - [Jeffrey](jeffrey.md) - 14 shared documents
 - [New
@@ -41,6 +40,8 @@ York](new-york.md) - 12 shared documents
 - [Kathy 
 Ruemmler](kathy-ruemmler.md) - 11 shared documents
 - [On Sun](on-sun.md) - 10 shared documents
+- [Jeffrey Epstein 
+Unauthorized](jeffrey-epstein-unauthorized.md) - 10 shared documents
 
 **Organizations:**
 
@@ -48,8 +49,8 @@ Ruemmler](kathy-ruemmler.md) - 11 shared documents
 - [Trump](../organizations/trump.md) - 24 shared documents
 - [iPad](../organizations/ipad.md) - 14 shared documents
 - [UN](../organizations/un.md) - 9 shared documents
-- [Senate](../organizations/senate.md) - 8 shared documents
 - [Harvard](../organizations/harvard.md) - 8 shared documents
+- [Senate](../organizations/senate.md) - 8 shared documents
 - [Google](../organizations/google.md) - 7 shared documents
 - [Skype](../organizations/skype.md) - 7 shared documents
 
@@ -72,10 +73,10 @@ Ruemmler](kathy-ruemmler.md) - 11 shared documents
 - [2016](../events/2016.md) - 16 shared documents
 - [tomorrow](../events/tomorrow.md) - 13 shared documents
 - [yesterday](../events/yesterday.md) - 12 shared documents
-- [Sunday](../events/sunday.md) - 9 shared documents
 - [mid-October](../events/mid-october.md) - 9 shared documents
-- [2018](../events/2018.md) - 8 shared documents
+- [Sunday](../events/sunday.md) - 9 shared documents
 - [2017](../events/2017.md) - 8 shared documents
+- [2018](../events/2018.md) - 8 shared documents
 - [6:26 PM](../events/626-pm.md) - 8 shared documents
 
 ## Timeline

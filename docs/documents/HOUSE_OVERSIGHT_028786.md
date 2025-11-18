@@ -10,7 +10,7 @@
 
 ### People
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 2 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Reid](../entities/people/reid.md) - 1 mention
 - [Weingarten](../entities/people/weingarten.md) - 1 mention
 - [Jeffrey Epstein 

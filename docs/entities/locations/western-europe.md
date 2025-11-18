@@ -34,7 +34,7 @@ Top 10 documents by mention frequency:
 - [Western Europe](../people/western-europe.md) - 16 shared documents
 - [Middle East](../people/middle-east.md) - 10 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 10 shared documents
-- [President Obama](../people/president-obama.md) - 9 shared documents
+- [Barack Obama](../people/barack-obama.md) - 9 shared documents
 - [White House](../people/white-house.md) - 8 shared documents
 - [Gaza Strip](../people/gaza-strip.md) - 7 shared documents
 - [Security Council](../people/security-council.md) - 7 shared documents
@@ -58,16 +58,16 @@ States](../people/united-states.md) - 7 shared documents
 
 **Locations:**
 
-- [Russia](russia.md) - 16 shared documents
 - [Germany](germany.md) - 16 shared documents
+- [Russia](russia.md) - 16 shared documents
 - [China](china.md) - 15 shared documents
 - [Europe](europe.md) - 13 shared documents
 - [France](france.md) - 13 shared documents
 - [Iraq](iraq.md) - 13 shared documents
 - [the United States](the-united-states.md) - 13 shared documents
-- [United States](united-states.md) - 12 shared documents
 - [Japan](japan.md) - 12 shared documents
-- [London](london.md) - 11 shared documents
+- [United States](united-states.md) - 12 shared documents
+- [America](america.md) - 11 shared documents
 
 **Events:**
 
@@ -75,12 +75,12 @@ States](../people/united-states.md) - 7 shared documents
 - [today](../events/today.md) - 12 shared documents
 - [2012](../events/2012.md) - 11 shared documents
 - [last year](../events/last-year.md) - 11 shared documents
-- [this year](../events/this-year.md) - 10 shared documents
-- [the years](../events/the-years.md) - 10 shared documents
 - [2013](../events/2013.md) - 10 shared documents
+- [the years](../events/the-years.md) - 10 shared documents
+- [this year](../events/this-year.md) - 10 shared documents
 - [2007](../events/2007.md) - 9 shared documents
+- [a year](../events/a-year.md) - 9 shared documents
 - [annual](../events/annual.md) - 9 shared documents
-- [the year](../events/the-year.md) - 9 shared documents
 
 ## Timeline
 

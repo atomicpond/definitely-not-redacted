@@ -29,13 +29,12 @@ Top 10 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 8 shared documents
 - [Los Angeles](../people/los-angeles.md) - 8 shared documents
-- [President Obama](../people/president-obama.md) - 8 shared documents
 - [New Hampshire](../people/new-hampshire.md) - 7 shared documents
 - [New Jersey](../people/new-jersey.md) - 7 shared documents
 - [White House](../people/white-house.md) - 7 shared documents
 - [Middle East](../people/middle-east.md) - 6 shared documents
-- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [San Francisco](../people/san-francisco.md) - 5 shared documents
 
 **Organizations:**
@@ -56,12 +55,12 @@ Top 10 documents by mention frequency:
 - [Michigan](michigan.md) - 17 shared documents
 - [California](california.md) - 15 shared documents
 - [Florida](florida.md) - 14 shared documents
-- [the United States](the-united-states.md) - 14 shared documents
 - [Pennsylvania](pennsylvania.md) - 14 shared documents
+- [the United States](the-united-states.md) - 14 shared documents
 - [Ohio](ohio.md) - 13 shared documents
 - [United States](united-states.md) - 12 shared documents
-- [Washington](washington.md) - 11 shared documents
 - [France](france.md) - 11 shared documents
+- [New Hampshire](new-hampshire.md) - 11 shared documents
 - [Texas](texas.md) - 11 shared documents
 
 **Events:**
@@ -69,12 +68,12 @@ Top 10 documents by mention frequency:
 - [2015](../events/2015.md) - 13 shared documents
 - [daily](../events/daily.md) - 13 shared documents
 - [2009](../events/2009.md) - 11 shared documents
+- [2012](../events/2012.md) - 11 shared documents
 - [2016](../events/2016.md) - 11 shared documents
 - [annual](../events/annual.md) - 11 shared documents
-- [2012](../events/2012.md) - 11 shared documents
-- [today](../events/today.md) - 10 shared documents
 - [2000](../events/2000.md) - 10 shared documents
 - [2013](../events/2013.md) - 10 shared documents
+- [today](../events/today.md) - 10 shared documents
 - [2010](../events/2010.md) - 9 shared documents
 
 ## Timeline

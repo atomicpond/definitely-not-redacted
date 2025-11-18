@@ -26,7 +26,7 @@ Top 6 documents by mention frequency:
 **People:**
 
 - [Security Policy](security-policy.md) - 6 shared documents
-- [Bibi Netanyahu](bibi-netanyahu.md) - 4 shared documents
+- [Bibi](bibi.md) - 4 shared documents
 - [Cold War](cold-war.md) - 4 shared documents
 
 **Organizations:**
@@ -42,23 +42,23 @@ Top 6 documents by mention frequency:
 **Locations:**
 
 - [Earth](../locations/earth.md) - 4 shared documents
+- [Gaza](../locations/gaza.md) - 4 shared documents
+- [Israel](../locations/israel.md) - 4 shared documents
+- [Rome](../locations/rome.md) - 4 shared documents
 - [Russia](../locations/russia.md) - 4 shared documents
 - [the Soviet Union](../locations/the-soviet-union.md) - 4 shared documents
-- [Rome](../locations/rome.md) - 4 shared documents
-- [Israel](../locations/israel.md) - 4 shared documents
-- [Gaza](../locations/gaza.md) - 4 shared documents
 - [the State of Israel](../locations/the-state-of-israel.md) - 4 shared documents
 - [Vietnam](../locations/vietnam.md) - 4 shared documents
 
 **Events:**
 
+- [1991](../events/1991.md) - 4 shared documents
 - [70](../events/70.md) - 4 shared documents
 - [daily](../events/daily.md) - 4 shared documents
-- [week](../events/week.md) - 4 shared documents
 - [decades](../events/decades.md) - 4 shared documents
 - [the 1950s](../events/the-1950s.md) - 4 shared documents
 - [the day](../events/the-day.md) - 4 shared documents
-- [1991](../events/1991.md) - 4 shared documents
+- [week](../events/week.md) - 4 shared documents
 
 ## Timeline
 

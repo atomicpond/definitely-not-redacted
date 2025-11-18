@@ -20,7 +20,7 @@
 - [Cold War](../entities/people/cold-war.md) - 1 mention
 - [East Asia](../entities/people/east-asia.md) - 1 mention
 - [Saharan Africa](../entities/people/saharan-africa.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Bill Gates](../entities/people/bill-gates.md) - 1 mention
 - [Elon Musk](../entities/people/elon-musk.md) - 1 mention
 - [North America](../entities/people/north-america.md) - 1 mention

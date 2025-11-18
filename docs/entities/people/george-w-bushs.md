@@ -24,14 +24,15 @@ Top 5 documents by mention frequency:
 
 **People:**
 
-- [CLINTON](clinton.md) - 5 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 5 shared documents
 
 **Organizations:**
 
 - [NYT](../organizations/nyt.md) - 5 shared documents
+- [Goldman Sachs](../organizations/goldman-sachs.md) - 4 shared documents
 - [HOUSE](../organizations/house.md) - 4 shared documents
 - [Treasury](../organizations/treasury.md) - 4 shared documents
-- [Goldman Sachs](../organizations/goldman-sachs.md) - 4 shared documents
 
 **Locations:**
 

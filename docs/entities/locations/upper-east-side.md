@@ -59,10 +59,10 @@ Top 10 documents by mention frequency:
 - [New York City](new-york-city.md) - 12 shared documents
 - [London](london.md) - 11 shared documents
 - [Miami](miami.md) - 11 shared documents
-- [New York](new-york.md) - 9 shared documents
 - [Manhattan](manhattan.md) - 9 shared documents
-- [Europe](europe.md) - 8 shared documents
+- [New York](new-york.md) - 9 shared documents
 - [America](america.md) - 8 shared documents
+- [Europe](europe.md) - 8 shared documents
 - [Florida](florida.md) - 8 shared documents
 - [New York's](new-yorks.md) - 8 shared documents
 
@@ -70,14 +70,14 @@ Top 10 documents by mention frequency:
 
 - [today](../events/today.md) - 12 shared documents
 - [1987](../events/1987.md) - 11 shared documents
-- [Wednesday](../events/wednesday.md) - 9 shared documents
 - [2008](../events/2008.md) - 9 shared documents
-- [the next day](../events/the-next-day.md) - 9 shared documents
 - [February](../events/february.md) - 9 shared documents
+- [the next day](../events/the-next-day.md) - 9 shared documents
+- [Wednesday](../events/wednesday.md) - 9 shared documents
+- [2002](../events/2002.md) - 8 shared documents
 - [2007](../events/2007.md) - 8 shared documents
 - [daily](../events/daily.md) - 8 shared documents
 - [last week](../events/last-week.md) - 8 shared documents
-- [2002](../events/2002.md) - 8 shared documents
 
 ## Timeline
 

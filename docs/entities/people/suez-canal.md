@@ -29,43 +29,39 @@ Top 5 documents by mention frequency:
 - [United 
 States](united-states.md) - 5 shared documents
 - [White House](white-house.md) - 5 shared documents
+- [Barack Obama](barack-obama.md) - 5 shared documents
 - [Middle East](middle-east.md) - 5 shared documents
-- [President Obama](president-obama.md) - 5 shared documents
 - [Saudi Arabia](saudi-arabia.md) - 5 shared documents
-- [Mr. Obama](obama.md) - 5 shared documents
-- [Barack Obama](barack-obama.md) - 4 shared documents
 
 **Organizations:**
 
-- [White House](../organizations/white-house.md) - 5 shared documents
 - [Islam](../organizations/islam.md) - 5 shared documents
-- [Congress](../organizations/congress.md) - 4 shared documents
-- [the White House](../organizations/the-white-house.md) - 4 shared documents
-- [Washington Post](../organizations/washington-post.md) - 4 shared documents
-- [State](../organizations/state.md) - 4 shared documents
-- [Harvard](../organizations/harvard.md) - 4 shared documents
+- [White House](../organizations/white-house.md) - 5 shared documents
 
 **Locations:**
 
+- [Afghanistan](../locations/afghanistan.md) - 5 shared documents
 - [China](../locations/china.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
+- [Egypt](../locations/egypt.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
 - [Libya](../locations/libya.md) - 5 shared documents
+- [Russia](../locations/russia.md) - 5 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 5 shared documents
 - [Syria](../locations/syria.md) - 5 shared documents
+- [Tehran](../locations/tehran.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [Egypt](../locations/egypt.md) - 5 shared documents
-- [Afghanistan](../locations/afghanistan.md) - 5 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 5 shared documents
 - [2003](../events/2003.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
-- [last week](../events/last-week.md) - 4 shared documents
 - [2008](../events/2008.md) - 4 shared documents
+- [decades](../events/decades.md) - 4 shared documents
+- [January](../events/january.md) - 4 shared documents
+- [last week](../events/last-week.md) - 4 shared documents
+- [recent years](../events/recent-years.md) - 4 shared documents
 - [Tuesday](../events/tuesday.md) - 4 shared documents
+- [years](../events/years.md) - 4 shared documents
 
 ## Timeline
 

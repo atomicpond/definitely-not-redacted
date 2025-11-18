@@ -55,21 +55,19 @@ Top 8 documents by mention frequency:
 - [Palm Beach](../locations/palm-beach.md) - 7 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 7 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 6 shared documents
-- [Miami](../locations/miami.md) - 5 shared documents
-- [New Mexico](../locations/new-mexico.md) - 5 shared documents
 
 **Events:**
 
 - [18 months](../events/18-months.md) - 7 shared documents
-- [last week](../events/last-week.md) - 6 shared documents
-- [yesterday](../events/yesterday.md) - 6 shared documents
-- [2006](../events/2006.md) - 6 shared documents
-- [one year](../events/one-year.md) - 6 shared documents
-- [three years](../events/three-years.md) - 6 shared documents
-- [two years](../events/two-years.md) - 6 shared documents
 - [14](../events/14.md) - 6 shared documents
 - [14-year-old](../events/14-year-old.md) - 6 shared documents
+- [16-year-old](../events/16-year-old.md) - 6 shared documents
 - [18](../events/18.md) - 6 shared documents
+- [2006](../events/2006.md) - 6 shared documents
+- [July 2006](../events/july-2006.md) - 6 shared documents
+- [last week](../events/last-week.md) - 6 shared documents
+- [one year](../events/one-year.md) - 6 shared documents
+- [the age of 18](../events/the-age-of-18.md) - 6 shared documents
 
 ## Timeline
 

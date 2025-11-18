@@ -26,7 +26,7 @@ Kirkland & Ellis LLP or Kirkland & Ellis International LLP](../entities/organiza
 ### Events/Dates
 - [2011](../entities/events/2011.md) - 1 mention
 - [three years ago](../entities/events/three-years-ago.md) - 1 mention
-- [3/7/2011](../entities/events/372011.md) - 1 mention
+- [3/7/2011](../entities/events/3-7-2011.md) - 1 mention
 
 ## Document Text
 

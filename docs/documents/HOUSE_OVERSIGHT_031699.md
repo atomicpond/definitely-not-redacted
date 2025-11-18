@@ -9,7 +9,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Obama](../entities/people/mr-obama.md) - 13 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 13 mentions
 - [Romney](../entities/people/romney.md) - 13 mentions
 - [Terry Kafka](../entities/people/terry-kafka.md) - 2 mentions
 - [Mitt Romney](../entities/people/mitt-romney.md) - 1 mention

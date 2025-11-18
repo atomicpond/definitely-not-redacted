@@ -56,8 +56,8 @@ Top 10 documents by mention frequency:
 - [Sunday](sunday.md) - 9 shared documents
 - [the day](the-day.md) - 9 shared documents
 - [the next day](the-next-day.md) - 9 shared documents
-- [2003](2003.md) - 9 shared documents
 - [2002](2002.md) - 9 shared documents
+- [2003](2003.md) - 9 shared documents
 
 ## Timeline
 

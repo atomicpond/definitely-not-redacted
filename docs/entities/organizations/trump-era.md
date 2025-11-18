@@ -24,23 +24,24 @@ Top 5 documents by mention frequency:
 
 **People:**
 
+- [Donald 
+Trump](../people/donald-trump.md) - 5 shared documents
 - [Lawrence Krauss](../people/lawrence-krauss.md) - 5 shared documents
-- [Trump Era](../people/trump-era.md) - 5 shared documents
 
 **Organizations:**
 
-- [HOUSE](house.md) - 4 shared documents
 - [Arizona State University](arizona-state-university.md) - 4 shared documents
-- [The Origins Project](the-origins-project.md) - 4 shared documents
 - [ASU](asu.md) - 4 shared documents
+- [HOUSE](house.md) - 4 shared documents
 - [Research Office](research-office.md) - 4 shared documents
+- [The Origins Project](the-origins-project.md) - 4 shared documents
 
 **Locations:**
 
-- [Tempe](../locations/tempe.md) - 4 shared documents
+- [Australia](../locations/australia.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
 - [Germany](../locations/germany.md) - 4 shared documents
-- [Australia](../locations/australia.md) - 4 shared documents
+- [Tempe](../locations/tempe.md) - 4 shared documents
 
 **Events:**
 

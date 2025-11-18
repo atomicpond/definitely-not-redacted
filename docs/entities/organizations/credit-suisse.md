@@ -52,28 +52,28 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [China](../locations/china.md) - 7 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
+- [Chicago](../locations/chicago.md) - 6 shared documents
 - [Japan](../locations/japan.md) - 6 shared documents
 - [Mexico](../locations/mexico.md) - 6 shared documents
-- [Chicago](../locations/chicago.md) - 6 shared documents
 - [Miami](../locations/miami.md) - 6 shared documents
+- [United States](../locations/united-states.md) - 6 shared documents
 - [San Francisco](../locations/san-francisco.md) - 5 shared documents
-- [Brazil](../locations/brazil.md) - 4 shared documents
-- [Canada](../locations/canada.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
+- [America](../locations/america.md) - 4 shared documents
+- [Atlanta](../locations/atlanta.md) - 4 shared documents
+- [Beijing](../locations/beijing.md) - 4 shared documents
 
 **Events:**
 
 - [annual](../events/annual.md) - 6 shared documents
-- [2014](../events/2014.md) - 5 shared documents
-- [2008](../events/2008.md) - 5 shared documents
 - [1987](../events/1987.md) - 5 shared documents
+- [2008](../events/2008.md) - 5 shared documents
+- [2014](../events/2014.md) - 5 shared documents
+- [1994](../events/1994.md) - 4 shared documents
+- [1997](../events/1997.md) - 4 shared documents
+- [2000](../events/2000.md) - 4 shared documents
 - [2004](../events/2004.md) - 4 shared documents
 - [2007](../events/2007.md) - 4 shared documents
-- [2015](../events/2015.md) - 4 shared documents
-- [2016](../events/2016.md) - 4 shared documents
-- [2000](../events/2000.md) - 4 shared documents
-- [2012](../events/2012.md) - 4 shared documents
+- [2010](../events/2010.md) - 4 shared documents
 
 ## Timeline
 

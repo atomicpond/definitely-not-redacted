@@ -32,11 +32,10 @@ Top 10 documents by mention frequency:
 
 - [Broward County](../people/broward-county.md) - 9 shared documents
 - [Jack Scarola](../people/jack-scarola.md) - 8 shared documents
-- [Bradley J. Edwards](../people/bradley-j-edwards.md) - 7 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 7 shared documents
 - [Jane Doe](../people/jane-doe.md) - 7 shared documents
 - [Paul G. Cassell](../people/paul-g-cassell.md) - 7 shared documents
 - [Secret Service](../people/secret-service.md) - 7 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 6 shared documents
 - [New Mexico](../people/new-mexico.md) - 6 shared documents
 - [Paul Cassell](../people/paul-cassell.md) - 6 shared documents
 
@@ -70,14 +69,14 @@ Top 10 documents by mention frequency:
 
 - [today](../events/today.md) - 11 shared documents
 - [2011](../events/2011.md) - 10 shared documents
-- [2007](../events/2007.md) - 9 shared documents
 - [1999](../events/1999.md) - 9 shared documents
+- [2007](../events/2007.md) - 9 shared documents
 - [2008](../events/2008.md) - 9 shared documents
 - [2015](../events/2015.md) - 8 shared documents
-- [2016](../events/2016.md) - 7 shared documents
-- [Sunday](../events/sunday.md) - 7 shared documents
 - [2005](../events/2005.md) - 7 shared documents
+- [2016](../events/2016.md) - 7 shared documents
 - [one day](../events/one-day.md) - 7 shared documents
+- [Sunday](../events/sunday.md) - 7 shared documents
 
 ## Timeline
 

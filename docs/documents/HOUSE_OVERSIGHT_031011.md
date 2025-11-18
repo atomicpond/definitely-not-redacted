@@ -12,7 +12,7 @@
 - [Barack Obama](../entities/people/barack-obama.md) - 2 mentions
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 2 mentions
 - [Santa Claus](../entities/people/santa-claus.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [pritzker](../entities/people/pritzker.md) - 1 mention
 - [Foley](../entities/people/foley.md) - 1 mention
 - [Daniel](../entities/people/daniel.md) - 1 mention

@@ -39,38 +39,38 @@ Top 10 documents by mention frequency:
 **Organizations:**
 
 - [Treasury](treasury.md) - 7 shared documents
-- [S&P](sp.md) - 7 shared documents
 - [Bloomberg](bloomberg.md) - 7 shared documents
 - [Congress](congress.md) - 7 shared documents
+- [S&P](sp.md) - 7 shared documents
 - [the Dubai Financial Services Authority](the-dubai-financial-services-authority.md) - 7 shared documents
 - [USD](usd.md) - 6 shared documents
-- [CFA](cfa.md) - 6 shared documents
-- [Fed](fed.md) - 6 shared documents
-- [ECB](ecb.md) - 6 shared documents
 - [ABN](abn.md) - 6 shared documents
+- [Bank](bank.md) - 6 shared documents
+- [CFA](cfa.md) - 6 shared documents
+- [ECB](ecb.md) - 6 shared documents
 
 **Locations:**
 
-- [Japan](../locations/japan.md) - 10 shared documents
 - [Canada](../locations/canada.md) - 10 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 10 shared documents
+- [Japan](../locations/japan.md) - 10 shared documents
 - [Singapore](../locations/singapore.md) - 10 shared documents
-- [Brazil](../locations/brazil.md) - 9 shared documents
-- [Mexico](../locations/mexico.md) - 9 shared documents
 - [Asia](../locations/asia.md) - 9 shared documents
 - [Australia](../locations/australia.md) - 9 shared documents
+- [Brazil](../locations/brazil.md) - 9 shared documents
 - [India](../locations/india.md) - 9 shared documents
-- [Taiwan](../locations/taiwan.md) - 9 shared documents
+- [Indonesia](../locations/indonesia.md) - 9 shared documents
+- [Korea](../locations/korea.md) - 9 shared documents
 
 **Events:**
 
-- [this year](../events/this-year.md) - 7 shared documents
 - [10-year](../events/10-year.md) - 7 shared documents
+- [this year](../events/this-year.md) - 7 shared documents
 - [2000](../events/2000.md) - 6 shared documents
 - [2012](../events/2012.md) - 6 shared documents
+- [5-year](../events/5-year.md) - 6 shared documents
 - [monthly](../events/monthly.md) - 6 shared documents
 - [the year](../events/the-year.md) - 6 shared documents
-- [5-year](../events/5-year.md) - 6 shared documents
 
 ## Timeline
 

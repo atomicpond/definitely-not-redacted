@@ -30,14 +30,11 @@ Top 9 documents by mention frequency:
 
 - [Bill 
 Clinton](bill-clinton.md) - 8 shared documents
-- [Jeffrey Epstein](jeffrey-epstein.md) - 7 shared documents
 - [New
 York](new-york.md) - 7 shared documents
 - [Palm 
 Beach](palm-beach.md) - 7 shared documents
-- [Epstein](epstein.md) - 6 shared documents
-- [President Bill  
-Clinton](president-bill-clinton.md) - 6 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 6 shared documents
 - [Prince 
 Andrew](prince-andrew.md) - 6 shared documents
 - [Michael Reiter](michael-reiter.md) - 5 shared documents
@@ -47,8 +44,8 @@ Dershowitz](alan-dershowitz.md) - 5 shared documents
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 6 shared documents
 - [Harvard](../organizations/harvard.md) - 6 shared documents
+- [HOUSE](../organizations/house.md) - 6 shared documents
 - [FBI](../organizations/fbi.md) - 4 shared documents
 
 **Locations:**
@@ -64,10 +61,10 @@ Dershowitz](alan-dershowitz.md) - 5 shared documents
 
 **Events:**
 
+- [2002](../events/2002.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
 - [daily](../events/daily.md) - 4 shared documents
 - [Sunday](../events/sunday.md) - 4 shared documents
-- [2005](../events/2005.md) - 4 shared documents
-- [2002](../events/2002.md) - 4 shared documents
 
 ## Timeline
 

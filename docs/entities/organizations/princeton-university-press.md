@@ -44,9 +44,9 @@ Top 10 documents by mention frequency:
 
 - [Princeton University](princeton-university.md) - 10 shared documents
 - [Harvard University](harvard-university.md) - 8 shared documents
-- [Oxford University](oxford-university.md) - 7 shared documents
 - [Harvard University Press](harvard-university-press.md) - 7 shared documents
 - [MIT Press](mit-press.md) - 7 shared documents
+- [Oxford University](oxford-university.md) - 7 shared documents
 - [Oxford University Press](oxford-university-press.md) - 7 shared documents
 - [Yale University](yale-university.md) - 6 shared documents
 - [University Press](university-press.md) - 5 shared documents
@@ -55,27 +55,22 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [Cambridge](../locations/cambridge.md) - 9 shared documents
-- [USA](../locations/usa.md) - 7 shared documents
-- [Israel](../locations/israel.md) - 7 shared documents
 - [Boston](../locations/boston.md) - 7 shared documents
-- [New York](../locations/new-york.md) - 6 shared documents
-- [London](../locations/london.md) - 6 shared documents
-- [France](../locations/france.md) - 6 shared documents
-- [Iraq](../locations/iraq.md) - 6 shared documents
-- [the United States](../locations/the-united-states.md) - 6 shared documents
+- [Israel](../locations/israel.md) - 7 shared documents
+- [USA](../locations/usa.md) - 7 shared documents
 
 **Events:**
 
 - [1997](../events/1997.md) - 10 shared documents
-- [2004](../events/2004.md) - 9 shared documents
 - [2002](../events/2002.md) - 9 shared documents
-- [2000](../events/2000.md) - 8 shared documents
+- [2004](../events/2004.md) - 9 shared documents
+- [1988](../events/1988.md) - 8 shared documents
 - [1990](../events/1990.md) - 8 shared documents
+- [1995](../events/1995.md) - 8 shared documents
+- [2000](../events/2000.md) - 8 shared documents
 - [2001](../events/2001.md) - 8 shared documents
 - [2006](../events/2006.md) - 8 shared documents
-- [1988](../events/1988.md) - 8 shared documents
-- [1995](../events/1995.md) - 8 shared documents
-- [2003](../events/2003.md) - 7 shared documents
+- [1971](../events/1971.md) - 7 shared documents
 
 ## Timeline
 

@@ -35,40 +35,38 @@ Top 10 documents by mention frequency:
 **Organizations:**
 
 - [Google](../organizations/google.md) - 7 shared documents
-- [HOUSE](../organizations/house.md) - 6 shared documents
 - [CBS](../organizations/cbs.md) - 6 shared documents
+- [Disney](../organizations/disney.md) - 6 shared documents
 - [Fox](../organizations/fox.md) - 6 shared documents
 - [HBO](../organizations/hbo.md) - 6 shared documents
-- [Disney](../organizations/disney.md) - 6 shared documents
+- [HOUSE](../organizations/house.md) - 6 shared documents
 - [Sony](../organizations/sony.md) - 6 shared documents
-- [White House](../organizations/white-house.md) - 5 shared documents
-- [Viacom](../organizations/viacom.md) - 5 shared documents
 
 **Locations:**
 
 - [New York](../locations/new-york.md) - 8 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 7 shared documents
 - [America](../locations/america.md) - 7 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 7 shared documents
 - [California](../locations/california.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
 - [Manhattan](../locations/manhattan.md) - 6 shared documents
 - [Paris](../locations/paris.md) - 6 shared documents
+- [Washington](../locations/washington.md) - 6 shared documents
+- [Berlin](../locations/berlin.md) - 5 shared documents
+- [Beverly Hills](../locations/beverly-hills.md) - 5 shared documents
 - [China](../locations/china.md) - 5 shared documents
-- [Iran](../locations/iran.md) - 5 shared documents
-- [Rome](../locations/rome.md) - 5 shared documents
 
 **Events:**
 
 - [Sunday](../events/sunday.md) - 9 shared documents
-- [this year](../events/this-year.md) - 8 shared documents
 - [the year](../events/the-year.md) - 8 shared documents
+- [this year](../events/this-year.md) - 8 shared documents
 - [years](../events/years.md) - 7 shared documents
-- [October](../events/october.md) - 6 shared documents
-- [last week](../events/last-week.md) - 6 shared documents
-- [summer](../events/summer.md) - 6 shared documents
-- [Saturday](../events/saturday.md) - 6 shared documents
-- [three-year](../events/three-year.md) - 6 shared documents
+- [1982](../events/1982.md) - 6 shared documents
 - [Christmas](../events/christmas.md) - 6 shared documents
+- [last week](../events/last-week.md) - 6 shared documents
+- [October](../events/october.md) - 6 shared documents
+- [Saturday](../events/saturday.md) - 6 shared documents
+- [summer](../events/summer.md) - 6 shared documents
 
 ## Timeline
 

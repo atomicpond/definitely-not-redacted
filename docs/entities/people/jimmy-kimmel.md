@@ -34,9 +34,9 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [Fox](../organizations/fox.md) - 4 shared documents
-- [Chanel](../organizations/chanel.md) - 4 shared documents
 - [Academy](../organizations/academy.md) - 4 shared documents
+- [Chanel](../organizations/chanel.md) - 4 shared documents
+- [Fox](../organizations/fox.md) - 4 shared documents
 - [UTA](../organizations/uta.md) - 4 shared documents
 - [Vanity Fair](../organizations/vanity-fair.md) - 4 shared documents
 
@@ -47,8 +47,8 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [this year](../events/this-year.md) - 4 shared documents
 - [Friday, February 24](../events/friday-february-24.md) - 4 shared documents
+- [this year](../events/this-year.md) - 4 shared documents
 
 ## Timeline
 

@@ -59,15 +59,15 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [Germany](germany.md) - 38 shared documents
+- [Asia](asia.md) - 35 shared documents
 - [China](china.md) - 35 shared documents
 - [Japan](japan.md) - 35 shared documents
 - [Russia](russia.md) - 35 shared documents
-- [Asia](asia.md) - 35 shared documents
 - [Spain](spain.md) - 32 shared documents
-- [Mexico](mexico.md) - 31 shared documents
-- [Israel](israel.md) - 31 shared documents
 - [India](india.md) - 31 shared documents
-- [Europe](europe.md) - 30 shared documents
+- [Israel](israel.md) - 31 shared documents
+- [Mexico](mexico.md) - 31 shared documents
+- [Australia](australia.md) - 30 shared documents
 
 **Events:**
 

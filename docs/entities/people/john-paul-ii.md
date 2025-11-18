@@ -25,28 +25,28 @@ Top 5 documents by mention frequency:
 **Locations:**
 
 - [Florida](../locations/florida.md) - 5 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [Africa](../locations/africa.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
-- [London](../locations/london.md) - 4 shared documents
-- [France](../locations/france.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
-- [Egypt](../locations/egypt.md) - 4 shared documents
-- [New Jersey](../locations/new-jersey.md) - 4 shared documents
 - [Afghanistan](../locations/afghanistan.md) - 4 shared documents
+- [Africa](../locations/africa.md) - 4 shared documents
+- [California](../locations/california.md) - 4 shared documents
+- [Egypt](../locations/egypt.md) - 4 shared documents
+- [France](../locations/france.md) - 4 shared documents
+- [London](../locations/london.md) - 4 shared documents
+- [New Jersey](../locations/new-jersey.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 
 - [1995](../events/1995.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [2004](../events/2004.md) - 4 shared documents
+- [1974](../events/1974.md) - 4 shared documents
+- [1980](../events/1980.md) - 4 shared documents
+- [1984](../events/1984.md) - 4 shared documents
+- [1988](../events/1988.md) - 4 shared documents
 - [1996](../events/1996.md) - 4 shared documents
-- [2000](../events/2000.md) - 4 shared documents
 - [1997](../events/1997.md) - 4 shared documents
 - [1998](../events/1998.md) - 4 shared documents
 - [1999](../events/1999.md) - 4 shared documents
-- [2001](../events/2001.md) - 4 shared documents
-- [1984](../events/1984.md) - 4 shared documents
+- [2000](../events/2000.md) - 4 shared documents
 
 ## Timeline
 

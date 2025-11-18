@@ -37,33 +37,32 @@ Top 10 documents by mention frequency:
 - [Congress](congress.md) - 9 shared documents
 - [Bloomberg](bloomberg.md) - 5 shared documents
 - [Fed](fed.md) - 5 shared documents
-- [ECB](ecb.md) - 4 shared documents
 
 **Locations:**
 
 - [Yemen](../locations/yemen.md) - 10 shared documents
 - [China](../locations/china.md) - 8 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
 - [Germany](../locations/germany.md) - 6 shared documents
-- [Mexico](../locations/mexico.md) - 6 shared documents
 - [Iran](../locations/iran.md) - 6 shared documents
-- [Paris](../locations/paris.md) - 6 shared documents
+- [Mexico](../locations/mexico.md) - 6 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 6 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
+- [Paris](../locations/paris.md) - 6 shared documents
+- [Russia](../locations/russia.md) - 6 shared documents
+- [Brazil](../locations/brazil.md) - 5 shared documents
+- [Canada](../locations/canada.md) - 5 shared documents
 
 **Events:**
 
 - [last year](../events/last-year.md) - 8 shared documents
 - [2013](../events/2013.md) - 6 shared documents
-- [today](../events/today.md) - 5 shared documents
 - [Thu, May 30, 2019](../events/thu-may-30-2019.md) - 5 shared documents
-- [year-end](../events/year-end.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
-- [July](../events/july.md) - 4 shared documents
-- [the year](../events/the-year.md) - 4 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [10-year](../events/10-year.md) - 4 shared documents
+- [July](../events/july.md) - 4 shared documents
+- [June](../events/june.md) - 4 shared documents
+- [Sunday](../events/sunday.md) - 4 shared documents
+- [the year](../events/the-year.md) - 4 shared documents
+- [this year](../events/this-year.md) - 4 shared documents
 
 ## Timeline
 

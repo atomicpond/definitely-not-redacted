@@ -24,8 +24,8 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [Fed](fed.md) - 4 shared documents
 - [Congress](congress.md) - 4 shared documents
+- [Fed](fed.md) - 4 shared documents
 
 **Locations:**
 
@@ -34,16 +34,16 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [2000](../events/2000.md) - 4 shared documents
-- [1998](../events/1998.md) - 4 shared documents
-- [1984](../events/1984.md) - 4 shared documents
-- [1988](../events/1988.md) - 4 shared documents
-- [1989](../events/1989.md) - 4 shared documents
-- [1992](../events/1992.md) - 4 shared documents
 - [1964](../events/1964.md) - 4 shared documents
 - [1980](../events/1980.md) - 4 shared documents
 - [1983](../events/1983.md) - 4 shared documents
+- [1984](../events/1984.md) - 4 shared documents
+- [1988](../events/1988.md) - 4 shared documents
+- [1989](../events/1989.md) - 4 shared documents
 - [1991](../events/1991.md) - 4 shared documents
+- [1992](../events/1992.md) - 4 shared documents
+- [1998](../events/1998.md) - 4 shared documents
+- [2000](../events/2000.md) - 4 shared documents
 
 ## Timeline
 

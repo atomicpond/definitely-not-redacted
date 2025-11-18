@@ -24,10 +24,10 @@ Top 5 documents by mention frequency:
 
 **People:**
 
-- [Mr. Bannon](../people/bannon.md) - 5 shared documents
 - [David Stern](../people/david-stern.md) - 5 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 5 shared documents
 - [jeffrey E. <](../people/jeffrey-e.md) - 5 shared documents
+- [Steve Bannon](../people/steve-bannon.md) - 5 shared documents
 
 **Organizations:**
 
@@ -35,16 +35,16 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Russia](../locations/russia.md) - 5 shared documents
 - [London](../locations/london.md) - 5 shared documents
 - [Munich](../locations/munich.md) - 5 shared documents
+- [Russia](../locations/russia.md) - 5 shared documents
 
 **Events:**
 
-- [tomorrow](../events/tomorrow.md) - 5 shared documents
-- [Thu, Jul 12, 2018](../events/thu-jul-12-2018.md) - 5 shared documents
 - [12 Jul 2018](../events/12-jul-2018.md) - 5 shared documents
 - [7/12/2018](../events/7-12-2018.md) - 5 shared documents
+- [Thu, Jul 12, 2018](../events/thu-jul-12-2018.md) - 5 shared documents
+- [tomorrow](../events/tomorrow.md) - 5 shared documents
 
 ## Timeline
 

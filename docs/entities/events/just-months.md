@@ -28,8 +28,8 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [2009](2009.md) - 4 shared documents
 - [2008](2008.md) - 4 shared documents
+- [2009](2009.md) - 4 shared documents
 - [21st-century](21st-century.md) - 4 shared documents
 
 ## Timeline

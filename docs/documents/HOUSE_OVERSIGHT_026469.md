@@ -16,7 +16,7 @@
 - [On Fri](../entities/people/on-fri.md) - 2 mentions
 - [James Comey](../entities/people/james-comey.md) - 1 mention
 - [James Baker](../entities/people/james-baker.md) - 1 mention
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 1 mention
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 1 mention
 - [On Thu](../entities/people/on-thu.md) - 1 mention
 - [Woody](../entities/people/woody.md) - 1 mention
 

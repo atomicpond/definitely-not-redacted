@@ -21,7 +21,7 @@
 Twin City](../entities/people/prospectus-twin-city.md) - 21 mentions
 - [Annual Total](../entities/people/annual-total.md) - 17 mentions
 - [Virgin Islands](../entities/people/virgin-islands.md) - 7 mentions
-- [Mr. Hill](../entities/people/mr-hill.md) - 4 mentions
+- [Mr. Hill](../entities/people/hill.md) - 4 mentions
 - [Dear Mr](../entities/people/dear-mr.md) - 2 mentions
 - [Epstein](../entities/people/epstein.md) - 2 mentions
 - [Jeffrey Edward Epstein](../entities/people/jeffrey-edward-epstein.md) - 2 mentions

@@ -55,16 +55,16 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
-- [2012](2012.md) - 17 shared documents
 - [2010](2010.md) - 17 shared documents
+- [2012](2012.md) - 17 shared documents
 - [today](today.md) - 16 shared documents
 - [2007](2007.md) - 16 shared documents
 - [2009](2009.md) - 16 shared documents
 - [years](years.md) - 15 shared documents
-- [2011](2011.md) - 15 shared documents
 - [2008](2008.md) - 15 shared documents
+- [2011](2011.md) - 15 shared documents
 - [one year](one-year.md) - 15 shared documents
-- [this year](this-year.md) - 14 shared documents
+- [2006](2006.md) - 14 shared documents
 
 ## Timeline
 

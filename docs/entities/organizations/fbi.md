@@ -31,7 +31,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [New Mexico](../people/new-mexico.md) - 41 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 36 shared documents
 - [Kenneth Starr](../people/kenneth-starr.md) - 34 shared documents
 - [Jack Goldberger](../people/jack-goldberger.md) - 33 shared documents
 - [Jane Doe](../people/jane-doe.md) - 33 shared documents
@@ -40,6 +39,7 @@ Top 10 documents by mention frequency:
 - [Roy Black](../people/roy-black.md) - 29 shared documents
 - [White House](../people/white-house.md) - 29 shared documents
 - [Alfredo Rodriguez](../people/alfredo-rodriguez.md) - 27 shared documents
+- [Federal Bureau](../people/federal-bureau.md) - 27 shared documents
 
 **Organizations:**
 
@@ -73,10 +73,10 @@ Top 10 documents by mention frequency:
 - [the day](../events/the-day.md) - 50 shared documents
 - [2008](../events/2008.md) - 49 shared documents
 - [2009](../events/2009.md) - 48 shared documents
-- [2007](../events/2007.md) - 47 shared documents
 - [2006](../events/2006.md) - 47 shared documents
-- [daily](../events/daily.md) - 46 shared documents
+- [2007](../events/2007.md) - 47 shared documents
 - [2005](../events/2005.md) - 46 shared documents
+- [daily](../events/daily.md) - 46 shared documents
 - [2004](../events/2004.md) - 45 shared documents
 - [2011](../events/2011.md) - 45 shared documents
 

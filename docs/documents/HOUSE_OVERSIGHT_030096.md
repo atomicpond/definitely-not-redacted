@@ -12,7 +12,7 @@
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 4 mentions
 - [Jeffrey Epstein 
 Unauthorized](../entities/people/jeffrey-epstein-unauthorized.md) - 2 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [On Fri](../entities/people/on-fri.md) - 1 mention
 - [PETER MANDELSON](../entities/people/peter-mandelson.md) - 1 mention
 

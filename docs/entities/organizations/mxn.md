@@ -36,34 +36,37 @@ Top 8 documents by mention frequency:
 - [AUD](aud.md) - 6 shared documents
 - [KRW](krw.md) - 6 shared documents
 - [NOK](nok.md) - 5 shared documents
+- [ABN](abn.md) - 5 shared documents
+- [Bank](bank.md) - 5 shared documents
 - [Bloomberg](bloomberg.md) - 5 shared documents
 - [BoJ](boj.md) - 5 shared documents
 - [CFA](cfa.md) - 5 shared documents
 - [ECB](ecb.md) - 5 shared documents
-- [ABN](abn.md) - 5 shared documents
-- [Bank](bank.md) - 5 shared documents
 
 **Locations:**
 
 - [USD](../locations/usd.md) - 8 shared documents
 - [Europe](../locations/europe.md) - 7 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
 - [Asia](../locations/asia.md) - 6 shared documents
 - [Italy](../locations/italy.md) - 6 shared documents
-- [China](../locations/china.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 6 shared documents
+- [Argentina](../locations/argentina.md) - 5 shared documents
+- [Australia](../locations/australia.md) - 5 shared documents
 - [Brazil](../locations/brazil.md) - 5 shared documents
 - [Canada](../locations/canada.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
+- [China](../locations/china.md) - 5 shared documents
 
 **Events:**
 
 - [this year](../events/this-year.md) - 5 shared documents
+- [2013](../events/2013.md) - 4 shared documents
+- [5-year](../events/5-year.md) - 4 shared documents
+- [five-year](../events/five-year.md) - 4 shared documents
+- [June](../events/june.md) - 4 shared documents
 - [last year](../events/last-year.md) - 4 shared documents
-- [monthly](../events/monthly.md) - 4 shared documents
 - [March](../events/march.md) - 4 shared documents
 - [May](../events/may.md) - 4 shared documents
-- [the year](../events/the-year.md) - 4 shared documents
+- [monthly](../events/monthly.md) - 4 shared documents
 
 ## Timeline
 

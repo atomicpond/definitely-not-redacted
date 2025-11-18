@@ -30,19 +30,19 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
-- [China](../locations/china.md) - 6 shared documents
 - [Asia](../locations/asia.md) - 6 shared documents
 - [Beijing](../locations/beijing.md) - 6 shared documents
+- [China](../locations/china.md) - 6 shared documents
 - [Africa](../locations/africa.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
 
 **Events:**
 
-- [Monday](../events/monday.md) - 4 shared documents
 - [2013](../events/2013.md) - 4 shared documents
 - [decades](../events/decades.md) - 4 shared documents
+- [Monday](../events/monday.md) - 4 shared documents
 
 ## Timeline
 

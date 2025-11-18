@@ -17,11 +17,11 @@
 - [Mr. 
 Trump](../entities/people/mr-trump.md) - 38 mentions
 - [Rosenstein](../entities/people/rosenstein.md) - 12 mentions
-- [Mr. Kavanaugh](../entities/people/mr-kavanaugh.md) - 8 mentions
+- [Mr. Kavanaugh](../entities/people/kavanaugh.md) - 8 mentions
 - [Judge Kavanaugh](../entities/people/judge-kavanaugh.md) - 8 mentions
-- [Dr. Blasey](../entities/people/dr-blasey.md) - 6 mentions
+- [Dr. Blasey](../entities/people/blasey.md) - 6 mentions
 - [Supreme Court](../entities/people/supreme-court.md) - 4 mentions
-- [Mr. Cohen](../entities/people/mr-cohen.md) - 4 mentions
+- [Mr. Cohen](../entities/people/cohen.md) - 4 mentions
 - [President Trump](../entities/people/president-trump.md) - 3 mentions
 - [mueller](../entities/people/mueller.md) - 2 mentions
 - [Michael](../entities/people/michael.md) - 2 mentions

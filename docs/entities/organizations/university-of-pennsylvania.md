@@ -33,29 +33,29 @@ Top 7 documents by mention frequency:
 
 **Locations:**
 
-- [California](../locations/california.md) - 5 shared documents
-- [London](../locations/london.md) - 5 shared documents
-- [Florida](../locations/florida.md) - 5 shared documents
 - [Australia](../locations/australia.md) - 5 shared documents
+- [California](../locations/california.md) - 5 shared documents
 - [England](../locations/england.md) - 5 shared documents
+- [Florida](../locations/florida.md) - 5 shared documents
+- [London](../locations/london.md) - 5 shared documents
 - [Africa](../locations/africa.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
 - [Canada](../locations/canada.md) - 4 shared documents
+- [Chicago](../locations/chicago.md) - 4 shared documents
 - [Colombia](../locations/colombia.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
+- [Europe](../locations/europe.md) - 4 shared documents
 
 **Events:**
 
 - [January](../events/january.md) - 6 shared documents
 - [1999](../events/1999.md) - 5 shared documents
 - [2001](../events/2001.md) - 5 shared documents
-- [2004](../events/2004.md) - 4 shared documents
 - [2000](../events/2000.md) - 4 shared documents
-- [last year](../events/last-year.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
-- [2011](../events/2011.md) - 4 shared documents
-- [months](../events/months.md) - 4 shared documents
 - [2002](../events/2002.md) - 4 shared documents
+- [2004](../events/2004.md) - 4 shared documents
+- [2011](../events/2011.md) - 4 shared documents
+- [decades](../events/decades.md) - 4 shared documents
+- [last year](../events/last-year.md) - 4 shared documents
+- [months](../events/months.md) - 4 shared documents
 
 ## Timeline
 

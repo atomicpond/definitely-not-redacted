@@ -41,8 +41,8 @@ Trump](donald-trump.md) - 7 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 4 shared documents
 - [November](../events/november.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

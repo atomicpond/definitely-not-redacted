@@ -47,37 +47,32 @@ Top 10 documents by mention frequency:
 - [Treasury](../organizations/treasury.md) - 8 shared documents
 - [Harvard](../organizations/harvard.md) - 7 shared documents
 - [the New York Times](../organizations/the-new-york-times.md) - 7 shared documents
-- [Times](../organizations/times.md) - 6 shared documents
-- [ISIS](../organizations/isis.md) - 6 shared documents
-- [Rockefeller](../organizations/rockefeller.md) - 6 shared documents
-- [Google](../organizations/google.md) - 6 shared documents
-- [Forbes](../organizations/forbes.md) - 6 shared documents
 
 **Locations:**
 
 - [Europe](../locations/europe.md) - 8 shared documents
 - [Manhattan](../locations/manhattan.md) - 7 shared documents
-- [Paris](../locations/paris.md) - 7 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 7 shared documents
-- [Qatar](../locations/qatar.md) - 6 shared documents
-- [Queens](../locations/queens.md) - 6 shared documents
-- [Dallas](../locations/dallas.md) - 6 shared documents
-- [New Mexico](../locations/new-mexico.md) - 6 shared documents
-- [New York’s](../locations/new-yorks.md) - 6 shared documents
+- [Paris](../locations/paris.md) - 7 shared documents
+- [Caribbean Island](../locations/caribbean-island.md) - 6 shared documents
+- [Coney Island](../locations/coney-island.md) - 6 shared documents
 - [Connecticut](../locations/connecticut.md) - 6 shared documents
+- [Dallas](../locations/dallas.md) - 6 shared documents
+- [Dalton](../locations/dalton.md) - 6 shared documents
+- [Kairat Kelimbetov](../locations/kairat-kelimbetov.md) - 6 shared documents
 
 **Events:**
 
 - [last year](../events/last-year.md) - 9 shared documents
 - [the 1980s](../events/the-1980s.md) - 8 shared documents
 - [two years](../events/two-years.md) - 8 shared documents
-- [more than a year](../events/more-than-a-year.md) - 7 shared documents
 - [many years](../events/many-years.md) - 7 shared documents
-- [Sunday](../events/sunday.md) - 6 shared documents
-- [Saturday](../events/saturday.md) - 6 shared documents
-- [1974](../events/1974.md) - 6 shared documents
+- [more than a year](../events/more-than-a-year.md) - 7 shared documents
 - [18 months](../events/18-months.md) - 6 shared documents
-- [2002](../events/2002.md) - 6 shared documents
+- [1953](../events/1953.md) - 6 shared documents
+- [1974](../events/1974.md) - 6 shared documents
+- [1982](../events/1982.md) - 6 shared documents
+- [1994](../events/1994.md) - 6 shared documents
 
 ## Timeline
 

@@ -42,36 +42,35 @@ Top 9 documents by mention frequency:
 - [Congress](congress.md) - 7 shared documents
 - [the Dubai Financial Services Authority](the-dubai-financial-services-authority.md) - 7 shared documents
 - [the Monetary Authority of Singapore](the-monetary-authority-of-singapore.md) - 6 shared documents
-- [Fed](fed.md) - 6 shared documents
-- [ECB](ecb.md) - 6 shared documents
 - [the Securities and Exchange Commission](the-securities-and-exchange-commission.md) - 5 shared documents
 - [USD](usd.md) - 5 shared documents
 - [Utilities](utilities.md) - 5 shared documents
 
 **Locations:**
 
-- [China](../locations/china.md) - 9 shared documents
-- [Japan](../locations/japan.md) - 9 shared documents
+- [Asia](../locations/asia.md) - 9 shared documents
 - [Brazil](../locations/brazil.md) - 9 shared documents
 - [Canada](../locations/canada.md) - 9 shared documents
-- [Mexico](../locations/mexico.md) - 9 shared documents
-- [Asia](../locations/asia.md) - 9 shared documents
+- [China](../locations/china.md) - 9 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 9 shared documents
-- [Singapore](../locations/singapore.md) - 9 shared documents
+- [Japan](../locations/japan.md) - 9 shared documents
 - [Korea](../locations/korea.md) - 9 shared documents
-- [Dubai](../locations/dubai.md) - 8 shared documents
+- [Mexico](../locations/mexico.md) - 9 shared documents
+- [Singapore](../locations/singapore.md) - 9 shared documents
+- [Australia](../locations/australia.md) - 8 shared documents
 
 **Events:**
 
-- [this year](../events/this-year.md) - 8 shared documents
 - [10-year](../events/10-year.md) - 8 shared documents
+- [this year](../events/this-year.md) - 8 shared documents
 - [the year](../events/the-year.md) - 7 shared documents
-- [2015](../events/2015.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
 - [2000](../events/2000.md) - 6 shared documents
+- [2001](../events/2001.md) - 6 shared documents
 - [2012](../events/2012.md) - 6 shared documents
+- [2013](../events/2013.md) - 6 shared documents
+- [2015](../events/2015.md) - 6 shared documents
+- [5-year](../events/5-year.md) - 6 shared documents
 - [last year](../events/last-year.md) - 6 shared documents
-- [monthly](../events/monthly.md) - 6 shared documents
 
 ## Timeline
 

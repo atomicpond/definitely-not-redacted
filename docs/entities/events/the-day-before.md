@@ -28,7 +28,6 @@ Top 8 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Middle East](../people/middle-east.md) - 6 shared documents
 
 **Organizations:**
@@ -36,6 +35,7 @@ Top 8 documents by mention frequency:
 - [CIA](../organizations/cia.md) - 7 shared documents
 - [al-Qaeda](../organizations/al-qaeda.md) - 5 shared documents
 - [Benghazi](../organizations/benghazi.md) - 5 shared documents
+- [Congress](../organizations/congress.md) - 5 shared documents
 
 **Locations:**
 
@@ -55,11 +55,11 @@ Top 8 documents by mention frequency:
 - [today](today.md) - 7 shared documents
 - [2007](2007.md) - 7 shared documents
 - [three years](three-years.md) - 6 shared documents
-- [daily](daily.md) - 6 shared documents
 - [2008](2008.md) - 6 shared documents
+- [a year](a-year.md) - 6 shared documents
+- [daily](daily.md) - 6 shared documents
 - [Friday](friday.md) - 6 shared documents
 - [one day](one-day.md) - 6 shared documents
-- [a year](a-year.md) - 6 shared documents
 - [the 1970s](the-1970s.md) - 6 shared documents
 - [the day](the-day.md) - 6 shared documents
 

@@ -29,7 +29,7 @@ Top 8 documents by mention frequency:
 
 - [East Las Olas](../people/east-las-olas.md) - 8 shared documents
 - [Paul G. Cassell](../people/paul-g-cassell.md) - 8 shared documents
-- [Bradley J. Edwards](../people/bradley-j-edwards.md) - 7 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 7 shared documents
 - [Sigrid S. McCawley](../people/sigrid-s-mccawley.md) - 7 shared documents
 - [Jane Doe](../people/jane-doe.md) - 6 shared documents
 - [Lake City](../people/lake-city.md) - 5 shared documents
@@ -61,16 +61,16 @@ Salt](../people/university-street-salt.md) - 5 shared documents
 
 **Events:**
 
-- [2013](../events/2013.md) - 6 shared documents
 - [12](../events/12.md) - 6 shared documents
-- [2015](../events/2015.md) - 5 shared documents
-- [2011](../events/2011.md) - 5 shared documents
+- [2013](../events/2013.md) - 6 shared documents
+- [15](../events/15.md) - 5 shared documents
+- [1989](../events/1989.md) - 5 shared documents
 - [1999](../events/1999.md) - 5 shared documents
 - [2008](../events/2008.md) - 5 shared documents
-- [1989](../events/1989.md) - 5 shared documents
-- [15](../events/15.md) - 5 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [2016](../events/2016.md) - 4 shared documents
+- [2011](../events/2011.md) - 5 shared documents
+- [2015](../events/2015.md) - 5 shared documents
+- [13](../events/13.md) - 4 shared documents
+- [16](../events/16.md) - 4 shared documents
 
 ## Timeline
 

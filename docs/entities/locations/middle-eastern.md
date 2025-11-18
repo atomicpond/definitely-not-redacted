@@ -31,16 +31,15 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 10 shared documents
 - [Middle East](../people/middle-east.md) - 10 shared documents
 - [Middle Eastern](../people/middle-eastern.md) - 10 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 9 shared documents
 - [White House](../people/white-house.md) - 9 shared documents
 - [Hosni Mubarak](../people/hosni-mubarak.md) - 8 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Bashar al-Assad](../people/bashar-al-assad.md) - 7 shared documents
-- [Mr. Obama](../people/obama.md) - 7 shared documents
-- [President Obama](../people/president-obama.md) - 7 shared documents
 - [Security Council](../people/security-council.md) - 7 shared documents
+- [Assad](../people/assad.md) - 6 shared documents
 
 **Organizations:**
 
@@ -76,10 +75,10 @@ Top 10 documents by mention frequency:
 - [annual](../events/annual.md) - 8 shared documents
 - [last year](../events/last-year.md) - 8 shared documents
 - [years](../events/years.md) - 8 shared documents
+- [1973](../events/1973.md) - 7 shared documents
 - [2007](../events/2007.md) - 7 shared documents
 - [2012](../events/2012.md) - 7 shared documents
 - [two years](../events/two-years.md) - 7 shared documents
-- [1973](../events/1973.md) - 7 shared documents
 
 ## Timeline
 

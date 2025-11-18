@@ -39,18 +39,18 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
+- [the United States](../locations/the-united-states.md) - 5 shared documents
 - [United States](../locations/united-states.md) - 5 shared documents
 - [Washington](../locations/washington.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
 
 **Events:**
 
-- [2004](../events/2004.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [2005](../events/2005.md) - 4 shared documents
-- [one year](../events/one-year.md) - 4 shared documents
 - [14](../events/14.md) - 4 shared documents
 - [1988](../events/1988.md) - 4 shared documents
+- [2004](../events/2004.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
+- [one year](../events/one-year.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 - [two-year](../events/two-year.md) - 4 shared documents
 
 ## Timeline

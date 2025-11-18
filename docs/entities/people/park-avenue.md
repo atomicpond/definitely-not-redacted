@@ -29,7 +29,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](president-obama.md) - 6 shared documents
 - [Park Ave](park-ave.md) - 6 shared documents
 - [Barack Obama](barack-obama.md) - 5 shared documents
 - [First Lady](first-lady.md) - 5 shared documents
@@ -41,36 +40,34 @@ Top 10 documents by mention frequency:
 
 - [HOUSE](../organizations/house.md) - 8 shared documents
 - [United Nations](../organizations/united-nations.md) - 6 shared documents
-- [State](../organizations/state.md) - 5 shared documents
 - [CNN](../organizations/cnn.md) - 5 shared documents
-- [Senate](../organizations/senate.md) - 4 shared documents
-- [Trump](../organizations/trump.md) - 4 shared documents
+- [State](../organizations/state.md) - 5 shared documents
 
 **Locations:**
 
-- [Russia](../locations/russia.md) - 6 shared documents
-- [London](../locations/london.md) - 6 shared documents
 - [Brooklyn](../locations/brooklyn.md) - 6 shared documents
+- [London](../locations/london.md) - 6 shared documents
 - [New York City](../locations/new-york-city.md) - 6 shared documents
-- [New York](../locations/new-york.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
+- [Russia](../locations/russia.md) - 6 shared documents
+- [Australia](../locations/australia.md) - 5 shared documents
 - [China](../locations/china.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [Manhattan](../locations/manhattan.md) - 5 shared documents
+- [Miami](../locations/miami.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
 
 **Events:**
 
 - [Thursday](../events/thursday.md) - 8 shared documents
-- [Wednesday](../events/wednesday.md) - 7 shared documents
 - [September](../events/september.md) - 7 shared documents
-- [annual](../events/annual.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [daily](../events/daily.md) - 6 shared documents
-- [2011](../events/2011.md) - 6 shared documents
+- [Wednesday](../events/wednesday.md) - 7 shared documents
 - [2010](../events/2010.md) - 6 shared documents
+- [2011](../events/2011.md) - 6 shared documents
+- [annual](../events/annual.md) - 6 shared documents
+- [daily](../events/daily.md) - 6 shared documents
 - [the next day](../events/the-next-day.md) - 6 shared documents
-- [October](../events/october.md) - 5 shared documents
+- [today](../events/today.md) - 6 shared documents
+- [1987](../events/1987.md) - 5 shared documents
 
 ## Timeline
 

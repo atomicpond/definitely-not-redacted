@@ -42,23 +42,23 @@ Top 7 documents by mention frequency:
 **Locations:**
 
 - [America](../locations/america.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
 - [Dallas](../locations/dallas.md) - 4 shared documents
 - [San Francisco](../locations/san-francisco.md) - 4 shared documents
 - [Spain](../locations/spain.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
 
 **Events:**
 
-- [two years](../events/two-years.md) - 5 shared documents
-- [1992](../events/1992.md) - 5 shared documents
-- [the day](../events/the-day.md) - 5 shared documents
 - [1980](../events/1980.md) - 5 shared documents
+- [1992](../events/1992.md) - 5 shared documents
 - [Christmas Day](../events/christmas-day.md) - 5 shared documents
-- [today](../events/today.md) - 4 shared documents
+- [the day](../events/the-day.md) - 5 shared documents
+- [two years](../events/two-years.md) - 5 shared documents
+- [1952](../events/1952.md) - 4 shared documents
+- [1969](../events/1969.md) - 4 shared documents
 - [2011](../events/2011.md) - 4 shared documents
-- [months](../events/months.md) - 4 shared documents
 - [June](../events/june.md) - 4 shared documents
-- [one year](../events/one-year.md) - 4 shared documents
+- [months](../events/months.md) - 4 shared documents
 
 ## Timeline
 

@@ -29,7 +29,7 @@ Top 10 documents by mention frequency:
 
 **Organizations:**
 
-- [Australia) Limited](australia)-limited.md) - 17 shared documents
+- **Australia) Limited**-limited.md) - 17 shared documents
 - [Australian Branch](australian-branch.md) - 17 shared documents
 - [BAMLI Frankfurt](bamli-frankfurt.md) - 17 shared documents
 - [BANA Australia](bana-australia.md) - 17 shared documents

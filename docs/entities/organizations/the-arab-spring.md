@@ -29,16 +29,16 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 8 shared documents
-- [Mr. Obama](../people/obama.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Hosni Mubarak](../people/hosni-mubarak.md) - 6 shared documents
 - [Middle East](../people/middle-east.md) - 6 shared documents
 - [Mr. Mubarak](../people/mubarak.md) - 6 shared documents
-- [President Obama](../people/president-obama.md) - 6 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 6 shared documents
 - [Assad](../people/assad.md) - 5 shared documents
 - [David Cameron](../people/david-cameron.md) - 5 shared documents
 - [Security Council](../people/security-council.md) - 5 shared documents
+- [Tahrir Square](../people/tahrir-square.md) - 5 shared documents
+- [White House](../people/white-house.md) - 5 shared documents
 
 **Organizations:**
 
@@ -48,21 +48,21 @@ Top 9 documents by mention frequency:
 - [Islam](islam.md) - 7 shared documents
 - [the United Nations](the-united-nations.md) - 6 shared documents
 - [UN](un.md) - 6 shared documents
-- [State](state.md) - 6 shared documents
+- [NYT](nyt.md) - 6 shared documents
 - [White House](white-house.md) - 5 shared documents
 
 **Locations:**
 
-- [Middle East](../locations/middle-east.md) - 9 shared documents
+- [Egypt](../locations/egypt.md) - 9 shared documents
 - [Iran](../locations/iran.md) - 9 shared documents
 - [Iraq](../locations/iraq.md) - 9 shared documents
+- [Israel](../locations/israel.md) - 9 shared documents
 - [Libya](../locations/libya.md) - 9 shared documents
+- [Middle East](../locations/middle-east.md) - 9 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 9 shared documents
 - [Syria](../locations/syria.md) - 9 shared documents
-- [Israel](../locations/israel.md) - 9 shared documents
-- [Egypt](../locations/egypt.md) - 9 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 8 shared documents
 - [China](../locations/china.md) - 8 shared documents
+- [Tehran](../locations/tehran.md) - 8 shared documents
 
 **Events:**
 
@@ -71,9 +71,9 @@ Top 9 documents by mention frequency:
 - [November](../events/november.md) - 7 shared documents
 - [2007](../events/2007.md) - 6 shared documents
 - [2009](../events/2009.md) - 6 shared documents
+- [a decade](../events/a-decade.md) - 6 shared documents
 - [last year](../events/last-year.md) - 6 shared documents
 - [many years](../events/many-years.md) - 6 shared documents
-- [a decade](../events/a-decade.md) - 6 shared documents
 
 ## Timeline
 

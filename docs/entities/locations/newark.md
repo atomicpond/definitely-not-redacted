@@ -29,8 +29,8 @@ Top 10 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [New Jersey](../people/new-jersey.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
 
 **Organizations:**
 
@@ -39,14 +39,14 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [New York City](new-york-city.md) - 7 shared documents
-- [New York](new-york.md) - 6 shared documents
 - [London](london.md) - 6 shared documents
+- [New York](new-york.md) - 6 shared documents
 - [California](california.md) - 5 shared documents
 - [Manhattan](manhattan.md) - 5 shared documents
 - [Miami](miami.md) - 5 shared documents
 - [New Jersey](new-jersey.md) - 5 shared documents
-- [Los Angeles](los-angeles.md) - 4 shared documents
 - [Africa](africa.md) - 4 shared documents
+- [Boston](boston.md) - 4 shared documents
 - [Florida](florida.md) - 4 shared documents
 
 **Events:**
@@ -54,13 +54,13 @@ Top 10 documents by mention frequency:
 - [today](../events/today.md) - 7 shared documents
 - [two years](../events/two-years.md) - 6 shared documents
 - [the next day](../events/the-next-day.md) - 5 shared documents
-- [2004](../events/2004.md) - 4 shared documents
-- [Wednesday](../events/wednesday.md) - 4 shared documents
-- [2012](../events/2012.md) - 4 shared documents
-- [daily](../events/daily.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
-- [four years](../events/four-years.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
+- [13-year-old](../events/13-year-old.md) - 4 shared documents
+- [1960](../events/1960.md) - 4 shared documents
+- [1984](../events/1984.md) - 4 shared documents
+- [1985](../events/1985.md) - 4 shared documents
+- [1987](../events/1987.md) - 4 shared documents
+- [1991](../events/1991.md) - 4 shared documents
+- [1993](../events/1993.md) - 4 shared documents
 
 ## Timeline
 

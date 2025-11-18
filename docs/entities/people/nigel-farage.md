@@ -34,7 +34,6 @@ Top 10 documents by mention frequency:
 - [Daily Beast](daily-beast.md) - 12 shared documents
 - [Freedom Caucus](freedom-caucus.md) - 12 shared documents
 - [Michael Wolff](michael-wolff.md) - 12 shared documents
-- [jeffrey E.](jeffrey-e.md) - 11 shared documents
 - [Pope Francis](pope-francis.md) - 5 shared documents
 - [Vladimir Putin](vladimir-putin.md) - 4 shared documents
 - [Yes 
@@ -58,15 +57,15 @@ Dignitatis Humanae Institute](../organizations/benjamin-harnwell-founder-and-pre
 **Locations:**
 
 - [London](../locations/london.md) - 18 shared documents
-- [Europe](../locations/europe.md) - 17 shared documents
 - [Brussels](../locations/brussels.md) - 17 shared documents
+- [Europe](../locations/europe.md) - 17 shared documents
 - [Rome](../locations/rome.md) - 15 shared documents
 - [Italy](../locations/italy.md) - 14 shared documents
-- [New York](../locations/new-york.md) - 12 shared documents
-- [USA](../locations/usa.md) - 12 shared documents
 - [Charlottesville](../locations/charlottesville.md) - 12 shared documents
 - [East](../locations/east.md) - 12 shared documents
+- [New York](../locations/new-york.md) - 12 shared documents
 - [Pennsylvania](../locations/pennsylvania.md) - 12 shared documents
+- [USA](../locations/usa.md) - 12 shared documents
 
 **Events:**
 

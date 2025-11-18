@@ -32,7 +32,8 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Goldman Sachs](../people/goldman-sachs.md) - 9 shared documents
-- [President Trump](../people/president-trump.md) - 7 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 7 shared documents
 - [Federal Reserve](../people/federal-reserve.md) - 6 shared documents
 - [jeffrey E.](../people/jeffrey-e.md) - 6 shared documents
 - [Credit Suisse](../people/credit-suisse.md) - 5 shared documents
@@ -48,12 +49,12 @@ Top 10 documents by mention frequency:
 - [Goldman Sachs](goldman-sachs.md) - 12 shared documents
 - [Treasury](treasury.md) - 11 shared documents
 - [Fed](fed.md) - 9 shared documents
-- [HOUSE](house.md) - 8 shared documents
 - [NYSE](nyse.md) - 7 shared documents
 - [Reuters](reuters.md) - 7 shared documents
 - [SEC](sec.md) - 7 shared documents
 - [Trump](trump.md) - 7 shared documents
 - [S&P](sp.md) - 6 shared documents
+- [The Wall Street Journal](the-wall-street-journal.md) - 6 shared documents
 
 **Locations:**
 
@@ -63,23 +64,23 @@ Top 10 documents by mention frequency:
 - [Paris](../locations/paris.md) - 12 shared documents
 - [Mexico](../locations/mexico.md) - 11 shared documents
 - [Washington](../locations/washington.md) - 11 shared documents
-- [Russia](../locations/russia.md) - 10 shared documents
 - [America](../locations/america.md) - 10 shared documents
+- [Russia](../locations/russia.md) - 10 shared documents
 - [the United States](../locations/the-united-states.md) - 10 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 9 shared documents
 
 **Events:**
 
-- [2018](../events/2018.md) - 11 shared documents
-- [2012](../events/2012.md) - 11 shared documents
 - [2008](../events/2008.md) - 11 shared documents
+- [2012](../events/2012.md) - 11 shared documents
+- [2018](../events/2018.md) - 11 shared documents
 - [2007](../events/2007.md) - 10 shared documents
 - [last year](../events/last-year.md) - 10 shared documents
 - [this year](../events/this-year.md) - 10 shared documents
 - [years](../events/years.md) - 10 shared documents
+- [2006](../events/2006.md) - 9 shared documents
+- [2010](../events/2010.md) - 9 shared documents
 - [2014](../events/2014.md) - 9 shared documents
-- [annual](../events/annual.md) - 9 shared documents
-- [next year](../events/next-year.md) - 9 shared documents
 
 ## Timeline
 

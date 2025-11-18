@@ -29,16 +29,16 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 11 shared documents
 - [Gaza Strip](../people/gaza-strip.md) - 10 shared documents
 - [Mahmoud Abbas](../people/mahmoud-abbas.md) - 10 shared documents
 - [Middle East](../people/middle-east.md) - 10 shared documents
-- [President Obama](../people/president-obama.md) - 10 shared documents
 - [West Bank](../people/west-bank.md) - 9 shared documents
 - [Hosni Mubarak](../people/hosni-mubarak.md) - 8 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 8 shared documents
 - [White House](../people/white-house.md) - 8 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [East Jerusalem](../people/east-jerusalem.md) - 7 shared documents
+- [Bashar al-Assad](../people/bashar-al-assad.md) - 6 shared documents
 
 **Organizations:**
 
@@ -56,14 +56,14 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [the West Bank](the-west-bank.md) - 12 shared documents
+- [Egypt](egypt.md) - 12 shared documents
 - [Iran](iran.md) - 12 shared documents
 - [Iraq](iraq.md) - 12 shared documents
-- [Syria](syria.md) - 12 shared documents
 - [Israel](israel.md) - 12 shared documents
-- [Egypt](egypt.md) - 12 shared documents
+- [Syria](syria.md) - 12 shared documents
 - [the Middle East](the-middle-east.md) - 11 shared documents
-- [Libya](libya.md) - 11 shared documents
 - [Gaza](gaza.md) - 11 shared documents
+- [Libya](libya.md) - 11 shared documents
 - [Washington](washington.md) - 10 shared documents
 
 **Events:**
@@ -71,13 +71,13 @@ Top 10 documents by mention frequency:
 - [1967](../events/1967.md) - 11 shared documents
 - [today](../events/today.md) - 10 shared documents
 - [2003](../events/2003.md) - 9 shared documents
-- [2009](../events/2009.md) - 8 shared documents
 - [20 years](../events/20-years.md) - 8 shared documents
+- [2009](../events/2009.md) - 8 shared documents
 - [the years](../events/the-years.md) - 8 shared documents
 - [Tuesday](../events/tuesday.md) - 8 shared documents
-- [years](../events/years.md) - 7 shared documents
 - [last week](../events/last-week.md) - 7 shared documents
 - [recent years](../events/recent-years.md) - 7 shared documents
+- [the day](../events/the-day.md) - 7 shared documents
 
 ## Timeline
 

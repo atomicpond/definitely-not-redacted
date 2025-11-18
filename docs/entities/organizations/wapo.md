@@ -31,21 +31,21 @@ Top 7 documents by mention frequency:
 Ashley Parker](../people/ashley-ashley-parker.md) - 5 shared documents
 - [Ashley Parker](../people/ashley-parker.md) - 5 shared documents
 - [Bob Costa](../people/bob-costa.md) - 5 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 5 shared documents
 - [Hi Reid](../people/hi-reid.md) - 5 shared documents
 - [Parker](../people/parker.md) - 5 shared documents
-- [President Trump](../people/president-trump.md) - 5 shared documents
 - [Reid](../people/reid.md) - 5 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 5 shared documents
 - [Washington Post](../people/washington-post.md) - 5 shared documents
+- [Weingarten](../people/weingarten.md) - 5 shared documents
 
 **Organizations:**
 
 - [HOUSE](house.md) - 6 shared documents
 - [White House](white-house.md) - 5 shared documents
-- [Trump](trump.md) - 5 shared documents
-- [the White House](the-white-house.md) - 5 shared documents
 - [the Washington Post](the-washington-post.md) - 5 shared documents
+- [the White House](the-white-house.md) - 5 shared documents
+- [Trump](trump.md) - 5 shared documents
 
 **Events:**
 

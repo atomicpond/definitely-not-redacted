@@ -57,9 +57,9 @@ Top 7 documents by mention frequency:
 - [years](years.md) - 5 shared documents
 - [2003](2003.md) - 5 shared documents
 - [2012](2012.md) - 5 shared documents
+- [2013](2013.md) - 5 shared documents
 - [daily](daily.md) - 5 shared documents
 - [December](december.md) - 5 shared documents
-- [2013](2013.md) - 5 shared documents
 
 ## Timeline
 

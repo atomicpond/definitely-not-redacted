@@ -32,14 +32,13 @@ Top 10 documents by mention frequency:
 
 - [New Mexico](../people/new-mexico.md) - 31 shared documents
 - [Jack Goldberger](../people/jack-goldberger.md) - 29 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 29 shared documents
 - [Jane Doe](../people/jane-doe.md) - 28 shared documents
 - [Kenneth Starr](../people/kenneth-starr.md) - 27 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 25 shared documents
 - [Rights Act](../people/rights-act.md) - 25 shared documents
-- [Epstein](../people/epstein.md) - 24 shared documents
 - [Jack Scarola](../people/jack-scarola.md) - 24 shared documents
 - [Paul Cassell](../people/paul-cassell.md) - 24 shared documents
+- [Miami Herald](../people/miami-herald.md) - 23 shared documents
+- [Crime Victims](../people/crime-victims.md) - 22 shared documents
 
 **Organizations:**
 

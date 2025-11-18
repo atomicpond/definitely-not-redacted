@@ -34,15 +34,16 @@ Top 10 documents by mention frequency:
 - [Middle East](../people/middle-east.md) - 13 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 11 shared documents
 - [BILL](../people/bill.md) - 10 shared documents
-- [CLINTON](../people/clinton.md) - 10 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 10 shared documents
 - [Wall 
 Street](../people/wall-street.md) - 10 shared documents
-- [Barack Obama](../people/barack-obama.md) - 9 shared documents
-- [Boris Nikolic](../people/boris-nikolic.md) - 9 shared documents
-- [President Obama](../people/president-obama.md) - 9 shared documents
 - [United 
 States](../people/united-states.md) - 9 shared documents
 - [White House](../people/white-house.md) - 9 shared documents
+- [San Francisco](../people/san-francisco.md) - 8 shared documents
+- [Saudi Arabia](../people/saudi-arabia.md) - 8 shared documents
+- [Solidarity Gala](../people/solidarity-gala.md) - 8 shared documents
 
 **Organizations:**
 
@@ -61,26 +62,26 @@ States](../people/united-states.md) - 9 shared documents
 
 - [Europe](europe.md) - 20 shared documents
 - [Austria](austria.md) - 19 shared documents
-- [New York](new-york.md) - 18 shared documents
 - [China](china.md) - 18 shared documents
 - [Germany](germany.md) - 18 shared documents
+- [New York](new-york.md) - 18 shared documents
 - [France](france.md) - 16 shared documents
 - [the United States](the-united-states.md) - 16 shared documents
 - [Washington](washington.md) - 15 shared documents
-- [Russia](russia.md) - 15 shared documents
 - [Iraq](iraq.md) - 15 shared documents
+- [Russia](russia.md) - 15 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 17 shared documents
-- [years](../events/years.md) - 16 shared documents
 - [Friday](../events/friday.md) - 16 shared documents
+- [years](../events/years.md) - 16 shared documents
 - [2012](../events/2012.md) - 15 shared documents
 - [the years](../events/the-years.md) - 12 shared documents
 - [Thursday](../events/thursday.md) - 11 shared documents
 - [2008](../events/2008.md) - 10 shared documents
-- [tomorrow](../events/tomorrow.md) - 10 shared documents
 - [the day](../events/the-day.md) - 10 shared documents
+- [tomorrow](../events/tomorrow.md) - 10 shared documents
 
 ## Timeline
 

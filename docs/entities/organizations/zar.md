@@ -30,38 +30,36 @@ Top 9 documents by mention frequency:
 
 - [Bloomberg](bloomberg.md) - 9 shared documents
 - [EM FX](em-fx.md) - 7 shared documents
-- [SPX](spx.md) - 6 shared documents
 - [OTM](otm.md) - 6 shared documents
-- [S&P](sp.md) - 5 shared documents
+- [SPX](spx.md) - 6 shared documents
 - [JPY](jpy.md) - 5 shared documents
-- [BoJ](boj.md) - 4 shared documents
-- [CFA](cfa.md) - 4 shared documents
-- [USD](usd.md) - 4 shared documents
-- [Fed](fed.md) - 4 shared documents
+- [S&P](sp.md) - 5 shared documents
 
 **Locations:**
 
-- [Russia](../locations/russia.md) - 8 shared documents
 - [Germany](../locations/germany.md) - 8 shared documents
+- [Russia](../locations/russia.md) - 8 shared documents
 - [Turkey](../locations/turkey.md) - 8 shared documents
 - [Iran](../locations/iran.md) - 6 shared documents
-- [China](../locations/china.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
+- [Asia](../locations/asia.md) - 5 shared documents
+- [Australia](../locations/australia.md) - 5 shared documents
 - [Brazil](../locations/brazil.md) - 5 shared documents
 - [Canada](../locations/canada.md) - 5 shared documents
-- [Mexico](../locations/mexico.md) - 5 shared documents
-- [Asia](../locations/asia.md) - 5 shared documents
+- [China](../locations/china.md) - 5 shared documents
+- [Hong Kong](../locations/hong-kong.md) - 5 shared documents
 
 **Events:**
 
 - [2014](../events/2014.md) - 5 shared documents
+- [2013](../events/2013.md) - 4 shared documents
 - [2015](../events/2015.md) - 4 shared documents
-- [Monday](../events/monday.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
-- [monthly](../events/monthly.md) - 4 shared documents
-- [July](../events/july.md) - 4 shared documents
-- [the next 12 months](../events/the-next-12-months.md) - 4 shared documents
 - [Friday](../events/friday.md) - 4 shared documents
+- [July](../events/july.md) - 4 shared documents
+- [Monday](../events/monday.md) - 4 shared documents
+- [monthly](../events/monthly.md) - 4 shared documents
+- [recent months](../events/recent-months.md) - 4 shared documents
+- [six-month](../events/six-month.md) - 4 shared documents
+- [the next 12 months](../events/the-next-12-months.md) - 4 shared documents
 
 ## Timeline
 

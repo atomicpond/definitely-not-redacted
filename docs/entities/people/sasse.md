@@ -25,10 +25,9 @@ Top 6 documents by mention frequency:
 
 **People:**
 
-- [Jeffrey Epstein](jeffrey-epstein.md) - 6 shared documents
 - [Acosta](acosta.md) - 6 shared documents
-- [Epstein](epstein.md) - 6 shared documents
 - [Ben Sasse](ben-sasse.md) - 6 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 6 shared documents
 - [Alex Acosta](alex-acosta.md) - 5 shared documents
 - [Bill 
 Clinton](bill-clinton.md) - 5 shared documents

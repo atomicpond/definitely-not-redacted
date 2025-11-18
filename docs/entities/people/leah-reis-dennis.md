@@ -25,11 +25,11 @@ Top 5 documents by mention frequency:
 **People:**
 
 - [Leah Reis](leah-reis.md) - 5 shared documents
-- [Larry Summers](larry-summers.md) - 4 shared documents
 - [elena kagan](elena-kagan.md) - 4 shared documents
 - [Elena Kagan 
 Sir](elena-kagan-sir.md) - 4 shared documents
 - [High School](high-school.md) - 4 shared documents
+- [Larry Summers](larry-summers.md) - 4 shared documents
 
 **Organizations:**
 

@@ -30,8 +30,8 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [San Francisco](../people/san-francisco.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 4 shared documents
 - [Los Angeles](../people/los-angeles.md) - 4 shared documents
-- [President Obama](../people/president-obama.md) - 4 shared documents
 - [White House](../people/white-house.md) - 4 shared documents
 
 **Organizations:**
@@ -48,26 +48,26 @@ Top 10 documents by mention frequency:
 - [Africa](africa.md) - 6 shared documents
 - [Oregon](oregon.md) - 5 shared documents
 - [the United States](the-united-states.md) - 5 shared documents
-- [New York](new-york.md) - 5 shared documents
-- [California](california.md) - 5 shared documents
-- [Germany](germany.md) - 5 shared documents
-- [London](london.md) - 5 shared documents
-- [France](france.md) - 5 shared documents
-- [Israel](israel.md) - 5 shared documents
 - [Boston](boston.md) - 5 shared documents
+- [California](california.md) - 5 shared documents
+- [France](france.md) - 5 shared documents
+- [Germany](germany.md) - 5 shared documents
+- [Israel](israel.md) - 5 shared documents
+- [London](london.md) - 5 shared documents
+- [New York](new-york.md) - 5 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 6 shared documents
 - [2000](../events/2000.md) - 6 shared documents
 - [2012](../events/2012.md) - 6 shared documents
+- [today](../events/today.md) - 6 shared documents
+- [1995](../events/1995.md) - 5 shared documents
 - [2016](../events/2016.md) - 5 shared documents
 - [Wednesday](../events/wednesday.md) - 5 shared documents
-- [1995](../events/1995.md) - 5 shared documents
-- [1996](../events/1996.md) - 4 shared documents
-- [daily](../events/daily.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
-- [1985](../events/1985.md) - 4 shared documents
+- [1938](../events/1938.md) - 4 shared documents
+- [1961](../events/1961.md) - 4 shared documents
+- [1970](../events/1970.md) - 4 shared documents
+- [1978](../events/1978.md) - 4 shared documents
 
 ## Timeline
 

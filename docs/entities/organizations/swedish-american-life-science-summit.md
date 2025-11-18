@@ -43,20 +43,20 @@ Top 10 documents by mention frequency:
 
 - [Stockholm](../locations/stockholm.md) - 8 shared documents
 - [Sweden](../locations/sweden.md) - 6 shared documents
-- [New York](../locations/new-york.md) - 5 shared documents
 - [Colorado](../locations/colorado.md) - 5 shared documents
-- [Sofia](../locations/sofia.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
 - [N.Y.](../locations/ny.md) - 5 shared documents
+- [Sofia](../locations/sofia.md) - 5 shared documents
 - [Miami](../locations/miami.md) - 4 shared documents
 - [NYC](../locations/nyc.md) - 4 shared documents
 - [Sat](../locations/sat.md) - 4 shared documents
 
 **Events:**
 
-- [this year](../events/this-year.md) - 4 shared documents
 - [November](../events/november.md) - 4 shared documents
-- [yesterday](../events/yesterday.md) - 4 shared documents
 - [September](../events/september.md) - 4 shared documents
+- [this year](../events/this-year.md) - 4 shared documents
+- [yesterday](../events/yesterday.md) - 4 shared documents
 
 ## Timeline
 

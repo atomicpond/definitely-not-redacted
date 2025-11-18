@@ -37,16 +37,16 @@ States](../people/united-states.md) - 5 shared documents
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 5 shared documents
-- [China](../locations/china.md) - 5 shared documents
 - [Canada](../locations/canada.md) - 5 shared documents
-- [Mexico](../locations/mexico.md) - 5 shared documents
+- [China](../locations/china.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
+- [Mexico](../locations/mexico.md) - 5 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 5 shared documents
 - [Syria](../locations/syria.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
+- [United States](../locations/united-states.md) - 5 shared documents
 - [US](../locations/us.md) - 5 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
+- [Asia](../locations/asia.md) - 4 shared documents
 
 **Events:**
 

@@ -14,7 +14,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Obama](../entities/people/mr-obama.md) - 10 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 10 mentions
 - [Gates](../entities/people/gates.md) - 3 mentions
 - [Biden](../entities/people/biden.md) - 2 mentions
 - [hillary](../entities/people/hillary.md) - 2 mentions

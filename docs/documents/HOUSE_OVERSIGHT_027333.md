@@ -41,173 +41,221 @@ Sender](../entities/people/ok-sender.md) - 1 mention
 
 ## Document Text
 
+**Thread-like Conversation View:**
+
 ```
-**Source Entr**: H\Macintosh HD\root\Users\jee\Library\Messages\Archive\2018-07-261111 
-on 2018-07-23 at 11.17.08.ichat 
-Service: iMessage 
-**Start Time**: 07/23/18 08:17:08 AM (554051828) 
-**End Time**: **07/26/18** 12:02:23 PM (554324543) 
-**Last Message** ID: 17849 
-**Chat Room**: 
-Participants: jee, 
-Presentity IDs: e:jeeitunes@gmail.com, 19174393646 
-Messages - 
-Sender: e:jeeitunes@gmail.com 
-Time: 07/23/18 08:17:08 AM (554051828) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: EB3377F1-26D6-46A5-BEB0-6DB50167B6A1 
-Message: Id really like **DONALD** to triumph, if there is something you think i can do to 
-help. Let me know 
-Sender: 
-Time: 07/23/18 08:17:27 AM (554051847) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 093FAD1C-A1A8-46E2-950E-F7BD1B82A793 
-Message: I have been thinking about it all weekend. 
-Sender: 
-Time: 07/23/18 08:17:56 AM (554051876) 
-Flags: 1126401 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 4645BBEF-5257-4F43-B605-43E02383AAD2 
-Message: He called me after VF article I am going to try to see him on **Wednesday**. 
-Sender: e:jeeitunes@gmail.com 
-Time: 07/23/18 08:24:34 AM (554052274) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 4D689F6F-OEE9-4107-B233-41EF1257CDFC 
-Message: 1. He needs better legal advice . 2. As you said people hired that are loyal 
-**HOUSE** OVERSIGHT 027333 
-loyal loyal . 3. He needs to rest to recover his balance 
-Sender: 
-Time: 07/23/18 08:26:07 AM (554052367) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: CCCD7395-972F-4EED-BB22-D5C4061CAE96 
-Message: Agree. Also needs a new chief of staff who likes him and he trusts not a 
-**Washington** swamp monster. 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/24/18** 11:32:41 AM (554149961) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 35FEC8D8-928D-427E-B213-925BC987EF84 
-Message: Stanley-Are you getting your booger in the nose conversation:) 
-Sender: 
-Time: **07/24/18** 11:54:12 AM (554151252) 
-Flags: 1126401 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 11DEF9F2-72E7-479D-A1E0-511BA7A57888 
-Message: **tomorrow** at llam 
-Sender: 
-Time: **07/24/18** 11:54:22 AM (554151262) 
-Flags: 1126401 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 86933EEC-5D46-404D-A930-69628D888EEC 
-Message: He is in St Louis today 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/24/18** 11:55:59 AM (554151359) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 202C9BDB-57B7-40DD-AFBC-3CAE6C17B26D 
-Message: Bring along the bicycle pump 
-**HOUSE** OVERSIGHT 027334 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/24/18** 11:56:23 AM (554151383) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: C33EDD5D-C252-42EF-AD1E-DFBC32CC6286 
-Message: Or an envelope to send you home 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/24/18** 11:58:22 AM (554151502) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 856CD84E-D490-456D-A51D-E5E3A367E3FC 
-Message: He HAS to win in **November**, college educated women will not show,. 
-Coordinate with the hobo. Don't bring him into the tent but have him as the barker 
-outside , like in **Coney Island** 
-Sender: 
-Time: **07/24/18** 11:58:39 AM (554151519) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: F1960709-B34A-450A-847B-040A1106E895 
-Message: Hahahahaha s 
-Sender: 
-Time: **07/24/18** 11:58:53 AM (554151533) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 7B04F0AB-6B23-47A8-8AA2-387DB6DF32AF 
-Message: I could make peace with Steve 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/24/18** 12:00:13 PM (554151613) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 81FBA735-05BC-4F72-9634-69DF61B99F19 
-Message: It will take all of you that like him. Working together. otherwise. It 
-will be Fred sanford, - **Elizabeth** I feel an attack coming on. 
-Sender: +19174393646 
-**HOUSE** OVERSIGHT 027335 
-Time: **07/24/18** 12:13:54 PM (554152434) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 2C89B74C-7783-488C-BCD3-C9263F131ED3 
-Message: I see that. 
-Sender: 
-Time: **07/24/18** 12:14:13 PM (554152453) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: BEA2C338-753C-4CFF-A840-680B638973A6 
-Message: Politics makes strange bedfellows. I am ready to be a big boy about it 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/24/18** 12:22:39 PM (554152959) 
-Flags: 1150981 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: D8FD1DB7-CCOA-44FC-9DFF-66780CCBE165 
-Message: https://www.youtube.com/watch?v=QwM5KpoPPrg 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/24/18** 12:22:44 PM (554152964) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 68DBE37F-OECF-4BC3-A66D-F3BOABF158F2 
-Message: If nov goes dim 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/24/18** 12:22:57 PM (554152977) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: A6C91CB3-2485-40D9-BD84-5798F3181823 
-Message: Dem 
-Sender: 
-Time: **07/24/18** 12:23:01 PM (554152981) 
-Flags: 1060865 
-**HOUSE** OVERSIGHT 027336 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: D60EA236-0A4C-434E-9EA8-F541A1E0D5EF 
-Message: Yeah but he was always bluffing!!! 
-Sender: 
-Time: **07/24/18** 12:23:13 PM (554152993) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 1B9DCACB-3D7E-4344-9904-814FD9279BDE 
+
+======================================================================
+Monday, July 23, 2018
+======================================================================
+
+E:jeeitunes [8:17 AM]:
+  
+
+Unknown [8:17 AM]:
+  Id really like Donald to triumph, if there is something you think i can do to
+
+Unknown [8:17 AM]:
+  I have been thinking about it all weekend.
+
+E:jeeitunes [8:24 AM]:
+  He called me after VF article I am going to try to see him on Wednesday.
+
+Unknown [8:26 AM]:
+  1. He needs better legal advice . 2. As you said people hired that are loyal
+
+
+======================================================================
+Tuesday, July 24, 2018
+======================================================================
+
+E:jeeitunes [11:32 AM]:
+  Agree. Also needs a new chief of staff who likes him and he trusts not a
+
+Unknown [11:54 AM]:
+  Stanley-Are you getting your booger in the nose conversation:)
+
+Unknown [11:54 AM]:
+  Tomorrow at llam
+
+E:jeeitunes [11:55 AM]:
+  He is in St Louis today
+
+E:jeeitunes [11:56 AM]:
+  Bring along the bicycle pump
+
+E:jeeitunes [11:58 AM]:
+  Or an envelope to send you home
+
+Unknown [11:58 AM]:
+  He HAS to win in November, college educated women will not show,.
+
+Unknown [11:58 AM]:
+  Hahahahaha s
+
+E:jeeitunes [12:00 PM]:
+  I could make peace with Steve
+
+Unknown [12:13 PM]:
+  It will take all of you that like him. Working together. otherwise. It
+
+Unknown [12:14 PM]:
+  I see that.
+
+E:jeeitunes [12:22 PM]:
+  Politics makes strange bedfellows. I am ready to be a big boy about it
+
+E:jeeitunes [12:22 PM]:
+  https://www.youtube.com/watch?v=QwM5KpoPPrg
+
+E:jeeitunes [12:22 PM]:
+  If nov goes dim
+
+Unknown [12:23 PM]:
+  Dem
+
+Unknown [12:23 PM]:
+  Yeah but he was always bluffing!!!
+
+E:jeeitunes [12:23 PM]:
+  This could be the one one!!!
+
+E:jeeitunes [7:01 PM]:
+  good luck
+
+Unknown [7:22 PM]:
+  Wow/ Cohen was wearing a wire! Not only recording phone. Oy
+
+E:jeeitunes [10:43 PM]:
+  Very very bad
+
+
+======================================================================
+Wednesday, July 25, 2018
+======================================================================
+
+Unknown [4:05 AM]:
+  I hope he left the wire home at core club
+
+E:jeeitunes [4:09 AM]:
+  I always assume he has it on
+
+Unknown [4:09 AM]:
+  Good luck today
+
+E:jeeitunes [4:13 AM]:
+  Thanks on plane down
+
+Unknown [4:16 AM]:
+  You, Barrack. Bannon Nick Ribis. ( former president of trump org ) . Are
+
+E:jeeitunes [4:20 AM]:
+  I like it going to suggest It
+
+Unknown [4:20 AM]:
+  BTW , was John dowd the perfect. FAT stanley
+
+Unknown [4:20 AM]:
+  Hahahahah. What a loser
+
+Unknown [4:20 AM]:
+  Ever meet the guy?
+
+E:jeeitunes [4:21 AM]:
+  Could have been one of the worst people I met in Washington
+
+Unknown [4:22 AM]:
+  No interest, imagine also what you would look like with ty Cobbs
+
+E:jeeitunes [4:23 AM]:
+  Him I liked he gave good advice but he wasn't splashy enough in media hence
+
+E:jeeitunes [4:23 AM]:
+  Agreed, however his and boltons mustache reminded me of the old Wyatt Earp
+
+Unknown [4:28 AM]:
+  Though there was a cute blonde
+
+Unknown [4:31 AM]:
+  Ha. I love it
+
+E:jeeitunes [5:37 AM]:
+  Lesson #1: Don't care about what other people think Lesson #2: Go for the job
+
+Unknown [5:51 AM]:
+  And if were kept outside hope Hicks could play an important role
+
+E:jeeitunes [7:56 AM]:
+  Hope wants back in
+
+Unknown [8:14 AM]:
+  #4 loyalty to friends
+
+Unknown [8:15 AM]:
+  Amen. Will add that
+
+E:jeeitunes [2:14 PM]:
+  Waiting here
+
+Unknown [2:16 PM]:
+  ?
+
+Unknown [2:16 PM]:
+  Just finishing
+
+E:jeeitunes [2:17 PM]:
+  Had to go back and wait around lots going on
+
+Unknown [2:20 PM]:
+  Yup
+
+E:jeeitunes [2:20 PM]:
+  Positive not definitive
+
+
+======================================================================
+Thursday, July 26, 2018
+======================================================================
+
+E:jeeitunes [3:46 AM]:
+  Step one
+
+E:jeeitunes [6:44 AM]:
+  HE is skeptical of my help . But let me know if you think there is something
+
+Unknown [6:47 AM]:
+  ?
+
+Unknown [6:47 AM]:
+  Hey sorry got home due to rain at 3am
+
+Unknown [6:47 AM]:
+  Going back tomorrow
+
+E:jeeitunes [6:47 AM]:
+  Free for a call around 1130 EST
+
+Unknown [6:47 AM]:
+  No worry. , yes
+
+E:jeeitunes [6:47 AM]:
+  Will call you at 1130
+
+E:jeeitunes [8:40 AM]:
+  K
+
+Unknown [8:41 AM]:
+  ?
+
+E:jeeitunes [8:41 AM]:
+  Running a touch late
+
+Unknown [12:01 PM]:
+  Ok
+
+E:jeeitunes [12:02 PM]:
+  https://www.dailywire.com/news/33568/polls-republicans-trailing-badly-
+
 ```
 
 *[Text truncated to 5000 characters]*

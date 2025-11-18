@@ -31,7 +31,6 @@ Top 10 documents by mention frequency:
 
 - [White House](white-house.md) - 7 shared documents
 - [Saudi Arabia](saudi-arabia.md) - 6 shared documents
-- [Middle East](middle-east.md) - 5 shared documents
 - [Vice President](vice-president.md) - 4 shared documents
 
 **Organizations:**
@@ -40,33 +39,31 @@ Top 10 documents by mention frequency:
 - [CNN](../organizations/cnn.md) - 7 shared documents
 - [HOUSE](../organizations/house.md) - 6 shared documents
 - [the White House](../organizations/the-white-house.md) - 6 shared documents
-- [Trump](../organizations/trump.md) - 5 shared documents
-- [Congress](../organizations/congress.md) - 5 shared documents
 
 **Locations:**
 
 - [Texas](../locations/texas.md) - 8 shared documents
 - [Canada](../locations/canada.md) - 7 shared documents
 - [Israel](../locations/israel.md) - 7 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
 - [China](../locations/china.md) - 6 shared documents
 - [Europe](../locations/europe.md) - 6 shared documents
 - [Mexico](../locations/mexico.md) - 6 shared documents
-- [the United States](../locations/the-united-states.md) - 6 shared documents
 - [Paris](../locations/paris.md) - 6 shared documents
-- [California](../locations/california.md) - 5 shared documents
+- [the United States](../locations/the-united-states.md) - 6 shared documents
+- [United States](../locations/united-states.md) - 6 shared documents
+- [Asia](../locations/asia.md) - 5 shared documents
 
 **Events:**
 
-- [2018](../events/2018.md) - 6 shared documents
-- [2012](../events/2012.md) - 6 shared documents
-- [the year](../events/the-year.md) - 6 shared documents
-- [2006](../events/2006.md) - 6 shared documents
 - [1995](../events/1995.md) - 6 shared documents
-- [2003](../events/2003.md) - 5 shared documents
-- [2009](../events/2009.md) - 5 shared documents
-- [2015](../events/2015.md) - 5 shared documents
-- [2016](../events/2016.md) - 5 shared documents
+- [2006](../events/2006.md) - 6 shared documents
+- [2012](../events/2012.md) - 6 shared documents
+- [2018](../events/2018.md) - 6 shared documents
+- [the year](../events/the-year.md) - 6 shared documents
+- [1983](../events/1983.md) - 5 shared documents
+- [1990](../events/1990.md) - 5 shared documents
+- [1991](../events/1991.md) - 5 shared documents
+- [1994](../events/1994.md) - 5 shared documents
 - [1996](../events/1996.md) - 5 shared documents
 
 ## Timeline

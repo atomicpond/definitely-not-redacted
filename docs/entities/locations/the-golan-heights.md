@@ -53,24 +53,24 @@ Top 5 documents by mention frequency:
 - [Tunisia](tunisia.md) - 5 shared documents
 - [Turkey](turkey.md) - 5 shared documents
 - [Washington](washington.md) - 5 shared documents
+- [Damascus](damascus.md) - 5 shared documents
+- [Egypt](egypt.md) - 5 shared documents
 - [Europe](europe.md) - 5 shared documents
 - [France](france.md) - 5 shared documents
 - [Iran](iran.md) - 5 shared documents
-- [Iraq](iraq.md) - 5 shared documents
-- [Jordan](jordan.md) - 5 shared documents
 
 **Events:**
 
 - [1967](../events/1967.md) - 5 shared documents
-- [six months](../events/six-months.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
-- [last week](../events/last-week.md) - 4 shared documents
-- [1993](../events/1993.md) - 4 shared documents
-- [1998](../events/1998.md) - 4 shared documents
-- [the years](../events/the-years.md) - 4 shared documents
-- [many years](../events/many-years.md) - 4 shared documents
 - [1948](../events/1948.md) - 4 shared documents
 - [1956](../events/1956.md) - 4 shared documents
+- [1969](../events/1969.md) - 4 shared documents
+- [1973](../events/1973.md) - 4 shared documents
+- [1981](../events/1981.md) - 4 shared documents
+- [1992](../events/1992.md) - 4 shared documents
+- [1993](../events/1993.md) - 4 shared documents
+- [1998](../events/1998.md) - 4 shared documents
+- [February](../events/february.md) - 4 shared documents
 
 ## Timeline
 

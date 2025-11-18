@@ -59,21 +59,19 @@ Top 10 documents by mention frequency:
 - [USA](../locations/usa.md) - 8 shared documents
 - [Israel](../locations/israel.md) - 7 shared documents
 - [West](../locations/west.md) - 7 shared documents
-- [California](../locations/california.md) - 6 shared documents
-- [Earth](../locations/earth.md) - 6 shared documents
 
 **Events:**
 
-- [1997](../events/1997.md) - 9 shared documents
 - [1988](../events/1988.md) - 9 shared documents
-- [2004](../events/2004.md) - 8 shared documents
-- [2000](../events/2000.md) - 8 shared documents
-- [1990](../events/1990.md) - 8 shared documents
-- [1998](../events/1998.md) - 8 shared documents
-- [2001](../events/2001.md) - 8 shared documents
+- [1997](../events/1997.md) - 9 shared documents
 - [1974](../events/1974.md) - 8 shared documents
-- [2002](../events/2002.md) - 8 shared documents
 - [1980](../events/1980.md) - 8 shared documents
+- [1990](../events/1990.md) - 8 shared documents
+- [1995](../events/1995.md) - 8 shared documents
+- [1998](../events/1998.md) - 8 shared documents
+- [2000](../events/2000.md) - 8 shared documents
+- [2001](../events/2001.md) - 8 shared documents
+- [2002](../events/2002.md) - 8 shared documents
 
 ## Timeline
 

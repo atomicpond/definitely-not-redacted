@@ -29,12 +29,11 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Mr. Obama](obama.md) - 10 shared documents
-- [michael-flynn-trump-423437](michael-flynn-trump-423437.md) - 9 shared documents
+- [Barack Obama](barack-obama.md) - 10 shared documents
+- [Michael Flynn](michael-flynn.md) - 9 shared documents
 - [Steve Bannon](steve-bannon.md) - 8 shared documents
 - [Jeffrey E](jeffrey-e.md) - 7 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 7 shared documents
-- [Barack Obama](barack-obama.md) - 6 shared documents
 - [On Sat](on-sat.md) - 6 shared documents
 - [Steve Bannon 
 Sent](steve-bannon-sent.md) - 6 shared documents
@@ -46,17 +45,17 @@ Sent](steve-bannon-sent.md) - 6 shared documents
 - [BlackBerry](../organizations/blackberry.md) - 8 shared documents
 - [att](../organizations/att.md) - 5 shared documents
 - [coin cooperative](../organizations/coin-cooperative.md) - 5 shared documents
-- [White House](../organizations/white-house.md) - 4 shared documents
 - [Congress](../organizations/congress.md) - 4 shared documents
-- [the White House](../organizations/the-white-house.md) - 4 shared documents
 - [Defense](../organizations/defense.md) - 4 shared documents
+- [NATO](../organizations/nato.md) - 4 shared documents
 - [State](../organizations/state.md) - 4 shared documents
+- [the Washington Post](../organizations/the-washington-post.md) - 4 shared documents
 
 **Locations:**
 
 - [Syria](../locations/syria.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
 - [Iraq](../locations/iraq.md) - 4 shared documents
+- [Russia](../locations/russia.md) - 4 shared documents
 
 **Events:**
 

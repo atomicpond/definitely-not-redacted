@@ -45,16 +45,16 @@ Top 10 documents by mention frequency:
 **Organizations:**
 
 - [State](../organizations/state.md) - 9 shared documents
-- [Congress](../organizations/congress.md) - 7 shared documents
-- [the White House](../organizations/the-white-house.md) - 7 shared documents
 - [Benghazi](../organizations/benghazi.md) - 7 shared documents
 - [CIA](../organizations/cia.md) - 7 shared documents
+- [Congress](../organizations/congress.md) - 7 shared documents
 - [Defense](../organizations/defense.md) - 7 shared documents
+- [the White House](../organizations/the-white-house.md) - 7 shared documents
 
 **Locations:**
 
-- [the Middle East](../locations/the-middle-east.md) - 9 shared documents
 - [Russia](../locations/russia.md) - 9 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 9 shared documents
 - [Asia](../locations/asia.md) - 8 shared documents
 - [Iran](../locations/iran.md) - 8 shared documents
 - [Iraq](../locations/iraq.md) - 8 shared documents
@@ -68,14 +68,14 @@ Top 10 documents by mention frequency:
 
 - [2004](../events/2004.md) - 8 shared documents
 - [2012](../events/2012.md) - 8 shared documents
-- [today](../events/today.md) - 7 shared documents
-- [Sunday](../events/sunday.md) - 7 shared documents
 - [1998](../events/1998.md) - 7 shared documents
 - [Friday](../events/friday.md) - 7 shared documents
 - [one day](../events/one-day.md) - 7 shared documents
-- [2007](../events/2007.md) - 6 shared documents
-- [that day](../events/that-day.md) - 6 shared documents
-- [the year](../events/the-year.md) - 6 shared documents
+- [Sunday](../events/sunday.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
+- [1970](../events/1970.md) - 6 shared documents
+- [1993](../events/1993.md) - 6 shared documents
+- [1997](../events/1997.md) - 6 shared documents
 
 ## Timeline
 

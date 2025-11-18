@@ -27,10 +27,11 @@ Top 5 documents by mention frequency:
 **People:**
 
 - [BILL](../people/bill.md) - 5 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 5 shared documents
 - [Boris Nikolic](../people/boris-nikolic.md) - 5 shared documents
 - [Boris Nikolic 
 Subject](../people/boris-nikolic-subject.md) - 5 shared documents
-- [CLINTON](../people/clinton.md) - 5 shared documents
 - [Floor New York](../people/floor-new-york.md) - 5 shared documents
 - [Guy](../people/guy.md) - 5 shared documents
 - [Hi Kevin](../people/hi-kevin.md) - 5 shared documents
@@ -53,24 +54,24 @@ Importance:](jeffrey-importance.md) - 5 shared documents
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 5 shared documents
 - [Austria](../locations/austria.md) - 5 shared documents
-- [Vienna](../locations/vienna.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
 - [NEW YORK NY](../locations/new-york-ny.md) - 5 shared documents
 - [N.Y.](../locations/ny.md) - 5 shared documents
+- [Vienna](../locations/vienna.md) - 5 shared documents
 
 **Events:**
 
 - [2012](../events/2012.md) - 5 shared documents
-- [Friday](../events/friday.md) - 5 shared documents
-- [afternoon](../events/afternoon.md) - 5 shared documents
 - [5/7/2012](../events/572012.md) - 5 shared documents
-- [Friday night](../events/friday-night.md) - 5 shared documents
-- [May 07, 2012](../events/may-07-2012.md) - 5 shared documents
-- [Monday, May 07, 2012](../events/monday-may-07-2012.md) - 5 shared documents
-- [May 03, 2012](../events/may-03-2012.md) - 5 shared documents
-- [Thursday, May 03](../events/thursday-may-03.md) - 5 shared documents
 - [7:21 PM](../events/721-pm.md) - 5 shared documents
+- [afternoon](../events/afternoon.md) - 5 shared documents
+- [Friday](../events/friday.md) - 5 shared documents
+- [Friday night](../events/friday-night.md) - 5 shared documents
+- [May 03, 2012](../events/may-03-2012.md) - 5 shared documents
+- [May 07, 2012](../events/may-07-2012.md) - 5 shared documents
+- [May 7, 2012](../events/may-7-2012.md) - 5 shared documents
+- [Monday, May 07, 2012](../events/monday-may-07-2012.md) - 5 shared documents
 
 ## Timeline
 

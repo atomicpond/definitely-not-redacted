@@ -29,14 +29,12 @@ Top 10 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Middle East](../people/middle-east.md) - 6 shared documents
-- [President Obama](../people/president-obama.md) - 6 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 6 shared documents
-- [Barack Obama](../people/barack-obama.md) - 4 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 4 shared documents
 - [New Jersey](../people/new-jersey.md) - 4 shared documents
-- [President Trump](../people/president-trump.md) - 4 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 4 shared documents
 - [White House](../people/white-house.md) - 4 shared documents
 
 **Organizations:**
@@ -57,25 +55,25 @@ Trump](../people/trump.md) - 4 shared documents
 - [China](../locations/china.md) - 9 shared documents
 - [Israel](../locations/israel.md) - 8 shared documents
 - [Russia](../locations/russia.md) - 7 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 6 shared documents
-- [Brazil](../locations/brazil.md) - 6 shared documents
-- [Mexico](../locations/mexico.md) - 6 shared documents
 - [Asia](../locations/asia.md) - 6 shared documents
+- [Brazil](../locations/brazil.md) - 6 shared documents
+- [India](../locations/india.md) - 6 shared documents
 - [Iran](../locations/iran.md) - 6 shared documents
+- [Mexico](../locations/mexico.md) - 6 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 6 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 7 shared documents
 - [2000](../events/2000.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
 - [August](../events/august.md) - 6 shared documents
 - [the 1990s](../events/the-1990s.md) - 6 shared documents
+- [years](../events/years.md) - 6 shared documents
+- [1992](../events/1992.md) - 5 shared documents
+- [1995](../events/1995.md) - 5 shared documents
 - [2004](../events/2004.md) - 5 shared documents
-- [2014](../events/2014.md) - 5 shared documents
-- [this year](../events/this-year.md) - 5 shared documents
-- [2017](../events/2017.md) - 5 shared documents
 - [2006](../events/2006.md) - 5 shared documents
+- [2013](../events/2013.md) - 5 shared documents
 
 ## Timeline
 

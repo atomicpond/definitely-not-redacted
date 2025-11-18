@@ -32,8 +32,8 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Landon Thomas](landon-thomas.md) - 17 shared documents
-- [jr thomas](jr-thomas.md) - 17 shared documents
 - [Financial Reporter](financial-reporter.md) - 17 shared documents
+- [jr thomas](jr-thomas.md) - 17 shared documents
 - [Landon](landon.md) - 17 shared documents
 - [Landon 
 Subject: Re:](landon-subject-re.md) - 12 shared documents

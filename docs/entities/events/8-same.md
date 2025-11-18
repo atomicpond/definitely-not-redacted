@@ -56,13 +56,13 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [the day](the-day.md) - 11 shared documents
-- [1959](1959.md) - 11 shared documents
 - [12-month](12-month.md) - 11 shared documents
+- [1959](1959.md) - 11 shared documents
 - [198602883D](198602883d.md) - 11 shared documents
 - [2001](2001.md) - 10 shared documents
 - [2017](2017.md) - 9 shared documents
-- [2018](2018.md) - 8 shared documents
 - [2016](2016.md) - 8 shared documents
+- [2018](2018.md) - 8 shared documents
 - [5-year](5-year.md) - 8 shared documents
 - [2015](2015.md) - 6 shared documents
 

@@ -34,35 +34,35 @@ Top 6 documents by mention frequency:
 - [Congress](congress.md) - 6 shared documents
 - [State](state.md) - 6 shared documents
 - [U.S.C.](usc.md) - 5 shared documents
-- [Fed](fed.md) - 5 shared documents
 - [Court](court.md) - 5 shared documents
+- [F. Supp](f-supp.md) - 5 shared documents
 - [FBI](fbi.md) - 5 shared documents
+- [Fed](fed.md) - 5 shared documents
 - [Justice](justice.md) - 5 shared documents
-- [the Justice Department](the-justice-department.md) - 5 shared documents
-- [the Supreme Court](the-supreme-court.md) - 5 shared documents
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 6 shared documents
+- [United States](../locations/united-states.md) - 6 shared documents
 - [Virginia](../locations/virginia.md) - 6 shared documents
-- [U.S.](../locations/us.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [Fla.](../locations/fla.md) - 5 shared documents
 - [N.Y.](../locations/ny.md) - 5 shared documents
+- [S.D.](../locations/sd.md) - 5 shared documents
+- [U.S.](../locations/us.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 
 **Events:**
 
+- [1984](../events/1984.md) - 6 shared documents
+- [1987](../events/1987.md) - 6 shared documents
 - [1993](../events/1993.md) - 6 shared documents
 - [2001](../events/2001.md) - 6 shared documents
-- [1984](../events/1984.md) - 6 shared documents
-- [2019](../events/2019.md) - 6 shared documents
 - [2002](../events/2002.md) - 6 shared documents
-- [1987](../events/1987.md) - 6 shared documents
-- [2003](../events/2003.md) - 5 shared documents
-- [2004](../events/2004.md) - 5 shared documents
-- [1996](../events/1996.md) - 5 shared documents
-- [2000](../events/2000.md) - 5 shared documents
+- [2019](../events/2019.md) - 6 shared documents
+- [1965](../events/1965.md) - 5 shared documents
+- [1972](../events/1972.md) - 5 shared documents
+- [1980](../events/1980.md) - 5 shared documents
+- [1982](../events/1982.md) - 5 shared documents
 
 ## Timeline
 

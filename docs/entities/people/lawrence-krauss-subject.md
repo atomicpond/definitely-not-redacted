@@ -31,9 +31,9 @@ Top 5 documents by mention frequency:
 **Organizations:**
 
 - [Arizona State University](../organizations/arizona-state-university.md) - 5 shared documents
-- [The Origins Project](../organizations/the-origins-project.md) - 5 shared documents
 - [ASU](../organizations/asu.md) - 5 shared documents
 - [Research Office](../organizations/research-office.md) - 5 shared documents
+- [The Origins Project](../organizations/the-origins-project.md) - 5 shared documents
 
 **Locations:**
 

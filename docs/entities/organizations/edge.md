@@ -58,26 +58,22 @@ Chairman and Chief Executive Officer of the Financial Trust](epstein-is-a-money-
 
 - [New York City](../locations/new-york-city.md) - 9 shared documents
 - [Miami](../locations/miami.md) - 6 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
 - [Coney Island](../locations/coney-island.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [Earth](../locations/earth.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
+- [Germany](../locations/germany.md) - 5 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 12 shared documents
 - [2005](../events/2005.md) - 10 shared documents
-- [daily](../events/daily.md) - 8 shared documents
 - [1994](../events/1994.md) - 8 shared documents
+- [daily](../events/daily.md) - 8 shared documents
 - [this day](../events/this-day.md) - 8 shared documents
 - [weekly](../events/weekly.md) - 8 shared documents
 - [2011](../events/2011.md) - 6 shared documents
-- [2003](../events/2003.md) - 5 shared documents
-- [2004](../events/2004.md) - 5 shared documents
-- [2009](../events/2009.md) - 5 shared documents
+- [1984](../events/1984.md) - 5 shared documents
+- [1996](../events/1996.md) - 5 shared documents
+- [2002](../events/2002.md) - 5 shared documents
 
 ## Timeline
 

@@ -36,36 +36,36 @@ Top 9 documents by mention frequency:
 - [HOUSE](house.md) - 6 shared documents
 - [Medicare](medicare.md) - 6 shared documents
 - [New York Times](new-york-times.md) - 5 shared documents
-- [Senate](senate.md) - 4 shared documents
-- [Medicaid](medicaid.md) - 4 shared documents
 - [Congress](congress.md) - 4 shared documents
 - [Forbes](forbes.md) - 4 shared documents
+- [Medicaid](medicaid.md) - 4 shared documents
+- [Senate](senate.md) - 4 shared documents
 
 **Locations:**
 
 - [France](../locations/france.md) - 5 shared documents
 - [Paris](../locations/paris.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
+- [Asia](../locations/asia.md) - 4 shared documents
 - [California](../locations/california.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
-- [Asia](../locations/asia.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
-- [Ohio](../locations/ohio.md) - 4 shared documents
 - [Nevada](../locations/nevada.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
+- [Ohio](../locations/ohio.md) - 4 shared documents
 - [Seattle](../locations/seattle.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
 
 **Events:**
 
 - [2015](../events/2015.md) - 6 shared documents
+- [2000](../events/2000.md) - 5 shared documents
 - [2018](../events/2018.md) - 5 shared documents
 - [annual](../events/annual.md) - 5 shared documents
-- [2000](../events/2000.md) - 5 shared documents
 - [last year](../events/last-year.md) - 5 shared documents
-- [October](../events/october.md) - 4 shared documents
+- [2006](../events/2006.md) - 4 shared documents
 - [2014](../events/2014.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
+- [earlier this year](../events/earlier-this-year.md) - 4 shared documents
 - [last month](../events/last-month.md) - 4 shared documents
+- [October](../events/october.md) - 4 shared documents
 
 ## Timeline
 

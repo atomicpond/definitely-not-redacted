@@ -33,9 +33,6 @@ Top 10 documents by mention frequency:
 - [Twentieth Century Fox](twentieth-century-fox.md) - 9 shared documents
 - [Vanity Fair](vanity-fair.md) - 9 shared documents
 - [Vicki Ward](vicki-ward.md) - 9 shared documents
-- [Roy Black](roy-black.md) - 9 shared documents
-- [Larry Summers](larry-summers.md) - 9 shared documents
-- [New Mexico](new-mexico.md) - 9 shared documents
 - [West Village](west-village.md) - 7 shared documents
 - [White House Counsel](white-house-counsel.md) - 5 shared documents
 
@@ -43,38 +40,36 @@ Top 10 documents by mention frequency:
 
 - [Harvard](../organizations/harvard.md) - 11 shared documents
 - [Treasury](../organizations/treasury.md) - 11 shared documents
-- [the New York Times](../organizations/the-new-york-times.md) - 10 shared documents
-- [Goldman Sachs](../organizations/goldman-sachs.md) - 10 shared documents
 - [Forbes](../organizations/forbes.md) - 10 shared documents
+- [Goldman Sachs](../organizations/goldman-sachs.md) - 10 shared documents
 - [Piketty](../organizations/piketty.md) - 10 shared documents
-- [Times](../organizations/times.md) - 9 shared documents
-- [ISIS](../organizations/isis.md) - 9 shared documents
-- [Rockefeller](../organizations/rockefeller.md) - 9 shared documents
-- [Google](../organizations/google.md) - 9 shared documents
+- [the New York Times](../organizations/the-new-york-times.md) - 10 shared documents
 
 **Locations:**
 
 - [Europe](../locations/europe.md) - 10 shared documents
 - [Paris](../locations/paris.md) - 10 shared documents
-- [Qatar](../locations/qatar.md) - 9 shared documents
-- [Manhattan](../locations/manhattan.md) - 9 shared documents
-- [Queens](../locations/queens.md) - 9 shared documents
+- [Caribbean Island](../locations/caribbean-island.md) - 9 shared documents
+- [Coney Island](../locations/coney-island.md) - 9 shared documents
+- [Connecticut](../locations/connecticut.md) - 9 shared documents
 - [Dallas](../locations/dallas.md) - 9 shared documents
-- [New Mexico](../locations/new-mexico.md) - 9 shared documents
-- [Palm Beach](../locations/palm-beach.md) - 9 shared documents
+- [Dalton](../locations/dalton.md) - 9 shared documents
+- [Lafayette](../locations/lafayette.md) - 9 shared documents
+- [Manhattan](../locations/manhattan.md) - 9 shared documents
+- [Monterey](../locations/monterey.md) - 9 shared documents
 
 **Events:**
 
-- [the 1980s](../events/the-1980s.md) - 11 shared documents
 - [2002](../events/2002.md) - 11 shared documents
-- [last year](../events/last-year.md) - 10 shared documents
-- [1974](../events/1974.md) - 10 shared documents
-- [two years](../events/two-years.md) - 10 shared documents
+- [the 1980s](../events/the-1980s.md) - 11 shared documents
 - [1953](../events/1953.md) - 10 shared documents
+- [1974](../events/1974.md) - 10 shared documents
 - [1982](../events/1982.md) - 10 shared documents
+- [last year](../events/last-year.md) - 10 shared documents
 - [Twentieth Century](../events/twentieth-century.md) - 10 shared documents
-- [Sunday](../events/sunday.md) - 9 shared documents
-- [Saturday](../events/saturday.md) - 9 shared documents
+- [two years](../events/two-years.md) - 10 shared documents
+- [18 months](../events/18-months.md) - 9 shared documents
+- [1980](../events/1980.md) - 9 shared documents
 
 ## Timeline
 

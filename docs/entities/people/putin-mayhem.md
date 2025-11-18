@@ -25,13 +25,12 @@ Top 5 documents by mention frequency:
 **People:**
 
 - [Steve Bannon](steve-bannon.md) - 5 shared documents
-- [Mr. Bannon](bannon.md) - 5 shared documents
 - [Grip](grip.md) - 5 shared documents
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 5 shared documents
 - [GOP](../organizations/gop.md) - 5 shared documents
+- [HOUSE](../organizations/house.md) - 5 shared documents
 
 ## Timeline
 

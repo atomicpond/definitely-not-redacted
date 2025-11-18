@@ -72,7 +72,7 @@ Sent](../people/bill-siegel-sent.md) - 5 shared documents
 - [the day](../events/the-day.md) - 5 shared documents
 - [1991](../events/1991.md) - 5 shared documents
 - [the mid 1950s](../events/the-mid-1950s.md) - 5 shared documents
-- [2/8/2013](../events/2/8/2013.md) - 5 shared documents
+- [2/8/2013](../events/2-8-2013.md) - 5 shared documents
 - [February 8, 2013](../events/february-8,-2013.md) - 5 shared documents
 
 ## Timeline

@@ -53,28 +53,28 @@ Top 8 documents by mention frequency:
 
 **Locations:**
 
-- [Europe](../locations/europe.md) - 8 shared documents
-- [Qatar](../locations/qatar.md) - 8 shared documents
-- [Manhattan](../locations/manhattan.md) - 8 shared documents
-- [Queens](../locations/queens.md) - 8 shared documents
-- [Dallas](../locations/dallas.md) - 8 shared documents
-- [Paris](../locations/paris.md) - 8 shared documents
-- [New Mexico](../locations/new-mexico.md) - 8 shared documents
-- [Palm Beach](../locations/palm-beach.md) - 8 shared documents
-- [Connecticut](../locations/connecticut.md) - 8 shared documents
+- [Caribbean Island](../locations/caribbean-island.md) - 8 shared documents
 - [Coney Island](../locations/coney-island.md) - 8 shared documents
+- [Connecticut](../locations/connecticut.md) - 8 shared documents
+- [Dallas](../locations/dallas.md) - 8 shared documents
+- [Dalton](../locations/dalton.md) - 8 shared documents
+- [Europe](../locations/europe.md) - 8 shared documents
+- [Lafayette](../locations/lafayette.md) - 8 shared documents
+- [Manhattan](../locations/manhattan.md) - 8 shared documents
+- [Monterey](../locations/monterey.md) - 8 shared documents
+- [New Mexico](../locations/new-mexico.md) - 8 shared documents
 
 **Events:**
 
-- [the 1980s](../events/the-1980s.md) - 8 shared documents
-- [last year](../events/last-year.md) - 8 shared documents
-- [Sunday](../events/sunday.md) - 8 shared documents
-- [Saturday](../events/saturday.md) - 8 shared documents
-- [1974](../events/1974.md) - 8 shared documents
 - [18 months](../events/18-months.md) - 8 shared documents
-- [2002](../events/2002.md) - 8 shared documents
-- [two years](../events/two-years.md) - 8 shared documents
 - [1953](../events/1953.md) - 8 shared documents
+- [1974](../events/1974.md) - 8 shared documents
+- [1982](../events/1982.md) - 8 shared documents
+- [1994](../events/1994.md) - 8 shared documents
+- [2002](../events/2002.md) - 8 shared documents
+- [62-year-old](../events/62-year-old.md) - 8 shared documents
+- [his day](../events/his-day.md) - 8 shared documents
+- [last year](../events/last-year.md) - 8 shared documents
 - [many years](../events/many-years.md) - 8 shared documents
 
 ## Timeline

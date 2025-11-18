@@ -28,8 +28,8 @@
 ### Events/Dates
 - [day](../entities/events/day.md) - 1 mention
 - [a few years ago](../entities/events/a-few-years-ago.md) - 1 mention
-- [1/20/2017](../entities/events/1202017.md) - 1 mention
-- [01/19/17](../entities/events/011917.md) - 1 mention
+- [1/20/2017](../entities/events/1-20-2017.md) - 1 mention
+- [01/19/17](../entities/events/01-19-17.md) - 1 mention
 - [Fri, Jan 20, 2017](../entities/events/fri-jan-20-2017.md) - 1 mention
 - [Jan 20, 2017](../entities/events/jan-20-2017.md) - 1 mention
 - [4 years 

@@ -54,155 +54,316 @@ Sender](../entities/people/sunday-sender.md) - 1 mention
 
 ## Document Text
 
+**Thread-like Conversation View:**
+
 ```
-Source Entry: H\Macintosh HD\root\Users\jee\Library\Messages\Archive\2018-12-10111 
-on 2018-12-10 at 07.17.26.ichat 
-Service: SMS 
-**Start Time**: **12/05/18** 07:35:08 AM (565716908) 
-**End Time**: 12/10/18 04:17:26 AM (566137046) 
-**Last Message** ID: 24469 
-**Chat Room**: 
-Participants: jee, 
-Presentity IDs: e:, 
-Messages - 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/05/18** 07:35:08 AM (565716908) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 307AFBE9-8209-4898-9347-B38437401C66 
-Message: What do you think about me hiring former judges **FBI** to do a thorough 
-investigation so as to separate truth from fiction 
-Sender: 
-Time: **12/05/18** 07:54:31 AM (565718071) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: D91381B1-F7CA-498A-A5FA-7B196AD78E0C 
-Message: Let's go thru -- not sure folks care that they were strippers / prostitutes 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/05/18** 07:59:27 AM (565718367) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 636DC79C-A0BA-4BA0-9185-094F2BFF41A0 
-Message: Older 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/05/18** 07:59:58 AM (565718398) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 99B59E0E-8A63-4E6E-BDDF-7822A264CC49 
-Message: Not 15 not 16 
-**HOUSE** OVERSIGHT 027549 
-Sender: 
-Time: **12/05/18** 08:00:00 AM (565718400) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 4B3D5996-80A4-44DC-9722-B35DCCF2FA7C 
-Message: Anyway it's smart idea 
-Sender: 
-Time: **12/06/18** 05:03:26 AM (565794206) 
-Flags: 1126401 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 89489A38-29B5-4384-B3CD-51EF771C9209 
-Message: Where r we **today** on all this ??? 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/06/18** 05:04:10 AM (565794250) 
-Flags: 1150981 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 07AF110B-5860-471E-B131-607F49F2692C 
-Message: https://www.miamiherald.com/opinion/op-ed/article222705765.html 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/06/18** 05:07:24 AM (565794444) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 54382108-2BE9-4E3F-8DAF-C7B528179C2D 
-Message: Considering op ed , by **Ken Starr** and or Dershowitz. Considering a law 
-review article. . an independent inquiry into the fact that this penalty was for 
-prostituion and harshest ever meted out. I've been asked , what can I give them on 
-djt. Thoughts are little to do while the incoming is so heavy. But will hire pr and 
-have to think with group on way forward. 
-Sender: 
-Time: **12/06/18** 05:08:24 AM (565794504) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 46454BB5-E7A7-4851-BBC2-41FA41F9423A 
-Message: Who is comms team?; has wolf vetted??? 
-**HOUSE** OVERSIGHT 027550 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/06/18** 05:08:43 AM (565794523) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: DCAA7037-64A2-4130-A4DE-B17E46623F61 
-Message: Karyna said that even you find a cure for breast cancer they might publish it 
-on the medical page under new catheters . Yes . Michaels friend **Matt** hiltzig 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/06/18** 05:10:58 AM (565794658) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: OBO2A56C-100B-47DF-9E98-5E9663B9A8FF 
-Message: The local prosecutor. Called Said your punishment was miles above anyone 
-similarly situated. As their sex prosecutor that actually interviewed the girls said 
-there were no real victims. Only prostitutes. UGH 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/06/18** 05:11:49 AM (565794709) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 86B5D163-3789-4761-9CC1-5D3E8FAB1D3D 
-Message: Thoughts? Documentary ? Interview? As you said this is part of a political 
-wave so few have relevant experience 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/06/18** 05:12:36 AM (565794756) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 7E6A82A3-E174-4C57-821D-982A82FDE3E5 
-Message: It is not moonves getting bjs on a transactional ( **NYT** ) basis. 
-Sender: 
-Time: **12/06/18** 05:13:08 AM (565794788) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 76BE10D7-B2AA-471B-A7EB-C37EAFDA9EBE 
-Message: How many of the girls would agree to be filmed ?-- would the institutes youve 
-founded, the work you've done-- would they be on film ? 
-**HOUSE** OVERSIGHT 027551 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/06/18** 05:14:59 AM (565794899) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 416B17C9-575C-40E5-8E67-E811CD4842A9 
-Message: The insitiutes. Scientists definitely . The girls can be forced to testify on 
-video , iTll explain face to face . If they need encouragement 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/06/18** 05:29:17 AM (565795757) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 34B2C271-292E-4D2B-9913-C2329CD549D5 
-Message: I also laughed as there is a fake news on. You tube that was sent to be of my 
-island on fire. Caribbean dharma . Kid you not 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/06/18** 05:29:37 AM (565795777) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 9EAO2D54-EA48-4672-9A5B-A9D8119FF245 
-Message: *me 
-Sender: e:jeeitunes@gmail.com 
-Time: **12/06/18** 05:31:38 AM (565795898) 
-Flags: 1085445 
-Is Rea
+
+======================================================================
+Wednesday, December 05, 2018
+======================================================================
+
+E:jeeitunes [7:35 AM]:
+  
+
+Unknown [7:54 AM]:
+  What do you think about me hiring former judges fbi to do a thorough
+
+E:jeeitunes [7:59 AM]:
+  Let's go thru -- not sure folks care that they were strippers / prostitutes
+
+E:jeeitunes [7:59 AM]:
+  Older
+
+Unknown [8:00 AM]:
+  Not 15 not 16
+
+
+======================================================================
+Thursday, December 06, 2018
+======================================================================
+
+Unknown [5:03 AM]:
+  Anyway it's smart idea
+
+E:jeeitunes [5:04 AM]:
+  Where r we today on all this ???
+
+E:jeeitunes [5:07 AM]:
+  https://www.miamiherald.com/opinion/op-ed/article222705765.html
+
+Unknown [5:08 AM]:
+  Considering op ed , by ken Starr and or Dershowitz. Considering a law
+
+E:jeeitunes [5:08 AM]:
+  Who is comms team?; has wolf vetted???
+
+E:jeeitunes [5:10 AM]:
+  Karyna said that even you find a cure for breast cancer they might publish it
+
+E:jeeitunes [5:11 AM]:
+  The local prosecutor. Called Said your punishment was miles above anyone
+
+E:jeeitunes [5:12 AM]:
+  Thoughts? Documentary ? Interview? As you said this is part of a political
+
+Unknown [5:13 AM]:
+  It is not moonves getting bjs on a transactional ( NYT ) basis.
+
+E:jeeitunes [5:14 AM]:
+  How many of the girls would agree to be filmed ?-- would the institutes youve
+
+E:jeeitunes [5:29 AM]:
+  The insitiutes. Scientists definitely . The girls can be forced to testify on
+
+E:jeeitunes [5:29 AM]:
+  I also laughed as there is a fake news on. You tube that was sent to be of my
+
+E:jeeitunes [5:31 AM]:
+  *me
+
+Unknown [5:33 AM]:
+  So interesting. Some dems think I'm their silver bullet , some republicans
+
+E:jeeitunes [5:35 AM]:
+  Besides curing breast cancer what about establishingTHE major center for human
+
+E:jeeitunes [5:38 AM]:
+  The pr guys think may be seen to be an attempt to buy my way out. That is
+
+Unknown [5:40 AM]:
+  Like shroedingers cat , I am both male deplorable and an elite at the same
+
+Unknown [5:47 AM]:
+  Just concepts now -- not turning this around this cycle-- mid and long game --
+
+E:jeeitunes [5:47 AM]:
+  You can't buy your way out--unbuyable-- can work your way out
+
+E:jeeitunes [5:49 AM]:
+  agreed
+
+Unknown [5:53 AM]:
+  You saw mbs brother back in dc to show strength . Oy.
+
+E:jeeitunes [5:54 AM]:
+  Making calls !
+
+E:jeeitunes [5:54 AM]:
+  Hopefully to no place else except dominos pizza
+
+Unknown [5:55 AM]:
+  As I said the brother is the only player that has his trust
+
+E:jeeitunes [5:58 AM]:
+  No-- Kentucky Fried Chicken--"parts is parts"
+
+Unknown [6:00 AM]:
+  With sasse calling for a senate hearing , I guess I can mimic kavanaugh.
+
+E:jeeitunes [8:38 AM]:
+  80% answer :"wat's pussy"
+
+Unknown [2:42 PM]:
+  https://www.cnbc.com/2018/12/06/the-stock-selloff-started-with-a-mysterious-
+
+E:jeeitunes [2:42 PM]:
+  Where r u???
+
+E:jeeitunes [3:24 PM]:
+  561 655 7626
+
+Unknown [3:29 PM]:
+  Spoke to Chomsky, he's all in
+
+E:jeeitunes [3:30 PM]:
+  What about Maxwell?
+
+Unknown [3:30 PM]:
+  Not sure, she has a boyfriend
+
+E:jeeitunes [3:30 PM]:
+  So what
+
+E:jeeitunes [3:30 PM]:
+  Hes a tad jealous
+
+E:jeeitunes [3:31 PM]:
+  Just a tad
+
+Unknown [3:31 PM]:
+  Does woody get a cameo
+
+Unknown [3:37 PM]:
+  Not a cameo-- main battery
+
+Unknown [3:37 PM]:
+  The film is three interwoven stories -- the events of global Capitol markets /
+
+E:jeeitunes [3:41 PM]:
+  As told thru the story of --- u
+
+E:jeeitunes [3:41 PM]:
+  Does it have a happy ending ")
+
+E:jeeitunes [3:41 PM]:
+  So to speak
+
+E:jeeitunes [3:41 PM]:
+  James Watson. All in , he said to hurt before he dies
+
+Unknown [3:50 PM]:
+  Hurry
+
+E:jeeitunes [3:50 PM]:
+  How old is he ???--- I can film in 10 days
+
+Unknown [3:51 PM]:
+  90
+
+E:jeeitunes [3:51 PM]:
+  He has a long association with u???
+
+E:jeeitunes [3:52 PM]:
+  Woody 83
+
+E:jeeitunes [3:53 PM]:
+  You can interview. Gloria minsky. . Marvins widow. . great. Marvin and I 20
+
+Unknown [3:53 PM]:
+  Father of artificial intelligence
+
+Unknown [3:53 PM]:
+  Yes yes yes
+
+E:jeeitunes [3:55 PM]:
+  Legend
+
+Unknown [3:58 PM]:
+  Terje larsen .
+
+E:jeeitunes [4:06 PM]:
+  Of course
+
+
+======================================================================
+Friday, December 07, 2018
+======================================================================
+
+E:jeeitunes [6:48 AM]:
+  Hes in London when you are
+
+E:jeeitunes [7:04 AM]:
+  Cnn reporting Bill Barr .
+
+Unknown [1:39 PM]:
+  He did
+
+Unknown [1:40 PM]:
+  Where do we stand on our film ???
+
+Unknown [1:46 PM]:
+  Gloria is a smart woman
+
+Unknown [1:46 PM]:
+  Tucson correct ?
+
+Unknown [1:51 PM]:
+  Can we film u @ the ranch in new mexico?
+
+Unknown [1:52 PM]:
+  Seriously???
+
+Unknown [1:53 PM]:
+  Yes
+
+Unknown [1:54 PM]:
+  Tell him I agree::: French throwdown tomorrow
+
+Unknown [1:54 PM]:
+  Barr a disaster for the agenda
+
+Unknown [2:05 PM]:
+  Classy move on tillerson
+
+Unknown [2:05 PM]:
+  I heard Jacques Lang good guy
+
+Unknown [2:06 PM]:
+  U see Feds on Cohen???
+
+Unknown [2:08 PM]:
+  In Paris on Sunday
+
+Unknown [2:36 PM]:
+  Don't know yet
+
+Unknown [2:53 PM]:
+  I'm confused about Cohen-- what are the docs telling us
+
+Unknown [2:59 PM]:
+  But the moron HAD to negotiate all this away by serving up trump
+
+Unknown [3:07 PM]:
+  But he didn't refuse-- he rollled
+
+Unknown [3:08 PM]:
+  After all this he stiffed them???
+
+Unknown [3:34 PM]:
+  He has never been accused of having a big beautiful brain
+
+Unknown [3:35 PM]:
+  What does that mean
+
+
+======================================================================
+Sunday, December 09, 2018
+======================================================================
+
+Unknown [4:19 AM]:
+  Aren't they going to 'unseal' tonight
+
+Unknown [2:01 PM]:
+  Yaweh is a honor badger
+
+Unknown [2:02 PM]:
+  Total chaos now
+
+Unknown [2:02 PM]:
+  Nick has massive disclosure issue-- also told me after last week thinks zero
+
+Unknown [2:21 PM]:
+  Doesn't want the part
+
+Unknown [2:23 PM]:
+  Meadows , bossie , lighthizer my guys--mick good
+
+Unknown [2:27 PM]:
+  Total
+
+
+======================================================================
+Monday, December 10, 2018
+======================================================================
+
+Unknown [3:46 AM]:
+  SDNY
+
+Unknown [3:56 AM]:
+  The Belgium govt fell 5 hours after my speech-- spent all day with the Flemish
+
+Unknown [3:56 AM]:
+  Brexit ;macron grovel tonight on national tv re 'gilets jaunes'; Marrakech
+
+Unknown [3:57 AM]:
+  Cannot believe miro pushed this thing-- awful awful awful @ every level
+
+Unknown [4:00 AM]:
+  Brilliant
+
+Unknown [4:17 AM]:
+  The right now has the working class behind them on immigration-- macron
+
 ```
 
 *[Text truncated to 5000 characters]*

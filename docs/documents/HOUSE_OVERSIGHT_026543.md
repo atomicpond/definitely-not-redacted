@@ -20,7 +20,7 @@
 - [Barack Obama](../entities/people/barack-obama.md) - 1 mention
 - [President Barack Obama](../entities/people/president-barack-obama.md) - 1 mention
 - [Max Baucus](../entities/people/max-baucus.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [steve](../entities/people/steve.md) - 1 mention
 - [Wall Street Journal](../entities/people/wall-street-journal.md) - 1 mention
 - [Capitol Hill](../entities/people/capitol-hill.md) - 1 mention

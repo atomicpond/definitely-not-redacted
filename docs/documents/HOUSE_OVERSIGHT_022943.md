@@ -13,7 +13,7 @@
 - [Michael Wolff](../entities/people/michael-wolff.md) - 1 mention
 
 ### Events/Dates
-- [11/7/2017](../entities/events/1172017.md) - 1 mention
+- [11/7/2017](../entities/events/11-7-2017.md) - 1 mention
 
 ## Document Text
 

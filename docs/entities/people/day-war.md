@@ -32,14 +32,14 @@ Top 4 documents by mention frequency:
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 4 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
-- [Jordan](../locations/jordan.md) - 4 shared documents
-- [Saudi Arabia](../locations/saudi-arabia.md) - 4 shared documents
-- [Israel](../locations/israel.md) - 4 shared documents
 - [Egypt](../locations/egypt.md) - 4 shared documents
+- [Israel](../locations/israel.md) - 4 shared documents
+- [Jordan](../locations/jordan.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
 - [Palestine](../locations/palestine.md) - 4 shared documents
+- [Saudi Arabia](../locations/saudi-arabia.md) - 4 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
 
 ## Timeline
 

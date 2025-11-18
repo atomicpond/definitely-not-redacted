@@ -28,8 +28,8 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [Fox](../organizations/fox.md) - 5 shared documents
 - [Academy](../organizations/academy.md) - 5 shared documents
+- [Fox](../organizations/fox.md) - 5 shared documents
 
 **Locations:**
 

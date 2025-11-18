@@ -38,8 +38,8 @@ Top 8 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](house.md) - 7 shared documents
 - [Congress](congress.md) - 7 shared documents
+- [HOUSE](house.md) - 7 shared documents
 - [Washington Post](washington-post.md) - 6 shared documents
 - [Facebook](facebook.md) - 6 shared documents
 - [State](state.md) - 6 shared documents
@@ -51,29 +51,29 @@ Top 8 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 7 shared documents
-- [Europe](../locations/europe.md) - 7 shared documents
-- [London](../locations/london.md) - 7 shared documents
 - [America](../locations/america.md) - 7 shared documents
+- [Europe](../locations/europe.md) - 7 shared documents
 - [Iraq](../locations/iraq.md) - 7 shared documents
+- [London](../locations/london.md) - 7 shared documents
 - [Texas](../locations/texas.md) - 7 shared documents
 - [the United States](../locations/the-united-states.md) - 7 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
+- [United States](../locations/united-states.md) - 7 shared documents
 - [Asia](../locations/asia.md) - 6 shared documents
+- [D.C.](../locations/dc.md) - 6 shared documents
+- [France](../locations/france.md) - 6 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 8 shared documents
-- [2004](../events/2004.md) - 7 shared documents
-- [2007](../events/2007.md) - 7 shared documents
 - [1998](../events/1998.md) - 7 shared documents
 - [1999](../events/1999.md) - 7 shared documents
 - [2001](../events/2001.md) - 7 shared documents
+- [2004](../events/2004.md) - 7 shared documents
 - [2005](../events/2005.md) - 7 shared documents
+- [2007](../events/2007.md) - 7 shared documents
 - [2008](../events/2008.md) - 7 shared documents
 - [2010](../events/2010.md) - 7 shared documents
-- [2012](../events/2012.md) - 6 shared documents
+- [1990](../events/1990.md) - 6 shared documents
 
 ## Timeline
 

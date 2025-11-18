@@ -46,8 +46,8 @@ Sender](yes-sender.md) - 6 shared documents
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 8 shared documents
 - [GUID](../organizations/guid.md) - 8 shared documents
+- [HOUSE](../organizations/house.md) - 8 shared documents
 
 **Locations:**
 
@@ -57,9 +57,9 @@ Sender](yes-sender.md) - 6 shared documents
 **Events:**
 
 - [tomorrow](../events/tomorrow.md) - 5 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
 - [Saturday](../events/saturday.md) - 4 shared documents
+- [Sunday](../events/sunday.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

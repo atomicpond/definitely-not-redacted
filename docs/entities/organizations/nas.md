@@ -39,9 +39,9 @@ Top 7 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](house.md) - 5 shared documents
 - [Harvard](harvard.md) - 5 shared documents
 - [Harvard Medical School](harvard-medical-school.md) - 5 shared documents
+- [HOUSE](house.md) - 5 shared documents
 - [YIVO Institute](yivo-institute.md) - 4 shared documents
 - [Harvard University](harvard-university.md) - 4 shared documents
 
@@ -54,12 +54,12 @@ Top 7 documents by mention frequency:
 **Events:**
 
 - [2014](../events/2014.md) - 5 shared documents
-- [2018](../events/2018.md) - 4 shared documents
 - [2016](../events/2016.md) - 4 shared documents
-- [last year](../events/last-year.md) - 4 shared documents
 - [2017](../events/2017.md) - 4 shared documents
-- [the year](../events/the-year.md) - 4 shared documents
+- [2018](../events/2018.md) - 4 shared documents
 - [April 2018](../events/april-2018.md) - 4 shared documents
+- [last year](../events/last-year.md) - 4 shared documents
+- [the year](../events/the-year.md) - 4 shared documents
 - [the years](../events/the-years.md) - 4 shared documents
 
 ## Timeline

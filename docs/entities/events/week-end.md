@@ -51,14 +51,14 @@ Objet](../organizations/caroline-objet.md) - 5 shared documents
 
 **Events:**
 
-- [today](today.md) - 5 shared documents
 - [2017](2017.md) - 5 shared documents
 - [a great week](a-great-week.md) - 5 shared documents
-- [Fri, Feb 10, 2017](fri-feb-10-2017.md) - 5 shared documents
-- [Thu, Feb 9, 2017](thu-feb-9-2017.md) - 5 shared documents
-- [vendredi 10](vendredi-10.md) - 5 shared documents
 - [Feb 14, 2017](feb-14-2017.md) - 5 shared documents
+- [Fri, Feb 10, 2017](fri-feb-10-2017.md) - 5 shared documents
 - [mercredi 15](mercredi-15.md) - 5 shared documents
+- [Thu, Feb 9, 2017](thu-feb-9-2017.md) - 5 shared documents
+- [today](today.md) - 5 shared documents
+- [vendredi 10](vendredi-10.md) - 5 shared documents
 
 ## Timeline
 

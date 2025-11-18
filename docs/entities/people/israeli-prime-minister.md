@@ -31,16 +31,17 @@ Top 10 documents by mention frequency:
 
 - [Jeffrey Epstein](jeffrey-epstein.md) - 9 shared documents
 - [Middle East](middle-east.md) - 9 shared documents
-- [Mr. Obama](obama.md) - 9 shared documents
 - [Saudi Arabia](saudi-arabia.md) - 9 shared documents
 - [United 
 States](united-states.md) - 9 shared documents
 - [Jeffrey Epstein 
 Unauthorized](jeffrey-epstein-unauthorized.md) - 8 shared documents
-- [President Obama](president-obama.md) - 8 shared documents
 - [Barack Obama](barack-obama.md) - 8 shared documents
-- [Netanyahu](netanyahu.md) - 7 shared documents
-- [Benjamin Netanyahu](benjamin-netanyahu.md) - 7 shared documents
+- [Arab Spring](arab-spring.md) - 7 shared documents
+- [Bibi](bibi.md) - 7 shared documents
+- [Lawrence Krauss](lawrence-krauss.md) - 6 shared documents
+- [North 
+Korea](north-korea.md) - 6 shared documents
 
 **Organizations:**
 
@@ -53,25 +54,25 @@ Unauthorized](jeffrey-epstein-unauthorized.md) - 8 shared documents
 
 - [America](../locations/america.md) - 11 shared documents
 - [US](../locations/us.md) - 11 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 9 shared documents
 - [France](../locations/france.md) - 9 shared documents
 - [Iran](../locations/iran.md) - 9 shared documents
-- [the United States](../locations/the-united-states.md) - 9 shared documents
 - [Israel](../locations/israel.md) - 9 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 9 shared documents
+- [the United States](../locations/the-united-states.md) - 9 shared documents
+- [Iraq](../locations/iraq.md) - 8 shared documents
 - [Middle East](../locations/middle-east.md) - 8 shared documents
 - [Russia](../locations/russia.md) - 8 shared documents
-- [Washington](../locations/washington.md) - 8 shared documents
 
 **Events:**
 
 - [last week](../events/last-week.md) - 10 shared documents
 - [2009](../events/2009.md) - 8 shared documents
-- [today](../events/today.md) - 8 shared documents
 - [2011](../events/2011.md) - 8 shared documents
 - [2013](../events/2013.md) - 8 shared documents
+- [today](../events/today.md) - 8 shared documents
 - [2003](../events/2003.md) - 7 shared documents
 - [2007](../events/2007.md) - 7 shared documents
-- [2012](../events/2012.md) - 6 shared documents
+- [10 years](../events/10-years.md) - 6 shared documents
 
 ## Timeline
 

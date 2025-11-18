@@ -32,17 +32,16 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Deutsche Bank](../people/deutsche-bank.md) - 23 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 9 shared documents
-- [President Obama](../people/president-obama.md) - 8 shared documents
-- [Mr. Obama](../people/obama.md) - 7 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 8 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 7 shared documents
 - [Wealth Management](../people/wealth-management.md) - 7 shared documents
 - [Credit Suisse](../people/credit-suisse.md) - 6 shared documents
 - [Deutsche Asset](../people/deutsche-asset.md) - 6 shared documents
-- [Donald 
-Trump](../people/donald-trump.md) - 6 shared documents
 - [Michael Wolff](../people/michael-wolff.md) - 6 shared documents
+- [Deutsche Bank Trust](../people/deutsche-bank-trust.md) - 5 shared documents
+- [Dmitry Rybolovlev](../people/dmitry-rybolovlev.md) - 5 shared documents
+- [Merrill Lynch](../people/merrill-lynch.md) - 5 shared documents
 
 **Organizations:**
 
@@ -64,23 +63,23 @@ Trump](../people/donald-trump.md) - 6 shared documents
 - [Europe](../locations/europe.md) - 10 shared documents
 - [Mexico](../locations/mexico.md) - 10 shared documents
 - [New York](../locations/new-york.md) - 9 shared documents
-- [Germany](../locations/germany.md) - 8 shared documents
 - [Chicago](../locations/chicago.md) - 8 shared documents
+- [Germany](../locations/germany.md) - 8 shared documents
 - [US](../locations/us.md) - 8 shared documents
-- [Japan](../locations/japan.md) - 7 shared documents
-- [the United States](../locations/the-united-states.md) - 7 shared documents
+- [India](../locations/india.md) - 7 shared documents
+- [Italy](../locations/italy.md) - 7 shared documents
 
 **Events:**
 
 - [2014](../events/2014.md) - 10 shared documents
 - [2004](../events/2004.md) - 9 shared documents
 - [2015](../events/2015.md) - 9 shared documents
-- [annual](../events/annual.md) - 8 shared documents
 - [2013](../events/2013.md) - 8 shared documents
+- [annual](../events/annual.md) - 8 shared documents
 - [two years](../events/two-years.md) - 8 shared documents
-- [2016](../events/2016.md) - 7 shared documents
 - [2000](../events/2000.md) - 7 shared documents
 - [2012](../events/2012.md) - 7 shared documents
+- [2016](../events/2016.md) - 7 shared documents
 - [quarterly](../events/quarterly.md) - 7 shared documents
 
 ## Timeline

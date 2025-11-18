@@ -49,9 +49,9 @@ Sent](jeffrey-e-sent.md) - 5 shared documents
 - [HOUSE](../organizations/house.md) - 12 shared documents
 - [GUID](../organizations/guid.md) - 8 shared documents
 - [Trump](../organizations/trump.md) - 6 shared documents
+- [FBI](../organizations/fbi.md) - 4 shared documents
 - [Senate](../organizations/senate.md) - 4 shared documents
 - [White House](../organizations/white-house.md) - 4 shared documents
-- [FBI](../organizations/fbi.md) - 4 shared documents
 
 **Locations:**
 
@@ -59,16 +59,16 @@ Sent](jeffrey-e-sent.md) - 5 shared documents
 - [China](../locations/china.md) - 5 shared documents
 - [US](../locations/us.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 - [Paris](../locations/paris.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 8 shared documents
 - [Sunday](../events/sunday.md) - 7 shared documents
 - [last year](../events/last-year.md) - 6 shared documents
-- [November](../events/november.md) - 5 shared documents
 - [August 21, 2018](../events/august-21-2018.md) - 5 shared documents
+- [November](../events/november.md) - 5 shared documents
 - [Tuesday, August 21, 2018](../events/tuesday-august-21-2018.md) - 5 shared documents
 - [Thursday](../events/thursday.md) - 4 shared documents
 - [tomorrow](../events/tomorrow.md) - 4 shared documents

@@ -29,9 +29,9 @@ Top 7 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Cold War](../people/cold-war.md) - 5 shared documents
 - [Middle East](../people/middle-east.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
 - [San Francisco](../people/san-francisco.md) - 5 shared documents
 - [San Jose](../people/san-jose.md) - 5 shared documents
 
@@ -49,29 +49,27 @@ Top 7 documents by mention frequency:
 
 **Locations:**
 
+- [Australia](../locations/australia.md) - 7 shared documents
 - [California](../locations/california.md) - 7 shared documents
-- [United States](../locations/united-states.md) - 7 shared documents
 - [China](../locations/china.md) - 7 shared documents
+- [Germany](../locations/germany.md) - 7 shared documents
+- [India](../locations/india.md) - 7 shared documents
 - [Japan](../locations/japan.md) - 7 shared documents
 - [Russia](../locations/russia.md) - 7 shared documents
-- [Germany](../locations/germany.md) - 7 shared documents
-- [Australia](../locations/australia.md) - 7 shared documents
-- [India](../locations/india.md) - 7 shared documents
-- [Earth](../locations/earth.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
+- [United States](../locations/united-states.md) - 7 shared documents
 
 **Events:**
 
-- [2004](../events/2004.md) - 7 shared documents
-- [1996](../events/1996.md) - 7 shared documents
-- [2012](../events/2012.md) - 7 shared documents
-- [daily](../events/daily.md) - 7 shared documents
-- [1985](../events/1985.md) - 7 shared documents
-- [Friday](../events/friday.md) - 7 shared documents
-- [2013](../events/2013.md) - 7 shared documents
-- [two years](../events/two-years.md) - 7 shared documents
 - [1961](../events/1961.md) - 7 shared documents
 - [1978](../events/1978.md) - 7 shared documents
+- [1985](../events/1985.md) - 7 shared documents
+- [1995](../events/1995.md) - 7 shared documents
+- [1996](../events/1996.md) - 7 shared documents
+- [2004](../events/2004.md) - 7 shared documents
+- [2012](../events/2012.md) - 7 shared documents
+- [2013](../events/2013.md) - 7 shared documents
+- [daily](../events/daily.md) - 7 shared documents
+- [Friday](../events/friday.md) - 7 shared documents
 
 ## Timeline
 

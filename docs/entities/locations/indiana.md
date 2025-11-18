@@ -30,7 +30,7 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 13 shared documents
-- [President Obama](../people/president-obama.md) - 9 shared documents
+- [Barack Obama](../people/barack-obama.md) - 9 shared documents
 - [Middle East](../people/middle-east.md) - 8 shared documents
 
 **Organizations:**
@@ -54,20 +54,20 @@ Top 10 documents by mention frequency:
 - [North Carolina](north-carolina.md) - 11 shared documents
 - [Ohio](ohio.md) - 11 shared documents
 - [Russia](russia.md) - 11 shared documents
-- [Germany](germany.md) - 11 shared documents
 - [Florida](florida.md) - 11 shared documents
+- [Germany](germany.md) - 11 shared documents
 - [Maryland](maryland.md) - 10 shared documents
 
 **Events:**
 
 - [2013](../events/2013.md) - 13 shared documents
 - [2009](../events/2009.md) - 11 shared documents
-- [daily](../events/daily.md) - 10 shared documents
-- [2011](../events/2011.md) - 10 shared documents
 - [1990](../events/1990.md) - 10 shared documents
+- [2011](../events/2011.md) - 10 shared documents
+- [daily](../events/daily.md) - 10 shared documents
+- [1996](../events/1996.md) - 9 shared documents
 - [2007](../events/2007.md) - 9 shared documents
 - [2014](../events/2014.md) - 9 shared documents
-- [1996](../events/1996.md) - 9 shared documents
 - [months](../events/months.md) - 9 shared documents
 - [recent years](../events/recent-years.md) - 9 shared documents
 

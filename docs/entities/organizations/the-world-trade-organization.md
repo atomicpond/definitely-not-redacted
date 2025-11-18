@@ -40,10 +40,8 @@ Top 10 documents by mention frequency:
 
 **Organizations:**
 
-- [the White House](the-white-house.md) - 7 shared documents
 - [State](state.md) - 7 shared documents
-- [Congress](congress.md) - 6 shared documents
-- [Harvard](harvard.md) - 6 shared documents
+- [the White House](the-white-house.md) - 7 shared documents
 - [WTO](wto.md) - 5 shared documents
 
 **Locations:**
@@ -56,21 +54,21 @@ Top 10 documents by mention frequency:
 - [Germany](../locations/germany.md) - 8 shared documents
 - [Washington](../locations/washington.md) - 8 shared documents
 - [West](../locations/west.md) - 8 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 7 shared documents
 - [Africa](../locations/africa.md) - 7 shared documents
+- [France](../locations/france.md) - 7 shared documents
 
 **Events:**
 
 - [2009](../events/2009.md) - 9 shared documents
-- [today](../events/today.md) - 8 shared documents
-- [2000](../events/2000.md) - 8 shared documents
 - [1990](../events/1990.md) - 8 shared documents
+- [2000](../events/2000.md) - 8 shared documents
 - [recent years](../events/recent-years.md) - 8 shared documents
+- [today](../events/today.md) - 8 shared documents
 - [2003](../events/2003.md) - 7 shared documents
 - [2008](../events/2008.md) - 7 shared documents
-- [2004](../events/2004.md) - 6 shared documents
-- [annual](../events/annual.md) - 6 shared documents
-- [1996](../events/1996.md) - 6 shared documents
+- [1974](../events/1974.md) - 6 shared documents
+- [1983](../events/1983.md) - 6 shared documents
+- [1991](../events/1991.md) - 6 shared documents
 
 ## Timeline
 

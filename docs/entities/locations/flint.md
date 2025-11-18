@@ -30,6 +30,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [IAN M](../people/ian-m.md) - 5 shared documents
 - [JAMES B](../people/james-b.md) - 5 shared documents
 - [JAMES M](../people/james-m.md) - 5 shared documents
@@ -38,7 +39,6 @@ Top 10 documents by mention frequency:
 - [JOHN R        ](../people/john-r.md) - 5 shared documents
 - [MARGARET L](../people/margaret-l.md) - 5 shared documents
 - [MICHAEL J        ](../people/michael-j.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
 - [ROBERT E        ](../people/robert-e.md) - 5 shared documents
 
 **Organizations:**
@@ -71,14 +71,14 @@ Top 10 documents by mention frequency:
 
 - [2000](../events/2000.md) - 8 shared documents
 - [2005](../events/2005.md) - 8 shared documents
-- [annual](../events/annual.md) - 7 shared documents
-- [2017](../events/2017.md) - 7 shared documents
-- [1983](../events/1983.md) - 7 shared documents
 - [1950](../events/1950.md) - 7 shared documents
+- [1983](../events/1983.md) - 7 shared documents
+- [2017](../events/2017.md) - 7 shared documents
+- [annual](../events/annual.md) - 7 shared documents
 - [1954](../events/1954.md) - 6 shared documents
-- [2004](../events/2004.md) - 5 shared documents
-- [2007](../events/2007.md) - 5 shared documents
-- [2016](../events/2016.md) - 5 shared documents
+- [1976](../events/1976.md) - 5 shared documents
+- [1980](../events/1980.md) - 5 shared documents
+- [1981](../events/1981.md) - 5 shared documents
 
 ## Timeline
 

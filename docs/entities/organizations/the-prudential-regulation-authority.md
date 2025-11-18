@@ -46,29 +46,32 @@ Top 10 documents by mention frequency:
 - [the Financial Conduct Authority](the-financial-conduct-authority.md) - 20 shared documents
 - [DIFC](difc.md) - 19 shared documents
 - [the Central Bank](the-central-bank.md) - 19 shared documents
+- [Bank](bank.md) - 18 shared documents
 - [Bank of America](bank-of-america.md) - 18 shared documents
 - [Bloomberg](bloomberg.md) - 18 shared documents
-- [Bank](bank.md) - 18 shared documents
 - [Central Bank](central-bank.md) - 18 shared documents
 - [Comissão de Valores Mobiliários](comissão-de-valores-mobiliários.md) - 18 shared documents
 - [the Securities and Exchange Board of India](the-securities-and-exchange-board-of-india.md) - 17 shared documents
 
 **Locations:**
 
-- [Dubai](../locations/dubai.md) - 20 shared documents
-- [Japan](../locations/japan.md) - 20 shared documents
+- [Asia](../locations/asia.md) - 20 shared documents
+- [Australia](../locations/australia.md) - 20 shared documents
 - [Brazil](../locations/brazil.md) - 20 shared documents
 - [Canada](../locations/canada.md) - 20 shared documents
-- [Mexico](../locations/mexico.md) - 20 shared documents
-- [Asia](../locations/asia.md) - 20 shared documents
-- [Israel](../locations/israel.md) - 20 shared documents
-- [Australia](../locations/australia.md) - 20 shared documents
+- [Dubai](../locations/dubai.md) - 20 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 20 shared documents
-- [Singapore](../locations/singapore.md) - 20 shared documents
+- [Israel](../locations/israel.md) - 20 shared documents
+- [Japan](../locations/japan.md) - 20 shared documents
+- [Mexico](../locations/mexico.md) - 20 shared documents
+- [non-US](../locations/non-us.md) - 20 shared documents
 
 **Events:**
 
 - [2001](../events/2001.md) - 19 shared documents
+- [1959](../events/1959.md) - 17 shared documents
+- [198602883D](../events/198602883d.md) - 17 shared documents
+- [the day](../events/the-day.md) - 17 shared documents
 
 ## Timeline
 

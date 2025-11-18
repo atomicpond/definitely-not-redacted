@@ -28,41 +28,36 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [Congress](../organizations/congress.md) - 5 shared documents
-- [the White House](../organizations/the-white-house.md) - 5 shared documents
 - [CIA](../organizations/cia.md) - 5 shared documents
+- [Congress](../organizations/congress.md) - 5 shared documents
 - [State](../organizations/state.md) - 5 shared documents
 - [the United Nations](../organizations/the-united-nations.md) - 5 shared documents
-- [White House](../organizations/white-house.md) - 4 shared documents
-- [GOP](../organizations/gop.md) - 4 shared documents
-- [Defense](../organizations/defense.md) - 4 shared documents
-- [the New York Times](../organizations/the-new-york-times.md) - 4 shared documents
-- [NATO](../organizations/nato.md) - 4 shared documents
+- [the White House](../organizations/the-white-house.md) - 5 shared documents
 
 **Locations:**
 
-- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [Europe](../locations/europe.md) - 5 shared documents
+- [Gaza](../locations/gaza.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
 - [Iraq](../locations/iraq.md) - 5 shared documents
-- [Syria](../locations/syria.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
 - [Israel](../locations/israel.md) - 5 shared documents
-- [Gaza](../locations/gaza.md) - 5 shared documents
+- [Syria](../locations/syria.md) - 5 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 
 **Events:**
 
+- [2006](../events/2006.md) - 5 shared documents
 - [2007](../events/2007.md) - 5 shared documents
 - [2009](../events/2009.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
 - [2010](../events/2010.md) - 5 shared documents
-- [2006](../events/2006.md) - 5 shared documents
-- [2014](../events/2014.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
+- [today](../events/today.md) - 5 shared documents
+- [1967](../events/1967.md) - 4 shared documents
+- [1995](../events/1995.md) - 4 shared documents
 - [2008](../events/2008.md) - 4 shared documents
-- [the years](../events/the-years.md) - 4 shared documents
+- [2014](../events/2014.md) - 4 shared documents
 - [a year](../events/a-year.md) - 4 shared documents
 
 ## Timeline

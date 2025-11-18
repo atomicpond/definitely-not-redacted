@@ -34,18 +34,18 @@ Top 7 documents by mention frequency:
 - [China](../locations/china.md) - 5 shared documents
 - [France](../locations/france.md) - 5 shared documents
 - [US](../locations/us.md) - 5 shared documents
-- [Middle East](../locations/middle-east.md) - 4 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 4 shared documents
+- [Britain](../locations/britain.md) - 4 shared documents
+- [Egypt](../locations/egypt.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
 - [Germany](../locations/germany.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
+- [India](../locations/india.md) - 4 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
 - [two years](../events/two-years.md) - 4 shared documents
+- [years](../events/years.md) - 4 shared documents
 
 ## Timeline
 

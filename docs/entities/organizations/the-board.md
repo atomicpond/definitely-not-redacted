@@ -45,13 +45,13 @@ Top 8 documents by mention frequency:
 
 - [annual](../events/annual.md) - 6 shared documents
 - [monthly](../events/monthly.md) - 6 shared documents
+- [12 years](../events/12-years.md) - 4 shared documents
+- [30 days](../events/30-days.md) - 4 shared documents
+- [many years](../events/many-years.md) - 4 shared documents
 - [today](../events/today.md) - 4 shared documents
 - [Tuesday](../events/tuesday.md) - 4 shared documents
-- [yesterday](../events/yesterday.md) - 4 shared documents
-- [many years](../events/many-years.md) - 4 shared documents
-- [12 years](../events/12-years.md) - 4 shared documents
 - [weekly](../events/weekly.md) - 4 shared documents
-- [30 days](../events/30-days.md) - 4 shared documents
+- [yesterday](../events/yesterday.md) - 4 shared documents
 
 ## Timeline
 

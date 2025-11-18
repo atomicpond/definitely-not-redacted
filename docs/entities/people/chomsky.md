@@ -47,9 +47,9 @@ Entry](source-entry.md) - 6 shared documents
 - [HOUSE](../organizations/house.md) - 12 shared documents
 - [GUID](../organizations/guid.md) - 6 shared documents
 - [Trump](../organizations/trump.md) - 5 shared documents
-- [Harvard](../organizations/harvard.md) - 4 shared documents
-- [Google](../organizations/google.md) - 4 shared documents
 - [Atari](../organizations/atari.md) - 4 shared documents
+- [Google](../organizations/google.md) - 4 shared documents
+- [Harvard](../organizations/harvard.md) - 4 shared documents
 - [KZ Buchenwald](../organizations/kz-buchenwald.md) - 4 shared documents
 - [the Latent Semantic Analysis](../organizations/the-latent-semantic-analysis.md) - 4 shared documents
 
@@ -58,9 +58,9 @@ Entry](source-entry.md) - 6 shared documents
 - [US](../locations/us.md) - 6 shared documents
 - [New York](../locations/new-york.md) - 5 shared documents
 - [N.Y.](../locations/ny.md) - 5 shared documents
+- [Asia](../locations/asia.md) - 4 shared documents
 - [China](../locations/china.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
-- [Asia](../locations/asia.md) - 4 shared documents
 - [Paris](../locations/paris.md) - 4 shared documents
 
 **Events:**
@@ -68,13 +68,13 @@ Entry](source-entry.md) - 6 shared documents
 - [today](../events/today.md) - 9 shared documents
 - [tomorrow](../events/tomorrow.md) - 6 shared documents
 - [Saturday](../events/saturday.md) - 5 shared documents
-- [2016](../events/2016.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
-- [these days](../events/these-days.md) - 4 shared documents
-- [more than a year](../events/more-than-a-year.md) - 4 shared documents
+- [10-12 years](../events/10-12-years.md) - 4 shared documents
 - [2 months](../events/2-months.md) - 4 shared documents
-- [a few years](../events/a-few-years.md) - 4 shared documents
+- [2016](../events/2016.md) - 4 shared documents
+- [3d](../events/3d.md) - 4 shared documents
 - [a few months ago](../events/a-few-months-ago.md) - 4 shared documents
+- [a few years](../events/a-few-years.md) - 4 shared documents
+- [last the December](../events/last-the-december.md) - 4 shared documents
 
 ## Timeline
 

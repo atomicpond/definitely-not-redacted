@@ -48,8 +48,8 @@ Top 7 documents by mention frequency:
 
 - [today](today.md) - 5 shared documents
 - [annual](annual.md) - 5 shared documents
-- [daily](daily.md) - 5 shared documents
 - [April](april.md) - 5 shared documents
+- [daily](daily.md) - 5 shared documents
 - [June](june.md) - 5 shared documents
 - [monthly](monthly.md) - 4 shared documents
 - [September](september.md) - 4 shared documents

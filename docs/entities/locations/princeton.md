@@ -54,24 +54,24 @@ Top 10 documents by mention frequency:
 - [New York](new-york.md) - 11 shared documents
 - [England](england.md) - 10 shared documents
 - [Switzerland](switzerland.md) - 9 shared documents
+- [America](america.md) - 9 shared documents
+- [Boston](boston.md) - 9 shared documents
 - [California](california.md) - 9 shared documents
+- [Cambridge](cambridge.md) - 9 shared documents
 - [China](china.md) - 9 shared documents
-- [Europe](europe.md) - 9 shared documents
-- [Japan](japan.md) - 9 shared documents
-- [Germany](germany.md) - 9 shared documents
 
 **Events:**
 
 - [2009](../events/2009.md) - 12 shared documents
 - [years](../events/years.md) - 12 shared documents
-- [2003](../events/2003.md) - 11 shared documents
-- [today](../events/today.md) - 11 shared documents
-- [2011](../events/2011.md) - 11 shared documents
+- [1991](../events/1991.md) - 11 shared documents
 - [1997](../events/1997.md) - 11 shared documents
+- [2003](../events/2003.md) - 11 shared documents
 - [2005](../events/2005.md) - 11 shared documents
 - [2008](../events/2008.md) - 11 shared documents
 - [2010](../events/2010.md) - 11 shared documents
-- [1991](../events/1991.md) - 11 shared documents
+- [2011](../events/2011.md) - 11 shared documents
+- [today](../events/today.md) - 11 shared documents
 
 ## Timeline
 

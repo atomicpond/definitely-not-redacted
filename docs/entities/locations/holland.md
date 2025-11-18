@@ -55,9 +55,9 @@ Top 10 documents by mention frequency:
 - [Virginia](virginia.md) - 12 shared documents
 - [Florida](florida.md) - 10 shared documents
 - [Italy](italy.md) - 8 shared documents
-- [Germany](germany.md) - 8 shared documents
-- [France](france.md) - 8 shared documents
 - [Australia](australia.md) - 8 shared documents
+- [France](france.md) - 8 shared documents
+- [Germany](germany.md) - 8 shared documents
 - [Los Angeles](los-angeles.md) - 7 shared documents
 - [New York](new-york.md) - 7 shared documents
 - [U.S.](us.md) - 7 shared documents
@@ -66,15 +66,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [2000](../events/2000.md) - 12 shared documents
+- [1995](../events/1995.md) - 11 shared documents
 - [1997](../events/1997.md) - 11 shared documents
 - [2005](../events/2005.md) - 11 shared documents
-- [1995](../events/1995.md) - 11 shared documents
 - [1980](../events/1980.md) - 10 shared documents
 - [1983](../events/1983.md) - 10 shared documents
-- [2004](../events/2004.md) - 9 shared documents
-- [2007](../events/2007.md) - 9 shared documents
-- [annual](../events/annual.md) - 9 shared documents
+- [1976](../events/1976.md) - 9 shared documents
 - [1998](../events/1998.md) - 9 shared documents
+- [2001](../events/2001.md) - 9 shared documents
+- [2002](../events/2002.md) - 9 shared documents
 
 ## Timeline
 

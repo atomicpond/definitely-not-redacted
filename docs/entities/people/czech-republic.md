@@ -26,34 +26,34 @@ Top 7 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 4 shared documents
-- [Fed](../organizations/fed.md) - 4 shared documents
 - [Congress](../organizations/congress.md) - 4 shared documents
+- [Fed](../organizations/fed.md) - 4 shared documents
+- [HOUSE](../organizations/house.md) - 4 shared documents
 - [Treasury](../organizations/treasury.md) - 4 shared documents
 
 **Locations:**
 
 - [China](../locations/china.md) - 6 shared documents
+- [Italy](../locations/italy.md) - 6 shared documents
 - [Japan](../locations/japan.md) - 6 shared documents
 - [Russia](../locations/russia.md) - 6 shared documents
-- [Italy](../locations/italy.md) - 6 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
-- [Brazil](../locations/brazil.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
-- [Mexico](../locations/mexico.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [Asia](../locations/asia.md) - 5 shared documents
+- [Australia](../locations/australia.md) - 5 shared documents
+- [Brazil](../locations/brazil.md) - 5 shared documents
+- [Europe](../locations/europe.md) - 5 shared documents
+- [France](../locations/france.md) - 5 shared documents
+- [Germany](../locations/germany.md) - 5 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
 - [2000](../events/2000.md) - 5 shared documents
 - [2013](../events/2013.md) - 5 shared documents
-- [2012](../events/2012.md) - 4 shared documents
-- [monthly](../events/monthly.md) - 4 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [2001](../events/2001.md) - 4 shared documents
 - [2005](../events/2005.md) - 4 shared documents
 - [2010](../events/2010.md) - 4 shared documents
+- [2012](../events/2012.md) - 4 shared documents
+- [monthly](../events/monthly.md) - 4 shared documents
 - [recent years](../events/recent-years.md) - 4 shared documents
 
 ## Timeline

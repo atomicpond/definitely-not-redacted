@@ -31,8 +31,7 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jeffrey E](jeffrey-e.md) - 14 shared documents
-- [jeff epstein](jeff-epstein.md) - 7 shared documents
-- [jeffrey E. <](jeffrey-e.md) - 7 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 7 shared documents
 - [New Book](new-book.md) - 7 shared documents
 - [Optimum Health](optimum-health.md) - 7 shared documents
 - [Road  
@@ -41,6 +40,7 @@ Carlsbad](road-carlsbad.md) - 7 shared documents
 - [Super Genes](super-genes.md) - 6 shared documents
 - [Woody](woody.md) - 6 shared documents
 - [Astonishing Power](astonishing-power.md) - 6 shared documents
+- [Deepak Chopra MD](deepak-chopra-md.md) - 5 shared documents
 
 **Organizations:**
 
@@ -62,13 +62,13 @@ Carlsbad](road-carlsbad.md) - 7 shared documents
 - [Costa Del Mar Road](../events/costa-del-mar-road.md) - 12 shared documents
 - [Sunday](../events/sunday.md) - 7 shared documents
 - [2016](../events/2016.md) - 6 shared documents
-- [yesterday](../events/yesterday.md) - 5 shared documents
 - [Chopra 
 2013](../events/chopra-2013.md) - 5 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [Monday](../events/monday.md) - 4 shared documents
+- [yesterday](../events/yesterday.md) - 5 shared documents
 - [2017](../events/2017.md) - 4 shared documents
+- [Monday](../events/monday.md) - 4 shared documents
 - [Sat](../events/sat.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

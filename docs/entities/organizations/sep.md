@@ -61,22 +61,22 @@ Authority](the-australian-prudential-regulation-authority.md) - 5 shared documen
 - [Canada](../locations/canada.md) - 6 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 6 shared documents
 - [Singapore](../locations/singapore.md) - 6 shared documents
+- [Argentina](../locations/argentina.md) - 5 shared documents
+- [Asia](../locations/asia.md) - 5 shared documents
+- [Australia](../locations/australia.md) - 5 shared documents
+- [BaFin](../locations/bafin.md) - 5 shared documents
 - [Dubai](../locations/dubai.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [Mexico](../locations/mexico.md) - 5 shared documents
-- [Asia](../locations/asia.md) - 5 shared documents
 
 **Events:**
 
 - [monthly](../events/monthly.md) - 6 shared documents
-- [2014](../events/2014.md) - 5 shared documents
+- [1959](../events/1959.md) - 5 shared documents
+- [198602883D](../events/198602883d.md) - 5 shared documents
 - [2000](../events/2000.md) - 5 shared documents
 - [2006](../events/2006.md) - 5 shared documents
-- [1959](../events/1959.md) - 5 shared documents
+- [2014](../events/2014.md) - 5 shared documents
 - [the day](../events/the-day.md) - 5 shared documents
-- [198602883D](../events/198602883d.md) - 5 shared documents
 
 ## Timeline
 

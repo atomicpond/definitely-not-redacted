@@ -31,29 +31,29 @@ Top 6 documents by mention frequency:
 - [Robert Kuhn](robert-kuhn.md) - 6 shared documents
 - [The Science](the-science.md) - 5 shared documents
 - [What Chinese](what-chinese.md) - 5 shared documents
-- [Jeffrey E](jeffrey-e.md) - 5 shared documents
-- [Jeffrey Epstein](jeffrey-epstein.md) - 5 shared documents
-- [robert](robert.md) - 5 shared documents
 - [Closer To](closer-to.md) - 5 shared documents
+- [Closer To Truth](closer-to-truth.md) - 5 shared documents
+- [From Washington](from-washington.md) - 5 shared documents
+- [Jeffrey E](jeffrey-e.md) - 5 shared documents
 
 **Organizations:**
 
 - [BBC](../organizations/bbc.md) - 6 shared documents
-- [PBS](../organizations/pbs.md) - 6 shared documents
 - [Jeffrey Epstein VI Foundation](../organizations/jeffrey-epstein-vi-foundation.md) - 6 shared documents
-- [HOUSE](../organizations/house.md) - 5 shared documents
+- [PBS](../organizations/pbs.md) - 6 shared documents
 - [CTT TV Episodes & Web](../organizations/ctt-tv-episodes-web.md) - 5 shared documents
+- [HOUSE](../organizations/house.md) - 5 shared documents
 
 **Locations:**
 
-- [Washington](../locations/washington.md) - 5 shared documents
 - [Sun](../locations/sun.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 
 **Events:**
 
-- [weekly](../events/weekly.md) - 6 shared documents
-- [January 19](../events/january-19.md) - 6 shared documents
 - [a full season](../events/a-full-season.md) - 6 shared documents
+- [January 19](../events/january-19.md) - 6 shared documents
+- [weekly](../events/weekly.md) - 6 shared documents
 - [2017](../events/2017.md) - 5 shared documents
 - [Jan 11, 2017](../events/jan-11-2017.md) - 5 shared documents
 

@@ -31,17 +31,17 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 15 shared documents
-- [Jeffrey Epstein VI](../people/jeffrey-epstein-vi.md) - 11 shared documents
-- [Epstein](../people/epstein.md) - 7 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 11 shared documents
 - [Jeffrey](../people/jeffrey.md) - 7 shared documents
 - [Dear Jeffrey](../people/dear-jeffrey.md) - 6 shared documents
 - [Donald 
 Trump](../people/donald-trump.md) - 6 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 6 shared documents
-- [Jeffrey Edward Epstein](../people/jeffrey-edward-epstein.md) - 6 shared documents
 - [Jeffrey Epstein - Wikipedia](../people/jeffrey-epstein-wikipedia.md) - 6 shared documents
 - [Robert Kuhn](../people/robert-kuhn.md) - 6 shared documents
+- [Series Budget](../people/series-budget.md) - 6 shared documents
+- [Series Schedule](../people/series-schedule.md) - 6 shared documents
+- [Web Videos](../people/web-videos.md) - 6 shared documents
 
 **Organizations:**
 
@@ -52,28 +52,28 @@ Trump](../people/donald-trump.md) - 6 shared documents
 - [Life - Financial](life-financial.md) - 5 shared documents
 - [Limited](limited.md) - 5 shared documents
 - [New York Magazine](new-york-magazine.md) - 5 shared documents
-- [Google](google.md) - 5 shared documents
-- [Daily Mail](daily-mail.md) - 5 shared documents
 - [Bear Stearns](bear-stearns.md) - 5 shared documents
+- [CTT TV Episodes & Web](ctt-tv-episodes-web.md) - 5 shared documents
+- [Daily Mail](daily-mail.md) - 5 shared documents
 
 **Locations:**
 
 - [New York](../locations/new-york.md) - 6 shared documents
 - [New York City](../locations/new-york-city.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
-- [Sun](../locations/sun.md) - 5 shared documents
-- [Palm Beach](../locations/palm-beach.md) - 5 shared documents
 - [N.Y.](../locations/ny.md) - 5 shared documents
+- [Palm Beach](../locations/palm-beach.md) - 5 shared documents
+- [Sun](../locations/sun.md) - 5 shared documents
 - [U.K.](../locations/uk.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 - [Manhattan](../locations/manhattan.md) - 4 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 8 shared documents
 - [2000](../events/2000.md) - 7 shared documents
-- [weekly](../events/weekly.md) - 6 shared documents
-- [January 19](../events/january-19.md) - 6 shared documents
 - [a full season](../events/a-full-season.md) - 6 shared documents
+- [January 19](../events/january-19.md) - 6 shared documents
+- [weekly](../events/weekly.md) - 6 shared documents
 - [2017](../events/2017.md) - 5 shared documents
 - [Jan 11, 2017](../events/jan-11-2017.md) - 5 shared documents
 - [next week](../events/next-week.md) - 4 shared documents

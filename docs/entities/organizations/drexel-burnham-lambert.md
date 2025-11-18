@@ -29,8 +29,8 @@ Top 5 documents by mention frequency:
 **Events:**
 
 - [two years](../events/two-years.md) - 5 shared documents
-- [the 1980s](../events/the-1980s.md) - 4 shared documents
 - [Friday](../events/friday.md) - 4 shared documents
+- [the 1980s](../events/the-1980s.md) - 4 shared documents
 
 ## Timeline
 

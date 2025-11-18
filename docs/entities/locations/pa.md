@@ -30,12 +30,10 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Bradley J. Edwards](../people/bradley-j-edwards.md) - 8 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 8 shared documents
 - [Jack Scarola](../people/jack-scarola.md) - 8 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 7 shared documents
 - [Boulevard
 West Palm](../people/boulevard-west-palm.md) - 6 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 6 shared documents
 - [Jane Doe](../people/jane-doe.md) - 5 shared documents
 - [Paul G. Cassell](../people/paul-g-cassell.md) - 5 shared documents
 - [Searcy Denney Scarola](../people/searcy-denney-scarola.md) - 5 shared documents
@@ -63,21 +61,21 @@ West Palm](../people/boulevard-west-palm.md) - 6 shared documents
 - [Palm Beach County](palm-beach-county.md) - 7 shared documents
 - [Virginia](virginia.md) - 7 shared documents
 - [Weissing](weissing.md) - 7 shared documents
-- [New York](new-york.md) - 7 shared documents
 - [Miami](miami.md) - 7 shared documents
+- [New York](new-york.md) - 7 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 7 shared documents
 - [2015](../events/2015.md) - 6 shared documents
 - [weeks](../events/weeks.md) - 6 shared documents
-- [2007](../events/2007.md) - 5 shared documents
-- [2009](../events/2009.md) - 5 shared documents
-- [daily](../events/daily.md) - 5 shared documents
-- [2011](../events/2011.md) - 5 shared documents
+- [14](../events/14.md) - 5 shared documents
+- [19](../events/19.md) - 5 shared documents
 - [1998](../events/1998.md) - 5 shared documents
 - [1999](../events/1999.md) - 5 shared documents
-- [2008](../events/2008.md) - 5 shared documents
+- [20](../events/20.md) - 5 shared documents
+- [2002](../events/2002.md) - 5 shared documents
+- [2006](../events/2006.md) - 5 shared documents
 
 ## Timeline
 

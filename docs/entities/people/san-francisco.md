@@ -44,22 +44,22 @@ Top 10 documents by mention frequency:
 
 - [Facebook](../organizations/facebook.md) - 22 shared documents
 - [Google](../organizations/google.md) - 22 shared documents
-- [Twitter](../organizations/twitter.md) - 21 shared documents
 - [Harvard](../organizations/harvard.md) - 21 shared documents
+- [Twitter](../organizations/twitter.md) - 21 shared documents
 - [HOUSE](../organizations/house.md) - 20 shared documents
 
 **Locations:**
 
 - [San Francisco](../locations/san-francisco.md) - 51 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 27 shared documents
 - [America](../locations/america.md) - 27 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 27 shared documents
 - [California](../locations/california.md) - 26 shared documents
 - [Germany](../locations/germany.md) - 26 shared documents
 - [Japan](../locations/japan.md) - 25 shared documents
 - [the United States](../locations/the-united-states.md) - 25 shared documents
 - [Russia](../locations/russia.md) - 24 shared documents
-- [China](../locations/china.md) - 23 shared documents
 - [Canada](../locations/canada.md) - 23 shared documents
+- [China](../locations/china.md) - 23 shared documents
 
 **Events:**
 
@@ -71,8 +71,8 @@ Top 10 documents by mention frequency:
 - [2007](../events/2007.md) - 23 shared documents
 - [2009](../events/2009.md) - 23 shared documents
 - [2000](../events/2000.md) - 22 shared documents
+- [1980](../events/1980.md) - 21 shared documents
 - [2004](../events/2004.md) - 21 shared documents
-- [annual](../events/annual.md) - 21 shared documents
 
 ## Timeline
 

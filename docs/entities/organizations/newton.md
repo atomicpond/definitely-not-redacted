@@ -38,7 +38,6 @@ Top 7 documents by mention frequency:
 - [Stanford University](stanford-university.md) - 5 shared documents
 - [Time](time.md) - 5 shared documents
 - [Yale University](yale-university.md) - 5 shared documents
-- [Fed](fed.md) - 5 shared documents
 
 **Locations:**
 
@@ -47,24 +46,20 @@ Top 7 documents by mention frequency:
 - [London](../locations/london.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 6 shared documents
 - [West](../locations/west.md) - 6 shared documents
-- [California](../locations/california.md) - 5 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
+- [America](../locations/america.md) - 5 shared documents
 
 **Events:**
 
+- [1989](../events/1989.md) - 6 shared documents
+- [one day](../events/one-day.md) - 6 shared documents
+- [the day](../events/the-day.md) - 6 shared documents
 - [today](../events/today.md) - 6 shared documents
 - [years](../events/years.md) - 6 shared documents
-- [one day](../events/one-day.md) - 6 shared documents
-- [1989](../events/1989.md) - 6 shared documents
-- [the day](../events/the-day.md) - 6 shared documents
-- [1986](../events/1986.md) - 5 shared documents
-- [1996](../events/1996.md) - 5 shared documents
-- [2000](../events/2000.md) - 5 shared documents
-- [2012](../events/2012.md) - 5 shared documents
-- [daily](../events/daily.md) - 5 shared documents
+- [1957](../events/1957.md) - 5 shared documents
+- [1959](../events/1959.md) - 5 shared documents
+- [1964](../events/1964.md) - 5 shared documents
+- [1968](../events/1968.md) - 5 shared documents
+- [1972](../events/1972.md) - 5 shared documents
 
 ## Timeline
 

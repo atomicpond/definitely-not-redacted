@@ -31,18 +31,16 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jeffrey E](../people/jeffrey-e.md) - 597 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 481 shared documents
 - [Jeffrey](../people/jeffrey.md) - 203 shared documents
 - [jeffrey E. <](../people/jeffrey-e.md) - 180 shared documents
-- [Epstein](../people/epstein.md) - 169 shared documents
-- [Mr. Obama](../people/obama.md) - 163 shared documents
-- [CLINTON](../people/clinton.md) - 158 shared documents
-- [Donald 
-Trump](../people/donald-trump.md) - 136 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 134 shared documents
-- [Bill 
-Clinton](../people/bill-clinton.md) - 129 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 117 shared documents
+- [Michael Wolff](../people/michael-wolff.md) - 116 shared documents
+- [White House](../people/white-house.md) - 92 shared documents
+- [New
+York](../people/new-york.md) - 80 shared documents
+- [On Sat](../people/on-sat.md) - 66 shared documents
+- [Richard Kahn](../people/richard-kahn.md) - 64 shared documents
+- [Chat Room](../people/chat-room.md) - 59 shared documents
 
 **Organizations:**
 
@@ -65,8 +63,8 @@ Clinton](../people/bill-clinton.md) - 129 shared documents
 - [America](../locations/america.md) - 145 shared documents
 - [London](../locations/london.md) - 136 shared documents
 - [Europe](../locations/europe.md) - 129 shared documents
-- [Washington](../locations/washington.md) - 116 shared documents
 - [Florida](../locations/florida.md) - 116 shared documents
+- [Washington](../locations/washington.md) - 116 shared documents
 - [the United States](../locations/the-united-states.md) - 111 shared documents
 - [Paris](../locations/paris.md) - 109 shared documents
 

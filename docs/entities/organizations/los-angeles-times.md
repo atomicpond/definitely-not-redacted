@@ -30,7 +30,7 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Los Angeles Times](../people/los-angeles-times.md) - 15 shared documents
-- [President Obama](../people/president-obama.md) - 11 shared documents
+- [Barack Obama](../people/barack-obama.md) - 11 shared documents
 - [Middle East](../people/middle-east.md) - 10 shared documents
 - [White House](../people/white-house.md) - 10 shared documents
 - [District Court](../people/district-court.md) - 6 shared documents
@@ -43,8 +43,8 @@ Top 10 documents by mention frequency:
 - [the New York Times](the-new-york-times.md) - 8 shared documents
 - [HOUSE](house.md) - 8 shared documents
 - [New York Times](new-york-times.md) - 7 shared documents
-- [Congress](congress.md) - 7 shared documents
 - [BBC](bbc.md) - 7 shared documents
+- [Congress](congress.md) - 7 shared documents
 - [Newsweek](newsweek.md) - 6 shared documents
 - [Princeton University](princeton-university.md) - 6 shared documents
 - [Stanford University](stanford-university.md) - 6 shared documents
@@ -55,12 +55,12 @@ Top 10 documents by mention frequency:
 - [the Middle East](../locations/the-middle-east.md) - 10 shared documents
 - [Israel](../locations/israel.md) - 9 shared documents
 - [Spain](../locations/spain.md) - 9 shared documents
-- [United States](../locations/united-states.md) - 8 shared documents
-- [USA](../locations/usa.md) - 8 shared documents
-- [Germany](../locations/germany.md) - 8 shared documents
 - [France](../locations/france.md) - 8 shared documents
+- [Germany](../locations/germany.md) - 8 shared documents
 - [Iran](../locations/iran.md) - 8 shared documents
 - [Iraq](../locations/iraq.md) - 8 shared documents
+- [Italy](../locations/italy.md) - 8 shared documents
+- [the United States](../locations/the-united-states.md) - 8 shared documents
 
 **Events:**
 
@@ -69,11 +69,11 @@ Top 10 documents by mention frequency:
 - [2007](../events/2007.md) - 9 shared documents
 - [2016](../events/2016.md) - 8 shared documents
 - [annual](../events/annual.md) - 8 shared documents
-- [Two years later](../events/two-years-later.md) - 7 shared documents
+- [1967](../events/1967.md) - 7 shared documents
 - [2012](../events/2012.md) - 7 shared documents
 - [2013](../events/2013.md) - 7 shared documents
-- [1967](../events/1967.md) - 7 shared documents
-- [2003](../events/2003.md) - 6 shared documents
+- [Two years later](../events/two-years-later.md) - 7 shared documents
+- [1961](../events/1961.md) - 6 shared documents
 
 ## Timeline
 

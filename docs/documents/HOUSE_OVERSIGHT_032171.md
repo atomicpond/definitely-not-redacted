@@ -15,8 +15,8 @@
 
 ### People
 - [Gates](../entities/people/gates.md) - 23 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 6 mentions
-- [Mr. Mubarak](../entities/people/mr-mubarak.md) - 6 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 6 mentions
+- [Mr. Mubarak](../entities/people/mubarak.md) - 6 mentions
 - [Ben Ali](../entities/people/ben-ali.md) - 5 mentions
 - [Shlomo Gazit](../entities/people/shlomo-gazit.md) - 3 mentions
 - [Khamenei](../entities/people/khamenei.md) - 3 mentions

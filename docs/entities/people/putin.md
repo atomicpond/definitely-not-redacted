@@ -30,19 +30,17 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jeffrey E](jeffrey-e.md) - 12 shared documents
-- [Mr. Bannon](bannon.md) - 11 shared documents
-- [Mr. 
-Trump](trump.md) - 10 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 10 shared documents
 - [Donald 
 Trump](donald-trump.md) - 8 shared documents
-- [Mr. Obama](obama.md) - 7 shared documents
+- [Barack Obama](barack-obama.md) - 7 shared documents
 - [Steve Bannon](steve-bannon.md) - 6 shared documents
 - [New
 York](new-york.md) - 6 shared documents
 - [United 
 States](united-states.md) - 5 shared documents
 - [Vladimir Putin](vladimir-putin.md) - 5 shared documents
+- [White House](white-house.md) - 5 shared documents
 
 **Organizations:**
 
@@ -53,19 +51,18 @@ States](united-states.md) - 5 shared documents
 - [Harvard](../organizations/harvard.md) - 6 shared documents
 - [Congress](../organizations/congress.md) - 5 shared documents
 - [Islam](../organizations/islam.md) - 5 shared documents
-- [White House](../organizations/white-house.md) - 4 shared documents
 
 **Locations:**
 
 - [US](../locations/us.md) - 13 shared documents
 - [Russia](../locations/russia.md) - 12 shared documents
-- [New York](../locations/new-york.md) - 10 shared documents
 - [Europe](../locations/europe.md) - 10 shared documents
+- [New York](../locations/new-york.md) - 10 shared documents
 - [China](../locations/china.md) - 8 shared documents
 - [the United States](../locations/the-united-states.md) - 8 shared documents
 - [Germany](../locations/germany.md) - 7 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
 - [America](../locations/america.md) - 6 shared documents
+- [England](../locations/england.md) - 6 shared documents
 - [Iraq](../locations/iraq.md) - 6 shared documents
 
 **Events:**
@@ -75,7 +72,10 @@ States](united-states.md) - 5 shared documents
 - [2004](../events/2004.md) - 5 shared documents
 - [2016](../events/2016.md) - 5 shared documents
 - [this week](../events/this-week.md) - 5 shared documents
+- [2008](../events/2008.md) - 4 shared documents
 - [2018](../events/2018.md) - 4 shared documents
+- [the years](../events/the-years.md) - 4 shared documents
+- [two years](../events/two-years.md) - 4 shared documents
 
 ## Timeline
 

@@ -32,8 +32,8 @@ Top 5 documents by mention frequency:
 - [the Control Factor](the-control-factor.md) - 5 shared documents
 - [the Muslim Brotherhood](the-muslim-brotherhood.md) - 5 shared documents
 - [al-Qaeda](al-qaeda.md) - 5 shared documents
-- [Islam](islam.md) - 5 shared documents
 - [Control Factor](control-factor.md) - 5 shared documents
+- [Islam](islam.md) - 5 shared documents
 - [Benghazi](benghazi.md) - 4 shared documents
 - [CIA](cia.md) - 4 shared documents
 - [Hamas](hamas.md) - 4 shared documents
@@ -44,23 +44,23 @@ Top 5 documents by mention frequency:
 - [Israel](../locations/israel.md) - 5 shared documents
 - [West](../locations/west.md) - 5 shared documents
 - [Earth](../locations/earth.md) - 4 shared documents
+- [Gaza](../locations/gaza.md) - 4 shared documents
+- [Rome](../locations/rome.md) - 4 shared documents
 - [Russia](../locations/russia.md) - 4 shared documents
 - [the Soviet Union](../locations/the-soviet-union.md) - 4 shared documents
-- [Rome](../locations/rome.md) - 4 shared documents
-- [Gaza](../locations/gaza.md) - 4 shared documents
 - [the State of Israel](../locations/the-state-of-israel.md) - 4 shared documents
 - [Vietnam](../locations/vietnam.md) - 4 shared documents
 
 **Events:**
 
 - [the day](../events/the-day.md) - 5 shared documents
+- [1991](../events/1991.md) - 4 shared documents
 - [70](../events/70.md) - 4 shared documents
 - [daily](../events/daily.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
-- [week](../events/week.md) - 4 shared documents
 - [decades](../events/decades.md) - 4 shared documents
 - [the 1950s](../events/the-1950s.md) - 4 shared documents
-- [1991](../events/1991.md) - 4 shared documents
+- [week](../events/week.md) - 4 shared documents
+- [years](../events/years.md) - 4 shared documents
 
 ## Timeline
 

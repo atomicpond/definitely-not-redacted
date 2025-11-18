@@ -44,36 +44,34 @@ Top 10 documents by mention frequency:
 - [Credit Suisse](credit-suisse.md) - 6 shared documents
 - [NYSE](nyse.md) - 5 shared documents
 - [The Wall Street Journal](the-wall-street-journal.md) - 5 shared documents
-- [HOUSE](house.md) - 5 shared documents
-- [Bloomberg](bloomberg.md) - 5 shared documents
 - [LLC](llc.md) - 4 shared documents
 - [Treasury](treasury.md) - 4 shared documents
 
 **Locations:**
 
 - [China](../locations/china.md) - 9 shared documents
-- [Japan](../locations/japan.md) - 9 shared documents
 - [Israel](../locations/israel.md) - 9 shared documents
+- [Japan](../locations/japan.md) - 9 shared documents
 - [Mexico](../locations/mexico.md) - 8 shared documents
-- [Europe](../locations/europe.md) - 7 shared documents
+- [America](../locations/america.md) - 7 shared documents
 - [Brazil](../locations/brazil.md) - 7 shared documents
 - [Canada](../locations/canada.md) - 7 shared documents
-- [America](../locations/america.md) - 7 shared documents
+- [Europe](../locations/europe.md) - 7 shared documents
 - [India](../locations/india.md) - 7 shared documents
-- [Dubai](../locations/dubai.md) - 6 shared documents
+- [Chicago](../locations/chicago.md) - 6 shared documents
 
 **Events:**
 
 - [2007](../events/2007.md) - 7 shared documents
 - [2008](../events/2008.md) - 7 shared documents
-- [2018](../events/2018.md) - 6 shared documents
+- [1987](../events/1987.md) - 6 shared documents
+- [2000](../events/2000.md) - 6 shared documents
+- [2005](../events/2005.md) - 6 shared documents
+- [2012](../events/2012.md) - 6 shared documents
 - [2014](../events/2014.md) - 6 shared documents
 - [2016](../events/2016.md) - 6 shared documents
-- [2000](../events/2000.md) - 6 shared documents
-- [2012](../events/2012.md) - 6 shared documents
+- [2018](../events/2018.md) - 6 shared documents
 - [last year](../events/last-year.md) - 6 shared documents
-- [2005](../events/2005.md) - 6 shared documents
-- [1987](../events/1987.md) - 6 shared documents
 
 ## Timeline
 

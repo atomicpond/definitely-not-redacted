@@ -51,8 +51,8 @@ Fellowship](house-fellowship.md) - 8 shared documents
 **Events:**
 
 - [5/8/2017](../events/582017.md) - 9 shared documents
-- [May 8, 2017](../events/may-8-2017.md) - 7 shared documents
 - [12/7/2016](../events/1272016.md) - 7 shared documents
+- [May 8, 2017](../events/may-8-2017.md) - 7 shared documents
 - [2016](../events/2016.md) - 6 shared documents
 - [next month](../events/next-month.md) - 5 shared documents
 

@@ -29,8 +29,8 @@ Top 10 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Middle East](../people/middle-east.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
 
 **Organizations:**
 
@@ -47,22 +47,22 @@ Top 10 documents by mention frequency:
 - [Israel](israel.md) - 9 shared documents
 - [France](france.md) - 8 shared documents
 - [Washington](washington.md) - 7 shared documents
+- [America](america.md) - 7 shared documents
 - [China](china.md) - 7 shared documents
-- [Japan](japan.md) - 7 shared documents
 - [Germany](germany.md) - 7 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 9 shared documents
 - [2005](../events/2005.md) - 8 shared documents
-- [this week](../events/this-week.md) - 7 shared documents
-- [years](../events/years.md) - 7 shared documents
-- [months](../events/months.md) - 7 shared documents
 - [2013](../events/2013.md) - 7 shared documents
 - [every day](../events/every-day.md) - 7 shared documents
-- [annual](../events/annual.md) - 6 shared documents
-- [Thursday](../events/thursday.md) - 6 shared documents
-- [last year](../events/last-year.md) - 6 shared documents
+- [months](../events/months.md) - 7 shared documents
+- [this week](../events/this-week.md) - 7 shared documents
+- [years](../events/years.md) - 7 shared documents
+- [1978](../events/1978.md) - 6 shared documents
+- [2006](../events/2006.md) - 6 shared documents
+- [2008](../events/2008.md) - 6 shared documents
 
 ## Timeline
 

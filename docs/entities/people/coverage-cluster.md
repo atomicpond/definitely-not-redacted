@@ -42,35 +42,35 @@ Top 10 documents by mention frequency:
 
 **Organizations:**
 
-- [Merrill Lynch](../organizations/merrill-lynch.md) - 13 shared documents
-- [Pierce, Fenner & Smith Incorporated](../organizations/pierce-fenner-smith-incorporated.md) - 13 shared documents
-- [Bank of America Merrill Lynch](../organizations/bank-of-america-merrill-lynch.md) - 13 shared documents
-- [BofA Merrill Lynch Global Research](../organizations/bofa-merrill-lynch-global-research.md) - 13 shared documents
-- [Bank of America](../organizations/bank-of-america.md) - 13 shared documents
-- [Bank of America
-Corporation](../organizations/bank-of-america-corporation.md) - 13 shared documents
-- [BofA Merrill Lynch](../organizations/bofa-merrill-lynch.md) - 13 shared documents
-- [Merrill Lynch Global Wealth Management](../organizations/merrill-lynch-global-wealth-management.md) - 13 shared documents
 - [ABN](../organizations/abn.md) - 13 shared documents
+- [ARBN](../organizations/arbn.md) - 13 shared documents
+- [Asia Pacific) Limited](../organizations/asia-pacific-limited.md) - 13 shared documents
+- [Australia) Limited](../organizations/australia-limited.md) - 13 shared documents
+- [Australian Branch](../organizations/australian-branch.md) - 13 shared documents
+- [BAMLI Frankfurt](../organizations/bamli-frankfurt.md) - 13 shared documents
+- [BANA Australia](../organizations/bana-australia.md) - 13 shared documents
+- [Banco Multiplo S.A.](../organizations/banco-multiplo-sa.md) - 13 shared documents
+- [Bank](../organizations/bank.md) - 13 shared documents
+- [Bank of America](../organizations/bank-of-america.md) - 13 shared documents
 
 **Locations:**
 
-- [Dubai](../locations/dubai.md) - 13 shared documents
-- [Japan](../locations/japan.md) - 13 shared documents
+- [Argentina](../locations/argentina.md) - 13 shared documents
+- [Asia](../locations/asia.md) - 13 shared documents
+- [Australia](../locations/australia.md) - 13 shared documents
+- [BaFin](../locations/bafin.md) - 13 shared documents
 - [Brazil](../locations/brazil.md) - 13 shared documents
 - [Canada](../locations/canada.md) - 13 shared documents
-- [Mexico](../locations/mexico.md) - 13 shared documents
-- [Asia](../locations/asia.md) - 13 shared documents
-- [Israel](../locations/israel.md) - 13 shared documents
-- [Australia](../locations/australia.md) - 13 shared documents
+- [Dubai](../locations/dubai.md) - 13 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 13 shared documents
-- [Singapore](../locations/singapore.md) - 13 shared documents
+- [India](../locations/india.md) - 13 shared documents
+- [Indonesia](../locations/indonesia.md) - 13 shared documents
 
 **Events:**
 
 - [1959](../events/1959.md) - 13 shared documents
-- [the day](../events/the-day.md) - 13 shared documents
 - [198602883D](../events/198602883d.md) - 13 shared documents
+- [the day](../events/the-day.md) - 13 shared documents
 
 ## Timeline
 

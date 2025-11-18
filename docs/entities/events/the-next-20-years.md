@@ -29,16 +29,16 @@ Top 10 documents by mention frequency:
 
 **People:**
 
+- [Bill Gates](../people/bill-gates.md) - 8 shared documents
 - [bin salman](../people/bin-salman.md) - 8 shared documents
-- [Gates](../people/gates.md) - 8 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 8 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 8 shared documents
 - [jeffrey E. <](../people/jeffrey-e.md) - 8 shared documents
 - [jr thomas](../people/jr-thomas.md) - 8 shared documents
 - [Landon](../people/landon.md) - 8 shared documents
 - [Landon Thomas](../people/landon-thomas.md) - 8 shared documents
 - [Thomas Jr](../people/thomas-jr.md) - 8 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 8 shared documents
 - [jr thomas/inde  
 x.html](../people/jr-thomas-inde-xhtml.md) - 7 shared documents
 
@@ -76,10 +76,10 @@ x.html](../people/jr-thomas-inde-xhtml.md) - 7 shared documents
 - [Wed, Oct 19, 2016](wed-oct-19-2016.md) - 7 shared documents
 - [today](today.md) - 5 shared documents
 - [years](years.md) - 5 shared documents
-- [2007](2007.md) - 5 shared documents
-- [2009](2009.md) - 5 shared documents
-- [2014](2014.md) - 5 shared documents
 - [1990](1990.md) - 5 shared documents
+- [2001](2001.md) - 5 shared documents
+- [2007](2007.md) - 5 shared documents
+- [2008](2008.md) - 5 shared documents
 
 ## Timeline
 

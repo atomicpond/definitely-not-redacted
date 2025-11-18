@@ -31,10 +31,8 @@ Top 10 documents by mention frequency:
 
 - [White House](../people/white-house.md) - 26 shared documents
 - [Los Angeles](../people/los-angeles.md) - 21 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 18 shared documents
 - [Donald 
-Trump](../people/donald-trump.md) - 16 shared documents
+Trump](../people/donald-trump.md) - 18 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 16 shared documents
 - [Daily Beast](../people/daily-beast.md) - 14 shared documents
 - [European Parliament](../people/european-parliament.md) - 14 shared documents
@@ -61,11 +59,11 @@ Trump](../people/donald-trump.md) - 16 shared documents
 - [New York](new-york.md) - 38 shared documents
 - [Italy](italy.md) - 35 shared documents
 - [Europe](europe.md) - 33 shared documents
-- [the United States](the-united-states.md) - 32 shared documents
 - [Paris](paris.md) - 32 shared documents
+- [the United States](the-united-states.md) - 32 shared documents
 - [Washington](washington.md) - 29 shared documents
 - [California](california.md) - 29 shared documents
-- [United States](united-states.md) - 28 shared documents
+- [Germany](germany.md) - 28 shared documents
 
 **Events:**
 
@@ -73,12 +71,12 @@ Trump](../people/donald-trump.md) - 16 shared documents
 - [Friday](../events/friday.md) - 36 shared documents
 - [today](../events/today.md) - 33 shared documents
 - [2007](../events/2007.md) - 31 shared documents
-- [2014](../events/2014.md) - 28 shared documents
 - [2010](../events/2010.md) - 28 shared documents
+- [2014](../events/2014.md) - 28 shared documents
 - [2009](../events/2009.md) - 27 shared documents
 - [2006](../events/2006.md) - 26 shared documents
 - [years](../events/years.md) - 25 shared documents
-- [2004](../events/2004.md) - 24 shared documents
+- [1984](../events/1984.md) - 24 shared documents
 
 ## Timeline
 

@@ -29,7 +29,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [jeffrey E. <](jeffrey-e.md) - 8 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 8 shared documents
 - [Jeffrey E](jeffrey-e.md) - 7 shared documents
 - [On Aug](on-aug.md) - 6 shared documents
 - [Lawrence Krauss](lawrence-krauss.md) - 4 shared documents
@@ -38,17 +38,17 @@ Top 10 documents by mention frequency:
 
 - [HOUSE](../organizations/house.md) - 10 shared documents
 - [Arizona State University](../organizations/arizona-state-university.md) - 4 shared documents
-- [The Origins Project](../organizations/the-origins-project.md) - 4 shared documents
 - [ASU](../organizations/asu.md) - 4 shared documents
 - [Research Office](../organizations/research-office.md) - 4 shared documents
+- [The Origins Project](../organizations/the-origins-project.md) - 4 shared documents
 
 **Locations:**
 
-- [Tempe](../locations/tempe.md) - 4 shared documents
+- [Australia](../locations/australia.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
 - [Germany](../locations/germany.md) - 4 shared documents
+- [Tempe](../locations/tempe.md) - 4 shared documents
 - [Washington](../locations/washington.md) - 4 shared documents
-- [Australia](../locations/australia.md) - 4 shared documents
 
 **Events:**
 

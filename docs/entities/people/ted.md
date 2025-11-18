@@ -25,8 +25,8 @@ Top 6 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 5 shared documents
 - [Harvard](../organizations/harvard.md) - 5 shared documents
+- [HOUSE](../organizations/house.md) - 5 shared documents
 
 ## Timeline
 

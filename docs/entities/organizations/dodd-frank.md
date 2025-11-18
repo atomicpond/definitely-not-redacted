@@ -31,10 +31,10 @@ Top 5 documents by mention frequency:
 
 - [2014](../events/2014.md) - 4 shared documents
 - [2016](../events/2016.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
+- [2017](../events/2017.md) - 4 shared documents
 - [next year](../events/next-year.md) - 4 shared documents
 - [this year](../events/this-year.md) - 4 shared documents
-- [2017](../events/2017.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

@@ -24,13 +24,13 @@ Top 5 documents by mention frequency:
 
 **People:**
 
-- [Mr. Bannon](../people/bannon.md) - 5 shared documents
 - [Brett Ratner](../people/brett-ratner.md) - 5 shared documents
 - [Charlie](../people/charlie.md) - 5 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 5 shared documents
 - [Jeffrey E. 
 Sent](../people/jeffrey-e-sent.md) - 5 shared documents
 - [Reid](../people/reid.md) - 5 shared documents
+- [Steve Bannon](../people/steve-bannon.md) - 5 shared documents
 - [Weingarten](../people/weingarten.md) - 5 shared documents
 
 **Organizations:**

@@ -29,14 +29,13 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Trump](../people/president-trump.md) - 6 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 6 shared documents
 - [Goldman Sachs](../people/goldman-sachs.md) - 5 shared documents
 - [Merrill Lynch](../people/merrill-lynch.md) - 5 shared documents
 - [Middle East](../people/middle-east.md) - 5 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 4 shared documents
 - [Central Bank](../people/central-bank.md) - 4 shared documents
-- [President Obama](../people/president-obama.md) - 4 shared documents
 - [Seoul Branch](../people/seoul-branch.md) - 4 shared documents
 - [United 
 States](../people/united-states.md) - 4 shared documents
@@ -51,22 +50,22 @@ States](../people/united-states.md) - 4 shared documents
 - [Amazon](amazon.md) - 9 shared documents
 - [Microsoft](microsoft.md) - 9 shared documents
 - [Congress](congress.md) - 8 shared documents
-- [HOUSE](house.md) - 6 shared documents
 - [Princeton](princeton.md) - 5 shared documents
 - [New York Times](new-york-times.md) - 4 shared documents
+- [Stanford University](stanford-university.md) - 4 shared documents
 
 **Locations:**
 
 - [Europe](../locations/europe.md) - 13 shared documents
 - [the United States](../locations/the-united-states.md) - 11 shared documents
-- [United States](../locations/united-states.md) - 10 shared documents
 - [Japan](../locations/japan.md) - 10 shared documents
+- [United States](../locations/united-states.md) - 10 shared documents
 - [Washington](../locations/washington.md) - 9 shared documents
 - [China](../locations/china.md) - 8 shared documents
 - [Germany](../locations/germany.md) - 8 shared documents
-- [London](../locations/london.md) - 8 shared documents
 - [India](../locations/india.md) - 8 shared documents
-- [New York](../locations/new-york.md) - 7 shared documents
+- [London](../locations/london.md) - 8 shared documents
+- [America](../locations/america.md) - 7 shared documents
 
 **Events:**
 
@@ -75,10 +74,10 @@ States](../people/united-states.md) - 4 shared documents
 - [today](../events/today.md) - 10 shared documents
 - [this year](../events/this-year.md) - 9 shared documents
 - [years](../events/years.md) - 9 shared documents
-- [annual](../events/annual.md) - 8 shared documents
-- [2012](../events/2012.md) - 8 shared documents
 - [2001](../events/2001.md) - 8 shared documents
 - [2006](../events/2006.md) - 8 shared documents
+- [2012](../events/2012.md) - 8 shared documents
+- [annual](../events/annual.md) - 8 shared documents
 - [2014](../events/2014.md) - 7 shared documents
 
 ## Timeline

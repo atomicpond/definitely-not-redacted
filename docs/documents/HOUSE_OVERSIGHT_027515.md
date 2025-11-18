@@ -54,185 +54,381 @@ Is Invitation](../entities/people/no-is-invitation.md) - 44 mentions
 
 ## Document Text
 
+**Thread-like Conversation View:**
+
 ```
-Source Entry: H\Macintosh HD\root\Users\jee\Library\Messages\Archive\2018-11-29\ 
-on 2018-11-26 at 13.08.48.ichat 
-Service: iMessage 
-**Start Time**: **11/12/18** 03:45:44 AM (563715944) 
-**End Time**: 11/29/18 04:24:47 PM (565230287) 
-**Last Message** ID: 24045 
-**Chat Room**: 
-Participants: jee, ____________________________________ 
-Presentity IDs: e:jeeitunes@gmail.com, 
-Messages - 
-Sender: 
-Time: **11/12/18** 03:45:44 AM (563715944) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-GUID: 20E7124E-8D14-4379-B85D-2F19AF3810E8 
-Message: <**Unsupported Message Content**> 
-Sender: 
-Time: **11/12/18** 03:45:51 AM (563715951) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-GUID: 71D93897-5COD-4032-9E02-102C2F19A251 
-Message: <**Unsupported Message Content**> 
-Sender: e:jeeitunes@gmail.com 
-Time: **11/12/18** 03:46:13 AM (563715973) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-GUID: D32396E1-1CA4-4725-9598-2F1AA8290287 
-Message: GREAT!! ask him about a sandwich 
-Sender: 
-Time: **11/12/18** 03:47:12 AM (563716032) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-GUID: 4D492C37-58D9-4003-9E65-95FB6D64CB2B 
-Message: Too late:( But there were some sandwiches in his office:) 
-**HOUSE** OVERSIGHT 027515 
-Sender: e:jeeitunes@gmail.com 
-Time: **11/12/18** 03:48:36 AM (563716116) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-GUID: E2953573-4CO2-46C8-88DO-C4F890A53E2E 
-Message: im glad. 
-Sender: 
-Time: **11/12/18** 03:49:06 AM (563716146) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-GUID: 6F10FAE4-CB37-42EE-A44D-43335B7F313B 
-Message: But nobody offered 
-Sender: e:jeeitunes@gmail.com 
-Time: 11/13/18 02:55:20 AM (563799320) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-GUID: 54BDC21A-7B98-41F5-BOA9-7FBB1BFD98E5 
-Message: On wed. You can tell mike. Re your sound like a f.... Moron. Coversation with 
-**steve**. They are very close . And I think it will break the ice\ 
-Sender: 
-Time: 11/13/18 11:26:18 AM (563829978) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-GUID: B5F58C2C-482A-40B6-BD9E-CB8D43A415E2 
-Message: OK, I will:) 
-Sender: e:jeeitunes@gmail.com 
-Time: **11/14/18** 05:47:25 AM (563896045) 
-Flags: 1150981 
-**Is Read**: **No 
-**Is Invitation****: No 
-GUID: 01E184B5-A944-4F43-82C8-C781C740FEF6 
-Message: Do you leave **tonight** 
-Sender: 
-Time: **11/14/18** 05:50:32 AM (563896232) 
-**HOUSE** OVERSIGHT 027516 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-GUID: F680E178-DED6-4CE6-B5D3-6DBOO2D95734 
-Message: Yes, from DC 
-Sender: e:jeeitunes@gmail.com 
-Time: **11/14/18** 05:50:51 AM (563896251) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-GUID: E049424A-26A7-4554-BE9B-60E994C84810 
-Message: Lieberman resignation in **Israel** . Could be a game changer 
-Sender: 
-Time: **11/14/18** 05:51:27 AM (563896287) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-GUID: 986A3AD8-7C96-422D-BCB5-279827E84E15 
-Message: Yes, he is a heavyweight 
-Sender: e:jeeitunes@gmail.com 
-Time: **11/14/18** 05:52:17 AM (563896337) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-GUID: D4F2059E-00A0-4ED6-9F08-3B2580B8AD3D 
-Message: **Pompeo** , one of the few that can get across and has the respect still of trump 
-Sender: 
-Time: **11/14/18** 05:52:55 AM (563896375) 
-Flags: 1126401 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-GUID: 2226980D-5390-4564-9D8O-D3E30841D7FA 
-Message: I'm seeing him at 2pm 
-Sender: e:jeeitunes@gmail.com 
-Time: **11/14/18** 05:53:24 AM (563896404) 
-Flags: 1085445 
-**Is Read**: No 
-**HOUSE** OVERSIGHT 027517 
-**Is Invitation**: No 
-GUID: 91640502-5941-4861-9292-4FCE92360666 
-Message: **steve** brought him from obscurity , a tea party member into the limelight 
-Sender: 
-Time: **11/14/18** 05:53:53 AM (563896433) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-GUID: 38A99829-B635-4676-ADC2-EF200D40A2A4 
-Message: Really? I didn't know that 
-Sender: e:jeeitunes@gmail.com 
-Time: **11/14/18** 05:54:10 AM (563896450) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-GUID: EEB59D71-6C7D-4FFC-88D0-8F2F22F53907 
-Message: **Yup 
-Sender**: 
-Time: **11/14/18** 05:54:36 AM (563896476) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-GUID: 575909D0-DF98-4B30-8B26-969EC4FFCDC6 
-Message: It will be our first real meeting 
-Sender: e:jeeitunes@gmail.com 
-Time: **11/14/18** 05:55:56 AM (563896556) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-GUID: B30879CA-4128-48A6-94D2-21613BB9060A 
-Message: A **Kansas** congressman. 
-Sender: 
-Time: **11/14/18** 05:56:26 AM (563896586) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-GUID: 88310701-0B52-4FF2-BE69-5338CEDCCCDD 
-**HOUSE** OVERSIGHT 027518 
-Message: And West Point graduate 
-Sender: 
-Time: **11/14/18** 05:56:38 AM (563896598) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-GUID: 0092631F-2D0E-4AEE-AF8B-5FF140E556C3 
-Message: You are back? 
-Sender: e:jeeitunes@gmail.com 
-Time: **11/14/18** 05:58:11 AM (563896691) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-GUID: B88DE773-0C2E-4886-A9BE-EF76CA771FAB 
-Message: **In **Florida**** in the sun 
-Sender: 
-Time: **11/14/18** 06:00:18 AM (563896818) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-GUID: 48987532-7D44-4216-920A-682DB51D31FE 
-Message: That's not fair!:) 
-Sender: 
-Time: **11/14/18** 06:00:22 AM (
+
+======================================================================
+Monday, November 12, 2018
+======================================================================
+
+Unknown [3:45 AM]:
+  
+
+Unknown [3:45 AM]:
+  <Unsupported Message Content>
+
+E:jeeitunes [3:46 AM]:
+  <Unsupported Message Content>
+
+Unknown [3:47 AM]:
+  GREAT!! ask him about a sandwich
+
+E:jeeitunes [3:48 AM]:
+  Too late:( But there were some sandwiches in his office:)
+
+Unknown [3:49 AM]:
+  im glad.
+
+
+======================================================================
+Tuesday, November 13, 2018
+======================================================================
+
+E:jeeitunes [2:55 AM]:
+  But nobody offered
+
+Unknown [11:26 AM]:
+  On wed. You can tell mike. Re your sound like a f.... Moron. Coversation with
+
+
+======================================================================
+Wednesday, November 14, 2018
+======================================================================
+
+E:jeeitunes [5:47 AM]:
+  OK, I will:)
+
+Unknown [5:50 AM]:
+  Do you leave tonight
+
+E:jeeitunes [5:50 AM]:
+  Yes, from DC
+
+Unknown [5:51 AM]:
+  Lieberman resignation in Israel . Could be a game changer
+
+E:jeeitunes [5:52 AM]:
+  Yes, he is a heavyweight
+
+Unknown [5:52 AM]:
+  Pompeo , one of the few that can get across and has the respect still of trump
+
+E:jeeitunes [5:53 AM]:
+  I'm seeing him at 2pm
+
+Unknown [5:53 AM]:
+  Steve brought him from obscurity , a tea party member into the limelight
+
+E:jeeitunes [5:54 AM]:
+  Really? I didn't know that
+
+Unknown [5:54 AM]:
+  Yup
+
+E:jeeitunes [5:55 AM]:
+  It will be our first real meeting
+
+Unknown [5:56 AM]:
+  A kansas congressman.
+
+Unknown [5:56 AM]:
+  And West Point graduate
+
+E:jeeitunes [5:58 AM]:
+  You are back?
+
+Unknown [6:00 AM]:
+  In Florida in the sun
+
+Unknown [6:00 AM]:
+  That's not fair!:)
+
+E:jeeitunes [6:00 AM]:
+  I envy you
+
+Unknown [6:01 AM]:
+  Get in line
+
+Unknown [11:32 AM]:
+  :-)
+
+E:jeeitunes [1:06 PM]:
+  <Unsupported Message Content>
+
+Unknown [1:09 PM]:
+  Great. Are you out yet?
+
+E:jeeitunes [1:09 PM]:
+  Done with my meetings, on the way to the airport
+
+E:jeeitunes [1:09 PM]:
+  How was It ?
+
+Unknown [1:10 PM]:
+  Can you speak. ?
+
+
+======================================================================
+Thursday, November 15, 2018
+======================================================================
+
+E:jeeitunes [3:45 PM]:
+  Yes
+
+E:jeeitunes [3:45 PM]:
+  I think Steve. Will come to ab
+
+
+======================================================================
+Friday, November 16, 2018
+======================================================================
+
+Unknown [12:21 AM]:
+  Ad
+
+E:jeeitunes [3:03 AM]:
+  I'll let you know if I see him
+
+Unknown [3:04 AM]:
+  Now unlikey as uk heating up wow
+
+E:jeeitunes [10:03 AM]:
+  I think so too
+
+E:jeeitunes [10:03 AM]:
+  He will be in
+
+E:jeeitunes [10:03 AM]:
+  AD. Tomorrow afternoon
+
+Unknown [10:08 AM]:
+  You?
+
+E:jeeitunes [10:09 AM]:
+  He texted me. He will be in Abu Dhabi tomorrow. But I'm in the middle of a
+
+Unknown [10:53 AM]:
+  Yes, I've been . When do you return to AD
+
+E:jeeitunes [10:54 AM]:
+  I come back to Dubai on Sunday and continue to Brussels
+
+Unknown [10:59 AM]:
+  Early Dubai?
+
+
+======================================================================
+Saturday, November 17, 2018
+======================================================================
+
+E:jeeitunes [11:47 PM]:
+  Arrive around noon, departure 14.30
+
+Unknown [11:48 PM]:
+  Was it fun?
+
+Unknown [11:48 PM]:
+  <Unsupported Message Content>
+
+Unknown [11:49 PM]:
+  At moments
+
+E:jeeitunes [11:49 PM]:
+  Right now on the way to the airport
+
+
+======================================================================
+Sunday, November 18, 2018
+======================================================================
+
+E:jeeitunes [3:14 AM]:
+  Ha
+
+Unknown [9:36 AM]:
+  best part of trip?
+
+Unknown [9:36 AM]:
+  Massage
+
+Unknown [9:37 AM]:
+  And my wife was happy to see me more than usually
+
+E:jeeitunes [10:00 AM]:
+  Just landed in Brussels, we have EU Foreign ministers meeting here tomorrow
+
+
+======================================================================
+Monday, November 19, 2018
+======================================================================
+
+Unknown [2:13 AM]:
+  Understood
+
+Unknown [2:38 AM]:
+  As of today...
+
+Unknown [11:12 AM]:
+  0y, indeed
+
+Unknown [11:12 AM]:
+  Mid January
+
+
+======================================================================
+Tuesday, November 20, 2018
+======================================================================
+
+Unknown [4:42 AM]:
+  Yes. Something will happen by then.
+
+E:jeeitunes [4:49 AM]:
+  I said today that if Slovakia withdraws from Migration compact I will consider
+
+E:jeeitunes [4:50 AM]:
+  The prime minister is still on your side?
+
+Unknown [4:51 AM]:
+  do I understand correctly that it is you vs parliament?
+
+Unknown [4:51 AM]:
+  Yes, the PM is with me. But the former PM and party chairman is pushing for
+
+Unknown [4:52 AM]:
+  Parliament can only recommend to the government.
+
+E:jeeitunes [4:57 AM]:
+  But I will totally lose credibility if Slovakia withdraws and I stay silent
+
+E:jeeitunes [4:58 AM]:
+  Agreed
+
+Unknown [5:00 AM]:
+  More divisiveness. I guess better opportunity to be seen to unify?
+
+E:jeeitunes [5:01 AM]:
+  Maybe. And maybe another signal that internal politics is for me, at least not
+
+Unknown [5:01 AM]:
+  It seems people are trying to make the argument that strength is in opposition
+
+Unknown [5:24 AM]:
+  Yes, you are right:) Not for me
+
+Unknown [5:24 AM]:
+  I called back, you have voicemail
+
+E:jeeitunes [5:51 AM]:
+  Feel free to call
+
+
+======================================================================
+Thursday, November 22, 2018
+======================================================================
+
+E:jeeitunes [4:14 AM]:
+  tried
+
+E:jeeitunes [4:16 AM]:
+  Appears like a fun committee meeting.
+
+Unknown [4:18 AM]:
+  If you decide to resign. Lets make the resignation powerful.
+
+Unknown [4:18 AM]:
+  You are right. I stay cool, only in reaction to MPs stupid statements I I got
+
+Unknown [4:19 AM]:
+  Thanks, if going then going in style:)
+
+E:jeeitunes [4:26 AM]:
+  But in general I'm surprisingly relaxed. I feel I'm doing the right thing. And
+
+Unknown [4:28 AM]:
+  Im not surprised. , I think your position is just. It is the explanation
+
+E:jeeitunes [4:32 AM]:
+  Yes, you are right. I will stress that more.
+
+Unknown [4:34 AM]:
+  " Slovaks don't run and hide . We stand tall and say ......
+
+Unknown [4:35 AM]:
+  Fun:)
+
+E:jeeitunes [4:35 AM]:
+  I said many of these things yesterday in the Committee
+
+Unknown [4:36 AM]:
+  I think this issue helps frame your own decision making. Its not do you
+
+E:jeeitunes [1:29 PM]:
+  Yes, exactly
+
+Unknown [1:33 PM]:
+  "I think Europe needs to get a handle on migration because that is what lit
+
+E:jeeitunes [1:33 PM]:
+  He's absolutely right
+
+Unknown [1:34 PM]:
+  She
+
+
+======================================================================
+Monday, November 26, 2018
+======================================================================
+
+E:jeeitunes [3:08 AM]:
+  Oh, OK. But she's still right:)))
+
+Unknown [3:38 AM]:
+  Progress?
+
+E:jeeitunes [10:05 AM]:
+  Both President and the Prime Minister are working on a deal. They don't want
+
+Unknown [10:06 AM]:
+  Did he give you an Apple Watch to record your future conversations
+
+Unknown [10:07 AM]:
+  No, he didn't:)
+
+Unknown [10:07 AM]:
+  But he spoke at length about it
+
+E:jeeitunes [10:07 AM]:
+  About the case, not the watch:)
+
+Unknown [10:08 AM]:
+  He talks a lot doesn't he?
+
+Unknown [10:08 AM]:
+  He will continue raising it in various international fora
+
+Unknown [10:08 AM]:
+  He does
+
+
+======================================================================
+Thursday, November 29, 2018
+======================================================================
+
+Unknown [2:24 PM]:
+  And he likes me. The Foreign minister was our Interpreter
+
+E:jeeitunes [3:45 PM]:
+  Are you OK?
+
+E:jeeitunes [3:45 PM]:
+  great. bad press. silly
+
+E:jeeitunes [4:24 PM]:
+  thx
+
+E:jeeitunes [4:24 PM]:
+  My turn again in the barrel
+
 ```
 
 *[Text truncated to 5000 characters]*

@@ -30,14 +30,11 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 34 shared documents
-- [Bill 
-Clinton](../people/bill-clinton.md) - 24 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 23 shared documents
-- [President Obama](../people/president-obama.md) - 20 shared documents
 - [Middle East](../people/middle-east.md) - 19 shared documents
 - [White House](../people/white-house.md) - 19 shared documents
-- [Mr. Obama](../people/obama.md) - 18 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 17 shared documents
 
 **Organizations:**
 
@@ -68,13 +65,13 @@ Clinton](../people/bill-clinton.md) - 24 shared documents
 - [today](today.md) - 61 shared documents
 - [tomorrow](tomorrow.md) - 39 shared documents
 - [last year](last-year.md) - 38 shared documents
-- [this year](this-year.md) - 31 shared documents
 - [last week](last-week.md) - 31 shared documents
+- [this year](this-year.md) - 31 shared documents
 - [years](years.md) - 30 shared documents
 - [this week](this-week.md) - 29 shared documents
 - [November](november.md) - 26 shared documents
 - [Tuesday](tuesday.md) - 26 shared documents
-- [Wednesday](wednesday.md) - 25 shared documents
+- [August](august.md) - 25 shared documents
 
 ## Timeline
 

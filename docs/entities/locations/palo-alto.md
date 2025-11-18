@@ -39,8 +39,6 @@ Alto](../people/palo-alto.md) - 6 shared documents
 - [Emerson Street](../people/emerson-street.md) - 5 shared documents
 - [Jimmy Carter](../people/jimmy-carter.md) - 5 shared documents
 - [San Francisco](../people/san-francisco.md) - 5 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 5 shared documents
 - [White House](../people/white-house.md) - 5 shared documents
 
 **Organizations:**
@@ -59,12 +57,12 @@ Trump](../people/trump.md) - 5 shared documents
 **Locations:**
 
 - [Washington](washington.md) - 10 shared documents
-- [China](china.md) - 9 shared documents
 - [735 Emerson Street](735-emerson-street.md) - 9 shared documents
+- [China](china.md) - 9 shared documents
 - [the United States](the-united-states.md) - 8 shared documents
-- [Japan](japan.md) - 7 shared documents
-- [France](france.md) - 7 shared documents
 - [England](england.md) - 7 shared documents
+- [France](france.md) - 7 shared documents
+- [Japan](japan.md) - 7 shared documents
 - [Poland](poland.md) - 6 shared documents
 - [the Middle East](the-middle-east.md) - 6 shared documents
 - [Turkey](turkey.md) - 6 shared documents
@@ -72,14 +70,14 @@ Trump](../people/trump.md) - 5 shared documents
 **Events:**
 
 - [2019](../events/2019.md) - 14 shared documents
-- [Monday](../events/monday.md) - 9 shared documents
 - [Friday](../events/friday.md) - 9 shared documents
-- [Thursday](../events/thursday.md) - 7 shared documents
+- [Monday](../events/monday.md) - 9 shared documents
 - [last week](../events/last-week.md) - 7 shared documents
+- [Thursday](../events/thursday.md) - 7 shared documents
 - [Tuesday](../events/tuesday.md) - 7 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [Sunday](../events/sunday.md) - 6 shared documents
 - [one day](../events/one-day.md) - 6 shared documents
+- [Sunday](../events/sunday.md) - 6 shared documents
+- [today](../events/today.md) - 6 shared documents
 - [two years](../events/two-years.md) - 6 shared documents
 
 ## Timeline

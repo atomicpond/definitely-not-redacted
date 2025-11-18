@@ -25,34 +25,34 @@ Top 5 documents by mention frequency:
 **Organizations:**
 
 - [FBI](../organizations/fbi.md) - 5 shared documents
-- [State](../organizations/state.md) - 4 shared documents
-- [Maxwell](../organizations/maxwell.md) - 4 shared documents
 - [Google](../organizations/google.md) - 4 shared documents
+- [Maxwell](../organizations/maxwell.md) - 4 shared documents
+- [State](../organizations/state.md) - 4 shared documents
 - [Vanity Fair](../organizations/vanity-fair.md) - 4 shared documents
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
 - [Australia](../locations/australia.md) - 5 shared documents
 - [England](../locations/england.md) - 5 shared documents
-- [London](../locations/london.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [United States](../locations/united-states.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 4 shared documents
+- [London](../locations/london.md) - 4 shared documents
 - [Miami](../locations/miami.md) - 4 shared documents
 - [Utah](../locations/utah.md) - 4 shared documents
 
 **Events:**
 
 - [2004](../events/2004.md) - 5 shared documents
-- [2009](../events/2009.md) - 5 shared documents
-- [2014](../events/2014.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [daily](../events/daily.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [2010](../events/2010.md) - 5 shared documents
 - [2006](../events/2006.md) - 5 shared documents
-- [2007](../events/2007.md) - 4 shared documents
-- [May](../events/may.md) - 4 shared documents
+- [2009](../events/2009.md) - 5 shared documents
+- [2010](../events/2010.md) - 5 shared documents
+- [2014](../events/2014.md) - 5 shared documents
+- [daily](../events/daily.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
+- [years](../events/years.md) - 5 shared documents
+- [2001](../events/2001.md) - 4 shared documents
+- [2002](../events/2002.md) - 4 shared documents
 
 ## Timeline
 

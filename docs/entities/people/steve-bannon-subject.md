@@ -31,7 +31,7 @@ Top 8 documents by mention frequency:
 
 - [Steve Bannon](steve-bannon.md) - 8 shared documents
 - [Jeffrey E](jeffrey-e.md) - 6 shared documents
-- [Mr. Obama](obama.md) - 5 shared documents
+- [Barack Obama](barack-obama.md) - 5 shared documents
 - [On Sat](on-sat.md) - 5 shared documents
 
 **Organizations:**

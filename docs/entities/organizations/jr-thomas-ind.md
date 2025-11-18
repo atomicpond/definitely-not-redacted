@@ -31,8 +31,8 @@ Top 6 documents by mention frequency:
 - [jeffrey E. <](../people/jeffrey-e.md) - 5 shared documents
 - [Landon](../people/landon.md) - 5 shared documents
 - [Landon Thomas](../people/landon-thomas.md) - 5 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 4 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 4 shared documents
 
 **Organizations:**
 

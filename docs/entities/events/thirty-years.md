@@ -33,7 +33,7 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Los Angeles](../people/los-angeles.md) - 8 shared documents
-- [President Obama](../people/president-obama.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Vanity Fair](../people/vanity-fair.md) - 7 shared documents
 - [Beverly Hills](../people/beverly-hills.md) - 6 shared documents
 
@@ -66,13 +66,13 @@ Top 10 documents by mention frequency:
 - [the year](the-year.md) - 10 shared documents
 - [years](years.md) - 9 shared documents
 - [today](today.md) - 8 shared documents
-- [2012](2012.md) - 8 shared documents
 - [2005](2005.md) - 8 shared documents
+- [2012](2012.md) - 8 shared documents
 - [40](40.md) - 8 shared documents
 - [this year](this-year.md) - 7 shared documents
 - [two days](two-days.md) - 7 shared documents
 - [2000](2000.md) - 7 shared documents
-- [Sunday](sunday.md) - 7 shared documents
+- [Christmas](christmas.md) - 7 shared documents
 
 ## Timeline
 

@@ -12,23 +12,20 @@ This wiki contains:
 
 ## Quick Navigation
 
-### [📄 Documents](documents/)
+### [📄 Documents](documents/index.md)
 Browse all 2,897 documents with full text and metadata
 
-### [👥 People](entities/people/)
-2,195 individuals mentioned in the documents
+### [👥 People](entities/people/index.md)
+2,099 individuals mentioned in the documents
 
-### [🏢 Organizations](entities/organizations/)
+### [🏢 Organizations](entities/organizations/index.md)
 1,882 organizations, companies, and institutions
 
-### [📍 Locations](entities/locations/)
+### [📍 Locations](entities/locations/index.md)
 565 geographic locations and properties
 
-### [📅 Events & Dates](entities/events/)
+### [📅 Events & Dates](entities/events/index.md)
 1,965 significant dates and events
-
-### [🕸️ Relationship Graph](graph.md)
-Interactive network visualization of entity connections
 
 ## Key Entities
 
@@ -54,11 +51,11 @@ is-invitation.md) - 1,648 mentions
 
 **Most Connected Entities:**
 
-1. [today](entities/today/events-today.md) - 2,294 connections
-2. [2008](entities/2008/events-2008.md) - 2,183 connections
-3. [2007](entities/2007/events-2007.md) - 2,170 connections
-4. [2006](entities/2006/events-2006.md) - 2,142 connections
-5. [2009](entities/2009/events-2009.md) - 2,137 connections
+1. [today](entities/events/today.md) - 2,294 connections
+2. [2008](entities/events/2008.md) - 2,183 connections
+3. [2007](entities/events/2007.md) - 2,170 connections
+4. [2006](entities/events/2006.md) - 2,142 connections
+5. [2009](entities/events/2009.md) - 2,137 connections
 
 ## Search
 

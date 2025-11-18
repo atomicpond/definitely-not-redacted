@@ -43,8 +43,8 @@ Top 10 documents by mention frequency:
 **Organizations:**
 
 - [Reuters](reuters.md) - 7 shared documents
-- [HOUSE](house.md) - 7 shared documents
 - [Congress](congress.md) - 7 shared documents
+- [HOUSE](house.md) - 7 shared documents
 - [Trump](trump.md) - 6 shared documents
 - [MSNBC](msnbc.md) - 6 shared documents
 - [New York Times](new-york-times.md) - 5 shared documents
@@ -57,27 +57,26 @@ Top 10 documents by mention frequency:
 
 - [America](../locations/america.md) - 9 shared documents
 - [Miami](../locations/miami.md) - 7 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 6 shared documents
+- [Atlantic](../locations/atlantic.md) - 5 shared documents
 - [Manhattan](../locations/manhattan.md) - 5 shared documents
 - [New York City](../locations/new-york-city.md) - 5 shared documents
-- [Atlantic](../locations/atlantic.md) - 5 shared documents
+- [Russia](../locations/russia.md) - 5 shared documents
 - [U.S](../locations/us.md) - 5 shared documents
-- [California](../locations/california.md) - 4 shared documents
 
 **Events:**
 
+- [2011](../events/2011.md) - 7 shared documents
 - [annual](../events/annual.md) - 7 shared documents
 - [Monday](../events/monday.md) - 7 shared documents
-- [2011](../events/2011.md) - 7 shared documents
 - [2005](../events/2005.md) - 6 shared documents
 - [year](../events/year.md) - 6 shared documents
+- [1977](../events/1977.md) - 5 shared documents
 - [2016](../events/2016.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [this year](../events/this-year.md) - 5 shared documents
 - [2017](../events/2017.md) - 5 shared documents
 - [Friday](../events/friday.md) - 5 shared documents
+- [this year](../events/this-year.md) - 5 shared documents
 
 ## Timeline
 

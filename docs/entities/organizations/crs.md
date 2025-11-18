@@ -27,21 +27,21 @@ Top 8 documents by mention frequency:
 
 **Locations:**
 
-- [Washington](../locations/washington.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 6 shared documents
 - [2012](../events/2012.md) - 5 shared documents
-- [daily](../events/daily.md) - 5 shared documents
 - [2017](../events/2017.md) - 5 shared documents
+- [daily](../events/daily.md) - 5 shared documents
 - [2004](../events/2004.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
-- [monthly](../events/monthly.md) - 4 shared documents
-- [2008](../events/2008.md) - 4 shared documents
 - [2006](../events/2006.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
+- [monthly](../events/monthly.md) - 4 shared documents
 - [one year](../events/one-year.md) - 4 shared documents
+- [years](../events/years.md) - 4 shared documents
 
 ## Timeline
 

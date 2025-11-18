@@ -63,7 +63,7 @@ Top 9 documents by mention frequency:
 - [this year](this-year.md) - 6 shared documents
 - [Thursday](thursday.md) - 6 shared documents
 - [1968](1968.md) - 6 shared documents
-- [2013](2013.md) - 6 shared documents
+- [1980](1980.md) - 6 shared documents
 
 ## Timeline
 

@@ -56,10 +56,10 @@ Top 10 documents by mention frequency:
 - [the end of the year](the-end-of-the-year.md) - 10 shared documents
 - [2009](2009.md) - 9 shared documents
 - [last year](last-year.md) - 9 shared documents
-- [last week](last-week.md) - 8 shared documents
-- [2011](2011.md) - 8 shared documents
 - [2010](2010.md) - 8 shared documents
+- [2011](2011.md) - 8 shared documents
 - [2013](2013.md) - 8 shared documents
+- [last week](last-week.md) - 8 shared documents
 - [year](year.md) - 7 shared documents
 
 ## Timeline

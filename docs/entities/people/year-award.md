@@ -22,38 +22,31 @@ Top 5 documents by mention frequency:
 
 ### Most Frequently Co-occurring Entities
 
-**Organizations:**
-
-- [NASA](../organizations/nasa.md) - 4 shared documents
-- [Harvard](../organizations/harvard.md) - 4 shared documents
-- [the New York Times](../organizations/the-new-york-times.md) - 4 shared documents
-- [Time](../organizations/time.md) - 4 shared documents
-
 **Locations:**
 
-- [New York](../locations/new-york.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
-- [U.S.](../locations/us.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
+- [Boston](../locations/boston.md) - 4 shared documents
+- [Cambridge](../locations/cambridge.md) - 4 shared documents
 - [China](../locations/china.md) - 4 shared documents
+- [England](../locations/england.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
 - [Germany](../locations/germany.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
+- [India](../locations/india.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
 
 **Events:**
 
+- [1976](../events/1976.md) - 4 shared documents
+- [1994](../events/1994.md) - 4 shared documents
+- [1997](../events/1997.md) - 4 shared documents
+- [1999](../events/1999.md) - 4 shared documents
+- [2001](../events/2001.md) - 4 shared documents
+- [2002](../events/2002.md) - 4 shared documents
 - [2003](../events/2003.md) - 4 shared documents
 - [2004](../events/2004.md) - 4 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [the 1980s](../events/the-1980s.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [2012](../events/2012.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
-- [summer](../events/summer.md) - 4 shared documents
-- [the year](../events/the-year.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
+- [2006](../events/2006.md) - 4 shared documents
 
 ## Timeline
 

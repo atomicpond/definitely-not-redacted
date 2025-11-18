@@ -9,14 +9,14 @@
 ## Entities Mentioned
 
 ### People
-- [Ms. Ruemmler](../entities/people/ms-ruemmler.md) - 20 mentions
+- [Ms. Ruemmler](../entities/people/kathy-ruemmler.md) - 20 mentions
 - [White House Counsel](../entities/people/white-house-counsel.md) - 7 mentions
 - [Kathy](../entities/people/kathy.md) - 6 mentions
 - [White House](../entities/people/white-house.md) - 5 mentions
 - [Kathryn Ruemmler](../entities/people/kathryn-ruemmler.md) - 5 mentions
 - [Jamie](../entities/people/jamie.md) - 4 mentions
 - [President Obama](../entities/people/president-obama.md) - 3 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 3 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 3 mentions
 - [New
 York](../entities/people/new-york.md) - 3 mentions
 - [Abu Dhabi](../entities/people/abu-dhabi.md) - 2 mentions

@@ -33,7 +33,7 @@ Top 10 documents by mention frequency:
 - [Robert Maxwell](../people/robert-maxwell.md) - 29 shared documents
 - [Middle East](../people/middle-east.md) - 26 shared documents
 - [Jeffrey](../people/jeffrey.md) - 25 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 25 shared documents
+- [Warren Buffett](../people/warren-buffett.md) - 24 shared documents
 
 **Organizations:**
 
@@ -69,7 +69,7 @@ Top 10 documents by mention frequency:
 - [two years](two-years.md) - 35 shared documents
 - [2004](2004.md) - 35 shared documents
 - [daily](daily.md) - 35 shared documents
-- [last year](last-year.md) - 33 shared documents
+- [2002](2002.md) - 33 shared documents
 
 ## Timeline
 

@@ -50,26 +50,19 @@ Top 10 documents by mention frequency:
 - [Washington](../locations/washington.md) - 7 shared documents
 - [America](../locations/america.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 6 shared documents
-- [California](../locations/california.md) - 5 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
-- [D.C.](../locations/dc.md) - 5 shared documents
-- [France](../locations/france.md) - 5 shared documents
 
 **Events:**
 
+- [2011](../events/2011.md) - 8 shared documents
 - [2012](../events/2012.md) - 8 shared documents
 - [years](../events/years.md) - 8 shared documents
-- [2011](../events/2011.md) - 8 shared documents
+- [2008](../events/2008.md) - 7 shared documents
 - [annual](../events/annual.md) - 7 shared documents
 - [daily](../events/daily.md) - 7 shared documents
-- [2008](../events/2008.md) - 7 shared documents
-- [2014](../events/2014.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [monthly](../events/monthly.md) - 6 shared documents
+- [2002](../events/2002.md) - 6 shared documents
 - [2006](../events/2006.md) - 6 shared documents
+- [2014](../events/2014.md) - 6 shared documents
+- [decades](../events/decades.md) - 6 shared documents
 
 ## Timeline
 

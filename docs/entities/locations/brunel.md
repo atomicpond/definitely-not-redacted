@@ -37,9 +37,9 @@ Top 10 documents by mention frequency:
 - [Alfredo Rodriguez](../people/alfredo-rodriguez.md) - 12 shared documents
 - [Robert Maxwell](../people/robert-maxwell.md) - 11 shared documents
 - [Vanity Fair](../people/vanity-fair.md) - 11 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 10 shared documents
 - [El Brillo Way](../people/el-brillo-way.md) - 10 shared documents
 - [Jack Goldberger](../people/jack-goldberger.md) - 9 shared documents
+- [Jack Scarola](../people/jack-scarola.md) - 9 shared documents
 
 **Organizations:**
 
@@ -69,15 +69,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [daily](../events/daily.md) - 14 shared documents
-- [today](../events/today.md) - 13 shared documents
 - [the day](../events/the-day.md) - 13 shared documents
+- [today](../events/today.md) - 13 shared documents
+- [2005](../events/2005.md) - 12 shared documents
 - [2007](../events/2007.md) - 12 shared documents
 - [2009](../events/2009.md) - 12 shared documents
-- [2005](../events/2005.md) - 12 shared documents
 - [2010](../events/2010.md) - 12 shared documents
 - [2004](../events/2004.md) - 11 shared documents
-- [years](../events/years.md) - 11 shared documents
 - [2011](../events/2011.md) - 11 shared documents
+- [years](../events/years.md) - 11 shared documents
 
 ## Timeline
 

@@ -59,8 +59,8 @@ Top 10 documents by mention frequency:
 - [Paris](../locations/paris.md) - 32 shared documents
 - [Miami](../locations/miami.md) - 31 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 31 shared documents
-- [the United States](../locations/the-united-states.md) - 26 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 26 shared documents
+- [the United States](../locations/the-united-states.md) - 26 shared documents
 - [United States](../locations/united-states.md) - 25 shared documents
 
 **Events:**
@@ -69,10 +69,10 @@ Top 10 documents by mention frequency:
 - [2002](../events/2002.md) - 31 shared documents
 - [18 months](../events/18-months.md) - 29 shared documents
 - [2004](../events/2004.md) - 28 shared documents
-- [Sunday](../events/sunday.md) - 26 shared documents
 - [14](../events/14.md) - 26 shared documents
+- [Sunday](../events/sunday.md) - 26 shared documents
 - [the day](../events/the-day.md) - 26 shared documents
-- [today](../events/today.md) - 25 shared documents
+- [2005](../events/2005.md) - 25 shared documents
 - [daily](../events/daily.md) - 25 shared documents
 - [last year](../events/last-year.md) - 25 shared documents
 

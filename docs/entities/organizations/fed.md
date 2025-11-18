@@ -37,9 +37,9 @@ Top 10 documents by mention frequency:
 - [San Francisco](../people/san-francisco.md) - 16 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 16 shared documents
 - [America Merrill Lynch](../people/america-merrill-lynch.md) - 15 shared documents
-- [Barack Obama](../people/barack-obama.md) - 15 shared documents
-- [President Obama](../people/president-obama.md) - 15 shared documents
 - [Jane Doe](../people/jane-doe.md) - 14 shared documents
+- [Merrill Lynch](../people/merrill-lynch.md) - 14 shared documents
+- [New Mexico](../people/new-mexico.md) - 14 shared documents
 
 **Organizations:**
 
@@ -60,8 +60,8 @@ Top 10 documents by mention frequency:
 - [Japan](../locations/japan.md) - 47 shared documents
 - [the United States](../locations/the-united-states.md) - 46 shared documents
 - [United States](../locations/united-states.md) - 42 shared documents
-- [New York](../locations/new-york.md) - 40 shared documents
 - [China](../locations/china.md) - 40 shared documents
+- [New York](../locations/new-york.md) - 40 shared documents
 - [London](../locations/london.md) - 39 shared documents
 - [Spain](../locations/spain.md) - 39 shared documents
 - [California](../locations/california.md) - 36 shared documents
@@ -73,10 +73,10 @@ Top 10 documents by mention frequency:
 - [2001](../events/2001.md) - 44 shared documents
 - [this year](../events/this-year.md) - 41 shared documents
 - [2000](../events/2000.md) - 39 shared documents
-- [2015](../events/2015.md) - 38 shared documents
 - [2006](../events/2006.md) - 38 shared documents
-- [years](../events/years.md) - 37 shared documents
+- [2015](../events/2015.md) - 38 shared documents
 - [2008](../events/2008.md) - 37 shared documents
+- [years](../events/years.md) - 37 shared documents
 - [2009](../events/2009.md) - 36 shared documents
 - [2010](../events/2010.md) - 35 shared documents
 

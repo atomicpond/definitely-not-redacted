@@ -16,7 +16,7 @@
 Trump](../entities/people/donald-trump.md) - 2 mentions
 - [Tarek El Sayed](../entities/people/tarek-el-sayed.md) - 2 mentions
 - [Bartakowski](../entities/people/bartakowski.md) - 2 mentions
-- [Mr. Jafahri](../entities/people/mr-jafahri.md) - 2 mentions
+- [Mr. Jafahri](../entities/people/jafahri.md) - 2 mentions
 - [El Sayed](../entities/people/el-sayed.md) - 2 mentions
 - [Tarek](../entities/people/tarek.md) - 2 mentions
 - [Mr Trump](../entities/people/mr-trump.md) - 1 mention

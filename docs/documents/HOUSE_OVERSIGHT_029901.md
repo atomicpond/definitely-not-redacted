@@ -13,7 +13,7 @@
 - [Daniel Kahneman](../entities/people/daniel-kahneman.md) - 1 mention
 - [Happy New Year](../entities/people/happy-new-year.md) - 1 mention
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [CLINTON](../entities/people/clinton.md) - 1 mention
 - [New 
 York Times](../entities/people/new-york-times.md) - 1 mention

@@ -29,8 +29,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Jeffrey Epstein](jeffrey-epstein.md) - 7 shared documents
-- [Epstein](epstein.md) - 5 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 5 shared documents
 
 **Organizations:**
 
@@ -39,8 +38,8 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
-- [yesterday](../events/yesterday.md) - 4 shared documents
 - [14-year-old](../events/14-year-old.md) - 4 shared documents
+- [yesterday](../events/yesterday.md) - 4 shared documents
 
 ## Timeline
 

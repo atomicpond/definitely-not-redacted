@@ -46,12 +46,11 @@ Elwell](../people/peter-elwell.md) - 10 shared documents
 - [State](state.md) - 15 shared documents
 - [FBI](fbi.md) - 10 shared documents
 - [Harvard](harvard.md) - 10 shared documents
-- [the Palm Beach Police Department](the-palm-beach-police-department.md) - 10 shared documents
 - [Palm 
 Beach Atlantic University](palm-beach-atlantic-university.md) - 10 shared documents
-- [the Town of Palm Beach](the-town-of-palm-beach.md) - 9 shared documents
+- [the Palm Beach Police Department](the-palm-beach-police-department.md) - 10 shared documents
 - [Cokes](cokes.md) - 9 shared documents
-- [Harvard Law School](harvard-law-school.md) - 8 shared documents
+- [the Town of Palm Beach](the-town-of-palm-beach.md) - 9 shared documents
 - [Trump Properties](trump-properties.md) - 6 shared documents
 - [Town Council](town-council.md) - 5 shared documents
 
@@ -61,23 +60,21 @@ Beach Atlantic University](palm-beach-atlantic-university.md) - 10 shared docume
 - [Palm Beach County](../locations/palm-beach-county.md) - 15 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 11 shared documents
 - [Posh Palm Beach](../locations/posh-palm-beach.md) - 10 shared documents
-- [Quantico](../locations/quantico.md) - 9 shared documents
 - [Palm Beach County Jail](../locations/palm-beach-county-jail.md) - 9 shared documents
-- [Florida](../locations/florida.md) - 8 shared documents
-- [Miami](../locations/miami.md) - 8 shared documents
+- [Quantico](../locations/quantico.md) - 9 shared documents
 
 **Events:**
 
 - [last year](../events/last-year.md) - 13 shared documents
 - [next week](../events/next-week.md) - 11 shared documents
-- [October](../events/october.md) - 10 shared documents
-- [1984](../events/1984.md) - 10 shared documents
-- [last month](../events/last-month.md) - 10 shared documents
-- [yesterday](../events/yesterday.md) - 10 shared documents
-- [May 1](../events/may-1.md) - 10 shared documents
 - [14](../events/14.md) - 10 shared documents
+- [18](../events/18.md) - 10 shared documents
 - [1981](../events/1981.md) - 10 shared documents
+- [1984](../events/1984.md) - 10 shared documents
 - [1991](../events/1991.md) - 10 shared documents
+- [24 years](../events/24-years.md) - 10 shared documents
+- [32 years](../events/32-years.md) - 10 shared documents
+- [48](../events/48.md) - 10 shared documents
 
 ## Timeline
 

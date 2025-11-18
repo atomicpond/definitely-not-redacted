@@ -40,9 +40,9 @@ Top 6 documents by mention frequency:
 
 - [today](today.md) - 5 shared documents
 - [years](years.md) - 5 shared documents
-- [annual](annual.md) - 5 shared documents
-- [1999](1999.md) - 5 shared documents
 - [17 years](17-years.md) - 5 shared documents
+- [1999](1999.md) - 5 shared documents
+- [annual](annual.md) - 5 shared documents
 - [the years](the-years.md) - 4 shared documents
 - [two days later](two-days-later.md) - 4 shared documents
 - [Wednesday](wednesday.md) - 4 shared documents

@@ -24,23 +24,23 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Japan](../locations/japan.md) - 5 shared documents
 - [Brazil](../locations/brazil.md) - 5 shared documents
 - [Canada](../locations/canada.md) - 5 shared documents
-- [New York, NY](../locations/new-york-ny.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
 - [Dubai](../locations/dubai.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
-- [Miami](../locations/miami.md) - 4 shared documents
 - [India](../locations/india.md) - 4 shared documents
+- [Miami](../locations/miami.md) - 4 shared documents
+- [New York, NY](../locations/new-york-ny.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 4 shared documents
 
 **Events:**
 
-- [2015](../events/2015.md) - 5 shared documents
 - [2000](../events/2000.md) - 5 shared documents
+- [2015](../events/2015.md) - 5 shared documents
+- [1997](../events/1997.md) - 4 shared documents
 - [2004](../events/2004.md) - 4 shared documents
 - [2012](../events/2012.md) - 4 shared documents
 - [2020](../events/2020.md) - 4 shared documents
-- [1997](../events/1997.md) - 4 shared documents
 
 ## Timeline
 

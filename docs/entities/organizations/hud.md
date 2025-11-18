@@ -34,8 +34,8 @@ Top 6 documents by mention frequency:
 
 **Events:**
 
-- [annual](../events/annual.md) - 4 shared documents
 - [2000](../events/2000.md) - 4 shared documents
+- [annual](../events/annual.md) - 4 shared documents
 
 ## Timeline
 

@@ -28,10 +28,10 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
+- [1981](1981.md) - 4 shared documents
 - [2009](2009.md) - 4 shared documents
 - [2010](2010.md) - 4 shared documents
 - [one year](one-year.md) - 4 shared documents
-- [1981](1981.md) - 4 shared documents
 
 ## Timeline
 

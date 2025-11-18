@@ -11,7 +11,7 @@
 ### People
 - [Bard College](../entities/people/bard-college.md) - 4 mentions
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 4 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 4 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 4 mentions
 - [New Jersey](../entities/people/new-jersey.md) - 3 mentions
 - [President Obama](../entities/people/president-obama.md) - 2 mentions
 - [New York 

@@ -44,28 +44,28 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [United States](../locations/united-states.md) - 9 shared documents
-- [Japan](../locations/japan.md) - 7 shared documents
 - [Canada](../locations/canada.md) - 7 shared documents
-- [Virginia](../locations/virginia.md) - 7 shared documents
 - [India](../locations/india.md) - 7 shared documents
-- [New York](../locations/new-york.md) - 6 shared documents
-- [New York, NY](../locations/new-york-ny.md) - 6 shared documents
+- [Japan](../locations/japan.md) - 7 shared documents
+- [Virginia](../locations/virginia.md) - 7 shared documents
 - [Dubai](../locations/dubai.md) - 6 shared documents
 - [Florida](../locations/florida.md) - 6 shared documents
+- [New York](../locations/new-york.md) - 6 shared documents
+- [New York, NY](../locations/new-york-ny.md) - 6 shared documents
 - [Philadelphia](../locations/philadelphia.md) - 6 shared documents
 
 **Events:**
 
-- [2015](../events/2015.md) - 9 shared documents
-- [2012](../events/2012.md) - 9 shared documents
 - [2002](../events/2002.md) - 9 shared documents
+- [2012](../events/2012.md) - 9 shared documents
+- [2015](../events/2015.md) - 9 shared documents
 - [1993](../events/1993.md) - 8 shared documents
 - [1999](../events/1999.md) - 8 shared documents
 - [1986](../events/1986.md) - 7 shared documents
-- [2004](../events/2004.md) - 7 shared documents
-- [2000](../events/2000.md) - 7 shared documents
-- [the year](../events/the-year.md) - 7 shared documents
+- [1987](../events/1987.md) - 7 shared documents
+- [1989](../events/1989.md) - 7 shared documents
 - [1990](../events/1990.md) - 7 shared documents
+- [1995](../events/1995.md) - 7 shared documents
 
 ## Timeline
 

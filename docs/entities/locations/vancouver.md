@@ -51,26 +51,26 @@ Sent](../people/reid-sent.md) - 5 shared documents
 - [California](california.md) - 6 shared documents
 - [Canada](canada.md) - 6 shared documents
 - [Sat](sat.md) - 6 shared documents
-- [New York](new-york.md) - 5 shared documents
-- [Los Angeles](los-angeles.md) - 5 shared documents
-- [Chicago](chicago.md) - 5 shared documents
-- [New York City](new-york-city.md) - 5 shared documents
 - [Atlanta](atlanta.md) - 5 shared documents
-- [Miami](miami.md) - 5 shared documents
+- [Chicago](chicago.md) - 5 shared documents
 - [Hawaii](hawaii.md) - 5 shared documents
+- [Los Angeles](los-angeles.md) - 5 shared documents
+- [Miami](miami.md) - 5 shared documents
+- [New York](new-york.md) - 5 shared documents
+- [New York City](new-york-city.md) - 5 shared documents
 
 **Events:**
 
 - [Monday](../events/monday.md) - 7 shared documents
 - [tomorrow](../events/tomorrow.md) - 7 shared documents
-- [today](../events/today.md) - 6 shared documents
 - [Mar 24, 2018](../events/mar-24-2018.md) - 6 shared documents
 - [March 24, 2018](../events/march-24-2018.md) - 6 shared documents
 - [Saturday, March 24, 2018](../events/saturday-march-24-2018.md) - 6 shared documents
+- [today](../events/today.md) - 6 shared documents
 - [2004](../events/2004.md) - 5 shared documents
 - [2010](../events/2010.md) - 5 shared documents
 - [Friday](../events/friday.md) - 5 shared documents
-- [2000](../events/2000.md) - 4 shared documents
+- [1987](../events/1987.md) - 4 shared documents
 
 ## Timeline
 

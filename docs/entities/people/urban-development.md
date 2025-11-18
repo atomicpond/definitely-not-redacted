@@ -24,7 +24,7 @@ Top 5 documents by mention frequency:
 
 **People:**
 
-- [President Obama](president-obama.md) - 4 shared documents
+- [Barack Obama](barack-obama.md) - 4 shared documents
 
 **Organizations:**
 

@@ -31,9 +31,9 @@ Sent](jonathan-sent.md) - 5 shared documents
 
 **Events:**
 
+- [12/7/2016](../events/1272016.md) - 5 shared documents
 - [2016](../events/2016.md) - 5 shared documents
 - [next month](../events/next-month.md) - 5 shared documents
-- [12/7/2016](../events/1272016.md) - 5 shared documents
 
 ## Timeline
 

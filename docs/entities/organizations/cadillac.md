@@ -29,28 +29,28 @@ Top 9 documents by mention frequency:
 **Locations:**
 
 - [Spain](../locations/spain.md) - 6 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
 - [France](../locations/france.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Germany](../locations/germany.md) - 5 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 5 shared documents
 - [Sweden](../locations/sweden.md) - 5 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
 - [Africa](../locations/africa.md) - 4 shared documents
+- [America](../locations/america.md) - 4 shared documents
+- [Australia](../locations/australia.md) - 4 shared documents
 
 **Events:**
 
+- [decades](../events/decades.md) - 6 shared documents
+- [months](../events/months.md) - 6 shared documents
 - [today](../events/today.md) - 6 shared documents
 - [years](../events/years.md) - 6 shared documents
-- [months](../events/months.md) - 6 shared documents
-- [decades](../events/decades.md) - 6 shared documents
-- [annual](../events/annual.md) - 5 shared documents
-- [Sunday](../events/sunday.md) - 5 shared documents
+- [1976](../events/1976.md) - 5 shared documents
+- [1981](../events/1981.md) - 5 shared documents
 - [1990](../events/1990.md) - 5 shared documents
 - [1993](../events/1993.md) - 5 shared documents
-- [tomorrow](../events/tomorrow.md) - 5 shared documents
-- [two years](../events/two-years.md) - 5 shared documents
+- [1995](../events/1995.md) - 5 shared documents
+- [annual](../events/annual.md) - 5 shared documents
 
 ## Timeline
 

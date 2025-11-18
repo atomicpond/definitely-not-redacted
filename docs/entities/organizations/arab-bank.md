@@ -35,23 +35,23 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 5 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 5 shared documents
 - [Jordan](../locations/jordan.md) - 5 shared documents
-- [Virginia](../locations/virginia.md) - 5 shared documents
 - [Philadelphia](../locations/philadelphia.md) - 5 shared documents
 - [Sudan](../locations/sudan.md) - 5 shared documents
-- [Afghanistan](../locations/afghanistan.md) - 5 shared documents
+- [United States](../locations/united-states.md) - 5 shared documents
+- [Virginia](../locations/virginia.md) - 5 shared documents
 - [Dubai](../locations/dubai.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
+- [Gulf](../locations/gulf.md) - 4 shared documents
 - [Iraq](../locations/iraq.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
+- [Israel](../locations/israel.md) - 4 shared documents
 
 **Events:**
 
-- [2000](../events/2000.md) - 5 shared documents
+- [1983](../events/1983.md) - 5 shared documents
 - [1989](../events/1989.md) - 5 shared documents
 - [1992](../events/1992.md) - 5 shared documents
-- [1983](../events/1983.md) - 5 shared documents
+- [2000](../events/2000.md) - 5 shared documents
 - [2004](../events/2004.md) - 4 shared documents
 
 ## Timeline

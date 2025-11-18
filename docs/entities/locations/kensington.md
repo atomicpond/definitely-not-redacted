@@ -29,14 +29,13 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Bradley Edwards](../people/bradley-edwards.md) - 14 shared documents
 - [W8 5TT](../people/w8-5tt.md) - 11 shared documents
 - [Liz Hartley](../people/liz-hartley.md) - 10 shared documents
 - [Nick Pyke](../people/nick-pyke.md) - 10 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 7 shared documents
 - [Dear Sirs](../people/dear-sirs.md) - 7 shared documents
 - [Derry St](../people/derry-st.md) - 7 shared documents
 - [Fred Haddad](../people/fred-haddad.md) - 7 shared documents
-- [Mr Bradley Edwards](../people/mr-bradley-edwards.md) - 7 shared documents
 - [Mr Edwards](../people/mr-edwards.md) - 7 shared documents
 - [Redacted 
 Sent](../people/redacted-sent.md) - 5 shared documents
@@ -58,12 +57,12 @@ Sent](../people/redacted-sent.md) - 5 shared documents
 
 **Events:**
 
-- [Sunday](../events/sunday.md) - 13 shared documents
 - [Saturday](../events/saturday.md) - 13 shared documents
+- [Sunday](../events/sunday.md) - 13 shared documents
 - [age 17](../events/age-17.md) - 11 shared documents
 - [October 18, 2013](../events/october-18-2013.md) - 11 shared documents
-- [today](../events/today.md) - 7 shared documents
 - [Oct 18, 2013](../events/oct-18-2013.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
 - [10/19/2013](../events/10-19-2013.md) - 5 shared documents
 - [2003](../events/2003.md) - 4 shared documents
 - [2004](../events/2004.md) - 4 shared documents

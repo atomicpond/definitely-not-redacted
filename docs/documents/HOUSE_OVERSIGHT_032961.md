@@ -13,7 +13,7 @@
 - [Landon](../entities/people/landon.md) - 2 mentions
 - [Financial Reporter](../entities/people/financial-reporter.md) - 2 mentions
 - [jr thomas](../entities/people/jr-thomas.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [barrack](../entities/people/barrack.md) - 1 mention
 - [Landon 
 Subject](../entities/people/landon-subject.md) - 1 mention

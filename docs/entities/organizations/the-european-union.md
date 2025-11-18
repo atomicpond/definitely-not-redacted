@@ -35,17 +35,17 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 21 shared documents
-- [Barack Obama](../people/barack-obama.md) - 20 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 17 shared documents
 - [White House](../people/white-house.md) - 15 shared documents
 - [European 
 Union](../people/european-union.md) - 13 shared documents
-- [President Obama](../people/president-obama.md) - 13 shared documents
 - [Security Council](../people/security-council.md) - 12 shared documents
 - [Bashar al-Assad](../people/bashar-al-assad.md) - 11 shared documents
 - [United 
 States](../people/united-states.md) - 10 shared documents
 - [West Bank](../people/west-bank.md) - 9 shared documents
+- [Barack Obama](../people/barack-obama.md) - 8 shared documents
+- [Hosni Mubarak](../people/hosni-mubarak.md) - 8 shared documents
 
 **Organizations:**
 
@@ -64,8 +64,8 @@ States](../people/united-states.md) - 10 shared documents
 
 - [China](../locations/china.md) - 26 shared documents
 - [France](../locations/france.md) - 24 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 22 shared documents
 - [Iran](../locations/iran.md) - 22 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 22 shared documents
 - [the United States](../locations/the-united-states.md) - 22 shared documents
 - [Europe](../locations/europe.md) - 21 shared documents
 - [Iraq](../locations/iraq.md) - 21 shared documents
@@ -78,13 +78,13 @@ States](../people/united-states.md) - 10 shared documents
 - [today](../events/today.md) - 24 shared documents
 - [2012](../events/2012.md) - 17 shared documents
 - [2009](../events/2009.md) - 16 shared documents
-- [2015](../events/2015.md) - 16 shared documents
 - [2013](../events/2013.md) - 16 shared documents
+- [2015](../events/2015.md) - 16 shared documents
 - [this year](../events/this-year.md) - 15 shared documents
 - [2003](../events/2003.md) - 14 shared documents
 - [decades](../events/decades.md) - 14 shared documents
-- [annual](../events/annual.md) - 13 shared documents
-- [years](../events/years.md) - 13 shared documents
+- [2006](../events/2006.md) - 13 shared documents
+- [2010](../events/2010.md) - 13 shared documents
 
 ## Timeline
 

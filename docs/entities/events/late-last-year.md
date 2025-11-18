@@ -25,12 +25,12 @@ Top 5 documents by mention frequency:
 **Events:**
 
 - [today](today.md) - 5 shared documents
-- [2018](2018.md) - 4 shared documents
-- [2015](2015.md) - 4 shared documents
-- [last year](last-year.md) - 4 shared documents
-- [December](december.md) - 4 shared documents
 - [2013](2013.md) - 4 shared documents
+- [2015](2015.md) - 4 shared documents
+- [2018](2018.md) - 4 shared documents
+- [December](december.md) - 4 shared documents
 - [five-year](five-year.md) - 4 shared documents
+- [last year](last-year.md) - 4 shared documents
 
 ## Timeline
 

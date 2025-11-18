@@ -34,16 +34,16 @@ Top 7 documents by mention frequency:
 **Locations:**
 
 - [Florida](../locations/florida.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
 - [Miami](../locations/miami.md) - 4 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
 
 **Events:**
 
+- [14](../events/14.md) - 4 shared documents
+- [1990](../events/1990.md) - 4 shared documents
 - [2004](../events/2004.md) - 4 shared documents
 - [2007](../events/2007.md) - 4 shared documents
-- [1990](../events/1990.md) - 4 shared documents
-- [14](../events/14.md) - 4 shared documents
 
 ## Timeline
 

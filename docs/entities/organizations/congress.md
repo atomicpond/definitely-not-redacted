@@ -31,17 +31,12 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 68 shared documents
-- [President Obama](../people/president-obama.md) - 53 shared documents
 - [Middle East](../people/middle-east.md) - 50 shared documents
-- [Barack Obama](../people/barack-obama.md) - 49 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 49 shared documents
-- [Mr. Obama](../people/obama.md) - 46 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 43 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 34 shared documents
-- [President Trump](../people/president-trump.md) - 34 shared documents
 - [United 
 States](../people/united-states.md) - 28 shared documents
+- [Jeffrey E](../people/jeffrey-e.md) - 26 shared documents
+- [Hillary Clinton](../people/hillary-clinton.md) - 24 shared documents
 
 **Organizations:**
 
@@ -51,10 +46,10 @@ States](../people/united-states.md) - 28 shared documents
 - [Senate](senate.md) - 63 shared documents
 - [State](state.md) - 58 shared documents
 - [FBI](fbi.md) - 47 shared documents
-- [CIA](cia.md) - 46 shared documents
 - [White House](white-house.md) - 45 shared documents
 - [the Justice Department](the-justice-department.md) - 43 shared documents
 - [Fed](fed.md) - 40 shared documents
+- [the New York Times](the-new-york-times.md) - 40 shared documents
 
 **Locations:**
 
@@ -62,8 +57,8 @@ States](../people/united-states.md) - 28 shared documents
 - [Washington](../locations/washington.md) - 94 shared documents
 - [Russia](../locations/russia.md) - 80 shared documents
 - [China](../locations/china.md) - 78 shared documents
-- [Europe](../locations/europe.md) - 76 shared documents
 - [America](../locations/america.md) - 76 shared documents
+- [Europe](../locations/europe.md) - 76 shared documents
 - [US](../locations/us.md) - 72 shared documents
 - [Germany](../locations/germany.md) - 66 shared documents
 - [United States](../locations/united-states.md) - 65 shared documents
@@ -74,8 +69,8 @@ States](../people/united-states.md) - 28 shared documents
 - [today](../events/today.md) - 92 shared documents
 - [2012](../events/2012.md) - 71 shared documents
 - [years](../events/years.md) - 67 shared documents
-- [this year](../events/this-year.md) - 61 shared documents
 - [2008](../events/2008.md) - 61 shared documents
+- [this year](../events/this-year.md) - 61 shared documents
 - [annual](../events/annual.md) - 60 shared documents
 - [2009](../events/2009.md) - 57 shared documents
 - [2013](../events/2013.md) - 57 shared documents

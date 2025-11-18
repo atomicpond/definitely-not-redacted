@@ -37,8 +37,8 @@ Top 10 documents by mention frequency:
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 8 shared documents
-- [Trump](../organizations/trump.md) - 5 shared documents
 - [the White House](../organizations/the-white-house.md) - 5 shared documents
+- [Trump](../organizations/trump.md) - 5 shared documents
 - [AT&T](../organizations/att.md) - 4 shared documents
 - [BlackBerry](../organizations/blackberry.md) - 4 shared documents
 
@@ -48,8 +48,8 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
-- [today](../events/today.md) - 4 shared documents
 - [Friday](../events/friday.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

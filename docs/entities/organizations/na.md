@@ -27,15 +27,15 @@ Top 6 documents by mention frequency:
 **Organizations:**
 
 - [SIPC](sipc.md) - 5 shared documents
-- [FINRA](finra.md) - 5 shared documents
 - [FDIC](fdic.md) - 5 shared documents
+- [FINRA](finra.md) - 5 shared documents
 
 **Locations:**
 
 - [China](../locations/china.md) - 5 shared documents
 - [US](../locations/us.md) - 5 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
 - [Asia](../locations/asia.md) - 4 shared documents
+- [Europe](../locations/europe.md) - 4 shared documents
 - [Latin America](../locations/latin-america.md) - 4 shared documents
 
 **Events:**

@@ -36,42 +36,29 @@ Top 6 documents by mention frequency:
 - [Merrill Lynch Capital](merrill-lynch-capital.md) - 6 shared documents
 - [Merrill Lynch Equities](merrill-lynch-equities.md) - 6 shared documents
 
-**Organizations:**
-
-- [Merrill Lynch](../organizations/merrill-lynch.md) - 6 shared documents
-- [Pierce, Fenner & Smith Incorporated](../organizations/pierce-fenner-smith-incorporated.md) - 6 shared documents
-- [Bank of America Merrill Lynch](../organizations/bank-of-america-merrill-lynch.md) - 6 shared documents
-- [BofA Merrill Lynch Global Research](../organizations/bofa-merrill-lynch-global-research.md) - 6 shared documents
-- [Bank of America](../organizations/bank-of-america.md) - 6 shared documents
-- [Bank of America
-Corporation](../organizations/bank-of-america-corporation.md) - 6 shared documents
-- [Bloomberg](../organizations/bloomberg.md) - 6 shared documents
-- [BofA Merrill Lynch](../organizations/bofa-merrill-lynch.md) - 6 shared documents
-- [Merrill Lynch Global Wealth Management](../organizations/merrill-lynch-global-wealth-management.md) - 6 shared documents
-
 **Locations:**
 
-- [Dubai](../locations/dubai.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
+- [Argentina](../locations/argentina.md) - 6 shared documents
+- [Asia](../locations/asia.md) - 6 shared documents
+- [Australia](../locations/australia.md) - 6 shared documents
+- [BaFin](../locations/bafin.md) - 6 shared documents
 - [Brazil](../locations/brazil.md) - 6 shared documents
 - [Canada](../locations/canada.md) - 6 shared documents
+- [Dubai](../locations/dubai.md) - 6 shared documents
 - [Germany](../locations/germany.md) - 6 shared documents
-- [Mexico](../locations/mexico.md) - 6 shared documents
-- [Asia](../locations/asia.md) - 6 shared documents
-- [Israel](../locations/israel.md) - 6 shared documents
-- [Australia](../locations/australia.md) - 6 shared documents
+- [Hong Kong](../locations/hong-kong.md) - 6 shared documents
+- [India](../locations/india.md) - 6 shared documents
 
 **Events:**
 
-- [2017](../events/2017.md) - 6 shared documents
-- [2001](../events/2001.md) - 6 shared documents
-- [5-year](../events/5-year.md) - 6 shared documents
-- [1959](../events/1959.md) - 6 shared documents
-- [the day](../events/the-day.md) - 6 shared documents
 - [12-month](../events/12-month.md) - 6 shared documents
+- [1959](../events/1959.md) - 6 shared documents
 - [198602883D](../events/198602883d.md) - 6 shared documents
+- [2001](../events/2001.md) - 6 shared documents
+- [2017](../events/2017.md) - 6 shared documents
+- [5-year](../events/5-year.md) - 6 shared documents
 - [8 - same](../events/8-same.md) - 6 shared documents
+- [the day](../events/the-day.md) - 6 shared documents
 - [the last 12 months](../events/the-last-12-months.md) - 6 shared documents
 - [the last day](../events/the-last-day.md) - 6 shared documents
 

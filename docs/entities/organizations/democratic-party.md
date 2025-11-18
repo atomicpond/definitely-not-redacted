@@ -31,8 +31,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 6 shared documents
-- [Barack Obama](../people/barack-obama.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Cold War](../people/cold-war.md) - 4 shared documents
 - [Federal Bureau](../people/federal-bureau.md) - 4 shared documents
 - [New Mexico](../people/new-mexico.md) - 4 shared documents
@@ -57,27 +56,27 @@ Top 10 documents by mention frequency:
 
 - [Russia](../locations/russia.md) - 8 shared documents
 - [the United States](../locations/the-united-states.md) - 8 shared documents
-- [Germany](../locations/germany.md) - 7 shared documents
 - [America](../locations/america.md) - 7 shared documents
+- [Britain](../locations/britain.md) - 7 shared documents
+- [Germany](../locations/germany.md) - 7 shared documents
 - [Israel](../locations/israel.md) - 7 shared documents
 - [Paris](../locations/paris.md) - 7 shared documents
-- [Britain](../locations/britain.md) - 7 shared documents
 - [California](../locations/california.md) - 6 shared documents
 - [Europe](../locations/europe.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
+- [France](../locations/france.md) - 6 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 9 shared documents
+- [January](../events/january.md) - 7 shared documents
 - [July](../events/july.md) - 7 shared documents
 - [May](../events/may.md) - 7 shared documents
 - [months](../events/months.md) - 7 shared documents
 - [Saturday](../events/saturday.md) - 7 shared documents
-- [January](../events/january.md) - 7 shared documents
 - [the day](../events/the-day.md) - 7 shared documents
-- [2003](../events/2003.md) - 6 shared documents
-- [October](../events/october.md) - 6 shared documents
-- [Thursday](../events/thursday.md) - 6 shared documents
+- [1981](../events/1981.md) - 6 shared documents
+- [1990](../events/1990.md) - 6 shared documents
+- [2001](../events/2001.md) - 6 shared documents
 
 ## Timeline
 

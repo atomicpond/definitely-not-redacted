@@ -57,21 +57,21 @@ Top 10 documents by mention frequency:
 - [California](../locations/california.md) - 7 shared documents
 - [Hollywood](../locations/hollywood.md) - 7 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 7 shared documents
-- [London](../locations/london.md) - 6 shared documents
+- [Australia](../locations/australia.md) - 6 shared documents
 - [France](../locations/france.md) - 6 shared documents
 
 **Events:**
 
 - [Sunday](../events/sunday.md) - 10 shared documents
 - [2008](../events/2008.md) - 8 shared documents
-- [2007](../events/2007.md) - 7 shared documents
 - [1998](../events/1998.md) - 7 shared documents
+- [2007](../events/2007.md) - 7 shared documents
 - [day](../events/day.md) - 7 shared documents
-- [annual](../events/annual.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [this year](../events/this-year.md) - 6 shared documents
-- [2011](../events/2011.md) - 6 shared documents
+- [1995](../events/1995.md) - 6 shared documents
 - [1997](../events/1997.md) - 6 shared documents
+- [2005](../events/2005.md) - 6 shared documents
+- [2011](../events/2011.md) - 6 shared documents
+- [annual](../events/annual.md) - 6 shared documents
 
 ## Timeline
 

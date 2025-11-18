@@ -50,8 +50,8 @@ Top 10 documents by mention frequency:
 - [Harvard](harvard.md) - 10 shared documents
 - [the Justice Department](the-justice-department.md) - 9 shared documents
 - [The New York Post](the-new-york-post.md) - 9 shared documents
-- [Rockefeller](rockefeller.md) - 9 shared documents
 - [Google](google.md) - 9 shared documents
+- [Rockefeller](rockefeller.md) - 9 shared documents
 
 **Locations:**
 
@@ -59,25 +59,25 @@ Top 10 documents by mention frequency:
 - [Manhattan](../locations/manhattan.md) - 12 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 12 shared documents
 - [America](../locations/america.md) - 11 shared documents
-- [Caribbean](../locations/caribbean.md) - 10 shared documents
-- [Paris](../locations/paris.md) - 10 shared documents
-- [New Mexico](../locations/new-mexico.md) - 10 shared documents
 - [Britain](../locations/britain.md) - 10 shared documents
+- [Caribbean](../locations/caribbean.md) - 10 shared documents
+- [New Mexico](../locations/new-mexico.md) - 10 shared documents
+- [Paris](../locations/paris.md) - 10 shared documents
 - [U.K.](../locations/uk.md) - 9 shared documents
-- [Qatar](../locations/qatar.md) - 8 shared documents
+- [Coney Island](../locations/coney-island.md) - 8 shared documents
 
 **Events:**
 
 - [daily](../events/daily.md) - 11 shared documents
 - [the day](../events/the-day.md) - 11 shared documents
-- [the 1980s](../events/the-1980s.md) - 10 shared documents
-- [last year](../events/last-year.md) - 10 shared documents
-- [Saturday](../events/saturday.md) - 10 shared documents
-- [2006](../events/2006.md) - 10 shared documents
 - [18 months](../events/18-months.md) - 10 shared documents
 - [2002](../events/2002.md) - 10 shared documents
+- [2006](../events/2006.md) - 10 shared documents
+- [last year](../events/last-year.md) - 10 shared documents
 - [many years](../events/many-years.md) - 10 shared documents
+- [Saturday](../events/saturday.md) - 10 shared documents
 - [September](../events/september.md) - 10 shared documents
+- [ten years](../events/ten-years.md) - 10 shared documents
 
 ## Timeline
 

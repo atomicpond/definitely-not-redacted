@@ -30,32 +30,32 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [Vogue](../organizations/vogue.md) - 5 shared documents
 - [Pressman](../organizations/pressman.md) - 5 shared documents
+- [Vogue](../organizations/vogue.md) - 5 shared documents
 - [CNN](../organizations/cnn.md) - 4 shared documents
 - [The Wall Street Journal](../organizations/the-wall-street-journal.md) - 4 shared documents
 
 **Locations:**
 
 - [London](../locations/london.md) - 5 shared documents
+- [Miami](../locations/miami.md) - 4 shared documents
 - [New York's](../locations/new-yorks.md) - 4 shared documents
 - [New York City](../locations/new-york-city.md) - 4 shared documents
-- [Upper East Side](../locations/upper-east-side.md) - 4 shared documents
-- [Miami](../locations/miami.md) - 4 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 4 shared documents
+- [Upper East Side](../locations/upper-east-side.md) - 4 shared documents
 
 **Events:**
 
-- [the next day](../events/the-next-day.md) - 5 shared documents
 - [February](../events/february.md) - 5 shared documents
-- [September](../events/september.md) - 5 shared documents
 - [four years ago](../events/four-years-ago.md) - 5 shared documents
-- [1985](../events/1985.md) - 4 shared documents
-- [2008](../events/2008.md) - 4 shared documents
-- [last day](../events/last-day.md) - 4 shared documents
+- [September](../events/september.md) - 5 shared documents
+- [the next day](../events/the-next-day.md) - 5 shared documents
 - [13-year-old](../events/13-year-old.md) - 4 shared documents
+- [1985](../events/1985.md) - 4 shared documents
 - [1987](../events/1987.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
 - [86-year-old](../events/86-year-old.md) - 4 shared documents
+- [last day](../events/last-day.md) - 4 shared documents
 
 ## Timeline
 

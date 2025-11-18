@@ -25,7 +25,8 @@ Top 6 documents by mention frequency:
 
 **People:**
 
-- [Trump University](../people/trump-university.md) - 6 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 6 shared documents
 
 **Organizations:**
 

@@ -51,23 +51,23 @@ Top 10 documents by mention frequency:
 - [Trump](trump.md) - 16 shared documents
 - [Lega](lega.md) - 12 shared documents
 - [Open Society](open-society.md) - 12 shared documents
-- [Congress](congress.md) - 11 shared documents
 - [AT&T](att.md) - 11 shared documents
 - [Benjamin Harnwell 
 Founder and President of the Board of Trustees 
 Dignitatis Humanae Institute](benjamin-harnwell-founder-and-president-of-the-board-of-trustees-dignitatis-humanae-institute.md) - 11 shared documents
 - [BlackBerry](blackberry.md) - 11 shared documents
+- [Congress](congress.md) - 11 shared documents
 
 **Locations:**
 
-- [Europe](../locations/europe.md) - 21 shared documents
 - [Brussels](../locations/brussels.md) - 21 shared documents
+- [Europe](../locations/europe.md) - 21 shared documents
 - [London](../locations/london.md) - 19 shared documents
 - [Italy](../locations/italy.md) - 15 shared documents
 - [Rome](../locations/rome.md) - 15 shared documents
 - [New York](../locations/new-york.md) - 13 shared documents
-- [USA](../locations/usa.md) - 13 shared documents
 - [Pennsylvania](../locations/pennsylvania.md) - 13 shared documents
+- [USA](../locations/usa.md) - 13 shared documents
 - [Cambridge](../locations/cambridge.md) - 12 shared documents
 - [East](../locations/east.md) - 12 shared documents
 

@@ -27,10 +27,6 @@ Top 10 documents by mention frequency:
 
 ### Most Frequently Co-occurring Entities
 
-**People:**
-
-- [Barack Obama](../people/barack-obama.md) - 6 shared documents
-
 **Organizations:**
 
 - [Cornell](../organizations/cornell.md) - 6 shared documents
@@ -40,6 +36,7 @@ Top 10 documents by mention frequency:
 - [Google](../organizations/google.md) - 5 shared documents
 - [HOUSE](../organizations/house.md) - 5 shared documents
 - [LLC](../organizations/llc.md) - 5 shared documents
+- [Stanford](../organizations/stanford.md) - 5 shared documents
 
 **Locations:**
 
@@ -57,15 +54,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [2007](../events/2007.md) - 11 shared documents
-- [today](../events/today.md) - 9 shared documents
-- [last year](../events/last-year.md) - 9 shared documents
 - [2008](../events/2008.md) - 9 shared documents
+- [last year](../events/last-year.md) - 9 shared documents
+- [today](../events/today.md) - 9 shared documents
 - [2009](../events/2009.md) - 8 shared documents
+- [2010](../events/2010.md) - 8 shared documents
+- [last week](../events/last-week.md) - 8 shared documents
+- [one day](../events/one-day.md) - 8 shared documents
 - [Wednesday](../events/wednesday.md) - 8 shared documents
 - [years](../events/years.md) - 8 shared documents
-- [last week](../events/last-week.md) - 8 shared documents
-- [2010](../events/2010.md) - 8 shared documents
-- [one day](../events/one-day.md) - 8 shared documents
 
 ## Timeline
 

@@ -44,20 +44,20 @@ Top 10 documents by mention frequency:
 - [Salt Lake City](salt-lake-city.md) - 7 shared documents
 - [Utah](utah.md) - 7 shared documents
 - [Virginia](virginia.md) - 7 shared documents
+- [Brazil](brazil.md) - 7 shared documents
 - [California](california.md) - 7 shared documents
-- [China](china.md) - 7 shared documents
 
 **Events:**
 
 - [2012](../events/2012.md) - 8 shared documents
-- [2004](../events/2004.md) - 6 shared documents
-- [2009](../events/2009.md) - 6 shared documents
-- [1996](../events/1996.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
 - [1985](../events/1985.md) - 6 shared documents
-- [2011](../events/2011.md) - 6 shared documents
+- [1989](../events/1989.md) - 6 shared documents
+- [1996](../events/1996.md) - 6 shared documents
 - [1998](../events/1998.md) - 6 shared documents
+- [2004](../events/2004.md) - 6 shared documents
+- [2006](../events/2006.md) - 6 shared documents
 - [2008](../events/2008.md) - 6 shared documents
+- [2009](../events/2009.md) - 6 shared documents
 - [2010](../events/2010.md) - 6 shared documents
 
 ## Timeline

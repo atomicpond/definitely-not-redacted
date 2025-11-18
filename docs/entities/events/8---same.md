@@ -31,8 +31,8 @@ Top 10 documents by mention frequency:
 
 - [ABN](../organizations/abn.md) - 11 shared documents
 - [ARBN](../organizations/arbn.md) - 11 shared documents
-- [Asia Pacific) Limited](../organizations/asia-pacific)-limited.md) - 11 shared documents
-- [Australia) Limited](../organizations/australia)-limited.md) - 11 shared documents
+- **Asia Pacific) Limited**-limited.md) - 11 shared documents
+- **Australia) Limited**-limited.md) - 11 shared documents
 - [Australian Branch](../organizations/australian-branch.md) - 11 shared documents
 - [B - Medium](../organizations/b---medium.md) - 11 shared documents
 - [BAMLI Frankfurt](../organizations/bamli-frankfurt.md) - 11 shared documents

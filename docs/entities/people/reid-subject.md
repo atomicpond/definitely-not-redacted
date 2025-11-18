@@ -36,25 +36,24 @@ Sent](reid-sent.md) - 36 shared documents
 - [Weingarten](weingarten.md) - 32 shared documents
 - [Jeffrey E. 
 Sent](jeffrey-e-sent.md) - 29 shared documents
-- [Mr. 
-Trump](trump.md) - 11 shared documents
 - [Reid](reid.md) - 11 shared documents
 - [White House](white-house.md) - 7 shared documents
 - [On Mon](on-mon.md) - 7 shared documents
-- [Jeffrey E](jeffrey-e.md) - 5 shared documents
 - [Hi Reid](hi-reid.md) - 5 shared documents
-- [mueller](mueller.md) - 5 shared documents
+- [Jeffrey E](jeffrey-e.md) - 5 shared documents
+- [Steptoe](steptoe.md) - 4 shared documents
+- [Washington Post](washington-post.md) - 4 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 14 shared documents
 - [Trump](../organizations/trump.md) - 9 shared documents
 - [the White House](../organizations/the-white-house.md) - 6 shared documents
-- [White House](../organizations/white-house.md) - 5 shared documents
-- [NYTimes](../organizations/nytimes.md) - 5 shared documents
 - [3/24/2018](../organizations/3242018.md) - 5 shared documents
-- [the Washington Post](../organizations/the-washington-post.md) - 4 shared documents
+- [NYTimes](../organizations/nytimes.md) - 5 shared documents
+- [White House](../organizations/white-house.md) - 5 shared documents
 - [Google](../organizations/google.md) - 4 shared documents
+- [the Washington Post](../organizations/the-washington-post.md) - 4 shared documents
 
 **Locations:**
 
@@ -74,11 +73,11 @@ Trump](trump.md) - 11 shared documents
 - [Mar 24, 2018](../events/mar-24-2018.md) - 7 shared documents
 - [March 24, 2018](../events/march-24-2018.md) - 7 shared documents
 - [Saturday, March 24, 2018](../events/saturday-march-24-2018.md) - 7 shared documents
-- [Monday](../events/monday.md) - 6 shared documents
 - [2017](../events/2017.md) - 6 shared documents
 - [January 03, 2018](../events/january-03-2018.md) - 6 shared documents
+- [Monday](../events/monday.md) - 6 shared documents
 - [20 years](../events/20-years.md) - 5 shared documents
-- [January 3, 2018](../events/january-3-2018.md) - 5 shared documents
+- [3/24/2018](../events/3242018.md) - 5 shared documents
 
 ## Timeline
 

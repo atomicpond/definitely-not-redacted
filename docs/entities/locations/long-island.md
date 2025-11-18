@@ -50,8 +50,8 @@ Top 10 documents by mention frequency:
 - [New York City](new-york-city.md) - 8 shared documents
 - [England](england.md) - 8 shared documents
 - [Ohio](ohio.md) - 7 shared documents
-- [California](california.md) - 7 shared documents
 - [America](america.md) - 7 shared documents
+- [California](california.md) - 7 shared documents
 - [Manhattan](manhattan.md) - 6 shared documents
 - [Pennsylvania](pennsylvania.md) - 6 shared documents
 - [the United States](the-united-states.md) - 6 shared documents
@@ -59,16 +59,16 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
-- [2011](../events/2011.md) - 8 shared documents
 - [2005](../events/2005.md) - 8 shared documents
+- [2011](../events/2011.md) - 8 shared documents
 - [year](../events/year.md) - 8 shared documents
-- [annual](../events/annual.md) - 7 shared documents
-- [today](../events/today.md) - 7 shared documents
-- [the years](../events/the-years.md) - 7 shared documents
+- [1987](../events/1987.md) - 7 shared documents
+- [1991](../events/1991.md) - 7 shared documents
 - [a few months](../events/a-few-months.md) - 7 shared documents
+- [annual](../events/annual.md) - 7 shared documents
 - [every day](../events/every-day.md) - 7 shared documents
 - [the next day](../events/the-next-day.md) - 7 shared documents
-- [1987](../events/1987.md) - 7 shared documents
+- [the years](../events/the-years.md) - 7 shared documents
 
 ## Timeline
 

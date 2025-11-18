@@ -30,7 +30,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 
 **Organizations:**
 
@@ -47,16 +47,10 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
+- [New York City](../locations/new-york-city.md) - 7 shared documents
+- [the United States](../locations/the-united-states.md) - 7 shared documents
 - [United States](../locations/united-states.md) - 7 shared documents
 - [Washington](../locations/washington.md) - 7 shared documents
-- [the United States](../locations/the-united-states.md) - 7 shared documents
-- [New York City](../locations/new-york-city.md) - 7 shared documents
-- [New York](../locations/new-york.md) - 6 shared documents
-- [California](../locations/california.md) - 6 shared documents
-- [China](../locations/china.md) - 6 shared documents
-- [Europe](../locations/europe.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
-- [Germany](../locations/germany.md) - 6 shared documents
 
 **Events:**
 
@@ -65,11 +59,11 @@ Top 10 documents by mention frequency:
 - [2009](../events/2009.md) - 8 shared documents
 - [2013](../events/2013.md) - 8 shared documents
 - [five years](../events/five-years.md) - 8 shared documents
-- [2004](../events/2004.md) - 7 shared documents
-- [today](../events/today.md) - 7 shared documents
-- [1985](../events/1985.md) - 7 shared documents
-- [2011](../events/2011.md) - 7 shared documents
 - [1970](../events/1970.md) - 7 shared documents
+- [1976](../events/1976.md) - 7 shared documents
+- [1981](../events/1981.md) - 7 shared documents
+- [1983](../events/1983.md) - 7 shared documents
+- [1985](../events/1985.md) - 7 shared documents
 
 ## Timeline
 

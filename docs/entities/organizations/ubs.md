@@ -39,9 +39,9 @@ Top 6 documents by mention frequency:
 - [Japan](../locations/japan.md) - 6 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
 - [Mexico](../locations/mexico.md) - 5 shared documents
+- [Asia](../locations/asia.md) - 4 shared documents
 - [Brazil](../locations/brazil.md) - 4 shared documents
 - [Germany](../locations/germany.md) - 4 shared documents
-- [Asia](../locations/asia.md) - 4 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 4 shared documents
 - [India](../locations/india.md) - 4 shared documents
 - [Spain](../locations/spain.md) - 4 shared documents

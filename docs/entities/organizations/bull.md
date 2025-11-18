@@ -41,8 +41,8 @@ Top 10 documents by mention frequency:
 - [Bank](bank.md) - 9 shared documents
 - [CFA](cfa.md) - 8 shared documents
 - [Fed](fed.md) - 8 shared documents
-- [BofA Merrill Lynch Global Research](bofa-merrill-lynch-global-research.md) - 8 shared documents
 - [Bank of America](bank-of-america.md) - 8 shared documents
+- [BofA Merrill Lynch Global Research](bofa-merrill-lynch-global-research.md) - 8 shared documents
 - [Casa de Bolsa](casa-de-bolsa.md) - 7 shared documents
 - [Central Bank](central-bank.md) - 7 shared documents
 - [Comisión](comisión.md) - 7 shared documents
@@ -50,29 +50,29 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [Japan](../locations/japan.md) - 10 shared documents
 - [India](../locations/india.md) - 10 shared documents
-- [Mexico](../locations/mexico.md) - 9 shared documents
-- [Hong Kong](../locations/hong-kong.md) - 9 shared documents
-- [Singapore](../locations/singapore.md) - 9 shared documents
+- [Japan](../locations/japan.md) - 10 shared documents
 - [Argentina](../locations/argentina.md) - 9 shared documents
-- [China](../locations/china.md) - 8 shared documents
-- [Europe](../locations/europe.md) - 8 shared documents
-- [Russia](../locations/russia.md) - 8 shared documents
+- [Hong Kong](../locations/hong-kong.md) - 9 shared documents
+- [Mexico](../locations/mexico.md) - 9 shared documents
+- [Singapore](../locations/singapore.md) - 9 shared documents
+- [Asia](../locations/asia.md) - 8 shared documents
 - [Brazil](../locations/brazil.md) - 8 shared documents
+- [Canada](../locations/canada.md) - 8 shared documents
+- [China](../locations/china.md) - 8 shared documents
 
 **Events:**
 
 - [12-month](../events/12-month.md) - 9 shared documents
+- [1959](../events/1959.md) - 8 shared documents
+- [2001](../events/2001.md) - 8 shared documents
 - [2016](../events/2016.md) - 8 shared documents
 - [2017](../events/2017.md) - 8 shared documents
 - [monthly](../events/monthly.md) - 8 shared documents
-- [2001](../events/2001.md) - 8 shared documents
-- [1959](../events/1959.md) - 8 shared documents
 - [the day](../events/the-day.md) - 8 shared documents
-- [2018](../events/2018.md) - 7 shared documents
-- [2015](../events/2015.md) - 7 shared documents
+- [198602883D](../events/198602883d.md) - 7 shared documents
 - [2000](../events/2000.md) - 7 shared documents
+- [2015](../events/2015.md) - 7 shared documents
 
 ## Timeline
 

@@ -62,15 +62,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [two years](two-years.md) - 12 shared documents
-- [last year](last-year.md) - 12 shared documents
-- [Sunday](sunday.md) - 12 shared documents
-- [Saturday](saturday.md) - 12 shared documents
 - [2002](2002.md) - 12 shared documents
+- [last year](last-year.md) - 12 shared documents
 - [many years](many-years.md) - 12 shared documents
-- [the 1980s](the-1980s.md) - 11 shared documents
-- [1974](1974.md) - 11 shared documents
+- [Saturday](saturday.md) - 12 shared documents
+- [Sunday](sunday.md) - 12 shared documents
 - [18 months](18-months.md) - 11 shared documents
+- [1974](1974.md) - 11 shared documents
 - [1982](1982.md) - 11 shared documents
+- [1994](1994.md) - 11 shared documents
 
 ## Timeline
 

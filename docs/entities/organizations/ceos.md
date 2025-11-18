@@ -55,23 +55,23 @@ Kirkland & Ellis LLP](starr-kirkland-ellis-llp.md) - 6 shared documents
 
 **Locations:**
 
-- [Los Angeles](../locations/los-angeles.md) - 9 shared documents
-- [USA](../locations/usa.md) - 9 shared documents
-- [D.C.](../locations/dc.md) - 9 shared documents
 - [777 South Figueroa Street](../locations/777-south-figueroa-street.md) - 9 shared documents
 - [950 Pennsylvania Avenue](../locations/950-pennsylvania-avenue.md) - 9 shared documents
+- [D.C.](../locations/dc.md) - 9 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 9 shared documents
+- [USA](../locations/usa.md) - 9 shared documents
 - [California](../locations/california.md) - 8 shared documents
 - [N.W.](../locations/nw.md) - 8 shared documents
 - [South Figueroa Street](../locations/south-figueroa-street.md) - 8 shared documents
-- [Washington](../locations/washington.md) - 7 shared documents
+- [Miami](../locations/miami.md) - 7 shared documents
 - [the United States](../locations/the-united-states.md) - 7 shared documents
 
 **Events:**
 
 - [May 19, 2008](../events/may-19-2008.md) - 9 shared documents
 - [two-year](../events/two-year.md) - 6 shared documents
-- [2007](../events/2007.md) - 5 shared documents
 - [16](../events/16.md) - 5 shared documents
+- [2007](../events/2007.md) - 5 shared documents
 - [a few years ago](../events/a-few-years-ago.md) - 5 shared documents
 - [June 2, 2008](../events/june-2-2008.md) - 5 shared documents
 

@@ -27,8 +27,8 @@ Top 5 documents by mention frequency:
 - [the United States](../locations/the-united-states.md) - 5 shared documents
 - [California](../locations/california.md) - 4 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 4 shared documents
-- [U.S.](../locations/us.md) - 4 shared documents
 - [St. Thomas](../locations/st-thomas.md) - 4 shared documents
+- [U.S.](../locations/us.md) - 4 shared documents
 
 **Events:**
 

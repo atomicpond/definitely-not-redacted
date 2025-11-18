@@ -27,15 +27,16 @@ Top 6 documents by mention frequency:
 
 - [George W. Bush](george-w-bush.md) - 6 shared documents
 - [Saddam Hussein](saddam-hussein.md) - 5 shared documents
-- [CLINTON](clinton.md) - 5 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 5 shared documents
 
 **Organizations:**
 
 - [NYT](../organizations/nyt.md) - 5 shared documents
+- [Goldman Sachs](../organizations/goldman-sachs.md) - 4 shared documents
 - [HOUSE](../organizations/house.md) - 4 shared documents
 - [the White House](../organizations/the-white-house.md) - 4 shared documents
 - [Treasury](../organizations/treasury.md) - 4 shared documents
-- [Goldman Sachs](../organizations/goldman-sachs.md) - 4 shared documents
 
 **Locations:**
 

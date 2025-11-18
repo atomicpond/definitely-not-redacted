@@ -40,35 +40,35 @@ Top 10 documents by mention frequency:
 **Organizations:**
 
 - [FBI](../organizations/fbi.md) - 10 shared documents
-- [White House](../organizations/white-house.md) - 9 shared documents
 - [the New York Times](../organizations/the-new-york-times.md) - 9 shared documents
 - [Time](../organizations/time.md) - 9 shared documents
+- [White House](../organizations/white-house.md) - 9 shared documents
 
 **Locations:**
 
 - [America](../locations/america.md) - 13 shared documents
 - [California](../locations/california.md) - 10 shared documents
 - [China](../locations/china.md) - 10 shared documents
-- [Japan](../locations/japan.md) - 10 shared documents
-- [Germany](../locations/germany.md) - 10 shared documents
 - [France](../locations/france.md) - 10 shared documents
+- [Germany](../locations/germany.md) - 10 shared documents
+- [Japan](../locations/japan.md) - 10 shared documents
 - [Paris](../locations/paris.md) - 10 shared documents
 - [Europe](../locations/europe.md) - 9 shared documents
-- [Russia](../locations/russia.md) - 9 shared documents
-- [Washington](../locations/washington.md) - 9 shared documents
+- [London](../locations/london.md) - 9 shared documents
+- [Massachusetts](../locations/massachusetts.md) - 9 shared documents
 
 **Events:**
 
 - [1992](../events/1992.md) - 12 shared documents
 - [two years](../events/two-years.md) - 11 shared documents
-- [2003](../events/2003.md) - 10 shared documents
-- [today](../events/today.md) - 10 shared documents
-- [1996](../events/1996.md) - 10 shared documents
-- [daily](../events/daily.md) - 10 shared documents
-- [years](../events/years.md) - 10 shared documents
-- [2002](../events/2002.md) - 10 shared documents
 - [1969](../events/1969.md) - 10 shared documents
 - [1980](../events/1980.md) - 10 shared documents
+- [1996](../events/1996.md) - 10 shared documents
+- [2002](../events/2002.md) - 10 shared documents
+- [2003](../events/2003.md) - 10 shared documents
+- [daily](../events/daily.md) - 10 shared documents
+- [today](../events/today.md) - 10 shared documents
+- [years](../events/years.md) - 10 shared documents
 
 ## Timeline
 

@@ -46,29 +46,29 @@ Top 8 documents by mention frequency:
 
 **Locations:**
 
-- [Russia](../locations/russia.md) - 8 shared documents
-- [London](../locations/london.md) - 8 shared documents
 - [America](../locations/america.md) - 8 shared documents
-- [the United States](../locations/the-united-states.md) - 8 shared documents
 - [England](../locations/england.md) - 8 shared documents
 - [India](../locations/india.md) - 8 shared documents
-- [Earth](../locations/earth.md) - 7 shared documents
+- [London](../locations/london.md) - 8 shared documents
+- [Russia](../locations/russia.md) - 8 shared documents
+- [the United States](../locations/the-united-states.md) - 8 shared documents
 - [China](../locations/china.md) - 7 shared documents
-- [Washington](../locations/washington.md) - 7 shared documents
+- [Earth](../locations/earth.md) - 7 shared documents
 - [Paris](../locations/paris.md) - 7 shared documents
+- [Washington](../locations/washington.md) - 7 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 8 shared documents
+- [1991](../events/1991.md) - 8 shared documents
 - [1999](../events/1999.md) - 8 shared documents
 - [decades](../events/decades.md) - 8 shared documents
-- [1991](../events/1991.md) - 8 shared documents
-- [years](../events/years.md) - 7 shared documents
+- [today](../events/today.md) - 8 shared documents
+- [1948](../events/1948.md) - 7 shared documents
 - [1970](../events/1970.md) - 7 shared documents
+- [1994](../events/1994.md) - 7 shared documents
 - [2001](../events/2001.md) - 7 shared documents
 - [Friday](../events/friday.md) - 7 shared documents
-- [two years](../events/two-years.md) - 7 shared documents
-- [1948](../events/1948.md) - 7 shared documents
+- [the day](../events/the-day.md) - 7 shared documents
 
 ## Timeline
 

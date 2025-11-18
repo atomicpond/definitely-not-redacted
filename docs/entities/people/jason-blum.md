@@ -39,11 +39,11 @@ Top 7 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 6 shared documents
 - [Blumhouse Productions](../organizations/blumhouse-productions.md) - 6 shared documents
 - [Development 
 Independent](../organizations/development-independent.md) - 6 shared documents
 - [Gotham Awards](../organizations/gotham-awards.md) - 6 shared documents
+- [HOUSE](../organizations/house.md) - 6 shared documents
 - [IFP](../organizations/ifp.md) - 6 shared documents
 - [IFP Gotham Awards](../organizations/ifp-gotham-awards.md) - 6 shared documents
 - [NY Media Center](../organizations/ny-media-center.md) - 6 shared documents

@@ -36,12 +36,12 @@ Top 8 documents by mention frequency:
 - [New Mexico](new-mexico.md) - 4 shared documents
 - [Paul Cassell](paul-cassell.md) - 4 shared documents
 - [Sarah Kellen](sarah-kellen.md) - 4 shared documents
-- [Bradley Edwards](bradley-edwards.md) - 4 shared documents
+- [Brad Edwards](brad-edwards.md) - 4 shared documents
 
 **Organizations:**
 
-- [Harvard University](../organizations/harvard-university.md) - 4 shared documents
 - [Cassell](../organizations/cassell.md) - 4 shared documents
+- [Harvard University](../organizations/harvard-university.md) - 4 shared documents
 - [Maxwell](../organizations/maxwell.md) - 4 shared documents
 - [Scarola](../organizations/scarola.md) - 4 shared documents
 - [the Palm Beach Police](../organizations/the-palm-beach-police.md) - 4 shared documents
@@ -49,27 +49,27 @@ Top 8 documents by mention frequency:
 **Locations:**
 
 - [Palm Beach](../locations/palm-beach.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
-- [Florida](../locations/florida.md) - 4 shared documents
-- [Manhattan](../locations/manhattan.md) - 4 shared documents
 - [England](../locations/england.md) - 4 shared documents
+- [Florida](../locations/florida.md) - 4 shared documents
 - [Mail](../locations/mail.md) - 4 shared documents
+- [Manhattan](../locations/manhattan.md) - 4 shared documents
 - [Massachusetts](../locations/massachusetts.md) - 4 shared documents
 - [New Mexico](../locations/new-mexico.md) - 4 shared documents
 - [Thailand](../locations/thailand.md) - 4 shared documents
 - [the Virgin Islands](../locations/the-virgin-islands.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 
+- [13 months](../events/13-months.md) - 4 shared documents
+- [2002](../events/2002.md) - 4 shared documents
 - [2003](../events/2003.md) - 4 shared documents
 - [2004](../events/2004.md) - 4 shared documents
-- [2009](../events/2009.md) - 4 shared documents
 - [2005](../events/2005.md) - 4 shared documents
-- [2008](../events/2008.md) - 4 shared documents
-- [2010](../events/2010.md) - 4 shared documents
-- [13 months](../events/13-months.md) - 4 shared documents
 - [2006](../events/2006.md) - 4 shared documents
-- [2002](../events/2002.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
+- [2009](../events/2009.md) - 4 shared documents
+- [2010](../events/2010.md) - 4 shared documents
 
 ## Timeline
 

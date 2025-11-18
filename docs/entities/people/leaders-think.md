@@ -29,7 +29,6 @@ Top 6 documents by mention frequency:
 **People:**
 
 - [Robert Lawrence Kuhn](robert-lawrence-kuhn.md) - 6 shared documents
-- [President Trump](president-trump.md) - 5 shared documents
 
 **Organizations:**
 
@@ -38,8 +37,8 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
-- [China](../locations/china.md) - 6 shared documents
 - [Beijing](../locations/beijing.md) - 6 shared documents
+- [China](../locations/china.md) - 6 shared documents
 
 ## Timeline
 

@@ -31,9 +31,8 @@ Top 10 documents by mention frequency:
 
 - [Cynthia Jewett](../people/cynthia-jewett.md) - 11 shared documents
 - [Kiaran Kirk](../people/kiaran-kirk.md) - 11 shared documents
-- [Lawrence Krauss](../people/lawrence-krauss.md) - 11 shared documents
 - [Peter Aldhous](../people/peter-aldhous.md) - 11 shared documents
-- [Barack Obama's](../people/barack-obamas.md) - 10 shared documents
+- [Barack Obama](../people/barack-obama.md) - 10 shared documents
 
 **Organizations:**
 
@@ -51,8 +50,6 @@ University](../organizations/case-western-reserve-university.md) - 11 shared doc
 
 **Locations:**
 
-- [Tempe](tempe.md) - 11 shared documents
-- [London](london.md) - 11 shared documents
 - [America](america.md) - 11 shared documents
 - [Arizona State](arizona-state.md) - 11 shared documents
 - [Australia](australia.md) - 11 shared documents
@@ -60,20 +57,22 @@ University](../organizations/case-western-reserve-university.md) - 11 shared doc
 - [Des Moines](des-moines.md) - 11 shared documents
 - [Iowa](iowa.md) - 11 shared documents
 - [Las Vegas](las-vegas.md) - 11 shared documents
+- [London](london.md) - 11 shared documents
 - [Melbourne](melbourne.md) - 11 shared documents
+- [Minneapolis](minneapolis.md) - 11 shared documents
 
 **Events:**
 
-- [October](../events/october.md) - 11 shared documents
-- [85287-1404](../events/85287-1404.md) - 11 shared documents
+- [2006](../events/2006.md) - 11 shared documents
 - [2007](../events/2007.md) - 11 shared documents
+- [2008](../events/2008.md) - 11 shared documents
 - [2014](../events/2014.md) - 11 shared documents
 - [2016](../events/2016.md) - 11 shared documents
-- [2008](../events/2008.md) - 11 shared documents
+- [85287-1404](../events/85287-1404.md) - 11 shared documents
 - [April 2011](../events/april-2011.md) - 11 shared documents
-- [May 2011](../events/may-2011.md) - 11 shared documents
-- [November 2016](../events/november-2016.md) - 11 shared documents
-- [2006](../events/2006.md) - 11 shared documents
+- [April 2017](../events/april-2017.md) - 11 shared documents
+- [December of 2007](../events/december-of-2007.md) - 11 shared documents
+- [July 16](../events/july-16.md) - 11 shared documents
 
 ## Timeline
 

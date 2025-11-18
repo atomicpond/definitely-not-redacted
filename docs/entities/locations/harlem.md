@@ -64,15 +64,15 @@ Harvard University](../organizations/cabot-professor-of-american-literature-harv
 **Events:**
 
 - [this year](../events/this-year.md) - 6 shared documents
-- [next year](../events/next-year.md) - 5 shared documents
 - [2017](../events/2017.md) - 5 shared documents
+- [next year](../events/next-year.md) - 5 shared documents
 - [the year](../events/the-year.md) - 5 shared documents
 - [the years](../events/the-years.md) - 5 shared documents
-- [2018](../events/2018.md) - 4 shared documents
 - [2016](../events/2016.md) - 4 shared documents
-- [last year](../events/last-year.md) - 4 shared documents
+- [2018](../events/2018.md) - 4 shared documents
 - [21st-century](../events/21st-century.md) - 4 shared documents
 - [early 2017](../events/early-2017.md) - 4 shared documents
+- [last year](../events/last-year.md) - 4 shared documents
 
 ## Timeline
 

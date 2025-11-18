@@ -28,10 +28,9 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [Michael Wolff](michael-wolff.md) - 9 shared documents
 - [Jeffrey E](jeffrey-e.md) - 9 shared documents
-- [Mr. Bannon](bannon.md) - 9 shared documents
 - [jeffrey E. <](jeffrey-e.md) - 9 shared documents
+- [Michael Wolff](michael-wolff.md) - 9 shared documents
 - [Harvey](harvey.md) - 6 shared documents
 - [Larry Gagosian](larry-gagosian.md) - 4 shared documents
 - [Michael Douglas](michael-douglas.md) - 4 shared documents
@@ -47,8 +46,8 @@ Top 9 documents by mention frequency:
 
 **Events:**
 
-- [Sunday](../events/sunday.md) - 6 shared documents
 - [Mon, Dec 11, 2017](../events/mon-dec-11-2017.md) - 6 shared documents
+- [Sunday](../events/sunday.md) - 6 shared documents
 - [12/11/2017](../events/12-11-2017.md) - 4 shared documents
 
 ## Timeline

@@ -54,10 +54,10 @@ Top 6 documents by mention frequency:
 - [weekly](weekly.md) - 6 shared documents
 - [weeks](weeks.md) - 6 shared documents
 - [years](years.md) - 6 shared documents
-- [daily](daily.md) - 6 shared documents
 - [a year](a-year.md) - 6 shared documents
-- [many years](many-years.md) - 6 shared documents
+- [daily](daily.md) - 6 shared documents
 - [days](days.md) - 6 shared documents
+- [many years](many-years.md) - 6 shared documents
 - [the next day](the-next-day.md) - 5 shared documents
 - [the week](the-week.md) - 5 shared documents
 

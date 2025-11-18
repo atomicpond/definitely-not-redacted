@@ -35,14 +35,13 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 22 shared documents
-- [Barack Obama](../people/barack-obama.md) - 21 shared documents
-- [President Obama](../people/president-obama.md) - 20 shared documents
 - [White House](../people/white-house.md) - 20 shared documents
 - [North 
 Korea](../people/north-korea.md) - 19 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 19 shared documents
-- [Mr. Obama](../people/obama.md) - 13 shared documents
 - [Cold War](../people/cold-war.md) - 12 shared documents
+- [Barack Obama](../people/barack-obama.md) - 11 shared documents
+- [Bashar al-Assad](../people/bashar-al-assad.md) - 11 shared documents
 
 **Organizations:**
 
@@ -74,14 +73,14 @@ Korea](../people/north-korea.md) - 19 shared documents
 
 - [today](../events/today.md) - 25 shared documents
 - [years](../events/years.md) - 22 shared documents
+- [2006](../events/2006.md) - 17 shared documents
 - [2009](../events/2009.md) - 17 shared documents
 - [2012](../events/2012.md) - 17 shared documents
-- [2006](../events/2006.md) - 17 shared documents
 - [2013](../events/2013.md) - 17 shared documents
 - [2008](../events/2008.md) - 16 shared documents
-- [the years](../events/the-years.md) - 16 shared documents
 - [a year](../events/a-year.md) - 16 shared documents
 - [decades](../events/decades.md) - 16 shared documents
+- [the day](../events/the-day.md) - 16 shared documents
 
 ## Timeline
 

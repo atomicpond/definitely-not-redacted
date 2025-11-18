@@ -28,9 +28,8 @@ Top 9 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](barack-obama.md) - 5 shared documents
 - [Middle East](middle-east.md) - 5 shared documents
-- [President Obama](president-obama.md) - 5 shared documents
-- [Mr. Obama](obama.md) - 5 shared documents
 
 **Organizations:**
 
@@ -43,24 +42,24 @@ Top 9 documents by mention frequency:
 - [Israel](../locations/israel.md) - 7 shared documents
 - [China](../locations/china.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
+- [Russia](../locations/russia.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
 - [US](../locations/us.md) - 5 shared documents
-- [Middle East](../locations/middle-east.md) - 4 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
+- [America](../locations/america.md) - 4 shared documents
+- [Egypt](../locations/egypt.md) - 4 shared documents
+- [Iran](../locations/iran.md) - 4 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 6 shared documents
+- [June](../events/june.md) - 5 shared documents
 - [last week](../events/last-week.md) - 5 shared documents
 - [Tuesday](../events/tuesday.md) - 5 shared documents
-- [June](../events/june.md) - 5 shared documents
-- [years](../events/years.md) - 4 shared documents
 - [2008](../events/2008.md) - 4 shared documents
 - [Saturday](../events/saturday.md) - 4 shared documents
 - [tomorrow](../events/tomorrow.md) - 4 shared documents
+- [years](../events/years.md) - 4 shared documents
 
 ## Timeline
 

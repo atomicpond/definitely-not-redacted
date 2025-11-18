@@ -32,12 +32,12 @@ Top 6 documents by mention frequency:
 
 **Events:**
 
-- [2005](../events/2005.md) - 5 shared documents
 - [1976](../events/1976.md) - 5 shared documents
 - [1995](../events/1995.md) - 5 shared documents
+- [2005](../events/2005.md) - 5 shared documents
+- [1997](../events/1997.md) - 4 shared documents
 - [2003](../events/2003.md) - 4 shared documents
 - [2004](../events/2004.md) - 4 shared documents
-- [1997](../events/1997.md) - 4 shared documents
 - [2006](../events/2006.md) - 4 shared documents
 - [June](../events/june.md) - 4 shared documents
 

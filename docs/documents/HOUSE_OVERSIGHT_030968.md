@@ -11,7 +11,7 @@
 ### People
 - [Steve Bannon](../entities/people/steve-bannon.md) - 3 mentions
 - [Powell](../entities/people/powell.md) - 2 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Jared](../entities/people/jared.md) - 1 mention
 - [ivanka](../entities/people/ivanka.md) - 1 mention
 

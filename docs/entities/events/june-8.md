@@ -43,8 +43,8 @@ Top 5 documents by mention frequency:
 - [May](may.md) - 5 shared documents
 - [today](today.md) - 5 shared documents
 - [August](august.md) - 5 shared documents
-- [July](july.md) - 5 shared documents
 - [decades](decades.md) - 5 shared documents
+- [July](july.md) - 5 shared documents
 - [just a few weeks](just-a-few-weeks.md) - 4 shared documents
 - [May 17](may-17.md) - 4 shared documents
 - [May 27](may-27.md) - 4 shared documents

@@ -44,33 +44,33 @@ Top 10 documents by mention frequency:
 
 - [HOUSE](../organizations/house.md) - 6 shared documents
 - [CNN](../organizations/cnn.md) - 4 shared documents
-- [The Wall Street Journal](../organizations/the-wall-street-journal.md) - 4 shared documents
 - [Marchesa](../organizations/marchesa.md) - 4 shared documents
+- [The Wall Street Journal](../organizations/the-wall-street-journal.md) - 4 shared documents
 
 **Locations:**
 
-- [London](../locations/london.md) - 6 shared documents
 - [Israel](../locations/israel.md) - 6 shared documents
+- [London](../locations/london.md) - 6 shared documents
 - [New York's](../locations/new-yorks.md) - 5 shared documents
+- [Miami](../locations/miami.md) - 4 shared documents
 - [New York](../locations/new-york.md) - 4 shared documents
 - [New York City](../locations/new-york-city.md) - 4 shared documents
-- [Upper East Side](../locations/upper-east-side.md) - 4 shared documents
-- [Miami](../locations/miami.md) - 4 shared documents
 - [NYC](../locations/nyc.md) - 4 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 4 shared documents
+- [Upper East Side](../locations/upper-east-side.md) - 4 shared documents
 
 **Events:**
 
 - [September](../events/september.md) - 6 shared documents
+- [86-year-old](../events/86-year-old.md) - 5 shared documents
 - [Sunday](../events/sunday.md) - 5 shared documents
 - [the next day](../events/the-next-day.md) - 5 shared documents
-- [86-year-old](../events/86-year-old.md) - 5 shared documents
-- [1985](../events/1985.md) - 4 shared documents
-- [2008](../events/2008.md) - 4 shared documents
-- [Mon, Dec 11, 2017](../events/mon-dec-11-2017.md) - 4 shared documents
-- [last day](../events/last-day.md) - 4 shared documents
 - [13-year-old](../events/13-year-old.md) - 4 shared documents
+- [1985](../events/1985.md) - 4 shared documents
 - [1987](../events/1987.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
+- [February](../events/february.md) - 4 shared documents
+- [last day](../events/last-day.md) - 4 shared documents
 
 ## Timeline
 

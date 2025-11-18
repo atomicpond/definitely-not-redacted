@@ -45,10 +45,8 @@ Top 10 documents by mention frequency:
 - [FBI](../organizations/fbi.md) - 9 shared documents
 - [Court](../organizations/court.md) - 8 shared documents
 - [State](../organizations/state.md) - 8 shared documents
-- [Senate](../organizations/senate.md) - 7 shared documents
-- [Fed](../organizations/fed.md) - 7 shared documents
 - [Congress](../organizations/congress.md) - 7 shared documents
-- [Office](../organizations/office.md) - 7 shared documents
+- [Fed](../organizations/fed.md) - 7 shared documents
 
 **Locations:**
 
@@ -56,25 +54,25 @@ Top 10 documents by mention frequency:
 - [Florida](../locations/florida.md) - 10 shared documents
 - [the United States](../locations/the-united-states.md) - 10 shared documents
 - [the Southern District](../locations/the-southern-district.md) - 9 shared documents
-- [U.S.](../locations/us.md) - 8 shared documents
 - [Fla.](../locations/fla.md) - 8 shared documents
+- [U.S.](../locations/us.md) - 8 shared documents
 - [New York](../locations/new-york.md) - 7 shared documents
-- [Virginia](../locations/virginia.md) - 7 shared documents
-- [Southern District](../locations/southern-district.md) - 7 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 7 shared documents
+- [Southern District](../locations/southern-district.md) - 7 shared documents
+- [Virginia](../locations/virginia.md) - 7 shared documents
 
 **Events:**
 
 - [2005](../events/2005.md) - 10 shared documents
+- [2002](../events/2002.md) - 9 shared documents
 - [2004](../events/2004.md) - 9 shared documents
 - [2006](../events/2006.md) - 9 shared documents
-- [2002](../events/2002.md) - 9 shared documents
-- [daily](../events/daily.md) - 8 shared documents
+- [1972](../events/1972.md) - 8 shared documents
 - [1990](../events/1990.md) - 8 shared documents
 - [2001](../events/2001.md) - 8 shared documents
-- [1972](../events/1972.md) - 8 shared documents
-- [2003](../events/2003.md) - 7 shared documents
-- [2009](../events/2009.md) - 7 shared documents
+- [daily](../events/daily.md) - 8 shared documents
+- [14](../events/14.md) - 7 shared documents
+- [18](../events/18.md) - 7 shared documents
 
 ## Timeline
 

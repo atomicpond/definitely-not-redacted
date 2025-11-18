@@ -34,33 +34,33 @@ Top 5 documents by mention frequency:
 - [KRW](krw.md) - 5 shared documents
 - [Treasury](treasury.md) - 5 shared documents
 - [USD](usd.md) - 5 shared documents
-- [Bloomberg](bloomberg.md) - 5 shared documents
-- [BoJ](boj.md) - 5 shared documents
-- [CFA](cfa.md) - 5 shared documents
 - [ABN](abn.md) - 5 shared documents
+- [AUD](aud.md) - 5 shared documents
+- [Bank](bank.md) - 5 shared documents
+- [Bloomberg](bloomberg.md) - 5 shared documents
 
 **Locations:**
 
-- [Japan](../locations/japan.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [USD](../locations/usd.md) - 5 shared documents
+- [Asia](../locations/asia.md) - 5 shared documents
+- [Australia](../locations/australia.md) - 5 shared documents
 - [Brazil](../locations/brazil.md) - 5 shared documents
 - [Canada](../locations/canada.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
-- [Mexico](../locations/mexico.md) - 5 shared documents
-- [Asia](../locations/asia.md) - 5 shared documents
-- [Italy](../locations/italy.md) - 5 shared documents
 - [Frankfurt](../locations/frankfurt.md) - 5 shared documents
+- [Germany](../locations/germany.md) - 5 shared documents
+- [Hong Kong](../locations/hong-kong.md) - 5 shared documents
+- [India](../locations/india.md) - 5 shared documents
+- [Indonesia](../locations/indonesia.md) - 5 shared documents
+- [Italy](../locations/italy.md) - 5 shared documents
 
 **Events:**
 
-- [this year](../events/this-year.md) - 4 shared documents
-- [monthly](../events/monthly.md) - 4 shared documents
-- [July](../events/july.md) - 4 shared documents
-- [the next 12 months](../events/the-next-12-months.md) - 4 shared documents
 - [2013](../events/2013.md) - 4 shared documents
+- [July](../events/july.md) - 4 shared documents
 - [June](../events/june.md) - 4 shared documents
+- [monthly](../events/monthly.md) - 4 shared documents
 - [six-month](../events/six-month.md) - 4 shared documents
+- [the next 12 months](../events/the-next-12-months.md) - 4 shared documents
+- [this year](../events/this-year.md) - 4 shared documents
 
 ## Timeline
 

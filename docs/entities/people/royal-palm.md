@@ -32,9 +32,9 @@ Top 5 documents by mention frequency:
 - [Florida](../locations/florida.md) - 5 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 5 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
-- [California](../locations/california.md) - 4 shared documents
 - [Australia](../locations/australia.md) - 4 shared documents
+- [California](../locations/california.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 4 shared documents
 
 **Events:**

@@ -35,36 +35,35 @@ Top 8 documents by mention frequency:
 
 - [Twitter](twitter.md) - 6 shared documents
 - [Google](google.md) - 6 shared documents
-- [Facebook](facebook.md) - 5 shared documents
-- [LLC](llc.md) - 5 shared documents
 - [Apple](apple.md) - 5 shared documents
 - [Business Development](business-development.md) - 5 shared documents
-- [HOUSE](house.md) - 4 shared documents
+- [Facebook](facebook.md) - 5 shared documents
+- [LLC](llc.md) - 5 shared documents
 
 **Locations:**
 
 - [California](../locations/california.md) - 7 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 7 shared documents
 - [San Francisco](../locations/san-francisco.md) - 7 shared documents
+- [Boston](../locations/boston.md) - 6 shared documents
 - [Canada](../locations/canada.md) - 6 shared documents
 - [London](../locations/london.md) - 6 shared documents
 - [Oregon](../locations/oregon.md) - 6 shared documents
-- [Boston](../locations/boston.md) - 6 shared documents
-- [USA](../locations/usa.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [England](../locations/england.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 5 shared documents
 
 **Events:**
 
 - [last year](../events/last-year.md) - 6 shared documents
 - [several years](../events/several-years.md) - 6 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [summer](../events/summer.md) - 5 shared documents
 - [2001](../events/2001.md) - 5 shared documents
+- [each year](../events/each-year.md) - 5 shared documents
 - [Friday](../events/friday.md) - 5 shared documents
 - [one day](../events/one-day.md) - 5 shared documents
 - [Saturday](../events/saturday.md) - 5 shared documents
+- [summer](../events/summer.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [year](../events/year.md) - 5 shared documents
 
 ## Timeline

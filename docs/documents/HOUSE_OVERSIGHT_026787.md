@@ -10,7 +10,7 @@
 
 ### People
 - [Susan Rice](../entities/people/susan-rice.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Kathy 
 Ruemmler](../entities/people/kathy-ruemmler.md) - 1 mention
 - [Kathy Ruemmler 

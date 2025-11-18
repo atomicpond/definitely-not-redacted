@@ -22,7 +22,7 @@
 - [Cambridge Analytica](../entities/people/cambridge-analytica.md) - 2 mentions
 - [Eric Schmidt](../entities/people/eric-schmidt.md) - 1 mention
 - [Sunday Times](../entities/people/sunday-times.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [United
 Kingdom](../entities/people/united-kingdom.md) - 1 mention
 - [Brexit](../entities/people/brexit.md) - 1 mention

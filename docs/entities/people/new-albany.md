@@ -29,8 +29,8 @@ Top 5 documents by mention frequency:
 **Organizations:**
 
 - [Harvard](../organizations/harvard.md) - 4 shared documents
-- [the Justice Department](../organizations/the-justice-department.md) - 4 shared documents
 - [Maxwell](../organizations/maxwell.md) - 4 shared documents
+- [the Justice Department](../organizations/the-justice-department.md) - 4 shared documents
 
 **Locations:**
 
@@ -40,11 +40,11 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [today](../events/today.md) - 4 shared documents
-- [last week](../events/last-week.md) - 4 shared documents
-- [1990](../events/1990.md) - 4 shared documents
 - [1981](../events/1981.md) - 4 shared documents
+- [1990](../events/1990.md) - 4 shared documents
+- [last week](../events/last-week.md) - 4 shared documents
 - [the day](../events/the-day.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

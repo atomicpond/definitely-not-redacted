@@ -30,16 +30,16 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Bradley J. Edwards](../people/bradley-j-edwards.md) - 16 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 16 shared documents
 - [Jane Doe](../people/jane-doe.md) - 14 shared documents
 - [Paul G. Cassell](../people/paul-g-cassell.md) - 12 shared documents
 - [Rights Act](../people/rights-act.md) - 11 shared documents
 - [Crime Victims](../people/crime-victims.md) - 10 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 9 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 8 shared documents
 - [Jack Scarola](../people/jack-scarola.md) - 8 shared documents
 - [Judge Marra](../people/judge-marra.md) - 8 shared documents
 - [Salt Lake City](../people/salt-lake-city.md) - 8 shared documents
+- [Alfredo Rodriguez](../people/alfredo-rodriguez.md) - 7 shared documents
+- [Civil Procedure](../people/civil-procedure.md) - 7 shared documents
 
 **Organizations:**
 
@@ -52,7 +52,7 @@ Top 10 documents by mention frequency:
 - [State](state.md) - 8 shared documents
 - [Suite 2](suite-2.md) - 8 shared documents
 - [WEISSING, EDWARDS](weissing-edwards.md) - 8 shared documents
-- [Fed](fed.md) - 8 shared documents
+- [FBI](fbi.md) - 8 shared documents
 
 **Locations:**
 
@@ -60,10 +60,10 @@ Top 10 documents by mention frequency:
 - [United States](../locations/united-states.md) - 15 shared documents
 - [Florida](../locations/florida.md) - 14 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 14 shared documents
-- [U.S.](../locations/us.md) - 13 shared documents
 - [P.L.](../locations/pl.md) - 13 shared documents
-- [Salt Lake City](../locations/salt-lake-city.md) - 12 shared documents
+- [U.S.](../locations/us.md) - 13 shared documents
 - [Fla.](../locations/fla.md) - 12 shared documents
+- [Salt Lake City](../locations/salt-lake-city.md) - 12 shared documents
 - [the Southern District](../locations/the-southern-district.md) - 11 shared documents
 - [Virginia](../locations/virginia.md) - 11 shared documents
 
@@ -73,12 +73,12 @@ Top 10 documents by mention frequency:
 - [2009](../events/2009.md) - 10 shared documents
 - [2010](../events/2010.md) - 10 shared documents
 - [2011](../events/2011.md) - 9 shared documents
-- [today](../events/today.md) - 8 shared documents
+- [12](../events/12.md) - 8 shared documents
+- [14](../events/14.md) - 8 shared documents
 - [1993](../events/1993.md) - 8 shared documents
 - [1999](../events/1999.md) - 8 shared documents
 - [2001](../events/2001.md) - 8 shared documents
 - [2002](../events/2002.md) - 8 shared documents
-- [2013](../events/2013.md) - 8 shared documents
 
 ## Timeline
 

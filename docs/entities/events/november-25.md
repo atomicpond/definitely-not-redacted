@@ -30,12 +30,12 @@ Top 6 documents by mention frequency:
 **Events:**
 
 - [2008](2008.md) - 5 shared documents
-- [1985](1985.md) - 4 shared documents
-- [last day](last-day.md) - 4 shared documents
 - [13-year-old](13-year-old.md) - 4 shared documents
+- [1985](1985.md) - 4 shared documents
 - [1987](1987.md) - 4 shared documents
-- [February](february.md) - 4 shared documents
 - [86-year-old](86-year-old.md) - 4 shared documents
+- [February](february.md) - 4 shared documents
+- [last day](last-day.md) - 4 shared documents
 
 ## Timeline
 

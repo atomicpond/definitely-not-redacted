@@ -31,7 +31,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jane Doe](../people/jane-doe.md) - 16 shared documents
-- [Epstein](../people/epstein.md) - 12 shared documents
 - [Jack Goldberger](../people/jack-goldberger.md) - 12 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 12 shared documents
 - [New Mexico](../people/new-mexico.md) - 12 shared documents
@@ -42,6 +41,7 @@ Andrew](../people/prince-andrew.md) - 10 shared documents
 - [Sarah Kellen](../people/sarah-kellen.md) - 10 shared documents
 - [Bill 
 Clinton](../people/bill-clinton.md) - 9 shared documents
+- [Robert Maxwell](../people/robert-maxwell.md) - 9 shared documents
 
 **Organizations:**
 
@@ -66,21 +66,21 @@ Clinton](../people/bill-clinton.md) - 9 shared documents
 - [Miami](miami.md) - 13 shared documents
 - [New Mexico](new-mexico.md) - 13 shared documents
 - [Virginia](virginia.md) - 12 shared documents
-- [New York](new-york.md) - 11 shared documents
 - [London](london.md) - 11 shared documents
+- [Manhattan](manhattan.md) - 11 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 20 shared documents
 - [daily](../events/daily.md) - 18 shared documents
 - [the day](../events/the-day.md) - 14 shared documents
-- [2007](../events/2007.md) - 11 shared documents
-- [2011](../events/2011.md) - 11 shared documents
+- [16](../events/16.md) - 11 shared documents
 - [1999](../events/1999.md) - 11 shared documents
 - [2005](../events/2005.md) - 11 shared documents
-- [16](../events/16.md) - 11 shared documents
+- [2007](../events/2007.md) - 11 shared documents
+- [2011](../events/2011.md) - 11 shared documents
 - [2003](../events/2003.md) - 10 shared documents
-- [2009](../events/2009.md) - 10 shared documents
+- [2008](../events/2008.md) - 10 shared documents
 
 ## Timeline
 

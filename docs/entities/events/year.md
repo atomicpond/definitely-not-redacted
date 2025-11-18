@@ -59,13 +59,13 @@ Top 10 documents by mention frequency:
 - [today](today.md) - 49 shared documents
 - [this year](this-year.md) - 48 shared documents
 - [years](years.md) - 44 shared documents
-- [annual](annual.md) - 37 shared documents
 - [2010](2010.md) - 37 shared documents
+- [annual](annual.md) - 37 shared documents
 - [2012](2012.md) - 35 shared documents
 - [2006](2006.md) - 34 shared documents
+- [2001](2001.md) - 33 shared documents
 - [2003](2003.md) - 33 shared documents
 - [2009](2009.md) - 33 shared documents
-- [last year](last-year.md) - 33 shared documents
 
 ## Timeline
 

@@ -61,15 +61,15 @@ Top 6 documents by mention frequency:
 **Events:**
 
 - [Monday](../events/monday.md) - 6 shared documents
-- [last year](../events/last-year.md) - 5 shared documents
-- [this year](../events/this-year.md) - 5 shared documents
-- [August](../events/august.md) - 5 shared documents
-- [July](../events/july.md) - 5 shared documents
-- [last week](../events/last-week.md) - 5 shared documents
-- [November](../events/november.md) - 5 shared documents
+- [14](../events/14.md) - 5 shared documents
+- [14-year-old](../events/14-year-old.md) - 5 shared documents
+- [16-year-old](../events/16-year-old.md) - 5 shared documents
+- [18](../events/18.md) - 5 shared documents
+- [18 months](../events/18-months.md) - 5 shared documents
+- [1981](../events/1981.md) - 5 shared documents
 - [1984](../events/1984.md) - 5 shared documents
-- [Tuesday](../events/tuesday.md) - 5 shared documents
-- [yesterday](../events/yesterday.md) - 5 shared documents
+- [1991](../events/1991.md) - 5 shared documents
+- [2006](../events/2006.md) - 5 shared documents
 
 ## Timeline
 

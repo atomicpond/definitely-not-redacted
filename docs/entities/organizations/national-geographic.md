@@ -29,32 +29,32 @@ Top 9 documents by mention frequency:
 **Organizations:**
 
 - [Harvard](harvard.md) - 8 shared documents
-- [HOUSE](house.md) - 6 shared documents
 - [CNN](cnn.md) - 6 shared documents
+- [HOUSE](house.md) - 6 shared documents
 - [MIT](mit.md) - 5 shared documents
 - [CTT](ctt.md) - 4 shared documents
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 7 shared documents
-- [China](../locations/china.md) - 7 shared documents
-- [London](../locations/london.md) - 7 shared documents
+- [Boston](../locations/boston.md) - 7 shared documents
 - [Cambridge](../locations/cambridge.md) - 7 shared documents
 - [Chicago](../locations/chicago.md) - 7 shared documents
-- [Boston](../locations/boston.md) - 7 shared documents
+- [China](../locations/china.md) - 7 shared documents
+- [London](../locations/london.md) - 7 shared documents
+- [New York](../locations/new-york.md) - 7 shared documents
 - [Oxford](../locations/oxford.md) - 7 shared documents
 - [Beijing](../locations/beijing.md) - 6 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 4 shared documents
 
 **Events:**
 
 - [12 years](../events/12-years.md) - 5 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [2012](../events/2012.md) - 4 shared documents
-- [the year](../events/the-year.md) - 4 shared documents
 - [1982](../events/1982.md) - 4 shared documents
 - [1989](../events/1989.md) - 4 shared documents
+- [2012](../events/2012.md) - 4 shared documents
+- [the year](../events/the-year.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

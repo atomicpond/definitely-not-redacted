@@ -30,29 +30,24 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
-- [London](../locations/london.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
-- [England](../locations/england.md) - 5 shared documents
 - [Boston](../locations/boston.md) - 5 shared documents
+- [England](../locations/england.md) - 5 shared documents
+- [London](../locations/london.md) - 5 shared documents
 - [Spain](../locations/spain.md) - 5 shared documents
-- [New York, NY](../locations/new-york-ny.md) - 4 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
 
 **Events:**
 
 - [one day](../events/one-day.md) - 6 shared documents
-- [today](../events/today.md) - 5 shared documents
+- [1980](../events/1980.md) - 5 shared documents
+- [1989](../events/1989.md) - 5 shared documents
+- [1995](../events/1995.md) - 5 shared documents
 - [2000](../events/2000.md) - 5 shared documents
-- [daily](../events/daily.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
 - [2008](../events/2008.md) - 5 shared documents
 - [2010](../events/2010.md) - 5 shared documents
 - [a year](../events/a-year.md) - 5 shared documents
-- [three years](../events/three-years.md) - 5 shared documents
-- [1989](../events/1989.md) - 5 shared documents
+- [daily](../events/daily.md) - 5 shared documents
+- [the day](../events/the-day.md) - 5 shared documents
 
 ## Timeline
 

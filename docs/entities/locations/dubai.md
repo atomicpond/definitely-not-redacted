@@ -64,12 +64,12 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [today](../events/today.md) - 40 shared documents
-- [this week](../events/this-week.md) - 31 shared documents
 - [2001](../events/2001.md) - 31 shared documents
+- [this week](../events/this-week.md) - 31 shared documents
 - [2016](../events/2016.md) - 29 shared documents
 - [annual](../events/annual.md) - 28 shared documents
-- [this year](../events/this-year.md) - 28 shared documents
 - [monthly](../events/monthly.md) - 28 shared documents
+- [this year](../events/this-year.md) - 28 shared documents
 - [2015](../events/2015.md) - 27 shared documents
 - [the day](../events/the-day.md) - 27 shared documents
 - [2000](../events/2000.md) - 25 shared documents

@@ -33,15 +33,14 @@ Top 10 documents by mention frequency:
 
 - [Donald 
 Trump](donald-trump.md) - 10 shared documents
-- [Epstein](epstein.md) - 10 shared documents
 - [Ingram](ingram.md) - 10 shared documents
-- [jeff epstein](jeff-epstein.md) - 10 shared documents
 - [Jeffrey E](jeffrey-e.md) - 10 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 10 shared documents
 - [martin Weinberg](martin-weinberg.md) - 10 shared documents
 - [David](david.md) - 10 shared documents
 - [marty](marty.md) - 9 shared documents
 - [Martin G. Weinberg'](martin-g-weinberg.md) - 6 shared documents
+- [katie johnson v](katie-johnson-v.md) - 5 shared documents
 
 **Organizations:**
 
@@ -58,11 +57,11 @@ Trump](donald-trump.md) - 10 shared documents
 
 **Events:**
 
+- [1994](../events/1994.md) - 10 shared documents
 - [2016](../events/2016.md) - 10 shared documents
 - [this week](../events/this-week.md) - 10 shared documents
-- [1994](../events/1994.md) - 10 shared documents
-- [Thu, Apr 28](../events/thu-apr-28.md) - 6 shared documents
 - [April 28, 2016](../events/april-28-2016.md) - 6 shared documents
+- [Thu, Apr 28](../events/thu-apr-28.md) - 6 shared documents
 - [Thursday, April 28](../events/thursday-april-28.md) - 6 shared documents
 
 ## Timeline

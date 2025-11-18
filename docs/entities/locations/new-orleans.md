@@ -39,7 +39,7 @@ Top 10 documents by mention frequency:
 - [BILL](../people/bill.md) - 18 shared documents
 - [Bill 
 Clinton](../people/bill-clinton.md) - 18 shared documents
-- [Bruce Wasserstein](../people/bruce-wasserstein.md) - 18 shared documents
+- [Bill Gates](../people/bill-gates.md) - 18 shared documents
 
 **Organizations:**
 
@@ -63,22 +63,22 @@ Clinton](../people/bill-clinton.md) - 18 shared documents
 - [Indonesia](indonesia.md) - 19 shared documents
 - [Chicago](chicago.md) - 9 shared documents
 - [California](california.md) - 8 shared documents
-- [London](london.md) - 7 shared documents
 - [Florida](florida.md) - 7 shared documents
 - [France](france.md) - 7 shared documents
+- [London](london.md) - 7 shared documents
 
 **Events:**
 
 - [years](../events/years.md) - 27 shared documents
 - [a year](../events/a-year.md) - 25 shared documents
-- [2003](../events/2003.md) - 24 shared documents
 - [1981](../events/1981.md) - 24 shared documents
-- [weeks](../events/weeks.md) - 22 shared documents
+- [2003](../events/2003.md) - 24 shared documents
 - [many years](../events/many-years.md) - 22 shared documents
+- [weeks](../events/weeks.md) - 22 shared documents
 - [14](../events/14.md) - 21 shared documents
 - [57](../events/57.md) - 21 shared documents
 - [last week](../events/last-week.md) - 20 shared documents
-- [their twenties and thirties](../events/their-twenties-and-thirties.md) - 19 shared documents
+- [48-year-old](../events/48-year-old.md) - 19 shared documents
 
 ## Timeline
 

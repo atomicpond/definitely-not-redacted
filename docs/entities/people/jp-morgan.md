@@ -36,17 +36,17 @@ Top 10 documents by mention frequency:
 
 **Organizations:**
 
-- [NYSE](../organizations/nyse.md) - 13 shared documents
-- [FINRA](../organizations/finra.md) - 13 shared documents
 - [FDIC](../organizations/fdic.md) - 13 shared documents
-- [SIPC](../organizations/sipc.md) - 13 shared documents
-- [Morgan Securities LLC](../organizations/morgan-securities-llc.md) - 13 shared documents
+- [FINRA](../organizations/finra.md) - 13 shared documents
 - [J.P.
 Morgan Securities LLC](../organizations/jp-morgan-securities-llc.md) - 13 shared documents
+- [Morgan Securities LLC](../organizations/morgan-securities-llc.md) - 13 shared documents
+- [NYSE](../organizations/nyse.md) - 13 shared documents
+- [SIPC](../organizations/sipc.md) - 13 shared documents
 - [JPMorgan Chase & Co](../organizations/jpmorgan-chase-co.md) - 12 shared documents
 - [JP Morgan](../organizations/jp-morgan.md) - 11 shared documents
 - [JPMS](../organizations/jpms.md) - 11 shared documents
-- [Bank](../organizations/bank.md) - 9 shared documents
+- [Balanced Model Portfolios](../organizations/balanced-model-portfolios.md) - 9 shared documents
 
 **Locations:**
 
@@ -59,7 +59,6 @@ Morgan Securities LLC](../organizations/jp-morgan-securities-llc.md) - 13 shared
 - [Latin America](../locations/latin-america.md) - 9 shared documents
 - [U.K.](../locations/uk.md) - 9 shared documents
 - [Spain](../locations/spain.md) - 7 shared documents
-- [Mexico](../locations/mexico.md) - 6 shared documents
 
 **Events:**
 
@@ -67,9 +66,9 @@ Morgan Securities LLC](../organizations/jp-morgan-securities-llc.md) - 13 shared
 - [last year](../events/last-year.md) - 9 shared documents
 - [this week](../events/this-week.md) - 9 shared documents
 - [this year](../events/this-year.md) - 9 shared documents
+- [2011](../events/2011.md) - 8 shared documents
 - [last week](../events/last-week.md) - 8 shared documents
 - [the year](../events/the-year.md) - 8 shared documents
-- [2011](../events/2011.md) - 8 shared documents
 - [2009](../events/2009.md) - 7 shared documents
 - [2012](../events/2012.md) - 7 shared documents
 - [2013](../events/2013.md) - 7 shared documents

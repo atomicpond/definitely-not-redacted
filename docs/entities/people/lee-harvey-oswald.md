@@ -44,8 +44,6 @@ Top 8 documents by mention frequency:
 - [National Lampoon](../organizations/national-lampoon.md) - 5 shared documents
 - [the Free Speech Movement](../organizations/the-free-speech-movement.md) - 5 shared documents
 - [the University of California in Berkeley](../organizations/the-university-of-california-in-berkeley.md) - 5 shared documents
-- [HOUSE](../organizations/house.md) - 4 shared documents
-- [Senate](../organizations/senate.md) - 4 shared documents
 
 **Locations:**
 
@@ -54,21 +52,19 @@ Top 8 documents by mention frequency:
 - [Dallas](../locations/dallas.md) - 6 shared documents
 - [Spain](../locations/spain.md) - 6 shared documents
 - [America](../locations/america.md) - 5 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [Earth](../locations/earth.md) - 4 shared documents
 
 **Events:**
 
-- [two years](../events/two-years.md) - 8 shared documents
 - [1969](../events/1969.md) - 8 shared documents
-- [the day](../events/the-day.md) - 8 shared documents
 - [1980](../events/1980.md) - 8 shared documents
+- [the day](../events/the-day.md) - 8 shared documents
+- [two years](../events/two-years.md) - 8 shared documents
 - [1992](../events/1992.md) - 7 shared documents
 - [1952](../events/1952.md) - 6 shared documents
-- [A few years later](../events/a-few-years-later.md) - 6 shared documents
 - [1965](../events/1965.md) - 6 shared documents
+- [A few years later](../events/a-few-years-later.md) - 6 shared documents
+- [1964](../events/1964.md) - 5 shared documents
 - [1970](../events/1970.md) - 5 shared documents
-- [next day](../events/next-day.md) - 5 shared documents
 
 ## Timeline
 

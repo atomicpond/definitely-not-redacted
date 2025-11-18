@@ -34,8 +34,7 @@ Top 10 documents by mention frequency:
 
 - [New Hampshire](../people/new-hampshire.md) - 12 shared documents
 - [White House](../people/white-house.md) - 12 shared documents
-- [President Obama](../people/president-obama.md) - 10 shared documents
-- [Barack Obama](../people/barack-obama.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 10 shared documents
 - [Middle East](../people/middle-east.md) - 7 shared documents
 
 **Organizations:**
@@ -69,11 +68,11 @@ Top 10 documents by mention frequency:
 - [1981](../events/1981.md) - 11 shared documents
 - [years](../events/years.md) - 10 shared documents
 - [2007](../events/2007.md) - 9 shared documents
+- [2010](../events/2010.md) - 9 shared documents
 - [2015](../events/2015.md) - 9 shared documents
 - [annual](../events/annual.md) - 9 shared documents
 - [daily](../events/daily.md) - 9 shared documents
 - [the year](../events/the-year.md) - 9 shared documents
-- [2010](../events/2010.md) - 9 shared documents
 - [2012](../events/2012.md) - 8 shared documents
 - [Friday](../events/friday.md) - 8 shared documents
 

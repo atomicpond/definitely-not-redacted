@@ -26,35 +26,34 @@ Top 5 documents by mention frequency:
 
 - [Barack Obama](barack-obama.md) - 5 shared documents
 - [Mahmoud Abbas](mahmoud-abbas.md) - 5 shared documents
-- [Mr. Obama](obama.md) - 5 shared documents
 - [Saddam Hussein](saddam-hussein.md) - 5 shared documents
 
 **Organizations:**
 
 - [Hamas](../organizations/hamas.md) - 5 shared documents
 - [UN](../organizations/un.md) - 5 shared documents
-- [the White House](../organizations/the-white-house.md) - 4 shared documents
 - [the Washington Post](../organizations/the-washington-post.md) - 4 shared documents
+- [the White House](../organizations/the-white-house.md) - 4 shared documents
 
 **Locations:**
 
-- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
 - [Iraq](../locations/iraq.md) - 5 shared documents
+- [Israel](../locations/israel.md) - 5 shared documents
 - [Libya](../locations/libya.md) - 5 shared documents
 - [Syria](../locations/syria.md) - 5 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [Israel](../locations/israel.md) - 5 shared documents
 - [the West Bank](../locations/the-west-bank.md) - 5 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 5 shared documents
+- [2006](../events/2006.md) - 4 shared documents
 - [2007](../events/2007.md) - 4 shared documents
 - [2010](../events/2010.md) - 4 shared documents
-- [2006](../events/2006.md) - 4 shared documents
 
 ## Timeline
 

@@ -30,12 +30,12 @@ Top 5 documents by mention frequency:
 - [From Washington](../people/from-washington.md) - 5 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 5 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 5 shared documents
-- [Jeffrey Epstein VI](../people/jeffrey-epstein-vi.md) - 5 shared documents
 - [Kuhn 
 Importance](../people/kuhn-importance.md) - 5 shared documents
 - [robert](../people/robert.md) - 5 shared documents
 - [Robert 
 <Closer To Truth - The Science of Sleep & Dreams](../people/robert-closer-to-truth-the-science-of-sleep-dreams.md) - 5 shared documents
+- [Robert Kuhn](../people/robert-kuhn.md) - 5 shared documents
 
 **Organizations:**
 
@@ -52,10 +52,10 @@ Importance](../people/kuhn-importance.md) - 5 shared documents
 **Events:**
 
 - [2017](../events/2017.md) - 5 shared documents
-- [weekly](../events/weekly.md) - 5 shared documents
-- [January 19](../events/january-19.md) - 5 shared documents
 - [a full season](../events/a-full-season.md) - 5 shared documents
 - [Jan 11, 2017](../events/jan-11-2017.md) - 5 shared documents
+- [January 19](../events/january-19.md) - 5 shared documents
+- [weekly](../events/weekly.md) - 5 shared documents
 
 ## Timeline
 

@@ -41,26 +41,26 @@ Top 10 documents by mention frequency:
 - [Italy](../locations/italy.md) - 8 shared documents
 - [Germany](../locations/germany.md) - 7 shared documents
 - [the United States](../locations/the-united-states.md) - 7 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
 - [Greece](../locations/greece.md) - 6 shared documents
 - [Spain](../locations/spain.md) - 6 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
-- [Portugal](../locations/portugal.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 6 shared documents
 - [Belgium](../locations/belgium.md) - 5 shared documents
-- [Tennessee](../locations/tennessee.md) - 5 shared documents
+- [Europe](../locations/europe.md) - 5 shared documents
+- [Ireland](../locations/ireland.md) - 5 shared documents
+- [Portugal](../locations/portugal.md) - 5 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 8 shared documents
-- [annual](../events/annual.md) - 7 shared documents
-- [2012](../events/2012.md) - 7 shared documents
 - [1980](../events/1980.md) - 7 shared documents
+- [2012](../events/2012.md) - 7 shared documents
+- [annual](../events/annual.md) - 7 shared documents
 - [1991](../events/1991.md) - 6 shared documents
 - [the last decade](../events/the-last-decade.md) - 6 shared documents
-- [2003](../events/2003.md) - 5 shared documents
-- [2004](../events/2004.md) - 5 shared documents
-- [2009](../events/2009.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
+- [10 years](../events/10-years.md) - 5 shared documents
+- [1983](../events/1983.md) - 5 shared documents
+- [1993](../events/1993.md) - 5 shared documents
+- [1995](../events/1995.md) - 5 shared documents
 
 ## Timeline
 

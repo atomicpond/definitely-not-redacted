@@ -40,9 +40,9 @@ Top 6 documents by mention frequency:
 
 - [year](year.md) - 4 shared documents
 - [years](years.md) - 4 shared documents
-- [last year](last-year.md) - 4 shared documents
-- [Friday](friday.md) - 4 shared documents
 - [a year](a-year.md) - 4 shared documents
+- [Friday](friday.md) - 4 shared documents
+- [last year](last-year.md) - 4 shared documents
 - [many years](many-years.md) - 4 shared documents
 
 ## Timeline

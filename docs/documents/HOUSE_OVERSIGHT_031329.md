@@ -21,7 +21,7 @@
 - [Saleh](../entities/people/saleh.md) - 14 mentions
 - [Qaddafi](../entities/people/qaddafi.md) - 4 mentions
 - [Assad](../entities/people/assad.md) - 3 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 2 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 2 mentions
 - [Barack Obama](../entities/people/barack-obama.md) - 1 mention
 - [John Brennan](../entities/people/john-brennan.md) - 1 mention
 - [King Abdullah](../entities/people/king-abdullah.md) - 1 mention

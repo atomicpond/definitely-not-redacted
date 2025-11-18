@@ -29,10 +29,9 @@ Top 10 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 10 shared documents
 - [Middle East](../people/middle-east.md) - 10 shared documents
-- [President Obama](../people/president-obama.md) - 10 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 10 shared documents
-- [Barack Obama](../people/barack-obama.md) - 9 shared documents
 
 **Organizations:**
 
@@ -40,6 +39,7 @@ Top 10 documents by mention frequency:
 - [White House](../organizations/white-house.md) - 9 shared documents
 - [CIA](../organizations/cia.md) - 8 shared documents
 - [Defense](../organizations/defense.md) - 8 shared documents
+- [State](../organizations/state.md) - 8 shared documents
 
 **Locations:**
 
@@ -57,15 +57,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [today](../events/today.md) - 11 shared documents
-- [2007](../events/2007.md) - 10 shared documents
 - [1981](../events/1981.md) - 10 shared documents
+- [2007](../events/2007.md) - 10 shared documents
 - [2009](../events/2009.md) - 9 shared documents
-- [2012](../events/2012.md) - 9 shared documents
-- [years](../events/years.md) - 9 shared documents
 - [2010](../events/2010.md) - 9 shared documents
+- [2012](../events/2012.md) - 9 shared documents
 - [two years](../events/two-years.md) - 9 shared documents
-- [six months](../events/six-months.md) - 8 shared documents
-- [this year](../events/this-year.md) - 8 shared documents
+- [years](../events/years.md) - 9 shared documents
+- [1971](../events/1971.md) - 8 shared documents
+- [1991](../events/1991.md) - 8 shared documents
 
 ## Timeline
 

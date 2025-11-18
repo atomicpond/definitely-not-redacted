@@ -63,11 +63,11 @@ Chairman and Chief Executive Officer of the Financial Trust](../organizations/ep
 - [daily](daily.md) - 7 shared documents
 - [2005](2005.md) - 6 shared documents
 - [1994](1994.md) - 6 shared documents
-- [7912/](7912/.md) - 6 shared documents
+- **7912/** - 6 shared documents
 - [this day](this-day.md) - 5 shared documents
 - [weekly](weekly.md) - 5 shared documents
 - [Dec 2](dec-2.md) - 5 shared documents
-- [12/16/2010](12/16/2010.md) - 5 shared documents
+- **12/16/2010** - 5 shared documents
 
 ## Timeline
 

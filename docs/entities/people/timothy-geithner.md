@@ -29,17 +29,17 @@ Top 6 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 5 shared documents
-- [Treasury](../organizations/treasury.md) - 5 shared documents
 - [Goldman Sachs](../organizations/goldman-sachs.md) - 5 shared documents
+- [HOUSE](../organizations/house.md) - 5 shared documents
 - [the Federal Reserve](../organizations/the-federal-reserve.md) - 5 shared documents
+- [Treasury](../organizations/treasury.md) - 5 shared documents
 - [the White House](../organizations/the-white-house.md) - 4 shared documents
 
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 6 shared documents
-- [Iraq](../locations/iraq.md) - 5 shared documents
 - [Iceland](../locations/iceland.md) - 5 shared documents
+- [Iraq](../locations/iraq.md) - 5 shared documents
 - [New York](../locations/new-york.md) - 4 shared documents
 
 **Events:**

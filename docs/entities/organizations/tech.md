@@ -27,42 +27,32 @@ Top 7 documents by mention frequency:
 **Organizations:**
 
 - [Facebook](facebook.md) - 5 shared documents
-- [Financials](financials.md) - 4 shared documents
-- [Merrill Lynch](merrill-lynch.md) - 4 shared documents
-- [Pierce, Fenner & Smith Incorporated](pierce-fenner-smith-incorporated.md) - 4 shared documents
-- [Bank of America Merrill Lynch](bank-of-america-merrill-lynch.md) - 4 shared documents
-- [BofA Merrill Lynch Global Research](bofa-merrill-lynch-global-research.md) - 4 shared documents
-- [Bank of America](bank-of-america.md) - 4 shared documents
-- [Bank of America
-Corporation](bank-of-america-corporation.md) - 4 shared documents
-- [Bloomberg](bloomberg.md) - 4 shared documents
-- [BofA Merrill Lynch](bofa-merrill-lynch.md) - 4 shared documents
 
 **Locations:**
 
 - [Asia](../locations/asia.md) - 7 shared documents
 - [France](../locations/france.md) - 6 shared documents
+- [Australia](../locations/australia.md) - 5 shared documents
 - [China](../locations/china.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
+- [Germany](../locations/germany.md) - 5 shared documents
 - [Japan](../locations/japan.md) - 5 shared documents
 - [Russia](../locations/russia.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
-- [Australia](../locations/australia.md) - 5 shared documents
 - [Spain](../locations/spain.md) - 5 shared documents
-- [Dubai](../locations/dubai.md) - 4 shared documents
+- [Argentina](../locations/argentina.md) - 4 shared documents
 
 **Events:**
 
-- [2004](../events/2004.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [this year](../events/this-year.md) - 5 shared documents
-- [last week](../events/last-week.md) - 5 shared documents
 - [10-year](../events/10-year.md) - 5 shared documents
-- [recent weeks](../events/recent-weeks.md) - 5 shared documents
 - [2001](../events/2001.md) - 5 shared documents
+- [2004](../events/2004.md) - 5 shared documents
+- [last week](../events/last-week.md) - 5 shared documents
+- [recent weeks](../events/recent-weeks.md) - 5 shared documents
 - [the day](../events/the-day.md) - 5 shared documents
-- [2014](../events/2014.md) - 4 shared documents
-- [2000](../events/2000.md) - 4 shared documents
+- [this year](../events/this-year.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
+- [1959](../events/1959.md) - 4 shared documents
+- [198602883D](../events/198602883d.md) - 4 shared documents
 
 ## Timeline
 

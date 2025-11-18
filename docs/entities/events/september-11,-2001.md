@@ -42,7 +42,7 @@ Top 10 documents by mention frequency:
 - [State](../organizations/state.md) - 9 shared documents
 - [al-Qaeda](../organizations/al-qaeda.md) - 8 shared documents
 - [FBI](../organizations/fbi.md) - 8 shared documents
-- [the 9/11 Commission](../organizations/the-9/11-commission.md) - 7 shared documents
+- **the 9/11 Commission** - 7 shared documents
 - [Washington Post](../organizations/washington-post.md) - 7 shared documents
 
 **Locations:**

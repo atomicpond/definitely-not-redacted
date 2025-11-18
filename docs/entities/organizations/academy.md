@@ -56,15 +56,15 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [America](../locations/america.md) - 9 shared documents
-- [Paris](../locations/paris.md) - 8 shared documents
 - [Hollywood](../locations/hollywood.md) - 8 shared documents
-- [Toronto](../locations/toronto.md) - 7 shared documents
-- [Cannes](../locations/cannes.md) - 7 shared documents
+- [Paris](../locations/paris.md) - 8 shared documents
 - [Beverly Hills](../locations/beverly-hills.md) - 7 shared documents
-- [New York](../locations/new-york.md) - 6 shared documents
+- [Cannes](../locations/cannes.md) - 7 shared documents
+- [Toronto](../locations/toronto.md) - 7 shared documents
 - [California](../locations/california.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
 - [London](../locations/london.md) - 6 shared documents
+- [New York](../locations/new-york.md) - 6 shared documents
+- [Rome](../locations/rome.md) - 6 shared documents
 
 **Events:**
 
@@ -73,11 +73,11 @@ Top 10 documents by mention frequency:
 - [the year](../events/the-year.md) - 9 shared documents
 - [annual](../events/annual.md) - 8 shared documents
 - [March](../events/march.md) - 8 shared documents
-- [years](../events/years.md) - 7 shared documents
 - [the next day](../events/the-next-day.md) - 7 shared documents
+- [years](../events/years.md) - 7 shared documents
 - [2005](../events/2005.md) - 6 shared documents
 - [winter](../events/winter.md) - 6 shared documents
-- [six months](../events/six-months.md) - 5 shared documents
+- [1982](../events/1982.md) - 5 shared documents
 
 ## Timeline
 

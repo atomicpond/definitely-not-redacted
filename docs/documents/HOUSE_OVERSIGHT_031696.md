@@ -10,7 +10,7 @@
 
 ### People
 - [Mark Green](../entities/people/mark-green.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Lesley Groff](../entities/people/lesley-groff.md) - 1 mention
 - [Jefffrey Epstein](../entities/people/jefffrey-epstein.md) - 1 mention
 

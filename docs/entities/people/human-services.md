@@ -36,34 +36,31 @@ Top 10 documents by mention frequency:
 - [Congress](../organizations/congress.md) - 7 shared documents
 - [State](../organizations/state.md) - 6 shared documents
 - [Supreme Court](../organizations/supreme-court.md) - 6 shared documents
-- [Senate](../organizations/senate.md) - 5 shared documents
-- [Fed](../organizations/fed.md) - 5 shared documents
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 7 shared documents
 - [U.S](../locations/us.md) - 7 shared documents
+- [United States](../locations/united-states.md) - 7 shared documents
+- [Brazil](../locations/brazil.md) - 6 shared documents
 - [California](../locations/california.md) - 6 shared documents
 - [China](../locations/china.md) - 6 shared documents
-- [Brazil](../locations/brazil.md) - 6 shared documents
 - [Germany](../locations/germany.md) - 6 shared documents
 - [Mexico](../locations/mexico.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 6 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 6 shared documents
 
 **Events:**
 
 - [2012](../events/2012.md) - 8 shared documents
 - [2004](../events/2004.md) - 7 shared documents
+- [2008](../events/2008.md) - 7 shared documents
 - [annual](../events/annual.md) - 7 shared documents
 - [daily](../events/daily.md) - 7 shared documents
-- [2008](../events/2008.md) - 7 shared documents
 - [three years](../events/three-years.md) - 7 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [2000](../events/2000.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
+- [1988](../events/1988.md) - 6 shared documents
+- [1995](../events/1995.md) - 6 shared documents
 - [1997](../events/1997.md) - 6 shared documents
+- [2000](../events/2000.md) - 6 shared documents
 
 ## Timeline
 

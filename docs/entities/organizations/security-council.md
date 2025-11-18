@@ -30,10 +30,11 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Security Council](../people/security-council.md) - 9 shared documents
-- [CLINTON](../people/clinton.md) - 8 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 8 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 8 shared documents
 - [bill burns](../people/bill-burns.md) - 7 shared documents
-- [boris](../people/boris.md) - 7 shared documents
+- [Boris Nikolic](../people/boris-nikolic.md) - 7 shared documents
 - [gordon brown](../people/gordon-brown.md) - 7 shared documents
 - [Kathy 
 Ruemmler](../people/kathy-ruemmler.md) - 7 shared documents
@@ -59,26 +60,26 @@ Ruemmler](../people/kathy-ruemmler.md) - 7 shared documents
 - [Dubai](../locations/dubai.md) - 10 shared documents
 - [India](../locations/india.md) - 9 shared documents
 - [Yemen](../locations/yemen.md) - 9 shared documents
-- [Qatar](../locations/qatar.md) - 7 shared documents
 - [Brussels](../locations/brussels.md) - 7 shared documents
 - [Gulf](../locations/gulf.md) - 7 shared documents
 - [Kuwait](../locations/kuwait.md) - 7 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 6 shared documents
+- [Qatar](../locations/qatar.md) - 7 shared documents
+- [America](../locations/america.md) - 6 shared documents
+- [Britain](../locations/britain.md) - 6 shared documents
 - [China](../locations/china.md) - 6 shared documents
-- [Europe](../locations/europe.md) - 6 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 11 shared documents
 - [this week](../events/this-week.md) - 10 shared documents
 - [Friday](../events/friday.md) - 8 shared documents
-- [Sunday](../events/sunday.md) - 7 shared documents
 - [1:21 AM](../events/121-am.md) - 7 shared documents
 - [6:15 AM](../events/615-am.md) - 7 shared documents
 - [7:15 AM](../events/715-am.md) - 7 shared documents
 - [9/19/2014](../events/9192014.md) - 7 shared documents
 - [Fri, Sep 19, 2014](../events/fri-sep-19-2014.md) - 7 shared documents
 - [next 30 minutes](../events/next-30-minutes.md) - 7 shared documents
+- [Sep 19, 2014](../events/sep-19-2014.md) - 7 shared documents
 
 ## Timeline
 

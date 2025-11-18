@@ -56,9 +56,9 @@ University](../organizations/case-western-reserve-university.md) - 11 shared doc
 
 **Events:**
 
+- [2006](2006.md) - 14 shared documents
 - [2007](2007.md) - 14 shared documents
 - [2008](2008.md) - 14 shared documents
-- [2006](2006.md) - 14 shared documents
 - [weeks](weeks.md) - 13 shared documents
 - [2014](2014.md) - 12 shared documents
 - [April 2011](april-2011.md) - 12 shared documents

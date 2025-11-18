@@ -28,8 +28,8 @@ Top 7 documents by mention frequency:
 
 **People:**
 
-- [tom](tom.md) - 7 shared documents
 - [pritzker](pritzker.md) - 7 shared documents
+- [tom](tom.md) - 7 shared documents
 
 **Organizations:**
 

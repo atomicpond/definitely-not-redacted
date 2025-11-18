@@ -37,11 +37,11 @@ Top 8 documents by mention frequency:
 **Events:**
 
 - [many years](../events/many-years.md) - 5 shared documents
-- [2015](../events/2015.md) - 4 shared documents
-- [the end of 2017](../events/the-end-of-2017.md) - 4 shared documents
 - [2013](../events/2013.md) - 4 shared documents
-- [the end of the year](../events/the-end-of-the-year.md) - 4 shared documents
+- [2015](../events/2015.md) - 4 shared documents
 - [December 2016](../events/december-2016.md) - 4 shared documents
+- [the end of 2017](../events/the-end-of-2017.md) - 4 shared documents
+- [the end of the year](../events/the-end-of-the-year.md) - 4 shared documents
 
 ## Timeline
 

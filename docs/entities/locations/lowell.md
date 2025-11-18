@@ -41,18 +41,18 @@ Top 9 documents by mention frequency:
 
 - [Connecticut](connecticut.md) - 6 shared documents
 - [Massachusetts](massachusetts.md) - 5 shared documents
-- [California](california.md) - 5 shared documents
-- [Florida](florida.md) - 5 shared documents
-- [Cambridge](cambridge.md) - 5 shared documents
-- [Boston](boston.md) - 5 shared documents
 - [Aspen](aspen.md) - 5 shared documents
+- [Boston](boston.md) - 5 shared documents
+- [California](california.md) - 5 shared documents
+- [Cambridge](cambridge.md) - 5 shared documents
+- [Florida](florida.md) - 5 shared documents
 - [Jamaica](jamaica.md) - 4 shared documents
 
 **Events:**
 
 - [1962](../events/1962.md) - 4 shared documents
-- [2000](../events/2000.md) - 4 shared documents
 - [1990](../events/1990.md) - 4 shared documents
+- [2000](../events/2000.md) - 4 shared documents
 - [winter](../events/winter.md) - 4 shared documents
 
 ## Timeline

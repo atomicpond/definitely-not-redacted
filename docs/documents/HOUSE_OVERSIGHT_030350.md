@@ -11,7 +11,7 @@
 ### People
 - [paul krassner](../entities/people/paul-krassner.md) - 1 mention
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 1 mention
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 1 mention
 - [Breitbart](../entities/people/breitbart.md) - 1 mention
 - [John](../entities/people/john.md) - 1 mention
 - [jeffrey E. <](../entities/people/jeffrey-e.md) - 1 mention

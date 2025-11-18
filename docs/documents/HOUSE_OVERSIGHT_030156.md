@@ -17,7 +17,7 @@
 - [United 
 States](../entities/people/united-states.md) - 17 mentions
 - [Middle East](../entities/people/middle-east.md) - 14 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 6 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 6 mentions
 - [Assad](../entities/people/assad.md) - 6 mentions
 - [Object Library](../entities/people/object-library.md) - 4 mentions
 - [White House](../entities/people/white-house.md) - 3 mentions

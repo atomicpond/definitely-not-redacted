@@ -37,11 +37,9 @@ Top 10 documents by mention frequency:
 
 - [Middle East](../people/middle-east.md) - 40 shared documents
 - [Jane Doe](../people/jane-doe.md) - 38 shared documents
-- [President Obama](../people/president-obama.md) - 37 shared documents
 - [White House](../people/white-house.md) - 35 shared documents
 - [Los Angeles](../people/los-angeles.md) - 34 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 32 shared documents
-- [Barack Obama](../people/barack-obama.md) - 30 shared documents
 - [United 
 States](../people/united-states.md) - 29 shared documents
 - [Rights Act](../people/rights-act.md) - 26 shared documents
@@ -70,15 +68,15 @@ States](../people/united-states.md) - 29 shared documents
 - [Europe](europe.md) - 59 shared documents
 - [France](france.md) - 59 shared documents
 - [U.S.](us.md) - 58 shared documents
-- [Germany](germany.md) - 54 shared documents
+- [America](america.md) - 54 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 85 shared documents
 - [2008](../events/2008.md) - 71 shared documents
 - [years](../events/years.md) - 70 shared documents
-- [2011](../events/2011.md) - 67 shared documents
 - [2010](../events/2010.md) - 67 shared documents
+- [2011](../events/2011.md) - 67 shared documents
 - [2009](../events/2009.md) - 63 shared documents
 - [2012](../events/2012.md) - 61 shared documents
 - [2007](../events/2007.md) - 60 shared documents

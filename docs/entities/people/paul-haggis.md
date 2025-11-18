@@ -28,33 +28,30 @@ Top 6 documents by mention frequency:
 **People:**
 
 - [Vanity Fair](vanity-fair.md) - 6 shared documents
-- [Bradley Cooper](bradley-cooper.md) - 6 shared documents
-- [Fran Lebowitz](fran-lebowitz.md) - 6 shared documents
-- [Gwyneth Paltrow](gwyneth-paltrow.md) - 6 shared documents
-- [Jean Pigozzi](jean-pigozzi.md) - 6 shared documents
-- [Jerry Bruckheimer](jerry-bruckheimer.md) - 6 shared documents
-- [Larry Gagosian](larry-gagosian.md) - 6 shared documents
+- [Academy Awards](academy-awards.md) - 6 shared documents
+- [Amy Adams](amy-adams.md) - 6 shared documents
 - [Beverly Hills](beverly-hills.md) - 6 shared documents
-- [Jeff Bezos](jeff-bezos.md) - 6 shared documents
-- [Mick Jagger](mick-jagger.md) - 6 shared documents
+- [Bradley Cooper](bradley-cooper.md) - 6 shared documents
+- [David Furnish](david-furnish.md) - 6 shared documents
+- [Fran Lebowitz](fran-lebowitz.md) - 6 shared documents
+- [Golden Globes](golden-globes.md) - 6 shared documents
+- [Guy Oseary](guy-oseary.md) - 6 shared documents
+- [Gwyneth Paltrow](gwyneth-paltrow.md) - 6 shared documents
 
 **Organizations:**
 
-- [Academy](../organizations/academy.md) - 6 shared documents
-- [UTA](../organizations/uta.md) - 6 shared documents
 - [ABC-TV](../organizations/abc-tv.md) - 6 shared documents
+- [Academy](../organizations/academy.md) - 6 shared documents
 - [DGA](../organizations/dga.md) - 6 shared documents
 - [PGA](../organizations/pga.md) - 6 shared documents
-- [Vanity Fair](../organizations/vanity-fair.md) - 5 shared documents
+- [UTA](../organizations/uta.md) - 6 shared documents
 - [Soho House](../organizations/soho-house.md) - 5 shared documents
+- [Vanity Fair](../organizations/vanity-fair.md) - 5 shared documents
 
 **Locations:**
 
 - [America](../locations/america.md) - 6 shared documents
 - [Beverly Hills](../locations/beverly-hills.md) - 6 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
 
 **Events:**
 
@@ -62,11 +59,12 @@ Top 6 documents by mention frequency:
 - [Sunday](../events/sunday.md) - 6 shared documents
 - [this year](../events/this-year.md) - 6 shared documents
 - [years](../events/years.md) - 5 shared documents
-- [October](../events/october.md) - 4 shared documents
-- [six months](../events/six-months.md) - 4 shared documents
-- [last year](../events/last-year.md) - 4 shared documents
+- [1982](../events/1982.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
+- [a few weeks](../events/a-few-weeks.md) - 4 shared documents
+- [Christmas](../events/christmas.md) - 4 shared documents
 - [last week](../events/last-week.md) - 4 shared documents
-- [March](../events/march.md) - 4 shared documents
+- [last year](../events/last-year.md) - 4 shared documents
 
 ## Timeline
 

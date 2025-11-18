@@ -40,13 +40,10 @@ Top 10 documents by mention frequency:
 - [United 
 States](../people/united-states.md) - 69 shared documents
 - [Middle East](../people/middle-east.md) - 63 shared documents
-- [Barack Obama](../people/barack-obama.md) - 54 shared documents
-- [President Obama](../people/president-obama.md) - 54 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 53 shared documents
 - [White House](../people/white-house.md) - 53 shared documents
-- [Mr. Obama](../people/obama.md) - 51 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 41 shared documents
 - [Los Angeles](../people/los-angeles.md) - 38 shared documents
+- [Jane Doe](../people/jane-doe.md) - 31 shared documents
 
 **Organizations:**
 
@@ -71,8 +68,8 @@ States](../people/united-states.md) - 69 shared documents
 - [New York](new-york.md) - 86 shared documents
 - [US](us.md) - 82 shared documents
 - [France](france.md) - 78 shared documents
-- [Russia](russia.md) - 77 shared documents
 - [Iraq](iraq.md) - 77 shared documents
+- [Russia](russia.md) - 77 shared documents
 
 **Events:**
 
@@ -82,8 +79,8 @@ States](../people/united-states.md) - 69 shared documents
 - [2010](../events/2010.md) - 88 shared documents
 - [2008](../events/2008.md) - 85 shared documents
 - [2007](../events/2007.md) - 84 shared documents
-- [2011](../events/2011.md) - 78 shared documents
 - [2006](../events/2006.md) - 78 shared documents
+- [2011](../events/2011.md) - 78 shared documents
 - [2012](../events/2012.md) - 73 shared documents
 - [2004](../events/2004.md) - 70 shared documents
 

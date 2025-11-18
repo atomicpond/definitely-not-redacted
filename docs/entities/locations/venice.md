@@ -52,27 +52,27 @@ Top 10 documents by mention frequency:
 
 - [London](london.md) - 15 shared documents
 - [Europe](europe.md) - 13 shared documents
-- [New York](new-york.md) - 11 shared documents
 - [Cambridge](cambridge.md) - 11 shared documents
+- [New York](new-york.md) - 11 shared documents
 - [Paris](paris.md) - 11 shared documents
 - [China](china.md) - 10 shared documents
 - [Italy](italy.md) - 10 shared documents
-- [U.S.](us.md) - 9 shared documents
-- [USA](usa.md) - 9 shared documents
+- [England](england.md) - 9 shared documents
+- [Rome](rome.md) - 9 shared documents
 - [the United States](the-united-states.md) - 9 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 12 shared documents
-- [years](../events/years.md) - 11 shared documents
-- [Friday](../events/friday.md) - 11 shared documents
 - [1984](../events/1984.md) - 11 shared documents
-- [two years](../events/two-years.md) - 10 shared documents
+- [Friday](../events/friday.md) - 11 shared documents
+- [years](../events/years.md) - 11 shared documents
 - [the day](../events/the-day.md) - 10 shared documents
+- [two years](../events/two-years.md) - 10 shared documents
+- [1995](../events/1995.md) - 9 shared documents
+- [1996](../events/1996.md) - 9 shared documents
 - [2009](../events/2009.md) - 9 shared documents
 - [2014](../events/2014.md) - 9 shared documents
-- [1996](../events/1996.md) - 9 shared documents
-- [Sunday](../events/sunday.md) - 9 shared documents
 
 ## Timeline
 

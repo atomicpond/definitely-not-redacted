@@ -36,24 +36,24 @@ Top 7 documents by mention frequency:
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [China](../locations/china.md) - 4 shared documents
-- [Canada](../locations/canada.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
+- [Canada](../locations/canada.md) - 4 shared documents
+- [China](../locations/china.md) - 4 shared documents
 - [Italy](../locations/italy.md) - 4 shared documents
 - [Switzerland](../locations/switzerland.md) - 4 shared documents
 
 **Events:**
 
-- [annual](../events/annual.md) - 5 shared documents
 - [2012](../events/2012.md) - 5 shared documents
+- [annual](../events/annual.md) - 5 shared documents
 - [daily](../events/daily.md) - 5 shared documents
 - [years](../events/years.md) - 5 shared documents
-- [2018](../events/2018.md) - 4 shared documents
+- [10 years](../events/10-years.md) - 4 shared documents
+- [12 years](../events/12-years.md) - 4 shared documents
+- [2013](../events/2013.md) - 4 shared documents
 - [2014](../events/2014.md) - 4 shared documents
 - [2015](../events/2015.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [last year](../events/last-year.md) - 4 shared documents
-- [monthly](../events/monthly.md) - 4 shared documents
+- [2018](../events/2018.md) - 4 shared documents
 
 ## Timeline
 

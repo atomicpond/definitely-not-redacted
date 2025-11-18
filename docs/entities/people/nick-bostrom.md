@@ -23,38 +23,22 @@ Top 5 documents by mention frequency:
 
 ### Most Frequently Co-occurring Entities
 
-**Organizations:**
-
-- [Facebook](../organizations/facebook.md) - 4 shared documents
-- [IBM](../organizations/ibm.md) - 4 shared documents
-- [NASA](../organizations/nasa.md) - 4 shared documents
-- [Twitter](../organizations/twitter.md) - 4 shared documents
-- [Harvard](../organizations/harvard.md) - 4 shared documents
-- [Intelligence](../organizations/intelligence.md) - 4 shared documents
-
 **Locations:**
 
 - [Germany](../locations/germany.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
-- [Earth](../locations/earth.md) - 4 shared documents
-- [China](../locations/china.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
-- [America](../locations/america.md) - 4 shared documents
-- [Cambridge](../locations/cambridge.md) - 4 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 5 shared documents
 - [years](../events/years.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [2004](../events/2004.md) - 4 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [1996](../events/1996.md) - 4 shared documents
-- [2012](../events/2012.md) - 4 shared documents
-- [these days](../events/these-days.md) - 4 shared documents
-- [1985](../events/1985.md) - 4 shared documents
-- [2011](../events/2011.md) - 4 shared documents
+- [1949](../events/1949.md) - 4 shared documents
+- [1952](../events/1952.md) - 4 shared documents
+- [1964](../events/1964.md) - 4 shared documents
+- [1970](../events/1970.md) - 4 shared documents
+- [1972](../events/1972.md) - 4 shared documents
+- [1973](../events/1973.md) - 4 shared documents
+- [1976](../events/1976.md) - 4 shared documents
+- [1978](../events/1978.md) - 4 shared documents
 
 ## Timeline
 

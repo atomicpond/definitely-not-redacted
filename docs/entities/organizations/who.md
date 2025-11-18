@@ -26,9 +26,9 @@ Top 5 documents by mention frequency:
 
 - [Africa](../locations/africa.md) - 4 shared documents
 - [Asia](../locations/asia.md) - 4 shared documents
-- [Massachusetts](../locations/massachusetts.md) - 4 shared documents
 - [Boston](../locations/boston.md) - 4 shared documents
 - [Latin America](../locations/latin-america.md) - 4 shared documents
+- [Massachusetts](../locations/massachusetts.md) - 4 shared documents
 
 ## Timeline
 

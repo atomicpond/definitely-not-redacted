@@ -26,7 +26,8 @@ Top 6 documents by mention frequency:
 **People:**
 
 - [County Road](../people/county-road.md) - 6 shared documents
-- [Trump Properties](../people/trump-properties.md) - 6 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 6 shared documents
 
 **Organizations:**
 

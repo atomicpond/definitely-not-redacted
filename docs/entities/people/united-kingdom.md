@@ -36,9 +36,9 @@ Top 10 documents by mention frequency:
 States](united-states.md) - 10 shared documents
 - [New
 York](new-york.md) - 8 shared documents
+- [Brexit](brexit.md) - 6 shared documents
 - [European 
 Union](european-union.md) - 6 shared documents
-- [Brexit](brexit.md) - 6 shared documents
 - [Goldman Sachs](goldman-sachs.md) - 5 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 5 shared documents
 
@@ -47,25 +47,25 @@ Union](european-union.md) - 6 shared documents
 - [HOUSE](../organizations/house.md) - 12 shared documents
 - [Congress](../organizations/congress.md) - 7 shared documents
 - [Facebook](../organizations/facebook.md) - 6 shared documents
+- [BBC](../organizations/bbc.md) - 5 shared documents
+- [Goldman Sachs](../organizations/goldman-sachs.md) - 5 shared documents
+- [Treasury](../organizations/treasury.md) - 5 shared documents
 - [Trump](../organizations/trump.md) - 5 shared documents
 - [Twitter](../organizations/twitter.md) - 5 shared documents
-- [BBC](../organizations/bbc.md) - 5 shared documents
-- [Treasury](../organizations/treasury.md) - 5 shared documents
-- [Goldman Sachs](../organizations/goldman-sachs.md) - 5 shared documents
 - [Yale](../organizations/yale.md) - 5 shared documents
 
 **Locations:**
 
 - [London](../locations/london.md) - 10 shared documents
-- [New York](../locations/new-york.md) - 9 shared documents
-- [United States](../locations/united-states.md) - 9 shared documents
 - [Europe](../locations/europe.md) - 9 shared documents
+- [New York](../locations/new-york.md) - 9 shared documents
 - [the United Kingdom](../locations/the-united-kingdom.md) - 9 shared documents
+- [United States](../locations/united-states.md) - 9 shared documents
 - [US](../locations/us.md) - 9 shared documents
-- [the United States](../locations/the-united-states.md) - 8 shared documents
 - [England](../locations/england.md) - 8 shared documents
+- [the United States](../locations/the-united-states.md) - 8 shared documents
 - [United Kingdom](../locations/united-kingdom.md) - 8 shared documents
-- [China](../locations/china.md) - 7 shared documents
+- [America](../locations/america.md) - 7 shared documents
 
 **Events:**
 
@@ -73,7 +73,7 @@ Union](european-union.md) - 6 shared documents
 - [today](../events/today.md) - 8 shared documents
 - [this week](../events/this-week.md) - 6 shared documents
 - [2008](../events/2008.md) - 5 shared documents
-- [October](../events/october.md) - 4 shared documents
+- [2013](../events/2013.md) - 4 shared documents
 - [2014](../events/2014.md) - 4 shared documents
 - [annual](../events/annual.md) - 4 shared documents
 

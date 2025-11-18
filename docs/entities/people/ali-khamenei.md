@@ -28,36 +28,36 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](barack-obama.md) - 9 shared documents
-- [Mr. Obama](obama.md) - 8 shared documents
+- [Barack Obama](barack-obama.md) - 7 shared documents
 - [Middle East](middle-east.md) - 7 shared documents
 - [Mr. Mubarak](mubarak.md) - 7 shared documents
-- [President Obama](president-obama.md) - 7 shared documents
 - [Saudi Arabia](saudi-arabia.md) - 7 shared documents
 - [Assad](assad.md) - 6 shared documents
-- [Benjamin Netanyahu](benjamin-netanyahu.md) - 6 shared documents
 - [Israeli Prime Minister](israeli-prime-minister.md) - 6 shared documents
 - [Khamenei](khamenei.md) - 6 shared documents
+- [Mahmoud Ahmadinejad](mahmoud-ahmadinejad.md) - 6 shared documents
+- [United 
+States](united-states.md) - 6 shared documents
+- [Arab Spring](arab-spring.md) - 5 shared documents
 
 **Organizations:**
 
 - [Hamas](../organizations/hamas.md) - 8 shared documents
 - [IMF](../organizations/imf.md) - 7 shared documents
 - [NYT](../organizations/nyt.md) - 7 shared documents
-- [HOUSE](../organizations/house.md) - 6 shared documents
 
 **Locations:**
 
-- [Middle East](../locations/middle-east.md) - 9 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 9 shared documents
-- [China](../locations/china.md) - 9 shared documents
-- [Washington](../locations/washington.md) - 9 shared documents
 - [America](../locations/america.md) - 9 shared documents
+- [China](../locations/china.md) - 9 shared documents
 - [France](../locations/france.md) - 9 shared documents
 - [Iran](../locations/iran.md) - 9 shared documents
 - [Iraq](../locations/iraq.md) - 9 shared documents
+- [Israel](../locations/israel.md) - 9 shared documents
 - [Libya](../locations/libya.md) - 9 shared documents
+- [Middle East](../locations/middle-east.md) - 9 shared documents
 - [Syria](../locations/syria.md) - 9 shared documents
+- [Tehran](../locations/tehran.md) - 9 shared documents
 
 **Events:**
 
@@ -65,12 +65,12 @@ Top 9 documents by mention frequency:
 - [today](../events/today.md) - 9 shared documents
 - [2003](../events/2003.md) - 8 shared documents
 - [2011](../events/2011.md) - 8 shared documents
-- [last year](../events/last-year.md) - 7 shared documents
-- [last week](../events/last-week.md) - 7 shared documents
-- [last month](../events/last-month.md) - 7 shared documents
 - [2013](../events/2013.md) - 7 shared documents
-- [2007](../events/2007.md) - 6 shared documents
-- [the 1980s](../events/the-1980s.md) - 6 shared documents
+- [last month](../events/last-month.md) - 7 shared documents
+- [last week](../events/last-week.md) - 7 shared documents
+- [last year](../events/last-year.md) - 7 shared documents
+- [1993](../events/1993.md) - 6 shared documents
+- [2006](../events/2006.md) - 6 shared documents
 
 ## Timeline
 

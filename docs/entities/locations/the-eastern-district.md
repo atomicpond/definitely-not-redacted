@@ -52,21 +52,20 @@ Top 8 documents by mention frequency:
 - [Washington](washington.md) - 6 shared documents
 - [Texas](texas.md) - 6 shared documents
 - [U.S.](us.md) - 5 shared documents
-- [New York](new-york.md) - 5 shared documents
 - [Colorado](colorado.md) - 5 shared documents
-- [California](california.md) - 4 shared documents
+- [New York](new-york.md) - 5 shared documents
 
 **Events:**
 
-- [2003](../events/2003.md) - 7 shared documents
-- [2004](../events/2004.md) - 7 shared documents
-- [1996](../events/1996.md) - 7 shared documents
 - [1990](../events/1990.md) - 7 shared documents
+- [1996](../events/1996.md) - 7 shared documents
 - [1999](../events/1999.md) - 7 shared documents
 - [2002](../events/2002.md) - 7 shared documents
-- [2014](../events/2014.md) - 6 shared documents
-- [2000](../events/2000.md) - 6 shared documents
-- [daily](../events/daily.md) - 6 shared documents
+- [2003](../events/2003.md) - 7 shared documents
+- [2004](../events/2004.md) - 7 shared documents
+- [1977](../events/1977.md) - 6 shared documents
+- [1979](../events/1979.md) - 6 shared documents
+- [1982](../events/1982.md) - 6 shared documents
 - [1985](../events/1985.md) - 6 shared documents
 
 ## Timeline

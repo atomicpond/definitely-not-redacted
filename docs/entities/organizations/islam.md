@@ -30,16 +30,16 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 24 shared documents
-- [President Obama](../people/president-obama.md) - 24 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 21 shared documents
-- [Barack Obama](../people/barack-obama.md) - 18 shared documents
-- [Mr. Obama](../people/obama.md) - 18 shared documents
 - [United 
 States](../people/united-states.md) - 17 shared documents
 - [Cold War](../people/cold-war.md) - 15 shared documents
 - [Mr. Mubarak](../people/mubarak.md) - 14 shared documents
 - [White House](../people/white-house.md) - 14 shared documents
 - [Islamic Republic](../people/islamic-republic.md) - 13 shared documents
+- [Tahrir Square](../people/tahrir-square.md) - 12 shared documents
+- [West Bank](../people/west-bank.md) - 12 shared documents
+- [Assad](../people/assad.md) - 11 shared documents
 
 **Organizations:**
 
@@ -47,8 +47,8 @@ States](../people/united-states.md) - 17 shared documents
 - [Hamas](hamas.md) - 23 shared documents
 - [al-Qaeda](al-qaeda.md) - 21 shared documents
 - [State](state.md) - 19 shared documents
-- [HOUSE](house.md) - 19 shared documents
 - [Harvard](harvard.md) - 19 shared documents
+- [HOUSE](house.md) - 19 shared documents
 - [the Muslim Brotherhood](the-muslim-brotherhood.md) - 18 shared documents
 - [CIA](cia.md) - 18 shared documents
 - [NYT](nyt.md) - 14 shared documents
@@ -62,10 +62,10 @@ States](../people/united-states.md) - 17 shared documents
 - [Israel](../locations/israel.md) - 31 shared documents
 - [China](../locations/china.md) - 30 shared documents
 - [Washington](../locations/washington.md) - 28 shared documents
-- [Europe](../locations/europe.md) - 27 shared documents
 - [America](../locations/america.md) - 27 shared documents
+- [Europe](../locations/europe.md) - 27 shared documents
 - [India](../locations/india.md) - 27 shared documents
-- [Iran](../locations/iran.md) - 26 shared documents
+- [Egypt](../locations/egypt.md) - 26 shared documents
 
 **Events:**
 
@@ -73,8 +73,8 @@ States](../people/united-states.md) - 17 shared documents
 - [years](../events/years.md) - 26 shared documents
 - [decades](../events/decades.md) - 23 shared documents
 - [the day](../events/the-day.md) - 21 shared documents
-- [daily](../events/daily.md) - 20 shared documents
 - [1991](../events/1991.md) - 20 shared documents
+- [daily](../events/daily.md) - 20 shared documents
 - [2003](../events/2003.md) - 19 shared documents
 - [2009](../events/2009.md) - 19 shared documents
 

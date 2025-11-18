@@ -56,11 +56,11 @@ Top 8 documents by mention frequency:
 **Events:**
 
 - [three years](three-years.md) - 6 shared documents
-- [2006](2006.md) - 6 shared documents
-- [one year](one-year.md) - 6 shared documents
 - [14](14.md) - 6 shared documents
 - [14-year-old](14-year-old.md) - 6 shared documents
 - [18](18.md) - 6 shared documents
+- [2006](2006.md) - 6 shared documents
+- [one year](one-year.md) - 6 shared documents
 - [the age of 18](the-age-of-18.md) - 6 shared documents
 - [this year](this-year.md) - 5 shared documents
 - [Tuesday](tuesday.md) - 5 shared documents

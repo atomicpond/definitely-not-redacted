@@ -25,36 +25,35 @@ Top 6 documents by mention frequency:
 
 **People:**
 
-- [Mr. Obama](obama.md) - 5 shared documents
 - [Hosni Mubarak](hosni-mubarak.md) - 4 shared documents
 
 **Organizations:**
 
 - [State](../organizations/state.md) - 5 shared documents
-- [White House](../organizations/white-house.md) - 4 shared documents
-- [NATO](../organizations/nato.md) - 4 shared documents
 - [Hamas](../organizations/hamas.md) - 4 shared documents
+- [NATO](../organizations/nato.md) - 4 shared documents
+- [White House](../organizations/white-house.md) - 4 shared documents
 
 **Locations:**
 
+- [Egypt](../locations/egypt.md) - 6 shared documents
+- [Israel](../locations/israel.md) - 6 shared documents
+- [Lebanon](../locations/lebanon.md) - 6 shared documents
 - [Syria](../locations/syria.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 6 shared documents
-- [Israel](../locations/israel.md) - 6 shared documents
 - [Turkey](../locations/turkey.md) - 6 shared documents
-- [Egypt](../locations/egypt.md) - 6 shared documents
-- [Lebanon](../locations/lebanon.md) - 6 shared documents
 - [US](../locations/us.md) - 6 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
+- [America](../locations/america.md) - 5 shared documents
 - [China](../locations/china.md) - 5 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
+- [Damascus](../locations/damascus.md) - 5 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 5 shared documents
-- [last week](../events/last-week.md) - 4 shared documents
-- [decades](../events/decades.md) - 4 shared documents
-- [September](../events/september.md) - 4 shared documents
 - [1991](../events/1991.md) - 4 shared documents
+- [decades](../events/decades.md) - 4 shared documents
+- [last week](../events/last-week.md) - 4 shared documents
+- [September](../events/september.md) - 4 shared documents
 
 ## Timeline
 

@@ -33,10 +33,10 @@ Top 10 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 7 shared documents
 - [Congress](../organizations/congress.md) - 7 shared documents
-- [Senate](../organizations/senate.md) - 6 shared documents
+- [HOUSE](../organizations/house.md) - 7 shared documents
 - [FBI](../organizations/fbi.md) - 6 shared documents
+- [Senate](../organizations/senate.md) - 6 shared documents
 - [Office](../organizations/office.md) - 5 shared documents
 - [St. Thomas](../organizations/st-thomas.md) - 5 shared documents
 
@@ -45,26 +45,26 @@ Top 10 documents by mention frequency:
 - [the United States](../locations/the-united-states.md) - 9 shared documents
 - [St. Thomas](../locations/st-thomas.md) - 8 shared documents
 - [USVI](../locations/usvi.md) - 7 shared documents
-- [U.S.](../locations/us.md) - 6 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
 - [Florida](../locations/florida.md) - 6 shared documents
 - [Miami](../locations/miami.md) - 6 shared documents
 - [the Virgin Islands](../locations/the-virgin-islands.md) - 6 shared documents
+- [U.S.](../locations/us.md) - 6 shared documents
+- [United States](../locations/united-states.md) - 6 shared documents
 - [Virgin Islands](../locations/virgin-islands.md) - 6 shared documents
+- [Washington](../locations/washington.md) - 6 shared documents
 
 **Events:**
 
 - [annual](../events/annual.md) - 8 shared documents
 - [today](../events/today.md) - 7 shared documents
-- [Thursday](../events/thursday.md) - 6 shared documents
-- [daily](../events/daily.md) - 6 shared documents
-- [Sunday](../events/sunday.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
-- [months](../events/months.md) - 6 shared documents
 - [2006](../events/2006.md) - 6 shared documents
+- [daily](../events/daily.md) - 6 shared documents
+- [months](../events/months.md) - 6 shared documents
+- [Sunday](../events/sunday.md) - 6 shared documents
+- [Thursday](../events/thursday.md) - 6 shared documents
 - [two years](../events/two-years.md) - 6 shared documents
-- [Wednesday](../events/wednesday.md) - 5 shared documents
+- [years](../events/years.md) - 6 shared documents
+- [2005](../events/2005.md) - 5 shared documents
 
 ## Timeline
 

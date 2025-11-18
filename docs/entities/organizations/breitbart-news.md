@@ -55,29 +55,29 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [Germany](../locations/germany.md) - 10 shared documents
 - [France](../locations/france.md) - 10 shared documents
+- [Germany](../locations/germany.md) - 10 shared documents
 - [New York](../locations/new-york.md) - 7 shared documents
-- [Washington](../locations/washington.md) - 7 shared documents
 - [the United States](../locations/the-united-states.md) - 7 shared documents
-- [USA](../locations/usa.md) - 6 shared documents
+- [Washington](../locations/washington.md) - 7 shared documents
+- [America](../locations/america.md) - 6 shared documents
 - [China](../locations/china.md) - 6 shared documents
 - [Europe](../locations/europe.md) - 6 shared documents
+- [Italy](../locations/italy.md) - 6 shared documents
 - [Russia](../locations/russia.md) - 6 shared documents
-- [America](../locations/america.md) - 6 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
-- [Friday](../events/friday.md) - 6 shared documents
 - [every day](../events/every-day.md) - 6 shared documents
+- [Friday](../events/friday.md) - 6 shared documents
+- [today](../events/today.md) - 6 shared documents
 - [week](../events/week.md) - 6 shared documents
-- [2014](../events/2014.md) - 5 shared documents
-- [this week](../events/this-week.md) - 5 shared documents
+- [years](../events/years.md) - 6 shared documents
 - [2008](../events/2008.md) - 5 shared documents
-- [tomorrow](../events/tomorrow.md) - 5 shared documents
+- [2014](../events/2014.md) - 5 shared documents
 - [March 11, 2018](../events/march-11-2018.md) - 5 shared documents
+- [this week](../events/this-week.md) - 5 shared documents
+- [tomorrow](../events/tomorrow.md) - 5 shared documents
 
 ## Timeline
 

@@ -29,16 +29,17 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 11 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 11 shared documents
-- [President Obama](../people/president-obama.md) - 11 shared documents
 - [White House](../people/white-house.md) - 11 shared documents
 - [Alex Acosta](../people/alex-acosta.md) - 10 shared documents
-- [CLINTON](../people/clinton.md) - 10 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 10 shared documents
 - [Cold War](../people/cold-war.md) - 8 shared documents
 - [Daily News](../people/daily-news.md) - 8 shared documents
 - [Communist Party](../people/communist-party.md) - 7 shared documents
 - [East Asia](../people/east-asia.md) - 7 shared documents
+- [Federal Reserve](../people/federal-reserve.md) - 7 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 7 shared documents
+- [Miami Herald](../people/miami-herald.md) - 7 shared documents
 
 **Organizations:**
 
@@ -49,9 +50,9 @@ Top 10 documents by mention frequency:
 - [FBI](fbi.md) - 11 shared documents
 - [Justice](justice.md) - 11 shared documents
 - [White House](white-house.md) - 9 shared documents
-- [Harvard](harvard.md) - 9 shared documents
 - [NATO](nato.md) - 8 shared documents
 - [Senate](senate.md) - 8 shared documents
+- [Supreme Court](supreme-court.md) - 8 shared documents
 
 **Locations:**
 
@@ -62,9 +63,9 @@ Top 10 documents by mention frequency:
 - [Washington](../locations/washington.md) - 14 shared documents
 - [Europe](../locations/europe.md) - 13 shared documents
 - [the United States](../locations/the-united-states.md) - 13 shared documents
+- [Britain](../locations/britain.md) - 12 shared documents
 - [China](../locations/china.md) - 12 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 12 shared documents
-- [Britain](../locations/britain.md) - 12 shared documents
 
 **Events:**
 
@@ -75,9 +76,9 @@ Top 10 documents by mention frequency:
 - [months](../events/months.md) - 12 shared documents
 - [the years](../events/the-years.md) - 12 shared documents
 - [2007](../events/2007.md) - 10 shared documents
-- [annual](../events/annual.md) - 10 shared documents
-- [2017](../events/2017.md) - 10 shared documents
 - [2011](../events/2011.md) - 10 shared documents
+- [2017](../events/2017.md) - 10 shared documents
+- [annual](../events/annual.md) - 10 shared documents
 
 ## Timeline
 

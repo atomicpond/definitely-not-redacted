@@ -16,7 +16,7 @@
 - [Jeffrey](../entities/people/jeffrey.md) - 1 mention
 - [On Sat](../entities/people/on-sat.md) - 1 mention
 - [On Fri](../entities/people/on-fri.md) - 1 mention
-- [Mr. Thiel](../entities/people/mr-thiel.md) - 1 mention
+- [Mr. Thiel](../entities/people/thiel.md) - 1 mention
 
 ### Organizations
 - [HOUSE](../entities/organizations/house.md) - 2 mentions

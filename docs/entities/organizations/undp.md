@@ -25,7 +25,7 @@ Top 6 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 
 **Organizations:**
 
@@ -35,14 +35,14 @@ Top 6 documents by mention frequency:
 
 - [Russia](../locations/russia.md) - 5 shared documents
 - [South Africa](../locations/south-africa.md) - 5 shared documents
-- [Middle East](../locations/middle-east.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
-- [China](../locations/china.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 4 shared documents
 - [Asia](../locations/asia.md) - 4 shared documents
+- [China](../locations/china.md) - 4 shared documents
 - [France](../locations/france.md) - 4 shared documents
-- [Pakistan](../locations/pakistan.md) - 4 shared documents
+- [Germany](../locations/germany.md) - 4 shared documents
+- [Greece](../locations/greece.md) - 4 shared documents
+- [India](../locations/india.md) - 4 shared documents
+- [Israel](../locations/israel.md) - 4 shared documents
 
 **Events:**
 

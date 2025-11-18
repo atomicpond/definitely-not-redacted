@@ -31,15 +31,15 @@ Top 10 documents by mention frequency:
 
 - [Daily Mail](../people/daily-mail.md) - 17 shared documents
 - [Vanity Fair](../people/vanity-fair.md) - 13 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 11 shared documents
 - [Brad Edwards](../people/brad-edwards.md) - 9 shared documents
 - [Les Wexner](../people/les-wexner.md) - 9 shared documents
 - [Robert Maxwell](../people/robert-maxwell.md) - 9 shared documents
 - [Donald 
 Trump](../people/donald-trump.md) - 8 shared documents
-- [Epstein](../people/epstein.md) - 8 shared documents
 - [Jeffrey](../people/jeffrey.md) - 8 shared documents
 - [New Mexico](../people/new-mexico.md) - 8 shared documents
+- [Alfredo Rodriguez](../people/alfredo-rodriguez.md) - 7 shared documents
+- [Daily Beast](../people/daily-beast.md) - 7 shared documents
 
 **Organizations:**
 
@@ -58,14 +58,14 @@ Trump](../people/donald-trump.md) - 8 shared documents
 
 - [Manhattan](../locations/manhattan.md) - 16 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 16 shared documents
-- [New York](../locations/new-york.md) - 13 shared documents
 - [America](../locations/america.md) - 13 shared documents
+- [New York](../locations/new-york.md) - 13 shared documents
 - [Paris](../locations/paris.md) - 13 shared documents
 - [New York City](../locations/new-york-city.md) - 12 shared documents
-- [London](../locations/london.md) - 10 shared documents
 - [Florida](../locations/florida.md) - 10 shared documents
+- [London](../locations/london.md) - 10 shared documents
+- [Britain](../locations/britain.md) - 9 shared documents
 - [Europe](../locations/europe.md) - 9 shared documents
-- [Mail](../locations/mail.md) - 9 shared documents
 
 **Events:**
 
@@ -73,12 +73,12 @@ Trump](../people/donald-trump.md) - 8 shared documents
 - [Sunday](../events/sunday.md) - 13 shared documents
 - [2014](../events/2014.md) - 11 shared documents
 - [last year](../events/last-year.md) - 11 shared documents
+- [1982](../events/1982.md) - 10 shared documents
 - [daily](../events/daily.md) - 10 shared documents
 - [Saturday](../events/saturday.md) - 10 shared documents
-- [1982](../events/1982.md) - 10 shared documents
 - [the day](../events/the-day.md) - 10 shared documents
-- [years](../events/years.md) - 9 shared documents
 - [2011](../events/2011.md) - 9 shared documents
+- [the next day](../events/the-next-day.md) - 9 shared documents
 
 ## Timeline
 

@@ -32,7 +32,8 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [CLINTON](clinton.md) - 9 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 9 shared documents
 - [Jeffrey E](jeffrey-e.md) - 6 shared documents
 
 **Organizations:**

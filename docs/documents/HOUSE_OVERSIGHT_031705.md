@@ -10,7 +10,7 @@
 
 ### People
 - [Romney](../entities/people/romney.md) - 9 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 3 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 3 mentions
 - [Ehud Barak](../entities/people/ehud-barak.md) - 1 mention
 - [Jimmy Carter](../entities/people/jimmy-carter.md) - 1 mention
 - [Mahmoud Abbas](../entities/people/mahmoud-abbas.md) - 1 mention

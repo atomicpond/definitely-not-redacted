@@ -40,13 +40,13 @@ Top 6 documents by mention frequency:
 
 **Organizations:**
 
-- [Ford](../organizations/ford.md) - 6 shared documents
-- [LLC](../organizations/llc.md) - 6 shared documents
-- [MILLER](../organizations/miller.md) - 6 shared documents
 - [ASSOC](../organizations/assoc.md) - 6 shared documents
 - [BALLANTINE](../organizations/ballantine.md) - 6 shared documents
+- [Ford](../organizations/ford.md) - 6 shared documents
 - [GRIFT](../organizations/grift.md) - 6 shared documents
+- [LLC](../organizations/llc.md) - 6 shared documents
 - [MADDOCK](../organizations/maddock.md) - 6 shared documents
+- [MILLER](../organizations/miller.md) - 6 shared documents
 - [REEF ROAD LLC](../organizations/reef-road-llc.md) - 6 shared documents
 - [S COUNTY LLC](../organizations/s-county-llc.md) - 6 shared documents
 - [VIA DEL MAR LLC](../organizations/via-del-mar-llc.md) - 6 shared documents
@@ -54,21 +54,22 @@ Top 6 documents by mention frequency:
 **Locations:**
 
 - [Florida](../locations/florida.md) - 6 shared documents
-- [Virginia](../locations/virginia.md) - 6 shared documents
-- [Palm Beach](../locations/palm-beach.md) - 6 shared documents
-- [Holland](../locations/holland.md) - 6 shared documents
 - [HENDERSON](../locations/henderson.md) - 6 shared documents
+- [Holland](../locations/holland.md) - 6 shared documents
+- [Palm Beach](../locations/palm-beach.md) - 6 shared documents
+- [Virginia](../locations/virginia.md) - 6 shared documents
 - [WOODBRIDGE](../locations/woodbridge.md) - 6 shared documents
 - [Charlotte](../locations/charlotte.md) - 5 shared documents
 - [Flint](../locations/flint.md) - 5 shared documents
+- [NORTH LAKE](../locations/north-lake.md) - 5 shared documents
 
 **Events:**
 
 - [winter](../events/winter.md) - 6 shared documents
-- [2000](../events/2000.md) - 5 shared documents
-- [1997](../events/1997.md) - 5 shared documents
-- [2005](../events/2005.md) - 5 shared documents
 - [1995](../events/1995.md) - 5 shared documents
+- [1997](../events/1997.md) - 5 shared documents
+- [2000](../events/2000.md) - 5 shared documents
+- [2005](../events/2005.md) - 5 shared documents
 
 ## Timeline
 

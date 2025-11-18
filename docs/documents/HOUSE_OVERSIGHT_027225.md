@@ -47,178 +47,107 @@ Entry](../entities/people/source-entry.md) - 1 mention
 
 ## Document Text
 
+**Thread-like Conversation View:**
+
 ```
-Source Entry: H\Macintosh HD\root\Users\jee\Library\Messages\Archive\2017-04-09\1111 
-on 2017-04-09 at 03.50.22.ichat 
-Service: iMessage 
-**Start Time**: **04/09/17** 12:50:22 AM (513417022) 
-**End Time**: **04/09/17** 08:12:43 AM (513443563) 
-**Last Message** ID: 3269 
-**Chat Room**: 
-Participants: jee, 
-Presentity IDs: e:jeeitunes@gmail.com, 
-Messages - 
-Sender: ___________________ 
-Time: **04/09/17** 12:50:22 AM (513417022) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: C01592F2-54C8-4BF4-BCF7-2833B833CF04 
-Message: Hello 
-Sender: e:jeeitunes@gmail.com 
-Time: **04/09/17** 12:51:00 AM (513417060) 
-Flags: 1093637 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: FCC6170A-1103-476E-8491-AEA17519BD51 
-Message: .? How was Bill 
-Sender: 
-Time: **04/09/17** 12:51:41 AM (513417101) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: F8DCB10E-46CE-462D-9E42-833FCCO5B473 
-Message: Gud. Critical on **Trump**. 
-Sender: 
-Time: **04/09/17** 12:52:19 AM (513417139) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: FB85D9C3-E18E-4888-893D-2E367D96EDC2 
-Message: Have u done any deals in **India** ? 
-**HOUSE** OVERSIGHT 027225 
-Sender: e:jeeitunes@gmail.com 
-Time: **04/09/17** 12:55:05 AM (513417305) 
-Flags: 1093637 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 42DAF3E5-A9EB-4C35-AlAB-F5D3F73E89CC 
-Message: Zero. My expertise is personal wealth . So my clients have . Leon black - 
-**Apollo** for ex. 
-Sender: e:jeeitunes@gmail.com 
-Time: **04/09/17** 12:55:53 AM (513417353) 
-Flags: 1159173 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: F91F7D1C-69DE-4680-879A-EFEC273C44C5 
-Message: Do you think you will come to meet tom **May 5** 
-Sender: e:jeeitunes@gmail.com 
-Time: **04/09/17** 12:58:15 AM (513417495) 
-Flags: 1093637 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 47CAF1D9-605E-4A55-ADF8-A3AF7B49B595 
-Message: **Trump** has very high quality advisors . Very ! However he doesn't listen often 
-. Xi meeting scripted by **kissinger** but very quiet 
-Sender: 
-Time: **04/09/17** 12:58:47 AM (513417527) 
-Flags: 1126401 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 370E33CD-51DD-4CC2-B7AD-DFFE315DC7B0 
-Message: K. **May 5** unlikely. 
-Sender: 
-Time: **04/09/17** 12:59:24 AM (513417564) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 854A2AA8-6FEF-42FD-8DOE-CA7F28D9383D 
-Message: So personal wealth means what can we do together ? 
-Sender: e:jeeitunes@gmail.com 
-**HOUSE** OVERSIGHT 027226 
-Time: **04/09/17** 01:01:24 AM (513417684) 
-Flags: 1093637 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 31552661-6271-4856-BE10-435D8EF03800 
-Message: Hopefully , laugh 
-Sender: e:jeeitunes@gmail.com 
-Time: **04/09/17** 01:04:14 AM (513417854) 
-Flags: 1093637 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: A00093D4-ED24-4442-8B25-732159CCD9B9 
-Message: I do anything that makes money , but is challenging. Structurally, or subject 
-matter - genetics, all the tech, bio, robo , fin, . 
-Sender: e:jeeitunes@gmail.com 
-Time: **04/09/17** 01:06:00 AM (513417960) 
-Flags: 1093637 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 1B4255B5-1625-4464-9E7E-4C5DE892C5EA 
-Message: I don't do small deals . Too much work and fund the most rarefied of the 
-sciences . Advanced math , Al , origin of life Etc 
-Sender: e:jeeitunes@gmail.com 
-Time: **04/09/17** 01:06:47 AM (513418007) 
-Flags: 1093637 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: E7D94F6C-89F7-44FD-98DE-170BF146ABEC 
-Message: I have the most forward looking think tank at **MIT** AND **Harvard** 
-Sender: e:jeeitunes@gmail.com 
-Time: **04/09/17** 01:07:10 AM (513418030) 
-Flags: 1093637 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: A2465F64-B580-41C4-B73C-004D0B3D43C2 
-Message: and dessert 
-Sender: 
-Time: **04/09/17** 01:07:18 AM (513418038) 
-**HOUSE** OVERSIGHT 027227 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: EE3FF975-620C-4322-9885-8F2EBF9E78FF 
-Message: **Wow 
-Sender**: e:jeeitunes@gmail.com 
-Time: **04/09/17** 01:07:52 AM (513418072) 
-Flags: 1093637 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: OF36EABE-3AE3-4ECE-BlAC-2ABF116D7B40 
-Message: You are welcome to visit all 
-Sender: 
-Time: **04/09/17** 01:08:25 AM (513418105) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 289E84B8-F900-431A-B153-65ACDEE05527 
-Message: Will do. Have a fun sun. 
-Sender: e:jeeitunes@gmail.com 
-Time: **04/09/17** 01:11:55 AM (513418315) 
-Flags: 1093637 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 5455C8DD-198F-4D64-84EC-84623AB7A6E2 
-Message: K- you might want to look at **MIT** media lab . Next generation 
-Sender: e:jeeitunes@gmail.com 
-Time: **04/09/17** 02:58:12 AM (513424692) 
-Flags: 1093637 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: FO8OFF6C-2CEE-4CF8-8265-3BDA1D912F85 
-Message: do you have any plans for **Europe**? or states/ ? 
-Sender: 
-Time: **04/09/17** 03:19:40 AM (513425980) 
-Flags: 1060865 
-**Is Read**: Yes 
-**HOUSE** OVERSIGHT 027228 
-**Is Invitation**: No 
-**GUID**: FF2D79FD-B33B-4FC6-8C1C-B613FD70C3EC 
-Message: **Paris** end of month 
-Sender: 
-Time: **04/09/17** 03:19:55 AM (513425995) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: D1592B61-A831-4245-B7D4-7F501BD4ECF5 
-Message: **NYC** **early June** 
-Sender: e:jeeitunes@gmail.com 
-Time: **04/09/17** 03:24:05 AM (513426245) 
-Flags: 1093637 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: BD28FC
+
+======================================================================
+Sunday, April 09, 2017
+======================================================================
+
+Unknown [12:50 AM]:
+  
+
+E:jeeitunes [12:51 AM]:
+  Hello
+
+Unknown [12:51 AM]:
+  .? How was Bill
+
+Unknown [12:52 AM]:
+  Gud. Critical on trump.
+
+E:jeeitunes [12:55 AM]:
+  Have u done any deals in India ?
+
+E:jeeitunes [12:55 AM]:
+  Zero. My expertise is personal wealth . So my clients have . Leon black -
+
+E:jeeitunes [12:58 AM]:
+  Do you think you will come to meet tom may 5
+
+Unknown [12:58 AM]:
+  Trump has very high quality advisors . Very ! However he doesn't listen often
+
+Unknown [12:59 AM]:
+  K. May 5 unlikely.
+
+E:jeeitunes [1:01 AM]:
+  So personal wealth means what can we do together ?
+
+E:jeeitunes [1:04 AM]:
+  Hopefully , laugh
+
+E:jeeitunes [1:06 AM]:
+  I do anything that makes money , but is challenging. Structurally, or subject
+
+E:jeeitunes [1:06 AM]:
+  I don't do small deals . Too much work and fund the most rarefied of the
+
+E:jeeitunes [1:07 AM]:
+  I have the most forward looking think tank at MIT AND HARVARD
+
+Unknown [1:07 AM]:
+  and dessert
+
+E:jeeitunes [1:07 AM]:
+  Wow
+
+Unknown [1:08 AM]:
+  You are welcome to visit all
+
+E:jeeitunes [1:11 AM]:
+  Will do. Have a fun sun.
+
+E:jeeitunes [2:58 AM]:
+  K- you might want to look at Mit media lab . Next generation
+
+Unknown [3:19 AM]:
+  do you have any plans for europe? or states/ ?
+
+Unknown [3:19 AM]:
+  Paris end of month
+
+E:jeeitunes [3:24 AM]:
+  Nyc early june
+
+Unknown [3:28 AM]:
+  dates for paris?
+
+E:jeeitunes [7:42 AM]:
+  Maybe 24 25
+
+Unknown [8:06 AM]:
+  Isn't It your birthday then
+
+E:jeeitunes [8:07 AM]:
+  Yes june 4. Be wth my younger son who is at nyustern
+
+Unknown [8:08 AM]:
+  great.
+
+E:jeeitunes [8:08 AM]:
+  Thanks Whn is ur bday
+
+Unknown [8:09 AM]:
+  jan 20. but i treat every day like my birthday
+
+E:jeeitunes [8:12 AM]:
+  Great
+
+Unknown [8:12 AM]:
+  also then keep in mind if you son needs anything at all. in new york he now
+
 ```
 
 *[Text truncated to 5000 characters]*

@@ -46,29 +46,24 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [Washington](../locations/washington.md) - 10 shared documents
 - [the United States](../locations/the-united-states.md) - 10 shared documents
+- [Washington](../locations/washington.md) - 10 shared documents
 - [United States](../locations/united-states.md) - 9 shared documents
 - [California](../locations/california.md) - 7 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 7 shared documents
-- [Europe](../locations/europe.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
-- [America](../locations/america.md) - 6 shared documents
-- [D.C.](../locations/dc.md) - 6 shared documents
 
 **Events:**
 
 - [2004](../events/2004.md) - 10 shared documents
 - [1985](../events/1985.md) - 8 shared documents
 - [1990](../events/1990.md) - 8 shared documents
+- [1980](../events/1980.md) - 7 shared documents
+- [1981](../events/1981.md) - 7 shared documents
+- [1988](../events/1988.md) - 7 shared documents
+- [1991](../events/1991.md) - 7 shared documents
 - [1997](../events/1997.md) - 7 shared documents
 - [1999](../events/1999.md) - 7 shared documents
 - [2001](../events/2001.md) - 7 shared documents
-- [2005](../events/2005.md) - 7 shared documents
-- [2006](../events/2006.md) - 7 shared documents
-- [2002](../events/2002.md) - 7 shared documents
-- [1981](../events/1981.md) - 7 shared documents
 
 ## Timeline
 

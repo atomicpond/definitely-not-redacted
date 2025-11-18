@@ -30,17 +30,15 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 6 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Cold War](../people/cold-war.md) - 5 shared documents
 - [Columbia University](../people/columbia-university.md) - 5 shared documents
 - [Middle East](../people/middle-east.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
 
 **Organizations:**
 
 - [Harvard](harvard.md) - 7 shared documents
 - [Princeton University](princeton-university.md) - 6 shared documents
-- [Congress](congress.md) - 6 shared documents
 - [Johns Hopkins University](johns-hopkins-university.md) - 5 shared documents
 - [MIT](mit.md) - 5 shared documents
 - [OECD](oecd.md) - 5 shared documents
@@ -48,32 +46,33 @@ Top 9 documents by mention frequency:
 - [Stanford University](stanford-university.md) - 5 shared documents
 - [State](state.md) - 5 shared documents
 - [the New York Times](the-new-york-times.md) - 5 shared documents
+- [the United Nations](the-united-nations.md) - 5 shared documents
 
 **Locations:**
 
+- [India](../locations/india.md) - 9 shared documents
 - [Russia](../locations/russia.md) - 9 shared documents
 - [the United States](../locations/the-united-states.md) - 9 shared documents
-- [India](../locations/india.md) - 9 shared documents
-- [United States](../locations/united-states.md) - 8 shared documents
-- [China](../locations/china.md) - 8 shared documents
-- [Japan](../locations/japan.md) - 8 shared documents
-- [Germany](../locations/germany.md) - 8 shared documents
-- [Washington](../locations/washington.md) - 8 shared documents
 - [America](../locations/america.md) - 8 shared documents
+- [China](../locations/china.md) - 8 shared documents
+- [Germany](../locations/germany.md) - 8 shared documents
+- [Japan](../locations/japan.md) - 8 shared documents
+- [United States](../locations/united-states.md) - 8 shared documents
+- [Washington](../locations/washington.md) - 8 shared documents
 - [Iran](../locations/iran.md) - 7 shared documents
 
 **Events:**
 
-- [years](../events/years.md) - 9 shared documents
 - [decades](../events/decades.md) - 9 shared documents
-- [2003](../events/2003.md) - 8 shared documents
-- [today](../events/today.md) - 8 shared documents
+- [years](../events/years.md) - 9 shared documents
 - [1990](../events/1990.md) - 8 shared documents
-- [1993](../events/1993.md) - 8 shared documents
-- [the day](../events/the-day.md) - 8 shared documents
 - [1991](../events/1991.md) - 8 shared documents
-- [2009](../events/2009.md) - 7 shared documents
-- [the 1980s](../events/the-1980s.md) - 7 shared documents
+- [1993](../events/1993.md) - 8 shared documents
+- [2003](../events/2003.md) - 8 shared documents
+- [the day](../events/the-day.md) - 8 shared documents
+- [today](../events/today.md) - 8 shared documents
+- [1979](../events/1979.md) - 7 shared documents
+- [1996](../events/1996.md) - 7 shared documents
 
 ## Timeline
 

@@ -33,7 +33,6 @@ Top 6 documents by mention frequency:
 - [Mahmoud Abbas](../people/mahmoud-abbas.md) - 6 shared documents
 - [Middle East](../people/middle-east.md) - 6 shared documents
 - [Near East Policy](../people/near-east-policy.md) - 6 shared documents
-- [President Obama](../people/president-obama.md) - 6 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 6 shared documents
 - [West Bank](../people/west-bank.md) - 6 shared documents
 
@@ -42,34 +41,32 @@ Top 6 documents by mention frequency:
 - [Hamas](hamas.md) - 6 shared documents
 - [IAEA](iaea.md) - 6 shared documents
 - [HOUSE](house.md) - 5 shared documents
-- [Congress](congress.md) - 4 shared documents
-- [the White House](the-white-house.md) - 4 shared documents
 
 **Locations:**
 
-- [Middle East](../locations/middle-east.md) - 6 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 6 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 6 shared documents
+- [East Jerusalem](../locations/east-jerusalem.md) - 6 shared documents
 - [Germany](../locations/germany.md) - 6 shared documents
 - [Iran](../locations/iran.md) - 6 shared documents
 - [Iraq](../locations/iraq.md) - 6 shared documents
-- [Syria](../locations/syria.md) - 6 shared documents
 - [Israel](../locations/israel.md) - 6 shared documents
-- [East Jerusalem](../locations/east-jerusalem.md) - 6 shared documents
+- [Jerusalem](../locations/jerusalem.md) - 6 shared documents
+- [Middle East](../locations/middle-east.md) - 6 shared documents
+- [North Korea](../locations/north-korea.md) - 6 shared documents
+- [Palestine](../locations/palestine.md) - 6 shared documents
 
 **Events:**
 
-- [last week](../events/last-week.md) - 6 shared documents
 - [2013](../events/2013.md) - 6 shared documents
 - [a year](../events/a-year.md) - 6 shared documents
+- [last week](../events/last-week.md) - 6 shared documents
 - [2009](../events/2009.md) - 5 shared documents
+- [2011](../events/2011.md) - 5 shared documents
 - [today](../events/today.md) - 5 shared documents
 - [years](../events/years.md) - 5 shared documents
-- [2011](../events/2011.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [the 1980s](../events/the-1980s.md) - 4 shared documents
-- [Two years later](../events/two-years-later.md) - 4 shared documents
+- [10 years](../events/10-years.md) - 4 shared documents
+- [1979](../events/1979.md) - 4 shared documents
+- [1993](../events/1993.md) - 4 shared documents
 
 ## Timeline
 

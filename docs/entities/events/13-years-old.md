@@ -31,10 +31,9 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Brad Edwards](../people/brad-edwards.md) - 6 shared documents
 - [Jack Scarola](../people/jack-scarola.md) - 6 shared documents
 - [Jane Doe](../people/jane-doe.md) - 6 shared documents
-- [Bradley Edwards](../people/bradley-edwards.md) - 5 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 5 shared documents
 - [Rights Act](../people/rights-act.md) - 5 shared documents
 
 **Organizations:**

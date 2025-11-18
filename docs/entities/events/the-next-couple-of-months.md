@@ -29,12 +29,12 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [the day](the-day.md) - 5 shared documents
 - [1980](1980.md) - 5 shared documents
-- [2019](2019.md) - 4 shared documents
+- [the day](the-day.md) - 5 shared documents
 - [1952](1952.md) - 4 shared documents
 - [1969](1969.md) - 4 shared documents
 - [1992](1992.md) - 4 shared documents
+- [2019](2019.md) - 4 shared documents
 - [A few years later](a-few-years-later.md) - 4 shared documents
 - [next day](next-day.md) - 4 shared documents
 

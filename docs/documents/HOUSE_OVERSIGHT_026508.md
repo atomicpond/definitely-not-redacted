@@ -17,7 +17,7 @@
 - [CLINTON](../entities/people/clinton.md) - 1 mention
 - [On Wed](../entities/people/on-wed.md) - 1 mention
 - [Mrs. 
-Gore](../entities/people/mrs-gore.md) - 1 mention
+Gore](../entities/people/gore.md) - 1 mention
 - [Bernie](../entities/people/bernie.md) - 1 mention
 - [Bloomberg](../entities/people/bloomberg.md) - 1 mention
 

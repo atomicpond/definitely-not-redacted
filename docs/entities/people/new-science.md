@@ -22,38 +22,27 @@ Top 5 documents by mention frequency:
 
 ### Most Frequently Co-occurring Entities
 
-**Organizations:**
-
-- [Facebook](../organizations/facebook.md) - 5 shared documents
-- [Harvard](../organizations/harvard.md) - 5 shared documents
-- [Cambridge University](../organizations/cambridge-university.md) - 5 shared documents
-- [University Press](../organizations/university-press.md) - 5 shared documents
-
 **Locations:**
 
-- [California](../locations/california.md) - 5 shared documents
-- [Earth](../locations/earth.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [London](../locations/london.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Boston](../locations/boston.md) - 5 shared documents
+- [California](../locations/california.md) - 5 shared documents
 - [Cambridge](../locations/cambridge.md) - 5 shared documents
+- [Earth](../locations/earth.md) - 5 shared documents
 - [England](../locations/england.md) - 5 shared documents
 
 **Events:**
 
-- [2003](../events/2003.md) - 5 shared documents
-- [2004](../events/2004.md) - 5 shared documents
-- [2009](../events/2009.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [1996](../events/1996.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
+- [1964](../events/1964.md) - 5 shared documents
+- [1968](../events/1968.md) - 5 shared documents
+- [1972](../events/1972.md) - 5 shared documents
+- [1973](../events/1973.md) - 5 shared documents
+- [1976](../events/1976.md) - 5 shared documents
+- [1981](../events/1981.md) - 5 shared documents
+- [1983](../events/1983.md) - 5 shared documents
+- [1991](../events/1991.md) - 5 shared documents
 - [1993](../events/1993.md) - 5 shared documents
-- [1997](../events/1997.md) - 5 shared documents
-- [1999](../events/1999.md) - 5 shared documents
-- [2001](../events/2001.md) - 5 shared documents
+- [1994](../events/1994.md) - 5 shared documents
 
 ## Timeline
 

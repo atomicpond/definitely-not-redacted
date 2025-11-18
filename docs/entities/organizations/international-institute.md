@@ -42,14 +42,14 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [U.S.](../locations/us.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
-- [New York City](../locations/new-york-city.md) - 5 shared documents
-- [Maryland](../locations/maryland.md) - 5 shared documents
 - [Afghanistan](../locations/afghanistan.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
+- [Maryland](../locations/maryland.md) - 5 shared documents
+- [New York City](../locations/new-york-city.md) - 5 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [U.S.](../locations/us.md) - 5 shared documents
 - [America](../locations/america.md) - 4 shared documents
+- [Germany](../locations/germany.md) - 4 shared documents
 - [Iraq](../locations/iraq.md) - 4 shared documents
 - [Netherlands](../locations/netherlands.md) - 4 shared documents
 

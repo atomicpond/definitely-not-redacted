@@ -52,26 +52,26 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 6 shared documents
-- [USA](../locations/usa.md) - 6 shared documents
-- [Europe](../locations/europe.md) - 6 shared documents
-- [London](../locations/london.md) - 6 shared documents
 - [Brussels](../locations/brussels.md) - 6 shared documents
 - [Cambridge](../locations/cambridge.md) - 6 shared documents
 - [Charlottesville](../locations/charlottesville.md) - 6 shared documents
 - [East](../locations/east.md) - 6 shared documents
+- [Europe](../locations/europe.md) - 6 shared documents
 - [Italy](../locations/italy.md) - 6 shared documents
+- [London](../locations/london.md) - 6 shared documents
 - [Lost Paradise](../locations/lost-paradise.md) - 6 shared documents
+- [New York](../locations/new-york.md) - 6 shared documents
+- [Paradise](../locations/paradise.md) - 6 shared documents
 
 **Events:**
 
+- [1984](../events/1984.md) - 6 shared documents
 - [2014](../events/2014.md) - 6 shared documents
 - [2016](../events/2016.md) - 6 shared documents
-- [Friday](../events/friday.md) - 6 shared documents
-- [1984](../events/1984.md) - 6 shared documents
 - [2018-07-22](../events/2018-07-22.md) - 6 shared documents
 - [2019](../events/2019.md) - 6 shared documents
 - [65](../events/65.md) - 6 shared documents
+- [Friday](../events/friday.md) - 6 shared documents
 - [July 22, 2018](../events/july-22-2018.md) - 6 shared documents
 - [last summer](../events/last-summer.md) - 6 shared documents
 - [next May](../events/next-may.md) - 6 shared documents

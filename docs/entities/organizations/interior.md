@@ -58,14 +58,14 @@ Top 10 documents by mention frequency:
 
 - [Europe](../locations/europe.md) - 14 shared documents
 - [Pennsylvania](../locations/pennsylvania.md) - 14 shared documents
-- [London](../locations/london.md) - 13 shared documents
 - [Brussels](../locations/brussels.md) - 13 shared documents
+- [London](../locations/london.md) - 13 shared documents
 - [USA](../locations/usa.md) - 12 shared documents
 - [Italy](../locations/italy.md) - 11 shared documents
-- [New York](../locations/new-york.md) - 10 shared documents
 - [East](../locations/east.md) - 10 shared documents
-- [the United States](../locations/the-united-states.md) - 9 shared documents
+- [New York](../locations/new-york.md) - 10 shared documents
 - [Cambridge](../locations/cambridge.md) - 9 shared documents
+- [Charlottesville](../locations/charlottesville.md) - 9 shared documents
 
 **Events:**
 

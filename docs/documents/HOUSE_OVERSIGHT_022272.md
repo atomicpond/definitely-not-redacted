@@ -33,7 +33,7 @@
 - [tomorrow](../entities/events/tomorrow.md) - 1 mention
 - [Monday](../entities/events/monday.md) - 1 mention
 - [this weekend](../entities/events/this-weekend.md) - 1 mention
-- [24/7](../entities/events/247.md) - 1 mention
+- [24/7](../entities/events/24-7.md) - 1 mention
 
 ## Document Text
 

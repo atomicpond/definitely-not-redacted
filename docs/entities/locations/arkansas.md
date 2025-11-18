@@ -30,8 +30,8 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 7 shared documents
-- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Los Angeles](../people/los-angeles.md) - 6 shared documents
+- [Middle East](../people/middle-east.md) - 6 shared documents
 
 **Organizations:**
 
@@ -61,15 +61,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [daily](../events/daily.md) - 8 shared documents
-- [2012](../events/2012.md) - 7 shared documents
 - [1985](../events/1985.md) - 7 shared documents
-- [November](../events/november.md) - 7 shared documents
-- [1994](../events/1994.md) - 7 shared documents
 - [1991](../events/1991.md) - 7 shared documents
+- [1994](../events/1994.md) - 7 shared documents
 - [1995](../events/1995.md) - 7 shared documents
-- [2004](../events/2004.md) - 6 shared documents
-- [2000](../events/2000.md) - 6 shared documents
+- [2012](../events/2012.md) - 7 shared documents
+- [November](../events/november.md) - 7 shared documents
 - [1970](../events/1970.md) - 6 shared documents
+- [1980](../events/1980.md) - 6 shared documents
+- [1983](../events/1983.md) - 6 shared documents
 
 ## Timeline
 

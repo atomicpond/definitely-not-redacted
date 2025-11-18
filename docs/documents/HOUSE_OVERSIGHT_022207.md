@@ -39,7 +39,7 @@ Chairman and Chief Executive Officer of the Financial Trust](../entities/organiz
 - [2005](../entities/events/2005.md) - 1 mention
 - [daily](../entities/events/daily.md) - 1 mention
 - [1994](../entities/events/1994.md) - 1 mention
-- [12/16/2010](../entities/events/12162010.md) - 1 mention
+- [12/16/2010](../entities/events/12-16-2010.md) - 1 mention
 - [January 20, 1953](../entities/events/january-20-1953.md) - 1 mention
 
 ## Document Text

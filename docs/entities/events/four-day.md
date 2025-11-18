@@ -50,10 +50,10 @@ Top 7 documents by mention frequency:
 
 - [three years](three-years.md) - 6 shared documents
 - [years](years.md) - 6 shared documents
-- [2003](2003.md) - 6 shared documents
-- [1996](1996.md) - 6 shared documents
-- [1993](1993.md) - 6 shared documents
 - [1974](1974.md) - 6 shared documents
+- [1993](1993.md) - 6 shared documents
+- [1996](1996.md) - 6 shared documents
+- [2003](2003.md) - 6 shared documents
 - [monthly](monthly.md) - 5 shared documents
 - [Sunday](sunday.md) - 5 shared documents
 - [the years](the-years.md) - 5 shared documents

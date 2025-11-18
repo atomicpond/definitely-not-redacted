@@ -31,10 +31,10 @@ Top 6 documents by mention frequency:
 
 - [Sony](sony.md) - 5 shared documents
 - [White House](white-house.md) - 4 shared documents
-- [HOUSE](house.md) - 4 shared documents
-- [Fox](fox.md) - 4 shared documents
 - [Academy](academy.md) - 4 shared documents
 - [DreamWorks](dreamworks.md) - 4 shared documents
+- [Fox](fox.md) - 4 shared documents
+- [HOUSE](house.md) - 4 shared documents
 
 **Locations:**
 
@@ -46,9 +46,9 @@ Top 6 documents by mention frequency:
 **Events:**
 
 - [the year](../events/the-year.md) - 5 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
 - [2013](../events/2013.md) - 4 shared documents
 - [30 years](../events/30-years.md) - 4 shared documents
+- [this year](../events/this-year.md) - 4 shared documents
 
 ## Timeline
 

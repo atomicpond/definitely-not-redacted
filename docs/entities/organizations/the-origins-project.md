@@ -30,17 +30,18 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Lawrence Krauss](../people/lawrence-krauss.md) - 35 shared documents
-- [Lawrence M. Krauss](../people/lawrence-m-krauss.md) - 25 shared documents
+- [Lawrence Krauss](../people/lawrence-krauss.md) - 25 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 16 shared documents
 - [Space Exploration](../people/space-exploration.md) - 16 shared documents
 - [Research Office](../people/research-office.md) - 15 shared documents
 - [Cynthia Jewett](../people/cynthia-jewett.md) - 11 shared documents
 - [Kiaran Kirk](../people/kiaran-kirk.md) - 11 shared documents
 - [Peter Aldhous](../people/peter-aldhous.md) - 11 shared documents
-- [Barack Obama's](../people/barack-obamas.md) - 10 shared documents
+- [Barack Obama](../people/barack-obama.md) - 10 shared documents
 - [Cosmology Initiative 
 Foundation](../people/cosmology-initiative-foundation.md) - 10 shared documents
+- [Krauss 
+Director](../people/krauss-director.md) - 10 shared documents
 
 **Organizations:**
 
@@ -65,25 +66,25 @@ Arizona State University](cosmology-initiative-foundation-professor-school-of-ea
 - [AZ](../locations/az.md) - 19 shared documents
 - [Tempe, AZ](../locations/tempe-az.md) - 16 shared documents
 - [Australia](../locations/australia.md) - 15 shared documents
-- [London](../locations/london.md) - 11 shared documents
 - [America](../locations/america.md) - 11 shared documents
 - [Arizona State](../locations/arizona-state.md) - 11 shared documents
 - [Canberra](../locations/canberra.md) - 11 shared documents
 - [Des Moines](../locations/des-moines.md) - 11 shared documents
 - [Iowa](../locations/iowa.md) - 11 shared documents
+- [Las Vegas](../locations/las-vegas.md) - 11 shared documents
 
 **Events:**
 
 - [85287-1404](../events/85287-1404.md) - 33 shared documents
-- [October](../events/october.md) - 11 shared documents
+- [2006](../events/2006.md) - 11 shared documents
 - [2007](../events/2007.md) - 11 shared documents
+- [2008](../events/2008.md) - 11 shared documents
 - [2014](../events/2014.md) - 11 shared documents
 - [2016](../events/2016.md) - 11 shared documents
-- [2008](../events/2008.md) - 11 shared documents
 - [April 2011](../events/april-2011.md) - 11 shared documents
-- [May 2011](../events/may-2011.md) - 11 shared documents
-- [November 2016](../events/november-2016.md) - 11 shared documents
-- [2006](../events/2006.md) - 11 shared documents
+- [April 2017](../events/april-2017.md) - 11 shared documents
+- [December of 2007](../events/december-of-2007.md) - 11 shared documents
+- [July 16](../events/july-16.md) - 11 shared documents
 
 ## Timeline
 

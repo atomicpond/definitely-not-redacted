@@ -31,23 +31,23 @@ Top 8 documents by mention frequency:
 
 **Locations:**
 
+- [America](america.md) - 4 shared documents
 - [California](california.md) - 4 shared documents
 - [Los Angeles](los-angeles.md) - 4 shared documents
-- [America](america.md) - 4 shared documents
 - [Manhattan](manhattan.md) - 4 shared documents
 
 **Events:**
 
 - [January](../events/january.md) - 5 shared documents
-- [October](../events/october.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
+- [a few weeks](../events/a-few-weeks.md) - 4 shared documents
 - [annual](../events/annual.md) - 4 shared documents
-- [six months](../events/six-months.md) - 4 shared documents
 - [last year](../events/last-year.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
 - [March](../events/march.md) - 4 shared documents
-- [the year](../events/the-year.md) - 4 shared documents
+- [mid-November](../events/mid-november.md) - 4 shared documents
+- [October](../events/october.md) - 4 shared documents
+- [Saturday](../events/saturday.md) - 4 shared documents
+- [six months](../events/six-months.md) - 4 shared documents
 
 ## Timeline
 

@@ -55,28 +55,28 @@ Top 9 documents by mention frequency:
 **Locations:**
 
 - [the Southern District](../locations/the-southern-district.md) - 9 shared documents
-- [United States](../locations/united-states.md) - 8 shared documents
 - [Florida](../locations/florida.md) - 8 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 8 shared documents
+- [United States](../locations/united-states.md) - 8 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 8 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 7 shared documents
-- [New York](../locations/new-york.md) - 6 shared documents
-- [California](../locations/california.md) - 6 shared documents
-- [U.S.](../locations/us.md) - 6 shared documents
 - [Africa](../locations/africa.md) - 6 shared documents
+- [California](../locations/california.md) - 6 shared documents
+- [Miami](../locations/miami.md) - 6 shared documents
+- [New York](../locations/new-york.md) - 6 shared documents
 
 **Events:**
 
 - [one year](../events/one-year.md) - 8 shared documents
-- [today](../events/today.md) - 7 shared documents
 - [daily](../events/daily.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
+- [14](../events/14.md) - 6 shared documents
+- [14-year-old](../events/14-year-old.md) - 6 shared documents
+- [18 months](../events/18-months.md) - 6 shared documents
 - [2004](../events/2004.md) - 6 shared documents
 - [2008](../events/2008.md) - 6 shared documents
 - [months](../events/months.md) - 6 shared documents
 - [one day](../events/one-day.md) - 6 shared documents
-- [the years](../events/the-years.md) - 6 shared documents
-- [18 months](../events/18-months.md) - 6 shared documents
-- [14](../events/14.md) - 6 shared documents
 
 ## Timeline
 

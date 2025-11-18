@@ -42,13 +42,13 @@ Top 7 documents by mention frequency:
 - [last year](last-year.md) - 7 shared documents
 - [the year](the-year.md) - 5 shared documents
 - [year-end](year-end.md) - 5 shared documents
-- [the 1980s](the-1980s.md) - 5 shared documents
 - [September](september.md) - 5 shared documents
+- [the 1980s](the-1980s.md) - 5 shared documents
 - [the years ahead](the-years-ahead.md) - 4 shared documents
 - [today](today.md) - 4 shared documents
 - [year](year.md) - 4 shared documents
 - [years](years.md) - 4 shared documents
-- [October](october.md) - 4 shared documents
+- [12-month](12-month.md) - 4 shared documents
 
 ## Timeline
 

@@ -31,22 +31,22 @@ Top 7 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 5 shared documents
 - [Massachusetts](../locations/massachusetts.md) - 5 shared documents
+- [United States](../locations/united-states.md) - 5 shared documents
 
 **Events:**
 
-- [2004](../events/2004.md) - 6 shared documents
-- [2014](../events/2014.md) - 6 shared documents
+- [1994](../events/1994.md) - 6 shared documents
 - [2001](../events/2001.md) - 6 shared documents
+- [2004](../events/2004.md) - 6 shared documents
+- [2006](../events/2006.md) - 6 shared documents
 - [2008](../events/2008.md) - 6 shared documents
 - [2010](../events/2010.md) - 6 shared documents
-- [2006](../events/2006.md) - 6 shared documents
-- [1994](../events/1994.md) - 6 shared documents
-- [2016](../events/2016.md) - 5 shared documents
-- [1996](../events/1996.md) - 5 shared documents
-- [1985](../events/1985.md) - 5 shared documents
+- [2014](../events/2014.md) - 6 shared documents
+- [1948](../events/1948.md) - 5 shared documents
+- [1949](../events/1949.md) - 5 shared documents
+- [1950](../events/1950.md) - 5 shared documents
 
 ## Timeline
 

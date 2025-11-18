@@ -32,7 +32,7 @@ Top 10 documents by mention frequency:
 - [New
 York](../people/new-york.md) - 12 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 6 shared documents
-- [jeffrey E. <](../people/jeffrey-e.md) - 6 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 6 shared documents
 
 **Organizations:**
 

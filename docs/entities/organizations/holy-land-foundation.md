@@ -28,11 +28,11 @@ Top 8 documents by mention frequency:
 **People:**
 
 - [Islamic Republic](../people/islamic-republic.md) - 7 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [General Assembly](../people/general-assembly.md) - 6 shared documents
-- [President Obama](../people/president-obama.md) - 6 shared documents
 - [As Lee Harris](../people/as-lee-harris.md) - 5 shared documents
 - [As Omar Ahmad](../people/as-omar-ahmad.md) - 5 shared documents
-- [Bibi Netanyahu](../people/bibi-netanyahu.md) - 5 shared documents
+- [Bibi](../people/bibi.md) - 5 shared documents
 - [Bill Siegel](../people/bill-siegel.md) - 5 shared documents
 
 **Organizations:**
@@ -56,23 +56,23 @@ Top 8 documents by mention frequency:
 - [the Soviet Union](../locations/the-soviet-union.md) - 6 shared documents
 - [Vietnam](../locations/vietnam.md) - 6 shared documents
 - [West](../locations/west.md) - 6 shared documents
+- [anti-Israel](../locations/anti-israel.md) - 5 shared documents
+- [Cincinnati](../locations/cincinnati.md) - 5 shared documents
 - [Earth](../locations/earth.md) - 5 shared documents
-- [Rome](../locations/rome.md) - 5 shared documents
-- [the State of Israel](../locations/the-state-of-israel.md) - 5 shared documents
 - [Pearl Harbor](../locations/pearl-harbor.md) - 5 shared documents
 
 **Events:**
 
+- [1991](../events/1991.md) - 7 shared documents
 - [70](../events/70.md) - 7 shared documents
 - [years](../events/years.md) - 7 shared documents
-- [1991](../events/1991.md) - 7 shared documents
 - [decades](../events/decades.md) - 6 shared documents
+- [2/8/2013](../events/2-8-2013.md) - 5 shared documents
 - [daily](../events/daily.md) - 5 shared documents
-- [week](../events/week.md) - 5 shared documents
+- [February 8, 2013](../events/february-8-2013.md) - 5 shared documents
+- [Just this week](../events/just-this-week.md) - 5 shared documents
 - [the 1950s](../events/the-1950s.md) - 5 shared documents
 - [the day](../events/the-day.md) - 5 shared documents
-- [the mid 1950s](../events/the-mid-1950s.md) - 5 shared documents
-- [2/8/2013](../events/2-8-2013.md) - 5 shared documents
 
 ## Timeline
 

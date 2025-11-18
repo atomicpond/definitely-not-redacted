@@ -24,10 +24,6 @@ Top 7 documents by mention frequency:
 
 ### Most Frequently Co-occurring Entities
 
-**People:**
-
-- [Mr. Obama](obama.md) - 5 shared documents
-
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 5 shared documents

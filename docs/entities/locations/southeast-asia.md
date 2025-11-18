@@ -50,21 +50,21 @@ Top 10 documents by mention frequency:
 - [Europe](europe.md) - 8 shared documents
 - [the Middle East](the-middle-east.md) - 7 shared documents
 - [Washington](washington.md) - 7 shared documents
-- [Mexico](mexico.md) - 7 shared documents
 - [Iraq](iraq.md) - 7 shared documents
+- [Mexico](mexico.md) - 7 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 9 shared documents
 - [decades](../events/decades.md) - 8 shared documents
-- [2009](../events/2009.md) - 6 shared documents
-- [2000](../events/2000.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
-- [2001](../events/2001.md) - 6 shared documents
-- [2010](../events/2010.md) - 6 shared documents
 - [1992](../events/1992.md) - 6 shared documents
-- [2004](../events/2004.md) - 5 shared documents
-- [2007](../events/2007.md) - 5 shared documents
+- [2000](../events/2000.md) - 6 shared documents
+- [2001](../events/2001.md) - 6 shared documents
+- [2009](../events/2009.md) - 6 shared documents
+- [2010](../events/2010.md) - 6 shared documents
+- [years](../events/years.md) - 6 shared documents
+- [1980](../events/1980.md) - 5 shared documents
+- [1984](../events/1984.md) - 5 shared documents
 
 ## Timeline
 

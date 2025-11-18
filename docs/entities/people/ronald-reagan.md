@@ -32,17 +32,17 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](barack-obama.md) - 9 shared documents
-- [Mr. Obama](obama.md) - 9 shared documents
 - [George W. Bush](george-w-bush.md) - 9 shared documents
-- [President Obama](president-obama.md) - 8 shared documents
 - [Soviet Union](soviet-union.md) - 7 shared documents
 - [Cold War](cold-war.md) - 7 shared documents
 - [East Asia](east-asia.md) - 7 shared documents
 - [Federal Reserve](federal-reserve.md) - 7 shared documents
-- [Bill 
-Clinton](bill-clinton.md) - 7 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 7 shared documents
+- [Labor
+Party](labor-party.md) - 7 shared documents
+- [World War](world-war.md) - 6 shared documents
+- [Communist Party](communist-party.md) - 6 shared documents
+- [Richard Nixon](richard-nixon.md) - 6 shared documents
 
 **Organizations:**
 
@@ -51,27 +51,29 @@ Clinton](bill-clinton.md) - 7 shared documents
 
 **Locations:**
 
+- [America](../locations/america.md) - 10 shared documents
 - [China](../locations/china.md) - 10 shared documents
 - [Russia](../locations/russia.md) - 10 shared documents
-- [America](../locations/america.md) - 10 shared documents
 - [US](../locations/us.md) - 10 shared documents
-- [Germany](../locations/germany.md) - 9 shared documents
 - [France](../locations/france.md) - 9 shared documents
+- [Germany](../locations/germany.md) - 9 shared documents
 - [India](../locations/india.md) - 9 shared documents
 - [Asia](../locations/asia.md) - 8 shared documents
-- [Europe](../locations/europe.md) - 7 shared documents
-- [Japan](../locations/japan.md) - 7 shared documents
+- [Australia](../locations/australia.md) - 7 shared documents
+- [East Asia](../locations/east-asia.md) - 7 shared documents
 
 **Events:**
 
 - [last week](../events/last-week.md) - 8 shared documents
 - [1996](../events/1996.md) - 7 shared documents
-- [years](../events/years.md) - 7 shared documents
 - [2008](../events/2008.md) - 7 shared documents
 - [the 21st century](../events/the-21st-century.md) - 7 shared documents
 - [the Cold War](../events/the-cold-war.md) - 7 shared documents
+- [years](../events/years.md) - 7 shared documents
 - [20th Century](../events/20th-century.md) - 6 shared documents
 - [1990s](../events/1990s.md) - 5 shared documents
+- [2050](../events/2050.md) - 5 shared documents
+- [25 years ago](../events/25-years-ago.md) - 5 shared documents
 
 ## Timeline
 

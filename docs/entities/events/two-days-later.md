@@ -70,11 +70,11 @@ Top 10 documents by mention frequency:
 - [the day](the-day.md) - 16 shared documents
 - [daily](daily.md) - 15 shared documents
 - [2004](2004.md) - 14 shared documents
-- [2007](2007.md) - 14 shared documents
-- [last year](last-year.md) - 14 shared documents
-- [2010](2010.md) - 14 shared documents
 - [2006](2006.md) - 14 shared documents
-- [today](today.md) - 13 shared documents
+- [2007](2007.md) - 14 shared documents
+- [2010](2010.md) - 14 shared documents
+- [last year](last-year.md) - 14 shared documents
+- [1982](1982.md) - 13 shared documents
 - [a year](a-year.md) - 13 shared documents
 
 ## Timeline

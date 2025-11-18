@@ -32,44 +32,42 @@ Top 10 documents by mention frequency:
 - [United 
 States](united-states.md) - 6 shared documents
 - [Soviet Union](soviet-union.md) - 5 shared documents
-- [President Obama](president-obama.md) - 5 shared documents
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 7 shared documents
 - [Congress](../organizations/congress.md) - 7 shared documents
-- [Facebook](../organizations/facebook.md) - 6 shared documents
-- [Twitter](../organizations/twitter.md) - 6 shared documents
-- [Harvard](../organizations/harvard.md) - 6 shared documents
+- [HOUSE](../organizations/house.md) - 7 shared documents
 - [CNN](../organizations/cnn.md) - 6 shared documents
+- [Facebook](../organizations/facebook.md) - 6 shared documents
+- [Harvard](../organizations/harvard.md) - 6 shared documents
 - [Treasury](../organizations/treasury.md) - 6 shared documents
-- [Trump](../organizations/trump.md) - 5 shared documents
+- [Twitter](../organizations/twitter.md) - 6 shared documents
 
 **Locations:**
 
 - [Africa](../locations/africa.md) - 10 shared documents
 - [China](../locations/china.md) - 8 shared documents
-- [Washington](../locations/washington.md) - 8 shared documents
 - [the United States](../locations/the-united-states.md) - 8 shared documents
+- [Washington](../locations/washington.md) - 8 shared documents
 - [West](../locations/west.md) - 8 shared documents
-- [Germany](../locations/germany.md) - 7 shared documents
 - [America](../locations/america.md) - 7 shared documents
 - [Asia](../locations/asia.md) - 7 shared documents
 - [France](../locations/france.md) - 7 shared documents
-- [Iraq](../locations/iraq.md) - 7 shared documents
+- [Germany](../locations/germany.md) - 7 shared documents
+- [India](../locations/india.md) - 7 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 10 shared documents
-- [years](../events/years.md) - 7 shared documents
 - [2008](../events/2008.md) - 7 shared documents
 - [the years](../events/the-years.md) - 7 shared documents
 - [tomorrow](../events/tomorrow.md) - 7 shared documents
+- [years](../events/years.md) - 7 shared documents
 - [2009](../events/2009.md) - 6 shared documents
 - [the 1970s](../events/the-1970s.md) - 6 shared documents
 - [the 21st century](../events/the-21st-century.md) - 6 shared documents
-- [2003](../events/2003.md) - 5 shared documents
-- [2014](../events/2014.md) - 5 shared documents
+- [1979](../events/1979.md) - 5 shared documents
+- [1996](../events/1996.md) - 5 shared documents
 
 ## Timeline
 

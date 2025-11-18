@@ -25,16 +25,16 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 5 shared documents
 - [America](../locations/america.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
 
 **Events:**
 
 - [2007](../events/2007.md) - 5 shared documents
-- [2011](../events/2011.md) - 4 shared documents
 - [1995](../events/1995.md) - 4 shared documents
+- [2011](../events/2011.md) - 4 shared documents
 
 ## Timeline
 

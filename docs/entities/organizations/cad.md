@@ -38,29 +38,29 @@ Top 9 documents by mention frequency:
 
 **Locations:**
 
-- [Germany](../locations/germany.md) - 8 shared documents
 - [Australia](../locations/australia.md) - 8 shared documents
+- [Germany](../locations/germany.md) - 8 shared documents
 - [China](../locations/china.md) - 7 shared documents
-- [Europe](../locations/europe.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
+- [Asia](../locations/asia.md) - 6 shared documents
 - [Brazil](../locations/brazil.md) - 6 shared documents
 - [Canada](../locations/canada.md) - 6 shared documents
-- [Asia](../locations/asia.md) - 6 shared documents
+- [Europe](../locations/europe.md) - 6 shared documents
 - [India](../locations/india.md) - 6 shared documents
+- [Indonesia](../locations/indonesia.md) - 6 shared documents
+- [Japan](../locations/japan.md) - 6 shared documents
 
 **Events:**
 
 - [last year](../events/last-year.md) - 7 shared documents
 - [the year](../events/the-year.md) - 7 shared documents
-- [today](../events/today.md) - 6 shared documents
 - [2012](../events/2012.md) - 6 shared documents
-- [daily](../events/daily.md) - 6 shared documents
 - [2013](../events/2013.md) - 6 shared documents
-- [2018](../events/2018.md) - 5 shared documents
+- [daily](../events/daily.md) - 6 shared documents
+- [today](../events/today.md) - 6 shared documents
 - [2014](../events/2014.md) - 5 shared documents
 - [2015](../events/2015.md) - 5 shared documents
 - [2017](../events/2017.md) - 5 shared documents
+- [2018](../events/2018.md) - 5 shared documents
 
 ## Timeline
 

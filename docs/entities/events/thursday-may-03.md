@@ -27,10 +27,11 @@ Top 7 documents by mention frequency:
 **People:**
 
 - [BILL](../people/bill.md) - 7 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 7 shared documents
 - [Boris Nikolic](../people/boris-nikolic.md) - 7 shared documents
 - [Boris Nikolic 
 Subject](../people/boris-nikolic-subject.md) - 7 shared documents
-- [CLINTON](../people/clinton.md) - 7 shared documents
 - [Floor New York](../people/floor-new-york.md) - 7 shared documents
 - [Guy](../people/guy.md) - 7 shared documents
 - [Hi Kevin](../people/hi-kevin.md) - 7 shared documents
@@ -64,13 +65,13 @@ Schuster](../organizations/magdalena-schuster.md) - 5 shared documents
 **Events:**
 
 - [2012](2012.md) - 7 shared documents
-- [Friday](friday.md) - 7 shared documents
-- [afternoon](afternoon.md) - 7 shared documents
 - [5/7/2012](572012.md) - 7 shared documents
+- [afternoon](afternoon.md) - 7 shared documents
+- [Friday](friday.md) - 7 shared documents
 - [Friday night](friday-night.md) - 7 shared documents
+- [May 03, 2012](may-03-2012.md) - 7 shared documents
 - [May 07, 2012](may-07-2012.md) - 7 shared documents
 - [Monday, May 07, 2012](monday-may-07-2012.md) - 7 shared documents
-- [May 03, 2012](may-03-2012.md) - 7 shared documents
 - [6:39 AM](639-am.md) - 6 shared documents
 - [7:21 PM](721-pm.md) - 5 shared documents
 

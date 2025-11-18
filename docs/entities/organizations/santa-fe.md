@@ -33,38 +33,31 @@ Top 10 documents by mention frequency:
 
 - [Santa Fe](../people/santa-fe.md) - 7 shared documents
 
-**Organizations:**
-
-- [HOUSE](house.md) - 4 shared documents
-- [Court](court.md) - 4 shared documents
-- [FBI](fbi.md) - 4 shared documents
-- [Harvard](harvard.md) - 4 shared documents
-
 **Locations:**
 
 - [Palm Beach](../locations/palm-beach.md) - 8 shared documents
 - [California](../locations/california.md) - 7 shared documents
 - [France](../locations/france.md) - 7 shared documents
 - [Paris](../locations/paris.md) - 7 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
 - [Florida](../locations/florida.md) - 6 shared documents
-- [Virginia](../locations/virginia.md) - 6 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 6 shared documents
-- [New York](../locations/new-york.md) - 5 shared documents
+- [United States](../locations/united-states.md) - 6 shared documents
+- [Virginia](../locations/virginia.md) - 6 shared documents
+- [Australia](../locations/australia.md) - 5 shared documents
 - [London](../locations/london.md) - 5 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 7 shared documents
 - [daily](../events/daily.md) - 6 shared documents
-- [years](../events/years.md) - 5 shared documents
 - [a week](../events/a-week.md) - 5 shared documents
-- [these days](../events/these-days.md) - 5 shared documents
 - [Friday](../events/friday.md) - 5 shared documents
-- [tomorrow](../events/tomorrow.md) - 5 shared documents
 - [the next day](../events/the-next-day.md) - 5 shared documents
-- [2004](../events/2004.md) - 4 shared documents
-- [2007](../events/2007.md) - 4 shared documents
+- [these days](../events/these-days.md) - 5 shared documents
+- [tomorrow](../events/tomorrow.md) - 5 shared documents
+- [years](../events/years.md) - 5 shared documents
+- [1980](../events/1980.md) - 4 shared documents
+- [1990](../events/1990.md) - 4 shared documents
 
 ## Timeline
 

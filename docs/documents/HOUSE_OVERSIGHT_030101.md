@@ -17,7 +17,7 @@ County](../entities/people/orange-county.md) - 5 mentions
 - [jeffrey E. <](../entities/people/jeffrey-e.md) - 2 mentions
 - [Kathy 
 Ruemmler](../entities/people/kathy-ruemmler.md) - 2 mentions
-- [Ms. Ruemmler](../entities/people/ms-ruemmler.md) - 2 mentions
+- [Ms. Ruemmler](../entities/people/kathy-ruemmler.md) - 2 mentions
 - [White House](../entities/people/white-house.md) - 1 mention
 - [President Obama](../entities/people/president-obama.md) - 1 mention
 - [District Court](../entities/people/district-court.md) - 1 mention

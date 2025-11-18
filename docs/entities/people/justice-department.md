@@ -32,20 +32,20 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Donald 
-Trump](donald-trump.md) - 12 shared documents
-- [President Trump](president-trump.md) - 11 shared documents
-- [Robert Mueller](robert-mueller.md) - 11 shared documents
-- [Rod 
-Rosenstein](rod-rosenstein.md) - 11 shared documents
-- [Mr. 
-Trump](trump.md) - 11 shared documents
-- [mueller](mueller.md) - 9 shared documents
 - [New
 York](new-york.md) - 9 shared documents
 - [White House](white-house.md) - 9 shared documents
-- [James Comey](james-comey.md) - 9 shared documents
+- [Deputy Attorney General](deputy-attorney-general.md) - 9 shared documents
+- [Donald 
+Trump](donald-trump.md) - 9 shared documents
 - [Hillary Clinton](hillary-clinton.md) - 9 shared documents
+- [Jeffrey E](jeffrey-e.md) - 9 shared documents
+- [New 
+York Times](new-york-times.md) - 8 shared documents
+- [Steve Bannon](steve-bannon.md) - 8 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 8 shared documents
+- [Supreme Court](supreme-court.md) - 7 shared documents
 
 **Organizations:**
 
@@ -55,10 +55,10 @@ York](new-york.md) - 9 shared documents
 - [Congress](../organizations/congress.md) - 13 shared documents
 - [FBI](../organizations/fbi.md) - 11 shared documents
 - [Justice Department](../organizations/justice-department.md) - 10 shared documents
-- [Senate](../organizations/senate.md) - 9 shared documents
 - [Mueller](../organizations/mueller.md) - 9 shared documents
+- [Senate](../organizations/senate.md) - 9 shared documents
 - [the Supreme Court](../organizations/the-supreme-court.md) - 9 shared documents
-- [White House](../organizations/white-house.md) - 7 shared documents
+- [the New York Times](../organizations/the-new-york-times.md) - 7 shared documents
 
 **Locations:**
 
@@ -73,12 +73,14 @@ York](new-york.md) - 9 shared documents
 **Events:**
 
 - [months](../events/months.md) - 10 shared documents
-- [this week](../events/this-week.md) - 8 shared documents
 - [every day](../events/every-day.md) - 8 shared documents
+- [this week](../events/this-week.md) - 8 shared documents
+- [1973](../events/1973.md) - 6 shared documents
 - [2016](../events/2016.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [Friday](../events/friday.md) - 6 shared documents
 - [April](../events/april.md) - 6 shared documents
+- [Friday](../events/friday.md) - 6 shared documents
+- [May 2017](../events/may-2017.md) - 6 shared documents
+- [today](../events/today.md) - 6 shared documents
 
 ## Timeline
 

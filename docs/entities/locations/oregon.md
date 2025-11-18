@@ -30,7 +30,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [San Francisco](../people/san-francisco.md) - 11 shared documents
-- [Barack Obama](../people/barack-obama.md) - 10 shared documents
 - [Los Angeles](../people/los-angeles.md) - 9 shared documents
 - [Middle East](../people/middle-east.md) - 9 shared documents
 - [White House](../people/white-house.md) - 9 shared documents
@@ -56,23 +55,23 @@ Top 10 documents by mention frequency:
 - [Texas](texas.md) - 16 shared documents
 - [Ohio](ohio.md) - 16 shared documents
 - [United States](united-states.md) - 15 shared documents
-- [Germany](germany.md) - 13 shared documents
 - [America](america.md) - 13 shared documents
+- [Arizona](arizona.md) - 13 shared documents
 - [Florida](florida.md) - 13 shared documents
 - [France](france.md) - 13 shared documents
 
 **Events:**
 
 - [last year](../events/last-year.md) - 15 shared documents
-- [today](../events/today.md) - 14 shared documents
 - [2000](../events/2000.md) - 14 shared documents
+- [today](../events/today.md) - 14 shared documents
 - [years](../events/years.md) - 14 shared documents
+- [1990](../events/1990.md) - 13 shared documents
+- [1995](../events/1995.md) - 13 shared documents
 - [2007](../events/2007.md) - 13 shared documents
 - [annual](../events/annual.md) - 13 shared documents
-- [1990](../events/1990.md) - 13 shared documents
-- [three years](../events/three-years.md) - 13 shared documents
 - [each year](../events/each-year.md) - 13 shared documents
-- [1995](../events/1995.md) - 13 shared documents
+- [three years](../events/three-years.md) - 13 shared documents
 
 ## Timeline
 

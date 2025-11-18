@@ -44,14 +44,14 @@ Top 8 documents by mention frequency:
 
 - [today](../events/today.md) - 7 shared documents
 - [annual](../events/annual.md) - 6 shared documents
-- [last year](../events/last-year.md) - 6 shared documents
-- [this week](../events/this-week.md) - 6 shared documents
-- [monthly](../events/monthly.md) - 6 shared documents
-- [Friday](../events/friday.md) - 6 shared documents
 - [February](../events/february.md) - 6 shared documents
+- [Friday](../events/friday.md) - 6 shared documents
+- [last year](../events/last-year.md) - 6 shared documents
+- [monthly](../events/monthly.md) - 6 shared documents
+- [this week](../events/this-week.md) - 6 shared documents
 - [October](../events/october.md) - 5 shared documents
-- [Tuesday](../events/tuesday.md) - 5 shared documents
 - [tomorrow](../events/tomorrow.md) - 5 shared documents
+- [Tuesday](../events/tuesday.md) - 5 shared documents
 
 ## Timeline
 

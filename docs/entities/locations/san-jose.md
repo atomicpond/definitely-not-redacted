@@ -52,27 +52,27 @@ Top 10 documents by mention frequency:
 
 - [China](china.md) - 11 shared documents
 - [San Francisco](san-francisco.md) - 10 shared documents
-- [Mexico](mexico.md) - 9 shared documents
 - [Israel](israel.md) - 9 shared documents
+- [Mexico](mexico.md) - 9 shared documents
 - [South Africa](south-africa.md) - 8 shared documents
 - [Texas](texas.md) - 8 shared documents
 - [the Middle East](the-middle-east.md) - 8 shared documents
-- [Japan](japan.md) - 8 shared documents
-- [Germany](germany.md) - 8 shared documents
+- [Australia](australia.md) - 8 shared documents
 - [Chicago](chicago.md) - 8 shared documents
+- [Germany](germany.md) - 8 shared documents
 
 **Events:**
 
 - [Friday](../events/friday.md) - 10 shared documents
 - [daily](../events/daily.md) - 8 shared documents
+- [1978](../events/1978.md) - 7 shared documents
+- [1996](../events/1996.md) - 7 shared documents
+- [2001](../events/2001.md) - 7 shared documents
 - [2004](../events/2004.md) - 7 shared documents
 - [annual](../events/annual.md) - 7 shared documents
-- [today](../events/today.md) - 7 shared documents
-- [1996](../events/1996.md) - 7 shared documents
-- [this year](../events/this-year.md) - 7 shared documents
 - [monthly](../events/monthly.md) - 7 shared documents
-- [2001](../events/2001.md) - 7 shared documents
-- [weeks](../events/weeks.md) - 7 shared documents
+- [the day](../events/the-day.md) - 7 shared documents
+- [this year](../events/this-year.md) - 7 shared documents
 
 ## Timeline
 

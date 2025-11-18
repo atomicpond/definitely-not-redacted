@@ -27,7 +27,6 @@ Top 7 documents by mention frequency:
 **People:**
 
 - [Barack Obama](../people/barack-obama.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
 
 **Locations:**
 
@@ -44,15 +43,15 @@ Top 7 documents by mention frequency:
 
 **Events:**
 
-- [2004](2004.md) - 6 shared documents
-- [2009](2009.md) - 6 shared documents
-- [2000](2000.md) - 6 shared documents
-- [2012](2012.md) - 6 shared documents
 - [1990](1990.md) - 6 shared documents
+- [1995](1995.md) - 6 shared documents
 - [1998](1998.md) - 6 shared documents
 - [1999](1999.md) - 6 shared documents
+- [2000](2000.md) - 6 shared documents
+- [2004](2004.md) - 6 shared documents
+- [2009](2009.md) - 6 shared documents
 - [2010](2010.md) - 6 shared documents
-- [1995](1995.md) - 6 shared documents
+- [2012](2012.md) - 6 shared documents
 - [decades](decades.md) - 5 shared documents
 
 ## Timeline

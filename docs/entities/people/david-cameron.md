@@ -28,39 +28,37 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [Mr. Obama](obama.md) - 9 shared documents
 - [Barack Obama](barack-obama.md) - 6 shared documents
-- [President Obama](president-obama.md) - 5 shared documents
 - [Arab Spring](arab-spring.md) - 5 shared documents
 
 **Organizations:**
 
 - [UN](../organizations/un.md) - 6 shared documents
 - [HOUSE](../organizations/house.md) - 5 shared documents
-- [NATO](../organizations/nato.md) - 5 shared documents
 - [Islam](../organizations/islam.md) - 5 shared documents
-- [the Muslim Brotherhood](../organizations/the-muslim-brotherhood.md) - 5 shared documents
+- [NATO](../organizations/nato.md) - 5 shared documents
 - [the Arab Spring](../organizations/the-arab-spring.md) - 5 shared documents
+- [the Muslim Brotherhood](../organizations/the-muslim-brotherhood.md) - 5 shared documents
 
 **Locations:**
 
 - [US](../locations/us.md) - 9 shared documents
-- [Russia](../locations/russia.md) - 8 shared documents
 - [Britain](../locations/britain.md) - 8 shared documents
 - [Egypt](../locations/egypt.md) - 8 shared documents
-- [Middle East](../locations/middle-east.md) - 7 shared documents
+- [Russia](../locations/russia.md) - 8 shared documents
 - [France](../locations/france.md) - 7 shared documents
 - [Iran](../locations/iran.md) - 7 shared documents
 - [Libya](../locations/libya.md) - 7 shared documents
+- [Middle East](../locations/middle-east.md) - 7 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 7 shared documents
 - [Syria](../locations/syria.md) - 7 shared documents
 
 **Events:**
 
 - [2003](../events/2003.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [last year](../events/last-year.md) - 5 shared documents
 - [February](../events/february.md) - 5 shared documents
+- [last year](../events/last-year.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
 
 ## Timeline
 

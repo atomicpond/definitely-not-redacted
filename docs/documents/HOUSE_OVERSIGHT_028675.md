@@ -9,7 +9,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Obama](../entities/people/mr-obama.md) - 41 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 41 mentions
 - [Rawabi](../entities/people/rawabi.md) - 30 mentions
 - [West Bank](../entities/people/west-bank.md) - 22 mentions
 - [Masri](../entities/people/masri.md) - 15 mentions

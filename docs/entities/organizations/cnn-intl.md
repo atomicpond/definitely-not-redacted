@@ -59,16 +59,16 @@ Top 7 documents by mention frequency:
 
 **Events:**
 
-- [2018](../events/2018.md) - 7 shared documents
-- [2016](../events/2016.md) - 7 shared documents
-- [today](../events/today.md) - 7 shared documents
-- [2017](../events/2017.md) - 7 shared documents
-- [May](../events/may.md) - 7 shared documents
-- [recent years](../events/recent-years.md) - 7 shared documents
-- [late-afternoon](../events/late-afternoon.md) - 7 shared documents
-- [This morning](../events/this-morning.md) - 7 shared documents
-- [Dec 11, 2017](../events/dec-11-2017.md) - 7 shared documents
 - [12:50 AM](../events/1250-am.md) - 7 shared documents
+- [1:45 AM](../events/145-am.md) - 7 shared documents
+- [2016](../events/2016.md) - 7 shared documents
+- [2017](../events/2017.md) - 7 shared documents
+- [2018](../events/2018.md) - 7 shared documents
+- [5:30 pm / early evening](../events/530-pm-early-evening.md) - 7 shared documents
+- [6:19 AM](../events/619-am.md) - 7 shared documents
+- [7:40 AM](../events/740-am.md) - 7 shared documents
+- [Dec 11, 2017](../events/dec-11-2017.md) - 7 shared documents
+- [Dec 28, 2017](../events/dec-28-2017.md) - 7 shared documents
 
 ## Timeline
 

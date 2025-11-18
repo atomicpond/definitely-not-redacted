@@ -43,8 +43,8 @@ Top 10 documents by mention frequency:
 **Organizations:**
 
 - [USD](usd.md) - 14 shared documents
-- [Bloomberg](bloomberg.md) - 13 shared documents
 - [ABN](abn.md) - 13 shared documents
+- [Bloomberg](bloomberg.md) - 13 shared documents
 - [MAS](mas.md) - 12 shared documents
 - [BoJ](boj.md) - 12 shared documents
 - [Fed](fed.md) - 12 shared documents
@@ -58,21 +58,21 @@ CV](sa-de-cv.md) - 11 shared documents
 
 - [Japan](../locations/japan.md) - 18 shared documents
 - [China](../locations/china.md) - 16 shared documents
-- [USD](../locations/usd.md) - 16 shared documents
 - [Mexico](../locations/mexico.md) - 16 shared documents
-- [Europe](../locations/europe.md) - 15 shared documents
+- [USD](../locations/usd.md) - 16 shared documents
+- [Asia](../locations/asia.md) - 15 shared documents
 - [Brazil](../locations/brazil.md) - 15 shared documents
 - [Canada](../locations/canada.md) - 15 shared documents
-- [Asia](../locations/asia.md) - 15 shared documents
+- [Europe](../locations/europe.md) - 15 shared documents
 - [Singapore](../locations/singapore.md) - 15 shared documents
-- [Russia](../locations/russia.md) - 14 shared documents
+- [Argentina](../locations/argentina.md) - 14 shared documents
 
 **Events:**
 
-- [this year](../events/this-year.md) - 11 shared documents
 - [2001](../events/2001.md) - 11 shared documents
-- [2016](../events/2016.md) - 10 shared documents
+- [this year](../events/this-year.md) - 11 shared documents
 - [2000](../events/2000.md) - 10 shared documents
+- [2016](../events/2016.md) - 10 shared documents
 - [2017](../events/2017.md) - 10 shared documents
 
 ## Timeline

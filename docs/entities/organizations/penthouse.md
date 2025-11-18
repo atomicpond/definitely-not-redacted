@@ -28,18 +28,18 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
+- [Florida](../locations/florida.md) - 4 shared documents
+- [London](../locations/london.md) - 4 shared documents
+- [Miami](../locations/miami.md) - 4 shared documents
 - [New York](../locations/new-york.md) - 4 shared documents
 - [U.S.](../locations/us.md) - 4 shared documents
 - [United States](../locations/united-states.md) - 4 shared documents
-- [London](../locations/london.md) - 4 shared documents
-- [Florida](../locations/florida.md) - 4 shared documents
-- [Miami](../locations/miami.md) - 4 shared documents
 
 **Events:**
 
 - [2009](../events/2009.md) - 4 shared documents
-- [2011](../events/2011.md) - 4 shared documents
 - [2010](../events/2010.md) - 4 shared documents
+- [2011](../events/2011.md) - 4 shared documents
 - [2013](../events/2013.md) - 4 shared documents
 
 ## Timeline

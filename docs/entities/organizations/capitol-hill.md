@@ -29,7 +29,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 10 shared documents
 - [White House](../people/white-house.md) - 10 shared documents
 - [Capitol Hill](../people/capitol-hill.md) - 9 shared documents
 - [Los Angeles](../people/los-angeles.md) - 7 shared documents
@@ -39,8 +38,9 @@ Top 10 documents by mention frequency:
 - [Saudi Arabia](../people/saudi-arabia.md) - 6 shared documents
 - [United 
 States](../people/united-states.md) - 6 shared documents
-- [European 
-Union](../people/european-union.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 5 shared documents
 
 **Organizations:**
 
@@ -66,7 +66,7 @@ Union](../people/european-union.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 10 shared documents
 - [Iraq](../locations/iraq.md) - 10 shared documents
 - [Asia](../locations/asia.md) - 9 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 8 shared documents
+- [France](../locations/france.md) - 8 shared documents
 
 **Events:**
 
@@ -74,11 +74,11 @@ Union](../people/european-union.md) - 5 shared documents
 - [today](../events/today.md) - 11 shared documents
 - [2009](../events/2009.md) - 10 shared documents
 - [2014](../events/2014.md) - 10 shared documents
-- [Wednesday](../events/wednesday.md) - 9 shared documents
 - [last year](../events/last-year.md) - 9 shared documents
 - [this year](../events/this-year.md) - 9 shared documents
+- [Wednesday](../events/wednesday.md) - 9 shared documents
+- [2006](../events/2006.md) - 8 shared documents
 - [2016](../events/2016.md) - 8 shared documents
-- [this week](../events/this-week.md) - 8 shared documents
 - [May](../events/may.md) - 8 shared documents
 
 ## Timeline

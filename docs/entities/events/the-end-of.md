@@ -29,7 +29,6 @@ Top 9 documents by mention frequency:
 **People:**
 
 - [Barack Obama](../people/barack-obama.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
 - [San Francisco](../people/san-francisco.md) - 5 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 5 shared documents
 - [Tel Aviv](../people/tel-aviv.md) - 5 shared documents
@@ -58,11 +57,11 @@ Top 9 documents by mention frequency:
 - [today](today.md) - 7 shared documents
 - [a year](a-year.md) - 7 shared documents
 - [year](year.md) - 6 shared documents
-- [2012](2012.md) - 6 shared documents
-- [August](august.md) - 6 shared documents
-- [2010](2010.md) - 6 shared documents
 - [1984](1984.md) - 6 shared documents
 - [1992](1992.md) - 6 shared documents
+- [2010](2010.md) - 6 shared documents
+- [2012](2012.md) - 6 shared documents
+- [August](august.md) - 6 shared documents
 - [the past year](the-past-year.md) - 5 shared documents
 
 ## Timeline

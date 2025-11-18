@@ -31,9 +31,7 @@ Top 10 documents by mention frequency:
 
 - [White House](white-house.md) - 10 shared documents
 - [Michael Flynn](michael-flynn.md) - 7 shared documents
-- [President Trump](president-trump.md) - 6 shared documents
 - [Barack Obama](barack-obama.md) - 6 shared documents
-- [President Obama](president-obama.md) - 4 shared documents
 
 **Organizations:**
 
@@ -45,8 +43,8 @@ Top 10 documents by mention frequency:
 - [White House](../organizations/white-house.md) - 8 shared documents
 - [FBI](../organizations/fbi.md) - 7 shared documents
 - [the Justice Department](../organizations/the-justice-department.md) - 6 shared documents
-- [Treasury](../organizations/treasury.md) - 6 shared documents
 - [the Supreme Court](../organizations/the-supreme-court.md) - 6 shared documents
+- [Treasury](../organizations/treasury.md) - 6 shared documents
 
 **Locations:**
 
@@ -54,25 +52,25 @@ Top 10 documents by mention frequency:
 - [China](../locations/china.md) - 8 shared documents
 - [Washington](../locations/washington.md) - 8 shared documents
 - [Japan](../locations/japan.md) - 7 shared documents
+- [America](../locations/america.md) - 6 shared documents
 - [Germany](../locations/germany.md) - 6 shared documents
 - [Mexico](../locations/mexico.md) - 6 shared documents
-- [America](../locations/america.md) - 6 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
 - [Canada](../locations/canada.md) - 5 shared documents
+- [Europe](../locations/europe.md) - 5 shared documents
+- [Israel](../locations/israel.md) - 5 shared documents
 
 **Events:**
 
 - [2016](../events/2016.md) - 7 shared documents
 - [this year](../events/this-year.md) - 7 shared documents
-- [October](../events/october.md) - 6 shared documents
 - [2017](../events/2017.md) - 6 shared documents
-- [the year](../events/the-year.md) - 6 shared documents
+- [October](../events/october.md) - 6 shared documents
 - [the day](../events/the-day.md) - 6 shared documents
-- [2018](../events/2018.md) - 5 shared documents
+- [the year](../events/the-year.md) - 6 shared documents
+- [2001](../events/2001.md) - 5 shared documents
+- [2010](../events/2010.md) - 5 shared documents
 - [2014](../events/2014.md) - 5 shared documents
-- [Thursday](../events/thursday.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
+- [2018](../events/2018.md) - 5 shared documents
 
 ## Timeline
 

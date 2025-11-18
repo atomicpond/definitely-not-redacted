@@ -33,12 +33,12 @@ Top 10 documents by mention frequency:
 - [Crime Victims](crime-victims.md) - 11 shared documents
 - [New Mexico](new-mexico.md) - 9 shared documents
 - [Daily News](daily-news.md) - 9 shared documents
-- [Bradley Edwards](bradley-edwards.md) - 8 shared documents
+- [Brad Edwards](brad-edwards.md) - 8 shared documents
 - [Emily Michot](emily-michot.md) - 8 shared documents
 - [Jay Lefkowitz](jay-lefkowitz.md) - 8 shared documents
 - [Paul Cassell](paul-cassell.md) - 7 shared documents
-- [President Trump](president-trump.md) - 7 shared documents
 - [White House](white-house.md) - 7 shared documents
+- [Secret Service](secret-service.md) - 5 shared documents
 
 **Organizations:**
 
@@ -57,10 +57,10 @@ Top 10 documents by mention frequency:
 - [Palm Beach](../locations/palm-beach.md) - 14 shared documents
 - [Florida](../locations/florida.md) - 11 shared documents
 - [Washington](../locations/washington.md) - 10 shared documents
-- [United States](../locations/united-states.md) - 9 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 9 shared documents
-- [New York City](../locations/new-york-city.md) - 9 shared documents
 - [New Mexico](../locations/new-mexico.md) - 9 shared documents
+- [New York City](../locations/new-york-city.md) - 9 shared documents
+- [the Southern District](../locations/the-southern-district.md) - 9 shared documents
+- [United States](../locations/united-states.md) - 9 shared documents
 - [America](../locations/america.md) - 8 shared documents
 
 **Events:**
@@ -72,9 +72,9 @@ Top 10 documents by mention frequency:
 - [2019](../events/2019.md) - 10 shared documents
 - [2017](../events/2017.md) - 9 shared documents
 - [November](../events/november.md) - 9 shared documents
-- [Tuesday](../events/tuesday.md) - 9 shared documents
 - [the day](../events/the-day.md) - 9 shared documents
-- [2009](../events/2009.md) - 8 shared documents
+- [Tuesday](../events/tuesday.md) - 9 shared documents
+- [13 months](../events/13-months.md) - 8 shared documents
 
 ## Timeline
 

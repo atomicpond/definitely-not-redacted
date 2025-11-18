@@ -23,7 +23,7 @@
 - [Donald 
 Trump](../entities/people/donald-trump.md) - 1 mention
 - [Assad](../entities/people/assad.md) - 1 mention
-- [Mr. Mubarak](../entities/people/mr-mubarak.md) - 1 mention
+- [Mr. Mubarak](../entities/people/mubarak.md) - 1 mention
 - [Nixon](../entities/people/nixon.md) - 1 mention
 - [Saddam Hussein](../entities/people/saddam-hussein.md) - 1 mention
 - [Hussein](../entities/people/hussein.md) - 1 mention

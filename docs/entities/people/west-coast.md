@@ -34,35 +34,32 @@ Top 10 documents by mention frequency:
 **Organizations:**
 
 - [Columbia University](../organizations/columbia-university.md) - 7 shared documents
-- [Harvard University](../organizations/harvard-university.md) - 6 shared documents
-- [Supreme Court](../organizations/supreme-court.md) - 6 shared documents
-- [Harvard](../organizations/harvard.md) - 6 shared documents
 
 **Locations:**
 
 - [Germany](../locations/germany.md) - 9 shared documents
-- [California](../locations/california.md) - 8 shared documents
 - [America](../locations/america.md) - 8 shared documents
-- [the United States](../locations/the-united-states.md) - 8 shared documents
+- [California](../locations/california.md) - 8 shared documents
 - [Paris](../locations/paris.md) - 8 shared documents
-- [United States](../locations/united-states.md) - 7 shared documents
-- [Russia](../locations/russia.md) - 7 shared documents
+- [the United States](../locations/the-united-states.md) - 8 shared documents
 - [Australia](../locations/australia.md) - 7 shared documents
+- [Boston](../locations/boston.md) - 7 shared documents
 - [England](../locations/england.md) - 7 shared documents
 - [Massachusetts](../locations/massachusetts.md) - 7 shared documents
+- [Russia](../locations/russia.md) - 7 shared documents
 
 **Events:**
 
-- [years](../events/years.md) - 9 shared documents
 - [Friday](../events/friday.md) - 9 shared documents
-- [Sunday](../events/sunday.md) - 8 shared documents
+- [years](../events/years.md) - 9 shared documents
 - [months](../events/months.md) - 8 shared documents
-- [today](../events/today.md) - 7 shared documents
-- [daily](../events/daily.md) - 7 shared documents
-- [this year](../events/this-year.md) - 7 shared documents
+- [Sunday](../events/sunday.md) - 8 shared documents
+- [1978](../events/1978.md) - 7 shared documents
 - [2001](../events/2001.md) - 7 shared documents
+- [daily](../events/daily.md) - 7 shared documents
+- [many years](../events/many-years.md) - 7 shared documents
 - [one day](../events/one-day.md) - 7 shared documents
-- [tomorrow](../events/tomorrow.md) - 7 shared documents
+- [this year](../events/this-year.md) - 7 shared documents
 
 ## Timeline
 

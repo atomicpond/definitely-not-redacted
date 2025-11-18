@@ -63,21 +63,21 @@ Top 10 documents by mention frequency:
 - [Ohio](ohio.md) - 13 shared documents
 - [United States](united-states.md) - 12 shared documents
 - [Virginia](virginia.md) - 12 shared documents
+- [Canada](canada.md) - 12 shared documents
 - [China](china.md) - 12 shared documents
-- [Europe](europe.md) - 12 shared documents
 
 **Events:**
 
-- [2015](../events/2015.md) - 12 shared documents
 - [2012](../events/2012.md) - 12 shared documents
+- [2015](../events/2015.md) - 12 shared documents
 - [the year](../events/the-year.md) - 12 shared documents
 - [2004](../events/2004.md) - 11 shared documents
 - [2007](../events/2007.md) - 11 shared documents
 - [daily](../events/daily.md) - 11 shared documents
 - [Friday](../events/friday.md) - 11 shared documents
 - [one day](../events/one-day.md) - 11 shared documents
-- [annual](../events/annual.md) - 10 shared documents
-- [today](../events/today.md) - 10 shared documents
+- [1970](../events/1970.md) - 10 shared documents
+- [1990](../events/1990.md) - 10 shared documents
 
 ## Timeline
 

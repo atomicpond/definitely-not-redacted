@@ -54,11 +54,11 @@ Top 8 documents by mention frequency:
 **Locations:**
 
 - [USA](usa.md) - 8 shared documents
-- [California](california.md) - 8 shared documents
-- [Los Angeles](los-angeles.md) - 8 shared documents
-- [D.C.](dc.md) - 8 shared documents
 - [777 South Figueroa Street](777-south-figueroa-street.md) - 8 shared documents
 - [950 Pennsylvania Avenue](950-pennsylvania-avenue.md) - 8 shared documents
+- [California](california.md) - 8 shared documents
+- [D.C.](dc.md) - 8 shared documents
+- [Los Angeles](los-angeles.md) - 8 shared documents
 - [the United States](the-united-states.md) - 7 shared documents
 - [Washington](washington.md) - 7 shared documents
 - [Miami](miami.md) - 7 shared documents

@@ -50,28 +50,28 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [Spain](spain.md) - 8 shared documents
-- [Paris](paris.md) - 8 shared documents
 - [England](england.md) - 8 shared documents
+- [Paris](paris.md) - 8 shared documents
 - [the United States](the-united-states.md) - 7 shared documents
-- [California](california.md) - 7 shared documents
 - [Africa](africa.md) - 7 shared documents
-- [Germany](germany.md) - 7 shared documents
-- [London](london.md) - 7 shared documents
 - [America](america.md) - 7 shared documents
+- [Australia](australia.md) - 7 shared documents
+- [California](california.md) - 7 shared documents
 - [France](france.md) - 7 shared documents
+- [Germany](germany.md) - 7 shared documents
 
 **Events:**
 
-- [years](../events/years.md) - 8 shared documents
-- [months](../events/months.md) - 8 shared documents
 - [a year](../events/a-year.md) - 8 shared documents
+- [months](../events/months.md) - 8 shared documents
+- [years](../events/years.md) - 8 shared documents
+- [1991](../events/1991.md) - 7 shared documents
 - [annual](../events/annual.md) - 7 shared documents
-- [today](../events/today.md) - 7 shared documents
 - [daily](../events/daily.md) - 7 shared documents
 - [Sunday](../events/sunday.md) - 7 shared documents
 - [three years](../events/three-years.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
 - [two years](../events/two-years.md) - 7 shared documents
-- [1991](../events/1991.md) - 7 shared documents
 
 ## Timeline
 

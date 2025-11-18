@@ -63,23 +63,23 @@ Top 10 documents by mention frequency:
 - [USVI](usvi.md) - 7 shared documents
 - [Miami](miami.md) - 7 shared documents
 - [the Virgin Islands](the-virgin-islands.md) - 6 shared documents
-- [London](london.md) - 6 shared documents
 - [America](america.md) - 6 shared documents
+- [London](london.md) - 6 shared documents
 - [Palm Beach](palm-beach.md) - 6 shared documents
 - [U.S.](us.md) - 5 shared documents
 
 **Events:**
 
 - [annual](../events/annual.md) - 8 shared documents
-- [Thursday](../events/thursday.md) - 8 shared documents
 - [Sunday](../events/sunday.md) - 8 shared documents
+- [Thursday](../events/thursday.md) - 8 shared documents
 - [years](../events/years.md) - 8 shared documents
-- [today](../events/today.md) - 7 shared documents
-- [this week](../events/this-week.md) - 7 shared documents
 - [2006](../events/2006.md) - 7 shared documents
+- [this week](../events/this-week.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
 - [tomorrow](../events/tomorrow.md) - 7 shared documents
 - [two years](../events/two-years.md) - 7 shared documents
-- [Wednesday](../events/wednesday.md) - 6 shared documents
+- [2005](../events/2005.md) - 6 shared documents
 
 ## Timeline
 

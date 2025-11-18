@@ -58,10 +58,10 @@ Top 10 documents by mention frequency:
 
 - [Palm Beach](../locations/palm-beach.md) - 10 shared documents
 - [Florida](../locations/florida.md) - 8 shared documents
-- [Virginia](../locations/virginia.md) - 6 shared documents
-- [Palm Beach County](../locations/palm-beach-county.md) - 6 shared documents
-- [Holland](../locations/holland.md) - 6 shared documents
 - [HENDERSON](../locations/henderson.md) - 6 shared documents
+- [Holland](../locations/holland.md) - 6 shared documents
+- [Palm Beach County](../locations/palm-beach-county.md) - 6 shared documents
+- [Virginia](../locations/virginia.md) - 6 shared documents
 - [WOODBRIDGE](../locations/woodbridge.md) - 6 shared documents
 - [Charlotte](../locations/charlotte.md) - 5 shared documents
 - [Flint](../locations/flint.md) - 5 shared documents
@@ -73,12 +73,12 @@ Top 10 documents by mention frequency:
 - [2005](../events/2005.md) - 7 shared documents
 - [winter](../events/winter.md) - 7 shared documents
 - [1995](../events/1995.md) - 6 shared documents
-- [2007](../events/2007.md) - 5 shared documents
-- [monthly](../events/monthly.md) - 5 shared documents
+- [1976](../events/1976.md) - 5 shared documents
 - [1997](../events/1997.md) - 5 shared documents
 - [2006](../events/2006.md) - 5 shared documents
-- [1976](../events/1976.md) - 5 shared documents
-- [2004](../events/2004.md) - 4 shared documents
+- [2007](../events/2007.md) - 5 shared documents
+- [monthly](../events/monthly.md) - 5 shared documents
+- [1960](../events/1960.md) - 4 shared documents
 
 ## Timeline
 

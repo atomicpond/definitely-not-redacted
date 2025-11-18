@@ -33,32 +33,32 @@ Top 10 documents by mention frequency:
 - [Vanity Fair](vanity-fair.md) - 15 shared documents
 - [Les Wexner](les-wexner.md) - 13 shared documents
 - [Robert Maxwell](robert-maxwell.md) - 13 shared documents
-- [Brad Edwards](brad-edwards.md) - 13 shared documents
 - [Larry Summers](larry-summers.md) - 11 shared documents
 - [Daily News](daily-news.md) - 10 shared documents
 - [Jane Doe](jane-doe.md) - 9 shared documents
 - [Jimmy Cayne](jimmy-cayne.md) - 9 shared documents
 - [New Year](new-year.md) - 9 shared documents
+- [Rockefeller University](rockefeller-university.md) - 9 shared documents
 
 **Organizations:**
 
 - [FBI](../organizations/fbi.md) - 18 shared documents
-- [Harvard](../organizations/harvard.md) - 17 shared documents
 - [Daily Mail](../organizations/daily-mail.md) - 17 shared documents
+- [Harvard](../organizations/harvard.md) - 17 shared documents
 - [Vanity Fair](../organizations/vanity-fair.md) - 15 shared documents
-- [the New York Times](../organizations/the-new-york-times.md) - 14 shared documents
 - [Google](../organizations/google.md) - 14 shared documents
-- [Times](../organizations/times.md) - 13 shared documents
+- [the New York Times](../organizations/the-new-york-times.md) - 14 shared documents
 - [the Daily Mail](../organizations/the-daily-mail.md) - 13 shared documents
+- [Times](../organizations/times.md) - 13 shared documents
+- [Guardian](../organizations/guardian.md) - 12 shared documents
 - [the Justice Department](../organizations/the-justice-department.md) - 12 shared documents
-- [Treasury](../organizations/treasury.md) - 12 shared documents
 
 **Locations:**
 
 - [Palm Beach](../locations/palm-beach.md) - 20 shared documents
 - [Manhattan](../locations/manhattan.md) - 19 shared documents
-- [Europe](../locations/europe.md) - 17 shared documents
 - [Britain](../locations/britain.md) - 17 shared documents
+- [Europe](../locations/europe.md) - 17 shared documents
 - [Paris](../locations/paris.md) - 16 shared documents
 - [New Mexico](../locations/new-mexico.md) - 15 shared documents
 - [London](../locations/london.md) - 14 shared documents
@@ -68,15 +68,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [the day](../events/the-day.md) - 18 shared documents
-- [today](../events/today.md) - 16 shared documents
-- [daily](../events/daily.md) - 16 shared documents
 - [2006](../events/2006.md) - 16 shared documents
-- [2010](../events/2010.md) - 15 shared documents
+- [daily](../events/daily.md) - 16 shared documents
+- [today](../events/today.md) - 16 shared documents
 - [2002](../events/2002.md) - 15 shared documents
+- [2010](../events/2010.md) - 15 shared documents
 - [2011](../events/2011.md) - 14 shared documents
+- [18 months](../events/18-months.md) - 13 shared documents
 - [2004](../events/2004.md) - 13 shared documents
 - [2009](../events/2009.md) - 13 shared documents
-- [2014](../events/2014.md) - 13 shared documents
 
 ## Timeline
 

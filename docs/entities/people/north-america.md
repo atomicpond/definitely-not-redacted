@@ -31,16 +31,16 @@ Top 5 documents by mention frequency:
 - [Europe](../locations/europe.md) - 5 shared documents
 - [India](../locations/india.md) - 5 shared documents
 - [North America](../locations/north-america.md) - 5 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
 - [China](../locations/china.md) - 4 shared documents
 - [Syria](../locations/syria.md) - 4 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
 - [the United States](../locations/the-united-states.md) - 4 shared documents
 
 **Events:**
 
+- [2008](../events/2008.md) - 4 shared documents
 - [today](../events/today.md) - 4 shared documents
 - [years](../events/years.md) - 4 shared documents
-- [2008](../events/2008.md) - 4 shared documents
 
 ## Timeline
 

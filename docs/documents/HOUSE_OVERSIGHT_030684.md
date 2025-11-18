@@ -14,7 +14,7 @@
 - [Larry Gagosian](../entities/people/larry-gagosian.md) - 1 mention
 - [Michael Douglas](../entities/people/michael-douglas.md) - 1 mention
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 1 mention
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 1 mention
 - [Harvey](../entities/people/harvey.md) - 1 mention
 - [Ronan](../entities/people/ronan.md) - 1 mention
 

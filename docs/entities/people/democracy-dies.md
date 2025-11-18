@@ -28,19 +28,19 @@ Top 8 documents by mention frequency:
 **People:**
 
 - [Barrack Jr](barrack-jr.md) - 7 shared documents
-- [Lawrence Summers](lawrence-summers.md) - 6 shared documents
+- [Larry Summers](larry-summers.md) - 6 shared documents
 - [Thomas J. Barrack Jr.](thomas-j-barrack-jr.md) - 4 shared documents
 
 **Organizations:**
 
 - [the Washington Post](../organizations/the-washington-post.md) - 8 shared documents
-- [twitter glhsummers](../organizations/twitter-glhsummers.md) - 7 shared documents
 - [Trending Now](../organizations/trending-now.md) - 7 shared documents
+- [twitter glhsummers](../organizations/twitter-glhsummers.md) - 7 shared documents
 - [Trump](../organizations/trump.md) - 5 shared documents
 - [HOUSE](../organizations/house.md) - 4 shared documents
 - [iPad](../organizations/ipad.md) - 4 shared documents
-- [Softbank](../organizations/softbank.md) - 4 shared documents
 - [PIF](../organizations/pif.md) - 4 shared documents
+- [Softbank](../organizations/softbank.md) - 4 shared documents
 
 **Locations:**
 

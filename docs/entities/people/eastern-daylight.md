@@ -44,8 +44,8 @@ Sent](jonathan-sent.md) - 6 shared documents
 
 **Events:**
 
-- [May 8, 2017](../events/may-8-2017.md) - 6 shared documents
 - [5/8/2017](../events/582017.md) - 6 shared documents
+- [May 8, 2017](../events/may-8-2017.md) - 6 shared documents
 
 ## Timeline
 

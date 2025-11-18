@@ -30,16 +30,16 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 13 shared documents
 - [West Bank](../people/west-bank.md) - 12 shared documents
 - [Mahmoud Abbas](../people/mahmoud-abbas.md) - 10 shared documents
 - [Middle East](../people/middle-east.md) - 10 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 10 shared documents
 - [White House](../people/white-house.md) - 10 shared documents
-- [President Obama](../people/president-obama.md) - 9 shared documents
 - [East Jerusalem](../people/east-jerusalem.md) - 8 shared documents
 - [Bashar al-Assad](../people/bashar-al-assad.md) - 7 shared documents
 - [Gaza Strip](../people/gaza-strip.md) - 7 shared documents
+- [Joe Biden](../people/joe-biden.md) - 7 shared documents
+- [Security Council](../people/security-council.md) - 7 shared documents
 
 **Organizations:**
 
@@ -60,25 +60,25 @@ Top 10 documents by mention frequency:
 - [Iran](iran.md) - 12 shared documents
 - [Iraq](iraq.md) - 12 shared documents
 - [Jordan](jordan.md) - 12 shared documents
+- [Palestine](palestine.md) - 12 shared documents
 - [Syria](syria.md) - 12 shared documents
 - [the United States](the-united-states.md) - 12 shared documents
-- [Palestine](palestine.md) - 12 shared documents
 - [the Middle East](the-middle-east.md) - 11 shared documents
-- [Middle East](middle-east.md) - 10 shared documents
-- [Russia](russia.md) - 10 shared documents
+- [Egypt](egypt.md) - 10 shared documents
+- [Jerusalem](jerusalem.md) - 10 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 9 shared documents
 - [1973](../events/1973.md) - 9 shared documents
+- [today](../events/today.md) - 9 shared documents
 - [2003](../events/2003.md) - 8 shared documents
 - [2009](../events/2009.md) - 8 shared documents
-- [years](../events/years.md) - 8 shared documents
+- [a year](../events/a-year.md) - 8 shared documents
 - [last week](../events/last-week.md) - 8 shared documents
 - [the years](../events/the-years.md) - 8 shared documents
 - [Tuesday](../events/tuesday.md) - 8 shared documents
-- [a year](../events/a-year.md) - 8 shared documents
-- [annual](../events/annual.md) - 7 shared documents
+- [years](../events/years.md) - 8 shared documents
+- [10 years](../events/10-years.md) - 7 shared documents
 
 ## Timeline
 

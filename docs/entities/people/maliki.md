@@ -31,22 +31,22 @@ Top 4 documents by mention frequency:
 
 **Locations:**
 
-- [Middle East](../locations/middle-east.md) - 4 shared documents
-- [China](../locations/china.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
+- [China](../locations/china.md) - 4 shared documents
+- [Damascus](../locations/damascus.md) - 4 shared documents
+- [Egypt](../locations/egypt.md) - 4 shared documents
+- [Europe](../locations/europe.md) - 4 shared documents
 - [Iran](../locations/iran.md) - 4 shared documents
 - [Iraq](../locations/iraq.md) - 4 shared documents
+- [Israel](../locations/israel.md) - 4 shared documents
 - [Libya](../locations/libya.md) - 4 shared documents
-- [Saudi Arabia](../locations/saudi-arabia.md) - 4 shared documents
-- [Syria](../locations/syria.md) - 4 shared documents
+- [Middle East](../locations/middle-east.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 4 shared documents
-- [last week](../events/last-week.md) - 4 shared documents
 - [February](../events/february.md) - 4 shared documents
+- [last week](../events/last-week.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

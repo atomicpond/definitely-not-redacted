@@ -42,37 +42,36 @@ Top 10 documents by mention frequency:
 
 **Organizations:**
 
-- [CBS](../organizations/cbs.md) - 7 shared documents
 - [Academy Award](../organizations/academy-award.md) - 7 shared documents
+- [CBS](../organizations/cbs.md) - 7 shared documents
 - [Fox](../organizations/fox.md) - 7 shared documents
 - [The Wall Street Journal](../organizations/the-wall-street-journal.md) - 7 shared documents
-- [HOUSE](../organizations/house.md) - 6 shared documents
 
 **Locations:**
 
+- [America](../locations/america.md) - 9 shared documents
 - [Germany](../locations/germany.md) - 9 shared documents
 - [London](../locations/london.md) - 9 shared documents
-- [America](../locations/america.md) - 9 shared documents
-- [New York City](../locations/new-york-city.md) - 8 shared documents
 - [Australia](../locations/australia.md) - 8 shared documents
 - [Hollywood](../locations/hollywood.md) - 8 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 7 shared documents
-- [Europe](../locations/europe.md) - 7 shared documents
+- [New York City](../locations/new-york-city.md) - 8 shared documents
 - [Canada](../locations/canada.md) - 7 shared documents
-- [Washington](../locations/washington.md) - 7 shared documents
+- [Europe](../locations/europe.md) - 7 shared documents
+- [France](../locations/france.md) - 7 shared documents
+- [Israel](../locations/israel.md) - 7 shared documents
 
 **Events:**
 
 - [2008](../events/2008.md) - 9 shared documents
-- [2010](../events/2010.md) - 8 shared documents
 - [1987](../events/1987.md) - 8 shared documents
+- [2010](../events/2010.md) - 8 shared documents
+- [1985](../events/1985.md) - 7 shared documents
 - [2004](../events/2004.md) - 7 shared documents
+- [2006](../events/2006.md) - 7 shared documents
 - [2007](../events/2007.md) - 7 shared documents
 - [2009](../events/2009.md) - 7 shared documents
-- [annual](../events/annual.md) - 7 shared documents
-- [today](../events/today.md) - 7 shared documents
+- [2011](../events/2011.md) - 7 shared documents
 - [2012](../events/2012.md) - 7 shared documents
-- [1985](../events/1985.md) - 7 shared documents
 
 ## Timeline
 

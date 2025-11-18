@@ -30,15 +30,15 @@ Top 5 documents by mention frequency:
 **Events:**
 
 - [2014](../events/2014.md) - 5 shared documents
+- [2006](../events/2006.md) - 4 shared documents
 - [2007](../events/2007.md) - 4 shared documents
 - [2009](../events/2009.md) - 4 shared documents
+- [2010](../events/2010.md) - 4 shared documents
+- [2012](../events/2012.md) - 4 shared documents
 - [2015](../events/2015.md) - 4 shared documents
 - [2016](../events/2016.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
-- [2012](../events/2012.md) - 4 shared documents
 - [2017](../events/2017.md) - 4 shared documents
-- [monthly](../events/monthly.md) - 4 shared documents
-- [2010](../events/2010.md) - 4 shared documents
+- [annual](../events/annual.md) - 4 shared documents
 
 ## Timeline
 

@@ -68,16 +68,16 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
+- [1982](../events/1982.md) - 14 shared documents
 - [2002](../events/2002.md) - 14 shared documents
 - [two years](../events/two-years.md) - 14 shared documents
-- [1982](../events/1982.md) - 14 shared documents
-- [Sunday](../events/sunday.md) - 13 shared documents
 - [1953](../events/1953.md) - 13 shared documents
-- [2004](../events/2004.md) - 12 shared documents
-- [the 1980s](../events/the-1980s.md) - 12 shared documents
-- [last year](../events/last-year.md) - 12 shared documents
+- [Sunday](../events/sunday.md) - 13 shared documents
 - [1994](../events/1994.md) - 12 shared documents
-- [Saturday](../events/saturday.md) - 11 shared documents
+- [2004](../events/2004.md) - 12 shared documents
+- [last year](../events/last-year.md) - 12 shared documents
+- [the 1980s](../events/the-1980s.md) - 12 shared documents
+- [18 months](../events/18-months.md) - 11 shared documents
 
 ## Timeline
 

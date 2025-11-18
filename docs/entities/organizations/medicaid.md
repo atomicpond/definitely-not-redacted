@@ -30,8 +30,8 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 8 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Medicaid Services](../people/medicaid-services.md) - 7 shared documents
-- [President Obama](../people/president-obama.md) - 7 shared documents
 - [Merrill Lynch](../people/merrill-lynch.md) - 4 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 4 shared documents
 
@@ -51,28 +51,27 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 9 shared documents
-- [Japan](../locations/japan.md) - 8 shared documents
 - [Canada](../locations/canada.md) - 8 shared documents
+- [Japan](../locations/japan.md) - 8 shared documents
 - [Washington](../locations/washington.md) - 8 shared documents
-- [United States](../locations/united-states.md) - 7 shared documents
 - [China](../locations/china.md) - 7 shared documents
-- [Germany](../locations/germany.md) - 6 shared documents
+- [United States](../locations/united-states.md) - 7 shared documents
 - [America](../locations/america.md) - 6 shared documents
 - [Florida](../locations/florida.md) - 6 shared documents
-- [California](../locations/california.md) - 5 shared documents
+- [Germany](../locations/germany.md) - 6 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 10 shared documents
+- [2012](../events/2012.md) - 8 shared documents
 - [2015](../events/2015.md) - 8 shared documents
 - [annual](../events/annual.md) - 8 shared documents
-- [2012](../events/2012.md) - 8 shared documents
 - [this year](../events/this-year.md) - 8 shared documents
 - [years](../events/years.md) - 8 shared documents
-- [2003](../events/2003.md) - 7 shared documents
-- [2018](../events/2018.md) - 7 shared documents
-- [2014](../events/2014.md) - 7 shared documents
 - [2000](../events/2000.md) - 7 shared documents
+- [2003](../events/2003.md) - 7 shared documents
+- [2013](../events/2013.md) - 7 shared documents
+- [2014](../events/2014.md) - 7 shared documents
 
 ## Timeline
 

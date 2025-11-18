@@ -42,8 +42,8 @@ Clinton](bill-clinton.md) - 5 shared documents
 
 **Locations:**
 
-- [Stockholm](../locations/stockholm.md) - 7 shared documents
 - [Sofia](../locations/sofia.md) - 7 shared documents
+- [Stockholm](../locations/stockholm.md) - 7 shared documents
 - [Colorado](../locations/colorado.md) - 5 shared documents
 - [Miami](../locations/miami.md) - 5 shared documents
 - [NYC](../locations/nyc.md) - 5 shared documents
@@ -52,13 +52,13 @@ Clinton](bill-clinton.md) - 5 shared documents
 
 **Events:**
 
-- [November](../events/november.md) - 5 shared documents
-- [yesterday](../events/yesterday.md) - 5 shared documents
-- [September](../events/september.md) - 5 shared documents
-- [this coming week](../events/this-coming-week.md) - 5 shared documents
 - [a crazy week](../events/a-crazy-week.md) - 5 shared documents
 - [mid or end](../events/mid-or-end.md) - 5 shared documents
+- [November](../events/november.md) - 5 shared documents
 - [Sept 27](../events/sept-27.md) - 5 shared documents
+- [September](../events/september.md) - 5 shared documents
+- [this coming week](../events/this-coming-week.md) - 5 shared documents
+- [yesterday](../events/yesterday.md) - 5 shared documents
 - [this year](../events/this-year.md) - 4 shared documents
 
 ## Timeline

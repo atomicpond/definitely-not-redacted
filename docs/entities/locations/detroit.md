@@ -48,8 +48,8 @@ Top 9 documents by mention frequency:
 - [Chicago](chicago.md) - 6 shared documents
 - [Germany](germany.md) - 5 shared documents
 - [Philadelphia](philadelphia.md) - 5 shared documents
-- [China](china.md) - 5 shared documents
 - [America](america.md) - 5 shared documents
+- [China](china.md) - 5 shared documents
 - [Mexico](mexico.md) - 4 shared documents
 - [Netherlands](netherlands.md) - 4 shared documents
 - [Russia](russia.md) - 4 shared documents
@@ -57,14 +57,14 @@ Top 9 documents by mention frequency:
 **Events:**
 
 - [2012](../events/2012.md) - 6 shared documents
-- [last year](../events/last-year.md) - 6 shared documents
 - [2013](../events/2013.md) - 6 shared documents
+- [last year](../events/last-year.md) - 6 shared documents
 - [2016](../events/2016.md) - 5 shared documents
 - [annual](../events/annual.md) - 5 shared documents
 - [Tuesday](../events/tuesday.md) - 5 shared documents
+- [10 years](../events/10-years.md) - 4 shared documents
+- [1992](../events/1992.md) - 4 shared documents
 - [2004](../events/2004.md) - 4 shared documents
-- [2018](../events/2018.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
 - [2008](../events/2008.md) - 4 shared documents
 
 ## Timeline

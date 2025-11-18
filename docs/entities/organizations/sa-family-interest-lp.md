@@ -28,10 +28,8 @@ Top 5 documents by mention frequency:
 
 - [Bill 
 Clinton](../people/bill-clinton.md) - 5 shared documents
-- [Clintons](../people/clintons.md) - 5 shared documents
 - [David Pegg](../people/david-pegg.md) - 5 shared documents
-- [Epstein](../people/epstein.md) - 5 shared documents
-- [Hilary Clinton](../people/hilary-clinton.md) - 5 shared documents
+- [Hillary Clinton](../people/hillary-clinton.md) - 5 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 5 shared documents
 - [Kevin Spacey](../people/kevin-spacey.md) - 5 shared documents
 - [Leslie Wexner](../people/leslie-wexner.md) - 5 shared documents
@@ -42,31 +40,31 @@ Andrew](../people/prince-andrew.md) - 5 shared documents
 **Organizations:**
 
 - [Suisse](suisse.md) - 5 shared documents
-- [HOUSE](house.md) - 5 shared documents
-- [Guardian](guardian.md) - 5 shared documents
 - [Android](android.md) - 5 shared documents
-- [HSBC](hsbc.md) - 5 shared documents
+- [Guardian](guardian.md) - 5 shared documents
 - [Guardian Media Group plc](guardian-media-group-plc.md) - 5 shared documents
 - [Guardian News & Media Limited](guardian-news-media-limited.md) - 5 shared documents
 - [Guardian News & Media Limited is a member of Guardian Media Group](guardian-news-media-limited-is-a-member-of-guardian-media-group.md) - 5 shared documents
+- [HOUSE](house.md) - 5 shared documents
+- [HSBC](hsbc.md) - 5 shared documents
 - [Kings 
 Place](kings-place.md) - 5 shared documents
 
 **Locations:**
 
-- [London](../locations/london.md) - 5 shared documents
 - [England](../locations/england.md) - 5 shared documents
-- [US](../locations/us.md) - 5 shared documents
+- [London](../locations/london.md) - 5 shared documents
 - [U.K.](../locations/uk.md) - 5 shared documents
+- [US](../locations/us.md) - 5 shared documents
 
 **Events:**
 
-- [2012](../events/2012.md) - 5 shared documents
-- [2008](../events/2008.md) - 5 shared documents
-- [Earlier this month](../events/earlier-this-month.md) - 5 shared documents
 - [18 months](../events/18-months.md) - 5 shared documents
-- [5 January 2015](../events/5-january-2015.md) - 5 shared documents
+- [2008](../events/2008.md) - 5 shared documents
+- [2012](../events/2012.md) - 5 shared documents
 - [29 January 2015](../events/29-january-2015.md) - 5 shared documents
+- [5 January 2015](../events/5-january-2015.md) - 5 shared documents
+- [Earlier this month](../events/earlier-this-month.md) - 5 shared documents
 - [Monday 12th January 2015](../events/monday-12th-january-2015.md) - 5 shared documents
 - [Monday 2nd February 2015](../events/monday-2nd-february-2015.md) - 5 shared documents
 

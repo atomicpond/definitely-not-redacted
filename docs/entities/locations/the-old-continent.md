@@ -59,25 +59,25 @@ Dignitatis Humanae Institute](../organizations/benjamin-harnwell-founder-and-pre
 **Locations:**
 
 - [USA](usa.md) - 11 shared documents
-- [Europe](europe.md) - 11 shared documents
-- [London](london.md) - 11 shared documents
 - [Brussels](brussels.md) - 11 shared documents
 - [Cambridge](cambridge.md) - 11 shared documents
 - [Charlottesville](charlottesville.md) - 11 shared documents
 - [East](east.md) - 11 shared documents
+- [Europe](europe.md) - 11 shared documents
 - [Italy](italy.md) - 11 shared documents
+- [London](london.md) - 11 shared documents
 - [Lost Paradise](lost-paradise.md) - 11 shared documents
 - [Paradise](paradise.md) - 11 shared documents
 
 **Events:**
 
+- [1984](../events/1984.md) - 11 shared documents
 - [2014](../events/2014.md) - 11 shared documents
 - [2016](../events/2016.md) - 11 shared documents
-- [Friday](../events/friday.md) - 11 shared documents
-- [1984](../events/1984.md) - 11 shared documents
 - [2018-07-22](../events/2018-07-22.md) - 11 shared documents
 - [2019](../events/2019.md) - 11 shared documents
 - [65](../events/65.md) - 11 shared documents
+- [Friday](../events/friday.md) - 11 shared documents
 - [July 22, 2018](../events/july-22-2018.md) - 11 shared documents
 - [last summer](../events/last-summer.md) - 11 shared documents
 - [next May](../events/next-may.md) - 11 shared documents

@@ -31,15 +31,15 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [White House](../people/white-house.md) - 9 shared documents
+- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Middle East](../people/middle-east.md) - 7 shared documents
-- [President Obama](../people/president-obama.md) - 7 shared documents
 - [San Francisco](../people/san-francisco.md) - 7 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 6 shared documents
 - [Vietnam War](../people/vietnam-war.md) - 6 shared documents
-- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Cold War](../people/cold-war.md) - 5 shared documents
 - [Pulitzer Prize](../people/pulitzer-prize.md) - 5 shared documents
 - [Vanity Fair](../people/vanity-fair.md) - 5 shared documents
+- [Academy Award](../people/academy-award.md) - 4 shared documents
 
 **Organizations:**
 
@@ -60,25 +60,25 @@ Top 10 documents by mention frequency:
 - [Iran](../locations/iran.md) - 10 shared documents
 - [Israel](../locations/israel.md) - 10 shared documents
 - [Paris](../locations/paris.md) - 10 shared documents
+- [Canada](../locations/canada.md) - 9 shared documents
 - [China](../locations/china.md) - 9 shared documents
 - [Europe](../locations/europe.md) - 9 shared documents
 - [Russia](../locations/russia.md) - 9 shared documents
-- [Canada](../locations/canada.md) - 9 shared documents
-- [Japan](../locations/japan.md) - 8 shared documents
-- [Germany](../locations/germany.md) - 8 shared documents
+- [America](../locations/america.md) - 8 shared documents
+- [Britain](../locations/britain.md) - 8 shared documents
 
 **Events:**
 
 - [April](../events/april.md) - 10 shared documents
 - [the year](../events/the-year.md) - 9 shared documents
-- [today](../events/today.md) - 8 shared documents
-- [daily](../events/daily.md) - 8 shared documents
 - [August](../events/august.md) - 8 shared documents
-- [May](../events/may.md) - 8 shared documents
+- [daily](../events/daily.md) - 8 shared documents
 - [December](../events/december.md) - 8 shared documents
 - [January](../events/january.md) - 8 shared documents
-- [October](../events/october.md) - 7 shared documents
-- [annual](../events/annual.md) - 7 shared documents
+- [May](../events/may.md) - 8 shared documents
+- [today](../events/today.md) - 8 shared documents
+- [1981](../events/1981.md) - 7 shared documents
+- [1982](../events/1982.md) - 7 shared documents
 
 ## Timeline
 

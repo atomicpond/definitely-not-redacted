@@ -31,16 +31,16 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Larry Summers](../people/larry-summers.md) - 27 shared documents
 - [Goldman Sachs](../people/goldman-sachs.md) - 26 shared documents
 - [Federal Reserve](../people/federal-reserve.md) - 22 shared documents
-- [President Obama](../people/president-obama.md) - 22 shared documents
 - [White House](../people/white-house.md) - 21 shared documents
 - [Middle East](../people/middle-east.md) - 19 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 19 shared documents
 - [New Mexico](../people/new-mexico.md) - 18 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 17 shared documents
-- [Barack Obama](../people/barack-obama.md) - 16 shared documents
+- [Harvard University](../people/harvard-university.md) - 16 shared documents
+- [Roy Black](../people/roy-black.md) - 16 shared documents
+- [Central Bank](../people/central-bank.md) - 15 shared documents
+- [Jeffrey E](../people/jeffrey-e.md) - 15 shared documents
 
 **Organizations:**
 
@@ -62,11 +62,11 @@ Top 10 documents by mention frequency:
 - [the United States](../locations/the-united-states.md) - 41 shared documents
 - [China](../locations/china.md) - 40 shared documents
 - [America](../locations/america.md) - 39 shared documents
-- [Russia](../locations/russia.md) - 36 shared documents
 - [Germany](../locations/germany.md) - 36 shared documents
-- [Washington](../locations/washington.md) - 33 shared documents
+- [Russia](../locations/russia.md) - 36 shared documents
 - [France](../locations/france.md) - 33 shared documents
 - [Spain](../locations/spain.md) - 33 shared documents
+- [Washington](../locations/washington.md) - 33 shared documents
 
 **Events:**
 
@@ -75,11 +75,11 @@ Top 10 documents by mention frequency:
 - [2013](../events/2013.md) - 33 shared documents
 - [2004](../events/2004.md) - 32 shared documents
 - [annual](../events/annual.md) - 32 shared documents
-- [2009](../events/2009.md) - 31 shared documents
-- [2006](../events/2006.md) - 31 shared documents
 - [2002](../events/2002.md) - 31 shared documents
-- [2012](../events/2012.md) - 30 shared documents
+- [2006](../events/2006.md) - 31 shared documents
+- [2009](../events/2009.md) - 31 shared documents
 - [2011](../events/2011.md) - 30 shared documents
+- [2012](../events/2012.md) - 30 shared documents
 
 ## Timeline
 

@@ -43,8 +43,8 @@ Top 10 documents by mention frequency:
 - [FBI](fbi.md) - 9 shared documents
 - [the Supreme Court](the-supreme-court.md) - 7 shared documents
 - [Congress](congress.md) - 7 shared documents
-- [Senate](senate.md) - 6 shared documents
 - [Court](court.md) - 6 shared documents
+- [Senate](senate.md) - 6 shared documents
 - [State](state.md) - 6 shared documents
 - [the United Nations](the-united-nations.md) - 5 shared documents
 - [U.S.C.](usc.md) - 5 shared documents
@@ -61,16 +61,16 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
-- [2004](../events/2004.md) - 9 shared documents
 - [2002](../events/2002.md) - 9 shared documents
-- [2003](../events/2003.md) - 8 shared documents
-- [2009](../events/2009.md) - 8 shared documents
+- [2004](../events/2004.md) - 9 shared documents
 - [1996](../events/1996.md) - 8 shared documents
 - [1999](../events/1999.md) - 8 shared documents
+- [2003](../events/2003.md) - 8 shared documents
 - [2005](../events/2005.md) - 8 shared documents
-- [2012](../events/2012.md) - 7 shared documents
-- [2011](../events/2011.md) - 7 shared documents
-- [1993](../events/1993.md) - 7 shared documents
+- [2009](../events/2009.md) - 8 shared documents
+- [14](../events/14.md) - 7 shared documents
+- [1980](../events/1980.md) - 7 shared documents
+- [1984](../events/1984.md) - 7 shared documents
 
 ## Timeline
 

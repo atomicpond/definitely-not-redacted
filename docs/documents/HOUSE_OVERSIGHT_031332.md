@@ -16,7 +16,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Benjamin Netanyahu](../entities/people/benjamin-netanyahu.md) - 1 mention
 
 ### Locations

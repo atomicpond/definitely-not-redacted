@@ -47,8 +47,8 @@ Sent](../people/ken-sent.md) - 5 shared documents
 - [Thanksgiving](thanksgiving.md) - 5 shared documents
 - [That week](that-week.md) - 5 shared documents
 - [Thu, Nov 10, 2016](thu-nov-10-2016.md) - 5 shared documents
-- [dec. 6-9](dec-6-9.md) - 5 shared documents
 - [11/20/2016](11202016.md) - 5 shared documents
+- [dec. 6-9](dec-6-9.md) - 5 shared documents
 
 ## Timeline
 

@@ -44,14 +44,14 @@ Top 10 documents by mention frequency:
 
 - [JPY](jpy.md) - 8 shared documents
 - [USD](usd.md) - 8 shared documents
-- [Merrill Lynch](merrill-lynch.md) - 7 shared documents
-- [Pierce, Fenner & Smith Incorporated](pierce-fenner-smith-incorporated.md) - 7 shared documents
-- [Bank of America Merrill Lynch](bank-of-america-merrill-lynch.md) - 7 shared documents
-- [BofA Merrill Lynch Global Research](bofa-merrill-lynch-global-research.md) - 7 shared documents
-- [Bloomberg](bloomberg.md) - 7 shared documents
-- [Fed](fed.md) - 7 shared documents
 - [ABN](abn.md) - 7 shared documents
+- [Bank of America Merrill Lynch](bank-of-america-merrill-lynch.md) - 7 shared documents
+- [Bloomberg](bloomberg.md) - 7 shared documents
+- [BofA Merrill Lynch Global Research](bofa-merrill-lynch-global-research.md) - 7 shared documents
 - [DFSA](dfsa.md) - 7 shared documents
+- [Fed](fed.md) - 7 shared documents
+- [FINRA](finra.md) - 7 shared documents
+- [MAS](mas.md) - 7 shared documents
 
 **Locations:**
 
@@ -59,20 +59,20 @@ Top 10 documents by mention frequency:
 - [China](../locations/china.md) - 9 shared documents
 - [Mexico](../locations/mexico.md) - 9 shared documents
 - [Singapore](../locations/singapore.md) - 9 shared documents
+- [Argentina](../locations/argentina.md) - 8 shared documents
+- [Australia](../locations/australia.md) - 8 shared documents
 - [Brazil](../locations/brazil.md) - 8 shared documents
 - [Canada](../locations/canada.md) - 8 shared documents
-- [London](../locations/london.md) - 8 shared documents
-- [Israel](../locations/israel.md) - 8 shared documents
-- [Australia](../locations/australia.md) - 8 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 8 shared documents
+- [India](../locations/india.md) - 8 shared documents
 
 **Events:**
 
 - [2000](../events/2000.md) - 8 shared documents
 - [2001](../events/2001.md) - 8 shared documents
 - [2016](../events/2016.md) - 7 shared documents
-- [today](../events/today.md) - 7 shared documents
 - [this year](../events/this-year.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
 
 ## Timeline
 

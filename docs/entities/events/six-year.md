@@ -30,12 +30,12 @@ Top 5 documents by mention frequency:
 **Events:**
 
 - [2001](2001.md) - 5 shared documents
+- [1999](1999.md) - 4 shared documents
+- [2000](2000.md) - 4 shared documents
+- [2002](2002.md) - 4 shared documents
 - [2004](2004.md) - 4 shared documents
 - [2009](2009.md) - 4 shared documents
-- [2000](2000.md) - 4 shared documents
-- [1999](1999.md) - 4 shared documents
 - [2010](2010.md) - 4 shared documents
-- [2002](2002.md) - 4 shared documents
 - [several years](several-years.md) - 4 shared documents
 
 ## Timeline

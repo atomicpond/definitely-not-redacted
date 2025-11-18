@@ -64,11 +64,11 @@ Top 6 documents by mention frequency:
 - [October](october.md) - 5 shared documents
 - [one year](one-year.md) - 5 shared documents
 - [three years](three-years.md) - 5 shared documents
-- [2006](2006.md) - 5 shared documents
-- [five years](five-years.md) - 5 shared documents
-- [1991](1991.md) - 5 shared documents
-- [55](55.md) - 5 shared documents
 - [18](18.md) - 5 shared documents
+- [1991](1991.md) - 5 shared documents
+- [2006](2006.md) - 5 shared documents
+- [55](55.md) - 5 shared documents
+- [five years](five-years.md) - 5 shared documents
 - [July 1, 2008](july-1-2008.md) - 4 shared documents
 
 ## Timeline

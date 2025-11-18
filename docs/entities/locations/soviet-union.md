@@ -30,7 +30,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 10 shared documents
 - [Middle East](../people/middle-east.md) - 10 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 9 shared documents
 - [White House](../people/white-house.md) - 7 shared documents
@@ -54,25 +53,25 @@ Top 10 documents by mention frequency:
 - [the United States](the-united-states.md) - 13 shared documents
 - [America](america.md) - 13 shared documents
 - [Washington](washington.md) - 12 shared documents
-- [Russia](russia.md) - 12 shared documents
-- [Germany](germany.md) - 12 shared documents
+- [England](england.md) - 12 shared documents
 - [France](france.md) - 12 shared documents
+- [Germany](germany.md) - 12 shared documents
 - [Iran](iran.md) - 12 shared documents
 - [Paris](paris.md) - 12 shared documents
-- [England](england.md) - 12 shared documents
+- [Russia](russia.md) - 12 shared documents
 
 **Events:**
 
 - [2007](../events/2007.md) - 13 shared documents
 - [2009](../events/2009.md) - 13 shared documents
-- [today](../events/today.md) - 13 shared documents
 - [2010](../events/2010.md) - 13 shared documents
+- [today](../events/today.md) - 13 shared documents
 - [2008](../events/2008.md) - 12 shared documents
-- [the years](../events/the-years.md) - 12 shared documents
 - [the day](../events/the-day.md) - 12 shared documents
+- [the years](../events/the-years.md) - 12 shared documents
+- [2001](../events/2001.md) - 11 shared documents
+- [2002](../events/2002.md) - 11 shared documents
 - [2003](../events/2003.md) - 11 shared documents
-- [2004](../events/2004.md) - 11 shared documents
-- [years](../events/years.md) - 11 shared documents
 
 ## Timeline
 

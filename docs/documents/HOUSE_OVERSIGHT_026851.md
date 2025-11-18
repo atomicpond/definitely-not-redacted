@@ -13,7 +13,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [CLINTON](../entities/people/clinton.md) - 1 mention
 - [Sanders](../entities/people/sanders.md) - 1 mention
 - [Rubio](../entities/people/rubio.md) - 1 mention

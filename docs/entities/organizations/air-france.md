@@ -37,22 +37,19 @@ Top 6 documents by mention frequency:
 - [Paris](../locations/paris.md) - 6 shared documents
 - [California](../locations/california.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
-- [France](../locations/france.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
 
 **Events:**
 
 - [years](../events/years.md) - 6 shared documents
-- [2012](../events/2012.md) - 5 shared documents
-- [last year](../events/last-year.md) - 5 shared documents
-- [monthly](../events/monthly.md) - 5 shared documents
-- [the year](../events/the-year.md) - 5 shared documents
 - [1993](../events/1993.md) - 5 shared documents
 - [20 years](../events/20-years.md) - 5 shared documents
-- [one day](../events/one-day.md) - 5 shared documents
-- [two months](../events/two-months.md) - 5 shared documents
-- [yesterday](../events/yesterday.md) - 5 shared documents
+- [2012](../events/2012.md) - 5 shared documents
+- [30 years](../events/30-years.md) - 5 shared documents
+- [a few years](../events/a-few-years.md) - 5 shared documents
+- [a year](../events/a-year.md) - 5 shared documents
+- [five years](../events/five-years.md) - 5 shared documents
+- [last year](../events/last-year.md) - 5 shared documents
+- [monthly](../events/monthly.md) - 5 shared documents
 
 ## Timeline
 

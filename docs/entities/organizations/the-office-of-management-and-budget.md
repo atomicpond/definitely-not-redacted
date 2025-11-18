@@ -32,9 +32,9 @@ Top 7 documents by mention frequency:
 - [the Justice Department](the-justice-department.md) - 6 shared documents
 - [HOUSE](house.md) - 5 shared documents
 - [the Department of Justice](the-department-of-justice.md) - 5 shared documents
-- [Senate](senate.md) - 4 shared documents
-- [Fed](fed.md) - 4 shared documents
 - [Congress](congress.md) - 4 shared documents
+- [Fed](fed.md) - 4 shared documents
+- [Senate](senate.md) - 4 shared documents
 - [State](state.md) - 4 shared documents
 - [the New York Times](the-new-york-times.md) - 4 shared documents
 
@@ -42,21 +42,21 @@ Top 7 documents by mention frequency:
 
 - [America](../locations/america.md) - 6 shared documents
 - [Miami](../locations/miami.md) - 6 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
 - [Israel](../locations/israel.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 4 shared documents
 
 **Events:**
 
 - [the day](../events/the-day.md) - 6 shared documents
-- [2007](../events/2007.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
-- [2011](../events/2011.md) - 4 shared documents
 - [1970](../events/1970.md) - 4 shared documents
-- [2005](../events/2005.md) - 4 shared documents
-- [2008](../events/2008.md) - 4 shared documents
-- [2006](../events/2006.md) - 4 shared documents
 - [1981](../events/1981.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
+- [2006](../events/2006.md) - 4 shared documents
+- [2007](../events/2007.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
+- [2011](../events/2011.md) - 4 shared documents
+- [years](../events/years.md) - 4 shared documents
 
 ## Timeline
 

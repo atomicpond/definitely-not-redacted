@@ -38,34 +38,34 @@ Top 9 documents by mention frequency:
 
 - [Enquirer](enquirer.md) - 5 shared documents
 - [the New York Times](the-new-york-times.md) - 4 shared documents
-- [Harvard University](harvard-university.md) - 4 shared documents
 - [FBI](fbi.md) - 4 shared documents
+- [Harvard University](harvard-university.md) - 4 shared documents
 
 **Locations:**
 
 - [Florida](../locations/florida.md) - 6 shared documents
 - [Manhattan](../locations/manhattan.md) - 6 shared documents
 - [New Mexico](../locations/new-mexico.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
 - [Africa](../locations/africa.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
-- [Paris](../locations/paris.md) - 4 shared documents
 - [England](../locations/england.md) - 4 shared documents
+- [Massachusetts](../locations/massachusetts.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
+- [Palm Beach](../locations/palm-beach.md) - 4 shared documents
+- [Paris](../locations/paris.md) - 4 shared documents
+- [Russia](../locations/russia.md) - 4 shared documents
 
 **Events:**
 
 - [2005](../events/2005.md) - 5 shared documents
 - [2006](../events/2006.md) - 5 shared documents
 - [2004](../events/2004.md) - 4 shared documents
-- [October](../events/october.md) - 4 shared documents
 - [2007](../events/2007.md) - 4 shared documents
 - [2009](../events/2009.md) - 4 shared documents
-- [2012](../events/2012.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
-- [last week](../events/last-week.md) - 4 shared documents
 - [2010](../events/2010.md) - 4 shared documents
+- [2012](../events/2012.md) - 4 shared documents
+- [last week](../events/last-week.md) - 4 shared documents
+- [October](../events/october.md) - 4 shared documents
+- [Sunday](../events/sunday.md) - 4 shared documents
 
 ## Timeline
 

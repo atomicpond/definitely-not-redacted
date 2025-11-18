@@ -40,23 +40,23 @@ Top 6 documents by mention frequency:
 
 - [Academy](../organizations/academy.md) - 6 shared documents
 - [UTA](../organizations/uta.md) - 6 shared documents
-- [Vanity Fair](../organizations/vanity-fair.md) - 5 shared documents
 - [ABC-TV](../organizations/abc-tv.md) - 5 shared documents
 - [DGA](../organizations/dga.md) - 5 shared documents
 - [PGA](../organizations/pga.md) - 5 shared documents
+- [Vanity Fair](../organizations/vanity-fair.md) - 5 shared documents
+- [Disney](../organizations/disney.md) - 4 shared documents
 - [Fox](../organizations/fox.md) - 4 shared documents
 - [HBO](../organizations/hbo.md) - 4 shared documents
-- [Disney](../organizations/disney.md) - 4 shared documents
 - [Paramount](../organizations/paramount.md) - 4 shared documents
 
 **Locations:**
 
 - [Beverly Hills](../locations/beverly-hills.md) - 6 shared documents
 - [America](../locations/america.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
-- [Paris](../locations/paris.md) - 4 shared documents
-- [Hollywood](../locations/hollywood.md) - 4 shared documents
 - [Cannes](../locations/cannes.md) - 4 shared documents
+- [Hollywood](../locations/hollywood.md) - 4 shared documents
+- [Paris](../locations/paris.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 
@@ -64,8 +64,8 @@ Top 6 documents by mention frequency:
 - [this year](../events/this-year.md) - 6 shared documents
 - [Sunday](../events/sunday.md) - 5 shared documents
 - [last year](../events/last-year.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
 - [the year](../events/the-year.md) - 4 shared documents
+- [years](../events/years.md) - 4 shared documents
 
 ## Timeline
 

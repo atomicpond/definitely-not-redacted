@@ -42,21 +42,19 @@ Top 10 documents by mention frequency:
 
 - [Google](../organizations/google.md) - 9 shared documents
 - [Twitter](../organizations/twitter.md) - 8 shared documents
-- [Congress](../organizations/congress.md) - 7 shared documents
-- [the White House](../organizations/the-white-house.md) - 7 shared documents
 
 **Locations:**
 
 - [China](../locations/china.md) - 11 shared documents
 - [San Francisco](../locations/san-francisco.md) - 11 shared documents
 - [San Jose](../locations/san-jose.md) - 10 shared documents
-- [Germany](../locations/germany.md) - 9 shared documents
-- [Mexico](../locations/mexico.md) - 9 shared documents
-- [Chicago](../locations/chicago.md) - 9 shared documents
-- [Israel](../locations/israel.md) - 9 shared documents
 - [Australia](../locations/australia.md) - 9 shared documents
+- [Chicago](../locations/chicago.md) - 9 shared documents
+- [Germany](../locations/germany.md) - 9 shared documents
+- [Israel](../locations/israel.md) - 9 shared documents
+- [Mexico](../locations/mexico.md) - 9 shared documents
+- [Boston](../locations/boston.md) - 8 shared documents
 - [California](../locations/california.md) - 8 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 8 shared documents
 
 **Events:**
 
@@ -65,11 +63,11 @@ Top 10 documents by mention frequency:
 - [2004](../events/2004.md) - 8 shared documents
 - [annual](../events/annual.md) - 8 shared documents
 - [monthly](../events/monthly.md) - 8 shared documents
-- [six months](../events/six-months.md) - 7 shared documents
-- [today](../events/today.md) - 7 shared documents
+- [1961](../events/1961.md) - 7 shared documents
+- [1971](../events/1971.md) - 7 shared documents
+- [1978](../events/1978.md) - 7 shared documents
 - [1996](../events/1996.md) - 7 shared documents
-- [2000](../events/2000.md) - 7 shared documents
-- [2012](../events/2012.md) - 7 shared documents
+- [1999](../events/1999.md) - 7 shared documents
 
 ## Timeline
 

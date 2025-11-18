@@ -26,42 +26,32 @@ Top 7 documents by mention frequency:
 
 **Organizations:**
 
-- [Harvard](harvard.md) - 6 shared documents
 - [Google](google.md) - 6 shared documents
+- [Harvard](harvard.md) - 6 shared documents
 - [MIT](mit.md) - 6 shared documents
 - [Time](time.md) - 5 shared documents
 - [Turing](turing.md) - 5 shared documents
 - [Twitter](twitter.md) - 5 shared documents
 - [University Press](university-press.md) - 5 shared documents
-- [Facebook](facebook.md) - 5 shared documents
-- [IBM](ibm.md) - 5 shared documents
-- [NASA](nasa.md) - 5 shared documents
 
 **Locations:**
 
 - [Boston](../locations/boston.md) - 7 shared documents
 - [China](../locations/china.md) - 6 shared documents
 - [Germany](../locations/germany.md) - 6 shared documents
-- [California](../locations/california.md) - 5 shared documents
-- [Earth](../locations/earth.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
-- [America](../locations/america.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
-- [Cambridge](../locations/cambridge.md) - 5 shared documents
 
 **Events:**
 
-- [2004](../events/2004.md) - 6 shared documents
-- [2012](../events/2012.md) - 6 shared documents
 - [1970](../events/1970.md) - 6 shared documents
 - [1997](../events/1997.md) - 6 shared documents
 - [1999](../events/1999.md) - 6 shared documents
+- [2004](../events/2004.md) - 6 shared documents
+- [2012](../events/2012.md) - 6 shared documents
 - [2013](../events/2013.md) - 6 shared documents
 - [recent years](../events/recent-years.md) - 6 shared documents
-- [2003](../events/2003.md) - 5 shared documents
-- [2009](../events/2009.md) - 5 shared documents
-- [2015](../events/2015.md) - 5 shared documents
+- [1937](../events/1937.md) - 5 shared documents
+- [1949](../events/1949.md) - 5 shared documents
+- [1950](../events/1950.md) - 5 shared documents
 
 ## Timeline
 

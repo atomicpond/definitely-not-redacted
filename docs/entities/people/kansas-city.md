@@ -30,7 +30,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Los Angeles](los-angeles.md) - 9 shared documents
-- [Harvard University](harvard-university.md) - 6 shared documents
 - [Western Europe](western-europe.md) - 5 shared documents
 - [Las Vegas](las-vegas.md) - 4 shared documents
 - [Times Square](times-square.md) - 4 shared documents
@@ -43,29 +42,29 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [Germany](../locations/germany.md) - 10 shared documents
 - [France](../locations/france.md) - 10 shared documents
+- [Germany](../locations/germany.md) - 10 shared documents
 - [Kansas City](../locations/kansas-city.md) - 10 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 9 shared documents
 - [China](../locations/china.md) - 9 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 9 shared documents
 - [Russia](../locations/russia.md) - 9 shared documents
-- [New York](../locations/new-york.md) - 8 shared documents
-- [United States](../locations/united-states.md) - 8 shared documents
-- [London](../locations/london.md) - 8 shared documents
 - [America](../locations/america.md) - 8 shared documents
+- [India](../locations/india.md) - 8 shared documents
+- [London](../locations/london.md) - 8 shared documents
+- [New York](../locations/new-york.md) - 8 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 8 shared documents
 - [years](../events/years.md) - 8 shared documents
-- [the year](../events/the-year.md) - 7 shared documents
 - [1997](../events/1997.md) - 7 shared documents
-- [2004](../events/2004.md) - 6 shared documents
-- [2012](../events/2012.md) - 6 shared documents
-- [daily](../events/daily.md) - 6 shared documents
+- [the year](../events/the-year.md) - 7 shared documents
 - [1999](../events/1999.md) - 6 shared documents
 - [2001](../events/2001.md) - 6 shared documents
+- [2002](../events/2002.md) - 6 shared documents
+- [2004](../events/2004.md) - 6 shared documents
 - [2008](../events/2008.md) - 6 shared documents
+- [2012](../events/2012.md) - 6 shared documents
 
 ## Timeline
 

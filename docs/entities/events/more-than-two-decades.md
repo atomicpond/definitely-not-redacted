@@ -48,11 +48,11 @@ Top 5 documents by mention frequency:
 - [three decades](three-decades.md) - 4 shared documents
 - [two years](two-years.md) - 4 shared documents
 - [year](year.md) - 4 shared documents
+- [1982](1982.md) - 4 shared documents
+- [1989](1989.md) - 4 shared documents
+- [1993](1993.md) - 4 shared documents
+- [20 years](20-years.md) - 4 shared documents
 - [2003](2003.md) - 4 shared documents
-- [annual](annual.md) - 4 shared documents
-- [daily](daily.md) - 4 shared documents
-- [Monday](monday.md) - 4 shared documents
-- [four years](four-years.md) - 4 shared documents
 
 ## Timeline
 

@@ -27,7 +27,6 @@ Top 8 documents by mention frequency:
 
 **People:**
 
-- [Mr. Bannon](bannon.md) - 6 shared documents
 - [Jeffrey E](jeffrey-e.md) - 5 shared documents
 - [United 
 States](united-states.md) - 5 shared documents
@@ -35,31 +34,31 @@ States](united-states.md) - 5 shared documents
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 6 shared documents
-- [Trump](../organizations/trump.md) - 4 shared documents
-- [Facebook](../organizations/facebook.md) - 4 shared documents
-- [Twitter](../organizations/twitter.md) - 4 shared documents
-- [CNN](../organizations/cnn.md) - 4 shared documents
 - [Breitbart News](../organizations/breitbart-news.md) - 4 shared documents
+- [CNN](../organizations/cnn.md) - 4 shared documents
+- [Facebook](../organizations/facebook.md) - 4 shared documents
+- [Trump](../organizations/trump.md) - 4 shared documents
+- [Twitter](../organizations/twitter.md) - 4 shared documents
 
 **Locations:**
 
 - [Europe](../locations/europe.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
 - [Rome](../locations/rome.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
+- [Russia](../locations/russia.md) - 5 shared documents
+- [Brussels](../locations/brussels.md) - 4 shared documents
 - [China](../locations/china.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 - [France](../locations/france.md) - 4 shared documents
+- [Germany](../locations/germany.md) - 4 shared documents
+- [Latin America](../locations/latin-america.md) - 4 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 4 shared documents
 - [this week](../events/this-week.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 - [tomorrow](../events/tomorrow.md) - 4 shared documents
+- [years](../events/years.md) - 4 shared documents
 
 ## Timeline
 

@@ -26,9 +26,8 @@ Top 7 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Middle East](../people/middle-east.md) - 6 shared documents
-- [President Obama](../people/president-obama.md) - 6 shared documents
-- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Hosni Mubarak](../people/hosni-mubarak.md) - 5 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 5 shared documents
 - [Security Council](../people/security-council.md) - 5 shared documents
@@ -36,6 +35,7 @@ Top 7 documents by mention frequency:
 - [Camp David](../people/camp-david.md) - 4 shared documents
 - [East Jerusalem](../people/east-jerusalem.md) - 4 shared documents
 - [Gaza Strip](../people/gaza-strip.md) - 4 shared documents
+- [Mahmoud Abbas](../people/mahmoud-abbas.md) - 4 shared documents
 
 **Organizations:**
 
@@ -52,29 +52,29 @@ Top 7 documents by mention frequency:
 
 **Locations:**
 
-- [Iran](../locations/iran.md) - 7 shared documents
-- [Syria](../locations/syria.md) - 7 shared documents
-- [Israel](../locations/israel.md) - 7 shared documents
-- [Turkey](../locations/turkey.md) - 7 shared documents
 - [Egypt](../locations/egypt.md) - 7 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 6 shared documents
+- [Iran](../locations/iran.md) - 7 shared documents
+- [Israel](../locations/israel.md) - 7 shared documents
+- [Syria](../locations/syria.md) - 7 shared documents
+- [Turkey](../locations/turkey.md) - 7 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 6 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 6 shared documents
 - [Tunisia](../locations/tunisia.md) - 6 shared documents
-- [Middle East](../locations/middle-east.md) - 5 shared documents
+- [Cairo](../locations/cairo.md) - 5 shared documents
 
 **Events:**
 
-- [May](../events/may.md) - 5 shared documents
-- [the years](../events/the-years.md) - 5 shared documents
 - [1947](../events/1947.md) - 5 shared documents
 - [1967](../events/1967.md) - 5 shared documents
 - [February](../events/february.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [six months](../events/six-months.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [last year](../events/last-year.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
+- [May](../events/may.md) - 5 shared documents
+- [the years](../events/the-years.md) - 5 shared documents
+- [1932](../events/1932.md) - 4 shared documents
+- [1948](../events/1948.md) - 4 shared documents
+- [1993](../events/1993.md) - 4 shared documents
+- [1998](../events/1998.md) - 4 shared documents
+- [2002](../events/2002.md) - 4 shared documents
 
 ## Timeline
 

@@ -34,13 +34,13 @@ PS](david-ps.md) - 5 shared documents
 **Organizations:**
 
 - [Creative Commons](../organizations/creative-commons.md) - 6 shared documents
-- [Singularity University](../organizations/singularity-university.md) - 6 shared documents
-- [Wikipedia](../organizations/wikipedia.md) - 6 shared documents
 - [Electronic Frontier Foundation](../organizations/electronic-frontier-foundation.md) - 6 shared documents
 - [PLoS](../organizations/plos.md) - 6 shared documents
-- [Signal](../organizations/signal.md) - 6 shared documents
 - [Public Library of Science](../organizations/public-library-of-science.md) - 6 shared documents
+- [Signal](../organizations/signal.md) - 6 shared documents
+- [Singularity University](../organizations/singularity-university.md) - 6 shared documents
 - [UCSF MD](../organizations/ucsf-md.md) - 6 shared documents
+- [Wikipedia](../organizations/wikipedia.md) - 6 shared documents
 - [@Google](../organizations/google.md) - 5 shared documents
 - [Android Nexus 6](../organizations/android-nexus-6.md) - 5 shared documents
 
@@ -48,10 +48,10 @@ PS](david-ps.md) - 5 shared documents
 
 - [a few years ago](../events/a-few-years-ago.md) - 6 shared documents
 - [day](../events/day.md) - 6 shared documents
-- [4 years 
-ago](../events/4-years-ago.md) - 5 shared documents
 - [01/19/17](../events/01-19-17.md) - 5 shared documents
 - [1/20/2017](../events/1-20-2017.md) - 5 shared documents
+- [4 years 
+ago](../events/4-years-ago.md) - 5 shared documents
 - [Fri, Jan 20, 2017](../events/fri-jan-20-2017.md) - 5 shared documents
 - [Jan 20, 2017](../events/jan-20-2017.md) - 5 shared documents
 

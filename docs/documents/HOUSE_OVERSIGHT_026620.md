@@ -15,7 +15,7 @@
 - [Philip Kafka](../entities/people/philip-kafka.md) - 1 mention
 - [Terry Kafka](../entities/people/terry-kafka.md) - 1 mention
 - [Janet Kafka](../entities/people/janet-kafka.md) - 1 mention
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [jeff epstein](../entities/people/jeff-epstein.md) - 1 mention
 - [Great Britain](../entities/people/great-britain.md) - 1 mention
 

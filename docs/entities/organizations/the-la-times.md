@@ -26,6 +26,7 @@ Top 5 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 4 shared documents
 - [Boies Schiller](../people/boies-schiller.md) - 4 shared documents
 - [David Boies](../people/david-boies.md) - 4 shared documents
 - [District Court](../people/district-court.md) - 4 shared documents
@@ -34,17 +35,16 @@ Top 5 documents by mention frequency:
 - [Los Angeles Times](../people/los-angeles-times.md) - 4 shared documents
 - [Lubna Qassim](../people/lubna-qassim.md) - 4 shared documents
 - [Middle Eastern](../people/middle-eastern.md) - 4 shared documents
-- [President Obama](../people/president-obama.md) - 4 shared documents
 
 **Organizations:**
 
 - [Western Union](western-union.md) - 5 shared documents
 - [Times](times.md) - 4 shared documents
 - [White House](white-house.md) - 4 shared documents
-- [HOUSE](house.md) - 4 shared documents
 - [District Court](district-court.md) - 4 shared documents
 - [Emirates Bank](emirates-bank.md) - 4 shared documents
 - [Emirates NBD](emirates-nbd.md) - 4 shared documents
+- [HOUSE](house.md) - 4 shared documents
 - [InfoSpan](infospan.md) - 4 shared documents
 - [Los Angeles Times](los-angeles-times.md) - 4 shared documents
 - [Scudder](scudder.md) - 4 shared documents

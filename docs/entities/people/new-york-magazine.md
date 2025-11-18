@@ -29,10 +29,10 @@ York](new-york.md) - 5 shared documents
 
 **Organizations:**
 
-- [New York Magazine](../organizations/new-york-magazine.md) - 5 shared documents
 - [Google](../organizations/google.md) - 5 shared documents
-- [HOUSE](../organizations/house.md) - 4 shared documents
+- [New York Magazine](../organizations/new-york-magazine.md) - 5 shared documents
 - [Harvard](../organizations/harvard.md) - 4 shared documents
+- [HOUSE](../organizations/house.md) - 4 shared documents
 
 **Locations:**
 

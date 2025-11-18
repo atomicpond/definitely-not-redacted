@@ -24,18 +24,18 @@ Top 5 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Cosmology Initiative 
 Foundation](../people/cosmology-initiative-foundation.md) - 5 shared documents
 - [Davis](../people/davis.md) - 5 shared documents
 - [International Affairs](../people/international-affairs.md) - 5 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 5 shared documents
-- [jeffrey E. <](../people/jeffrey-e.md) - 5 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 5 shared documents
 - [Krauss 
 Director](../people/krauss-director.md) - 5 shared documents
-- [Lawrence](../people/lawrence.md) - 5 shared documents
 - [Lawrence Krauss](../people/lawrence-krauss.md) - 5 shared documents
-- [Lawrence M. Krauss](../people/lawrence-m-krauss.md) - 5 shared documents
 - [noam](../people/noam.md) - 5 shared documents
+- [Noam Chomsky](../people/noam-chomsky.md) - 5 shared documents
 
 **Organizations:**
 

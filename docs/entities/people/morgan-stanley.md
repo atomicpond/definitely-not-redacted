@@ -29,8 +29,8 @@ Top 5 documents by mention frequency:
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
+- [Europe](../locations/europe.md) - 4 shared documents
 
 ## Timeline
 

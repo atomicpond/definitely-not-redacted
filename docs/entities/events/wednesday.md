@@ -33,7 +33,6 @@ Top 10 documents by mention frequency:
 
 - [Jeffrey E](../people/jeffrey-e.md) - 26 shared documents
 - [White House](../people/white-house.md) - 26 shared documents
-- [Barack Obama](../people/barack-obama.md) - 21 shared documents
 - [New
 York](../people/new-york.md) - 20 shared documents
 - [Middle East](../people/middle-east.md) - 19 shared documents
@@ -70,9 +69,9 @@ York](../people/new-york.md) - 20 shared documents
 - [Monday](monday.md) - 41 shared documents
 - [this week](this-week.md) - 41 shared documents
 - [Tuesday](tuesday.md) - 41 shared documents
-- [Thursday](thursday.md) - 40 shared documents
-- [last year](last-year.md) - 40 shared documents
 - [last week](last-week.md) - 40 shared documents
+- [last year](last-year.md) - 40 shared documents
+- [Thursday](thursday.md) - 40 shared documents
 - [this year](this-year.md) - 33 shared documents
 - [Saturday](saturday.md) - 31 shared documents
 

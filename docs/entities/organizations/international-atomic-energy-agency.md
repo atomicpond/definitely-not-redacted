@@ -28,25 +28,25 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
+- [Israel](../locations/israel.md) - 5 shared documents
 - [Middle East](../locations/middle-east.md) - 5 shared documents
 - [Russia](../locations/russia.md) - 5 shared documents
 - [Syria](../locations/syria.md) - 5 shared documents
-- [Israel](../locations/israel.md) - 5 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 4 shared documents
 - [China](../locations/china.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
 - [Iran](../locations/iran.md) - 4 shared documents
 - [Iraq](../locations/iraq.md) - 4 shared documents
+- [Middle Eastern](../locations/middle-eastern.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 4 shared documents
-- [2012](../events/2012.md) - 4 shared documents
-- [last year](../events/last-year.md) - 4 shared documents
-- [2011](../events/2011.md) - 4 shared documents
 - [10 years](../events/10-years.md) - 4 shared documents
 - [1979](../events/1979.md) - 4 shared documents
+- [2011](../events/2011.md) - 4 shared documents
+- [2012](../events/2012.md) - 4 shared documents
+- [last year](../events/last-year.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

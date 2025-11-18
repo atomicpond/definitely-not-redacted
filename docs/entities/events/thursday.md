@@ -33,8 +33,6 @@ Top 10 documents by mention frequency:
 
 - [White House](../people/white-house.md) - 43 shared documents
 - [Middle East](../people/middle-east.md) - 29 shared documents
-- [Barack Obama](../people/barack-obama.md) - 25 shared documents
-- [President Obama](../people/president-obama.md) - 24 shared documents
 
 **Organizations:**
 
@@ -46,6 +44,7 @@ Top 10 documents by mention frequency:
 - [FBI](../organizations/fbi.md) - 27 shared documents
 - [Harvard](../organizations/harvard.md) - 26 shared documents
 - [CNN](../organizations/cnn.md) - 25 shared documents
+- [the New York Times](../organizations/the-new-york-times.md) - 23 shared documents
 
 **Locations:**
 

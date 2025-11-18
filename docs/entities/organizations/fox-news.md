@@ -39,9 +39,8 @@ Top 10 documents by mention frequency:
 - [Jeffrey E](../people/jeffrey-e.md) - 6 shared documents
 - [Los Angeles](../people/los-angeles.md) - 6 shared documents
 - [Breitbart News](../people/breitbart-news.md) - 5 shared documents
-- [Donald 
-Trump](../people/donald-trump.md) - 5 shared documents
 - [Fox](../people/fox.md) - 5 shared documents
+- [Karl Rove](../people/karl-rove.md) - 5 shared documents
 
 **Organizations:**
 
@@ -60,8 +59,8 @@ Trump](../people/donald-trump.md) - 5 shared documents
 
 - [New York](../locations/new-york.md) - 12 shared documents
 - [the United States](../locations/the-united-states.md) - 12 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 11 shared documents
 - [America](../locations/america.md) - 11 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 11 shared documents
 - [Germany](../locations/germany.md) - 9 shared documents
 - [Iraq](../locations/iraq.md) - 9 shared documents
 - [Europe](../locations/europe.md) - 8 shared documents
@@ -76,11 +75,11 @@ Trump](../people/donald-trump.md) - 5 shared documents
 - [Sunday](../events/sunday.md) - 9 shared documents
 - [years](../events/years.md) - 9 shared documents
 - [this week](../events/this-week.md) - 8 shared documents
-- [2009](../events/2009.md) - 7 shared documents
-- [2017](../events/2017.md) - 7 shared documents
-- [2011](../events/2011.md) - 7 shared documents
 - [2008](../events/2008.md) - 7 shared documents
-- [Thursday](../events/thursday.md) - 6 shared documents
+- [2009](../events/2009.md) - 7 shared documents
+- [2011](../events/2011.md) - 7 shared documents
+- [2017](../events/2017.md) - 7 shared documents
+- [2013](../events/2013.md) - 6 shared documents
 
 ## Timeline
 

@@ -54,13 +54,13 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
-- [last week](last-week.md) - 10 shared documents
-- [Friday](friday.md) - 10 shared documents
 - [April](april.md) - 10 shared documents
+- [Friday](friday.md) - 10 shared documents
+- [last week](last-week.md) - 10 shared documents
 - [year](year.md) - 9 shared documents
 - [years](years.md) - 9 shared documents
-- [2004](2004.md) - 9 shared documents
 - [2001](2001.md) - 9 shared documents
+- [2004](2004.md) - 9 shared documents
 - [2005](2005.md) - 9 shared documents
 - [the day](the-day.md) - 8 shared documents
 - [this week](this-week.md) - 8 shared documents

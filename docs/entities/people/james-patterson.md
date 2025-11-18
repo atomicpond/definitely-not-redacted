@@ -31,27 +31,28 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Darren Indyke](darren-indyke.md) - 9 shared documents
-- [Jeffrey Epstein](jeffrey-epstein.md) - 8 shared documents
 - [john Connolly](john-connolly.md) - 7 shared documents
 - [Patterson](patterson.md) - 7 shared documents
-- [Charlie Rose](charlie-rose.md) - 7 shared documents
-- [Epstein](epstein.md) - 7 shared documents
 - [Brown](brown.md) - 7 shared documents
+- [Charlie Rose](charlie-rose.md) - 7 shared documents
 - [Connolly](connolly.md) - 7 shared documents
-- [jeff epstein](jeff-epstein.md) - 6 shared documents
 - [Jeffrey E](jeffrey-e.md) - 6 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 6 shared documents
+- [Kathy 
+Ruemmler](kathy-ruemmler.md) - 6 shared documents
+- [Michael](michael.md) - 6 shared documents
 
 **Organizations:**
 
 - [Trump](../organizations/trump.md) - 12 shared documents
 - [HOUSE](../organizations/house.md) - 10 shared documents
-- [Vanity Fair](../organizations/vanity-fair.md) - 7 shared documents
 - [Trump Clinton](../organizations/trump-clinton.md) - 7 shared documents
-- [Lexington Avenue](../organizations/lexington-avenue.md) - 6 shared documents
+- [Vanity Fair](../organizations/vanity-fair.md) - 7 shared documents
 - [4th Floor](../organizations/4th-floor.md) - 6 shared documents
-- [PLLC](../organizations/pllc.md) - 6 shared documents
-- [New York Post Publishing Inc.](../organizations/new-york-post-publishing-inc.md) - 6 shared documents
 - [Confidential - Fwd](../organizations/confidential-fwd.md) - 6 shared documents
+- [Lexington Avenue](../organizations/lexington-avenue.md) - 6 shared documents
+- [New York Post Publishing Inc.](../organizations/new-york-post-publishing-inc.md) - 6 shared documents
+- [PLLC](../organizations/pllc.md) - 6 shared documents
 - [WHAM INC](../organizations/wham-inc.md) - 6 shared documents
 
 **Locations:**
@@ -60,9 +61,9 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
-- [August](../events/august.md) - 7 shared documents
 - [a couple of weeks](../events/a-couple-of-weeks.md) - 7 shared documents
 - [a year from now](../events/a-year-from-now.md) - 7 shared documents
+- [August](../events/august.md) - 7 shared documents
 - [2016](../events/2016.md) - 6 shared documents
 - [August 11, 2016](../events/august-11-2016.md) - 6 shared documents
 - [Monday, August 15, 2016](../events/monday-august-15-2016.md) - 6 shared documents

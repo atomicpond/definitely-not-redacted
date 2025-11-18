@@ -24,9 +24,9 @@ Top 5 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Deutsche Asset](../people/deutsche-asset.md) - 5 shared documents
 - [Deutsche Bank](../people/deutsche-bank.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
 - [Wealth Management](../people/wealth-management.md) - 5 shared documents
 
 **Organizations:**
@@ -37,9 +37,9 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [2014](../events/2014.md) - 4 shared documents
 - [2012](../events/2012.md) - 4 shared documents
 - [2013](../events/2013.md) - 4 shared documents
+- [2014](../events/2014.md) - 4 shared documents
 
 ## Timeline
 

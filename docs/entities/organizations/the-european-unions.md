@@ -29,28 +29,28 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [New York, NY](../locations/new-york-ny.md) - 5 shared documents
 - [Asia](../locations/asia.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
+- [New York, NY](../locations/new-york-ny.md) - 5 shared documents
 - [China](../locations/china.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
-- [Germany](../locations/germany.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 - [France](../locations/france.md) - 4 shared documents
+- [Germany](../locations/germany.md) - 4 shared documents
 - [Iran](../locations/iran.md) - 4 shared documents
+- [Italy](../locations/italy.md) - 4 shared documents
+- [Russia](../locations/russia.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
 
 **Events:**
 
 - [2000](../events/2000.md) - 5 shared documents
 - [2012](../events/2012.md) - 5 shared documents
 - [2013](../events/2013.md) - 5 shared documents
+- [1997](../events/1997.md) - 4 shared documents
+- [2001](../events/2001.md) - 4 shared documents
 - [2004](../events/2004.md) - 4 shared documents
-- [2018](../events/2018.md) - 4 shared documents
 - [2015](../events/2015.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
 - [2017](../events/2017.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
+- [2018](../events/2018.md) - 4 shared documents
 - [2020](../events/2020.md) - 4 shared documents
 
 ## Timeline

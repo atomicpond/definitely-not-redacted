@@ -49,8 +49,8 @@ Top 10 documents by mention frequency:
 - [the Prudential Regulation Authority](the-prudential-regulation-authority.md) - 19 shared documents
 - [Central Bank](central-bank.md) - 19 shared documents
 - [DIFC](difc.md) - 19 shared documents
-- [Bank of America](bank-of-america.md) - 18 shared documents
 - [Bank](bank.md) - 18 shared documents
+- [Bank of America](bank-of-america.md) - 18 shared documents
 - [Comissão de Valores Mobiliários](comissão-de-valores-mobiliários.md) - 18 shared documents
 - [the Central Bank of Ireland](the-central-bank-of-ireland.md) - 17 shared documents
 - [the Federal Deposit Insurance Corporation](the-federal-deposit-insurance-corporation.md) - 17 shared documents
@@ -58,21 +58,23 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [Asia](../locations/asia.md) - 21 shared documents
-- [Dubai](../locations/dubai.md) - 20 shared documents
-- [Japan](../locations/japan.md) - 20 shared documents
+- [Australia](../locations/australia.md) - 20 shared documents
 - [Brazil](../locations/brazil.md) - 20 shared documents
 - [Canada](../locations/canada.md) - 20 shared documents
-- [Mexico](../locations/mexico.md) - 20 shared documents
-- [Israel](../locations/israel.md) - 20 shared documents
-- [Australia](../locations/australia.md) - 20 shared documents
+- [Dubai](../locations/dubai.md) - 20 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 20 shared documents
+- [Israel](../locations/israel.md) - 20 shared documents
+- [Japan](../locations/japan.md) - 20 shared documents
+- [Mexico](../locations/mexico.md) - 20 shared documents
 - [Singapore](../locations/singapore.md) - 20 shared documents
 
 **Events:**
 
-- [this year](../events/this-year.md) - 18 shared documents
 - [2001](../events/2001.md) - 18 shared documents
 - [the day](../events/the-day.md) - 18 shared documents
+- [this year](../events/this-year.md) - 18 shared documents
+- [1959](../events/1959.md) - 17 shared documents
+- [198602883D](../events/198602883d.md) - 17 shared documents
 
 ## Timeline
 

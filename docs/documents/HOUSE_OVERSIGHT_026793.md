@@ -17,7 +17,7 @@
 - [Epstein](../entities/people/epstein.md) - 10 mentions
 - [DARREN K. INDYKE](../entities/people/darren-k-indyke.md) - 2 mentions
 - [Mr. Steven 
-Hoffenberg](../entities/people/mr-steven-hoffenberg.md) - 2 mentions
+Hoffenberg](../entities/people/steven-hoffenberg.md) - 2 mentions
 - [President Trump](../entities/people/president-trump.md) - 1 mention
 - [Goldman Sachs](../entities/people/goldman-sachs.md) - 1 mention
 - [Michael Milken](../entities/people/michael-milken.md) - 1 mention

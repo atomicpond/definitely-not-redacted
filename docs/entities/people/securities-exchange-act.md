@@ -40,26 +40,21 @@ Top 10 documents by mention frequency:
 - [the Securities Exchange Act](../organizations/the-securities-exchange-act.md) - 10 shared documents
 - [SEC](../organizations/sec.md) - 9 shared documents
 - [State](../organizations/state.md) - 8 shared documents
-- [LLC](../organizations/llc.md) - 7 shared documents
 - [IRS](../organizations/irs.md) - 7 shared documents
+- [LLC](../organizations/llc.md) - 7 shared documents
 - [the Securities and Exchange Commission](../organizations/the-securities-and-exchange-commission.md) - 7 shared documents
+- [FINRA](../organizations/finra.md) - 6 shared documents
 - [Reuters](../organizations/reuters.md) - 6 shared documents
 - [Treasury](../organizations/treasury.md) - 6 shared documents
-- [FINRA](../organizations/finra.md) - 6 shared documents
-- [Bloomberg](../organizations/bloomberg.md) - 5 shared documents
 
 **Locations:**
 
 - [China](../locations/china.md) - 7 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
 - [Brazil](../locations/brazil.md) - 6 shared documents
-- [the United States](../locations/the-united-states.md) - 6 shared documents
+- [Russia](../locations/russia.md) - 6 shared documents
 - [the United Kingdom](../locations/the-united-kingdom.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [Canada](../locations/canada.md) - 5 shared documents
-- [Colombia](../locations/colombia.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
+- [the United States](../locations/the-united-states.md) - 6 shared documents
+- [United States](../locations/united-states.md) - 6 shared documents
 
 **Events:**
 
@@ -67,12 +62,12 @@ Top 10 documents by mention frequency:
 - [annual](../events/annual.md) - 10 shared documents
 - [2012](../events/2012.md) - 8 shared documents
 - [quarterly](../events/quarterly.md) - 8 shared documents
+- [2000](../events/2000.md) - 7 shared documents
 - [2004](../events/2004.md) - 7 shared documents
 - [2015](../events/2015.md) - 7 shared documents
-- [2000](../events/2000.md) - 7 shared documents
-- [each year](../events/each-year.md) - 7 shared documents
 - [annually](../events/annually.md) - 7 shared documents
-- [2017](../events/2017.md) - 6 shared documents
+- [each year](../events/each-year.md) - 7 shared documents
+- [1992](../events/1992.md) - 6 shared documents
 
 ## Timeline
 

@@ -31,7 +31,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 6 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [White House](../people/white-house.md) - 6 shared documents
 - [Central Bank](../people/central-bank.md) - 4 shared documents
 - [Wealth Management](../people/wealth-management.md) - 4 shared documents
@@ -51,29 +51,29 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 8 shared documents
 - [China](../locations/china.md) - 8 shared documents
-- [New York](../locations/new-york.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
+- [United States](../locations/united-states.md) - 8 shared documents
 - [America](../locations/america.md) - 6 shared documents
+- [Japan](../locations/japan.md) - 6 shared documents
+- [New York](../locations/new-york.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 6 shared documents
 - [Brazil](../locations/brazil.md) - 5 shared documents
 - [Canada](../locations/canada.md) - 5 shared documents
+- [Florida](../locations/florida.md) - 5 shared documents
 
 **Events:**
 
-- [this year](../events/this-year.md) - 7 shared documents
 - [2013](../events/2013.md) - 7 shared documents
 - [quarterly](../events/quarterly.md) - 7 shared documents
-- [2018](../events/2018.md) - 6 shared documents
-- [2015](../events/2015.md) - 6 shared documents
-- [annual](../events/annual.md) - 6 shared documents
+- [this year](../events/this-year.md) - 7 shared documents
 - [2000](../events/2000.md) - 6 shared documents
-- [2017](../events/2017.md) - 6 shared documents
-- [the year](../events/the-year.md) - 6 shared documents
 - [2001](../events/2001.md) - 6 shared documents
+- [2015](../events/2015.md) - 6 shared documents
+- [2017](../events/2017.md) - 6 shared documents
+- [2018](../events/2018.md) - 6 shared documents
+- [annual](../events/annual.md) - 6 shared documents
+- [November](../events/november.md) - 6 shared documents
 
 ## Timeline
 

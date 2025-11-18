@@ -34,13 +34,12 @@ Top 10 documents by mention frequency:
 - [Middle East](../people/middle-east.md) - 22 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 21 shared documents
 - [White House](../people/white-house.md) - 15 shared documents
-- [President Obama](../people/president-obama.md) - 14 shared documents
-- [Barack Obama](../people/barack-obama.md) - 13 shared documents
-- [jeffrey E. <](../people/jeffrey-e.md) - 13 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 13 shared documents
 - [On Wed](../people/on-wed.md) - 13 shared documents
 - [Security Council](../people/security-council.md) - 13 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 12 shared documents
 - [Jeff](../people/jeff.md) - 11 shared documents
+- [On Sep](../people/on-sep.md) - 11 shared documents
 
 **Organizations:**
 
@@ -62,8 +61,8 @@ Top 10 documents by mention frequency:
 - [Iran](iran.md) - 20 shared documents
 - [Israel](israel.md) - 20 shared documents
 - [the Middle East](the-middle-east.md) - 19 shared documents
-- [Iraq](iraq.md) - 19 shared documents
 - [Egypt](egypt.md) - 19 shared documents
+- [Iraq](iraq.md) - 19 shared documents
 - [Syria](syria.md) - 18 shared documents
 
 **Events:**
@@ -72,11 +71,11 @@ Top 10 documents by mention frequency:
 - [the day](../events/the-day.md) - 22 shared documents
 - [Saturday](../events/saturday.md) - 16 shared documents
 - [2003](../events/2003.md) - 15 shared documents
-- [Wednesday](../events/wednesday.md) - 14 shared documents
 - [2017](../events/2017.md) - 14 shared documents
-- [years](../events/years.md) - 14 shared documents
-- [tomorrow](../events/tomorrow.md) - 14 shared documents
 - [decades](../events/decades.md) - 14 shared documents
+- [tomorrow](../events/tomorrow.md) - 14 shared documents
+- [Wednesday](../events/wednesday.md) - 14 shared documents
+- [years](../events/years.md) - 14 shared documents
 - [2004](../events/2004.md) - 13 shared documents
 
 ## Timeline

@@ -23,35 +23,30 @@ Top 5 documents by mention frequency:
 
 ### Most Frequently Co-occurring Entities
 
-**Organizations:**
-
-- [Harvard](harvard.md) - 4 shared documents
-
 **Locations:**
 
+- [America](../locations/america.md) - 4 shared documents
+- [Boston](../locations/boston.md) - 4 shared documents
 - [California](../locations/california.md) - 4 shared documents
+- [Chicago](../locations/chicago.md) - 4 shared documents
 - [Earth](../locations/earth.md) - 4 shared documents
+- [England](../locations/england.md) - 4 shared documents
+- [India](../locations/india.md) - 4 shared documents
 - [Japan](../locations/japan.md) - 4 shared documents
 - [London](../locations/london.md) - 4 shared documents
-- [America](../locations/america.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
-- [Chicago](../locations/chicago.md) - 4 shared documents
-- [San Francisco](../locations/san-francisco.md) - 4 shared documents
-- [England](../locations/england.md) - 4 shared documents
-- [Boston](../locations/boston.md) - 4 shared documents
 
 **Events:**
 
+- [1983](../events/1983.md) - 5 shared documents
+- [1995](../events/1995.md) - 5 shared documents
 - [1997](../events/1997.md) - 5 shared documents
 - [1998](../events/1998.md) - 5 shared documents
 - [2001](../events/2001.md) - 5 shared documents
 - [2002](../events/2002.md) - 5 shared documents
 - [winter](../events/winter.md) - 5 shared documents
-- [1983](../events/1983.md) - 5 shared documents
-- [1995](../events/1995.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [2007](../events/2007.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
+- [1968](../events/1968.md) - 4 shared documents
+- [1975](../events/1975.md) - 4 shared documents
+- [1976](../events/1976.md) - 4 shared documents
 
 ## Timeline
 

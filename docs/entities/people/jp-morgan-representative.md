@@ -31,26 +31,27 @@ Top 7 documents by mention frequency:
 
 **Organizations:**
 
-- [NYSE](../organizations/nyse.md) - 7 shared documents
+- [Balanced Model Portfolios](../organizations/balanced-model-portfolios.md) - 7 shared documents
 - [Bank](../organizations/bank.md) - 7 shared documents
-- [the Federal Deposit Insurance Corporation](../organizations/the-federal-deposit-insurance-corporation.md) - 7 shared documents
-- [FINRA](../organizations/finra.md) - 7 shared documents
 - [FDIC](../organizations/fdic.md) - 7 shared documents
+- [FINRA](../organizations/finra.md) - 7 shared documents
 - [JP Morgan](../organizations/jp-morgan.md) - 7 shared documents
-- [SIPC](../organizations/sipc.md) - 7 shared documents
-- [Morgan Securities LLC](../organizations/morgan-securities-llc.md) - 7 shared documents
+- [JP
+Morgan Chase Bank](../organizations/jp-morgan-chase-bank.md) - 7 shared documents
 - [J.P.
 Morgan Securities LLC](../organizations/jp-morgan-securities-llc.md) - 7 shared documents
 - [JPMS](../organizations/jpms.md) - 7 shared documents
+- [Morgan Securities LLC](../organizations/morgan-securities-llc.md) - 7 shared documents
+- [NYSE](../organizations/nyse.md) - 7 shared documents
 
 **Locations:**
 
 - [Europe](../locations/europe.md) - 7 shared documents
-- [US](../locations/us.md) - 7 shared documents
 - [N.A.](../locations/na.md) - 7 shared documents
+- [US](../locations/us.md) - 7 shared documents
 - [Asia](../locations/asia.md) - 6 shared documents
-- [Italy](../locations/italy.md) - 4 shared documents
 - [Greece](../locations/greece.md) - 4 shared documents
+- [Italy](../locations/italy.md) - 4 shared documents
 
 **Events:**
 

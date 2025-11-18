@@ -31,8 +31,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jeffrey E](../people/jeffrey-e.md) - 124 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 97 shared documents
-- [Mr. Obama](../people/obama.md) - 75 shared documents
 - [Middle East](../people/middle-east.md) - 69 shared documents
 - [White House](../people/white-house.md) - 63 shared documents
 
@@ -61,14 +59,14 @@ Top 10 documents by mention frequency:
 
 - [tomorrow](tomorrow.md) - 111 shared documents
 - [years](years.md) - 98 shared documents
-- [2016](2016.md) - 93 shared documents
 - [2008](2008.md) - 93 shared documents
+- [2016](2016.md) - 93 shared documents
 - [Sunday](sunday.md) - 89 shared documents
 - [2009](2009.md) - 88 shared documents
 - [2010](2010.md) - 86 shared documents
 - [Friday](friday.md) - 83 shared documents
-- [daily](daily.md) - 81 shared documents
 - [2011](2011.md) - 81 shared documents
+- [daily](daily.md) - 81 shared documents
 
 ## Timeline
 

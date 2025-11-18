@@ -30,15 +30,16 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jay Lefkowitz](jay-lefkowitz.md) - 14 shared documents
-- [Jeffrey Epstein](jeffrey-epstein.md) - 12 shared documents
-- [Epstein](epstein.md) - 11 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 11 shared documents
 - [Rights Act](rights-act.md) - 8 shared documents
 - [Crime Victims](crime-victims.md) - 7 shared documents
+- [Donald 
+Trump](donald-trump.md) - 7 shared documents
 - [Ken Starr](ken-starr.md) - 7 shared documents
 - [Kenneth W. Starr](kenneth-w-starr.md) - 7 shared documents
 - [Los Angeles](los-angeles.md) - 7 shared documents
-- [President Trump](president-trump.md) - 7 shared documents
 - [Joe D. Whitley](joe-d-whitley.md) - 6 shared documents
+- [Mark Filip](mark-filip.md) - 6 shared documents
 
 **Organizations:**
 
@@ -46,12 +47,12 @@ Top 10 documents by mention frequency:
 - [HOUSE](../organizations/house.md) - 14 shared documents
 - [Office](../organizations/office.md) - 12 shared documents
 - [the Department of Justice](../organizations/the-department-of-justice.md) - 11 shared documents
+- [Labor](../organizations/labor.md) - 10 shared documents
 - [the Justice Department](../organizations/the-justice-department.md) - 10 shared documents
 - [the New York Times](../organizations/the-new-york-times.md) - 10 shared documents
-- [Labor](../organizations/labor.md) - 10 shared documents
 - [FBI](../organizations/fbi.md) - 9 shared documents
-- [State](../organizations/state.md) - 8 shared documents
 - [Justice Department](../organizations/justice-department.md) - 8 shared documents
+- [State](../organizations/state.md) - 8 shared documents
 
 **Locations:**
 
@@ -59,8 +60,8 @@ Top 10 documents by mention frequency:
 - [Palm Beach](../locations/palm-beach.md) - 16 shared documents
 - [Florida](../locations/florida.md) - 12 shared documents
 - [California](../locations/california.md) - 11 shared documents
-- [South Florida](../locations/south-florida.md) - 11 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 11 shared documents
+- [South Florida](../locations/south-florida.md) - 11 shared documents
 - [the United States](../locations/the-united-states.md) - 10 shared documents
 - [US](../locations/us.md) - 9 shared documents
 - [United States](../locations/united-states.md) - 8 shared documents
@@ -72,6 +73,7 @@ Top 10 documents by mention frequency:
 - [2007](../events/2007.md) - 7 shared documents
 - [2011](../events/2011.md) - 6 shared documents
 - [2019](../events/2019.md) - 6 shared documents
+- [May 19, 2008](../events/may-19-2008.md) - 6 shared documents
 - [the day](../events/the-day.md) - 6 shared documents
 
 ## Timeline

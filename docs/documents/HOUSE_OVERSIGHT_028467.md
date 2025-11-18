@@ -18,9 +18,9 @@
 Trump](../entities/people/mr-trump.md) - 7 mentions
 - [Brexit](../entities/people/brexit.md) - 5 mentions
 - [President Trump](../entities/people/president-trump.md) - 3 mentions
-- [Mr. Kavanaugh](../entities/people/mr-kavanaugh.md) - 3 mentions
+- [Mr. Kavanaugh](../entities/people/kavanaugh.md) - 3 mentions
 - [Associated Press](../entities/people/associated-press.md) - 3 mentions
-- [Dr. Blasey](../entities/people/dr-blasey.md) - 2 mentions
+- [Dr. Blasey](../entities/people/blasey.md) - 2 mentions
 - [North 
 Korea](../entities/people/north-korea.md) - 2 mentions
 - [White House](../entities/people/white-house.md) - 1 mention

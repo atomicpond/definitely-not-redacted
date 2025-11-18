@@ -25,11 +25,10 @@ Top 5 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 4 shared documents
 - [Cold War](../people/cold-war.md) - 4 shared documents
 - [Middle East](../people/middle-east.md) - 4 shared documents
 - [President Bush](../people/president-bush.md) - 4 shared documents
-- [President Obama](../people/president-obama.md) - 4 shared documents
 - [Pulitzer Prize](../people/pulitzer-prize.md) - 4 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 4 shared documents
 - [White House](../people/white-house.md) - 4 shared documents
@@ -40,34 +39,32 @@ Top 5 documents by mention frequency:
 - [the United Nations](the-united-nations.md) - 4 shared documents
 - [United Nations](united-nations.md) - 4 shared documents
 - [White House](white-house.md) - 4 shared documents
-- [Defense](defense.md) - 4 shared documents
-- [State](state.md) - 4 shared documents
 
 **Locations:**
 
-- [Russia](../locations/russia.md) - 5 shared documents
 - [France](../locations/france.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
+- [Russia](../locations/russia.md) - 5 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 5 shared documents
 - [Syria](../locations/syria.md) - 5 shared documents
-- [Middle East](../locations/middle-east.md) - 4 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
-- [China](../locations/china.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
+- [Atlantic](../locations/atlantic.md) - 4 shared documents
+- [Britain](../locations/britain.md) - 4 shared documents
 - [Canada](../locations/canada.md) - 4 shared documents
+- [China](../locations/china.md) - 4 shared documents
+- [Damascus](../locations/damascus.md) - 4 shared documents
 
 **Events:**
 
 - [daily](../events/daily.md) - 5 shared documents
+- [1963](../events/1963.md) - 4 shared documents
+- [1973](../events/1973.md) - 4 shared documents
+- [1977](../events/1977.md) - 4 shared documents
+- [1978](../events/1978.md) - 4 shared documents
+- [1982](../events/1982.md) - 4 shared documents
+- [1992](../events/1992.md) - 4 shared documents
+- [1994](../events/1994.md) - 4 shared documents
+- [2002](../events/2002.md) - 4 shared documents
 - [2003](../events/2003.md) - 4 shared documents
-- [a day](../events/a-day.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [Monday](../events/monday.md) - 4 shared documents
-- [Sunday](../events/sunday.md) - 4 shared documents
-- [May](../events/may.md) - 4 shared documents
-- [Friday](../events/friday.md) - 4 shared documents
-- [months](../events/months.md) - 4 shared documents
-- [November](../events/november.md) - 4 shared documents
 
 ## Timeline
 

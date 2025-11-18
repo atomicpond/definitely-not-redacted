@@ -57,168 +57,398 @@ Sender](../entities/people/yes-sender.md) - 3 mentions
 
 ## Document Text
 
+**Thread-like Conversation View:**
+
 ```
-Source Entry: H\Macintosh HD\root\Users\jee\Library\Messages\Archive\2018-07-10\111 
-on 2018-07-01 at 07.15.04.ichat 
-Service: iMessage 
-**Start Time**: **07/01/18** 04:15:04 AM (552136504) 
-**End Time**: **07/10/18** 06:45:38 PM (552966338) 
-**Last Message** ID: 17204 
-**Chat Room**: 
-Participants: jee, 
-Presentity IDs: e:jeeitunes@gmail.com, 
-Messages - 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/01/18** 04:15:04 AM (552136504) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: BB7CEOED-2E23-4538-8397-FE54E0BA85FF 
-Message: You being part of my group is a hack that allows a new person to be covered. 
-. you planted a seed in **Miro** . good 
-Sender: 
-Time: **07/01/18** 04:15:59 AM (552136559) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 4181302C-E57C-41B2-A25B-AF561E6E3192 
-Message: **Miro** is exactly the type of guy that will take this entire movement to next 
-level 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/01/18** 04:16:50 AM (552136610) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 4C415551-C2D1-461F-8191-A087EBBAEA41 
-Message: Yes, I am working on a security blanket for he and family , his true 
-concern 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/01/18** 04:19:04 AM (552136744) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**HOUSE** OVERSIGHT 027307 
-**GUID**: 3C1CFD2B-A2B0-457C-9D10-67FBFF0274E7 
-Message: Is there any way you can mediate the difference with **Jared**. He is s0000. 
-outclassed by you , its like child abuse .. 
-Sender: 
-Time: **07/01/18** 04:19:34 AM (552136774) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: BFC2DB92-70FB-4B5A-A6AF-5E6A07B8C92A 
-Message: **Jared**?.. why would I want to do that? 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/01/18** 04:23:35 AM (552137015) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 15835AC6-C741-4B23-8482-575F844A9AD7 
-Message: what is the downside. ? 
-favorite, even better than on or off dick , was. You're supposed to me a smart guy 
-but you sound like a fucking moron. !! oy 
-instead of why? , - why not? 
-BTW. My new 
-Sender: 
-Time: **07/01/18** 04:25:52 AM (552137152) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: D48E8A99-8331-4081-A41F-2B520485BA50 
-Message: To do that shows that djt is center of gravity of this movement and not me--
-will never do-- they are transitory figures -- the dc game is to succumb to that --
-it's why I never did before joining campaign -- I could have been the trump whisperer 
-**years** ago-- avoided on purpose 
-Sender: 
-Time: **07/01/18** 04:26:34 AM (552137194) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 8D8B7720-265D-455B-BC19-71B9962456CA 
-Message: **Jared** is the idiot son in law-- always dismissed as that 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/01/18** 04:28:51 AM (552137331) 
-Flags: 1085445 
-**Is Read**: No 
-**HOUSE** OVERSIGHT 027308 
-**Is Invitation**: No 
-**GUID**: DB6980B1-9905-4C6F-A0B3-53D709809241 
-Message: Agree on all. I have no views on the third act.. I only would like to 
-see him less afraid of you. 
-Sender: 
-Time: **07/01/18** 04:35:48 AM (552137748) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: B84BED4B-BA6C-44D2-AD42-6A2F2EEE227C 
-Message: I want him MORE afraid of me 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/01/18** 04:36:04 AM (552137764) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: AB887D4B-FlAA-42CF-810A-1BC1E5B1D25C 
-Message: Aye aye 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/01/18** 04:36:47 AM (552137807) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 1DDFEBB7-2370-4F64-BB15-CA0849F2A2E8 
-Message: Bronx tale 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/01/18** 06:55:05 AM (552146105) 
-Flags: 1150981 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 6772BCA1-0E23-4598-88CE-21B9C0390B16 
-Message: **Miro** in **Beijing** **today** , 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/01/18** 06:57:15 AM (552146235) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 174E861A-7C76-43D4-962A-905C4D582818 
-**HOUSE** OVERSIGHT 027309 
-Message: He suggested you might like his ex prime minster fico. 
-Sender: 
-Time: **07/01/18** 07:00:24 AM (552146424) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: C2C00011-4879-4C0C-9BE2-3EF328D4AE70 
-Message: He should tell them we r @ war 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/01/18** 07:31:07 AM (552148267) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 99535A4F-638D-4848-AD2A-5FBF3C5F3F06 
-Message: I believe xis answer will be , did you guys just realize that ? 
-Sender: 
-Time: **07/01/18** 08:04:24 AM (552150264) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 2706B086-45C6-4EA7-8588-B65337E2E9C0 
-Message: genius 
-Sender: e:jeeitunes@gmail.com 
-Time: **07/01/18** 09:24:46 AM (552155086) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 560B4E27-6162-4608-B531-3768DB9CF690 
-Message: I told **Miro** paraphrasing your front national . If **steve** calls you a fucking 
-moron. Wear it like a badge of honor. He roared with laughter 
-Sender: 
-Time: **07/01/18** 09:45:33 AM (552156333) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 52D5F662-0B68-46A8-ADD3-26BCDB91FBA2 
-Message: well said 
-**HOUSE** OVERSIGHT 027310 
-Sender: e:je
+
+======================================================================
+Sunday, July 01, 2018
+======================================================================
+
+E:jeeitunes [4:15 AM]:
+  
+
+Unknown [4:15 AM]:
+  You being part of my group is a hack that allows a new person to be covered.
+
+E:jeeitunes [4:16 AM]:
+  Miro is exactly the type of guy that will take this entire movement to next
+
+E:jeeitunes [4:19 AM]:
+  Yes, I am working on a security blanket for he and family , his true
+
+Unknown [4:19 AM]:
+  Is there any way you can mediate the difference with Jared. He is s0000.
+
+E:jeeitunes [4:23 AM]:
+  Jared?.. why would I want to do that?
+
+Unknown [4:25 AM]:
+  what is the downside. ?
+
+Unknown [4:26 AM]:
+  To do that shows that djt is center of gravity of this movement and not me--
+
+E:jeeitunes [4:28 AM]:
+  Jared is the idiot son in law-- always dismissed as that
+
+Unknown [4:35 AM]:
+  Agree on all. I have no views on the third act.. I only would like to
+
+E:jeeitunes [4:36 AM]:
+  I want him MORE afraid of me
+
+E:jeeitunes [4:36 AM]:
+  Aye aye
+
+E:jeeitunes [6:55 AM]:
+  Bronx tale
+
+E:jeeitunes [6:57 AM]:
+  Miro in Beijing today ,
+
+Unknown [7:00 AM]:
+  He suggested you might like his ex prime minster fico.
+
+E:jeeitunes [7:31 AM]:
+  He should tell them we r @ war
+
+Unknown [8:04 AM]:
+  I believe xis answer will be , did you guys just realize that ?
+
+E:jeeitunes [9:24 AM]:
+  genius
+
+Unknown [9:45 AM]:
+  I told miro paraphrasing your front national . If Steve calls you a fucking
+
+
+======================================================================
+Monday, July 02, 2018
+======================================================================
+
+E:jeeitunes [4:07 AM]:
+  well said
+
+E:jeeitunes [8:24 AM]:
+  In an interview on Sunday, the chancellor defended her decision to seek a
+
+Unknown [8:50 AM]:
+  hacker colleague
+
+E:jeeitunes [8:51 AM]:
+  smell-the-fear
+
+E:jeeitunes [9:00 AM]:
+  Im not good with smells
+
+Unknown [9:01 AM]:
+  Im probably going to go for the day to the conference. Aug 9 . Or so. . I
+
+E:jeeitunes [9:02 AM]:
+  ms miller currently on 'hiatus'
+
+Unknown [9:05 AM]:
+  Ok , Im sure you have a deep bench
+
+E:jeeitunes [9:21 AM]:
+  Exact opposite that's why she is back on the bench women are a total
+
+
+======================================================================
+Tuesday, July 03, 2018
+======================================================================
+
+E:jeeitunes [3:13 AM]:
+  Ok. , time for you to see Kruger
+
+E:jeeitunes [4:13 AM]:
+  https://www.nytimes.com/2018/07/02/world/europe/angela-merkel-migration-
+
+Unknown [4:17 AM]:
+  You going to europe?
+
+E:jeeitunes [4:18 AM]:
+  Yes
+
+E:jeeitunes [7:48 AM]:
+  Great
+
+E:jeeitunes [7:48 AM]:
+  https://www.bloomberg.com/news/articles/2018-07-03/glencore-gets-subpoena-
+
+
+======================================================================
+Wednesday, July 04, 2018
+======================================================================
+
+E:jeeitunes [3:12 AM]:
+  Mark rich co
+
+Unknown [4:09 AM]:
+  Where r u ?
+
+E:jeeitunes [4:13 AM]:
+  Richmond with my dad
+
+Unknown [4:14 AM]:
+  Kurz wants to meet you
+
+E:jeeitunes [4:20 AM]:
+  I want to meet him
+
+Unknown [4:23 AM]:
+  He said he has been busy with the EU . ready to meet
+
+E:jeeitunes [6:10 AM]:
+  Great
+
+E:jeeitunes [6:13 AM]:
+  Epstein Bannon Kurz. A little too close to Bronshtein , goebbels . .
+
+Unknown [6:45 AM]:
+  
+
+E:jeeitunes [7:37 AM]:
+  Way way way to close
+
+Unknown [7:41 AM]:
+  Ken starr in ny 11, 12
+
+E:jeeitunes [7:57 AM]:
+  In Brussels / london
+
+E:jeeitunes [11:25 PM]:
+  K
+
+E:jeeitunes [11:26 PM]:
+  If you want yo do Kurz he asked for prospective dates
+
+
+======================================================================
+Thursday, July 05, 2018
+======================================================================
+
+Unknown [2:35 AM]:
+  I wont be there but youll have fun
+
+E:jeeitunes [7:20 AM]:
+  K
+
+Unknown [7:44 AM]:
+  Chat later today?
+
+E:jeeitunes [2:54 PM]:
+  Yes
+
+E:jeeitunes [2:55 PM]:
+  Free to speak?
+
+E:jeeitunes [5:26 PM]:
+  561 655 7626
+
+Unknown [5:27 PM]:
+  Starr talking to cruz and cotton for kavanagh
+
+E:jeeitunes [5:32 PM]:
+  That's HUGE
+
+Unknown [5:33 PM]:
+  Ive been called many things- human is not one of them;)
+
+
+======================================================================
+Friday, July 06, 2018
+======================================================================
+
+E:jeeitunes [4:48 AM]:
+  I was getting too soft; women are bad for the knees
+
+Unknown [4:54 AM]:
+  Nato private lunch if you like . If you go . Otherwise im in ny wed thurs and
+
+E:jeeitunes [4:54 AM]:
+  Let's talk later am if u r free
+
+E:jeeitunes [8:06 AM]:
+  Easy
+
+Unknown [11:45 AM]:
+  after china. Dollar strong. Big stocks up. . with oil at 74 . Strong strong
+
+E:jeeitunes [11:45 AM]:
+  We started strong
+
+E:jeeitunes [12:24 PM]:
+  I can talk now if free
+
+E:jeeitunes [12:50 PM]:
+  Dutch tv link
+
+
+======================================================================
+Saturday, July 07, 2018
+======================================================================
+
+E:jeeitunes [10:20 AM]:
+  Btw. Pakistani prime minister convicted. HBJ in center place again
+
+E:jeeitunes [5:37 PM]:
+  Sorry you will miss the cage fight . Ruemmler -Starr on thurs. couldn't
+
+Unknown [5:44 PM]:
+  Europe?
+
+E:jeeitunes [5:50 PM]:
+  Right now should be in london @ noon on Tuesday --- return Tuesday 17 July
+
+Unknown [6:24 PM]:
+  great. I assume schedule in flux, if you want meetings let me know.
+
+
+======================================================================
+Sunday, July 08, 2018
+======================================================================
+
+E:jeeitunes [6:01 AM]:
+  Roger
+
+Unknown [6:09 AM]:
+  Make sure your guys video interactions with you and all women protesters .
+
+E:jeeitunes [6:50 AM]:
+  Yep
+
+Unknown [6:51 AM]:
+  Calll to get some updates
+
+E:jeeitunes [6:57 AM]:
+  Heading into mass with my dad will call when out
+
+Unknown [7:00 AM]:
+  I get it the father -son only missing -the holy jew
+
+E:jeeitunes [12:35 PM]:
+  Our ticket to eternal life is worshipping a Jewish carpenter -- have to love
+
+
+======================================================================
+Monday, July 09, 2018
+======================================================================
+
+E:jeeitunes [3:04 AM]:
+  Free to speak?
+
+E:jeeitunes [5:41 AM]:
+  ?
+
+E:jeeitunes [5:48 AM]:
+  Interesting invitations for you , but they need confirmation in London for
+
+E:jeeitunes [5:48 AM]:
+  https://www.marketwatch.com/story/founder-of-worlds-largest-hedge-fund-says-
+
+Unknown [5:56 AM]:
+  . And people wonder why I suggest he's a dope
+
+E:jeeitunes [6:10 AM]:
+  U don't believe we r @ war
+
+E:jeeitunes [6:10 AM]:
+  Weve been for years
+
+E:jeeitunes [6:18 AM]:
+  These guys just woke up- maybe
+
+Unknown [8:39 AM]:
+  Technology- currency- cyber . These old guys ignore weapons unless they fit
+
+E:jeeitunes [8:40 AM]:
+  Agree agree agree
+
+E:jeeitunes [8:40 AM]:
+  A
+
+E:jeeitunes [9:37 AM]:
+  Call my cell if you have a moment
+
+E:jeeitunes [6:14 PM]:
+  As is said stock market up 300 points . Where are the trade war chicken
+
+E:jeeitunes [6:14 PM]:
+  If you stay ken starr with me wed and Thursday New York
+
+Unknown [6:15 PM]:
+  Good work
+
+Unknown [6:32 PM]:
+  Trust the Process
+
+E:jeeitunes [6:32 PM]:
+  Ken says the guy is brilliant correct ?
+
+E:jeeitunes [6:33 PM]:
+  reliable
+
+Unknown [6:34 PM]:
+  Chevron decision
+
+E:jeeitunes [6:34 PM]:
+  Let's go deconstruct
+
+E:jeeitunes [6:39 PM]:
+  Bye bye administrative state. . I get It
+
+Unknown [7:03 PM]:
+  If Chevron were overturned and Gorsuch voted to overturn it, such a decision
+
+
+======================================================================
+Tuesday, July 10, 2018
+======================================================================
+
+E:jeeitunes [1:09 AM]:
+  Pretty epic huh??
+
+E:jeeitunes [1:09 AM]:
+  Y
+
+E:jeeitunes [3:04 AM]:
+  Yes
+
+E:jeeitunes [3:04 AM]:
+  https://www.nytimes.com/2018/07/09/nyregion/former-driver-sues-trump-overtime-
+
+E:jeeitunes [3:04 AM]:
+  Iits usually the driver that squeals
+
+E:jeeitunes [4:11 AM]:
+  Its
+
+Unknown [4:18 AM]:
+  Matt calamari mentioned
+
+E:jeeitunes [7:45 AM]:
+  Always a good thing ---a really bright guy
+
+Unknown [7:59 AM]:
+  Starr lunch tomorrow new yotk 230
+
+E:jeeitunes [8:55 AM]:
+  I'm flying tonight with Hannity
+
+Unknown [4:50 PM]:
+  Great! Norwegian embassy invite for you if you have time tomorrow London. -
+
+E:jeeitunes [4:51 PM]:
+  Why do u say Halper is real deal ???
+
+E:jeeitunes [4:52 PM]:
+  It will wait till f2f
+
+E:jeeitunes [6:45 PM]:
+  But definitely
+
 ```
 
 *[Text truncated to 5000 characters]*

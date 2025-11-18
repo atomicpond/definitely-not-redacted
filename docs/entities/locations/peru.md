@@ -30,8 +30,8 @@ Top 10 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 9 shared documents
 - [Middle East](../people/middle-east.md) - 9 shared documents
-- [President Obama](../people/president-obama.md) - 9 shared documents
 - [San Francisco](../people/san-francisco.md) - 9 shared documents
 
 **Organizations:**
@@ -50,15 +50,15 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [Germany](germany.md) - 17 shared documents
-- [China](china.md) - 14 shared documents
-- [Canada](canada.md) - 14 shared documents
 - [Australia](australia.md) - 14 shared documents
+- [Canada](canada.md) - 14 shared documents
+- [China](china.md) - 14 shared documents
 - [India](india.md) - 14 shared documents
 - [Russia](russia.md) - 13 shared documents
 - [Spain](spain.md) - 13 shared documents
-- [Japan](japan.md) - 13 shared documents
 - [Brazil](brazil.md) - 13 shared documents
 - [France](france.md) - 13 shared documents
+- [Japan](japan.md) - 13 shared documents
 
 **Events:**
 
@@ -67,11 +67,11 @@ Top 10 documents by mention frequency:
 - [daily](../events/daily.md) - 12 shared documents
 - [last year](../events/last-year.md) - 12 shared documents
 - [years](../events/years.md) - 12 shared documents
-- [2004](../events/2004.md) - 11 shared documents
-- [2014](../events/2014.md) - 11 shared documents
-- [annual](../events/annual.md) - 11 shared documents
-- [2000](../events/2000.md) - 11 shared documents
 - [1999](../events/1999.md) - 11 shared documents
+- [2000](../events/2000.md) - 11 shared documents
+- [2001](../events/2001.md) - 11 shared documents
+- [2004](../events/2004.md) - 11 shared documents
+- [2013](../events/2013.md) - 11 shared documents
 
 ## Timeline
 

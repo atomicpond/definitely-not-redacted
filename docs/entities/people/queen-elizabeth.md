@@ -42,12 +42,8 @@ Top 10 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 6 shared documents
 - [Google](../organizations/google.md) - 6 shared documents
-- [CBS](../organizations/cbs.md) - 5 shared documents
-- [Ford](../organizations/ford.md) - 5 shared documents
-- [HBO](../organizations/hbo.md) - 5 shared documents
-- [Viacom](../organizations/viacom.md) - 5 shared documents
+- [HOUSE](../organizations/house.md) - 6 shared documents
 
 **Locations:**
 
@@ -55,25 +51,25 @@ Top 10 documents by mention frequency:
 - [America](../locations/america.md) - 8 shared documents
 - [Paris](../locations/paris.md) - 8 shared documents
 - [California](../locations/california.md) - 7 shared documents
-- [Washington](../locations/washington.md) - 7 shared documents
 - [London](../locations/london.md) - 7 shared documents
-- [Toronto](../locations/toronto.md) - 7 shared documents
 - [New York City](../locations/new-york-city.md) - 7 shared documents
 - [Switzerland](../locations/switzerland.md) - 7 shared documents
+- [Toronto](../locations/toronto.md) - 7 shared documents
+- [Washington](../locations/washington.md) - 7 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 6 shared documents
 
 **Events:**
 
 - [years](../events/years.md) - 8 shared documents
 - [Sunday](../events/sunday.md) - 7 shared documents
-- [October](../events/october.md) - 6 shared documents
-- [March](../events/march.md) - 6 shared documents
-- [the year](../events/the-year.md) - 6 shared documents
-- [Saturday](../events/saturday.md) - 6 shared documents
-- [January](../events/january.md) - 6 shared documents
-- [Christmas](../events/christmas.md) - 6 shared documents
-- [1982](../events/1982.md) - 6 shared documents
 - [1930](../events/1930.md) - 6 shared documents
+- [1982](../events/1982.md) - 6 shared documents
+- [Christmas](../events/christmas.md) - 6 shared documents
+- [January](../events/january.md) - 6 shared documents
+- [March](../events/march.md) - 6 shared documents
+- [October](../events/october.md) - 6 shared documents
+- [Saturday](../events/saturday.md) - 6 shared documents
+- [the year](../events/the-year.md) - 6 shared documents
 
 ## Timeline
 

@@ -27,7 +27,6 @@ Top 6 documents by mention frequency:
 
 - [Middle East](../people/middle-east.md) - 6 shared documents
 - [Barack Obama](../people/barack-obama.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 5 shared documents
 
 **Organizations:**
@@ -38,28 +37,28 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
-- [the Middle East](../locations/the-middle-east.md) - 6 shared documents
 - [Iran](../locations/iran.md) - 6 shared documents
-- [Syria](../locations/syria.md) - 6 shared documents
 - [Israel](../locations/israel.md) - 6 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
+- [Syria](../locations/syria.md) - 6 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 6 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 5 shared documents
+- [Cairo](../locations/cairo.md) - 5 shared documents
+- [Damascus](../locations/damascus.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
 - [Iraq](../locations/iraq.md) - 5 shared documents
 - [Jordan](../locations/jordan.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
-- [Cairo](../locations/cairo.md) - 5 shared documents
 
 **Events:**
 
-- [last week](../events/last-week.md) - 5 shared documents
 - [2013](../events/2013.md) - 5 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [2012](../events/2012.md) - 4 shared documents
-- [this year](../events/this-year.md) - 4 shared documents
-- [the years](../events/the-years.md) - 4 shared documents
+- [last week](../events/last-week.md) - 5 shared documents
 - [10 years](../events/10-years.md) - 4 shared documents
 - [1979](../events/1979.md) - 4 shared documents
+- [2009](../events/2009.md) - 4 shared documents
+- [2012](../events/2012.md) - 4 shared documents
+- [the years](../events/the-years.md) - 4 shared documents
+- [this year](../events/this-year.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

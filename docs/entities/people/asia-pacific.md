@@ -44,32 +44,34 @@ Top 10 documents by mention frequency:
 
 **Organizations:**
 
-- [Bank of America](../organizations/bank-of-america.md) - 20 shared documents
 - [Bank](../organizations/bank.md) - 20 shared documents
+- [Bank of America](../organizations/bank-of-america.md) - 20 shared documents
 - [the Dubai Financial Services Authority](../organizations/the-dubai-financial-services-authority.md) - 20 shared documents
-- [Merrill Lynch](../organizations/merrill-lynch.md) - 19 shared documents
-- [Bloomberg](../organizations/bloomberg.md) - 19 shared documents
 - [ABN](../organizations/abn.md) - 19 shared documents
+- [Bloomberg](../organizations/bloomberg.md) - 19 shared documents
 - [DFSA](../organizations/dfsa.md) - 19 shared documents
+- [Merrill Lynch](../organizations/merrill-lynch.md) - 19 shared documents
 - [the Capital Market Authority](../organizations/the-capital-market-authority.md) - 19 shared documents
 - [the Financial Conduct Authority](../organizations/the-financial-conduct-authority.md) - 19 shared documents
-- [Pierce, Fenner & Smith Incorporated](../organizations/pierce-fenner-smith-incorporated.md) - 18 shared documents
+- [Bank of America
+Corporation](../organizations/bank-of-america-corporation.md) - 18 shared documents
 
 **Locations:**
 
 - [Japan](../locations/japan.md) - 28 shared documents
 - [Germany](../locations/germany.md) - 25 shared documents
-- [Russia](../locations/russia.md) - 24 shared documents
-- [Brazil](../locations/brazil.md) - 24 shared documents
 - [Asia](../locations/asia.md) - 24 shared documents
+- [Brazil](../locations/brazil.md) - 24 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 24 shared documents
-- [Singapore](../locations/singapore.md) - 24 shared documents
 - [India](../locations/india.md) - 24 shared documents
+- [Russia](../locations/russia.md) - 24 shared documents
+- [Singapore](../locations/singapore.md) - 24 shared documents
 - [Taiwan](../locations/taiwan.md) - 24 shared documents
 - [Canada](../locations/canada.md) - 23 shared documents
 
 **Events:**
 
+- [2001](../events/2001.md) - 18 shared documents
 - [2017](../events/2017.md) - 18 shared documents
 
 ## Timeline

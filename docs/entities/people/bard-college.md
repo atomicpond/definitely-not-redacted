@@ -22,10 +22,6 @@ Top 5 documents by mention frequency:
 
 ### Most Frequently Co-occurring Entities
 
-**People:**
-
-- [President Obama](president-obama.md) - 5 shared documents
-
 **Organizations:**
 
 - [Bard College](../organizations/bard-college.md) - 5 shared documents

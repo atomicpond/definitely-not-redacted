@@ -39,8 +39,8 @@ Top 10 documents by mention frequency:
 
 - [Europe](../locations/europe.md) - 5 shared documents
 - [Italy](../locations/italy.md) - 5 shared documents
-- [London](../locations/london.md) - 4 shared documents
 - [Hungary](../locations/hungary.md) - 4 shared documents
+- [London](../locations/london.md) - 4 shared documents
 
 **Events:**
 

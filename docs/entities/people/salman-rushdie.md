@@ -31,35 +31,34 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [Jeffrey Epstein](jeffrey-epstein.md) - 8 shared documents
 - [Stephen Hawking](stephen-hawking.md) - 7 shared documents
 - [Tim Geithner](tim-geithner.md) - 7 shared documents
 - [Tony Blair](tony-blair.md) - 7 shared documents
-- [Paul McCartney](paul-mccartney.md) - 7 shared documents
-- [Bill Gates](bill-gates.md) - 7 shared documents
+- [Al Gore](al-gore.md) - 7 shared documents
 - [Bill 
 Clinton](bill-clinton.md) - 7 shared documents
-- [Prince 
-Andrew](prince-andrew.md) - 7 shared documents
-- [Epstein](epstein.md) - 7 shared documents
-- [Kofi Annan](kofi-annan.md) - 7 shared documents
+- [Bill Gates](bill-gates.md) - 7 shared documents
+- [Condoleezza Rice](condoleezza-rice.md) - 7 shared documents
+- [george mitchell](george-mitchell.md) - 7 shared documents
+- [George Soros](george-soros.md) - 7 shared documents
+- [Hamid Karzai](hamid-karzai.md) - 7 shared documents
 
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 9 shared documents
 - [State](../organizations/state.md) - 8 shared documents
-- [US Treasury](../organizations/us-treasury.md) - 7 shared documents
 - [BBC](../organizations/bbc.md) - 7 shared documents
-- [BBC World Service](../organizations/bbc-world-service.md) - 7 shared documents
 - [BBC News](../organizations/bbc-news.md) - 7 shared documents
 - [BBC Online](../organizations/bbc-online.md) - 7 shared documents
 - [BBC World](../organizations/bbc-world.md) - 7 shared documents
+- [BBC World Service](../organizations/bbc-world-service.md) - 7 shared documents
 - [Today Programme](../organizations/today-programme.md) - 7 shared documents
+- [US Treasury](../organizations/us-treasury.md) - 7 shared documents
 
 **Locations:**
 
-- [Wales](../locations/wales.md) - 7 shared documents
 - [U.K.](../locations/uk.md) - 7 shared documents
+- [Wales](../locations/wales.md) - 7 shared documents
 - [York](../locations/york.md) - 7 shared documents
 
 **Events:**

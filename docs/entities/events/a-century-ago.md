@@ -46,11 +46,11 @@ Top 5 documents by mention frequency:
 - [the year](the-year.md) - 5 shared documents
 - [today](today.md) - 5 shared documents
 - [years](years.md) - 5 shared documents
-- [2009](2009.md) - 5 shared documents
+- [1960](1960.md) - 5 shared documents
+- [1973](1973.md) - 5 shared documents
+- [1976](1976.md) - 5 shared documents
+- [1981](1981.md) - 5 shared documents
 - [1985](1985.md) - 5 shared documents
-- [1993](1993.md) - 5 shared documents
-- [2008](2008.md) - 5 shared documents
-- [2010](2010.md) - 5 shared documents
 
 ## Timeline
 

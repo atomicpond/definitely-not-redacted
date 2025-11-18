@@ -31,7 +31,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 13 shared documents
 - [Middle East](../people/middle-east.md) - 12 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 12 shared documents
 - [White House](../people/white-house.md) - 12 shared documents
@@ -40,7 +39,8 @@ Top 10 documents by mention frequency:
 - [Fifth Amendment](../people/fifth-amendment.md) - 8 shared documents
 - [San Francisco](../people/san-francisco.md) - 8 shared documents
 - [Securities Act](../people/securities-act.md) - 8 shared documents
-- [Barack Obama](../people/barack-obama.md) - 7 shared documents
+- [Federal Bureau](../people/federal-bureau.md) - 7 shared documents
+- [Harvard Law School](../people/harvard-law-school.md) - 7 shared documents
 
 **Organizations:**
 
@@ -63,10 +63,10 @@ Top 10 documents by mention frequency:
 - [China](../locations/china.md) - 19 shared documents
 - [Israel](../locations/israel.md) - 19 shared documents
 - [California](../locations/california.md) - 18 shared documents
-- [Russia](../locations/russia.md) - 17 shared documents
 - [Florida](../locations/florida.md) - 17 shared documents
+- [Russia](../locations/russia.md) - 17 shared documents
 - [Japan](../locations/japan.md) - 16 shared documents
-- [Mexico](../locations/mexico.md) - 16 shared documents
+- [London](../locations/london.md) - 16 shared documents
 
 **Events:**
 
@@ -77,9 +77,9 @@ Top 10 documents by mention frequency:
 - [monthly](../events/monthly.md) - 18 shared documents
 - [the day](../events/the-day.md) - 18 shared documents
 - [2004](../events/2004.md) - 17 shared documents
-- [2015](../events/2015.md) - 17 shared documents
 - [2012](../events/2012.md) - 17 shared documents
-- [daily](../events/daily.md) - 17 shared documents
+- [2015](../events/2015.md) - 17 shared documents
+- [a year](../events/a-year.md) - 17 shared documents
 
 ## Timeline
 

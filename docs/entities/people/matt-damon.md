@@ -25,8 +25,8 @@ Top 5 documents by mention frequency:
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 5 shared documents
-- [Treasury](../organizations/treasury.md) - 4 shared documents
 - [Goldman Sachs](../organizations/goldman-sachs.md) - 4 shared documents
+- [Treasury](../organizations/treasury.md) - 4 shared documents
 
 **Locations:**
 

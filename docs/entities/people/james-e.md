@@ -32,9 +32,9 @@ Top 5 documents by mention frequency:
 **Organizations:**
 
 - [ABC News](../organizations/abc-news.md) - 5 shared documents
-- [Maxwell](../organizations/maxwell.md) - 4 shared documents
 - [ABC](../organizations/abc.md) - 4 shared documents
 - [CVRA](../organizations/cvra.md) - 4 shared documents
+- [Maxwell](../organizations/maxwell.md) - 4 shared documents
 
 **Locations:**
 

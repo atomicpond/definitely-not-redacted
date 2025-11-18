@@ -47,29 +47,26 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [Earth](../locations/earth.md) - 10 shared documents
-- [USA](../locations/usa.md) - 10 shared documents
-- [the United States](../locations/the-united-states.md) - 10 shared documents
-- [Cambridge](../locations/cambridge.md) - 10 shared documents
 - [Boston](../locations/boston.md) - 10 shared documents
+- [Cambridge](../locations/cambridge.md) - 10 shared documents
+- [Earth](../locations/earth.md) - 10 shared documents
 - [India](../locations/india.md) - 10 shared documents
+- [the United States](../locations/the-united-states.md) - 10 shared documents
+- [USA](../locations/usa.md) - 10 shared documents
 - [West](../locations/west.md) - 10 shared documents
-- [Japan](../locations/japan.md) - 9 shared documents
-- [Germany](../locations/germany.md) - 9 shared documents
-- [London](../locations/london.md) - 9 shared documents
 
 **Events:**
 
-- [years](../events/years.md) - 11 shared documents
-- [2001](../events/2001.md) - 11 shared documents
-- [2002](../events/2002.md) - 11 shared documents
 - [1980](../events/1980.md) - 11 shared documents
 - [1995](../events/1995.md) - 11 shared documents
-- [2004](../events/2004.md) - 10 shared documents
-- [2007](../events/2007.md) - 10 shared documents
-- [2009](../events/2009.md) - 10 shared documents
-- [today](../events/today.md) - 10 shared documents
+- [2001](../events/2001.md) - 11 shared documents
+- [2002](../events/2002.md) - 11 shared documents
+- [years](../events/years.md) - 11 shared documents
+- [1973](../events/1973.md) - 10 shared documents
+- [1991](../events/1991.md) - 10 shared documents
 - [1996](../events/1996.md) - 10 shared documents
+- [1997](../events/1997.md) - 10 shared documents
+- [1999](../events/1999.md) - 10 shared documents
 
 ## Timeline
 

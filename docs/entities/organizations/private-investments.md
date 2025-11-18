@@ -40,13 +40,13 @@ Chief](../people/michael-cembalest-chief.md) - 9 shared documents
 
 - [SIPC](sipc.md) - 16 shared documents
 - [the Federal Deposit Insurance Corporation](the-federal-deposit-insurance-corporation.md) - 16 shared documents
-- [NYSE](nyse.md) - 16 shared documents
-- [Bank](bank.md) - 16 shared documents
-- [FINRA](finra.md) - 16 shared documents
-- [FDIC](fdic.md) - 16 shared documents
-- [Morgan Securities LLC](morgan-securities-llc.md) - 16 shared documents
-- [JPMS](jpms.md) - 16 shared documents
 - [Balanced Model Portfolios](balanced-model-portfolios.md) - 16 shared documents
+- [Bank](bank.md) - 16 shared documents
+- [FDIC](fdic.md) - 16 shared documents
+- [FINRA](finra.md) - 16 shared documents
+- [JPMS](jpms.md) - 16 shared documents
+- [Morgan Securities LLC](morgan-securities-llc.md) - 16 shared documents
+- [NYSE](nyse.md) - 16 shared documents
 - [Securities products purchased or sold through JPMS are not insured by the Federal Deposit Insurance Corporation](securities-products-purchased-or-sold-through-jpms-are-not-insured-by-the-federal-deposit-insurance-corporation.md) - 13 shared documents
 
 **Locations:**
@@ -56,10 +56,10 @@ Chief](../people/michael-cembalest-chief.md) - 9 shared documents
 - [Italy](../locations/italy.md) - 10 shared documents
 - [Greece](../locations/greece.md) - 9 shared documents
 - [Spain](../locations/spain.md) - 9 shared documents
-- [Japan](../locations/japan.md) - 8 shared documents
 - [Germany](../locations/germany.md) - 8 shared documents
+- [Japan](../locations/japan.md) - 8 shared documents
 - [Latin America](../locations/latin-america.md) - 8 shared documents
-- [US](../locations/us.md) - 8 shared documents
+- [N.A](../locations/na.md) - 8 shared documents
 - [N.A.](../locations/na.md) - 8 shared documents
 
 **Events:**
@@ -71,7 +71,7 @@ Chief](../people/michael-cembalest-chief.md) - 9 shared documents
 - [2011](../events/2011.md) - 7 shared documents
 - [the last decade](../events/the-last-decade.md) - 7 shared documents
 - [next year](../events/next-year.md) - 6 shared documents
-- [this week](../events/this-week.md) - 6 shared documents
+- [the year](../events/the-year.md) - 6 shared documents
 
 ## Timeline
 

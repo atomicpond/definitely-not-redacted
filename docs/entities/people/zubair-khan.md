@@ -31,16 +31,17 @@ Top 10 documents by mention frequency:
 
 - [Zubair Khan 
 Sent](zubair-khan-sent.md) - 6 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 6 shared documents
 - [Jeffrey E](jeffrey-e.md) - 6 shared documents
-- [CLINTON](clinton.md) - 6 shared documents
 - [jeffrey E. <](jeffrey-e.md) - 5 shared documents
 
 **Organizations:**
 
 - [Twitter](../organizations/twitter.md) - 7 shared documents
 - [HOUSE](../organizations/house.md) - 6 shared documents
-- [Trump](../organizations/trump.md) - 6 shared documents
 - [InsightsPod](../organizations/insightspod.md) - 6 shared documents
+- [Trump](../organizations/trump.md) - 6 shared documents
 - [Facebook](../organizations/facebook.md) - 5 shared documents
 
 **Locations:**

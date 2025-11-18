@@ -34,23 +34,24 @@ Top 10 documents by mention frequency:
 
 - [Federal Reserve](../people/federal-reserve.md) - 25 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 15 shared documents
-- [Barack Obama](../people/barack-obama.md) - 13 shared documents
-- [President Obama](../people/president-obama.md) - 12 shared documents
-- [Mr. Obama](../people/obama.md) - 11 shared documents
 - [Angela Merkel](../people/angela-merkel.md) - 10 shared documents
-- [CLINTON](../people/clinton.md) - 10 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 10 shared documents
 - [Alan Greenspan](../people/alan-greenspan.md) - 9 shared documents
 - [Communist Party](../people/communist-party.md) - 9 shared documents
 - [George W. Bush](../people/george-w-bush.md) - 9 shared documents
+- [Middle East](../people/middle-east.md) - 9 shared documents
+- [White House](../people/white-house.md) - 9 shared documents
+- [Cold War](../people/cold-war.md) - 8 shared documents
 
 **Organizations:**
 
 - [HOUSE](house.md) - 25 shared documents
 - [Treasury](treasury.md) - 17 shared documents
-- [Fed](fed.md) - 14 shared documents
 - [Congress](congress.md) - 14 shared documents
-- [Senate](senate.md) - 10 shared documents
+- [Fed](fed.md) - 14 shared documents
 - [New York Times](new-york-times.md) - 10 shared documents
+- [Senate](senate.md) - 10 shared documents
 - [the New York Times](the-new-york-times.md) - 9 shared documents
 - [the White House](the-white-house.md) - 9 shared documents
 - [The Wall Street Journal](the-wall-street-journal.md) - 6 shared documents
@@ -62,12 +63,12 @@ Top 10 documents by mention frequency:
 - [Italy](../locations/italy.md) - 19 shared documents
 - [China](../locations/china.md) - 18 shared documents
 - [the United States](../locations/the-united-states.md) - 18 shared documents
-- [Japan](../locations/japan.md) - 16 shared documents
-- [Germany](../locations/germany.md) - 16 shared documents
 - [France](../locations/france.md) - 16 shared documents
+- [Germany](../locations/germany.md) - 16 shared documents
+- [Japan](../locations/japan.md) - 16 shared documents
 - [Greece](../locations/greece.md) - 15 shared documents
 - [US](../locations/us.md) - 15 shared documents
-- [Russia](../locations/russia.md) - 14 shared documents
+- [Asia](../locations/asia.md) - 14 shared documents
 
 **Events:**
 
@@ -76,11 +77,11 @@ Top 10 documents by mention frequency:
 - [last week](../events/last-week.md) - 14 shared documents
 - [2010](../events/2010.md) - 13 shared documents
 - [2012](../events/2012.md) - 12 shared documents
-- [annual](../events/annual.md) - 11 shared documents
 - [2001](../events/2001.md) - 11 shared documents
 - [2008](../events/2008.md) - 11 shared documents
-- [2015](../events/2015.md) - 10 shared documents
+- [annual](../events/annual.md) - 11 shared documents
 - [2000](../events/2000.md) - 10 shared documents
+- [2013](../events/2013.md) - 10 shared documents
 
 ## Timeline
 

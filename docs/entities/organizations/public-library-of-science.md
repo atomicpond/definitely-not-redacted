@@ -48,10 +48,10 @@ PS](../people/david-ps.md) - 5 shared documents
 
 - [a few years ago](../events/a-few-years-ago.md) - 6 shared documents
 - [day](../events/day.md) - 6 shared documents
-- [4 years 
-ago](../events/4-years-ago.md) - 5 shared documents
 - [01/19/17](../events/01-19-17.md) - 5 shared documents
 - [1/20/2017](../events/1-20-2017.md) - 5 shared documents
+- [4 years 
+ago](../events/4-years-ago.md) - 5 shared documents
 - [Fri, Jan 20, 2017](../events/fri-jan-20-2017.md) - 5 shared documents
 - [Jan 20, 2017](../events/jan-20-2017.md) - 5 shared documents
 

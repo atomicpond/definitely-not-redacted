@@ -59,21 +59,21 @@ Corporation](bank-of-america-corporation.md) - 21 shared documents
 - [Mexico](../locations/mexico.md) - 23 shared documents
 - [Russia](../locations/russia.md) - 22 shared documents
 - [Spain](../locations/spain.md) - 22 shared documents
-- [China](../locations/china.md) - 21 shared documents
-- [Brazil](../locations/brazil.md) - 21 shared documents
-- [Canada](../locations/canada.md) - 21 shared documents
-- [Germany](../locations/germany.md) - 21 shared documents
 - [Asia](../locations/asia.md) - 21 shared documents
 - [Australia](../locations/australia.md) - 21 shared documents
+- [Brazil](../locations/brazil.md) - 21 shared documents
+- [Canada](../locations/canada.md) - 21 shared documents
+- [China](../locations/china.md) - 21 shared documents
+- [Germany](../locations/germany.md) - 21 shared documents
 
 **Events:**
 
-- [2017](../events/2017.md) - 21 shared documents
 - [2001](../events/2001.md) - 21 shared documents
+- [2017](../events/2017.md) - 21 shared documents
 - [the day](../events/the-day.md) - 21 shared documents
 - [1959](../events/1959.md) - 18 shared documents
-- [annual](../events/annual.md) - 17 shared documents
 - [198602883D](../events/198602883d.md) - 17 shared documents
+- [annual](../events/annual.md) - 17 shared documents
 
 ## Timeline
 

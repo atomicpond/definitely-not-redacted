@@ -33,19 +33,19 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
-- [China](../locations/china.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
-- [London](../locations/london.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
+- [China](../locations/china.md) - 4 shared documents
+- [London](../locations/london.md) - 4 shared documents
 - [Spain](../locations/spain.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 
 - [2016](../events/2016.md) - 5 shared documents
+- [2001](../events/2001.md) - 4 shared documents
 - [2018](../events/2018.md) - 4 shared documents
 - [last year](../events/last-year.md) - 4 shared documents
 - [this year](../events/this-year.md) - 4 shared documents
-- [2001](../events/2001.md) - 4 shared documents
 
 ## Timeline
 

@@ -33,22 +33,22 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
-- [Jordan](../locations/jordan.md) - 6 shared documents
-- [Egypt](../locations/egypt.md) - 6 shared documents
 - [Afghanistan](../locations/afghanistan.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
+- [Egypt](../locations/egypt.md) - 6 shared documents
+- [Jordan](../locations/jordan.md) - 6 shared documents
 - [Iraq](../locations/iraq.md) - 5 shared documents
 - [Libya](../locations/libya.md) - 5 shared documents
 - [Pakistan](../locations/pakistan.md) - 5 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 4 shared documents
 
 **Events:**
 
-- [2003](../events/2003.md) - 4 shared documents
-- [2000](../events/2000.md) - 4 shared documents
 - [1984](../events/1984.md) - 4 shared documents
+- [2000](../events/2000.md) - 4 shared documents
+- [2003](../events/2003.md) - 4 shared documents
 - [September](../events/september.md) - 4 shared documents
 
 ## Timeline

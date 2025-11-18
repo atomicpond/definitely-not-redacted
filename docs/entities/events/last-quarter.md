@@ -27,7 +27,8 @@ Top 7 documents by mention frequency:
 
 **People:**
 
-- [Donald Trump's](../people/donald-trumps.md) - 5 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 5 shared documents
 - [Financial Times](../people/financial-times.md) - 5 shared documents
 - [Goldman Sachs](../people/goldman-sachs.md) - 5 shared documents
 

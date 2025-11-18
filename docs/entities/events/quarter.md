@@ -48,14 +48,14 @@ Top 6 documents by mention frequency:
 
 - [quarterly](quarterly.md) - 5 shared documents
 - [the year](the-year.md) - 5 shared documents
-- [last year](last-year.md) - 5 shared documents
 - [12-month](12-month.md) - 5 shared documents
+- [last year](last-year.md) - 5 shared documents
 - [several years](several-years.md) - 4 shared documents
 - [this year](this-year.md) - 4 shared documents
+- [2017](2017.md) - 4 shared documents
 - [annual](annual.md) - 4 shared documents
 - [daily](daily.md) - 4 shared documents
-- [2017](2017.md) - 4 shared documents
-- [monthly](monthly.md) - 4 shared documents
+- [January](january.md) - 4 shared documents
 
 ## Timeline
 

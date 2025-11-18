@@ -30,10 +30,9 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 9 shared documents
-- [President Obama](../people/president-obama.md) - 8 shared documents
+- [Barack Obama](../people/barack-obama.md) - 8 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 7 shared documents
 - [Circuit Court](../people/circuit-court.md) - 6 shared documents
-- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [White House](../people/white-house.md) - 5 shared documents
 
 **Organizations:**
@@ -53,27 +52,27 @@ Top 10 documents by mention frequency:
 
 - [Germany](../locations/germany.md) - 9 shared documents
 - [Washington](../locations/washington.md) - 9 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 8 shared documents
 - [Russia](../locations/russia.md) - 8 shared documents
-- [United States](../locations/united-states.md) - 7 shared documents
-- [China](../locations/china.md) - 7 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 8 shared documents
 - [Asia](../locations/asia.md) - 7 shared documents
+- [China](../locations/china.md) - 7 shared documents
 - [Paris](../locations/paris.md) - 7 shared documents
+- [United States](../locations/united-states.md) - 7 shared documents
+- [D.C.](../locations/dc.md) - 6 shared documents
 - [Dubai](../locations/dubai.md) - 6 shared documents
-- [Middle East](../locations/middle-east.md) - 6 shared documents
 
 **Events:**
 
 - [annual](../events/annual.md) - 12 shared documents
 - [today](../events/today.md) - 10 shared documents
 - [monthly](../events/monthly.md) - 9 shared documents
-- [last year](../events/last-year.md) - 8 shared documents
 - [1992](../events/1992.md) - 8 shared documents
+- [last year](../events/last-year.md) - 8 shared documents
+- [1973](../events/1973.md) - 7 shared documents
 - [2000](../events/2000.md) - 7 shared documents
 - [2012](../events/2012.md) - 7 shared documents
 - [2013](../events/2013.md) - 7 shared documents
-- [1973](../events/1973.md) - 7 shared documents
-- [2004](../events/2004.md) - 6 shared documents
+- [1979](../events/1979.md) - 6 shared documents
 
 ## Timeline
 

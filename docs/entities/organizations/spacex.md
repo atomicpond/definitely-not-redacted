@@ -29,8 +29,8 @@ Top 5 documents by mention frequency:
 **Events:**
 
 - [2016](../events/2016.md) - 5 shared documents
-- [today](../events/today.md) - 4 shared documents
 - [2010](../events/2010.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

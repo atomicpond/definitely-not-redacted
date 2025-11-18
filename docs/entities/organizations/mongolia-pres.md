@@ -30,8 +30,9 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [bill burns](../people/bill-burns.md) - 16 shared documents
-- [boris](../people/boris.md) - 9 shared documents
-- [CLINTON](../people/clinton.md) - 9 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 9 shared documents
+- [Boris Nikolic](../people/boris-nikolic.md) - 9 shared documents
 - [gordon brown](../people/gordon-brown.md) - 9 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 9 shared documents
 - [Kathy 
@@ -43,8 +44,8 @@ Ruemmler](../people/kathy-ruemmler.md) - 9 shared documents
 
 **Organizations:**
 
-- [iPad](ipad.md) - 16 shared documents
 - [Harvard](harvard.md) - 16 shared documents
+- [iPad](ipad.md) - 16 shared documents
 - [council of europe](council-of-europe.md) - 14 shared documents
 - [lenox hill](lenox-hill.md) - 14 shared documents
 - [HOUSE](house.md) - 9 shared documents
@@ -53,10 +54,10 @@ Ruemmler](../people/kathy-ruemmler.md) - 9 shared documents
 **Locations:**
 
 - [Dubai](../locations/dubai.md) - 16 shared documents
-- [Qatar](../locations/qatar.md) - 16 shared documents
 - [India](../locations/india.md) - 16 shared documents
-- [N.Y.](../locations/ny.md) - 7 shared documents
+- [Qatar](../locations/qatar.md) - 16 shared documents
 - [D.C.](../locations/dc.md) - 7 shared documents
+- [N.Y.](../locations/ny.md) - 7 shared documents
 
 **Events:**
 

@@ -33,10 +33,10 @@ Top 6 documents by mention frequency:
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
-- [these days](../events/these-days.md) - 5 shared documents
 - [a few years](../events/a-few-years.md) - 5 shared documents
 - [many years](../events/many-years.md) - 5 shared documents
+- [these days](../events/these-days.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [more than a year](../events/more-than-a-year.md) - 4 shared documents
 - [nine months](../events/nine-months.md) - 4 shared documents
 

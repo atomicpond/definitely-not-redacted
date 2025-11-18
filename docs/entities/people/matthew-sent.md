@@ -27,11 +27,10 @@ Top 5 documents by mention frequency:
 **People:**
 
 - [Mosk](mosk.md) - 5 shared documents
-- [Mr. 
-Trump](trump.md) - 5 shared documents
 - [Weinberg](weinberg.md) - 5 shared documents
-- [CLINTON](clinton.md) - 5 shared documents
-- [Epstein](epstein.md) - 5 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 5 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 5 shared documents
 
 **Organizations:**
 

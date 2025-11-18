@@ -25,8 +25,8 @@ Top 5 documents by mention frequency:
 **Locations:**
 
 - [Nigeria](../locations/nigeria.md) - 5 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
 - [Cyprus](../locations/cyprus.md) - 4 shared documents
+- [Europe](../locations/europe.md) - 4 shared documents
 
 **Events:**
 

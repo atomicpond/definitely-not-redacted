@@ -68,11 +68,11 @@ Top 10 documents by mention frequency:
 - [October](october.md) - 9 shared documents
 - [several months](several-months.md) - 9 shared documents
 - [May 1](may-1.md) - 8 shared documents
-- [2005](2005.md) - 8 shared documents
-- [five years](five-years.md) - 8 shared documents
 - [14](14.md) - 8 shared documents
-- [Christmas](christmas.md) - 8 shared documents
 - [14-year-old](14-year-old.md) - 8 shared documents
+- [17-year-old](17-year-old.md) - 8 shared documents
+- [2005](2005.md) - 8 shared documents
+- [53](53.md) - 8 shared documents
 
 ## Timeline
 

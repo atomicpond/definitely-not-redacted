@@ -28,11 +28,9 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [Mr. Obama](obama.md) - 8 shared documents
 - [Assad](assad.md) - 7 shared documents
 - [Middle East](middle-east.md) - 6 shared documents
 - [Mr. Mubarak](mubarak.md) - 5 shared documents
-- [President Obama](president-obama.md) - 5 shared documents
 - [Saddam Hussein](saddam-hussein.md) - 5 shared documents
 - [United 
 States](united-states.md) - 5 shared documents
@@ -42,8 +40,8 @@ States](united-states.md) - 5 shared documents
 **Organizations:**
 
 - [NATO](../organizations/nato.md) - 6 shared documents
-- [Congress](../organizations/congress.md) - 5 shared documents
 - [al-Qaeda](../organizations/al-qaeda.md) - 5 shared documents
+- [Congress](../organizations/congress.md) - 5 shared documents
 - [Hamas](../organizations/hamas.md) - 5 shared documents
 - [Islam](../organizations/islam.md) - 5 shared documents
 - [UN](../organizations/un.md) - 5 shared documents
@@ -54,21 +52,21 @@ States](united-states.md) - 5 shared documents
 - [Libya](../locations/libya.md) - 8 shared documents
 - [Syria](../locations/syria.md) - 8 shared documents
 - [US](../locations/us.md) - 8 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 7 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 7 shared documents
 - [China](../locations/china.md) - 7 shared documents
 - [Europe](../locations/europe.md) - 7 shared documents
-- [Russia](../locations/russia.md) - 7 shared documents
-- [Washington](../locations/washington.md) - 7 shared documents
 - [Iraq](../locations/iraq.md) - 7 shared documents
+- [Russia](../locations/russia.md) - 7 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 7 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 7 shared documents
-- [last week](../events/last-week.md) - 5 shared documents
-- [2010](../events/2010.md) - 5 shared documents
 - [2006](../events/2006.md) - 5 shared documents
+- [2010](../events/2010.md) - 5 shared documents
 - [decades](../events/decades.md) - 5 shared documents
-- [2007](../events/2007.md) - 4 shared documents
+- [last week](../events/last-week.md) - 5 shared documents
+- [2005](../events/2005.md) - 4 shared documents
 
 ## Timeline
 

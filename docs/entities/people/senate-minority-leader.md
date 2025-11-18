@@ -25,54 +25,48 @@ Top 6 documents by mention frequency:
 
 **People:**
 
-- [CLINTON](clinton.md) - 6 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 6 shared documents
 - [New 
 York Times](new-york-times.md) - 6 shared documents
 - [Steele](steele.md) - 5 shared documents
 - [Steve Bannon](steve-bannon.md) - 5 shared documents
 - [Mr. Strzok](strzok.md) - 5 shared documents
-- [Mr. 
-Trump](trump.md) - 5 shared documents
 - [Tx 
 Sent](tx-sent.md) - 5 shared documents
 - [Washington Square](washington-square.md) - 5 shared documents
 - [White House Counsel](white-house-counsel.md) - 5 shared documents
 - [Ms. Williams](williams.md) - 5 shared documents
+- [Yahoo News](yahoo-news.md) - 5 shared documents
 
 **Organizations:**
 
+- [Congress](../organizations/congress.md) - 6 shared documents
 - [HOUSE](../organizations/house.md) - 6 shared documents
 - [Senate](../organizations/senate.md) - 6 shared documents
-- [Congress](../organizations/congress.md) - 6 shared documents
-- [Trump](../organizations/trump.md) - 5 shared documents
+- [1050 Connecticut Ave](../organizations/1050-connecticut-ave.md) - 5 shared documents
 - [CIA](../organizations/cia.md) - 5 shared documents
-- [FBI](../organizations/fbi.md) - 5 shared documents
-- [Justice Department](../organizations/justice-department.md) - 5 shared documents
-- [Mueller](../organizations/mueller.md) - 5 shared documents
-- [the Justice Department](../organizations/the-justice-department.md) - 5 shared documents
-- [WSJ](../organizations/wsj.md) - 5 shared documents
 
 **Locations:**
 
-- [Washington](../locations/washington.md) - 6 shared documents
 - [US](../locations/us.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 6 shared documents
 - [London](../locations/london.md) - 5 shared documents
 - [Pennsylvania](../locations/pennsylvania.md) - 5 shared documents
+- [Russia](../locations/russia.md) - 5 shared documents
 
 **Events:**
 
 - [2012](../events/2012.md) - 6 shared documents
 - [months](../events/months.md) - 6 shared documents
-- [2018](../events/2018.md) - 5 shared documents
-- [2016](../events/2016.md) - 5 shared documents
-- [more than a year](../events/more-than-a-year.md) - 5 shared documents
-- [1974](../events/1974.md) - 5 shared documents
-- [May 2017](../events/may-2017.md) - 5 shared documents
-- [Sept
-23](../events/sept-23.md) - 5 shared documents
+- [12:56:55 AM EDT](../events/125655-am-edt.md) - 5 shared documents
 - [1973](../events/1973.md) - 5 shared documents
+- [1974](../events/1974.md) - 5 shared documents
 - [1987](../events/1987.md) - 5 shared documents
+- [2016](../events/2016.md) - 5 shared documents
+- [2018](../events/2018.md) - 5 shared documents
+- [6/23/2018](../events/6232018.md) - 5 shared documents
+- [6:38 p.m.](../events/638-pm.md) - 5 shared documents
 
 ## Timeline
 

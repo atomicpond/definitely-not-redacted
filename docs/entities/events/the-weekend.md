@@ -58,7 +58,7 @@ Top 10 documents by mention frequency:
 - [last year](last-year.md) - 18 shared documents
 - [one day](one-day.md) - 18 shared documents
 - [years](years.md) - 17 shared documents
-- [Sunday](sunday.md) - 17 shared documents
+- [last week](last-week.md) - 17 shared documents
 
 ## Timeline
 

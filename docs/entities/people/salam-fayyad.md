@@ -36,19 +36,19 @@ Top 6 documents by mention frequency:
 
 - [Israel](../locations/israel.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [Middle East](../locations/middle-east.md) - 4 shared documents
 - [Asia](../locations/asia.md) - 4 shared documents
-- [France](../locations/france.md) - 4 shared documents
-- [Jordan](../locations/jordan.md) - 4 shared documents
-- [Saudi Arabia](../locations/saudi-arabia.md) - 4 shared documents
-- [Syria](../locations/syria.md) - 4 shared documents
+- [Berlin](../locations/berlin.md) - 4 shared documents
 - [East](../locations/east.md) - 4 shared documents
 - [Egypt](../locations/egypt.md) - 4 shared documents
+- [France](../locations/france.md) - 4 shared documents
+- [Jordan](../locations/jordan.md) - 4 shared documents
+- [Middle East](../locations/middle-east.md) - 4 shared documents
+- [Saudi Arabia](../locations/saudi-arabia.md) - 4 shared documents
 
 **Events:**
 
-- [2009](../events/2009.md) - 4 shared documents
 - [1973](../events/1973.md) - 4 shared documents
+- [2009](../events/2009.md) - 4 shared documents
 
 ## Timeline
 

@@ -24,35 +24,30 @@ Top 6 documents by mention frequency:
 
 ### Most Frequently Co-occurring Entities
 
-**Organizations:**
-
-- [Fed](fed.md) - 5 shared documents
-
 **Locations:**
 
 - [California](../locations/california.md) - 6 shared documents
 - [England](../locations/england.md) - 6 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
-- [Europe](../locations/europe.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
-- [Texas](../locations/texas.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
 - [Cambridge](../locations/cambridge.md) - 5 shared documents
+- [Europe](../locations/europe.md) - 5 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
 - [San Francisco](../locations/san-francisco.md) - 5 shared documents
+- [Switzerland](../locations/switzerland.md) - 5 shared documents
+- [Texas](../locations/texas.md) - 5 shared documents
 
 **Events:**
 
+- [1980](../events/1980.md) - 6 shared documents
 - [1986](../events/1986.md) - 6 shared documents
-- [2000](../events/2000.md) - 6 shared documents
+- [1995](../events/1995.md) - 6 shared documents
 - [1998](../events/1998.md) - 6 shared documents
+- [2000](../events/2000.md) - 6 shared documents
 - [2001](../events/2001.md) - 6 shared documents
 - [2002](../events/2002.md) - 6 shared documents
-- [1980](../events/1980.md) - 6 shared documents
-- [1995](../events/1995.md) - 6 shared documents
-- [2004](../events/2004.md) - 5 shared documents
-- [1996](../events/1996.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
+- [1929](../events/1929.md) - 5 shared documents
+- [1952](../events/1952.md) - 5 shared documents
+- [1964](../events/1964.md) - 5 shared documents
 
 ## Timeline
 

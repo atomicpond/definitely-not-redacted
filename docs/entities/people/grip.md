@@ -26,12 +26,11 @@ Top 5 documents by mention frequency:
 
 - [Putin Mayhem](putin-mayhem.md) - 5 shared documents
 - [Steve Bannon](steve-bannon.md) - 5 shared documents
-- [Mr. Bannon](bannon.md) - 5 shared documents
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 5 shared documents
 - [GOP](../organizations/gop.md) - 5 shared documents
+- [HOUSE](../organizations/house.md) - 5 shared documents
 
 ## Timeline
 

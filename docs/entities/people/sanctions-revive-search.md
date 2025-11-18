@@ -26,7 +26,7 @@ Top 5 documents by mention frequency:
 
 - [Secret Putin Fortune](secret-putin-fortune.md) - 5 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 5 shared documents
-- [President Obama](president-obama.md) - 4 shared documents
+- [Barack Obama](barack-obama.md) - 4 shared documents
 
 **Organizations:**
 

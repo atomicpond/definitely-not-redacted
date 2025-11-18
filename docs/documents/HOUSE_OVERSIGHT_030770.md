@@ -11,7 +11,7 @@
 ### People
 - [Michael Wolff](../entities/people/michael-wolff.md) - 2 mentions
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 1 mention
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 1 mention
 - [Harvey](../entities/people/harvey.md) - 1 mention
 - [jeffrey E. <](../entities/people/jeffrey-e.md) - 1 mention
 - [Ronan](../entities/people/ronan.md) - 1 mention
@@ -25,7 +25,7 @@
 ### Events/Dates
 - [Mon, Dec 11, 2017](../entities/events/mon-dec-11-2017.md) - 2 mentions
 - [Sunday](../entities/events/sunday.md) - 1 mention
-- [12/11/2017](../entities/events/12112017.md) - 1 mention
+- [12/11/2017](../entities/events/12-11-2017.md) - 1 mention
 
 ## Document Text
 

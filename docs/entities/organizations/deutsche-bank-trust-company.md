@@ -27,18 +27,18 @@ Top 7 documents by mention frequency:
 **People:**
 
 - [Deutsche Bank Trust](../people/deutsche-bank-trust.md) - 6 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Deutsche Asset](../people/deutsche-asset.md) - 5 shared documents
 - [Deutsche Bank](../people/deutsche-bank.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
 - [Wealth Management](../people/wealth-management.md) - 5 shared documents
 
 **Organizations:**
 
-- [Deutsche Bank](deutsche-bank.md) - 5 shared documents
 - [Blanche Lark Christerson](blanche-lark-christerson.md) - 5 shared documents
+- [Deutsche Bank](deutsche-bank.md) - 5 shared documents
+- [Bank](bank.md) - 4 shared documents
 - [Congress](congress.md) - 4 shared documents
 - [Deutsche Bank AG](deutsche-bank-ag.md) - 4 shared documents
-- [Bank](bank.md) - 4 shared documents
 
 **Locations:**
 
@@ -46,13 +46,13 @@ Top 7 documents by mention frequency:
 
 **Events:**
 
-- [2014](../events/2014.md) - 6 shared documents
 - [2012](../events/2012.md) - 6 shared documents
+- [2014](../events/2014.md) - 6 shared documents
 - [monthly](../events/monthly.md) - 5 shared documents
-- [2009](../events/2009.md) - 4 shared documents
 - [2000](../events/2000.md) - 4 shared documents
-- [2011](../events/2011.md) - 4 shared documents
+- [2009](../events/2009.md) - 4 shared documents
 - [2010](../events/2010.md) - 4 shared documents
+- [2011](../events/2011.md) - 4 shared documents
 - [2013](../events/2013.md) - 4 shared documents
 
 ## Timeline

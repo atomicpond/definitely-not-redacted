@@ -72,11 +72,11 @@ Kirkland & Ellis LLP or Kirkland & Ellis International LLP](../organizations/it-
 - [today](today.md) - 9 shared documents
 - [Friday](friday.md) - 8 shared documents
 - [years](years.md) - 6 shared documents
+- [2008](2008.md) - 6 shared documents
 - [2009](2009.md) - 6 shared documents
+- [July](july.md) - 6 shared documents
 - [last year](last-year.md) - 6 shared documents
 - [Monday](monday.md) - 6 shared documents
-- [Sunday](sunday.md) - 6 shared documents
-- [this week](this-week.md) - 6 shared documents
 
 ## Timeline
 

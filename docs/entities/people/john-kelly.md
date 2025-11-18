@@ -30,10 +30,10 @@ Top 5 documents by mention frequency:
 **Organizations:**
 
 - [White House](../organizations/white-house.md) - 5 shared documents
-- [Trump](../organizations/trump.md) - 4 shared documents
-- [the White House](../organizations/the-white-house.md) - 4 shared documents
-- [the Justice Department](../organizations/the-justice-department.md) - 4 shared documents
 - [New York Times](../organizations/new-york-times.md) - 4 shared documents
+- [the Justice Department](../organizations/the-justice-department.md) - 4 shared documents
+- [the White House](../organizations/the-white-house.md) - 4 shared documents
+- [Trump](../organizations/trump.md) - 4 shared documents
 
 **Locations:**
 
@@ -43,9 +43,9 @@ Top 5 documents by mention frequency:
 **Events:**
 
 - [Friday](../events/friday.md) - 5 shared documents
+- [Monday](../events/monday.md) - 4 shared documents
 - [Thursday](../events/thursday.md) - 4 shared documents
 - [today](../events/today.md) - 4 shared documents
-- [Monday](../events/monday.md) - 4 shared documents
 
 ## Timeline
 

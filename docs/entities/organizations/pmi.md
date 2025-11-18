@@ -40,14 +40,14 @@ Top 10 documents by mention frequency:
 
 **Organizations:**
 
-- [Fed](fed.md) - 9 shared documents
 - [ECB](ecb.md) - 9 shared documents
+- [Fed](fed.md) - 9 shared documents
 - [Bloomberg](bloomberg.md) - 8 shared documents
 - [EUR](eur.md) - 8 shared documents
-- [JPY](jpy.md) - 7 shared documents
 - [ABN](abn.md) - 7 shared documents
 - [Bank](bank.md) - 7 shared documents
 - [GBP](gbp.md) - 7 shared documents
+- [JPY](jpy.md) - 7 shared documents
 - [Treasury](treasury.md) - 6 shared documents
 - [Utilities](utilities.md) - 6 shared documents
 
@@ -55,10 +55,10 @@ Top 10 documents by mention frequency:
 
 - [China](../locations/china.md) - 10 shared documents
 - [Japan](../locations/japan.md) - 10 shared documents
-- [Europe](../locations/europe.md) - 9 shared documents
 - [Asia](../locations/asia.md) - 9 shared documents
-- [Italy](../locations/italy.md) - 9 shared documents
 - [EUR](../locations/eur.md) - 9 shared documents
+- [Europe](../locations/europe.md) - 9 shared documents
+- [Italy](../locations/italy.md) - 9 shared documents
 - [Germany](../locations/germany.md) - 8 shared documents
 - [Mexico](../locations/mexico.md) - 8 shared documents
 - [Singapore](../locations/singapore.md) - 8 shared documents
@@ -67,12 +67,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [this year](../events/this-year.md) - 7 shared documents
-- [2000](../events/2000.md) - 6 shared documents
-- [2012](../events/2012.md) - 6 shared documents
-- [July](../events/july.md) - 6 shared documents
-- [last week](../events/last-week.md) - 6 shared documents
-- [the year](../events/the-year.md) - 6 shared documents
 - [10-year](../events/10-year.md) - 6 shared documents
+- [12-month](../events/12-month.md) - 6 shared documents
+- [2000](../events/2000.md) - 6 shared documents
+- [2001](../events/2001.md) - 6 shared documents
+- [2012](../events/2012.md) - 6 shared documents
+- [2013](../events/2013.md) - 6 shared documents
+- [5-year](../events/5-year.md) - 6 shared documents
+- [July](../events/july.md) - 6 shared documents
+- [last month](../events/last-month.md) - 6 shared documents
 
 ## Timeline
 

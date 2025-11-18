@@ -47,15 +47,15 @@ Clinton](bill-clinton.md) - 11 shared documents
 
 - [Harvard](../organizations/harvard.md) - 16 shared documents
 - [WGBH](../organizations/wgbh.md) - 12 shared documents
-- [HOUSE](../organizations/house.md) - 10 shared documents
 - [Harvard University](../organizations/harvard-university.md) - 10 shared documents
+- [HOUSE](../organizations/house.md) - 10 shared documents
 - [American Literature](../organizations/american-literature.md) - 9 shared documents
 - [Cabot Professor of American Literature 
 Harvard University](../organizations/cabot-professor-of-american-literature-harvard-university.md) - 9 shared documents
 - [Greenwich Country Day School](../organizations/greenwich-country-day-school.md) - 9 shared documents
 - [The Nantucket Project](../organizations/the-nantucket-project.md) - 9 shared documents
 - [Harvard Medical School](../organizations/harvard-medical-school.md) - 8 shared documents
-- [The New Yorker](../organizations/the-new-yorker.md) - 8 shared documents
+- [the Harvard Graduate School of Education](../organizations/the-harvard-graduate-school-of-education.md) - 8 shared documents
 
 **Locations:**
 
@@ -63,18 +63,19 @@ Harvard University](../organizations/cabot-professor-of-american-literature-harv
 - [Cambridge](../locations/cambridge.md) - 11 shared documents
 - [templeton](../locations/templeton.md) - 11 shared documents
 - [Boston](../locations/boston.md) - 8 shared documents
-- [Massachusetts](../locations/massachusetts.md) - 6 shared documents
 
 **Events:**
 
+- [2017](../events/2017.md) - 10 shared documents
 - [last year](../events/last-year.md) - 10 shared documents
 - [this year](../events/this-year.md) - 10 shared documents
-- [2017](../events/2017.md) - 10 shared documents
 - [a year later](../events/a-year-later.md) - 7 shared documents
-- [the new year](../events/the-new-year.md) - 6 shared documents
+- [12/2/2015](../events/1222015.md) - 6 shared documents
 - [a year ago](../events/a-year-ago.md) - 6 shared documents
-- [the last year](../events/the-last-year.md) - 6 shared documents
-- [this spring](../events/this-spring.md) - 6 shared documents
+- [early 2016](../events/early-2016.md) - 6 shared documents
+- [eight-episode season](../events/eight-episode-season.md) - 6 shared documents
+- [Overnight](../events/overnight.md) - 6 shared documents
+- [the 17th or 18th](../events/the-17th-or-18th.md) - 6 shared documents
 
 ## Timeline
 

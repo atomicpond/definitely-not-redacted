@@ -34,13 +34,13 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [2014](../events/2014.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [2012](../events/2012.md) - 5 shared documents
-- [daily](../events/daily.md) - 5 shared documents
-- [2011](../events/2011.md) - 5 shared documents
 - [2008](../events/2008.md) - 5 shared documents
+- [2011](../events/2011.md) - 5 shared documents
+- [2012](../events/2012.md) - 5 shared documents
+- [2014](../events/2014.md) - 5 shared documents
+- [daily](../events/daily.md) - 5 shared documents
 - [decades](../events/decades.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [2016](../events/2016.md) - 4 shared documents
 - [2017](../events/2017.md) - 4 shared documents
 - [A few months later](../events/a-few-months-later.md) - 4 shared documents

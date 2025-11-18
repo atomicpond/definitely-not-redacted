@@ -29,10 +29,10 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [2014](../events/2014.md) - 4 shared documents
-- [Thursday](../events/thursday.md) - 4 shared documents
-- [this week](../events/this-week.md) - 4 shared documents
 - [2011](../events/2011.md) - 4 shared documents
+- [2014](../events/2014.md) - 4 shared documents
+- [this week](../events/this-week.md) - 4 shared documents
+- [Thursday](../events/thursday.md) - 4 shared documents
 
 ## Timeline
 

@@ -30,10 +30,8 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](president-obama.md) - 11 shared documents
 - [Barack Obama](barack-obama.md) - 11 shared documents
 - [Middle East](middle-east.md) - 8 shared documents
-- [Mr. Obama](obama.md) - 8 shared documents
 - [White House](white-house.md) - 8 shared documents
 - [Saudi Arabia](saudi-arabia.md) - 7 shared documents
 - [West Bank](west-bank.md) - 5 shared documents
@@ -41,36 +39,35 @@ Top 10 documents by mention frequency:
 **Organizations:**
 
 - [State](../organizations/state.md) - 14 shared documents
-- [HOUSE](../organizations/house.md) - 11 shared documents
 - [CIA](../organizations/cia.md) - 11 shared documents
+- [HOUSE](../organizations/house.md) - 11 shared documents
 - [Congress](../organizations/congress.md) - 9 shared documents
-- [the White House](../organizations/the-white-house.md) - 8 shared documents
 
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 12 shared documents
 - [United States](../locations/united-states.md) - 11 shared documents
-- [Russia](../locations/russia.md) - 10 shared documents
 - [France](../locations/france.md) - 10 shared documents
 - [Iran](../locations/iran.md) - 10 shared documents
-- [Syria](../locations/syria.md) - 10 shared documents
 - [Israel](../locations/israel.md) - 10 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 9 shared documents
-- [Washington](../locations/washington.md) - 9 shared documents
+- [Russia](../locations/russia.md) - 10 shared documents
+- [Syria](../locations/syria.md) - 10 shared documents
 - [Iraq](../locations/iraq.md) - 9 shared documents
+- [Paris](../locations/paris.md) - 9 shared documents
+- [the Middle East](../locations/the-middle-east.md) - 9 shared documents
 
 **Events:**
 
 - [2003](../events/2003.md) - 11 shared documents
 - [today](../events/today.md) - 11 shared documents
-- [2004](../events/2004.md) - 10 shared documents
-- [years](../events/years.md) - 10 shared documents
 - [1990](../events/1990.md) - 10 shared documents
+- [2004](../events/2004.md) - 10 shared documents
 - [2013](../events/2013.md) - 10 shared documents
+- [years](../events/years.md) - 10 shared documents
 - [a year](../events/a-year.md) - 9 shared documents
 - [decades](../events/decades.md) - 9 shared documents
-- [2009](../events/2009.md) - 8 shared documents
-- [annual](../events/annual.md) - 8 shared documents
+- [1973](../events/1973.md) - 8 shared documents
+- [1974](../events/1974.md) - 8 shared documents
 
 ## Timeline
 

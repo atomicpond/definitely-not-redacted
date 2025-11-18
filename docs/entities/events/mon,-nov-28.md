@@ -37,7 +37,7 @@ Top 9 documents by mention frequency:
 **Events:**
 
 - [November 28, 2016](november-28,-2016.md) - 6 shared documents
-- [11/28/2016](11/28/2016.md) - 4 shared documents
+- **11/28/2016** - 4 shared documents
 
 ## Timeline
 

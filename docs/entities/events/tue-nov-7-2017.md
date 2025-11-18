@@ -27,7 +27,7 @@ Top 6 documents by mention frequency:
 
 - [Hank Greenburg](../people/hank-greenburg.md) - 6 shared documents
 - [jeffrey E.](../people/jeffrey-e.md) - 6 shared documents
-- [jeffrey E. <](../people/jeffrey-e.md) - 6 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 6 shared documents
 - [Thomas Jr](../people/thomas-jr.md) - 6 shared documents
 - [Thomas Jr.](../people/thomas-jr.md) - 6 shared documents
 - [jr thomas](../people/jr-thomas.md) - 5 shared documents

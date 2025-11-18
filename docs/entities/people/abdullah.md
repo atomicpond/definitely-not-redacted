@@ -26,26 +26,26 @@ Top 7 documents by mention frequency:
 
 **People:**
 
-- [Mr. Obama](obama.md) - 7 shared documents
+- [Barack Obama](barack-obama.md) - 7 shared documents
 - [Assad](assad.md) - 5 shared documents
 
 **Organizations:**
 
-- [White House](../organizations/white-house.md) - 4 shared documents
 - [State](../organizations/state.md) - 4 shared documents
+- [White House](../organizations/white-house.md) - 4 shared documents
 
 **Locations:**
 
 - [US](../locations/us.md) - 7 shared documents
+- [Egypt](../locations/egypt.md) - 6 shared documents
 - [Iran](../locations/iran.md) - 6 shared documents
 - [Libya](../locations/libya.md) - 6 shared documents
 - [Syria](../locations/syria.md) - 6 shared documents
-- [Egypt](../locations/egypt.md) - 6 shared documents
-- [Middle East](../locations/middle-east.md) - 5 shared documents
 - [China](../locations/china.md) - 5 shared documents
+- [Damascus](../locations/damascus.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
-- [Saudi Arabia](../locations/saudi-arabia.md) - 5 shared documents
+- [Gulf](../locations/gulf.md) - 5 shared documents
+- [Israel](../locations/israel.md) - 5 shared documents
 
 **Events:**
 

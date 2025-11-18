@@ -63,8 +63,8 @@ Top 10 documents by mention frequency:
 - [years](years.md) - 33 shared documents
 - [2009](2009.md) - 33 shared documents
 - [annual](annual.md) - 29 shared documents
-- [daily](daily.md) - 28 shared documents
 - [2002](2002.md) - 28 shared documents
+- [daily](daily.md) - 28 shared documents
 - [2004](2004.md) - 27 shared documents
 - [2000](2000.md) - 25 shared documents
 - [2010](2010.md) - 25 shared documents

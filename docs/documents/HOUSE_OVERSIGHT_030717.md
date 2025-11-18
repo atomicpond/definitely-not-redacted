@@ -11,7 +11,7 @@
 ### People
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 2 mentions
 - [Mark L. Epstein](../entities/people/mark-l-epstein.md) - 2 mentions
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 1 mention
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 1 mention
 - [Putin](../entities/people/putin.md) - 1 mention
 - [DONALD](../entities/people/donald.md) - 1 mention
 - [jeffrey E. <](../entities/people/jeffrey-e.md) - 1 mention

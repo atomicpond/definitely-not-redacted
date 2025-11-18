@@ -37,7 +37,7 @@ Top 8 documents by mention frequency:
 - [Sofia Coppola](sofia-coppola.md) - 6 shared documents
 - [Steven Pfeiffer](steven-pfeiffer.md) - 6 shared documents
 - [Willem Dafoe](willem-dafoe.md) - 6 shared documents
-- [Jeffrey E](jeffrey-e.md) - 6 shared documents
+- [Adam Sandler](adam-sandler.md) - 6 shared documents
 
 **Organizations:**
 
@@ -57,8 +57,8 @@ Independent](../organizations/development-independent.md) - 6 shared documents
 
 - [New York City](../locations/new-york-city.md) - 7 shared documents
 - [N.Y.](../locations/ny.md) - 6 shared documents
-- [New York](../locations/new-york.md) - 5 shared documents
 - [Brooklyn](../locations/brooklyn.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
 
 **Events:**
 

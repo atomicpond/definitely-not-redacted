@@ -13,9 +13,9 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Obama](../entities/people/mr-obama.md) - 2 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 2 mentions
 - [Mr. 
-President](../entities/people/mr-president.md) - 2 mentions
+President](../entities/people/president.md) - 2 mentions
 - [United 
 States](../entities/people/united-states.md) - 1 mention
 - [Tiger Woods](../entities/people/tiger-woods.md) - 1 mention

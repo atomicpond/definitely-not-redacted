@@ -71,8 +71,8 @@ Top 10 documents by mention frequency:
 - [1993](1993.md) - 15 shared documents
 - [2008](2008.md) - 15 shared documents
 - [one day](one-day.md) - 14 shared documents
-- [2012](2012.md) - 14 shared documents
 - [2002](2002.md) - 14 shared documents
+- [2012](2012.md) - 14 shared documents
 
 ## Timeline
 

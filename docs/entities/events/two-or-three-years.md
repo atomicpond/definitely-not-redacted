@@ -55,16 +55,16 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [2004](2004.md) - 4 shared documents
-- [2007](2007.md) - 4 shared documents
-- [2015](2015.md) - 4 shared documents
-- [that day](that-day.md) - 4 shared documents
-- [the 1980s](the-1980s.md) - 4 shared documents
-- [today](today.md) - 4 shared documents
-- [2012](2012.md) - 4 shared documents
-- [the year](the-year.md) - 4 shared documents
-- [2011](2011.md) - 4 shared documents
 - [1970](1970.md) - 4 shared documents
+- [1990](1990.md) - 4 shared documents
+- [1993](1993.md) - 4 shared documents
+- [1997](1997.md) - 4 shared documents
+- [1998](1998.md) - 4 shared documents
+- [1999](1999.md) - 4 shared documents
+- [20 years](20-years.md) - 4 shared documents
+- [2001](2001.md) - 4 shared documents
+- [2004](2004.md) - 4 shared documents
+- [2005](2005.md) - 4 shared documents
 
 ## Timeline
 

@@ -29,13 +29,9 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 20 shared documents
-- [Barack Obama](../people/barack-obama.md) - 14 shared documents
-- [Epstein](../people/epstein.md) - 12 shared documents
 - [Los Angeles](../people/los-angeles.md) - 12 shared documents
 - [Middle East](../people/middle-east.md) - 12 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 10 shared documents
-- [President Obama](../people/president-obama.md) - 10 shared documents
 - [San Francisco](../people/san-francisco.md) - 10 shared documents
 
 **Organizations:**
@@ -57,12 +53,12 @@ Top 10 documents by mention frequency:
 - [America](../locations/america.md) - 32 shared documents
 - [Washington](../locations/washington.md) - 29 shared documents
 - [the United States](../locations/the-united-states.md) - 27 shared documents
-- [United States](../locations/united-states.md) - 24 shared documents
 - [Europe](../locations/europe.md) - 24 shared documents
+- [United States](../locations/united-states.md) - 24 shared documents
 - [Australia](../locations/australia.md) - 23 shared documents
-- [China](../locations/china.md) - 21 shared documents
 - [Britain](../locations/britain.md) - 21 shared documents
-- [New York](../locations/new-york.md) - 20 shared documents
+- [China](../locations/china.md) - 21 shared documents
+- [England](../locations/england.md) - 20 shared documents
 
 **Events:**
 
@@ -70,11 +66,11 @@ Top 10 documents by mention frequency:
 - [2008](../events/2008.md) - 30 shared documents
 - [2014](../events/2014.md) - 26 shared documents
 - [2007](../events/2007.md) - 25 shared documents
-- [daily](../events/daily.md) - 24 shared documents
 - [2006](../events/2006.md) - 24 shared documents
+- [daily](../events/daily.md) - 24 shared documents
 - [2003](../events/2003.md) - 23 shared documents
-- [years](../events/years.md) - 22 shared documents
 - [weeks](../events/weeks.md) - 22 shared documents
+- [years](../events/years.md) - 22 shared documents
 - [2009](../events/2009.md) - 21 shared documents
 
 ## Timeline

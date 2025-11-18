@@ -60,28 +60,27 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [America](../locations/america.md) - 14 shared documents
-- [China](../locations/china.md) - 10 shared documents
 - [Cambridge](../locations/cambridge.md) - 10 shared documents
+- [China](../locations/china.md) - 10 shared documents
 - [Massachusetts](../locations/massachusetts.md) - 10 shared documents
 - [the United States](../locations/the-united-states.md) - 8 shared documents
 - [United States](../locations/united-states.md) - 7 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
 - [Germany](../locations/germany.md) - 6 shared documents
 - [Paris](../locations/paris.md) - 6 shared documents
-- [New York](../locations/new-york.md) - 5 shared documents
+- [Russia](../locations/russia.md) - 6 shared documents
 
 **Events:**
 
-- [last year](../events/last-year.md) - 8 shared documents
 - [2017](../events/2017.md) - 8 shared documents
+- [last year](../events/last-year.md) - 8 shared documents
 - [the year](../events/the-year.md) - 8 shared documents
 - [2004](../events/2004.md) - 7 shared documents
-- [2018](../events/2018.md) - 7 shared documents
 - [2014](../events/2014.md) - 7 shared documents
 - [2016](../events/2016.md) - 7 shared documents
-- [today](../events/today.md) - 7 shared documents
-- [this year](../events/this-year.md) - 7 shared documents
+- [2018](../events/2018.md) - 7 shared documents
 - [the years](../events/the-years.md) - 7 shared documents
+- [this year](../events/this-year.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
 
 ## Timeline
 

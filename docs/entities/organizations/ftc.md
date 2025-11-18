@@ -30,9 +30,8 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Trump](../people/president-trump.md) - 6 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 4 shared documents
+- [Donald 
+Trump](../people/donald-trump.md) - 6 shared documents
 
 **Organizations:**
 
@@ -42,36 +41,34 @@ Trump](../people/trump.md) - 4 shared documents
 - [Google](google.md) - 5 shared documents
 - [Microsoft](microsoft.md) - 5 shared documents
 - [Twitter](twitter.md) - 5 shared documents
-- [Facebook](facebook.md) - 5 shared documents
 - [Amazon](amazon.md) - 5 shared documents
 - [Apple](apple.md) - 5 shared documents
+- [Facebook](facebook.md) - 5 shared documents
 - [Senate](senate.md) - 4 shared documents
 
 **Locations:**
 
 - [Europe](../locations/europe.md) - 7 shared documents
+- [the United States](../locations/the-united-states.md) - 6 shared documents
 - [United States](../locations/united-states.md) - 6 shared documents
 - [Washington](../locations/washington.md) - 6 shared documents
-- [the United States](../locations/the-united-states.md) - 6 shared documents
+- [Asia](../locations/asia.md) - 5 shared documents
 - [China](../locations/china.md) - 5 shared documents
 - [London](../locations/london.md) - 5 shared documents
-- [Asia](../locations/asia.md) - 5 shared documents
 - [Miami](../locations/miami.md) - 5 shared documents
-- [New York, NY](../locations/new-york-ny.md) - 4 shared documents
-- [Mexico](../locations/mexico.md) - 4 shared documents
 
 **Events:**
 
 - [years](../events/years.md) - 9 shared documents
-- [2018](../events/2018.md) - 7 shared documents
-- [2015](../events/2015.md) - 7 shared documents
-- [today](../events/today.md) - 7 shared documents
 - [2012](../events/2012.md) - 7 shared documents
 - [2013](../events/2013.md) - 7 shared documents
-- [this year](../events/this-year.md) - 6 shared documents
+- [2015](../events/2015.md) - 7 shared documents
+- [2018](../events/2018.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
 - [monthly](../events/monthly.md) - 6 shared documents
-- [Wednesday](../events/wednesday.md) - 5 shared documents
-- [last year](../events/last-year.md) - 5 shared documents
+- [this year](../events/this-year.md) - 6 shared documents
+- [1993](../events/1993.md) - 5 shared documents
+- [2001](../events/2001.md) - 5 shared documents
 
 ## Timeline
 

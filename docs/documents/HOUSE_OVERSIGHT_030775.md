@@ -10,7 +10,7 @@
 
 ### People
 - [Michael Wolff](../entities/people/michael-wolff.md) - 3 mentions
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 2 mentions
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 2 mentions
 - [jeffrey E. <](../entities/people/jeffrey-e.md) - 2 mentions
 - [Bill Maher](../entities/people/bill-maher.md) - 1 mention
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention

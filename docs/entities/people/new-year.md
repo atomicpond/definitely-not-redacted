@@ -44,21 +44,19 @@ Top 10 documents by mention frequency:
 
 - [Harvard](../organizations/harvard.md) - 23 shared documents
 - [FBI](../organizations/fbi.md) - 18 shared documents
-- [Times](../organizations/times.md) - 14 shared documents
 - [the New York Times](../organizations/the-new-york-times.md) - 14 shared documents
+- [Times](../organizations/times.md) - 14 shared documents
 - [Treasury](../organizations/treasury.md) - 13 shared documents
-- [HOUSE](../organizations/house.md) - 12 shared documents
 
 **Locations:**
 
 - [America](../locations/america.md) - 23 shared documents
 - [Europe](../locations/europe.md) - 18 shared documents
-- [Paris](../locations/paris.md) - 16 shared documents
 - [Boston](../locations/boston.md) - 16 shared documents
+- [Paris](../locations/paris.md) - 16 shared documents
 - [Britain](../locations/britain.md) - 14 shared documents
-- [the United States](../locations/the-united-states.md) - 13 shared documents
 - [Israel](../locations/israel.md) - 13 shared documents
-- [California](../locations/california.md) - 12 shared documents
+- [the United States](../locations/the-united-states.md) - 13 shared documents
 
 **Events:**
 
@@ -69,9 +67,9 @@ Top 10 documents by mention frequency:
 - [two years](../events/two-years.md) - 18 shared documents
 - [2002](../events/2002.md) - 17 shared documents
 - [the day](../events/the-day.md) - 17 shared documents
-- [this year](../events/this-year.md) - 16 shared documents
 - [2006](../events/2006.md) - 16 shared documents
-- [2004](../events/2004.md) - 15 shared documents
+- [this year](../events/this-year.md) - 16 shared documents
+- [1980](../events/1980.md) - 15 shared documents
 
 ## Timeline
 

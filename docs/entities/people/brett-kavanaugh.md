@@ -30,14 +30,13 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Supreme Court](supreme-court.md) - 11 shared documents
-- [Mr. 
-Trump](trump.md) - 11 shared documents
 - [Mr. Kavanaugh](kavanaugh.md) - 8 shared documents
 - [White House](white-house.md) - 8 shared documents
 - [Christine Blasey Ford](christine-blasey-ford.md) - 7 shared documents
+- [Donald 
+Trump](donald-trump.md) - 7 shared documents
 - [New 
 York Times](new-york-times.md) - 7 shared documents
-- [President Trump](president-trump.md) - 7 shared documents
 - [Hillary Clinton](hillary-clinton.md) - 6 shared documents
 - [Judge Brett Kavanaugh](judge-brett-kavanaugh.md) - 6 shared documents
 - [Dr. Blasey](blasey.md) - 5 shared documents
@@ -46,34 +45,34 @@ York Times](new-york-times.md) - 7 shared documents
 
 - [Supreme Court](../organizations/supreme-court.md) - 12 shared documents
 - [Senate](../organizations/senate.md) - 9 shared documents
-- [Trump](../organizations/trump.md) - 7 shared documents
 - [New York Times](../organizations/new-york-times.md) - 7 shared documents
+- [Trump](../organizations/trump.md) - 7 shared documents
 - [the New York Times](../organizations/the-new-york-times.md) - 6 shared documents
 - [HOUSE](../organizations/house.md) - 5 shared documents
-- [Times](../organizations/times.md) - 5 shared documents
 - [The New Yorker](../organizations/the-new-yorker.md) - 5 shared documents
 - [the Supreme Court](../organizations/the-supreme-court.md) - 5 shared documents
-- [GOP](../organizations/gop.md) - 4 shared documents
+- [Times](../organizations/times.md) - 5 shared documents
+- [Congress](../organizations/congress.md) - 4 shared documents
 
 **Locations:**
 
 - [US](../locations/us.md) - 8 shared documents
 - [New York](../locations/new-york.md) - 7 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
 - [Iowa](../locations/iowa.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 
 - [Monday](../events/monday.md) - 8 shared documents
 - [Thursday](../events/thursday.md) - 7 shared documents
 - [2016](../events/2016.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
+- [24, 2018](../events/24-2018.md) - 5 shared documents
 - [last year](../events/last-year.md) - 5 shared documents
+- [Sept](../events/sept.md) - 5 shared documents
 - [Sunday](../events/sunday.md) - 5 shared documents
 - [this week](../events/this-week.md) - 5 shared documents
-- [Sept](../events/sept.md) - 5 shared documents
-- [24, 2018](../events/24-2018.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [daily](../events/daily.md) - 4 shared documents
 
 ## Timeline

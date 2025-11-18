@@ -10,7 +10,7 @@
 
 ### People
 - [Mr. 
-Dershowitz](../entities/people/mr-dershowitz.md) - 1 mention
+Dershowitz](../entities/people/alan-dershowitz.md) - 1 mention
 
 ### Organizations
 - [AOL](../entities/organizations/aol.md) - 1 mention

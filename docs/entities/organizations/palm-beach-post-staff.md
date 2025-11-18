@@ -44,8 +44,8 @@ Top 8 documents by mention frequency:
 - [FBI](fbi.md) - 6 shared documents
 - [State](state.md) - 5 shared documents
 - [the Federal Bureau of Investigation](the-federal-bureau-of-investigation.md) - 5 shared documents
-- [HOUSE](house.md) - 5 shared documents
 - [Harvard](harvard.md) - 5 shared documents
+- [HOUSE](house.md) - 5 shared documents
 - [Maxwell](maxwell.md) - 5 shared documents
 - [Office](office.md) - 5 shared documents
 
@@ -53,27 +53,27 @@ Top 8 documents by mention frequency:
 
 - [Florida](../locations/florida.md) - 8 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 8 shared documents
-- [West Palm Beach](../locations/west-palm-beach.md) - 8 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 8 shared documents
+- [West Palm Beach](../locations/west-palm-beach.md) - 8 shared documents
 - [Miami](../locations/miami.md) - 7 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 6 shared documents
+- [United States](../locations/united-states.md) - 6 shared documents
 - [Manhattan](../locations/manhattan.md) - 5 shared documents
 - [New Mexico](../locations/new-mexico.md) - 5 shared documents
-- [South Florida](../locations/south-florida.md) - 5 shared documents
+- [Palm Beach, FL](../locations/palm-beach-fl.md) - 5 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 6 shared documents
-- [Wednesday](../events/wednesday.md) - 6 shared documents
-- [last year](../events/last-year.md) - 6 shared documents
-- [Monday](../events/monday.md) - 6 shared documents
-- [last week](../events/last-week.md) - 6 shared documents
-- [Friday](../events/friday.md) - 6 shared documents
-- [months](../events/months.md) - 6 shared documents
-- [a year](../events/a-year.md) - 6 shared documents
 - [14](../events/14.md) - 6 shared documents
 - [14-year-old](../events/14-year-old.md) - 6 shared documents
+- [a year](../events/a-year.md) - 6 shared documents
+- [Friday](../events/friday.md) - 6 shared documents
+- [last week](../events/last-week.md) - 6 shared documents
+- [last year](../events/last-year.md) - 6 shared documents
+- [Monday](../events/monday.md) - 6 shared documents
+- [months](../events/months.md) - 6 shared documents
+- [today](../events/today.md) - 6 shared documents
+- [Wednesday](../events/wednesday.md) - 6 shared documents
 
 ## Timeline
 

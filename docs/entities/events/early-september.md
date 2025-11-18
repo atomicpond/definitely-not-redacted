@@ -69,9 +69,9 @@ Top 10 documents by mention frequency:
 - [Sunday](sunday.md) - 13 shared documents
 - [two years](two-years.md) - 13 shared documents
 - [tomorrow](tomorrow.md) - 12 shared documents
-- [2002](2002.md) - 11 shared documents
 - [1982](1982.md) - 11 shared documents
 - [1994](1994.md) - 11 shared documents
+- [2002](2002.md) - 11 shared documents
 - [last year](last-year.md) - 10 shared documents
 - [Saturday](saturday.md) - 10 shared documents
 - [September](september.md) - 10 shared documents

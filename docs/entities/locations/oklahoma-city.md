@@ -41,23 +41,19 @@ Top 8 documents by mention frequency:
 - [Virginia](virginia.md) - 5 shared documents
 - [Maryland](maryland.md) - 5 shared documents
 - [Oklahoma](oklahoma.md) - 5 shared documents
-- [D.C.](dc.md) - 4 shared documents
-- [Florida](florida.md) - 4 shared documents
-- [France](france.md) - 4 shared documents
-- [Ohio](ohio.md) - 4 shared documents
 
 **Events:**
 
-- [daily](../events/daily.md) - 6 shared documents
 - [1993](../events/1993.md) - 6 shared documents
 - [1997](../events/1997.md) - 6 shared documents
 - [1999](../events/1999.md) - 6 shared documents
-- [2000](../events/2000.md) - 5 shared documents
-- [1985](../events/1985.md) - 5 shared documents
+- [daily](../events/daily.md) - 6 shared documents
+- [1983](../events/1983.md) - 5 shared documents
 - [1984](../events/1984.md) - 5 shared documents
+- [1985](../events/1985.md) - 5 shared documents
 - [1987](../events/1987.md) - 5 shared documents
 - [1988](../events/1988.md) - 5 shared documents
-- [several years](../events/several-years.md) - 5 shared documents
+- [1991](../events/1991.md) - 5 shared documents
 
 ## Timeline
 

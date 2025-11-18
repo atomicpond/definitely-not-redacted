@@ -36,29 +36,29 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Dubai](../locations/dubai.md) - 5 shared documents
-- [China](../locations/china.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
+- [Australia](../locations/australia.md) - 5 shared documents
 - [Brazil](../locations/brazil.md) - 5 shared documents
 - [Canada](../locations/canada.md) - 5 shared documents
-- [Mexico](../locations/mexico.md) - 5 shared documents
+- [Chile](../locations/chile.md) - 5 shared documents
+- [China](../locations/china.md) - 5 shared documents
+- [Dubai](../locations/dubai.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
 - [Iraq](../locations/iraq.md) - 5 shared documents
-- [Saudi Arabia](../locations/saudi-arabia.md) - 5 shared documents
-- [Syria](../locations/syria.md) - 5 shared documents
+- [Israel](../locations/israel.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
 
 **Events:**
 
-- [2018](../events/2018.md) - 5 shared documents
-- [2015](../events/2015.md) - 5 shared documents
-- [annual](../events/annual.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [2020](../events/2020.md) - 5 shared documents
-- [monthly](../events/monthly.md) - 5 shared documents
 - [10-year](../events/10-year.md) - 5 shared documents
 - [2001](../events/2001.md) - 5 shared documents
 - [2006](../events/2006.md) - 5 shared documents
+- [2015](../events/2015.md) - 5 shared documents
+- [2018](../events/2018.md) - 5 shared documents
+- [2020](../events/2020.md) - 5 shared documents
+- [annual](../events/annual.md) - 5 shared documents
+- [monthly](../events/monthly.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
+- [years](../events/years.md) - 5 shared documents
 
 ## Timeline
 

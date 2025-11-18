@@ -57,169 +57,263 @@ Sender](../entities/people/yep-sender.md) - 1 mention
 
 ## Document Text
 
+**Thread-like Conversation View:**
+
 ```
-**Source Entr**: H\Macintosh HD\root\Users\jee\Library\Messages\Archive\2018-04-0911M 
-on 2018-04-03 at 13.52.31.ichat 
-Service: iMessage 
-**Start Time**: 04/03/18 10:52:31 AM (544470751) 
-**End Time**: **04/09/18** 04:15:37 PM (545008537) 
-**Last Message** ID: 14613 
-**Chat Room**: 
-Participants: jee, 
-Presentity IDs: e:jeeitunes@gmail.com, 
-Messages - 
-Sender: e:jeeitunes@gmail.com 
-Time: 04/03/18 10:52:31 AM (544470751) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 6D867E62-6BDD-490E-8079-4B3F06394383 
-Message: DJT is certainly moving back to your base. Good job 
-Sender: 
-Time: 04/03/18 11:44:40 AM (544473880) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: AA07265D-D6BF-4FB2-BA96-4E593C212B33 
-Message: **Thanks 
-Sender**: e:jeeitunes@gmail.com 
-Time: 04/03/18 12:37:32 PM (544477052) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: D9F7679C-A1A3-4F65-8A7B-ODA9AAEF0535 
-Message: He should leave **Syria** in exchange for the iraniians leaving **Yemen** 
-Sender: e:jeeitunes@gmail.com 
-Time: 04/04/18 11:32:44 AM (544559564) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: DEFB18A2-5584-48DF-9D29-FF5EDA633998 
-Message: Interesting crypto , everyone wants in. So amusing 
-**HOUSE** OVERSIGHT 027260 
-Sender: 
-Time: 04/04/18 11:33:25 AM (544559605) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 4D47F229-F0F6-449A-ABAC-757372B3891B 
-Message: It's the future mr goetz (Chinatown) 
-Sender: e:jeeitunes@gmail.com 
-Time: 04/04/18 11:33:50 AM (544559630) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 05D7480D-C2C3-4E11-989A-9A1FD670DDD2 
-Message: My nose !!!! 
-Sender: e:jeeitunes@gmail.com 
-Time: 04/04/18 **12:01:18** PM (544561278) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 969BEEB9-863E-4C91-9C35-224AD468B051 
-Message: Jake Gittes : How much are you worth? Noah Cross : I have no idea. How much 
-do you want? Jake Gittes : I just wanna know what you're worth. More than 10 million? 
-Noah Cross : Oh my, yes! Jake Gittes : Why are you doing it? How much better can you 
-eat? What could you buy that you can't already afford? 
-Sender: ___________________ 
-Time: 04/04/18 12:36:04 PM (544563364) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 1992C3BB-8F64-4603-8BE3-C7A77516D8D3 
-Message: Love this film 
-Sender: e:jeeitunes@gmail.com 
-Time: 04/04/18 03:44:25 PM (544574665) 
-Flags: 1150981 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 056287D4-3372-4FF0-9AF4-C8F801946011 
-Message: https://www.usnews.com/news/world/articles/2018-04-04/us-plans-to-sanction-
-russian-oligarchs-this-week-sources 
-**HOUSE** OVERSIGHT 027261 
-Sender: e:jeeitunes@gmail.com 
-Time: 04/04/18 03:45:30 PM (544574730) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 9E3117A2-32FF-4150-8872-50352B53BF5E 
-Message: Well at least it is their elite and not ours 
-Sender: e:jeeitunes@gmail.com 
-Time: 04/04/18 04:18:42 PM (544576722) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 62A15155-E933-494E-AD1C-11351B942C6E 
-Message: Are you in ny **next week** 
-Sender: e:jeeitunes@gmail.com 
-Time: 04/04/18 07:33:44 PM (544588424) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: CF26496D-FOBA-4077-82B5-52810A55EC6C 
-Message: ? 
-Sender: e:jeeitunes@gmail.com 
-Time: 04/04/18 08:00:25 PM (544590025) 
-Flags: 1150981 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 01115362-A3D8-43BE-A451-065C6A49F560 
-Message: Woody Allen dinner tues if you like to join 
-Sender: e:jeeitunes@gmail.com 
-Time: 04/05/18 10:10:42 AM (544641042) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 76BDA8CC-D93A-42C5-8772-FF0445D71F9D 
-Message: I liked your fuck Wall Street statement. Don't know how you are doing it but 
-it seems he is following your lead. 
-Sender: 
-Time: 04/05/18 10:16:22 AM (544641382) 
-**HOUSE** OVERSIGHT 027262 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 4C9AC652-26B4-4902-A75F-7D74C40E1A13 
-Message: 1000%--- I have Kudlow and **Bolton** in there 
-Sender: e:jeeitunes@gmail.com 
-Time: 04/05/18 01:41:49 PM (544653709) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 54541181-F61B-47A3-95FD-BD8CCE6AD484 
-Message: Nice to finally have good soldiers for you 
-Sender: 
-Time: 04/05/18 01:57:56 PM (544654676) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 7AA123EE-7900-4B0B-8EA1-AC726D354940 
-Message: Old soldiers looking for a gig 
-Sender: e:jeeitunes@gmail.com 
-Time: 04/05/18 01:58:37 PM (544654717) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 167769F0-0CDB-43E2-B40E-810CCDBA0527 
-Message: Yes but its funny as it is obvious that they now have a boss. . good for you 
-Sender: e:jeeitunes@gmail.com 
-Time: 04/06/18 09:44:55 AM (544725895) 
-Flags: 1150981 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 5CB309E1-DBD2-4F31-942C-7287513E9F9C 
-Message: HBJ sun. MBS mon. **Paris** I'm not back until tues 
-Sender: 
-Time: 04/06/18 09:47:20 AM (544726040) 
-Flags: 1060865 
-**Is Read**: Yes 
-**HOUSE** OVERSIGHT 027263 
-**Is Invitation**: No 
-**GUID**: E122C364-E3B0-4EDB-8FAA-E69D1C8B1D05 
-Message: Very cool 
-Sender: e:jeeitunes@gmail.com 
-Time: 04/07/18 02:13:04 AM (544785184) 
-Flags: 
+
+======================================================================
+Tuesday, April 03, 2018
+======================================================================
+
+E:jeeitunes [10:52 AM]:
+  
+
+Unknown [11:44 AM]:
+  DJT is certainly moving back to your base. Good job
+
+E:jeeitunes [12:37 PM]:
+  Thanks
+
+
+======================================================================
+Wednesday, April 04, 2018
+======================================================================
+
+E:jeeitunes [11:32 AM]:
+  He should leave syria in exchange for the iraniians leaving Yemen
+
+Unknown [11:33 AM]:
+  Interesting crypto , everyone wants in. So amusing
+
+E:jeeitunes [11:33 AM]:
+  It's the future mr goetz (Chinatown)
+
+E:jeeitunes [12:01 PM]:
+  My nose !!!!
+
+Unknown [12:36 PM]:
+  Jake Gittes : How much are you worth? Noah Cross : I have no idea. How much
+
+E:jeeitunes [3:44 PM]:
+  Love this film
+
+E:jeeitunes [3:45 PM]:
+  https://www.usnews.com/news/world/articles/2018-04-04/us-plans-to-sanction-
+
+E:jeeitunes [4:18 PM]:
+  Well at least it is their elite and not ours
+
+E:jeeitunes [7:33 PM]:
+  Are you in ny next week
+
+E:jeeitunes [8:00 PM]:
+  ?
+
+
+======================================================================
+Thursday, April 05, 2018
+======================================================================
+
+E:jeeitunes [10:10 AM]:
+  Woody Allen dinner tues if you like to join
+
+Unknown [10:16 AM]:
+  I liked your fuck Wall Street statement. Don't know how you are doing it but
+
+E:jeeitunes [1:41 PM]:
+  1000%--- I have Kudlow and Bolton in there
+
+Unknown [1:57 PM]:
+  Nice to finally have good soldiers for you
+
+E:jeeitunes [1:58 PM]:
+  Old soldiers looking for a gig
+
+
+======================================================================
+Friday, April 06, 2018
+======================================================================
+
+E:jeeitunes [9:44 AM]:
+  Yes but its funny as it is obvious that they now have a boss. . good for you
+
+Unknown [9:47 AM]:
+  HBJ sun. MBS mon. Paris I'm not back until tues
+
+
+======================================================================
+Saturday, April 07, 2018
+======================================================================
+
+E:jeeitunes [2:13 AM]:
+  Very cool
+
+E:jeeitunes [4:41 AM]:
+  Suleiman Kerimov is being designated for being an official of the Government
+
+Unknown [5:25 AM]:
+  Also great story from head of NATO. When meeting Donald wanted to talk
+
+
+======================================================================
+Sunday, April 08, 2018
+======================================================================
+
+E:jeeitunes [7:01 AM]:
+  Of course
+
+Unknown [7:04 AM]:
+  When are you next in Europe?
+
+E:jeeitunes [7:34 AM]:
+  1 May in nice -- have been invited to speak @ a gathering of the tribes
+
+Unknown [7:54 AM]:
+  Good boy
+
+E:jeeitunes [8:11 AM]:
+  NYT has proposed page 1 interview on china/ trump
+
+E:jeeitunes [9:33 AM]:
+  Finally
+
+Unknown [9:35 AM]:
+  How long will you stain Europe . ? Stay in
+
+E:jeeitunes [9:36 AM]:
+  Being worked out
+
+E:jeeitunes [9:37 AM]:
+  I wonder if stain Europe was more appropriate.
+
+Unknown [9:37 AM]:
+  Back in New York tomrw nigh
+
+E:jeeitunes [9:37 AM]:
+  Eurabia
+
+E:jeeitunes [9:38 AM]:
+  More like yourlabiia
+
+Unknown [9:38 AM]:
+  They are so much like women
+
+E:jeeitunes [9:38 AM]:
+  The worst aspects of women
+
+E:jeeitunes [9:45 AM]:
+  bingo
+
+Unknown [9:46 AM]:
+  HBJ. Asking me what is the china strategy. .
+
+E:jeeitunes [9:47 AM]:
+  SKB: full strategic initiative with 301 intellectual property as tip of the
+
+Unknown [9:47 AM]:
+  MBS has the Louvre and 400 guards. To himself , Im on the way oveer
+
+Unknown [9:48 AM]:
+  No better way to spend s Sunday
+
+E:jeeitunes [9:48 AM]:
+  Trump: 'xi my friend'
+
+E:jeeitunes [9:48 AM]:
+  Its Russian easter. - do you plan to come to ny?
+
+Unknown [9:48 AM]:
+  As we both know. That category is empty
+
+Unknown [9:48 AM]:
+  In dc until Bahamas visit
+
+E:jeeitunes [9:49 AM]:
+  Then cambridge
+
+Unknown [9:49 AM]:
+  Bahamas?
+
+Unknown [9:50 AM]:
+  I have Thornton in from Beijing with Kudlow Tuesday
+
+E:jeeitunes [9:52 AM]:
+  2 days with former soros partner that is big sponsor of my work
+
+Unknown [9:52 AM]:
+  Understood. Do you know what day Bahamas ? Fyi Terje Larsen meeting
+
+Unknown [9:53 AM]:
+  I'm in dc wed
+
+E:jeeitunes [3:40 PM]:
+  Bahamas go thu morning return to cambridge late Friday night
+
+E:jeeitunes [3:41 PM]:
+  Urban scaring the shit out of europe
+
+E:jeeitunes [3:41 PM]:
+  Urban
+
+Unknown [3:46 PM]:
+  Orbahn
+
+E:jeeitunes [3:47 PM]:
+  Uve seen my quote all over about him
+
+
+======================================================================
+Monday, April 09, 2018
+======================================================================
+
+E:jeeitunes [1:11 AM]:
+  Nope
+
+Unknown [3:30 AM]:
+  Terje in dc. On the 18th. World bank
+
+E:jeeitunes [11:35 AM]:
+  K
+
+Unknown [11:45 AM]:
+  Hey, im thinking of going to Florida Friday, would you and yours like to come
+
+E:jeeitunes [11:46 AM]:
+  Would love to but they are now flying me to cambridge Friday night for 3 days
+
+Unknown [11:49 AM]:
+  No problem. . rick ,can t believe there is gambling going on
+
+E:jeeitunes [1:15 PM]:
+  LOL!
+
+E:jeeitunes [2:15 PM]:
+  Fbi raids Cohen office
+
+Unknown [2:18 PM]:
+  Wonder if they had to assert crime fraud
+
+E:jeeitunes [2:19 PM]:
+  I'm getting full scope
+
+Unknown [2:21 PM]:
+  To get the warrant they would have had to convince the judge that more than
+
+E:jeeitunes [2:21 PM]:
+  Exactly
+
+Unknown [2:22 PM]:
+  Im sittin here with Kathy rummer. If you have any questions
+
+E:jeeitunes [2:25 PM]:
+  Stand by
+
+Unknown [2:26 PM]:
+  Also his residence
+
+E:jeeitunes [4:15 PM]:
+  Yep
+
 ```
 
 *[Text truncated to 5000 characters]*

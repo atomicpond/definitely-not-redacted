@@ -25,17 +25,17 @@ Top 5 documents by mention frequency:
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
+- [Europe](../locations/europe.md) - 4 shared documents
 
 **Events:**
 
 - [2007](../events/2007.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
 - [2014](../events/2014.md) - 4 shared documents
 - [annual](../events/annual.md) - 4 shared documents
-- [this week](../events/this-week.md) - 4 shared documents
 - [July](../events/july.md) - 4 shared documents
-- [2008](../events/2008.md) - 4 shared documents
+- [this week](../events/this-week.md) - 4 shared documents
 
 ## Timeline
 

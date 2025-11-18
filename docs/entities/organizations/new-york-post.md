@@ -44,11 +44,11 @@ Top 10 documents by mention frequency:
 
 - [Harvard](harvard.md) - 16 shared documents
 - [FBI](fbi.md) - 14 shared documents
-- [HOUSE](house.md) - 12 shared documents
 - [Daily Mail](daily-mail.md) - 12 shared documents
+- [HOUSE](house.md) - 12 shared documents
 - [Rockefeller](rockefeller.md) - 11 shared documents
-- [Google](google.md) - 11 shared documents
 - [Bear Stearns](bear-stearns.md) - 11 shared documents
+- [Google](google.md) - 11 shared documents
 - [The New York Post](the-new-york-post.md) - 10 shared documents
 - [Vanity Fair](vanity-fair.md) - 10 shared documents
 - [Ponzi](ponzi.md) - 9 shared documents
@@ -60,24 +60,24 @@ Top 10 documents by mention frequency:
 - [New Mexico](../locations/new-mexico.md) - 14 shared documents
 - [Caribbean](../locations/caribbean.md) - 12 shared documents
 - [New York City](../locations/new-york-city.md) - 12 shared documents
-- [New York](../locations/new-york.md) - 11 shared documents
-- [Europe](../locations/europe.md) - 11 shared documents
 - [America](../locations/america.md) - 11 shared documents
-- [Florida](../locations/florida.md) - 10 shared documents
-- [Israel](../locations/israel.md) - 10 shared documents
+- [Europe](../locations/europe.md) - 11 shared documents
+- [New York](../locations/new-york.md) - 11 shared documents
+- [Coney Island](../locations/coney-island.md) - 10 shared documents
+- [Connecticut](../locations/connecticut.md) - 10 shared documents
 
 **Events:**
 
 - [2010](../events/2010.md) - 15 shared documents
-- [today](../events/today.md) - 14 shared documents
 - [2006](../events/2006.md) - 14 shared documents
-- [last year](../events/last-year.md) - 13 shared documents
+- [today](../events/today.md) - 14 shared documents
 - [2008](../events/2008.md) - 13 shared documents
+- [last year](../events/last-year.md) - 13 shared documents
 - [two years](../events/two-years.md) - 13 shared documents
-- [2014](../events/2014.md) - 12 shared documents
-- [yesterday](../events/yesterday.md) - 12 shared documents
-- [the day](../events/the-day.md) - 12 shared documents
 - [18](../events/18.md) - 12 shared documents
+- [2014](../events/2014.md) - 12 shared documents
+- [the day](../events/the-day.md) - 12 shared documents
+- [yesterday](../events/yesterday.md) - 12 shared documents
 
 ## Timeline
 

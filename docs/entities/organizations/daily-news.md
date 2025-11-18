@@ -31,15 +31,15 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jane Doe](../people/jane-doe.md) - 14 shared documents
-- [Brad Edwards](../people/brad-edwards.md) - 12 shared documents
 - [Daily News](../people/daily-news.md) - 12 shared documents
 - [Jack Goldberger](../people/jack-goldberger.md) - 7 shared documents
 - [Rights Act](../people/rights-act.md) - 7 shared documents
 - [White House](../people/white-house.md) - 7 shared documents
 - [Crime Victims](../people/crime-victims.md) - 6 shared documents
 - [District Court](../people/district-court.md) - 6 shared documents
-- [Epstein](../people/epstein.md) - 6 shared documents
 - [MICHELE DARGAN](../people/michele-dargan.md) - 6 shared documents
+- [Paul Cassell](../people/paul-cassell.md) - 6 shared documents
+- [Pulitzer Prize](../people/pulitzer-prize.md) - 6 shared documents
 
 **Organizations:**
 
@@ -59,13 +59,13 @@ Top 10 documents by mention frequency:
 - [Manhattan](../locations/manhattan.md) - 16 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 16 shared documents
 - [the United States](../locations/the-united-states.md) - 15 shared documents
+- [Australia](../locations/australia.md) - 13 shared documents
 - [Florida](../locations/florida.md) - 13 shared documents
 - [Miami](../locations/miami.md) - 13 shared documents
-- [Australia](../locations/australia.md) - 13 shared documents
+- [America](../locations/america.md) - 11 shared documents
 - [United States](../locations/united-states.md) - 11 shared documents
 - [Washington](../locations/washington.md) - 11 shared documents
-- [America](../locations/america.md) - 11 shared documents
-- [U.S.](../locations/us.md) - 10 shared documents
+- [London](../locations/london.md) - 10 shared documents
 
 **Events:**
 
@@ -73,12 +73,12 @@ Top 10 documents by mention frequency:
 - [Thursday](../events/thursday.md) - 15 shared documents
 - [today](../events/today.md) - 15 shared documents
 - [daily](../events/daily.md) - 14 shared documents
-- [Sunday](../events/sunday.md) - 13 shared documents
-- [2011](../events/2011.md) - 13 shared documents
 - [2008](../events/2008.md) - 13 shared documents
+- [2011](../events/2011.md) - 13 shared documents
 - [Friday](../events/friday.md) - 13 shared documents
-- [this week](../events/this-week.md) - 12 shared documents
+- [Sunday](../events/sunday.md) - 13 shared documents
 - [2002](../events/2002.md) - 12 shared documents
+- [this week](../events/this-week.md) - 12 shared documents
 
 ## Timeline
 

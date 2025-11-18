@@ -9,7 +9,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Obama](../entities/people/mr-obama.md) - 5 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 5 mentions
 
 ### Organizations
 - [HOUSE](../entities/organizations/house.md) - 2 mentions

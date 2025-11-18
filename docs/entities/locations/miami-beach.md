@@ -37,25 +37,25 @@ Top 10 documents by mention frequency:
 - [Florida](florida.md) - 7 shared documents
 - [New York City](new-york-city.md) - 6 shared documents
 - [United States](united-states.md) - 6 shared documents
+- [Australia](australia.md) - 6 shared documents
 - [California](california.md) - 6 shared documents
+- [Caribbean](caribbean.md) - 6 shared documents
 - [London](london.md) - 6 shared documents
 - [Manhattan](manhattan.md) - 6 shared documents
-- [Caribbean](caribbean.md) - 6 shared documents
-- [Australia](australia.md) - 6 shared documents
 - [Palm Beach](palm-beach.md) - 5 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 7 shared documents
 - [2010](../events/2010.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
 - [2007](../events/2007.md) - 6 shared documents
 - [Sunday](../events/sunday.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
 - [the day](../events/the-day.md) - 6 shared documents
-- [2018](../events/2018.md) - 5 shared documents
+- [years](../events/years.md) - 6 shared documents
+- [1981](../events/1981.md) - 5 shared documents
+- [2011](../events/2011.md) - 5 shared documents
 - [2012](../events/2012.md) - 5 shared documents
-- [last year](../events/last-year.md) - 5 shared documents
-- [this week](../events/this-week.md) - 5 shared documents
+- [2018](../events/2018.md) - 5 shared documents
 
 ## Timeline
 

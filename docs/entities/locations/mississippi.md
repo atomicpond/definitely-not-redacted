@@ -55,23 +55,23 @@ Top 10 documents by mention frequency:
 - [Texas](texas.md) - 11 shared documents
 - [the United States](the-united-states.md) - 10 shared documents
 - [California](california.md) - 10 shared documents
-- [Florida](florida.md) - 10 shared documents
 - [Colorado](colorado.md) - 10 shared documents
+- [Florida](florida.md) - 10 shared documents
 - [Massachusetts](massachusetts.md) - 10 shared documents
 - [U.S.](us.md) - 9 shared documents
 
 **Events:**
 
 - [1985](../events/1985.md) - 11 shared documents
-- [today](../events/today.md) - 10 shared documents
 - [2000](../events/2000.md) - 10 shared documents
-- [2012](../events/2012.md) - 10 shared documents
 - [2008](../events/2008.md) - 10 shared documents
 - [2010](../events/2010.md) - 10 shared documents
-- [2004](../events/2004.md) - 9 shared documents
-- [2007](../events/2007.md) - 9 shared documents
+- [2012](../events/2012.md) - 10 shared documents
+- [today](../events/today.md) - 10 shared documents
 - [1996](../events/1996.md) - 9 shared documents
-- [2011](../events/2011.md) - 9 shared documents
+- [1998](../events/1998.md) - 9 shared documents
+- [2004](../events/2004.md) - 9 shared documents
+- [2006](../events/2006.md) - 9 shared documents
 
 ## Timeline
 

@@ -36,8 +36,6 @@ Subject](reid-subject.md) - 36 shared documents
 - [Weingarten](weingarten.md) - 22 shared documents
 - [Jeffrey E. 
 Sent](jeffrey-e-sent.md) - 22 shared documents
-- [Mr. 
-Trump](trump.md) - 9 shared documents
 - [Reid](reid.md) - 5 shared documents
 - [White House](white-house.md) - 4 shared documents
 

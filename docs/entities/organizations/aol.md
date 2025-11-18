@@ -57,24 +57,24 @@ Top 10 documents by mention frequency:
 - [New York City](../locations/new-york-city.md) - 8 shared documents
 - [New York](../locations/new-york.md) - 7 shared documents
 - [California](../locations/california.md) - 6 shared documents
-- [U.S.](../locations/us.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
-- [Paris](../locations/paris.md) - 5 shared documents
 - [Cairo](../locations/cairo.md) - 5 shared documents
+- [Paris](../locations/paris.md) - 5 shared documents
 - [Switzerland](../locations/switzerland.md) - 5 shared documents
+- [Tripoli](../locations/tripoli.md) - 5 shared documents
+- [U.S.](../locations/us.md) - 5 shared documents
 
 **Events:**
 
 - [years](../events/years.md) - 6 shared documents
-- [annual](../events/annual.md) - 5 shared documents
-- [six months](../events/six-months.md) - 5 shared documents
-- [this year](../events/this-year.md) - 5 shared documents
-- [March](../events/march.md) - 5 shared documents
-- [the year](../events/the-year.md) - 5 shared documents
 - [2005](../events/2005.md) - 5 shared documents
-- [Saturday](../events/saturday.md) - 5 shared documents
 - [2013](../events/2013.md) - 5 shared documents
+- [annual](../events/annual.md) - 5 shared documents
+- [Christmas](../events/christmas.md) - 5 shared documents
+- [March](../events/march.md) - 5 shared documents
+- [Saturday](../events/saturday.md) - 5 shared documents
+- [six months](../events/six-months.md) - 5 shared documents
 - [the next day](../events/the-next-day.md) - 5 shared documents
+- [the year](../events/the-year.md) - 5 shared documents
 
 ## Timeline
 

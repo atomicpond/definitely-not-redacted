@@ -36,8 +36,8 @@ Top 7 documents by mention frequency:
 - [the Capital Market Authority](the-capital-market-authority.md) - 7 shared documents
 - [the Dubai Financial Services Authority](the-dubai-financial-services-authority.md) - 7 shared documents
 - [the Financial Conduct Authority](the-financial-conduct-authority.md) - 7 shared documents
-- [CFA](cfa.md) - 7 shared documents
 - [Casa de Bolsa](casa-de-bolsa.md) - 7 shared documents
+- [CFA](cfa.md) - 7 shared documents
 - [DIFC](difc.md) - 6 shared documents
 - [Distribution of Affiliate Research Reports](distribution-of-affiliate-research-reports.md) - 6 shared documents
 - [DSP Merrill Lynch](dsp-merrill-lynch.md) - 6 shared documents
@@ -45,28 +45,28 @@ Top 7 documents by mention frequency:
 
 **Locations:**
 
-- [Dubai](../locations/dubai.md) - 7 shared documents
-- [Japan](../locations/japan.md) - 7 shared documents
-- [Brazil](../locations/brazil.md) - 7 shared documents
-- [Canada](../locations/canada.md) - 7 shared documents
-- [Mexico](../locations/mexico.md) - 7 shared documents
 - [Asia](../locations/asia.md) - 7 shared documents
 - [Australia](../locations/australia.md) - 7 shared documents
+- [Brazil](../locations/brazil.md) - 7 shared documents
+- [Canada](../locations/canada.md) - 7 shared documents
+- [Dubai](../locations/dubai.md) - 7 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 7 shared documents
-- [Singapore](../locations/singapore.md) - 7 shared documents
 - [India](../locations/india.md) - 7 shared documents
+- [Indonesia](../locations/indonesia.md) - 7 shared documents
+- [Japan](../locations/japan.md) - 7 shared documents
+- [Mexico](../locations/mexico.md) - 7 shared documents
 
 **Events:**
 
 - [2017](../events/2017.md) - 7 shared documents
-- [2018](../events/2018.md) - 6 shared documents
-- [2001](../events/2001.md) - 6 shared documents
-- [5-year](../events/5-year.md) - 6 shared documents
-- [1959](../events/1959.md) - 6 shared documents
-- [the day](../events/the-day.md) - 6 shared documents
 - [12-month](../events/12-month.md) - 6 shared documents
+- [1959](../events/1959.md) - 6 shared documents
 - [198602883D](../events/198602883d.md) - 6 shared documents
+- [2001](../events/2001.md) - 6 shared documents
+- [2018](../events/2018.md) - 6 shared documents
+- [5-year](../events/5-year.md) - 6 shared documents
 - [8 - same](../events/8-same.md) - 6 shared documents
+- [the day](../events/the-day.md) - 6 shared documents
 - [the last 12 months](../events/the-last-12-months.md) - 6 shared documents
 
 ## Timeline

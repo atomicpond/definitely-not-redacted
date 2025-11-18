@@ -44,13 +44,13 @@ Top 9 documents by mention frequency:
 - [Palm Beach](../locations/palm-beach.md) - 8 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 8 shared documents
 - [Washington](../locations/washington.md) - 7 shared documents
-- [New York](../locations/new-york.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 5 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Fort Lauderdale](../locations/fort-lauderdale.md) - 5 shared documents
 - [Miami](../locations/miami.md) - 5 shared documents
 - [New Mexico](../locations/new-mexico.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
+- [the Southern District](../locations/the-southern-district.md) - 5 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
 
 **Events:**
 
@@ -58,12 +58,12 @@ Top 9 documents by mention frequency:
 - [yesterday](../events/yesterday.md) - 7 shared documents
 - [Friday](../events/friday.md) - 6 shared documents
 - [weeks](../events/weeks.md) - 6 shared documents
+- [2006](../events/2006.md) - 5 shared documents
 - [annual](../events/annual.md) - 5 shared documents
-- [last year](../events/last-year.md) - 5 shared documents
-- [this week](../events/this-week.md) - 5 shared documents
 - [August](../events/august.md) - 5 shared documents
 - [December](../events/december.md) - 5 shared documents
-- [Tuesday](../events/tuesday.md) - 5 shared documents
+- [July 7, 2008](../events/july-7-2008.md) - 5 shared documents
+- [last year](../events/last-year.md) - 5 shared documents
 
 ## Timeline
 

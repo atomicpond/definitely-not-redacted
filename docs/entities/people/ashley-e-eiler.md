@@ -24,38 +24,38 @@ Top 5 documents by mention frequency:
 
 **People:**
 
-- [Bradley J. Edwards](bradley-j-edwards.md) - 5 shared documents
+- [Brad Edwards](brad-edwards.md) - 5 shared documents
 - [Jack Scarola](jack-scarola.md) - 5 shared documents
 - [Paul G. Cassell](paul-g-cassell.md) - 5 shared documents
 
 **Organizations:**
 
+- [CACE](../organizations/cace.md) - 5 shared documents
 - [Court](../organizations/court.md) - 5 shared documents
 - [LLP](../organizations/llp.md) - 5 shared documents
 - [SCOTT & KISSANE](../organizations/scott-kissane.md) - 5 shared documents
-- [CACE](../organizations/cace.md) - 5 shared documents
 - [FOIA](../organizations/foia.md) - 4 shared documents
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
 - [Broward County](../locations/broward-county.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 5 shared documents
 - [Miami](../locations/miami.md) - 5 shared documents
+- [United States](../locations/united-states.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
-- [Virginia](../locations/virginia.md) - 4 shared documents
+- [Boston](../locations/boston.md) - 4 shared documents
 - [New Mexico](../locations/new-mexico.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
+- [Salt Lake City](../locations/salt-lake-city.md) - 4 shared documents
 
 **Events:**
 
-- [2011](../events/2011.md) - 4 shared documents
-- [1999](../events/1999.md) - 4 shared documents
-- [22](../events/22.md) - 4 shared documents
 - [13](../events/13.md) - 4 shared documents
 - [14](../events/14.md) - 4 shared documents
+- [1999](../events/1999.md) - 4 shared documents
+- [2011](../events/2011.md) - 4 shared documents
+- [22](../events/22.md) - 4 shared documents
 
 ## Timeline
 

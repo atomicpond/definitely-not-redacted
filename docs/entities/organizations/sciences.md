@@ -44,9 +44,9 @@ Clinton](../people/bill-clinton.md) - 5 shared documents
 - [HOUSE](house.md) - 7 shared documents
 - [the Harvard Graduate School of Education](the-harvard-graduate-school-of-education.md) - 6 shared documents
 - [The New Yorker](the-new-yorker.md) - 6 shared documents
-- [Harvard University](harvard-university.md) - 6 shared documents
-- [Harvard](harvard.md) - 6 shared documents
 - [Emmy Award](emmy-award.md) - 6 shared documents
+- [Harvard](harvard.md) - 6 shared documents
+- [Harvard University](harvard-university.md) - 6 shared documents
 - [Sky](sky.md) - 5 shared documents
 - [Spring with the Harvard Graduate School](spring-with-the-harvard-graduate-school.md) - 5 shared documents
 - [Success Academy](success-academy.md) - 5 shared documents
@@ -55,29 +55,29 @@ Clinton](../people/bill-clinton.md) - 5 shared documents
 **Locations:**
 
 - [America](../locations/america.md) - 6 shared documents
-- [Cambridge](../locations/cambridge.md) - 6 shared documents
 - [Boston](../locations/boston.md) - 6 shared documents
-- [templeton](../locations/templeton.md) - 5 shared documents
-- [US](../locations/us.md) - 5 shared documents
-- [MA](../locations/ma.md) - 5 shared documents
-- [Broadway](../locations/broadway.md) - 5 shared documents
+- [Cambridge](../locations/cambridge.md) - 6 shared documents
 - [Barker Center](../locations/barker-center.md) - 5 shared documents
+- [Broadway](../locations/broadway.md) - 5 shared documents
+- [MA](../locations/ma.md) - 5 shared documents
 - [Quincy Street](../locations/quincy-street.md) - 5 shared documents
 - [Street 
 Cambridge, MA](../locations/street-cambridge-ma.md) - 5 shared documents
+- [templeton](../locations/templeton.md) - 5 shared documents
+- [US](../locations/us.md) - 5 shared documents
 
 **Events:**
 
-- [last year](../events/last-year.md) - 6 shared documents
 - [a year later](../events/a-year-later.md) - 6 shared documents
-- [this year](../events/this-year.md) - 5 shared documents
+- [last year](../events/last-year.md) - 6 shared documents
+- [12/2/2015](../events/1222015.md) - 5 shared documents
 - [2017](../events/2017.md) - 5 shared documents
-- [the new year](../events/the-new-year.md) - 5 shared documents
 - [a year ago](../events/a-year-ago.md) - 5 shared documents
-- [the last year](../events/the-last-year.md) - 5 shared documents
-- [this spring](../events/this-spring.md) - 5 shared documents
 - [early 2016](../events/early-2016.md) - 5 shared documents
+- [eight-episode season](../events/eight-episode-season.md) - 5 shared documents
 - [Overnight](../events/overnight.md) - 5 shared documents
+- [the 17th or 18th](../events/the-17th-or-18th.md) - 5 shared documents
+- [the coming year](../events/the-coming-year.md) - 5 shared documents
 
 ## Timeline
 

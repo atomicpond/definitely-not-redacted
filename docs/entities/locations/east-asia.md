@@ -32,15 +32,17 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [East Asia](../people/east-asia.md) - 11 shared documents
-- [Barack Obama](../people/barack-obama.md) - 10 shared documents
 - [Cold War](../people/cold-war.md) - 9 shared documents
-- [Mr. Obama](../people/obama.md) - 9 shared documents
-- [President Obama](../people/president-obama.md) - 9 shared documents
 - [Federal Reserve](../people/federal-reserve.md) - 8 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 8 shared documents
 - [Soviet Union](../people/soviet-union.md) - 8 shared documents
 - [Communist Party](../people/communist-party.md) - 7 shared documents
 - [Deng Xiaoping](../people/deng-xiaoping.md) - 7 shared documents
+- [George W. Bush](../people/george-w-bush.md) - 7 shared documents
+- [Labor
+Party](../people/labor-party.md) - 7 shared documents
+- [Ronald 
+Reagan](../people/ronald-reagan.md) - 7 shared documents
 
 **Organizations:**
 
@@ -55,8 +57,8 @@ Top 10 documents by mention frequency:
 
 **Locations:**
 
-- [China](china.md) - 14 shared documents
 - [America](america.md) - 14 shared documents
+- [China](china.md) - 14 shared documents
 - [Asia](asia.md) - 13 shared documents
 - [Europe](europe.md) - 12 shared documents
 - [India](india.md) - 12 shared documents
@@ -69,15 +71,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [years](../events/years.md) - 10 shared documents
-- [today](../events/today.md) - 9 shared documents
 - [1996](../events/1996.md) - 9 shared documents
 - [last week](../events/last-week.md) - 9 shared documents
+- [today](../events/today.md) - 9 shared documents
 - [2008](../events/2008.md) - 8 shared documents
 - [decades](../events/decades.md) - 8 shared documents
 - [the 21st century](../events/the-21st-century.md) - 8 shared documents
 - [the century](../events/the-century.md) - 7 shared documents
 - [the Cold War](../events/the-cold-war.md) - 7 shared documents
-- [the day](../events/the-day.md) - 6 shared documents
+- [2050](../events/2050.md) - 6 shared documents
 
 ## Timeline
 

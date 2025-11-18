@@ -41,23 +41,23 @@ Top 7 documents by mention frequency:
 
 - [Palm Beach](../locations/palm-beach.md) - 6 shared documents
 - [London](../locations/london.md) - 4 shared documents
+- [Miami](../locations/miami.md) - 4 shared documents
 - [New York's](../locations/new-yorks.md) - 4 shared documents
 - [New York City](../locations/new-york-city.md) - 4 shared documents
 - [Upper East Side](../locations/upper-east-side.md) - 4 shared documents
-- [Miami](../locations/miami.md) - 4 shared documents
 
 **Events:**
 
 - [all day](../events/all-day.md) - 6 shared documents
 - [1987](../events/1987.md) - 5 shared documents
+- [13-year-old](../events/13-year-old.md) - 4 shared documents
 - [1985](../events/1985.md) - 4 shared documents
 - [2008](../events/2008.md) - 4 shared documents
-- [last day](../events/last-day.md) - 4 shared documents
-- [the next day](../events/the-next-day.md) - 4 shared documents
-- [13-year-old](../events/13-year-old.md) - 4 shared documents
-- [February](../events/february.md) - 4 shared documents
-- [September](../events/september.md) - 4 shared documents
 - [86-year-old](../events/86-year-old.md) - 4 shared documents
+- [February](../events/february.md) - 4 shared documents
+- [last day](../events/last-day.md) - 4 shared documents
+- [September](../events/september.md) - 4 shared documents
+- [the next day](../events/the-next-day.md) - 4 shared documents
 
 ## Timeline
 

@@ -28,7 +28,7 @@ Top 8 documents by mention frequency:
 
 **People:**
 
-- [Mr. Bannon](../people/bannon.md) - 5 shared documents
+- [Steve Bannon](../people/steve-bannon.md) - 5 shared documents
 
 **Organizations:**
 
@@ -36,9 +36,9 @@ Top 8 documents by mention frequency:
 
 **Locations:**
 
-- [Russia](../locations/russia.md) - 4 shared documents
 - [London](../locations/london.md) - 4 shared documents
 - [Munich](../locations/munich.md) - 4 shared documents
+- [Russia](../locations/russia.md) - 4 shared documents
 
 **Events:**
 

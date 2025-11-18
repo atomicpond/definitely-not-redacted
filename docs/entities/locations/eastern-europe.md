@@ -34,7 +34,7 @@ Top 10 documents by mention frequency:
 - [Eastern Europe](../people/eastern-europe.md) - 18 shared documents
 - [Middle East](../people/middle-east.md) - 10 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 10 shared documents
-- [President Obama](../people/president-obama.md) - 9 shared documents
+- [Barack Obama](../people/barack-obama.md) - 9 shared documents
 - [District Court](../people/district-court.md) - 8 shared documents
 - [Tel Aviv](../people/tel-aviv.md) - 8 shared documents
 
@@ -61,12 +61,12 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [2007](../events/2007.md) - 13 shared documents
-- [today](../events/today.md) - 13 shared documents
 - [daily](../events/daily.md) - 13 shared documents
+- [today](../events/today.md) - 13 shared documents
 - [last week](../events/last-week.md) - 12 shared documents
+- [2002](../events/2002.md) - 11 shared documents
 - [2003](../events/2003.md) - 11 shared documents
 - [2004](../events/2004.md) - 11 shared documents
-- [2002](../events/2002.md) - 11 shared documents
 - [2009](../events/2009.md) - 10 shared documents
 - [2011](../events/2011.md) - 10 shared documents
 - [months](../events/months.md) - 10 shared documents

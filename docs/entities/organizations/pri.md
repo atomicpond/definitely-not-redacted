@@ -27,17 +27,17 @@ Top 6 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](house.md) - 4 shared documents
 - [Fed](fed.md) - 4 shared documents
+- [HOUSE](house.md) - 4 shared documents
 
 **Locations:**
 
+- [England](../locations/england.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
 - [France](../locations/france.md) - 4 shared documents
 - [NYC](../locations/nyc.md) - 4 shared documents
-- [England](../locations/england.md) - 4 shared documents
-- [South](../locations/south.md) - 4 shared documents
 - [Phoenix](../locations/phoenix.md) - 4 shared documents
+- [South](../locations/south.md) - 4 shared documents
 - [the United Kingdom](../locations/the-united-kingdom.md) - 4 shared documents
 
 **Events:**
@@ -46,8 +46,8 @@ Top 6 documents by mention frequency:
 - [2015](../events/2015.md) - 4 shared documents
 - [2016](../events/2016.md) - 4 shared documents
 - [daily](../events/daily.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
 - [three years](../events/three-years.md) - 4 shared documents
+- [years](../events/years.md) - 4 shared documents
 
 ## Timeline
 

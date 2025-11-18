@@ -11,7 +11,7 @@
 ### People
 - [United 
 States](../entities/people/united-states.md) - 21 mentions
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 20 mentions
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 20 mentions
 - [Christian 
 West](../entities/people/christian-west.md) - 11 mentions
 - [Putin](../entities/people/putin.md) - 8 mentions

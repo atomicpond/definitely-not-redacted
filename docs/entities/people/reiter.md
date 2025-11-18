@@ -25,11 +25,10 @@ Top 6 documents by mention frequency:
 
 **People:**
 
-- [Michael Reiter](michael-reiter.md) - 6 shared documents
 - [Bill 
 Clinton](bill-clinton.md) - 6 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 6 shared documents
-- [Epstein](epstein.md) - 6 shared documents
+- [Michael Reiter](michael-reiter.md) - 6 shared documents
 - [Krischer](krischer.md) - 5 shared documents
 - [Kenneth Starr](kenneth-starr.md) - 4 shared documents
 
@@ -43,16 +42,16 @@ Clinton](bill-clinton.md) - 6 shared documents
 
 - [Palm Beach](../locations/palm-beach.md) - 6 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
 - [Florida](../locations/florida.md) - 4 shared documents
 - [Manhattan](../locations/manhattan.md) - 4 shared documents
 - [New Mexico](../locations/new-mexico.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 4 shared documents
 
 **Events:**
 
-- [May 1](../events/may-1.md) - 5 shared documents
 - [53](../events/53.md) - 5 shared documents
+- [May 1](../events/may-1.md) - 5 shared documents
 - [18 months](../events/18-months.md) - 4 shared documents
 - [one year](../events/one-year.md) - 4 shared documents
 

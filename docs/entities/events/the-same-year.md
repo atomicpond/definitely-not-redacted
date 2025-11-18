@@ -57,12 +57,12 @@ Top 10 documents by mention frequency:
 - [years](years.md) - 8 shared documents
 - [2004](2004.md) - 8 shared documents
 - [2006](2006.md) - 8 shared documents
-- [2018](2018.md) - 7 shared documents
-- [2000](2000.md) - 7 shared documents
-- [2012](2012.md) - 7 shared documents
-- [last year](last-year.md) - 7 shared documents
+- [1976](1976.md) - 7 shared documents
+- [1981](1981.md) - 7 shared documents
 - [1985](1985.md) - 7 shared documents
+- [1995](1995.md) - 7 shared documents
 - [20 years](20-years.md) - 7 shared documents
+- [2000](2000.md) - 7 shared documents
 
 ## Timeline
 

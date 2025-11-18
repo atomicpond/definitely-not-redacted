@@ -44,14 +44,14 @@ Top 7 documents by mention frequency:
 
 - [today](today.md) - 6 shared documents
 - [this year](this-year.md) - 5 shared documents
+- [2013](2013.md) - 5 shared documents
 - [annual](annual.md) - 5 shared documents
 - [last month](last-month.md) - 5 shared documents
-- [2013](2013.md) - 5 shared documents
 - [recent years](recent-years.md) - 5 shared documents
 - [several years](several-years.md) - 5 shared documents
 - [the day](the-day.md) - 5 shared documents
+- [2000](2000.md) - 4 shared documents
 - [2003](2003.md) - 4 shared documents
-- [2018](2018.md) - 4 shared documents
 
 ## Timeline
 

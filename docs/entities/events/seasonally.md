@@ -57,8 +57,8 @@ Top 10 documents by mention frequency:
 - [today](today.md) - 5 shared documents
 - [yesterday](yesterday.md) - 5 shared documents
 - [2018](2018.md) - 5 shared documents
-- [last year](last-year.md) - 5 shared documents
 - [December](december.md) - 5 shared documents
+- [last year](last-year.md) - 5 shared documents
 - [the summer](the-summer.md) - 4 shared documents
 - [this week](this-week.md) - 4 shared documents
 

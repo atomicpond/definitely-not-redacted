@@ -38,11 +38,11 @@ Top 10 documents by mention frequency:
 States](../people/united-states.md) - 6 shared documents
 - [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [Daily Beast](../people/daily-beast.md) - 5 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
 - [Cambridge Analytica](../people/cambridge-analytica.md) - 4 shared documents
 - [European Parliament](../people/european-parliament.md) - 4 shared documents
 - [European 
 Union](../people/european-union.md) - 4 shared documents
+- [Federal Reserve](../people/federal-reserve.md) - 4 shared documents
 
 **Organizations:**
 
@@ -54,34 +54,34 @@ Union](../people/european-union.md) - 4 shared documents
 - [Trump](trump.md) - 5 shared documents
 - [Washington Post](washington-post.md) - 5 shared documents
 - [White House](white-house.md) - 5 shared documents
-- [Fed](fed.md) - 5 shared documents
 - [The Wall Street Journal](the-wall-street-journal.md) - 4 shared documents
+- [Treasury](treasury.md) - 4 shared documents
 
 **Locations:**
 
 - [Europe](../locations/europe.md) - 11 shared documents
 - [London](../locations/london.md) - 9 shared documents
+- [Cambridge](../locations/cambridge.md) - 8 shared documents
 - [China](../locations/china.md) - 8 shared documents
 - [Iran](../locations/iran.md) - 8 shared documents
-- [the United States](../locations/the-united-states.md) - 8 shared documents
-- [Cambridge](../locations/cambridge.md) - 8 shared documents
 - [Italy](../locations/italy.md) - 8 shared documents
+- [the United States](../locations/the-united-states.md) - 8 shared documents
 - [Iraq](../locations/iraq.md) - 7 shared documents
+- [Israel](../locations/israel.md) - 7 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 7 shared documents
-- [Syria](../locations/syria.md) - 7 shared documents
 
 **Events:**
 
 - [2016](../events/2016.md) - 8 shared documents
 - [today](../events/today.md) - 8 shared documents
+- [2006](../events/2006.md) - 7 shared documents
 - [2014](../events/2014.md) - 7 shared documents
 - [2015](../events/2015.md) - 7 shared documents
-- [Friday](../events/friday.md) - 7 shared documents
 - [2019](../events/2019.md) - 7 shared documents
-- [2006](../events/2006.md) - 7 shared documents
+- [Friday](../events/friday.md) - 7 shared documents
 - [2007](../events/2007.md) - 6 shared documents
-- [this year](../events/this-year.md) - 6 shared documents
 - [2010](../events/2010.md) - 6 shared documents
+- [this year](../events/this-year.md) - 6 shared documents
 
 ## Timeline
 

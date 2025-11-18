@@ -13,9 +13,9 @@
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 2 mentions
 - [James Comey](../entities/people/james-comey.md) - 1 mention
 - [James Baker](../entities/people/james-baker.md) - 1 mention
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 1 mention
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 1 mention
 - [Woody](../entities/people/woody.md) - 1 mention
-- [Mr. Strzok](../entities/people/mr-strzok.md) - 1 mention
+- [Mr. Strzok](../entities/people/strzok.md) - 1 mention
 - [Lisa](../entities/people/lisa.md) - 1 mention
 - [Andrew 
 McCabe](../entities/people/andrew-mccabe.md) - 1 mention

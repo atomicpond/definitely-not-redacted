@@ -34,27 +34,22 @@ Top 7 documents by mention frequency:
 
 - [Iran](../locations/iran.md) - 6 shared documents
 - [California](../locations/california.md) - 5 shared documents
+- [England](../locations/england.md) - 5 shared documents
 - [London](../locations/london.md) - 5 shared documents
 - [New York City](../locations/new-york-city.md) - 5 shared documents
-- [England](../locations/england.md) - 5 shared documents
-- [U.S.](../locations/us.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
-- [Africa](../locations/africa.md) - 4 shared documents
-- [China](../locations/china.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
 
 **Events:**
 
 - [1998](../events/1998.md) - 6 shared documents
 - [the years](../events/the-years.md) - 6 shared documents
+- [1981](../events/1981.md) - 5 shared documents
 - [1986](../events/1986.md) - 5 shared documents
-- [2003](../events/2003.md) - 5 shared documents
-- [2004](../events/2004.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [1996](../events/1996.md) - 5 shared documents
-- [2000](../events/2000.md) - 5 shared documents
-- [2011](../events/2011.md) - 5 shared documents
+- [1987](../events/1987.md) - 5 shared documents
+- [1989](../events/1989.md) - 5 shared documents
 - [1990](../events/1990.md) - 5 shared documents
+- [1991](../events/1991.md) - 5 shared documents
+- [1993](../events/1993.md) - 5 shared documents
+- [1995](../events/1995.md) - 5 shared documents
 
 ## Timeline
 

@@ -34,7 +34,6 @@ Top 10 documents by mention frequency:
 - [Research Office](research-office.md) - 11 shared documents
 - [Space Exploration](space-exploration.md) - 11 shared documents
 - [Lawrence Krauss](lawrence-krauss.md) - 11 shared documents
-- [Lawrence M. Krauss](lawrence-m-krauss.md) - 11 shared documents
 - [State University](state-university.md) - 10 shared documents
 - [Cosmology Initiative 
 Foundation](cosmology-initiative-foundation.md) - 10 shared documents
@@ -43,16 +42,17 @@ Director](krauss-director.md) - 10 shared documents
 - [Physics Department 
 Arizona](physics-department-arizona.md) - 10 shared documents
 - [Jeffrey E](jeffrey-e.md) - 9 shared documents
-- [Lawrence](lawrence.md) - 9 shared documents
+- [noam](noam.md) - 9 shared documents
+- [Noam Chomsky](noam-chomsky.md) - 9 shared documents
 
 **Organizations:**
 
 - [School of Earth & Space Exploration and Physics Department](../organizations/school-of-earth-space-exploration-and-physics-department.md) - 11 shared documents
-- [HOUSE](../organizations/house.md) - 10 shared documents
 - [Arizona State University](../organizations/arizona-state-university.md) - 10 shared documents
-- [The Origins Project](../organizations/the-origins-project.md) - 10 shared documents
 - [ASU](../organizations/asu.md) - 10 shared documents
+- [HOUSE](../organizations/house.md) - 10 shared documents
 - [P.O. Box 871404](../organizations/po-box-871404.md) - 10 shared documents
+- [The Origins Project](../organizations/the-origins-project.md) - 10 shared documents
 - [Cosmology Initiative 
 Foundation Professor 
 School of Earth & Space Exploration and Physics Department 
@@ -81,6 +81,8 @@ Arizona State University](../organizations/the-origins-project-at-asu-foundation
 - [September 10, 2015](../events/september-10-2015.md) - 5 shared documents
 - [Thursday, September 10, 2015](../events/thursday-september-10-2015.md) - 5 shared documents
 - [871404](../events/871404.md) - 4 shared documents
+- [Sept](../events/sept.md) - 4 shared documents
+- [week](../events/week.md) - 4 shared documents
 
 ## Timeline
 

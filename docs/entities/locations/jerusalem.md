@@ -30,8 +30,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 21 shared documents
-- [President Obama](../people/president-obama.md) - 21 shared documents
-- [Barack Obama](../people/barack-obama.md) - 20 shared documents
 - [White House](../people/white-house.md) - 17 shared documents
 - [West Bank](../people/west-bank.md) - 16 shared documents
 - [Mahmoud Abbas](../people/mahmoud-abbas.md) - 15 shared documents
@@ -61,8 +59,8 @@ Top 10 documents by mention frequency:
 - [Syria](syria.md) - 24 shared documents
 - [the Middle East](the-middle-east.md) - 24 shared documents
 - [Washington](washington.md) - 23 shared documents
-- [Iran](iran.md) - 22 shared documents
 - [Afghanistan](afghanistan.md) - 22 shared documents
+- [Iran](iran.md) - 22 shared documents
 - [Middle East](middle-east.md) - 21 shared documents
 - [Russia](russia.md) - 21 shared documents
 
@@ -70,14 +68,14 @@ Top 10 documents by mention frequency:
 
 - [today](../events/today.md) - 24 shared documents
 - [2003](../events/2003.md) - 20 shared documents
-- [2009](../events/2009.md) - 19 shared documents
-- [the years](../events/the-years.md) - 19 shared documents
 - [1967](../events/1967.md) - 19 shared documents
+- [2009](../events/2009.md) - 19 shared documents
 - [decades](../events/decades.md) - 19 shared documents
+- [the years](../events/the-years.md) - 19 shared documents
 - [a year](../events/a-year.md) - 18 shared documents
-- [years](../events/years.md) - 17 shared documents
 - [1993](../events/1993.md) - 17 shared documents
-- [last week](../events/last-week.md) - 16 shared documents
+- [years](../events/years.md) - 17 shared documents
+- [2002](../events/2002.md) - 16 shared documents
 
 ## Timeline
 

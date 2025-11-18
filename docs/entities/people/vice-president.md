@@ -40,28 +40,28 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [the United States](../locations/the-united-states.md) - 17 shared documents
-- [United States](../locations/united-states.md) - 16 shared documents
 - [Florida](../locations/florida.md) - 16 shared documents
+- [United States](../locations/united-states.md) - 16 shared documents
 - [Russia](../locations/russia.md) - 14 shared documents
 - [Texas](../locations/texas.md) - 13 shared documents
 - [Europe](../locations/europe.md) - 12 shared documents
-- [Washington](../locations/washington.md) - 12 shared documents
 - [London](../locations/london.md) - 12 shared documents
-- [China](../locations/china.md) - 11 shared documents
-- [Germany](../locations/germany.md) - 11 shared documents
+- [Washington](../locations/washington.md) - 12 shared documents
+- [America](../locations/america.md) - 11 shared documents
+- [Asia](../locations/asia.md) - 11 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 18 shared documents
 - [2008](../events/2008.md) - 14 shared documents
-- [2015](../events/2015.md) - 13 shared documents
 - [1999](../events/1999.md) - 13 shared documents
 - [2001](../events/2001.md) - 13 shared documents
-- [the year](../events/the-year.md) - 12 shared documents
+- [2015](../events/2015.md) - 13 shared documents
 - [1998](../events/1998.md) - 12 shared documents
 - [2010](../events/2010.md) - 12 shared documents
 - [Friday](../events/friday.md) - 12 shared documents
-- [2004](../events/2004.md) - 11 shared documents
+- [the year](../events/the-year.md) - 12 shared documents
+- [1990](../events/1990.md) - 11 shared documents
 
 ## Timeline
 

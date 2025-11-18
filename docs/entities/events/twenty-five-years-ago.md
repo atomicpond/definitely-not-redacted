@@ -29,11 +29,11 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [today](today.md) - 5 shared documents
 - [2012](2012.md) - 5 shared documents
+- [one day](one-day.md) - 5 shared documents
 - [the year](the-year.md) - 5 shared documents
 - [these days](these-days.md) - 5 shared documents
-- [one day](one-day.md) - 5 shared documents
+- [today](today.md) - 5 shared documents
 
 ## Timeline
 

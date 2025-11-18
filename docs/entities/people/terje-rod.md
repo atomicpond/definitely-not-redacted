@@ -28,41 +28,39 @@ Top 6 documents by mention frequency:
 - [Terje Rod-Larsen](terje-rod-larsen.md) - 6 shared documents
 - [White House](white-house.md) - 6 shared documents
 - [Saudi Arabia](saudi-arabia.md) - 6 shared documents
-- [Middle East](middle-east.md) - 4 shared documents
-- [President Obama](president-obama.md) - 4 shared documents
-- [Joe Biden](joe-biden.md) - 4 shared documents
-- [Barack Obama](barack-obama.md) - 4 shared documents
 
 **Organizations:**
 
 - [the White House](../organizations/the-white-house.md) - 6 shared documents
-- [HOUSE](../organizations/house.md) - 4 shared documents
-- [Congress](../organizations/congress.md) - 4 shared documents
-- [Washington Post](../organizations/washington-post.md) - 4 shared documents
 - [CIA](../organizations/cia.md) - 4 shared documents
+- [Congress](../organizations/congress.md) - 4 shared documents
+- [Fatah](../organizations/fatah.md) - 4 shared documents
+- [Hamas](../organizations/hamas.md) - 4 shared documents
+- [HOUSE](../organizations/house.md) - 4 shared documents
 - [State](../organizations/state.md) - 4 shared documents
 
 **Locations:**
 
-- [Iran](../locations/iran.md) - 6 shared documents
 - [Gulf](../locations/gulf.md) - 6 shared documents
-- [Middle East](../locations/middle-east.md) - 4 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
-- [Russia](../locations/russia.md) - 4 shared documents
+- [Iran](../locations/iran.md) - 6 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 4 shared documents
+- [Cairo](../locations/cairo.md) - 4 shared documents
+- [East Jerusalem](../locations/east-jerusalem.md) - 4 shared documents
+- [Gaza](../locations/gaza.md) - 4 shared documents
 - [Germany](../locations/germany.md) - 4 shared documents
 - [Iraq](../locations/iraq.md) - 4 shared documents
-- [Jordan](../locations/jordan.md) - 4 shared documents
-- [Qatar](../locations/qatar.md) - 4 shared documents
+- [Israel](../locations/israel.md) - 4 shared documents
+- [Jerusalem](../locations/jerusalem.md) - 4 shared documents
 
 **Events:**
 
+- [10 years](../events/10-years.md) - 4 shared documents
+- [1979](../events/1979.md) - 4 shared documents
+- [2013](../events/2013.md) - 4 shared documents
+- [a year](../events/a-year.md) - 4 shared documents
 - [last week](../events/last-week.md) - 4 shared documents
 - [the years](../events/the-years.md) - 4 shared documents
 - [Tuesday](../events/tuesday.md) - 4 shared documents
-- [2013](../events/2013.md) - 4 shared documents
-- [a year](../events/a-year.md) - 4 shared documents
-- [10 years](../events/10-years.md) - 4 shared documents
 
 ## Timeline
 

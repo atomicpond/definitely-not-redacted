@@ -39,9 +39,9 @@ Trump](donald-trump.md) - 7 shared documents
 - [San Francisco](san-francisco.md) - 5 shared documents
 - [Art Spiegelman](art-spiegelman.md) - 5 shared documents
 - [Isaac Asimov](isaac-asimov.md) - 5 shared documents
-- [Lee Harvey Oswald](lee-harvey-oswald.md) - 5 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 5 shared documents
-- [Epstein](epstein.md) - 5 shared documents
+- [Lee Harvey Oswald](lee-harvey-oswald.md) - 5 shared documents
+- [Paul Ryan](paul-ryan.md) - 4 shared documents
 
 **Organizations:**
 
@@ -59,9 +59,9 @@ Times](../organizations/high-times.md) - 5 shared documents
 
 **Locations:**
 
+- [Berkeley](../locations/berkeley.md) - 6 shared documents
 - [Russia](../locations/russia.md) - 6 shared documents
 - [San Francisco](../locations/san-francisco.md) - 6 shared documents
-- [Berkeley](../locations/berkeley.md) - 6 shared documents
 - [America](../locations/america.md) - 5 shared documents
 - [Dallas](../locations/dallas.md) - 5 shared documents
 - [US](../locations/us.md) - 5 shared documents
@@ -70,13 +70,13 @@ Times](../organizations/high-times.md) - 5 shared documents
 
 - [2019](../events/2019.md) - 9 shared documents
 - [A few years later](../events/a-few-years-later.md) - 8 shared documents
-- [two years](../events/two-years.md) - 5 shared documents
-- [1969](../events/1969.md) - 5 shared documents
-- [the day](../events/the-day.md) - 5 shared documents
-- [1980](../events/1980.md) - 5 shared documents
 - [1965](../events/1965.md) - 5 shared documents
+- [1969](../events/1969.md) - 5 shared documents
+- [1980](../events/1980.md) - 5 shared documents
 - [Christmas Day](../events/christmas-day.md) - 5 shared documents
-- [years](../events/years.md) - 4 shared documents
+- [the day](../events/the-day.md) - 5 shared documents
+- [two years](../events/two-years.md) - 5 shared documents
+- [1952](../events/1952.md) - 4 shared documents
 - [1970](../events/1970.md) - 4 shared documents
 
 ## Timeline

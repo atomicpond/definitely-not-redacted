@@ -23,38 +23,31 @@ Top 6 documents by mention frequency:
 
 ### Most Frequently Co-occurring Entities
 
-**Organizations:**
-
-- [Harvard](../organizations/harvard.md) - 6 shared documents
-- [Time](../organizations/time.md) - 6 shared documents
-- [Cambridge University](../organizations/cambridge-university.md) - 6 shared documents
-- [MIT](../organizations/mit.md) - 6 shared documents
-
 **Locations:**
 
-- [California](../locations/california.md) - 6 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
-- [Germany](../locations/germany.md) - 6 shared documents
-- [London](../locations/london.md) - 6 shared documents
 - [America](../locations/america.md) - 6 shared documents
-- [the United States](../locations/the-united-states.md) - 6 shared documents
+- [Boston](../locations/boston.md) - 6 shared documents
+- [California](../locations/california.md) - 6 shared documents
 - [Cambridge](../locations/cambridge.md) - 6 shared documents
-- [Paris](../locations/paris.md) - 6 shared documents
+- [England](../locations/england.md) - 6 shared documents
+- [Germany](../locations/germany.md) - 6 shared documents
+- [India](../locations/india.md) - 6 shared documents
+- [Japan](../locations/japan.md) - 6 shared documents
+- [London](../locations/london.md) - 6 shared documents
+- [Oxford](../locations/oxford.md) - 6 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 6 shared documents
-- [1996](../events/1996.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
-- [the year](../events/the-year.md) - 6 shared documents
+- [1950](../events/1950.md) - 6 shared documents
+- [1951](../events/1951.md) - 6 shared documents
+- [1960](../events/1960.md) - 6 shared documents
+- [1961](../events/1961.md) - 6 shared documents
+- [1964](../events/1964.md) - 6 shared documents
+- [1967](../events/1967.md) - 6 shared documents
+- [1968](../events/1968.md) - 6 shared documents
 - [1970](../events/1970.md) - 6 shared documents
-- [1990](../events/1990.md) - 6 shared documents
-- [1993](../events/1993.md) - 6 shared documents
-- [1997](../events/1997.md) - 6 shared documents
-- [1999](../events/1999.md) - 6 shared documents
-- [2001](../events/2001.md) - 6 shared documents
+- [1972](../events/1972.md) - 6 shared documents
+- [1973](../events/1973.md) - 6 shared documents
 
 ## Timeline
 

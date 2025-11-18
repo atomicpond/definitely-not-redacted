@@ -30,8 +30,8 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 4 shared documents
 - [China](../locations/china.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
 
 **Events:**
 

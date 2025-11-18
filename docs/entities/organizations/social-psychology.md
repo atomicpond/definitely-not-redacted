@@ -25,33 +25,33 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [Harvard University](harvard-university.md) - 4 shared documents
 - [Harvard](harvard.md) - 4 shared documents
+- [Harvard University](harvard-university.md) - 4 shared documents
 - [Oxford University](oxford-university.md) - 4 shared documents
 
 **Locations:**
 
 - [West](../locations/west.md) - 5 shared documents
-- [Earth](../locations/earth.md) - 4 shared documents
-- [USA](../locations/usa.md) - 4 shared documents
 - [Africa](../locations/africa.md) - 4 shared documents
 - [Cambridge](../locations/cambridge.md) - 4 shared documents
 - [Chicago](../locations/chicago.md) - 4 shared documents
+- [Earth](../locations/earth.md) - 4 shared documents
 - [England](../locations/england.md) - 4 shared documents
 - [Spain](../locations/spain.md) - 4 shared documents
+- [USA](../locations/usa.md) - 4 shared documents
 
 **Events:**
 
 - [many years](../events/many-years.md) - 5 shared documents
 - [the day](../events/the-day.md) - 5 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [1996](../events/1996.md) - 4 shared documents
-- [daily](../events/daily.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
-- [1998](../events/1998.md) - 4 shared documents
-- [one day](../events/one-day.md) - 4 shared documents
+- [1973](../events/1973.md) - 4 shared documents
 - [1974](../events/1974.md) - 4 shared documents
+- [1980](../events/1980.md) - 4 shared documents
+- [1989](../events/1989.md) - 4 shared documents
+- [1996](../events/1996.md) - 4 shared documents
+- [1998](../events/1998.md) - 4 shared documents
 - [2002](../events/2002.md) - 4 shared documents
+- [a year](../events/a-year.md) - 4 shared documents
 
 ## Timeline
 

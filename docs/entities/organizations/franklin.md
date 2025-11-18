@@ -30,7 +30,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 6 shared documents
+- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [San Francisco](../people/san-francisco.md) - 6 shared documents
 - [White House](../people/white-house.md) - 6 shared documents
 - [Columbia University](../people/columbia-university.md) - 4 shared documents
@@ -57,11 +57,11 @@ Top 10 documents by mention frequency:
 - [California](../locations/california.md) - 8 shared documents
 - [United States](../locations/united-states.md) - 8 shared documents
 - [Washington](../locations/washington.md) - 8 shared documents
+- [America](../locations/america.md) - 7 shared documents
+- [Boston](../locations/boston.md) - 7 shared documents
 - [China](../locations/china.md) - 7 shared documents
 - [Europe](../locations/europe.md) - 7 shared documents
-- [Russia](../locations/russia.md) - 7 shared documents
 - [Germany](../locations/germany.md) - 7 shared documents
-- [America](../locations/america.md) - 7 shared documents
 - [Paris](../locations/paris.md) - 7 shared documents
 
 **Events:**
@@ -69,13 +69,13 @@ Top 10 documents by mention frequency:
 - [years](../events/years.md) - 10 shared documents
 - [today](../events/today.md) - 8 shared documents
 - [2012](../events/2012.md) - 7 shared documents
-- [this year](../events/this-year.md) - 7 shared documents
-- [the year](../events/the-year.md) - 7 shared documents
 - [a year](../events/a-year.md) - 7 shared documents
 - [decades](../events/decades.md) - 7 shared documents
-- [2007](../events/2007.md) - 6 shared documents
-- [2014](../events/2014.md) - 6 shared documents
-- [annual](../events/annual.md) - 6 shared documents
+- [the year](../events/the-year.md) - 7 shared documents
+- [this year](../events/this-year.md) - 7 shared documents
+- [1970](../events/1970.md) - 6 shared documents
+- [1981](../events/1981.md) - 6 shared documents
+- [1990](../events/1990.md) - 6 shared documents
 
 ## Timeline
 

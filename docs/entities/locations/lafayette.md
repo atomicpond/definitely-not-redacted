@@ -57,26 +57,26 @@ Top 10 documents by mention frequency:
 - [Manhattan](manhattan.md) - 12 shared documents
 - [Paris](paris.md) - 12 shared documents
 - [the Upper East Side](the-upper-east-side.md) - 12 shared documents
-- [Europe](europe.md) - 12 shared documents
 - [Dallas](dallas.md) - 12 shared documents
+- [Europe](europe.md) - 12 shared documents
 - [Palm Beach](palm-beach.md) - 11 shared documents
 - [Queens](queens.md) - 11 shared documents
-- [Israel](israel.md) - 11 shared documents
 - [Coney Island](coney-island.md) - 11 shared documents
+- [Israel](israel.md) - 11 shared documents
 - [New Mexico](new-mexico.md) - 10 shared documents
 
 **Events:**
 
 - [last year](../events/last-year.md) - 12 shared documents
-- [Sunday](../events/sunday.md) - 11 shared documents
 - [Saturday](../events/saturday.md) - 11 shared documents
-- [two years](../events/two-years.md) - 11 shared documents
+- [Sunday](../events/sunday.md) - 11 shared documents
 - [ten years](../events/ten-years.md) - 11 shared documents
-- [the 1980s](../events/the-1980s.md) - 10 shared documents
-- [1982](../events/1982.md) - 10 shared documents
+- [two years](../events/two-years.md) - 11 shared documents
 - [1980](../events/1980.md) - 10 shared documents
-- [daily](../events/daily.md) - 9 shared documents
-- [1974](../events/1974.md) - 9 shared documents
+- [1982](../events/1982.md) - 10 shared documents
+- [the 1980s](../events/the-1980s.md) - 10 shared documents
+- [18 months](../events/18-months.md) - 9 shared documents
+- [1953](../events/1953.md) - 9 shared documents
 
 ## Timeline
 

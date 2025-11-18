@@ -40,11 +40,11 @@ Top 5 documents by mention frequency:
 
 **Events:**
 
-- [daily](daily.md) - 4 shared documents
-- [one day](one-day.md) - 4 shared documents
 - [a year](a-year.md) - 4 shared documents
-- [three days](three-days.md) - 4 shared documents
+- [daily](daily.md) - 4 shared documents
 - [decades](decades.md) - 4 shared documents
+- [one day](one-day.md) - 4 shared documents
+- [three days](three-days.md) - 4 shared documents
 
 ## Timeline
 

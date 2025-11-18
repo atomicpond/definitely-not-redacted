@@ -48,11 +48,11 @@ Top 7 documents by mention frequency:
 **Events:**
 
 - [years](years.md) - 7 shared documents
-- [2004](2004.md) - 7 shared documents
+- [1995](1995.md) - 7 shared documents
 - [2001](2001.md) - 7 shared documents
+- [2004](2004.md) - 7 shared documents
 - [2006](2006.md) - 7 shared documents
 - [decades](decades.md) - 7 shared documents
-- [1995](1995.md) - 7 shared documents
 - [five years](five-years.md) - 6 shared documents
 - [May](may.md) - 6 shared documents
 - [monthly](monthly.md) - 6 shared documents

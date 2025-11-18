@@ -25,10 +25,10 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Russia](../locations/russia.md) - 4 shared documents
-- [Paris](../locations/paris.md) - 4 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 4 shared documents
 - [India](../locations/india.md) - 4 shared documents
+- [Paris](../locations/paris.md) - 4 shared documents
+- [Russia](../locations/russia.md) - 4 shared documents
 
 ## Timeline
 

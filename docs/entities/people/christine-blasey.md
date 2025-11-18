@@ -26,18 +26,18 @@ Top 5 documents by mention frequency:
 **People:**
 
 - [Christine Blasey Ford](christine-blasey-ford.md) - 5 shared documents
+- [Donald 
+Trump](donald-trump.md) - 5 shared documents
 - [Mr. Kavanaugh](kavanaugh.md) - 5 shared documents
-- [Mr. 
-Trump](trump.md) - 5 shared documents
 
 **Organizations:**
 
 - [Supreme Court](../organizations/supreme-court.md) - 5 shared documents
 - [the Supreme Court](../organizations/the-supreme-court.md) - 5 shared documents
+- [New York Times](../organizations/new-york-times.md) - 4 shared documents
 - [Senate](../organizations/senate.md) - 4 shared documents
 - [the New York Times](../organizations/the-new-york-times.md) - 4 shared documents
 - [The New Yorker](../organizations/the-new-yorker.md) - 4 shared documents
-- [New York Times](../organizations/new-york-times.md) - 4 shared documents
 
 **Locations:**
 
@@ -46,9 +46,9 @@ Trump](trump.md) - 5 shared documents
 
 **Events:**
 
-- [Thursday](../events/thursday.md) - 4 shared documents
 - [Monday](../events/monday.md) - 4 shared documents
 - [Sept](../events/sept.md) - 4 shared documents
+- [Thursday](../events/thursday.md) - 4 shared documents
 
 ## Timeline
 

@@ -34,7 +34,6 @@ Top 10 documents by mention frequency:
 - [Los Angeles](../people/los-angeles.md) - 12 shared documents
 - [Vanity Fair](../people/vanity-fair.md) - 11 shared documents
 - [San Francisco](../people/san-francisco.md) - 9 shared documents
-- [Barack Obama](../people/barack-obama.md) - 8 shared documents
 - [Middle East](../people/middle-east.md) - 8 shared documents
 - [Academy Award](../people/academy-award.md) - 7 shared documents
 - [District Court](../people/district-court.md) - 7 shared documents
@@ -61,24 +60,24 @@ Top 10 documents by mention frequency:
 - [New York City](../locations/new-york-city.md) - 18 shared documents
 - [Paris](../locations/paris.md) - 17 shared documents
 - [California](../locations/california.md) - 16 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 16 shared documents
-- [London](../locations/london.md) - 16 shared documents
-- [the United States](../locations/the-united-states.md) - 16 shared documents
 - [England](../locations/england.md) - 16 shared documents
+- [London](../locations/london.md) - 16 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 16 shared documents
+- [the United States](../locations/the-united-states.md) - 16 shared documents
 - [Washington](../locations/washington.md) - 15 shared documents
-- [New York](../locations/new-york.md) - 13 shared documents
+- [Europe](../locations/europe.md) - 13 shared documents
 
 **Events:**
 
 - [last week](../events/last-week.md) - 19 shared documents
 - [years](../events/years.md) - 18 shared documents
 - [2005](../events/2005.md) - 17 shared documents
-- [this year](../events/this-year.md) - 16 shared documents
 - [summer](../events/summer.md) - 16 shared documents
-- [today](../events/today.md) - 15 shared documents
-- [2011](../events/2011.md) - 15 shared documents
+- [this year](../events/this-year.md) - 16 shared documents
 - [2008](../events/2008.md) - 15 shared documents
+- [2011](../events/2011.md) - 15 shared documents
 - [Friday](../events/friday.md) - 15 shared documents
+- [today](../events/today.md) - 15 shared documents
 - [2007](../events/2007.md) - 14 shared documents
 
 ## Timeline

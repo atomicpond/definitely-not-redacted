@@ -29,16 +29,16 @@ Top 6 documents by mention frequency:
 - [Michael Flynn](../people/michael-flynn.md) - 6 shared documents
 - [Arthur Anderson](../people/arthur-anderson.md) - 5 shared documents
 - [mccabe](../people/mccabe.md) - 5 shared documents
-- [mueller](../people/mueller.md) - 5 shared documents
+- [Robert Mueller](../people/robert-mueller.md) - 5 shared documents
 
 **Organizations:**
 
-- [Trump](trump.md) - 6 shared documents
+- [Enron](enron.md) - 6 shared documents
 - [FBI](fbi.md) - 6 shared documents
 - [Mueller](mueller.md) - 6 shared documents
-- [Enron](enron.md) - 6 shared documents
-- [HOUSE](house.md) - 4 shared documents
+- [Trump](trump.md) - 6 shared documents
 - [Comey](comey.md) - 4 shared documents
+- [HOUSE](house.md) - 4 shared documents
 - [SNL](snl.md) - 4 shared documents
 
 **Locations:**
@@ -49,8 +49,8 @@ Top 6 documents by mention frequency:
 
 - [2018](../events/2018.md) - 4 shared documents
 - [one day](../events/one-day.md) - 4 shared documents
-- [years ago](../events/years-ago.md) - 4 shared documents
 - [weekly](../events/weekly.md) - 4 shared documents
+- [years ago](../events/years-ago.md) - 4 shared documents
 
 ## Timeline
 

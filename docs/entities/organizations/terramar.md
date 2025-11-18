@@ -28,8 +28,9 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [Maxwell](../people/maxwell.md) - 6 shared documents
-- [CLINTON](../people/clinton.md) - 5 shared documents
+- [Ghislaine Maxwell](../people/ghislaine-maxwell.md) - 6 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 5 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 5 shared documents
 
 **Organizations:**

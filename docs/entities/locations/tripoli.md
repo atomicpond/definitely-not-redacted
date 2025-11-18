@@ -30,15 +30,16 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 13 shared documents
-- [President Obama](../people/president-obama.md) - 12 shared documents
-- [Barack Obama](../people/barack-obama.md) - 11 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 10 shared documents
 - [Hosni Mubarak](../people/hosni-mubarak.md) - 9 shared documents
-- [Mr. Obama](../people/obama.md) - 9 shared documents
 - [Assad](../people/assad.md) - 8 shared documents
 - [Tahrir Square](../people/tahrir-square.md) - 8 shared documents
 - [White House](../people/white-house.md) - 8 shared documents
 - [Bashar al-Assad](../people/bashar-al-assad.md) - 7 shared documents
+- [Mr. Mubarak](../people/mubarak.md) - 7 shared documents
+- [Muslim 
+Brotherhood](../people/muslim-brotherhood.md) - 7 shared documents
+- [Security Council](../people/security-council.md) - 7 shared documents
 
 **Organizations:**
 
@@ -56,28 +57,28 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [Cairo](cairo.md) - 17 shared documents
-- [Iran](iran.md) - 15 shared documents
-- [Syria](syria.md) - 15 shared documents
-- [Israel](israel.md) - 15 shared documents
 - [Egypt](egypt.md) - 15 shared documents
+- [Iran](iran.md) - 15 shared documents
+- [Israel](israel.md) - 15 shared documents
+- [Syria](syria.md) - 15 shared documents
 - [Turkey](turkey.md) - 14 shared documents
 - [Washington](washington.md) - 14 shared documents
-- [the Middle East](the-middle-east.md) - 14 shared documents
 - [Iraq](iraq.md) - 14 shared documents
 - [Libya](libya.md) - 14 shared documents
+- [the Middle East](the-middle-east.md) - 14 shared documents
 
 **Events:**
 
-- [years](../events/years.md) - 12 shared documents
 - [last week](../events/last-week.md) - 12 shared documents
+- [years](../events/years.md) - 12 shared documents
 - [six months](../events/six-months.md) - 11 shared documents
 - [today](../events/today.md) - 11 shared documents
 - [this year](../events/this-year.md) - 10 shared documents
 - [2005](../events/2005.md) - 9 shared documents
 - [2006](../events/2006.md) - 9 shared documents
 - [2003](../events/2003.md) - 8 shared documents
-- [October](../events/october.md) - 8 shared documents
-- [last year](../events/last-year.md) - 8 shared documents
+- [a decade](../events/a-decade.md) - 8 shared documents
+- [Christmas](../events/christmas.md) - 8 shared documents
 
 ## Timeline
 

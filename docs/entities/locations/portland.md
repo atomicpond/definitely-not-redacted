@@ -52,26 +52,26 @@ Top 10 documents by mention frequency:
 - [Los Angeles](los-angeles.md) - 10 shared documents
 - [Oregon](oregon.md) - 10 shared documents
 - [San Francisco](san-francisco.md) - 9 shared documents
+- [Boston](boston.md) - 9 shared documents
 - [Canada](canada.md) - 9 shared documents
 - [Ohio](ohio.md) - 9 shared documents
-- [Boston](boston.md) - 9 shared documents
 - [Spain](spain.md) - 8 shared documents
-- [California](california.md) - 8 shared documents
 - [America](america.md) - 8 shared documents
+- [California](california.md) - 8 shared documents
 - [Nevada](nevada.md) - 8 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 8 shared documents
 - [last year](../events/last-year.md) - 8 shared documents
+- [today](../events/today.md) - 8 shared documents
 - [years](../events/years.md) - 8 shared documents
 - [2009](../events/2009.md) - 7 shared documents
-- [Thursday](../events/thursday.md) - 7 shared documents
-- [summer](../events/summer.md) - 7 shared documents
 - [2011](../events/2011.md) - 7 shared documents
 - [Friday](../events/friday.md) - 7 shared documents
-- [tomorrow](../events/tomorrow.md) - 7 shared documents
 - [several years](../events/several-years.md) - 7 shared documents
+- [summer](../events/summer.md) - 7 shared documents
+- [Thursday](../events/thursday.md) - 7 shared documents
+- [tomorrow](../events/tomorrow.md) - 7 shared documents
 
 ## Timeline
 

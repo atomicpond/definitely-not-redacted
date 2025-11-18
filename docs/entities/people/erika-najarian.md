@@ -37,12 +37,12 @@ Top 6 documents by mention frequency:
 - [Merrill Lynch](../organizations/merrill-lynch.md) - 6 shared documents
 - [Pierce, Fenner & Smith Incorporated](../organizations/pierce-fenner-smith-incorporated.md) - 6 shared documents
 - [Trump](../organizations/trump.md) - 6 shared documents
+- [Bank of America Merrill Lynch](../organizations/bank-of-america-merrill-lynch.md) - 4 shared documents
 - [ETF](../organizations/etf.md) - 4 shared documents
 - [Financials](../organizations/financials.md) - 4 shared documents
 - [HOUSE](../organizations/house.md) - 4 shared documents
 - [Senate](../organizations/senate.md) - 4 shared documents
 - [XLF](../organizations/xlf.md) - 4 shared documents
-- [Bank of America Merrill Lynch](../organizations/bank-of-america-merrill-lynch.md) - 4 shared documents
 
 **Locations:**
 

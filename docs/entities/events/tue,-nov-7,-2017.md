@@ -39,7 +39,7 @@ Top 6 documents by mention frequency:
 
 **Events:**
 
-- [11/7/2017](11/7/2017.md) - 4 shared documents
+- **11/7/2017** - 4 shared documents
 
 ## Timeline
 

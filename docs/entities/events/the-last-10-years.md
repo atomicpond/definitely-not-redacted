@@ -27,10 +27,10 @@ Top 5 documents by mention frequency:
 **Events:**
 
 - [today](today.md) - 5 shared documents
-- [2004](2004.md) - 4 shared documents
-- [2015](2015.md) - 4 shared documents
 - [2002](2002.md) - 4 shared documents
+- [2004](2004.md) - 4 shared documents
 - [2013](2013.md) - 4 shared documents
+- [2015](2015.md) - 4 shared documents
 
 ## Timeline
 

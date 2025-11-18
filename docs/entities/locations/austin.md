@@ -55,15 +55,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [Friday](../events/friday.md) - 7 shared documents
+- [1985](../events/1985.md) - 6 shared documents
 - [2000](../events/2000.md) - 6 shared documents
 - [2012](../events/2012.md) - 6 shared documents
 - [daily](../events/daily.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
-- [1985](../events/1985.md) - 6 shared documents
-- [weeks](../events/weeks.md) - 6 shared documents
 - [tomorrow](../events/tomorrow.md) - 6 shared documents
-- [2018](../events/2018.md) - 5 shared documents
-- [the year](../events/the-year.md) - 5 shared documents
+- [weeks](../events/weeks.md) - 6 shared documents
+- [years](../events/years.md) - 6 shared documents
+- [1960](../events/1960.md) - 5 shared documents
+- [1966](../events/1966.md) - 5 shared documents
 
 ## Timeline
 

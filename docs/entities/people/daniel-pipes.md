@@ -28,7 +28,6 @@ Top 8 documents by mention frequency:
 **People:**
 
 - [Islamic Republic](islamic-republic.md) - 7 shared documents
-- [President Obama](president-obama.md) - 7 shared documents
 - [Freedom Center](freedom-center.md) - 5 shared documents
 - [General Assembly](general-assembly.md) - 5 shared documents
 - [Genesis Chapter](genesis-chapter.md) - 5 shared documents
@@ -37,6 +36,7 @@ Top 8 documents by mention frequency:
 - [Islamic Law](islamic-law.md) - 5 shared documents
 - [Istanbul Process](istanbul-process.md) - 5 shared documents
 - [Jamie Glazov](jamie-glazov.md) - 5 shared documents
+- [Jamie Glazov Comments](jamie-glazov-comments.md) - 5 shared documents
 
 **Organizations:**
 
@@ -47,35 +47,35 @@ Top 8 documents by mention frequency:
 - [the Muslim Brotherhood](../organizations/the-muslim-brotherhood.md) - 8 shared documents
 - [Islam](../organizations/islam.md) - 7 shared documents
 - [Pentagon](../organizations/pentagon.md) - 7 shared documents
-- [Muslim Brotherhood](../organizations/muslim-brotherhood.md) - 6 shared documents
 - [General Assembly](../organizations/general-assembly.md) - 6 shared documents
-- [the Palestinian Authority](../organizations/the-palestinian-authority.md) - 5 shared documents
+- [Muslim Brotherhood](../organizations/muslim-brotherhood.md) - 6 shared documents
+- [& quot;them](../organizations/quotthem.md) - 5 shared documents
 
 **Locations:**
 
-- [Russia](../locations/russia.md) - 8 shared documents
-- [Israel](../locations/israel.md) - 8 shared documents
 - [Gaza](../locations/gaza.md) - 8 shared documents
+- [Israel](../locations/israel.md) - 8 shared documents
+- [Russia](../locations/russia.md) - 8 shared documents
 - [West](../locations/west.md) - 8 shared documents
-- [Vietnam](../locations/vietnam.md) - 6 shared documents
 - [anti-Israel](../locations/anti-israel.md) - 6 shared documents
+- [Vietnam](../locations/vietnam.md) - 6 shared documents
+- [Cincinnati](../locations/cincinnati.md) - 5 shared documents
 - [Earth](../locations/earth.md) - 5 shared documents
-- [the Soviet Union](../locations/the-soviet-union.md) - 5 shared documents
+- [Pearl Harbor](../locations/pearl-harbor.md) - 5 shared documents
 - [Rome](../locations/rome.md) - 5 shared documents
-- [the State of Israel](../locations/the-state-of-israel.md) - 5 shared documents
 
 **Events:**
 
-- [last year](../events/last-year.md) - 6 shared documents
 - [2013](../events/2013.md) - 6 shared documents
+- [last year](../events/last-year.md) - 6 shared documents
+- [1991](../events/1991.md) - 5 shared documents
+- [2/8/2013](../events/2-8-2013.md) - 5 shared documents
 - [70](../events/70.md) - 5 shared documents
 - [daily](../events/daily.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
-- [week](../events/week.md) - 5 shared documents
 - [decades](../events/decades.md) - 5 shared documents
+- [February 8, 2013](../events/february-8-2013.md) - 5 shared documents
+- [Just this week](../events/just-this-week.md) - 5 shared documents
 - [the 1950s](../events/the-1950s.md) - 5 shared documents
-- [the day](../events/the-day.md) - 5 shared documents
-- [1991](../events/1991.md) - 5 shared documents
 
 ## Timeline
 

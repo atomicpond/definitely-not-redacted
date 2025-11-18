@@ -30,13 +30,11 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 10 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 7 shared documents
 - [Bill 
-Clinton](../people/bill-clinton.md) - 7 shared documents
-- [Epstein](../people/epstein.md) - 7 shared documents
-- [Clintons](../people/clintons.md) - 6 shared documents
+Clinton](../people/bill-clinton.md) - 6 shared documents
 - [David Pegg](../people/david-pegg.md) - 6 shared documents
-- [Hilary Clinton](../people/hilary-clinton.md) - 6 shared documents
+- [Hillary Clinton](../people/hillary-clinton.md) - 6 shared documents
 - [Kevin Spacey](../people/kevin-spacey.md) - 6 shared documents
 - [Leslie Wexner](../people/leslie-wexner.md) - 6 shared documents
 - [Prince 

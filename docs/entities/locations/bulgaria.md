@@ -47,12 +47,12 @@ Top 9 documents by mention frequency:
 **Events:**
 
 - [2000](../events/2000.md) - 7 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [2012](../events/2012.md) - 6 shared documents
-- [last year](../events/last-year.md) - 6 shared documents
 - [2001](../events/2001.md) - 6 shared documents
 - [2005](../events/2005.md) - 6 shared documents
+- [2012](../events/2012.md) - 6 shared documents
 - [2013](../events/2013.md) - 6 shared documents
+- [last year](../events/last-year.md) - 6 shared documents
+- [today](../events/today.md) - 6 shared documents
 - [2004](../events/2004.md) - 5 shared documents
 - [2007](../events/2007.md) - 5 shared documents
 - [annual](../events/annual.md) - 5 shared documents

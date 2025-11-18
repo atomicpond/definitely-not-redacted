@@ -31,9 +31,9 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Washington](../locations/washington.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
 - [Boston](../locations/boston.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 
@@ -41,8 +41,8 @@ Top 5 documents by mention frequency:
 - [today](../events/today.md) - 5 shared documents
 - [2000](../events/2000.md) - 4 shared documents
 - [2012](../events/2012.md) - 4 shared documents
-- [last week](../events/last-week.md) - 4 shared documents
 - [February](../events/february.md) - 4 shared documents
+- [last week](../events/last-week.md) - 4 shared documents
 - [the next week](../events/the-next-week.md) - 4 shared documents
 
 ## Timeline

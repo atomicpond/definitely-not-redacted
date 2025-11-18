@@ -31,26 +31,26 @@ Top 6 documents by mention frequency:
 **Locations:**
 
 - [China](../locations/china.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
+- [Russia](../locations/russia.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
-- [USA](../locations/usa.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
 - [France](../locations/france.md) - 4 shared documents
 - [Paris](../locations/paris.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 4 shared documents
+- [USA](../locations/usa.md) - 4 shared documents
 
 **Events:**
 
+- [1999](../events/1999.md) - 5 shared documents
 - [2000](../events/2000.md) - 5 shared documents
 - [years](../events/years.md) - 5 shared documents
-- [1999](../events/1999.md) - 5 shared documents
-- [2004](../events/2004.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
 - [1997](../events/1997.md) - 4 shared documents
 - [1998](../events/1998.md) - 4 shared documents
-- [three years](../events/three-years.md) - 4 shared documents
+- [2004](../events/2004.md) - 4 shared documents
 - [decades](../events/decades.md) - 4 shared documents
+- [three years](../events/three-years.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

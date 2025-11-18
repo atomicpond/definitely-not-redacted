@@ -31,7 +31,7 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [Bradley Edwards](../people/bradley-edwards.md) - 4 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 4 shared documents
 - [Jack Scarola](../people/jack-scarola.md) - 4 shared documents
 - [Jane Doe](../people/jane-doe.md) - 4 shared documents
 - [Ken Starr](../people/ken-starr.md) - 4 shared documents
@@ -66,13 +66,13 @@ Top 9 documents by mention frequency:
 
 - [2009](2009.md) - 6 shared documents
 - [2012](2012.md) - 6 shared documents
-- [April](april.md) - 6 shared documents
 - [2013](2013.md) - 6 shared documents
+- [April](april.md) - 6 shared documents
 - [this year](this-year.md) - 5 shared documents
-- [2007](2007.md) - 5 shared documents
-- [recent weeks](recent-weeks.md) - 5 shared documents
 - [2005](2005.md) - 5 shared documents
+- [2007](2007.md) - 5 shared documents
 - [2010](2010.md) - 5 shared documents
+- [recent weeks](recent-weeks.md) - 5 shared documents
 - [three-year](three-year.md) - 4 shared documents
 
 ## Timeline

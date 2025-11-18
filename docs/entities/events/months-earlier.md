@@ -61,15 +61,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [August](august.md) - 11 shared documents
+- [18 months](18-months.md) - 9 shared documents
+- [2006](2006.md) - 9 shared documents
 - [July](july.md) - 9 shared documents
 - [last week](last-week.md) - 9 shared documents
-- [2006](2006.md) - 9 shared documents
-- [18 months](18-months.md) - 9 shared documents
 - [October](october.md) - 8 shared documents
 - [several months](several-months.md) - 8 shared documents
 - [three years](three-years.md) - 8 shared documents
 - [two years](two-years.md) - 8 shared documents
-- [last year](last-year.md) - 8 shared documents
+- [1981](1981.md) - 8 shared documents
 
 ## Timeline
 

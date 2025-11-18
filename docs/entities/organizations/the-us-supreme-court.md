@@ -40,8 +40,8 @@ Top 7 documents by mention frequency:
 - [Reuters](reuters.md) - 5 shared documents
 - [the Supreme Court](the-supreme-court.md) - 5 shared documents
 - [Trump](trump.md) - 4 shared documents
-- [HOUSE](house.md) - 4 shared documents
 - [FBI](fbi.md) - 4 shared documents
+- [HOUSE](house.md) - 4 shared documents
 - [Supreme Court](supreme-court.md) - 4 shared documents
 
 **Locations:**
@@ -49,24 +49,24 @@ Top 7 documents by mention frequency:
 - [Washington](../locations/washington.md) - 6 shared documents
 - [Canada](../locations/canada.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
 - [America](../locations/america.md) - 4 shared documents
-- [Texas](../locations/texas.md) - 4 shared documents
+- [California](../locations/california.md) - 4 shared documents
 - [Pennsylvania](../locations/pennsylvania.md) - 4 shared documents
+- [Texas](../locations/texas.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 4 shared documents
 
 **Events:**
 
 - [1996](../events/1996.md) - 5 shared documents
 - [years](../events/years.md) - 5 shared documents
-- [2004](../events/2004.md) - 4 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [2014](../events/2014.md) - 4 shared documents
-- [2012](../events/2012.md) - 4 shared documents
-- [1997](../events/1997.md) - 4 shared documents
-- [1998](../events/1998.md) - 4 shared documents
-- [2001](../events/2001.md) - 4 shared documents
-- [2010](../events/2010.md) - 4 shared documents
+- [1964](../events/1964.md) - 4 shared documents
+- [1969](../events/1969.md) - 4 shared documents
+- [1972](../events/1972.md) - 4 shared documents
+- [1980](../events/1980.md) - 4 shared documents
+- [1983](../events/1983.md) - 4 shared documents
+- [1984](../events/1984.md) - 4 shared documents
+- [1987](../events/1987.md) - 4 shared documents
+- [1988](../events/1988.md) - 4 shared documents
 
 ## Timeline
 

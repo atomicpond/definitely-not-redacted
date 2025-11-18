@@ -28,41 +28,41 @@ Top 6 documents by mention frequency:
 - [Paul G. Cassell](paul-g-cassell.md) - 6 shared documents
 - [L. GIUFFRE](l-giuffre.md) - 6 shared documents
 - [Sigrid S. McCawley](sigrid-s-mccawley.md) - 5 shared documents
+- [Brad Edwards](brad-edwards.md) - 5 shared documents
 - [Jane Doe](jane-doe.md) - 5 shared documents
-- [Bradley J. Edwards](bradley-j-edwards.md) - 5 shared documents
 
 **Organizations:**
 
 - [FISTOS & LEHRMAN](../organizations/fistos-lehrman.md) - 5 shared documents
 - [JAFFE](../organizations/jaffe.md) - 5 shared documents
-- [Fed](../organizations/fed.md) - 4 shared documents
 - [Court](../organizations/court.md) - 4 shared documents
+- [Fed](../organizations/fed.md) - 4 shared documents
 
 **Locations:**
 
 - [New York](../locations/new-york.md) - 6 shared documents
 - [United States](../locations/united-states.md) - 6 shared documents
 - [Virginia](../locations/virginia.md) - 6 shared documents
-- [U.S.](../locations/us.md) - 5 shared documents
-- [Salt Lake City](../locations/salt-lake-city.md) - 5 shared documents
-- [P.L.](../locations/pl.md) - 5 shared documents
-- [Lauderdale](../locations/lauderdale.md) - 5 shared documents
 - [Lake City, UT](../locations/lake-city-ut.md) - 5 shared documents
+- [Lauderdale](../locations/lauderdale.md) - 5 shared documents
 - [Lauderdale, FL](../locations/lauderdale-fl.md) - 5 shared documents
-- [London](../locations/london.md) - 4 shared documents
+- [P.L.](../locations/pl.md) - 5 shared documents
+- [Salt Lake City](../locations/salt-lake-city.md) - 5 shared documents
+- [U.S.](../locations/us.md) - 5 shared documents
+- [Florida](../locations/florida.md) - 4 shared documents
 
 **Events:**
 
 - [15](../events/15.md) - 5 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [2015](../events/2015.md) - 4 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [2011](../events/2011.md) - 4 shared documents
+- [1989](../events/1989.md) - 4 shared documents
 - [1999](../events/1999.md) - 4 shared documents
 - [2001](../events/2001.md) - 4 shared documents
+- [2009](../events/2009.md) - 4 shared documents
 - [2010](../events/2010.md) - 4 shared documents
+- [2011](../events/2011.md) - 4 shared documents
 - [2013](../events/2013.md) - 4 shared documents
-- [1989](../events/1989.md) - 4 shared documents
+- [2015](../events/2015.md) - 4 shared documents
+- [39](../events/39.md) - 4 shared documents
 
 ## Timeline
 

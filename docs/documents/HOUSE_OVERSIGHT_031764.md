@@ -17,7 +17,7 @@ Trump](../entities/people/mr-trump.md) - 3 mentions
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
 - [Xi](../entities/people/xi.md) - 1 mention
 - [XI Jinping](../entities/people/xi-jinping.md) - 1 mention
-- [Mr. Cohen](../entities/people/mr-cohen.md) - 1 mention
+- [Mr. Cohen](../entities/people/cohen.md) - 1 mention
 - [Reid Weingarten](../entities/people/reid-weingarten.md) - 1 mention
 
 ### Organizations

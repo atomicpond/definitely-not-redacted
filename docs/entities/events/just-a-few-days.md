@@ -31,11 +31,11 @@ Top 5 documents by mention frequency:
 - [the day](the-day.md) - 5 shared documents
 - [today](today.md) - 5 shared documents
 - [years](years.md) - 5 shared documents
-- [2011](2011.md) - 4 shared documents
 - [2005](2005.md) - 4 shared documents
-- [Friday](friday.md) - 4 shared documents
-- [December](december.md) - 4 shared documents
 - [2006](2006.md) - 4 shared documents
+- [2011](2011.md) - 4 shared documents
+- [December](december.md) - 4 shared documents
+- [Friday](friday.md) - 4 shared documents
 
 ## Timeline
 

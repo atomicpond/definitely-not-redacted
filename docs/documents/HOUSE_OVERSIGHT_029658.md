@@ -15,7 +15,7 @@
 - [Federal Reserve](../entities/people/federal-reserve.md) - 2 mentions
 - [Angela Merkel](../entities/people/angela-merkel.md) - 2 mentions
 - [East Asia](../entities/people/east-asia.md) - 2 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 2 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 2 mentions
 - [George W. Bush](../entities/people/george-w-bush.md) - 2 mentions
 - [Paul Keating](../entities/people/paul-keating.md) - 2 mentions
 - [Katherine Keating](../entities/people/katherine-keating.md) - 2 mentions

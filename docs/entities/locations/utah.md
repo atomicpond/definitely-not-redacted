@@ -35,10 +35,10 @@ Top 10 documents by mention frequency:
 - [White House](../people/white-house.md) - 12 shared documents
 - [Harvard University](../people/harvard-university.md) - 11 shared documents
 - [Jane Doe](../people/jane-doe.md) - 10 shared documents
-- [President Obama](../people/president-obama.md) - 10 shared documents
 - [San Francisco](../people/san-francisco.md) - 10 shared documents
-- [Bradley J. Edwards](../people/bradley-j-edwards.md) - 9 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 9 shared documents
 - [Crime Victims](../people/crime-victims.md) - 9 shared documents
+- [District Court](../people/district-court.md) - 9 shared documents
 
 **Organizations:**
 
@@ -71,13 +71,13 @@ Top 10 documents by mention frequency:
 - [2011](../events/2011.md) - 23 shared documents
 - [1999](../events/1999.md) - 21 shared documents
 - [2009](../events/2009.md) - 20 shared documents
+- [2002](../events/2002.md) - 19 shared documents
 - [2004](../events/2004.md) - 19 shared documents
 - [2007](../events/2007.md) - 19 shared documents
 - [2010](../events/2010.md) - 19 shared documents
-- [2002](../events/2002.md) - 19 shared documents
+- [1998](../events/1998.md) - 18 shared documents
 - [2003](../events/2003.md) - 18 shared documents
-- [2012](../events/2012.md) - 18 shared documents
-- [daily](../events/daily.md) - 18 shared documents
+- [2005](../events/2005.md) - 18 shared documents
 
 ## Timeline
 

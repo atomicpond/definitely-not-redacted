@@ -29,10 +29,10 @@ Top 6 documents by mention frequency:
 
 **Organizations:**
 
+- [Comey](comey.md) - 4 shared documents
 - [FBI](fbi.md) - 4 shared documents
 - [Justice](justice.md) - 4 shared documents
 - [Mueller](mueller.md) - 4 shared documents
-- [Comey](comey.md) - 4 shared documents
 - [National Security](national-security.md) - 4 shared documents
 
 **Locations:**
@@ -41,8 +41,8 @@ Top 6 documents by mention frequency:
 
 **Events:**
 
-- [April](../events/april.md) - 4 shared documents
 - [16 months](../events/16-months.md) - 4 shared documents
+- [April](../events/april.md) - 4 shared documents
 - [every day](../events/every-day.md) - 4 shared documents
 - [three days](../events/three-days.md) - 4 shared documents
 

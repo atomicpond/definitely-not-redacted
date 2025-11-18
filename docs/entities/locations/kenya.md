@@ -54,8 +54,8 @@ Top 10 documents by mention frequency:
 - [Mexico](mexico.md) - 16 shared documents
 - [Russia](russia.md) - 16 shared documents
 - [China](china.md) - 16 shared documents
-- [Japan](japan.md) - 16 shared documents
 - [France](france.md) - 16 shared documents
+- [Japan](japan.md) - 16 shared documents
 - [Pakistan](pakistan.md) - 15 shared documents
 
 **Events:**
@@ -63,13 +63,13 @@ Top 10 documents by mention frequency:
 - [today](../events/today.md) - 19 shared documents
 - [1993](../events/1993.md) - 17 shared documents
 - [2012](../events/2012.md) - 15 shared documents
-- [2003](../events/2003.md) - 14 shared documents
-- [2007](../events/2007.md) - 14 shared documents
 - [1998](../events/1998.md) - 14 shared documents
 - [2001](../events/2001.md) - 14 shared documents
+- [2003](../events/2003.md) - 14 shared documents
+- [2007](../events/2007.md) - 14 shared documents
 - [2004](../events/2004.md) - 13 shared documents
+- [2010](../events/2010.md) - 13 shared documents
 - [the 1980s](../events/the-1980s.md) - 13 shared documents
-- [years](../events/years.md) - 13 shared documents
 
 ## Timeline
 

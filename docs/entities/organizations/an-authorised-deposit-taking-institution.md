@@ -43,23 +43,23 @@ Corporation](bank-of-america-corporation.md) - 13 shared documents
 
 **Locations:**
 
-- [Dubai](../locations/dubai.md) - 13 shared documents
-- [Japan](../locations/japan.md) - 13 shared documents
-- [Russia](../locations/russia.md) - 13 shared documents
+- [Argentina](../locations/argentina.md) - 13 shared documents
+- [Asia](../locations/asia.md) - 13 shared documents
+- [Australia](../locations/australia.md) - 13 shared documents
+- [BaFin](../locations/bafin.md) - 13 shared documents
 - [Brazil](../locations/brazil.md) - 13 shared documents
 - [Canada](../locations/canada.md) - 13 shared documents
-- [Germany](../locations/germany.md) - 13 shared documents
-- [Mexico](../locations/mexico.md) - 13 shared documents
-- [Asia](../locations/asia.md) - 13 shared documents
+- [Dubai](../locations/dubai.md) - 13 shared documents
 - [Frankfurt](../locations/frankfurt.md) - 13 shared documents
-- [Israel](../locations/israel.md) - 13 shared documents
+- [Germany](../locations/germany.md) - 13 shared documents
+- [Hong Kong](../locations/hong-kong.md) - 13 shared documents
 
 **Events:**
 
-- [2001](../events/2001.md) - 13 shared documents
 - [1959](../events/1959.md) - 13 shared documents
-- [the day](../events/the-day.md) - 13 shared documents
 - [198602883D](../events/198602883d.md) - 13 shared documents
+- [2001](../events/2001.md) - 13 shared documents
+- [the day](../events/the-day.md) - 13 shared documents
 - [2017](../events/2017.md) - 11 shared documents
 - [2016](../events/2016.md) - 10 shared documents
 

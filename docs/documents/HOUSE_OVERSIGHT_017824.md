@@ -29,7 +29,7 @@
 
 ### Events/Dates
 - [six months](../entities/events/six-months.md) - 1 mention
-- [04/16/19](../entities/events/041619.md) - 1 mention
+- [04/16/19](../entities/events/04-16-19.md) - 1 mention
 
 ## Document Text
 

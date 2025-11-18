@@ -54,8 +54,8 @@ Top 6 documents by mention frequency:
 - [quarterly](quarterly.md) - 5 shared documents
 - [recent weeks](recent-weeks.md) - 5 shared documents
 - [2015](2015.md) - 5 shared documents
-- [2018](2018.md) - 4 shared documents
 - [10-year](10-year.md) - 4 shared documents
+- [2018](2018.md) - 4 shared documents
 
 ## Timeline
 

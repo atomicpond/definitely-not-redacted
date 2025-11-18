@@ -12,7 +12,7 @@
 - [jeffrey E. <](../entities/people/jeffrey-e.md) - 3 mentions
 - [On Wed](../entities/people/on-wed.md) - 3 mentions
 - [On Wednesday](../entities/people/on-wednesday.md) - 3 mentions
-- [Mr. Strzok](../entities/people/mr-strzok.md) - 3 mentions
+- [Mr. Strzok](../entities/people/strzok.md) - 3 mentions
 - [CLINTON](../entities/people/clinton.md) - 2 mentions
 - [mueller](../entities/people/mueller.md) - 2 mentions
 - [mccabe](../entities/people/mccabe.md) - 2 mentions

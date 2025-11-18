@@ -32,8 +32,8 @@ Top 7 documents by mention frequency:
 **Locations:**
 
 - [New York](../locations/new-york.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 - [the United States](../locations/the-united-states.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 ## Timeline
 

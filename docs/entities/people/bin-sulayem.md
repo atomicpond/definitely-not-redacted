@@ -27,13 +27,13 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [Europe](../locations/europe.md) - 4 shared documents
 - [Cyprus](../locations/cyprus.md) - 4 shared documents
+- [Europe](../locations/europe.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 4 shared documents
 - [Friday](../events/friday.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
 
 ## Timeline
 

@@ -31,21 +31,20 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Trump](president-trump.md) - 18 shared documents
-- [Mr. 
-Trump](trump.md) - 17 shared documents
 - [White House](white-house.md) - 15 shared documents
 - [New
 York](new-york.md) - 14 shared documents
 - [United 
 States](united-states.md) - 12 shared documents
-- [Mr. Obama](obama.md) - 10 shared documents
 - [Hillary Clinton](hillary-clinton.md) - 10 shared documents
 - [Rod 
 Rosenstein](rod-rosenstein.md) - 9 shared documents
 - [Supreme Court](supreme-court.md) - 9 shared documents
-- [Donald 
-Trump](donald-trump.md) - 9 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 9 shared documents
+- [Robert Mueller](robert-mueller.md) - 6 shared documents
+- [Saudi Arabia](saudi-arabia.md) - 6 shared documents
+- [Senate Minority Leader](senate-minority-leader.md) - 6 shared documents
 
 **Organizations:**
 
@@ -53,11 +52,11 @@ Trump](donald-trump.md) - 9 shared documents
 - [HOUSE](../organizations/house.md) - 20 shared documents
 - [New York Times](../organizations/new-york-times.md) - 18 shared documents
 - [Trump](../organizations/trump.md) - 15 shared documents
-- [Senate](../organizations/senate.md) - 12 shared documents
 - [Congress](../organizations/congress.md) - 12 shared documents
-- [White House](../organizations/white-house.md) - 10 shared documents
-- [the White House](../organizations/the-white-house.md) - 10 shared documents
+- [Senate](../organizations/senate.md) - 12 shared documents
 - [the Supreme Court](../organizations/the-supreme-court.md) - 10 shared documents
+- [the White House](../organizations/the-white-house.md) - 10 shared documents
+- [White House](../organizations/white-house.md) - 10 shared documents
 - [Times](../organizations/times.md) - 9 shared documents
 
 **Locations:**
@@ -74,16 +73,16 @@ Trump](donald-trump.md) - 9 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 14 shared documents
 - [last year](../events/last-year.md) - 14 shared documents
-- [2018](../events/2018.md) - 13 shared documents
+- [today](../events/today.md) - 14 shared documents
 - [2012](../events/2012.md) - 13 shared documents
+- [2018](../events/2018.md) - 13 shared documents
 - [2016](../events/2016.md) - 12 shared documents
 - [Thursday](../events/thursday.md) - 11 shared documents
 - [Monday](../events/monday.md) - 10 shared documents
-- [this year](../events/this-year.md) - 9 shared documents
 - [2010](../events/2010.md) - 9 shared documents
 - [Friday](../events/friday.md) - 9 shared documents
+- [Sept](../events/sept.md) - 9 shared documents
 
 ## Timeline
 

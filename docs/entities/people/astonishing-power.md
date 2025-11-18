@@ -34,8 +34,8 @@ Carlsbad](road-carlsbad.md) - 5 shared documents
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 5 shared documents
 - [CA 92009](../organizations/ca-92009.md) - 5 shared documents
+- [HOUSE](../organizations/house.md) - 5 shared documents
 
 **Locations:**
 
@@ -44,9 +44,9 @@ Carlsbad](road-carlsbad.md) - 5 shared documents
 **Events:**
 
 - [2013](../events/2013.md) - 5 shared documents
-- [Costa Del Mar Road](../events/costa-del-mar-road.md) - 5 shared documents
 - [Chopra 
 2013](../events/chopra-2013.md) - 5 shared documents
+- [Costa Del Mar Road](../events/costa-del-mar-road.md) - 5 shared documents
 
 ## Timeline
 

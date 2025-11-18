@@ -33,32 +33,32 @@ Top 5 documents by mention frequency:
 - [Private Wealth Management](private-wealth-management.md) - 5 shared documents
 - [the Securities and Exchange Commission](the-securities-and-exchange-commission.md) - 5 shared documents
 - [Bloomberg](bloomberg.md) - 5 shared documents
-- [Goldman Sachs](goldman-sachs.md) - 5 shared documents
 - [Global Investment Research](global-investment-research.md) - 5 shared documents
+- [Goldman Sachs](goldman-sachs.md) - 5 shared documents
 
 **Locations:**
 
 - [China](../locations/china.md) - 5 shared documents
 - [non-US](../locations/non-us.md) - 5 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 4 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
-- [Japan](../locations/japan.md) - 4 shared documents
+- [Asia](../locations/asia.md) - 4 shared documents
+- [Australia](../locations/australia.md) - 4 shared documents
 - [Brazil](../locations/brazil.md) - 4 shared documents
 - [Canada](../locations/canada.md) - 4 shared documents
-- [Mexico](../locations/mexico.md) - 4 shared documents
-- [Asia](../locations/asia.md) - 4 shared documents
+- [Hong Kong](../locations/hong-kong.md) - 4 shared documents
 - [Iran](../locations/iran.md) - 4 shared documents
+- [Iraq](../locations/iraq.md) - 4 shared documents
+- [Israel](../locations/israel.md) - 4 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 5 shared documents
-- [2018](../events/2018.md) - 4 shared documents
-- [2015](../events/2015.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
-- [monthly](../events/monthly.md) - 4 shared documents
-- [2019](../events/2019.md) - 4 shared documents
 - [2006](../events/2006.md) - 4 shared documents
+- [2015](../events/2015.md) - 4 shared documents
+- [2018](../events/2018.md) - 4 shared documents
+- [2019](../events/2019.md) - 4 shared documents
+- [annual](../events/annual.md) - 4 shared documents
+- [monthly](../events/monthly.md) - 4 shared documents
+- [years](../events/years.md) - 4 shared documents
 
 ## Timeline
 

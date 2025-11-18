@@ -27,7 +27,6 @@ Top 8 documents by mention frequency:
 
 **People:**
 
-- [President Obama](president-obama.md) - 7 shared documents
 - [Harvard University](harvard-university.md) - 4 shared documents
 - [John Brockman](john-brockman.md) - 4 shared documents
 
@@ -38,29 +37,29 @@ Top 8 documents by mention frequency:
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 6 shared documents
-- [China](../locations/china.md) - 6 shared documents
-- [Europe](../locations/europe.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 6 shared documents
-- [Germany](../locations/germany.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
-- [London](../locations/london.md) - 6 shared documents
 - [America](../locations/america.md) - 6 shared documents
-- [the United States](../locations/the-united-states.md) - 6 shared documents
+- [China](../locations/china.md) - 6 shared documents
+- [England](../locations/england.md) - 6 shared documents
+- [Europe](../locations/europe.md) - 6 shared documents
+- [Germany](../locations/germany.md) - 6 shared documents
+- [Japan](../locations/japan.md) - 6 shared documents
+- [London](../locations/london.md) - 6 shared documents
+- [New York](../locations/new-york.md) - 6 shared documents
+- [Paris](../locations/paris.md) - 6 shared documents
+- [Russia](../locations/russia.md) - 6 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 7 shared documents
-- [last year](../events/last-year.md) - 7 shared documents
-- [2002](../events/2002.md) - 7 shared documents
 - [1973](../events/1973.md) - 7 shared documents
-- [the 1980s](../events/the-1980s.md) - 6 shared documents
-- [Sunday](../events/sunday.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
-- [the year](../events/the-year.md) - 6 shared documents
+- [2002](../events/2002.md) - 7 shared documents
+- [last year](../events/last-year.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
+- [1954](../events/1954.md) - 6 shared documents
+- [1981](../events/1981.md) - 6 shared documents
+- [1982](../events/1982.md) - 6 shared documents
+- [1984](../events/1984.md) - 6 shared documents
+- [1994](../events/1994.md) - 6 shared documents
 - [1999](../events/1999.md) - 6 shared documents
-- [2010](../events/2010.md) - 6 shared documents
 
 ## Timeline
 

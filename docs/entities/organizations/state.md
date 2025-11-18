@@ -29,16 +29,16 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [President Obama](../people/president-obama.md) - 45 shared documents
 - [Middle East](../people/middle-east.md) - 42 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 38 shared documents
-- [Barack Obama](../people/barack-obama.md) - 35 shared documents
 - [White House](../people/white-house.md) - 35 shared documents
-- [Mr. Obama](../people/obama.md) - 27 shared documents
 - [Los Angeles](../people/los-angeles.md) - 25 shared documents
 - [Jack Goldberger](../people/jack-goldberger.md) - 23 shared documents
 - [New Mexico](../people/new-mexico.md) - 23 shared documents
 - [Harvard Law School](../people/harvard-law-school.md) - 20 shared documents
+- [Jane Doe](../people/jane-doe.md) - 20 shared documents
+- [Kenneth Starr](../people/kenneth-starr.md) - 20 shared documents
+- [District Court](../people/district-court.md) - 19 shared documents
 
 **Organizations:**
 
@@ -59,12 +59,12 @@ Top 10 documents by mention frequency:
 - [Washington](../locations/washington.md) - 71 shared documents
 - [United States](../locations/united-states.md) - 67 shared documents
 - [Russia](../locations/russia.md) - 52 shared documents
-- [China](../locations/china.md) - 48 shared documents
 - [America](../locations/america.md) - 48 shared documents
+- [China](../locations/china.md) - 48 shared documents
 - [Iran](../locations/iran.md) - 48 shared documents
 - [Iraq](../locations/iraq.md) - 48 shared documents
-- [New York](../locations/new-york.md) - 47 shared documents
 - [Europe](../locations/europe.md) - 47 shared documents
+- [New York](../locations/new-york.md) - 47 shared documents
 
 **Events:**
 
@@ -76,8 +76,8 @@ Top 10 documents by mention frequency:
 - [2000](../events/2000.md) - 49 shared documents
 - [2008](../events/2008.md) - 49 shared documents
 - [2007](../events/2007.md) - 48 shared documents
+- [2001](../events/2001.md) - 47 shared documents
 - [2003](../events/2003.md) - 47 shared documents
-- [2009](../events/2009.md) - 47 shared documents
 
 ## Timeline
 

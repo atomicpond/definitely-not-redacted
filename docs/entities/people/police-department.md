@@ -32,9 +32,9 @@ Top 10 documents by mention frequency:
 - [New Mexico](new-mexico.md) - 10 shared documents
 - [Sarah Kellen](sarah-kellen.md) - 9 shared documents
 - [Vanity Fair](vanity-fair.md) - 9 shared documents
-- [Federal Bureau](federal-bureau.md) - 8 shared documents
 - [Alfredo Rodriguez](alfredo-rodriguez.md) - 8 shared documents
 - [El Brillo Way](el-brillo-way.md) - 8 shared documents
+- [Federal Bureau](federal-bureau.md) - 8 shared documents
 - [Robert Maxwell](robert-maxwell.md) - 7 shared documents
 - [Roy Black](roy-black.md) - 6 shared documents
 - [Santa Fe](santa-fe.md) - 6 shared documents
@@ -43,12 +43,12 @@ Top 10 documents by mention frequency:
 **Organizations:**
 
 - [FBI](../organizations/fbi.md) - 10 shared documents
-- [State](../organizations/state.md) - 10 shared documents
 - [Maxwell](../organizations/maxwell.md) - 10 shared documents
+- [State](../organizations/state.md) - 10 shared documents
 - [Vanity Fair](../organizations/vanity-fair.md) - 9 shared documents
-- [Trump](../organizations/trump.md) - 8 shared documents
 - [Harvard](../organizations/harvard.md) - 8 shared documents
 - [Office](../organizations/office.md) - 8 shared documents
+- [Trump](../organizations/trump.md) - 8 shared documents
 
 **Locations:**
 
@@ -58,10 +58,10 @@ Top 10 documents by mention frequency:
 - [New Mexico](../locations/new-mexico.md) - 10 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 10 shared documents
 - [California](../locations/california.md) - 9 shared documents
-- [New York City](../locations/new-york-city.md) - 9 shared documents
-- [Miami](../locations/miami.md) - 9 shared documents
-- [Paris](../locations/paris.md) - 9 shared documents
 - [England](../locations/england.md) - 9 shared documents
+- [Miami](../locations/miami.md) - 9 shared documents
+- [New York City](../locations/new-york-city.md) - 9 shared documents
+- [Palm Beach County](../locations/palm-beach-county.md) - 9 shared documents
 
 **Events:**
 
@@ -72,8 +72,8 @@ Top 10 documents by mention frequency:
 - [months](../events/months.md) - 9 shared documents
 - [2003](../events/2003.md) - 8 shared documents
 - [2004](../events/2004.md) - 8 shared documents
-- [Sunday](../events/sunday.md) - 8 shared documents
 - [2005](../events/2005.md) - 8 shared documents
+- [2006](../events/2006.md) - 8 shared documents
 - [2010](../events/2010.md) - 8 shared documents
 
 ## Timeline

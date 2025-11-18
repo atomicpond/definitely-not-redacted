@@ -13,7 +13,7 @@
 - [Epstein](../entities/people/epstein.md) - 2 mentions
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 2 mentions
 - [Mr. 
-Dershowitz](../entities/people/mr-dershowitz.md) - 2 mentions
+Dershowitz](../entities/people/alan-dershowitz.md) - 2 mentions
 - [MARTIN G. WEINBERG](../entities/people/martin-g-weinberg.md) - 2 mentions
 - [Park Plaza](../entities/people/park-plaza.md) - 1 mention
 - [President Clinton](../entities/people/president-clinton.md) - 1 mention

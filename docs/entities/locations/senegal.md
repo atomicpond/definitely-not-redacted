@@ -37,17 +37,17 @@ Top 8 documents by mention frequency:
 - [Washington](washington.md) - 5 shared documents
 - [Africa](africa.md) - 4 shared documents
 - [China](china.md) - 4 shared documents
+- [Egypt](egypt.md) - 4 shared documents
 - [Europe](europe.md) - 4 shared documents
-- [Russia](russia.md) - 4 shared documents
-- [London](london.md) - 4 shared documents
 - [France](france.md) - 4 shared documents
+- [India](india.md) - 4 shared documents
+- [Israel](israel.md) - 4 shared documents
 - [Jordan](jordan.md) - 4 shared documents
-- [Qatar](qatar.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
 - [2012](../events/2012.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
 - [2000](../events/2000.md) - 4 shared documents
 - [five years](../events/five-years.md) - 4 shared documents
 

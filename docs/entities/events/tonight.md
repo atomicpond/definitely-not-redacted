@@ -72,8 +72,8 @@ York](../people/new-york.md) - 9 shared documents
 - [tomorrow](tomorrow.md) - 13 shared documents
 - [Monday](monday.md) - 7 shared documents
 - [Tuesday](tuesday.md) - 6 shared documents
-- [Thursday](thursday.md) - 6 shared documents
 - [afternoon](afternoon.md) - 6 shared documents
+- [Thursday](thursday.md) - 6 shared documents
 - [2016](2016.md) - 5 shared documents
 - [last year](last-year.md) - 5 shared documents
 

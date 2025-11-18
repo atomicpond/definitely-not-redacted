@@ -32,8 +32,6 @@ Top 10 documents by mention frequency:
 
 - [Bashar al-Assad](../people/bashar-al-assad.md) - 7 shared documents
 - [Hosni Mubarak](../people/hosni-mubarak.md) - 7 shared documents
-- [Mr. Obama](../people/obama.md) - 7 shared documents
-- [Barack Obama](../people/barack-obama.md) - 6 shared documents
 - [Recep Tayyip Erdogan](../people/recep-tayyip-erdogan.md) - 6 shared documents
 
 **Organizations:**
@@ -61,14 +59,14 @@ Top 10 documents by mention frequency:
 
 - [today](../events/today.md) - 6 shared documents
 - [2009](../events/2009.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
 - [last month](../events/last-month.md) - 5 shared documents
 - [the day](../events/the-day.md) - 5 shared documents
+- [years](../events/years.md) - 5 shared documents
+- [1948](../events/1948.md) - 4 shared documents
 - [2003](../events/2003.md) - 4 shared documents
-- [last week](../events/last-week.md) - 4 shared documents
 - [2005](../events/2005.md) - 4 shared documents
+- [2006](../events/2006.md) - 4 shared documents
 - [2008](../events/2008.md) - 4 shared documents
-- [Friday](../events/friday.md) - 4 shared documents
 
 ## Timeline
 

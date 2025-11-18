@@ -36,9 +36,9 @@ Top 5 documents by mention frequency:
 - [one day](one-day.md) - 4 shared documents
 - [September](september.md) - 4 shared documents
 - [the year](the-year.md) - 4 shared documents
-- [December](december.md) - 4 shared documents
-- [April](april.md) - 4 shared documents
 - [2013](2013.md) - 4 shared documents
+- [April](april.md) - 4 shared documents
+- [December](december.md) - 4 shared documents
 
 ## Timeline
 

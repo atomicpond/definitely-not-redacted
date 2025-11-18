@@ -29,33 +29,32 @@ Top 6 documents by mention frequency:
 **Organizations:**
 
 - [Congress](congress.md) - 5 shared documents
-- [Bloomberg](bloomberg.md) - 4 shared documents
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
 - [Brazil](../locations/brazil.md) - 5 shared documents
 - [Canada](../locations/canada.md) - 5 shared documents
-- [Germany](../locations/germany.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 5 shared documents
-- [Dubai](../locations/dubai.md) - 4 shared documents
+- [Germany](../locations/germany.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
+- [Russia](../locations/russia.md) - 5 shared documents
+- [United States](../locations/united-states.md) - 5 shared documents
+- [Australia](../locations/australia.md) - 4 shared documents
 - [China](../locations/china.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
+- [Dubai](../locations/dubai.md) - 4 shared documents
 
 **Events:**
 
+- [1994](../events/1994.md) - 5 shared documents
 - [2004](../events/2004.md) - 5 shared documents
 - [2012](../events/2012.md) - 5 shared documents
 - [years](../events/years.md) - 5 shared documents
-- [1994](../events/1994.md) - 5 shared documents
+- [1933](../events/1933.md) - 4 shared documents
 - [1986](../events/1986.md) - 4 shared documents
-- [2007](../events/2007.md) - 4 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
-- [2011](../events/2011.md) - 4 shared documents
+- [1987](../events/1987.md) - 4 shared documents
 - [1990](../events/1990.md) - 4 shared documents
+- [1993](../events/1993.md) - 4 shared documents
+- [1995](../events/1995.md) - 4 shared documents
 
 ## Timeline
 

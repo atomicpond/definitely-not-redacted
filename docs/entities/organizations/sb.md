@@ -31,11 +31,11 @@ Top 10 documents by mention frequency:
 
 - [Michael Wolff](../people/michael-wolff.md) - 10 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 9 shared documents
-- [Mr. Bannon](../people/bannon.md) - 8 shared documents
 - [Bill Maher](../people/bill-maher.md) - 8 shared documents
 - [Ira Rosen](../people/ira-rosen.md) - 8 shared documents
 - [jeffrey E. <](../people/jeffrey-e.md) - 8 shared documents
 - [Rosen](../people/rosen.md) - 8 shared documents
+- [Steve Bannon](../people/steve-bannon.md) - 8 shared documents
 
 **Organizations:**
 
@@ -49,9 +49,9 @@ Top 10 documents by mention frequency:
 
 **Events:**
 
+- [Thu, Jan 18, 2018](../events/thu-jan-18-2018.md) - 8 shared documents
 - [today](../events/today.md) - 8 shared documents
 - [tomorrow](../events/tomorrow.md) - 8 shared documents
-- [Thu, Jan 18, 2018](../events/thu-jan-18-2018.md) - 8 shared documents
 
 ## Timeline
 

@@ -24,7 +24,7 @@ Sent](../entities/people/landon-sent.md) - 1 mention
 ### Organizations
 - [New York Times](../entities/organizations/new-york-times.md) - 3 mentions
 - [HOUSE](../entities/organizations/house.md) - 2 mentions
-- [jr thomas/ind](../entities/organizations/jr-thomasind.md) - 1 mention
+- [jr thomas/ind](../entities/organizations/jr-thomas-ind.md) - 1 mention
 
 ### Locations
 - [Norway](../entities/locations/norway.md) - 1 mention

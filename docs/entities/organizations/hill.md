@@ -29,17 +29,17 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [James Comey](../people/james-comey.md) - 7 shared documents
-- [Robert Mueller](../people/robert-mueller.md) - 7 shared documents
 - [Carter Page](../people/carter-page.md) - 6 shared documents
 - [Eric Holder](../people/eric-holder.md) - 6 shared documents
 - [Federal Bureau](../people/federal-bureau.md) - 6 shared documents
 - [John Brennan](../people/john-brennan.md) - 6 shared documents
-- [President Trump](../people/president-trump.md) - 6 shared documents
 - [Alexander Downer](../people/alexander-downer.md) - 5 shared documents
 - [Although Mr](../people/although-mr.md) - 5 shared documents
 - [Andrew 
 Andrew Grossman](../people/andrew-andrew-grossman.md) - 5 shared documents
+- [Andrew M](../people/andrew-m.md) - 5 shared documents
+- [Anthony Weiner](../people/anthony-weiner.md) - 5 shared documents
+- [Anthony Weiner's](../people/anthony-weiners.md) - 5 shared documents
 
 **Organizations:**
 
@@ -69,14 +69,13 @@ Andrew Grossman](../people/andrew-andrew-grossman.md) - 5 shared documents
 - [2016](../events/2016.md) - 9 shared documents
 - [2012](../events/2012.md) - 8 shared documents
 - [more than a year](../events/more-than-a-year.md) - 7 shared documents
-- [2018](../events/2018.md) - 6 shared documents
-- [months](../events/months.md) - 6 shared documents
-- [May 2017](../events/may-2017.md) - 6 shared documents
 - [1987](../events/1987.md) - 6 shared documents
-- [Wednesday](../events/wednesday.md) - 5 shared documents
+- [2018](../events/2018.md) - 6 shared documents
+- [May 2017](../events/may-2017.md) - 6 shared documents
+- [months](../events/months.md) - 6 shared documents
+- [12:56:55 AM EDT](../events/125655-am-edt.md) - 5 shared documents
+- [1973](../events/1973.md) - 5 shared documents
 - [1974](../events/1974.md) - 5 shared documents
-- [Sept
-23](../events/sept-23.md) - 5 shared documents
 
 ## Timeline
 

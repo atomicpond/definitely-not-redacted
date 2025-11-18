@@ -31,17 +31,17 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Mr. 
-Trump](../people/trump.md) - 16 shared documents
 - [Kenneth Starr](../people/kenneth-starr.md) - 15 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 13 shared documents
 - [White House](../people/white-house.md) - 13 shared documents
-- [Epstein](../people/epstein.md) - 12 shared documents
 - [Federal Bureau](../people/federal-bureau.md) - 12 shared documents
 - [Jack Goldberger](../people/jack-goldberger.md) - 12 shared documents
-- [James Comey](../people/james-comey.md) - 12 shared documents
-- [President Trump](../people/president-trump.md) - 12 shared documents
+- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 12 shared documents
 - [Paul Cassell](../people/paul-cassell.md) - 11 shared documents
+- [Justice 
+Department](../people/justice-department.md) - 10 shared documents
+- [Los Angeles](../people/los-angeles.md) - 10 shared documents
+- [Acosta](../people/acosta.md) - 9 shared documents
+- [Eric Holder](../people/eric-holder.md) - 9 shared documents
 
 **Organizations:**
 
@@ -59,14 +59,14 @@ Trump](../people/trump.md) - 16 shared documents
 **Locations:**
 
 - [Florida](../locations/florida.md) - 27 shared documents
-- [Washington](../locations/washington.md) - 24 shared documents
 - [the United States](../locations/the-united-states.md) - 24 shared documents
+- [Washington](../locations/washington.md) - 24 shared documents
 - [Miami](../locations/miami.md) - 23 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 22 shared documents
 - [United States](../locations/united-states.md) - 21 shared documents
 - [New York](../locations/new-york.md) - 20 shared documents
-- [Russia](../locations/russia.md) - 18 shared documents
 - [Palm Beach County](../locations/palm-beach-county.md) - 18 shared documents
+- [Russia](../locations/russia.md) - 18 shared documents
 - [US](../locations/us.md) - 18 shared documents
 
 **Events:**
@@ -79,8 +79,8 @@ Trump](../people/trump.md) - 16 shared documents
 - [2016](../events/2016.md) - 18 shared documents
 - [daily](../events/daily.md) - 18 shared documents
 - [2012](../events/2012.md) - 17 shared documents
-- [2017](../events/2017.md) - 16 shared documents
 - [2005](../events/2005.md) - 16 shared documents
+- [2006](../events/2006.md) - 16 shared documents
 
 ## Timeline
 

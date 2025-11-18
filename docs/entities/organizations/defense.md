@@ -30,15 +30,15 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 27 shared documents
-- [Barack Obama](../people/barack-obama.md) - 23 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 21 shared documents
 - [White House](../people/white-house.md) - 21 shared documents
-- [President Obama](../people/president-obama.md) - 20 shared documents
 - [Cold War](../people/cold-war.md) - 12 shared documents
-- [Mr. Obama](../people/obama.md) - 12 shared documents
 - [Hosni Mubarak](../people/hosni-mubarak.md) - 11 shared documents
 - [Vietnam War](../people/vietnam-war.md) - 11 shared documents
 - [West Bank](../people/west-bank.md) - 11 shared documents
+- [Bashar al-Assad](../people/bashar-al-assad.md) - 10 shared documents
+- [United 
+States](../people/united-states.md) - 10 shared documents
 
 **Organizations:**
 
@@ -57,11 +57,11 @@ Top 10 documents by mention frequency:
 
 - [the United States](../locations/the-united-states.md) - 32 shared documents
 - [the Middle East](../locations/the-middle-east.md) - 30 shared documents
-- [Washington](../locations/washington.md) - 29 shared documents
 - [Syria](../locations/syria.md) - 29 shared documents
+- [Washington](../locations/washington.md) - 29 shared documents
 - [Iran](../locations/iran.md) - 28 shared documents
-- [Europe](../locations/europe.md) - 27 shared documents
 - [America](../locations/america.md) - 27 shared documents
+- [Europe](../locations/europe.md) - 27 shared documents
 - [Iraq](../locations/iraq.md) - 27 shared documents
 - [Russia](../locations/russia.md) - 26 shared documents
 - [China](../locations/china.md) - 25 shared documents
@@ -71,11 +71,11 @@ Top 10 documents by mention frequency:
 - [today](../events/today.md) - 33 shared documents
 - [2009](../events/2009.md) - 23 shared documents
 - [2003](../events/2003.md) - 21 shared documents
-- [last week](../events/last-week.md) - 21 shared documents
 - [2008](../events/2008.md) - 21 shared documents
-- [2011](../events/2011.md) - 20 shared documents
+- [last week](../events/last-week.md) - 21 shared documents
 - [1993](../events/1993.md) - 20 shared documents
 - [2010](../events/2010.md) - 20 shared documents
+- [2011](../events/2011.md) - 20 shared documents
 - [2013](../events/2013.md) - 20 shared documents
 - [decades](../events/decades.md) - 20 shared documents
 

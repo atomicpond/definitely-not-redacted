@@ -30,29 +30,29 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [State](../organizations/state.md) - 5 shared documents
-- [the Department of Justice](../organizations/the-department-of-justice.md) - 5 shared documents
-- [Office](../organizations/office.md) - 5 shared documents
-- [USAO](../organizations/usao.md) - 5 shared documents
-- [Department](../organizations/department.md) - 5 shared documents
-- [Government](../organizations/government.md) - 5 shared documents
 - [CEOS](../organizations/ceos.md) - 5 shared documents
 - [Criminal Division](../organizations/criminal-division.md) - 5 shared documents
+- [Department](../organizations/department.md) - 5 shared documents
+- [Government](../organizations/government.md) - 5 shared documents
 - [Kirkland & Ellis LLP](../organizations/kirkland-ellis-llp.md) - 5 shared documents
+- [Office](../organizations/office.md) - 5 shared documents
+- [State](../organizations/state.md) - 5 shared documents
 - [the Criminal Division](../organizations/the-criminal-division.md) - 5 shared documents
+- [the Department of Justice](../organizations/the-department-of-justice.md) - 5 shared documents
+- [USAO](../organizations/usao.md) - 5 shared documents
 
 **Locations:**
 
-- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
-- [USA](../locations/usa.md) - 5 shared documents
-- [D.C.](../locations/dc.md) - 5 shared documents
-- [Palm Beach County](../locations/palm-beach-county.md) - 5 shared documents
 - [777 South Figueroa Street](../locations/777-south-figueroa-street.md) - 5 shared documents
 - [950 Pennsylvania Avenue](../locations/950-pennsylvania-avenue.md) - 5 shared documents
+- [D.C.](../locations/dc.md) - 5 shared documents
+- [Los Angeles](../locations/los-angeles.md) - 5 shared documents
+- [Palm Beach County](../locations/palm-beach-county.md) - 5 shared documents
+- [United States](../locations/united-states.md) - 5 shared documents
+- [USA](../locations/usa.md) - 5 shared documents
 - [California](../locations/california.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 - [Florida](../locations/florida.md) - 4 shared documents
+- [Miami](../locations/miami.md) - 4 shared documents
 
 **Events:**
 

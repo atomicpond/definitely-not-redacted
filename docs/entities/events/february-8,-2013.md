@@ -59,7 +59,7 @@ Top 5 documents by mention frequency:
 - [daily](daily.md) - 5 shared documents
 - [decades](decades.md) - 5 shared documents
 - [1991](1991.md) - 5 shared documents
-- [2/8/2013](2/8/2013.md) - 5 shared documents
+- **2/8/2013** - 5 shared documents
 
 ## Timeline
 

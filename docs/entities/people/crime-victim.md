@@ -37,41 +37,37 @@ Top 7 documents by mention frequency:
 
 **Organizations:**
 
-- [State](../organizations/state.md) - 7 shared documents
 - [CVRA](../organizations/cvra.md) - 7 shared documents
+- [State](../organizations/state.md) - 7 shared documents
 - [FBI](../organizations/fbi.md) - 6 shared documents
 - [the Supreme Court](../organizations/the-supreme-court.md) - 6 shared documents
 - [the U.S. District Court](../organizations/the-us-district-court.md) - 6 shared documents
-- [Fed](../organizations/fed.md) - 5 shared documents
-- [Court](../organizations/court.md) - 5 shared documents
-- [Cassell](../organizations/cassell.md) - 5 shared documents
-- [Office](../organizations/office.md) - 5 shared documents
 
 **Locations:**
 
+- [Fla.](../locations/fla.md) - 7 shared documents
+- [the United States](../locations/the-united-states.md) - 7 shared documents
 - [U.S.](../locations/us.md) - 7 shared documents
 - [United States](../locations/united-states.md) - 7 shared documents
-- [the United States](../locations/the-united-states.md) - 7 shared documents
-- [Fla.](../locations/fla.md) - 7 shared documents
-- [New York](../locations/new-york.md) - 6 shared documents
 - [Florida](../locations/florida.md) - 6 shared documents
+- [New York](../locations/new-york.md) - 6 shared documents
 - [S.D.](../locations/sd.md) - 6 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 5 shared documents
-- [Virginia](../locations/virginia.md) - 5 shared documents
-- [West Palm Beach](../locations/west-palm-beach.md) - 5 shared documents
+- [Fort Lauderdale](../locations/fort-lauderdale.md) - 5 shared documents
+- [Idaho](../locations/idaho.md) - 5 shared documents
+- [Searcy](../locations/searcy.md) - 5 shared documents
 
 **Events:**
 
+- [2001](../events/2001.md) - 7 shared documents
 - [2004](../events/2004.md) - 7 shared documents
 - [daily](../events/daily.md) - 7 shared documents
-- [2001](../events/2001.md) - 7 shared documents
+- [14](../events/14.md) - 6 shared documents
+- [18 U.S.C. § 3771](../events/18-usc-3771.md) - 6 shared documents
+- [1976](../events/1976.md) - 6 shared documents
 - [1993](../events/1993.md) - 6 shared documents
+- [2002](../events/2002.md) - 6 shared documents
 - [2005](../events/2005.md) - 6 shared documents
 - [2008](../events/2008.md) - 6 shared documents
-- [2002](../events/2002.md) - 6 shared documents
-- [14](../events/14.md) - 6 shared documents
-- [1976](../events/1976.md) - 6 shared documents
-- [18 U.S.C. § 3771](../events/18-usc-3771.md) - 6 shared documents
 
 ## Timeline
 

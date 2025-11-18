@@ -26,11 +26,12 @@ Top 7 documents by mention frequency:
 
 **People:**
 
+- [Donald 
+Trump](donald-trump.md) - 7 shared documents
+- [Hillary Clinton](hillary-clinton.md) - 7 shared documents
 - [Jeffrey E](jeffrey-e.md) - 7 shared documents
-- [larry](larry.md) - 7 shared documents
-- [DONALD](donald.md) - 7 shared documents
-- [hillary](hillary.md) - 7 shared documents
 - [jeffrey E. <](jeffrey-e.md) - 7 shared documents
+- [Lawrence Krauss](lawrence-krauss.md) - 7 shared documents
 
 **Organizations:**
 
@@ -39,15 +40,15 @@ Top 7 documents by mention frequency:
 
 **Events:**
 
+- [Mon, Oct 10, 2016](../events/mon-oct-10-2016.md) - 7 shared documents
+- [Nov 10, 2016](../events/nov-10-2016.md) - 7 shared documents
+- [Oct 9, 2016](../events/oct-9-2016.md) - 7 shared documents
 - [Sunday](../events/sunday.md) - 7 shared documents
 - [Tuesday](../events/tuesday.md) - 7 shared documents
-- [Oct 9, 2016](../events/oct-9-2016.md) - 7 shared documents
-- [Nov 10, 2016](../events/nov-10-2016.md) - 7 shared documents
-- [Mon, Oct 10, 2016](../events/mon-oct-10-2016.md) - 7 shared documents
-- [today](../events/today.md) - 6 shared documents
-- [Friday](../events/friday.md) - 6 shared documents
 - [11 November 2016](../events/11-november-2016.md) - 6 shared documents
+- [Friday](../events/friday.md) - 6 shared documents
 - [Nov 11, 2016](../events/nov-11-2016.md) - 6 shared documents
+- [today](../events/today.md) - 6 shared documents
 
 ## Timeline
 

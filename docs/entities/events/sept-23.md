@@ -31,12 +31,8 @@ Top 8 documents by mention frequency:
 
 **People:**
 
-- [mueller](../people/mueller.md) - 6 shared documents
 - [New 
 York Times](../people/new-york-times.md) - 6 shared documents
-- [President Trump](../people/president-trump.md) - 6 shared documents
-- [Mr. 
-Trump](../people/trump.md) - 6 shared documents
 
 **Organizations:**
 
@@ -66,12 +62,12 @@ Trump](../people/trump.md) - 6 shared documents
 1050](square-1050.md) - 5 shared documents
 - [Suite 1100](suite-1100.md) - 5 shared documents
 - [the June 23, 2018](the-june-23-2018.md) - 5 shared documents
-- [2018](2018.md) - 5 shared documents
-- [2012](2012.md) - 5 shared documents
-- [months](months.md) - 5 shared documents
-- [more than a year](more-than-a-year.md) - 5 shared documents
+- [12:56:55 AM EDT](125655-am-edt.md) - 5 shared documents
+- [1973](1973.md) - 5 shared documents
 - [1974](1974.md) - 5 shared documents
-- [May 2017](may-2017.md) - 5 shared documents
+- [1987](1987.md) - 5 shared documents
+- [2012](2012.md) - 5 shared documents
+- [2018](2018.md) - 5 shared documents
 
 ## Timeline
 

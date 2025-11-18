@@ -14,7 +14,7 @@
 - [Vanity Fair](../entities/people/vanity-fair.md) - 2 mentions
 - [Donald 
 Trump](../entities/people/donald-trump.md) - 2 mentions
-- [Mr. Bannon](../entities/people/mr-bannon.md) - 2 mentions
+- [Mr. Bannon](../entities/people/steve-bannon.md) - 2 mentions
 - [Sunday Times](../entities/people/sunday-times.md) - 1 mention
 - [New
 York](../entities/people/new-york.md) - 1 mention

@@ -39,27 +39,27 @@ Top 10 documents by mention frequency:
 
 - [the United States](../locations/the-united-states.md) - 8 shared documents
 - [Europe](../locations/europe.md) - 7 shared documents
-- [United States](../locations/united-states.md) - 6 shared documents
-- [Japan](../locations/japan.md) - 6 shared documents
 - [Germany](../locations/germany.md) - 6 shared documents
+- [Japan](../locations/japan.md) - 6 shared documents
+- [United States](../locations/united-states.md) - 6 shared documents
 - [Washington](../locations/washington.md) - 6 shared documents
-- [China](../locations/china.md) - 5 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
 - [Asia](../locations/asia.md) - 5 shared documents
+- [China](../locations/china.md) - 5 shared documents
+- [Florida](../locations/florida.md) - 5 shared documents
 
 **Events:**
 
 - [years](../events/years.md) - 8 shared documents
+- [2006](../events/2006.md) - 7 shared documents
 - [2009](../events/2009.md) - 7 shared documents
 - [2010](../events/2010.md) - 7 shared documents
-- [2006](../events/2006.md) - 7 shared documents
-- [2003](../events/2003.md) - 6 shared documents
-- [2012](../events/2012.md) - 6 shared documents
-- [2017](../events/2017.md) - 6 shared documents
 - [1993](../events/1993.md) - 6 shared documents
 - [1998](../events/1998.md) - 6 shared documents
 - [2001](../events/2001.md) - 6 shared documents
+- [2003](../events/2003.md) - 6 shared documents
+- [2012](../events/2012.md) - 6 shared documents
+- [2013](../events/2013.md) - 6 shared documents
 
 ## Timeline
 

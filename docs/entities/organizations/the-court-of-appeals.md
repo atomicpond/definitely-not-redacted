@@ -31,34 +31,26 @@ Top 6 documents by mention frequency:
 - [State](state.md) - 6 shared documents
 - [Senate](senate.md) - 5 shared documents
 - [Supreme Court](supreme-court.md) - 5 shared documents
-- [Court](court.md) - 4 shared documents
-- [Justice Department](justice-department.md) - 4 shared documents
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
+- [United States](../locations/united-states.md) - 6 shared documents
 - [America](../locations/america.md) - 5 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
-- [U.S.](../locations/us.md) - 4 shared documents
-- [Mexico](../locations/mexico.md) - 4 shared documents
-- [Florida](../locations/florida.md) - 4 shared documents
-- [Texas](../locations/texas.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 
 **Events:**
 
 - [2004](../events/2004.md) - 6 shared documents
-- [2007](../events/2007.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [2000](../events/2000.md) - 5 shared documents
-- [2011](../events/2011.md) - 5 shared documents
 - [1970](../events/1970.md) - 5 shared documents
-- [2005](../events/2005.md) - 5 shared documents
-- [2010](../events/2010.md) - 5 shared documents
 - [1995](../events/1995.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
+- [2000](../events/2000.md) - 5 shared documents
+- [2005](../events/2005.md) - 5 shared documents
+- [2007](../events/2007.md) - 5 shared documents
+- [2010](../events/2010.md) - 5 shared documents
+- [2011](../events/2011.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
+- [14](../events/14.md) - 4 shared documents
 
 ## Timeline
 

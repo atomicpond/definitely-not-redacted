@@ -55,13 +55,13 @@ Top 10 documents by mention frequency:
 - [Friday](friday.md) - 10 shared documents
 - [this year](this-year.md) - 8 shared documents
 - [today](today.md) - 8 shared documents
-- [2007](2007.md) - 8 shared documents
-- [Sunday](sunday.md) - 8 shared documents
-- [2017](2017.md) - 8 shared documents
-- [summer](summer.md) - 8 shared documents
 - [2001](2001.md) - 8 shared documents
-- [months](months.md) - 8 shared documents
+- [2007](2007.md) - 8 shared documents
+- [2017](2017.md) - 8 shared documents
 - [April](april.md) - 8 shared documents
+- [months](months.md) - 8 shared documents
+- [summer](summer.md) - 8 shared documents
+- [Sunday](sunday.md) - 8 shared documents
 
 ## Timeline
 

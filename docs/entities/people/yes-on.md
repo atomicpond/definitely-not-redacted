@@ -41,20 +41,20 @@ Sent](ii-sent.md) - 5 shared documents
 
 **Locations:**
 
-- [Paris](../locations/paris.md) - 6 shared documents
 - [Geneva](../locations/geneva.md) - 6 shared documents
 - [Kuwait](../locations/kuwait.md) - 6 shared documents
+- [Paris](../locations/paris.md) - 6 shared documents
 
 **Events:**
 
 - [2017](../events/2017.md) - 7 shared documents
-- [the day](../events/the-day.md) - 6 shared documents
 - [Dec 5, 2017](../events/dec-5-2017.md) - 6 shared documents
 - [Dec 6, 2017](../events/dec-6-2017.md) - 6 shared documents
 - [Dec 8, 2017](../events/dec-8-2017.md) - 6 shared documents
 - [Fri, Dec 8, 2017](../events/fri-dec-8-2017.md) - 6 shared documents
 - [the 8th](../events/the-8th.md) - 6 shared documents
 - [the 9th for the week](../events/the-9th-for-the-week.md) - 6 shared documents
+- [the day](../events/the-day.md) - 6 shared documents
 - [Tue, Dec 5, 2017](../events/tue-dec-5-2017.md) - 6 shared documents
 - [jan](../events/jan.md) - 4 shared documents
 

@@ -29,13 +29,12 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Mr. Obama](../people/obama.md) - 10 shared documents
+- [Barack Obama](../people/barack-obama.md) - 10 shared documents
 - [Middle East](../people/middle-east.md) - 8 shared documents
 - [United 
 States](../people/united-states.md) - 8 shared documents
 - [Brexit](../people/brexit.md) - 6 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 6 shared documents
-- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [J.P. Morgan](../people/jp-morgan.md) - 5 shared documents
 
 **Organizations:**
@@ -56,12 +55,12 @@ States](../people/united-states.md) - 8 shared documents
 - [US](../locations/us.md) - 19 shared documents
 - [Europe](../locations/europe.md) - 18 shared documents
 - [China](../locations/china.md) - 15 shared documents
+- [Israel](../locations/israel.md) - 11 shared documents
 - [London](../locations/london.md) - 11 shared documents
 - [Syria](../locations/syria.md) - 11 shared documents
 - [the United States](../locations/the-united-states.md) - 11 shared documents
-- [Israel](../locations/israel.md) - 11 shared documents
-- [Russia](../locations/russia.md) - 10 shared documents
 - [Mexico](../locations/mexico.md) - 10 shared documents
+- [Russia](../locations/russia.md) - 10 shared documents
 - [U.K.](../locations/uk.md) - 10 shared documents
 
 **Events:**
@@ -72,10 +71,10 @@ States](../people/united-states.md) - 8 shared documents
 - [years](../events/years.md) - 9 shared documents
 - [2018](../events/2018.md) - 8 shared documents
 - [last week](../events/last-week.md) - 8 shared documents
-- [2015](../events/2015.md) - 7 shared documents
 - [2010](../events/2010.md) - 7 shared documents
-- [this week](../events/this-week.md) - 6 shared documents
-- [May](../events/may.md) - 6 shared documents
+- [2015](../events/2015.md) - 7 shared documents
+- [10 years](../events/10-years.md) - 6 shared documents
+- [2011](../events/2011.md) - 6 shared documents
 
 ## Timeline
 

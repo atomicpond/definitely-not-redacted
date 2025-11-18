@@ -11,7 +11,7 @@
 ### People
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 2 mentions
 - [Kennedy](../entities/people/kennedy.md) - 2 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Hitler](../entities/people/hitler.md) - 1 mention
 - [Jes Staley](../entities/people/jes-staley.md) - 1 mention
 - [JFK](../entities/people/jfk.md) - 1 mention

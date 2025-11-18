@@ -60,9 +60,9 @@ Top 10 documents by mention frequency:
 - [2008](../events/2008.md) - 49 shared documents
 - [the day](../events/the-day.md) - 48 shared documents
 - [daily](../events/daily.md) - 46 shared documents
+- [2006](../events/2006.md) - 45 shared documents
 - [2015](../events/2015.md) - 45 shared documents
 - [2016](../events/2016.md) - 45 shared documents
-- [2006](../events/2006.md) - 45 shared documents
 - [2007](../events/2007.md) - 44 shared documents
 
 ## Timeline

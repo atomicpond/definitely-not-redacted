@@ -36,13 +36,13 @@ Top 10 documents by mention frequency:
 - [Martha Stewart](../people/martha-stewart.md) - 20 shared documents
 - [Bill 
 Clinton](../people/bill-clinton.md) - 19 shared documents
-- [Epstein](../people/epstein.md) - 19 shared documents
-- [Ghislaine Maxwell](../people/ghislaine-maxwell.md) - 19 shared documents
 - [Jeffrey Epstein](../people/jeffrey-epstein.md) - 19 shared documents
 - [Prince 
 Andrew](../people/prince-andrew.md) - 19 shared documents
 - [Sam Waksal](../people/sam-waksal.md) - 19 shared documents
 - [Vicky Ward](../people/vicky-ward.md) - 19 shared documents
+- [Warren Buffett](../people/warren-buffett.md) - 19 shared documents
+- [andy](../people/andy.md) - 18 shared documents
 
 **Organizations:**
 
@@ -67,8 +67,6 @@ Andrew](../people/prince-andrew.md) - 19 shared documents
 - [America](america.md) - 8 shared documents
 - [Brooklyn](brooklyn.md) - 7 shared documents
 - [Brunel](brunel.md) - 7 shared documents
-- [California](california.md) - 6 shared documents
-- [Africa](africa.md) - 6 shared documents
 
 **Events:**
 
@@ -77,8 +75,8 @@ Andrew](../people/prince-andrew.md) - 19 shared documents
 - [last week](../events/last-week.md) - 24 shared documents
 - [weeks](../events/weeks.md) - 24 shared documents
 - [2003](../events/2003.md) - 23 shared documents
-- [many years](../events/many-years.md) - 22 shared documents
 - [1981](../events/1981.md) - 22 shared documents
+- [many years](../events/many-years.md) - 22 shared documents
 - [14](../events/14.md) - 21 shared documents
 - [20-year](../events/20-year.md) - 21 shared documents
 - [57](../events/57.md) - 20 shared documents

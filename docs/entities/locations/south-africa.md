@@ -34,12 +34,12 @@ Top 10 documents by mention frequency:
 
 - [Middle East](../people/middle-east.md) - 26 shared documents
 - [Central Bank](../people/central-bank.md) - 24 shared documents
-- [President Obama](../people/president-obama.md) - 23 shared documents
 - [Asia Pacific](../people/asia-pacific.md) - 22 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 21 shared documents
 - [Exchange Act](../people/exchange-act.md) - 20 shared documents
 - [Seoul Branch](../people/seoul-branch.md) - 20 shared documents
 - [Wealth Management](../people/wealth-management.md) - 20 shared documents
+- [Merrill Lynch](../people/merrill-lynch.md) - 19 shared documents
 
 **Organizations:**
 
@@ -62,8 +62,8 @@ Top 10 documents by mention frequency:
 - [China](china.md) - 47 shared documents
 - [India](india.md) - 47 shared documents
 - [Australia](australia.md) - 44 shared documents
-- [Mexico](mexico.md) - 43 shared documents
 - [Israel](israel.md) - 43 shared documents
+- [Mexico](mexico.md) - 43 shared documents
 - [Brazil](brazil.md) - 42 shared documents
 - [Asia](asia.md) - 40 shared documents
 
@@ -78,7 +78,7 @@ Top 10 documents by mention frequency:
 - [2013](../events/2013.md) - 29 shared documents
 - [2015](../events/2015.md) - 28 shared documents
 - [this year](../events/this-year.md) - 28 shared documents
-- [annual](../events/annual.md) - 27 shared documents
+- [2017](../events/2017.md) - 27 shared documents
 
 ## Timeline
 

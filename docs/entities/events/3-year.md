@@ -61,9 +61,9 @@ Top 10 documents by mention frequency:
 
 - [2015](2015.md) - 6 shared documents
 - [March](march.md) - 5 shared documents
-- [2018](2018.md) - 5 shared documents
 - [2016](2016.md) - 5 shared documents
 - [2017](2017.md) - 5 shared documents
+- [2018](2018.md) - 5 shared documents
 - [annually](annually.md) - 4 shared documents
 - [April](april.md) - 4 shared documents
 - [daily](daily.md) - 4 shared documents

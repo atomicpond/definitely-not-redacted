@@ -26,28 +26,23 @@ Top 9 documents by mention frequency:
 
 ### Most Frequently Co-occurring Entities
 
-**People:**
-
-- [Mr. 
-Trump](trump.md) - 5 shared documents
-
 **Organizations:**
 
 - [Trump](../organizations/trump.md) - 7 shared documents
 - [HOUSE](../organizations/house.md) - 6 shared documents
 - [Congress](../organizations/congress.md) - 5 shared documents
-- [the White House](../organizations/the-white-house.md) - 5 shared documents
 - [the New York Times](../organizations/the-new-york-times.md) - 5 shared documents
+- [the White House](../organizations/the-white-house.md) - 5 shared documents
 
 **Locations:**
 
 - [America](../locations/america.md) - 6 shared documents
 - [Florida](../locations/florida.md) - 5 shared documents
 - [US](../locations/us.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 4 shared documents
 - [China](../locations/china.md) - 4 shared documents
 - [Israel](../locations/israel.md) - 4 shared documents
 - [Miami](../locations/miami.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 4 shared documents
 
 **Events:**
 

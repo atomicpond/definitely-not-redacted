@@ -32,13 +32,11 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [The New](the-new.md) - 9 shared documents
-- [Donald 
-Trump](donald-trump.md) - 7 shared documents
 - [Jeffrey Epstein](jeffrey-epstein.md) - 7 shared documents
-- [Mr. 
-Trump](trump.md) - 6 shared documents
-- [Thomas Jr](thomas-jr.md) - 5 shared documents
+- [Donald 
+Trump](donald-trump.md) - 6 shared documents
 - [Landon Thomas](landon-thomas.md) - 5 shared documents
+- [Thomas Jr](thomas-jr.md) - 5 shared documents
 
 **Organizations:**
 
@@ -49,8 +47,8 @@ Trump](trump.md) - 6 shared documents
 
 **Locations:**
 
-- [China](../locations/china.md) - 4 shared documents
 - [575 Lexington Avenue](../locations/575-lexington-avenue.md) - 4 shared documents
+- [China](../locations/china.md) - 4 shared documents
 
 ## Timeline
 

@@ -28,29 +28,28 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [California](../locations/california.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
-- [Japan](../locations/japan.md) - 5 shared documents
-- [London](../locations/london.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
-- [Iraq](../locations/iraq.md) - 5 shared documents
-- [Texas](../locations/texas.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [California](../locations/california.md) - 5 shared documents
 - [Chicago](../locations/chicago.md) - 5 shared documents
 - [England](../locations/england.md) - 5 shared documents
+- [India](../locations/india.md) - 5 shared documents
+- [Iraq](../locations/iraq.md) - 5 shared documents
+- [Japan](../locations/japan.md) - 5 shared documents
+- [London](../locations/london.md) - 5 shared documents
+- [Texas](../locations/texas.md) - 5 shared documents
 
 **Events:**
 
-- [1986](../events/1986.md) - 5 shared documents
-- [2004](../events/2004.md) - 5 shared documents
-- [2007](../events/2007.md) - 5 shared documents
-- [2009](../events/2009.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
 - [1962](../events/1962.md) - 5 shared documents
-- [1996](../events/1996.md) - 5 shared documents
-- [2000](../events/2000.md) - 5 shared documents
-- [daily](../events/daily.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
+- [1964](../events/1964.md) - 5 shared documents
+- [1968](../events/1968.md) - 5 shared documents
+- [1969](../events/1969.md) - 5 shared documents
+- [1974](../events/1974.md) - 5 shared documents
+- [1977](../events/1977.md) - 5 shared documents
+- [1978](../events/1978.md) - 5 shared documents
+- [1979](../events/1979.md) - 5 shared documents
+- [1980](../events/1980.md) - 5 shared documents
+- [1985](../events/1985.md) - 5 shared documents
 
 ## Timeline
 

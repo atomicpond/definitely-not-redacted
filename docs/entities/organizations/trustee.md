@@ -30,8 +30,8 @@ Top 6 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 5 shared documents
+- [United States](../locations/united-states.md) - 5 shared documents
 - [New York](../locations/new-york.md) - 4 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 4 shared documents
 

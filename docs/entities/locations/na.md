@@ -48,20 +48,20 @@ Morgan](../organizations/jp-morgan.md) - 8 shared documents
 **Locations:**
 
 - [Spain](spain.md) - 6 shared documents
-- [Germany](germany.md) - 6 shared documents
 - [Asia](asia.md) - 6 shared documents
+- [Germany](germany.md) - 6 shared documents
 - [Italy](italy.md) - 6 shared documents
 - [Greece](greece.md) - 5 shared documents
+- [Ireland](ireland.md) - 4 shared documents
 - [Japan](japan.md) - 4 shared documents
 - [Latin America](latin-america.md) - 4 shared documents
-- [Ireland](ireland.md) - 4 shared documents
 
 **Events:**
 
 - [this year](../events/this-year.md) - 6 shared documents
 - [next year](../events/next-year.md) - 5 shared documents
-- [annual](../events/annual.md) - 4 shared documents
 - [2012](../events/2012.md) - 4 shared documents
+- [annual](../events/annual.md) - 4 shared documents
 - [last week](../events/last-week.md) - 4 shared documents
 
 ## Timeline

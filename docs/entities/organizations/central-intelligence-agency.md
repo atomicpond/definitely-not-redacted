@@ -33,29 +33,26 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 5 shared documents
 - [Canada](../locations/canada.md) - 5 shared documents
 - [D.C.](../locations/dc.md) - 5 shared documents
+- [Pennsylvania](../locations/pennsylvania.md) - 5 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 5 shared documents
 - [Texas](../locations/texas.md) - 5 shared documents
+- [United States](../locations/united-states.md) - 5 shared documents
 - [Virginia](../locations/virginia.md) - 5 shared documents
-- [Pennsylvania](../locations/pennsylvania.md) - 5 shared documents
-- [California](../locations/california.md) - 4 shared documents
-- [Dubai](../locations/dubai.md) - 4 shared documents
-- [Los Angeles](../locations/los-angeles.md) - 4 shared documents
 
 **Events:**
 
-- [2012](../events/2012.md) - 5 shared documents
 - [1990](../events/1990.md) - 5 shared documents
-- [1994](../events/1994.md) - 5 shared documents
 - [1991](../events/1991.md) - 5 shared documents
+- [1994](../events/1994.md) - 5 shared documents
 - [1995](../events/1995.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [2004](../events/2004.md) - 4 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [2015](../events/2015.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
+- [2012](../events/2012.md) - 5 shared documents
+- [1964](../events/1964.md) - 4 shared documents
+- [1980](../events/1980.md) - 4 shared documents
+- [1982](../events/1982.md) - 4 shared documents
+- [1987](../events/1987.md) - 4 shared documents
+- [1989](../events/1989.md) - 4 shared documents
 
 ## Timeline
 

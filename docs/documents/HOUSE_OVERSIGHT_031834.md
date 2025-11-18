@@ -18,7 +18,7 @@
 - [Mitchell](../entities/people/mitchell.md) - 18 mentions
 - [Assad](../entities/people/assad.md) - 17 mentions
 - [Mao](../entities/people/mao.md) - 11 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 8 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 8 mentions
 - [David](../entities/people/david.md) - 3 mentions
 - [Netanyahu](../entities/people/netanyahu.md) - 3 mentions
 - [Benjamin Netanyahu](../entities/people/benjamin-netanyahu.md) - 3 mentions

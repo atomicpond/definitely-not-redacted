@@ -26,7 +26,7 @@ Top 6 documents by mention frequency:
 
 **People:**
 
-- [Mr. Obama](../people/obama.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 
 **Organizations:**
 
@@ -49,8 +49,8 @@ Top 6 documents by mention frequency:
 
 - [last week](last-week.md) - 6 shared documents
 - [today](today.md) - 5 shared documents
-- [2010](2010.md) - 5 shared documents
 - [2006](2006.md) - 5 shared documents
+- [2010](2010.md) - 5 shared documents
 - [2009](2009.md) - 4 shared documents
 
 ## Timeline

@@ -53,8 +53,8 @@ On](../people/yes-on.md) - 6 shared documents
 - [Dec 6, 2017](dec-6-2017.md) - 8 shared documents
 - [Dec 8, 2017](dec-8-2017.md) - 8 shared documents
 - [Fri, Dec 8, 2017](fri-dec-8-2017.md) - 8 shared documents
+- [Dec 9, 2017](dec-9-2017.md) - 5 shared documents
 - [jan](jan.md) - 5 shared documents
-- [Sat](sat.md) - 5 shared documents
 
 ## Timeline
 

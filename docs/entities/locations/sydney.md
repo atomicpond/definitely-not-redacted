@@ -32,14 +32,14 @@ Top 10 documents by mention frequency:
 
 - [Communist Party](../people/communist-party.md) - 8 shared documents
 - [Federal Reserve](../people/federal-reserve.md) - 8 shared documents
-- [Barack Obama](../people/barack-obama.md) - 7 shared documents
 - [Cold War](../people/cold-war.md) - 7 shared documents
 - [East Asia](../people/east-asia.md) - 7 shared documents
-- [President Obama](../people/president-obama.md) - 7 shared documents
 - [White House](../people/white-house.md) - 7 shared documents
 - [Angela Merkel](../people/angela-merkel.md) - 6 shared documents
 - [After Words](../people/after-words.md) - 5 shared documents
 - [Alan Greenspan](../people/alan-greenspan.md) - 5 shared documents
+- [Australian Labor Party](../people/australian-labor-party.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 
 **Organizations:**
 
@@ -57,15 +57,15 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [France](france.md) - 14 shared documents
+- [Australia](australia.md) - 13 shared documents
 - [China](china.md) - 13 shared documents
-- [Japan](japan.md) - 13 shared documents
 - [Germany](germany.md) - 13 shared documents
 - [Italy](italy.md) - 13 shared documents
-- [Australia](australia.md) - 13 shared documents
-- [Europe](europe.md) - 12 shared documents
-- [Russia](russia.md) - 12 shared documents
+- [Japan](japan.md) - 13 shared documents
 - [America](america.md) - 12 shared documents
+- [Europe](europe.md) - 12 shared documents
 - [India](india.md) - 12 shared documents
+- [Russia](russia.md) - 12 shared documents
 
 **Events:**
 
@@ -75,10 +75,10 @@ Top 10 documents by mention frequency:
 - [the 21st century](../events/the-21st-century.md) - 9 shared documents
 - [last week](../events/last-week.md) - 8 shared documents
 - [the 1990s](../events/the-1990s.md) - 8 shared documents
+- [2002](../events/2002.md) - 7 shared documents
 - [daily](../events/daily.md) - 7 shared documents
 - [July](../events/july.md) - 7 shared documents
 - [the year](../events/the-year.md) - 7 shared documents
-- [2002](../events/2002.md) - 7 shared documents
 
 ## Timeline
 

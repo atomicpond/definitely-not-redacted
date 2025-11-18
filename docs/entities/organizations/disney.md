@@ -59,12 +59,12 @@ Top 10 documents by mention frequency:
 - [California](../locations/california.md) - 13 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 13 shared documents
 - [Washington](../locations/washington.md) - 13 shared documents
-- [New York](../locations/new-york.md) - 12 shared documents
-- [London](../locations/london.md) - 12 shared documents
 - [America](../locations/america.md) - 12 shared documents
+- [London](../locations/london.md) - 12 shared documents
+- [New York](../locations/new-york.md) - 12 shared documents
 - [Rome](../locations/rome.md) - 11 shared documents
-- [Manhattan](../locations/manhattan.md) - 10 shared documents
 - [Hollywood](../locations/hollywood.md) - 10 shared documents
+- [Manhattan](../locations/manhattan.md) - 10 shared documents
 
 **Events:**
 
@@ -72,12 +72,12 @@ Top 10 documents by mention frequency:
 - [annual](../events/annual.md) - 12 shared documents
 - [this year](../events/this-year.md) - 12 shared documents
 - [years](../events/years.md) - 12 shared documents
+- [2005](../events/2005.md) - 11 shared documents
 - [six months](../events/six-months.md) - 11 shared documents
 - [Sunday](../events/sunday.md) - 11 shared documents
-- [2005](../events/2005.md) - 11 shared documents
 - [two days](../events/two-days.md) - 11 shared documents
 - [1996](../events/1996.md) - 10 shared documents
-- [last year](../events/last-year.md) - 10 shared documents
+- [2011](../events/2011.md) - 10 shared documents
 
 ## Timeline
 

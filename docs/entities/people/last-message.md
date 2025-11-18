@@ -49,7 +49,6 @@ Sender](yes-sender.md) - 26 shared documents
 - [GUID](../organizations/guid.md) - 63 shared documents
 - [HOUSE](../organizations/house.md) - 59 shared documents
 - [Trump](../organizations/trump.md) - 14 shared documents
-- [Harvard](../organizations/harvard.md) - 6 shared documents
 
 **Locations:**
 
@@ -60,9 +59,9 @@ Sender](yes-sender.md) - 26 shared documents
 - [N.Y.](../locations/ny.md) - 13 shared documents
 - [NYC](../locations/nyc.md) - 12 shared documents
 - [Iran](../locations/iran.md) - 10 shared documents
-- [Palm Beach](../locations/palm-beach.md) - 9 shared documents
 - [D.C.](../locations/dc.md) - 9 shared documents
-- [Qatar](../locations/qatar.md) - 7 shared documents
+- [Palm Beach](../locations/palm-beach.md) - 9 shared documents
+- [Israel](../locations/israel.md) - 7 shared documents
 
 **Events:**
 

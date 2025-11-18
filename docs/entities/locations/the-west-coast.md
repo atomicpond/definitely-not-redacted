@@ -55,24 +55,24 @@ Top 10 documents by mention frequency:
 - [Washington](washington.md) - 6 shared documents
 - [California](california.md) - 6 shared documents
 - [France](france.md) - 6 shared documents
-- [the United States](the-united-states.md) - 6 shared documents
 - [Manhattan](manhattan.md) - 6 shared documents
+- [the United States](the-united-states.md) - 6 shared documents
 - [United States](united-states.md) - 5 shared documents
-- [the Middle East](the-middle-east.md) - 5 shared documents
 - [Africa](africa.md) - 5 shared documents
+- [Arizona](arizona.md) - 5 shared documents
 
 **Events:**
 
 - [2009](../events/2009.md) - 6 shared documents
-- [today](../events/today.md) - 6 shared documents
+- [each year](../events/each-year.md) - 6 shared documents
 - [last year](../events/last-year.md) - 6 shared documents
 - [Sunday](../events/sunday.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
+- [today](../events/today.md) - 6 shared documents
 - [tomorrow](../events/tomorrow.md) - 6 shared documents
 - [two years](../events/two-years.md) - 6 shared documents
-- [each year](../events/each-year.md) - 6 shared documents
-- [2004](../events/2004.md) - 5 shared documents
-- [2007](../events/2007.md) - 5 shared documents
+- [years](../events/years.md) - 6 shared documents
+- [1978](../events/1978.md) - 5 shared documents
+- [1996](../events/1996.md) - 5 shared documents
 
 ## Timeline
 

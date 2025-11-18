@@ -29,16 +29,12 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Lawrence Krauss](../people/lawrence-krauss.md) - 43 shared documents
-- [Lawrence M. Krauss](../people/lawrence-m-krauss.md) - 35 shared documents
-- [Jeffrey Epstein](../people/jeffrey-epstein.md) - 20 shared documents
-- [Krauss](../people/krauss.md) - 20 shared documents
-- [Epstein](../people/epstein.md) - 19 shared documents
-- [Lawrence](../people/lawrence.md) - 18 shared documents
+- [Lawrence Krauss](../people/lawrence-krauss.md) - 35 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 15 shared documents
 - [Jeffrey](../people/jeffrey.md) - 14 shared documents
 - [Space Exploration](../people/space-exploration.md) - 14 shared documents
 - [Research Office](../people/research-office.md) - 13 shared documents
+- [Rebecca Watson](../people/rebecca-watson.md) - 12 shared documents
 
 **Organizations:**
 
@@ -74,14 +70,14 @@ Arizona State University](cosmology-initiative-foundation-professor-school-of-ea
 
 - [85287-1404](../events/85287-1404.md) - 42 shared documents
 - [today](../events/today.md) - 14 shared documents
-- [April 6, 2011](../events/april-6-2011.md) - 12 shared documents
 - [a few months ago](../events/a-few-months-ago.md) - 12 shared documents
 - [Apr 6, 2011](../events/apr-6-2011.md) - 12 shared documents
+- [April 6, 2011](../events/april-6-2011.md) - 12 shared documents
 - [Wed, Apr 6, 2011](../events/wed-apr-6-2011.md) - 12 shared documents
-- [October](../events/october.md) - 11 shared documents
+- [2006](../events/2006.md) - 11 shared documents
 - [2007](../events/2007.md) - 11 shared documents
+- [2008](../events/2008.md) - 11 shared documents
 - [2014](../events/2014.md) - 11 shared documents
-- [2016](../events/2016.md) - 11 shared documents
 
 ## Timeline
 

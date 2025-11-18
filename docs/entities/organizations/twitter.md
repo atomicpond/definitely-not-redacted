@@ -32,14 +32,14 @@ Top 10 documents by mention frequency:
 
 - [White House](../people/white-house.md) - 35 shared documents
 - [San Francisco](../people/san-francisco.md) - 21 shared documents
-- [Barack Obama](../people/barack-obama.md) - 18 shared documents
 - [Nigel Farage](../people/nigel-farage.md) - 18 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 17 shared documents
-- [President Trump](../people/president-trump.md) - 17 shared documents
 - [European Parliament](../people/european-parliament.md) - 16 shared documents
 - [Los Angeles](../people/los-angeles.md) - 16 shared documents
 - [Middle East](../people/middle-east.md) - 16 shared documents
-- [President Obama](../people/president-obama.md) - 15 shared documents
+- [Michael Wolff](../people/michael-wolff.md) - 14 shared documents
+- [Saudi Arabia](../people/saudi-arabia.md) - 14 shared documents
+- [Cambridge Analytica](../people/cambridge-analytica.md) - 13 shared documents
 
 **Organizations:**
 
@@ -47,8 +47,8 @@ Top 10 documents by mention frequency:
 - [HOUSE](house.md) - 59 shared documents
 - [Trump](trump.md) - 44 shared documents
 - [Google](google.md) - 32 shared documents
-- [Congress](congress.md) - 24 shared documents
 - [Apple](apple.md) - 24 shared documents
+- [Congress](congress.md) - 24 shared documents
 - [White House](white-house.md) - 11 shared documents
 - [YouTube](youtube.md) - 10 shared documents
 - [Yale](yale.md) - 9 shared documents
@@ -62,8 +62,8 @@ Top 10 documents by mention frequency:
 - [Europe](../locations/europe.md) - 38 shared documents
 - [Washington](../locations/washington.md) - 38 shared documents
 - [America](../locations/america.md) - 37 shared documents
-- [USA](../locations/usa.md) - 35 shared documents
 - [the United States](../locations/the-united-states.md) - 35 shared documents
+- [USA](../locations/usa.md) - 35 shared documents
 - [California](../locations/california.md) - 30 shared documents
 - [Russia](../locations/russia.md) - 30 shared documents
 
@@ -76,9 +76,9 @@ Top 10 documents by mention frequency:
 - [2014](../events/2014.md) - 34 shared documents
 - [daily](../events/daily.md) - 30 shared documents
 - [2008](../events/2008.md) - 28 shared documents
-- [this week](../events/this-week.md) - 26 shared documents
 - [the day](../events/the-day.md) - 26 shared documents
-- [2015](../events/2015.md) - 25 shared documents
+- [this week](../events/this-week.md) - 26 shared documents
+- [2011](../events/2011.md) - 25 shared documents
 
 ## Timeline
 

@@ -55,10 +55,10 @@ Top 7 documents by mention frequency:
 - [2018](2018.md) - 6 shared documents
 - [6-month](6-month.md) - 5 shared documents
 - [year-end](year-end.md) - 4 shared documents
-- [2015](2015.md) - 4 shared documents
-- [2017](2017.md) - 4 shared documents
 - [1999](1999.md) - 4 shared documents
 - [2002](2002.md) - 4 shared documents
+- [2015](2015.md) - 4 shared documents
+- [2017](2017.md) - 4 shared documents
 
 ## Timeline
 

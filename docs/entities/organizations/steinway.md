@@ -30,35 +30,33 @@ Top 6 documents by mention frequency:
 
 **Organizations:**
 
-- [Harvard](harvard.md) - 5 shared documents
 - [Boeing](boeing.md) - 5 shared documents
+- [Harvard](harvard.md) - 5 shared documents
 - [Times](times.md) - 4 shared documents
 
 **Locations:**
 
 - [London](../locations/london.md) - 6 shared documents
 - [Pennsylvania](../locations/pennsylvania.md) - 6 shared documents
+- [Aspen](../locations/aspen.md) - 5 shared documents
 - [California](../locations/california.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
 - [Jordan](../locations/jordan.md) - 5 shared documents
 - [Saudi Arabia](../locations/saudi-arabia.md) - 5 shared documents
 - [Upper East Side](../locations/upper-east-side.md) - 5 shared documents
-- [Aspen](../locations/aspen.md) - 5 shared documents
-- [Africa](../locations/africa.md) - 4 shared documents
-- [Europe](../locations/europe.md) - 4 shared documents
 
 **Events:**
 
-- [the 1980s](../events/the-1980s.md) - 5 shared documents
-- [today](../events/today.md) - 5 shared documents
-- [1996](../events/1996.md) - 5 shared documents
-- [November](../events/november.md) - 5 shared documents
-- [the years](../events/the-years.md) - 5 shared documents
-- [a few months](../events/a-few-months.md) - 5 shared documents
-- [a few weeks](../events/a-few-weeks.md) - 5 shared documents
 - [1981](../events/1981.md) - 5 shared documents
 - [1987](../events/1987.md) - 5 shared documents
+- [1996](../events/1996.md) - 5 shared documents
+- [a few months](../events/a-few-months.md) - 5 shared documents
+- [a few weeks](../events/a-few-weeks.md) - 5 shared documents
 - [four years later](../events/four-years-later.md) - 5 shared documents
+- [March 4](../events/march-4.md) - 5 shared documents
+- [November](../events/november.md) - 5 shared documents
+- [the 1980s](../events/the-1980s.md) - 5 shared documents
+- [the years](../events/the-years.md) - 5 shared documents
 
 ## Timeline
 

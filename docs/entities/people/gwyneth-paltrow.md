@@ -38,30 +38,30 @@ Top 10 documents by mention frequency:
 - [Michael Barker](michael-barker.md) - 7 shared documents
 - [Peggy Siegal](peggy-siegal.md) - 7 shared documents
 - [Bennett Miller](bennett-miller.md) - 7 shared documents
-- [Brad Pitt](brad-pitt.md) - 7 shared documents
+- [Beverly Hills](beverly-hills.md) - 7 shared documents
 
 **Organizations:**
 
-- [HBO](../organizations/hbo.md) - 8 shared documents
 - [Academy](../organizations/academy.md) - 8 shared documents
+- [HBO](../organizations/hbo.md) - 8 shared documents
 - [UTA](../organizations/uta.md) - 8 shared documents
 - [Vanity Fair](../organizations/vanity-fair.md) - 8 shared documents
-- [Viacom](../organizations/viacom.md) - 7 shared documents
 - [Disney](../organizations/disney.md) - 7 shared documents
 - [Paramount](../organizations/paramount.md) - 7 shared documents
 - [Sony](../organizations/sony.md) - 7 shared documents
-- [Fox](../organizations/fox.md) - 6 shared documents
-- [Marchesa](../organizations/marchesa.md) - 6 shared documents
+- [Viacom](../organizations/viacom.md) - 7 shared documents
+- [ABC-TV](../organizations/abc-tv.md) - 6 shared documents
+- [DGA](../organizations/dga.md) - 6 shared documents
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 8 shared documents
 - [America](../locations/america.md) - 8 shared documents
+- [New York](../locations/new-york.md) - 8 shared documents
 - [Paris](../locations/paris.md) - 8 shared documents
-- [Toronto](../locations/toronto.md) - 7 shared documents
-- [Hollywood](../locations/hollywood.md) - 7 shared documents
-- [Cannes](../locations/cannes.md) - 7 shared documents
 - [Beverly Hills](../locations/beverly-hills.md) - 7 shared documents
+- [Cannes](../locations/cannes.md) - 7 shared documents
+- [Hollywood](../locations/hollywood.md) - 7 shared documents
+- [Toronto](../locations/toronto.md) - 7 shared documents
 - [Los Angeles](../locations/los-angeles.md) - 6 shared documents
 - [Manhattan](../locations/manhattan.md) - 6 shared documents
 
@@ -70,9 +70,9 @@ Top 10 documents by mention frequency:
 - [this year](../events/this-year.md) - 10 shared documents
 - [Sunday](../events/sunday.md) - 9 shared documents
 - [annual](../events/annual.md) - 7 shared documents
-- [years](../events/years.md) - 7 shared documents
 - [March](../events/march.md) - 7 shared documents
 - [the next day](../events/the-next-day.md) - 7 shared documents
+- [years](../events/years.md) - 7 shared documents
 - [last year](../events/last-year.md) - 6 shared documents
 
 ## Timeline

@@ -13,7 +13,7 @@
 - [Jean Luc Brunel](../entities/people/jean-luc-brunel.md) - 4 mentions
 - [Jeffrey Epstein 
 Unauthorized](../entities/people/jeffrey-epstein-unauthorized.md) - 2 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 - [Jeffrey](../entities/people/jeffrey.md) - 1 mention
 - [boris](../entities/people/boris.md) - 1 mention
 - [On Monday](../entities/people/on-monday.md) - 1 mention

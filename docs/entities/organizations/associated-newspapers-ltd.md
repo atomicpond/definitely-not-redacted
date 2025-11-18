@@ -28,10 +28,9 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [Bradley Edwards](../people/bradley-edwards.md) - 9 shared documents
+- [Brad Edwards](../people/brad-edwards.md) - 7 shared documents
 - [Dear Sirs](../people/dear-sirs.md) - 7 shared documents
 - [Derry St](../people/derry-st.md) - 7 shared documents
-- [Mr Bradley Edwards](../people/mr-bradley-edwards.md) - 7 shared documents
 - [Mr Edwards](../people/mr-edwards.md) - 7 shared documents
 - [W8 5TT](../people/w8-5tt.md) - 7 shared documents
 - [Liz Hartley](../people/liz-hartley.md) - 6 shared documents
@@ -46,16 +45,16 @@ Sent](../people/redacted-sent.md) - 5 shared documents
 
 **Locations:**
 
+- [Derry St](../locations/derry-st.md) - 7 shared documents
 - [England](../locations/england.md) - 7 shared documents
 - [Kensington](../locations/kensington.md) - 7 shared documents
-- [Derry St](../locations/derry-st.md) - 7 shared documents
 
 **Events:**
 
-- [Sunday](../events/sunday.md) - 7 shared documents
-- [Saturday](../events/saturday.md) - 7 shared documents
 - [age 17](../events/age-17.md) - 7 shared documents
 - [October 18, 2013](../events/october-18-2013.md) - 7 shared documents
+- [Saturday](../events/saturday.md) - 7 shared documents
+- [Sunday](../events/sunday.md) - 7 shared documents
 
 ## Timeline
 

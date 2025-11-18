@@ -46,31 +46,25 @@ Top 10 documents by mention frequency:
 - [Bank of America](../organizations/bank-of-america.md) - 18 shared documents
 - [Central Bank](../organizations/central-bank.md) - 18 shared documents
 - [the Capital Market Authority](../organizations/the-capital-market-authority.md) - 18 shared documents
-- [Merrill Lynch](../organizations/merrill-lynch.md) - 17 shared documents
-- [Pierce, Fenner & Smith Incorporated](../organizations/pierce-fenner-smith-incorporated.md) - 17 shared documents
-- [Bank of America Merrill Lynch](../organizations/bank-of-america-merrill-lynch.md) - 17 shared documents
-- [BofA Merrill Lynch Global Research](../organizations/bofa-merrill-lynch-global-research.md) - 17 shared documents
-- [Bank of America
-Corporation](../organizations/bank-of-america-corporation.md) - 17 shared documents
-- [BofA Merrill Lynch](../organizations/bofa-merrill-lynch.md) - 17 shared documents
 
 **Locations:**
 
 - [Brazil](../locations/brazil.md) - 21 shared documents
 - [the United Kingdom](../locations/the-united-kingdom.md) - 21 shared documents
-- [Japan](../locations/japan.md) - 20 shared documents
-- [Russia](../locations/russia.md) - 20 shared documents
+- [Argentina](../locations/argentina.md) - 20 shared documents
+- [Australia](../locations/australia.md) - 20 shared documents
 - [Canada](../locations/canada.md) - 20 shared documents
 - [Germany](../locations/germany.md) - 20 shared documents
-- [Mexico](../locations/mexico.md) - 20 shared documents
-- [Australia](../locations/australia.md) - 20 shared documents
 - [India](../locations/india.md) - 20 shared documents
-- [Spain](../locations/spain.md) - 20 shared documents
+- [Japan](../locations/japan.md) - 20 shared documents
+- [Mexico](../locations/mexico.md) - 20 shared documents
+- [Russia](../locations/russia.md) - 20 shared documents
 
 **Events:**
 
-- [2001](../events/2001.md) - 18 shared documents
 - [1959](../events/1959.md) - 18 shared documents
+- [2001](../events/2001.md) - 18 shared documents
+- [198602883D](../events/198602883d.md) - 17 shared documents
 - [the day](../events/the-day.md) - 17 shared documents
 
 ## Timeline

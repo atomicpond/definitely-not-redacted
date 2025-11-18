@@ -29,8 +29,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 7 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [San Francisco](../people/san-francisco.md) - 5 shared documents
 - [Al Qaeda](../people/al-qaeda.md) - 4 shared documents
 - [Cold War](../people/cold-war.md) - 4 shared documents
@@ -55,27 +54,27 @@ Top 10 documents by mention frequency:
 
 - [London](../locations/london.md) - 9 shared documents
 - [America](../locations/america.md) - 8 shared documents
-- [the United States](../locations/the-united-states.md) - 8 shared documents
 - [Spain](../locations/spain.md) - 8 shared documents
+- [the United States](../locations/the-united-states.md) - 8 shared documents
 - [California](../locations/california.md) - 7 shared documents
 - [England](../locations/england.md) - 7 shared documents
 - [Africa](../locations/africa.md) - 6 shared documents
-- [China](../locations/china.md) - 6 shared documents
+- [Barcelona](../locations/barcelona.md) - 6 shared documents
 - [Canada](../locations/canada.md) - 6 shared documents
-- [Texas](../locations/texas.md) - 6 shared documents
+- [China](../locations/china.md) - 6 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 9 shared documents
 - [years](../events/years.md) - 8 shared documents
-- [2007](../events/2007.md) - 7 shared documents
-- [last year](../events/last-year.md) - 7 shared documents
-- [summer](../events/summer.md) - 7 shared documents
 - [2001](../events/2001.md) - 7 shared documents
-- [one day](../events/one-day.md) - 7 shared documents
+- [2007](../events/2007.md) - 7 shared documents
 - [a few years ago](../events/a-few-years-ago.md) - 7 shared documents
+- [last year](../events/last-year.md) - 7 shared documents
+- [one day](../events/one-day.md) - 7 shared documents
 - [several years](../events/several-years.md) - 7 shared documents
-- [2009](../events/2009.md) - 6 shared documents
+- [summer](../events/summer.md) - 7 shared documents
+- [1990](../events/1990.md) - 6 shared documents
 
 ## Timeline
 

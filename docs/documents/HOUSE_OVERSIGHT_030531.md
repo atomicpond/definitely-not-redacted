@@ -14,7 +14,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Obama](../entities/people/mr-obama.md) - 67 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 67 mentions
 - [Netanyahu](../entities/people/netanyahu.md) - 16 mentions
 - [Vieira de Mello](../entities/people/vieira-de-mello.md) - 15 mentions
 - [CLINTON](../entities/people/clinton.md) - 10 mentions

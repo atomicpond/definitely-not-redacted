@@ -27,44 +27,41 @@ Top 7 documents by mention frequency:
 **People:**
 
 - [White House](white-house.md) - 5 shared documents
-- [Michael Cohen](michael-cohen.md) - 4 shared documents
-- [Park Avenue](park-avenue.md) - 4 shared documents
-- [Michael Flynn](michael-flynn.md) - 4 shared documents
 
 **Organizations:**
 
 - [Trump](../organizations/trump.md) - 7 shared documents
-- [HOUSE](../organizations/house.md) - 6 shared documents
 - [FBI](../organizations/fbi.md) - 6 shared documents
-- [Senate](../organizations/senate.md) - 5 shared documents
-- [White House](../organizations/white-house.md) - 5 shared documents
-- [Congress](../organizations/congress.md) - 5 shared documents
-- [the White House](../organizations/the-white-house.md) - 5 shared documents
+- [HOUSE](../organizations/house.md) - 6 shared documents
 - [CNN](../organizations/cnn.md) - 5 shared documents
+- [Congress](../organizations/congress.md) - 5 shared documents
 - [Fox](../organizations/fox.md) - 5 shared documents
-- [Times](../organizations/times.md) - 4 shared documents
+- [Senate](../organizations/senate.md) - 5 shared documents
+- [the White House](../organizations/the-white-house.md) - 5 shared documents
+- [White House](../organizations/white-house.md) - 5 shared documents
+- [Capitol Hill](../organizations/capitol-hill.md) - 4 shared documents
 
 **Locations:**
 
-- [Russia](../locations/russia.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
 - [Manhattan](../locations/manhattan.md) - 5 shared documents
+- [Russia](../locations/russia.md) - 5 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 5 shared documents
 - [America](../locations/america.md) - 4 shared documents
 - [Florida](../locations/florida.md) - 4 shared documents
 
 **Events:**
 
-- [Thursday](../events/thursday.md) - 7 shared documents
 - [daily](../events/daily.md) - 7 shared documents
+- [Thursday](../events/thursday.md) - 7 shared documents
 - [today](../events/today.md) - 6 shared documents
-- [2014](../events/2014.md) - 5 shared documents
-- [years](../events/years.md) - 5 shared documents
 - [2005](../events/2005.md) - 5 shared documents
+- [2014](../events/2014.md) - 5 shared documents
 - [Friday](../events/friday.md) - 5 shared documents
 - [November](../events/november.md) - 5 shared documents
+- [years](../events/years.md) - 5 shared documents
+- [2006](../events/2006.md) - 4 shared documents
 - [2009](../events/2009.md) - 4 shared documents
-- [annual](../events/annual.md) - 4 shared documents
 
 ## Timeline
 

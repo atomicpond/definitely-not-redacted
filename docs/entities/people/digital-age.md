@@ -24,23 +24,23 @@ Top 5 documents by mention frequency:
 
 **Organizations:**
 
-- [Facebook](../organizations/facebook.md) - 4 shared documents
-- [iPhone](../organizations/iphone.md) - 4 shared documents
-- [Twitter](../organizations/twitter.md) - 4 shared documents
-- [CNN](../organizations/cnn.md) - 4 shared documents
 - [Apple](../organizations/apple.md) - 4 shared documents
 - [CNBC](../organizations/cnbc.md) - 4 shared documents
+- [CNN](../organizations/cnn.md) - 4 shared documents
+- [Facebook](../organizations/facebook.md) - 4 shared documents
 - [Google](../organizations/google.md) - 4 shared documents
+- [iPhone](../organizations/iphone.md) - 4 shared documents
+- [Twitter](../organizations/twitter.md) - 4 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 4 shared documents
-- [Wednesday](../events/wednesday.md) - 4 shared documents
+- [last week](../events/last-week.md) - 4 shared documents
 - [last year](../events/last-year.md) - 4 shared documents
 - [this week](../events/this-week.md) - 4 shared documents
 - [this year](../events/this-year.md) - 4 shared documents
+- [today](../events/today.md) - 4 shared documents
+- [Wednesday](../events/wednesday.md) - 4 shared documents
 - [years](../events/years.md) - 4 shared documents
-- [last week](../events/last-week.md) - 4 shared documents
 
 ## Timeline
 

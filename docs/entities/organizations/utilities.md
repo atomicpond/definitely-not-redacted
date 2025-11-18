@@ -45,23 +45,23 @@ Top 10 documents by mention frequency:
 - [Bloomberg](bloomberg.md) - 14 shared documents
 - [Fed](fed.md) - 14 shared documents
 - [Healthcare](healthcare.md) - 13 shared documents
-- [S&P](sp.md) - 12 shared documents
-- [ECB](ecb.md) - 12 shared documents
 - [Bank](bank.md) - 12 shared documents
-- [Congress](congress.md) - 11 shared documents
+- [ECB](ecb.md) - 12 shared documents
+- [S&P](sp.md) - 12 shared documents
 - [ABN](abn.md) - 11 shared documents
+- [Congress](congress.md) - 11 shared documents
 
 **Locations:**
 
-- [Japan](../locations/japan.md) - 18 shared documents
 - [Asia](../locations/asia.md) - 18 shared documents
+- [Japan](../locations/japan.md) - 18 shared documents
 - [Brazil](../locations/brazil.md) - 15 shared documents
 - [Canada](../locations/canada.md) - 15 shared documents
 - [India](../locations/india.md) - 15 shared documents
+- [Argentina](../locations/argentina.md) - 14 shared documents
 - [Germany](../locations/germany.md) - 14 shared documents
 - [Hong Kong](../locations/hong-kong.md) - 14 shared documents
 - [Spain](../locations/spain.md) - 14 shared documents
-- [Argentina](../locations/argentina.md) - 14 shared documents
 - [Europe](../locations/europe.md) - 13 shared documents
 
 **Events:**
@@ -70,11 +70,11 @@ Top 10 documents by mention frequency:
 - [2015](../events/2015.md) - 13 shared documents
 - [this year](../events/this-year.md) - 13 shared documents
 - [10-year](../events/10-year.md) - 12 shared documents
+- [2000](../events/2000.md) - 11 shared documents
 - [2018](../events/2018.md) - 11 shared documents
+- [5-year](../events/5-year.md) - 11 shared documents
 - [annual](../events/annual.md) - 11 shared documents
 - [today](../events/today.md) - 11 shared documents
-- [2000](../events/2000.md) - 11 shared documents
-- [5-year](../events/5-year.md) - 11 shared documents
 - [2017](../events/2017.md) - 10 shared documents
 
 ## Timeline

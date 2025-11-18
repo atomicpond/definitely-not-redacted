@@ -29,15 +29,15 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [United States](../locations/united-states.md) - 4 shared documents
 - [Florida](../locations/florida.md) - 4 shared documents
 - [the United States](../locations/the-united-states.md) - 4 shared documents
+- [United States](../locations/united-states.md) - 4 shared documents
 
 **Events:**
 
 - [annual](../events/annual.md) - 5 shared documents
-- [years](../events/years.md) - 4 shared documents
 - [the year](../events/the-year.md) - 4 shared documents
+- [years](../events/years.md) - 4 shared documents
 
 ## Timeline
 

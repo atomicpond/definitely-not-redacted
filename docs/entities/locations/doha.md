@@ -60,9 +60,9 @@ Trump](../people/donald-trump.md) - 7 shared documents
 - [the Middle East](the-middle-east.md) - 13 shared documents
 - [Qatar](qatar.md) - 12 shared documents
 - [Europe](europe.md) - 11 shared documents
-- [California](california.md) - 7 shared documents
 - [Africa](africa.md) - 7 shared documents
 - [c2c](c2c.md) - 7 shared documents
+- [California](california.md) - 7 shared documents
 - [Gaza](gaza.md) - 6 shared documents
 - [Iran](iran.md) - 6 shared documents
 - [Iraq](iraq.md) - 6 shared documents
@@ -74,11 +74,11 @@ Trump](../people/donald-trump.md) - 7 shared documents
 - [40 years of age](../events/40-years-of-age.md) - 7 shared documents
 - [Jan 12, 2012](../events/jan-12-2012.md) - 6 shared documents
 - [2012](../events/2012.md) - 5 shared documents
-- [last week](../events/last-week.md) - 5 shared documents
 - [2013](../events/2013.md) - 5 shared documents
+- [last week](../events/last-week.md) - 5 shared documents
 - [many years](../events/many-years.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [2009](../events/2009.md) - 4 shared documents
+- [1973](../events/1973.md) - 4 shared documents
+- [1979](../events/1979.md) - 4 shared documents
 
 ## Timeline
 

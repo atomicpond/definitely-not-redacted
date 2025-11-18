@@ -48,14 +48,14 @@ Top 9 documents by mention frequency:
 
 - [every day](../events/every-day.md) - 6 shared documents
 - [the next day](../events/the-next-day.md) - 6 shared documents
-- [years](../events/years.md) - 5 shared documents
 - [1990](../events/1990.md) - 5 shared documents
 - [1994](../events/1994.md) - 5 shared documents
 - [the day](../events/the-day.md) - 5 shared documents
-- [October](../events/october.md) - 4 shared documents
-- [six months](../events/six-months.md) - 4 shared documents
-- [that day](../events/that-day.md) - 4 shared documents
-- [Thursday](../events/thursday.md) - 4 shared documents
+- [years](../events/years.md) - 5 shared documents
+- [1962](../events/1962.md) - 4 shared documents
+- [1979](../events/1979.md) - 4 shared documents
+- [1996](../events/1996.md) - 4 shared documents
+- [2006](../events/2006.md) - 4 shared documents
 
 ## Timeline
 

@@ -62,15 +62,15 @@ Cambridge, MA](../locations/street-cambridge-ma.md) - 6 shared documents
 **Events:**
 
 - [this year](this-year.md) - 9 shared documents
-- [last year](last-year.md) - 8 shared documents
 - [2017](2017.md) - 8 shared documents
+- [last year](last-year.md) - 8 shared documents
 - [the last year](the-last-year.md) - 7 shared documents
 - [this spring](this-spring.md) - 7 shared documents
 - [a year ago](a-year-ago.md) - 7 shared documents
 - [early 2016](early-2016.md) - 7 shared documents
 - [the new year](the-new-year.md) - 6 shared documents
+- [12/2/2015](1222015.md) - 6 shared documents
 - [2015](2015.md) - 6 shared documents
-- [a year later](a-year-later.md) - 6 shared documents
 
 ## Timeline
 

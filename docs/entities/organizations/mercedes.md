@@ -62,22 +62,19 @@ Top 10 documents by mention frequency:
 - [the United States](../locations/the-united-states.md) - 10 shared documents
 - [Virginia](../locations/virginia.md) - 10 shared documents
 - [Paris](../locations/paris.md) - 9 shared documents
-- [Africa](../locations/africa.md) - 8 shared documents
-- [Europe](../locations/europe.md) - 8 shared documents
-- [London](../locations/london.md) - 8 shared documents
 
 **Events:**
 
-- [Sunday](../events/sunday.md) - 11 shared documents
 - [1984](../events/1984.md) - 11 shared documents
 - [1991](../events/1991.md) - 11 shared documents
-- [today](../events/today.md) - 10 shared documents
-- [2001](../events/2001.md) - 10 shared documents
-- [2005](../events/2005.md) - 10 shared documents
+- [Sunday](../events/sunday.md) - 11 shared documents
 - [1981](../events/1981.md) - 10 shared documents
 - [1995](../events/1995.md) - 10 shared documents
-- [2004](../events/2004.md) - 9 shared documents
-- [2007](../events/2007.md) - 9 shared documents
+- [2001](../events/2001.md) - 10 shared documents
+- [2005](../events/2005.md) - 10 shared documents
+- [today](../events/today.md) - 10 shared documents
+- [1976](../events/1976.md) - 9 shared documents
+- [1997](../events/1997.md) - 9 shared documents
 
 ## Timeline
 

@@ -1,8 +1,8 @@
 # Lawrence M. Krauss
 
 **Type:** People  
-**Total Mentions:** 9  
-**Documents:** 9
+**Total Mentions:** 125  
+**Documents:** 39
 
 ## Name Variants
 
@@ -10,17 +10,18 @@
 
 ## Related Documents
 
-Top 9 documents by mention frequency:
+Top 10 documents by mention frequency:
 
-- [HOUSE_OVERSIGHT_011904](../../documents/HOUSE_OVERSIGHT_011904.md) - 1 mention
-- [HOUSE_OVERSIGHT_017060](../../documents/HOUSE_OVERSIGHT_017060.md) - 1 mention
-- [HOUSE_OVERSIGHT_021408](../../documents/HOUSE_OVERSIGHT_021408.md) - 1 mention
-- [HOUSE_OVERSIGHT_021416](../../documents/HOUSE_OVERSIGHT_021416.md) - 1 mention
-- [HOUSE_OVERSIGHT_021425](../../documents/HOUSE_OVERSIGHT_021425.md) - 1 mention
-- [HOUSE_OVERSIGHT_025636](../../documents/HOUSE_OVERSIGHT_025636.md) - 1 mention
-- [HOUSE_OVERSIGHT_025639](../../documents/HOUSE_OVERSIGHT_025639.md) - 1 mention
-- [HOUSE_OVERSIGHT_025651](../../documents/HOUSE_OVERSIGHT_025651.md) - 1 mention
-- [HOUSE_OVERSIGHT_026049](../../documents/HOUSE_OVERSIGHT_026049.md) - 1 mention
+- [HOUSE_OVERSIGHT_029196](../../documents/HOUSE_OVERSIGHT_029196.md) - 9 mentions
+- [HOUSE_OVERSIGHT_029190](../../documents/HOUSE_OVERSIGHT_029190.md) - 8 mentions
+- [HOUSE_OVERSIGHT_029185](../../documents/HOUSE_OVERSIGHT_029185.md) - 7 mentions
+- [HOUSE_OVERSIGHT_029180](../../documents/HOUSE_OVERSIGHT_029180.md) - 6 mentions
+- [HOUSE_OVERSIGHT_030920](../../documents/HOUSE_OVERSIGHT_030920.md) - 6 mentions
+- [HOUSE_OVERSIGHT_030904](../../documents/HOUSE_OVERSIGHT_030904.md) - 5 mentions
+- [HOUSE_OVERSIGHT_030909](../../documents/HOUSE_OVERSIGHT_030909.md) - 5 mentions
+- [HOUSE_OVERSIGHT_030915](../../documents/HOUSE_OVERSIGHT_030915.md) - 5 mentions
+- [HOUSE_OVERSIGHT_031069](../../documents/HOUSE_OVERSIGHT_031069.md) - 5 mentions
+- [HOUSE_OVERSIGHT_030895](../../documents/HOUSE_OVERSIGHT_030895.md) - 4 mentions
 
 ## Connections
 
@@ -28,37 +29,56 @@ Top 9 documents by mention frequency:
 
 **People:**
 
-- [Lawrence Krauss](lawrence-krauss.md) - 8 shared documents
-- [jeffrey E. <](jeffrey-e.md) - 5 shared documents
+- [Lawrence Krauss](lawrence-krauss.md) - 21 shared documents
+- [Jeffrey Epstein](jeffrey-epstein.md) - 19 shared documents
+- [Space Exploration](space-exploration.md) - 17 shared documents
+- [Research Office](research-office.md) - 16 shared documents
+- [Jeffrey E](jeffrey-e.md) - 16 shared documents
+- [Rebecca Watson](rebecca-watson.md) - 12 shared documents
+- [Jeffrey](jeffrey.md) - 12 shared documents
+- [Professor 
+School](professor-school.md) - 11 shared documents
+- [Physics Department 
+Arizona](physics-department-arizona.md) - 10 shared documents
+- [State University](state-university.md) - 10 shared documents
 
 **Organizations:**
 
-- [Arizona State University](../organizations/arizona-state-university.md) - 8 shared documents
-- [P.O. Box 871404](../organizations/po-box-871404.md) - 8 shared documents
-- [School of Earth & Space Exploration and Physics Department](../organizations/school-of-earth-space-exploration-and-physics-department.md) - 8 shared documents
-- [Space Exploration and Physics Department 
-Arizona State University](../organizations/space-exploration-and-physics-department-arizona-state-university.md) - 8 shared documents
-- [The Origins Project](../organizations/the-origins-project.md) - 8 shared documents
-- [ASU](../organizations/asu.md) - 7 shared documents
-- [Cosmology Initiative 
-Foundation](../organizations/cosmology-initiative-foundation.md) - 7 shared documents
-- [Research Office](../organizations/research-office.md) - 7 shared documents
+- [ASU](../organizations/asu.md) - 35 shared documents
+- [HOUSE](../organizations/house.md) - 31 shared documents
+- [Arizona State University](../organizations/arizona-state-university.md) - 29 shared documents
+- [The Origins Project](../organizations/the-origins-project.md) - 25 shared documents
+- [P.O. Box 871404](../organizations/po-box-871404.md) - 24 shared documents
+- [Research Office](../organizations/research-office.md) - 20 shared documents
+- [School of Earth & Space Exploration and Physics Department](../organizations/school-of-earth-space-exploration-and-physics-department.md) - 17 shared documents
 - [ASU 
-Foundation](../organizations/asu-foundation.md) - 5 shared documents
-- [The Origins Project at ASU 
-Foundation](../organizations/the-origins-project-at-asu-foundation.md) - 5 shared documents
+Foundation](../organizations/asu-foundation.md) - 13 shared documents
+- [Cosmology Initiative 
+Foundation Professor 
+School of Earth & Space Exploration and Physics Department 
+Arizona State University](../organizations/cosmology-initiative-foundation-professor-school-of-earth-space-exploration-and-physics-department-arizona-state-university.md) - 13 shared documents
+- [ARIZONA STATE UNIVERSITY 
+College of Liberal Arts and](../organizations/arizona-state-university-college-of-liberal-arts-and.md) - 12 shared documents
 
 **Locations:**
 
-- [Tempe](../locations/tempe.md) - 8 shared documents
-- [Tempe, AZ](../locations/tempe-az.md) - 8 shared documents
-- [London](../locations/london.md) - 4 shared documents
-- [Florida](../locations/florida.md) - 4 shared documents
-- [Australia](../locations/australia.md) - 4 shared documents
+- [Tempe](../locations/tempe.md) - 38 shared documents
+- [AZ](../locations/az.md) - 20 shared documents
+- [Tempe, AZ](../locations/tempe-az.md) - 17 shared documents
+- [Australia](../locations/australia.md) - 12 shared documents
+- [Ithaca](../locations/ithaca.md) - 12 shared documents
 
 **Events:**
 
-- [85287-1404](../events/85287-1404.md) - 8 shared documents
+- [85287-1404](../events/85287-1404.md) - 38 shared documents
+- [today](../events/today.md) - 14 shared documents
+- [a few months ago](../events/a-few-months-ago.md) - 12 shared documents
+- [Apr 6, 2011](../events/apr-6-2011.md) - 12 shared documents
+- [April 6, 2011](../events/april-6-2011.md) - 12 shared documents
+- [Wed, Apr 6, 2011](../events/wed-apr-6-2011.md) - 12 shared documents
+- [this weekend](../events/this-weekend.md) - 10 shared documents
+- [2008](../events/2008.md) - 9 shared documents
+- [2016](../events/2016.md) - 9 shared documents
 
 ## Timeline
 

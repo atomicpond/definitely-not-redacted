@@ -53,20 +53,19 @@ Top 8 documents by mention frequency:
 - [Virginia](virginia.md) - 5 shared documents
 - [California](california.md) - 5 shared documents
 - [D.C.](dc.md) - 5 shared documents
-- [New York](new-york.md) - 4 shared documents
 
 **Events:**
 
 - [2004](../events/2004.md) - 8 shared documents
-- [2003](../events/2003.md) - 7 shared documents
-- [1999](../events/1999.md) - 7 shared documents
-- [2005](../events/2005.md) - 7 shared documents
 - [1994](../events/1994.md) - 7 shared documents
 - [1995](../events/1995.md) - 7 shared documents
-- [2000](../events/2000.md) - 6 shared documents
-- [1993](../events/1993.md) - 6 shared documents
-- [1997](../events/1997.md) - 6 shared documents
-- [1998](../events/1998.md) - 6 shared documents
+- [1999](../events/1999.md) - 7 shared documents
+- [2003](../events/2003.md) - 7 shared documents
+- [2005](../events/2005.md) - 7 shared documents
+- [18 U.S.C.](../events/18-usc.md) - 6 shared documents
+- [1976](../events/1976.md) - 6 shared documents
+- [1982](../events/1982.md) - 6 shared documents
+- [1983](../events/1983.md) - 6 shared documents
 
 ## Timeline
 

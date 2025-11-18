@@ -37,12 +37,12 @@ Top 10 documents by mention frequency:
 **Organizations:**
 
 - [HOUSE](../organizations/house.md) - 11 shared documents
-- [Trump](../organizations/trump.md) - 6 shared documents
 - [New York Times](../organizations/new-york-times.md) - 6 shared documents
+- [Trump](../organizations/trump.md) - 6 shared documents
 - [iPad](../organizations/ipad.md) - 4 shared documents
 - [the Washington Post](../organizations/the-washington-post.md) - 4 shared documents
-- [twitter glhsummers](../organizations/twitter-glhsummers.md) - 4 shared documents
 - [Trending Now](../organizations/trending-now.md) - 4 shared documents
+- [twitter glhsummers](../organizations/twitter-glhsummers.md) - 4 shared documents
 
 **Locations:**
 

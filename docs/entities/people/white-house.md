@@ -32,9 +32,6 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](middle-east.md) - 44 shared documents
-- [President Obama](president-obama.md) - 44 shared documents
-- [President Trump](president-trump.md) - 41 shared documents
-- [Barack Obama](barack-obama.md) - 39 shared documents
 - [Saudi Arabia](saudi-arabia.md) - 38 shared documents
 - [Yale University](yale-university.md) - 6 shared documents
 - [Yale University Press](yale-university-press.md) - 6 shared documents
@@ -43,6 +40,7 @@ Economic Forum](world-economic-forum.md) - 4 shared documents
 - [Yale Law School](yale-law-school.md) - 4 shared documents
 - [Yes 
 Sent](yes-sent.md) - 4 shared documents
+- [Yitzhak Rabin](yitzhak-rabin.md) - 4 shared documents
 
 **Organizations:**
 
@@ -61,8 +59,8 @@ Sent](yes-sent.md) - 4 shared documents
 - [Russia](../locations/russia.md) - 57 shared documents
 - [New York](../locations/new-york.md) - 55 shared documents
 - [the United States](../locations/the-united-states.md) - 53 shared documents
-- [Europe](../locations/europe.md) - 51 shared documents
 - [America](../locations/america.md) - 51 shared documents
+- [Europe](../locations/europe.md) - 51 shared documents
 - [Israel](../locations/israel.md) - 45 shared documents
 - [France](../locations/france.md) - 44 shared documents
 - [China](../locations/china.md) - 43 shared documents
@@ -77,8 +75,9 @@ Sent](yes-sent.md) - 4 shared documents
 - [years](../events/years.md) - 38 shared documents
 - [last year](../events/last-year.md) - 36 shared documents
 - [this year](../events/this-year.md) - 36 shared documents
-- [2014](../events/2014.md) - 35 shared documents
 - [2012](../events/2012.md) - 35 shared documents
+- [2014](../events/2014.md) - 35 shared documents
+- [2009](../events/2009.md) - 34 shared documents
 
 ## Timeline
 

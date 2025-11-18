@@ -50,8 +50,8 @@ Keynes](../people/john-maynard-keynes.md) - 6 shared documents
 
 - [Paris](paris.md) - 6 shared documents
 - [California](california.md) - 6 shared documents
-- [Japan](japan.md) - 6 shared documents
 - [Cambridge](cambridge.md) - 6 shared documents
+- [Japan](japan.md) - 6 shared documents
 - [London](london.md) - 5 shared documents
 - [Oxford](oxford.md) - 5 shared documents
 - [Philadelphia](philadelphia.md) - 5 shared documents
@@ -61,16 +61,16 @@ Keynes](../people/john-maynard-keynes.md) - 6 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 7 shared documents
+- [1981](../events/1981.md) - 7 shared documents
 - [1990](../events/1990.md) - 7 shared documents
 - [1993](../events/1993.md) - 7 shared documents
-- [1981](../events/1981.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
 - [1968](../events/1968.md) - 6 shared documents
 - [2002](../events/2002.md) - 6 shared documents
 - [2013](../events/2013.md) - 6 shared documents
 - [a few years](../events/a-few-years.md) - 6 shared documents
 - [decades](../events/decades.md) - 6 shared documents
-- [2003](../events/2003.md) - 5 shared documents
+- [1930](../events/1930.md) - 5 shared documents
 
 ## Timeline
 

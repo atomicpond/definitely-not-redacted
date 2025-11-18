@@ -37,8 +37,8 @@ Top 6 documents by mention frequency:
 
 **Organizations:**
 
-- [BuzzFeed News](buzzfeed-news.md) - 4 shared documents
 - [Amazon](amazon.md) - 4 shared documents
+- [BuzzFeed News](buzzfeed-news.md) - 4 shared documents
 - [Maxwell](maxwell.md) - 4 shared documents
 
 **Locations:**
@@ -54,15 +54,15 @@ Top 6 documents by mention frequency:
 
 **Events:**
 
-- [2004](../events/2004.md) - 5 shared documents
 - [18 months](../events/18-months.md) - 5 shared documents
+- [2004](../events/2004.md) - 5 shared documents
+- [14 years old](../events/14-years-old.md) - 4 shared documents
+- [2005](../events/2005.md) - 4 shared documents
+- [2006](../events/2006.md) - 4 shared documents
 - [2007](../events/2007.md) - 4 shared documents
+- [2008](../events/2008.md) - 4 shared documents
 - [2012](../events/2012.md) - 4 shared documents
 - [last week](../events/last-week.md) - 4 shared documents
-- [2005](../events/2005.md) - 4 shared documents
-- [2008](../events/2008.md) - 4 shared documents
-- [2006](../events/2006.md) - 4 shared documents
-- [14 years old](../events/14-years-old.md) - 4 shared documents
 
 ## Timeline
 

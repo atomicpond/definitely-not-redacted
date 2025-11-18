@@ -37,7 +37,7 @@ Top 10 documents by mention frequency:
 
 - [Middle East](../people/middle-east.md) - 6 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 6 shared documents
-- [President Obama](../people/president-obama.md) - 5 shared documents
+- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 
 **Organizations:**
 
@@ -54,24 +54,24 @@ Top 10 documents by mention frequency:
 - [China](../locations/china.md) - 8 shared documents
 - [Europe](../locations/europe.md) - 8 shared documents
 - [London](../locations/london.md) - 8 shared documents
-- [United States](../locations/united-states.md) - 7 shared documents
-- [Japan](../locations/japan.md) - 7 shared documents
-- [Mexico](../locations/mexico.md) - 7 shared documents
 - [Asia](../locations/asia.md) - 7 shared documents
 - [France](../locations/france.md) - 7 shared documents
 - [Iraq](../locations/iraq.md) - 7 shared documents
+- [Japan](../locations/japan.md) - 7 shared documents
+- [Mexico](../locations/mexico.md) - 7 shared documents
+- [United States](../locations/united-states.md) - 7 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 9 shared documents
-- [2012](../events/2012.md) - 9 shared documents
 - [2010](../events/2010.md) - 9 shared documents
+- [2012](../events/2012.md) - 9 shared documents
+- [today](../events/today.md) - 9 shared documents
 - [2011](../events/2011.md) - 8 shared documents
+- [2006](../events/2006.md) - 7 shared documents
 - [2009](../events/2009.md) - 7 shared documents
 - [years](../events/years.md) - 7 shared documents
-- [2006](../events/2006.md) - 7 shared documents
-- [this year](../events/this-year.md) - 6 shared documents
 - [2005](../events/2005.md) - 6 shared documents
+- [this year](../events/this-year.md) - 6 shared documents
 - [year](../events/year.md) - 6 shared documents
 
 ## Timeline

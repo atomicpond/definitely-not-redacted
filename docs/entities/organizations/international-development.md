@@ -44,29 +44,29 @@ Top 8 documents by mention frequency:
 
 **Locations:**
 
-- [Russia](../locations/russia.md) - 6 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
 - [Iraq](../locations/iraq.md) - 6 shared documents
+- [Russia](../locations/russia.md) - 6 shared documents
 - [the United States](../locations/the-united-states.md) - 6 shared documents
-- [the Middle East](../locations/the-middle-east.md) - 5 shared documents
-- [United States](../locations/united-states.md) - 5 shared documents
+- [Washington](../locations/washington.md) - 6 shared documents
+- [Afghanistan](../locations/afghanistan.md) - 5 shared documents
 - [Europe](../locations/europe.md) - 5 shared documents
 - [Germany](../locations/germany.md) - 5 shared documents
 - [Iran](../locations/iran.md) - 5 shared documents
-- [Syria](../locations/syria.md) - 5 shared documents
+- [Kazakhstan](../locations/kazakhstan.md) - 5 shared documents
+- [Paris](../locations/paris.md) - 5 shared documents
 
 **Events:**
 
 - [2009](../events/2009.md) - 6 shared documents
 - [2012](../events/2012.md) - 6 shared documents
-- [2004](../events/2004.md) - 5 shared documents
-- [annual](../events/annual.md) - 5 shared documents
-- [2000](../events/2000.md) - 5 shared documents
-- [2010](../events/2010.md) - 5 shared documents
-- [1992](../events/1992.md) - 5 shared documents
 - [1979](../events/1979.md) - 5 shared documents
-- [2003](../events/2003.md) - 4 shared documents
-- [2007](../events/2007.md) - 4 shared documents
+- [1992](../events/1992.md) - 5 shared documents
+- [2000](../events/2000.md) - 5 shared documents
+- [2004](../events/2004.md) - 5 shared documents
+- [2010](../events/2010.md) - 5 shared documents
+- [annual](../events/annual.md) - 5 shared documents
+- [1983](../events/1983.md) - 4 shared documents
+- [1989](../events/1989.md) - 4 shared documents
 
 ## Timeline
 

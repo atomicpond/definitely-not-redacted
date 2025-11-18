@@ -33,13 +33,13 @@ Top 5 documents by mention frequency:
 
 **Locations:**
 
-- [New York](../locations/new-york.md) - 5 shared documents
 - [Florida](../locations/florida.md) - 5 shared documents
-- [the United States](../locations/the-united-states.md) - 5 shared documents
+- [New York](../locations/new-york.md) - 5 shared documents
 - [New York City](../locations/new-york-city.md) - 5 shared documents
 - [Palm Beach](../locations/palm-beach.md) - 5 shared documents
-- [the Southern District](../locations/the-southern-district.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 5 shared documents
 - [New Mexico](../locations/new-mexico.md) - 4 shared documents
+- [the Southern District](../locations/the-southern-district.md) - 4 shared documents
 
 ## Timeline
 

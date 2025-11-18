@@ -12,9 +12,9 @@
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 9 mentions
 - [Epstein](../entities/people/epstein.md) - 6 mentions
 - [DARREN K. INDYKE](../entities/people/darren-k-indyke.md) - 5 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 4 mentions
+- [Mr. Obama](../entities/people/barack-obama.md) - 4 mentions
 - [Mr. Steven 
-Hoffenberg](../entities/people/mr-steven-hoffenberg.md) - 2 mentions
+Hoffenberg](../entities/people/steven-hoffenberg.md) - 2 mentions
 - [Steven J. Hoffenberg](../entities/people/steven-j-hoffenberg.md) - 2 mentions
 - [steven hoffenberg 
 Date](../entities/people/steven-hoffenberg-date.md) - 2 mentions

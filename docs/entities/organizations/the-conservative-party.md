@@ -41,11 +41,9 @@ States](../people/united-states.md) - 4 shared documents
 
 **Organizations:**
 
-- [Harvard](harvard.md) - 6 shared documents
 - [BBC](bbc.md) - 6 shared documents
+- [Harvard](harvard.md) - 6 shared documents
 - [Yale](yale.md) - 5 shared documents
-- [Congress](congress.md) - 5 shared documents
-- [Facebook](facebook.md) - 5 shared documents
 - [the European Parliament](the-european-parliament.md) - 4 shared documents
 - [the Justice Department](the-justice-department.md) - 4 shared documents
 - [Treasury](treasury.md) - 4 shared documents
@@ -56,27 +54,27 @@ States](../people/united-states.md) - 4 shared documents
 
 - [China](../locations/china.md) - 8 shared documents
 - [Europe](../locations/europe.md) - 8 shared documents
-- [Russia](../locations/russia.md) - 8 shared documents
 - [Germany](../locations/germany.md) - 8 shared documents
 - [Moscow](../locations/moscow.md) - 8 shared documents
+- [Russia](../locations/russia.md) - 8 shared documents
 - [Spain](../locations/spain.md) - 8 shared documents
-- [London](../locations/london.md) - 7 shared documents
-- [France](../locations/france.md) - 7 shared documents
 - [Austria](../locations/austria.md) - 7 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
+- [France](../locations/france.md) - 7 shared documents
+- [London](../locations/london.md) - 7 shared documents
+- [America](../locations/america.md) - 6 shared documents
 
 **Events:**
 
 - [today](../events/today.md) - 7 shared documents
 - [a day](../events/a-day.md) - 6 shared documents
-- [years](../events/years.md) - 6 shared documents
 - [the years](../events/the-years.md) - 6 shared documents
+- [years](../events/years.md) - 6 shared documents
+- [2008](../events/2008.md) - 5 shared documents
 - [2014](../events/2014.md) - 5 shared documents
-- [monthly](../events/monthly.md) - 5 shared documents
 - [August](../events/august.md) - 5 shared documents
 - [July](../events/july.md) - 5 shared documents
+- [June](../events/june.md) - 5 shared documents
 - [last week](../events/last-week.md) - 5 shared documents
-- [2008](../events/2008.md) - 5 shared documents
 
 ## Timeline
 

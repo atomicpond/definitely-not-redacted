@@ -41,9 +41,6 @@ Trump](donald-trump.md) - 5 shared documents
 Union](european-union.md) - 5 shared documents
 - [Federal Reserve](federal-reserve.md) - 5 shared documents
 - [Goldman Sachs](goldman-sachs.md) - 5 shared documents
-- [President Trump](president-trump.md) - 5 shared documents
-- [Mr. 
-Trump](trump.md) - 5 shared documents
 
 **Organizations:**
 
@@ -52,11 +49,9 @@ Trump](trump.md) - 5 shared documents
 - [Facebook](../organizations/facebook.md) - 8 shared documents
 - [Twitter](../organizations/twitter.md) - 7 shared documents
 - [Congress](../organizations/congress.md) - 6 shared documents
-- [Treasury](../organizations/treasury.md) - 6 shared documents
-- [Google](../organizations/google.md) - 6 shared documents
 - [EU](../organizations/eu.md) - 6 shared documents
-- [Senate](../organizations/senate.md) - 5 shared documents
-- [CNN](../organizations/cnn.md) - 5 shared documents
+- [Google](../organizations/google.md) - 6 shared documents
+- [Treasury](../organizations/treasury.md) - 6 shared documents
 
 **Locations:**
 
@@ -64,11 +59,11 @@ Trump](trump.md) - 5 shared documents
 - [London](../locations/london.md) - 14 shared documents
 - [China](../locations/china.md) - 11 shared documents
 - [US](../locations/us.md) - 11 shared documents
-- [New York](../locations/new-york.md) - 9 shared documents
 - [Italy](../locations/italy.md) - 9 shared documents
+- [New York](../locations/new-york.md) - 9 shared documents
 - [U.K.](../locations/uk.md) - 9 shared documents
-- [Germany](../locations/germany.md) - 7 shared documents
 - [Asia](../locations/asia.md) - 7 shared documents
+- [Britain](../locations/britain.md) - 7 shared documents
 - [France](../locations/france.md) - 7 shared documents
 
 **Events:**
@@ -80,6 +75,7 @@ Trump](trump.md) - 5 shared documents
 - [Sunday](../events/sunday.md) - 6 shared documents
 - [years](../events/years.md) - 6 shared documents
 - [2016](../events/2016.md) - 5 shared documents
+- [weekly](../events/weekly.md) - 5 shared documents
 - [year](../events/year.md) - 5 shared documents
 
 ## Timeline

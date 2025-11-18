@@ -30,18 +30,17 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jeffrey Epstein](jeffrey-epstein.md) - 13 shared documents
-- [Epstein](epstein.md) - 13 shared documents
 - [Palm 
 Beach](palm-beach.md) - 11 shared documents
-- [Bill 
-Clinton](bill-clinton.md) - 8 shared documents
 - [Jane Doe](jane-doe.md) - 7 shared documents
-- [Donald 
-Trump](donald-trump.md) - 6 shared documents
+- [Bill 
+Clinton](bill-clinton.md) - 6 shared documents
 - [New
 York](new-york.md) - 6 shared documents
-- [President Bill  
-Clinton](president-bill-clinton.md) - 6 shared documents
+- [Critton Jr](critton-jr.md) - 5 shared documents
+- [Donald 
+Trump](donald-trump.md) - 5 shared documents
+- [Haley Robson](haley-robson.md) - 5 shared documents
 - [Jack Goldberger](jack-goldberger.md) - 5 shared documents
 - [Jeffrey](jeffrey.md) - 5 shared documents
 
@@ -65,14 +64,14 @@ Clinton](president-bill-clinton.md) - 6 shared documents
 
 **Events:**
 
+- [20-year-old](../events/20-year-old.md) - 5 shared documents
 - [2005](../events/2005.md) - 5 shared documents
+- [2:55 PM](../events/255-pm.md) - 5 shared documents
 - [Friday](../events/friday.md) - 5 shared documents
 - [one year](../events/one-year.md) - 5 shared documents
-- [20-year-old](../events/20-year-old.md) - 5 shared documents
-- [2:55 PM](../events/255-pm.md) - 5 shared documents
+- [2008](../events/2008.md) - 4 shared documents
 - [2014](../events/2014.md) - 4 shared documents
 - [last week](../events/last-week.md) - 4 shared documents
-- [2008](../events/2008.md) - 4 shared documents
 
 ## Timeline
 

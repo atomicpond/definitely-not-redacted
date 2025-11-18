@@ -12,13 +12,13 @@
 - [Epstein](../entities/people/epstein.md) - 18 mentions
 - [Jane Doe](../entities/people/jane-doe.md) - 17 mentions
 - [Jane Doe 3](../entities/people/jane-doe-3.md) - 10 mentions
-- [Mr. Hill](../entities/people/mr-hill.md) - 8 mentions
+- [Mr. Hill](../entities/people/hill.md) - 8 mentions
 - [CLINTON](../entities/people/clinton.md) - 5 mentions
 - [President Clinton](../entities/people/president-clinton.md) - 5 mentions
 - [Mrs. 
-Gore](../entities/people/mrs-gore.md) - 5 mentions
+Gore](../entities/people/gore.md) - 5 mentions
 - [Mr. 
-Dershowitz](../entities/people/mr-dershowitz.md) - 3 mentions
+Dershowitz](../entities/people/alan-dershowitz.md) - 3 mentions
 - [United 
 States](../entities/people/united-states.md) - 2 mentions
 - [MARTIN G. WEINBERG](../entities/people/martin-g-weinberg.md) - 2 mentions

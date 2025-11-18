@@ -36,13 +36,13 @@ Top 7 documents by mention frequency:
 
 - [Asia](../locations/asia.md) - 5 shared documents
 - [California](../locations/california.md) - 4 shared documents
-- [Middle East](../locations/middle-east.md) - 4 shared documents
 - [China](../locations/china.md) - 4 shared documents
 - [Europe](../locations/europe.md) - 4 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 - [Florida](../locations/florida.md) - 4 shared documents
-- [the United States](../locations/the-united-states.md) - 4 shared documents
+- [Middle East](../locations/middle-east.md) - 4 shared documents
 - [Paris](../locations/paris.md) - 4 shared documents
+- [the United States](../locations/the-united-states.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 ## Timeline
 

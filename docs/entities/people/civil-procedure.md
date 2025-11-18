@@ -30,7 +30,7 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Jane Doe](jane-doe.md) - 9 shared documents
-- [Bradley J. Edwards](bradley-j-edwards.md) - 8 shared documents
+- [Brad Edwards](brad-edwards.md) - 8 shared documents
 - [Crime Victims](crime-victims.md) - 7 shared documents
 - [District Court](district-court.md) - 7 shared documents
 - [Paul G. Cassell](paul-g-cassell.md) - 7 shared documents
@@ -47,9 +47,6 @@ Top 10 documents by mention frequency:
 - [Fed](../organizations/fed.md) - 8 shared documents
 - [FBI](../organizations/fbi.md) - 7 shared documents
 - [FISTOS & LEHRMAN](../organizations/fistos-lehrman.md) - 7 shared documents
-- [Ghislaine Maxwell](../organizations/ghislaine-maxwell.md) - 6 shared documents
-- [State](../organizations/state.md) - 6 shared documents
-- [Maxwell](../organizations/maxwell.md) - 6 shared documents
 - [CVRA](../organizations/cvra.md) - 6 shared documents
 
 **Locations:**
@@ -58,25 +55,25 @@ Top 10 documents by mention frequency:
 - [Florida](../locations/florida.md) - 11 shared documents
 - [Fla.](../locations/fla.md) - 9 shared documents
 - [New York](../locations/new-york.md) - 8 shared documents
-- [U.S.](../locations/us.md) - 8 shared documents
 - [the Southern District](../locations/the-southern-district.md) - 8 shared documents
 - [the United States](../locations/the-united-states.md) - 8 shared documents
+- [U.S.](../locations/us.md) - 8 shared documents
 - [Virginia](../locations/virginia.md) - 8 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 8 shared documents
-- [Washington](../locations/washington.md) - 7 shared documents
+- [P.L.](../locations/pl.md) - 7 shared documents
 
 **Events:**
 
 - [13](../events/13.md) - 9 shared documents
-- [1993](../events/1993.md) - 8 shared documents
-- [1999](../events/1999.md) - 8 shared documents
 - [14](../events/14.md) - 8 shared documents
 - [1989](../events/1989.md) - 8 shared documents
+- [1993](../events/1993.md) - 8 shared documents
+- [1999](../events/1999.md) - 8 shared documents
 - [5](../events/5.md) - 8 shared documents
-- [today](../events/today.md) - 7 shared documents
 - [2001](../events/2001.md) - 7 shared documents
-- [2008](../events/2008.md) - 7 shared documents
 - [2002](../events/2002.md) - 7 shared documents
+- [2008](../events/2008.md) - 7 shared documents
+- [today](../events/today.md) - 7 shared documents
 
 ## Timeline
 

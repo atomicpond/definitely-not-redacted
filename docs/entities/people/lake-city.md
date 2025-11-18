@@ -44,28 +44,28 @@ Salt](university-street-salt.md) - 5 shared documents
 **Locations:**
 
 - [United States](../locations/united-states.md) - 6 shared documents
-- [Salt Lake City](../locations/salt-lake-city.md) - 5 shared documents
-- [Lauderdale](../locations/lauderdale.md) - 5 shared documents
-- [Lake City, UT](../locations/lake-city-ut.md) - 5 shared documents
 - [401 East Las Olas Boulevard](../locations/401-east-las-olas-boulevard.md) - 5 shared documents
+- [Lake City, UT](../locations/lake-city-ut.md) - 5 shared documents
+- [Lauderdale](../locations/lauderdale.md) - 5 shared documents
+- [Salt Lake City](../locations/salt-lake-city.md) - 5 shared documents
 - [Ste](../locations/ste.md) - 5 shared documents
-- [New York](../locations/new-york.md) - 4 shared documents
 - [Florida](../locations/florida.md) - 4 shared documents
+- [New York](../locations/new-york.md) - 4 shared documents
 - [Virginia](../locations/virginia.md) - 4 shared documents
 - [West Palm Beach](../locations/west-palm-beach.md) - 4 shared documents
 
 **Events:**
 
+- [12](../events/12.md) - 5 shared documents
 - [1993](../events/1993.md) - 5 shared documents
 - [2001](../events/2001.md) - 5 shared documents
-- [12](../events/12.md) - 5 shared documents
-- [today](../events/today.md) - 4 shared documents
-- [1984](../events/1984.md) - 4 shared documents
-- [2002](../events/2002.md) - 4 shared documents
 - [16](../events/16.md) - 4 shared documents
-- [2013](../events/2013.md) - 4 shared documents
 - [1976](../events/1976.md) - 4 shared documents
+- [1984](../events/1984.md) - 4 shared documents
 - [1989](../events/1989.md) - 4 shared documents
+- [2002](../events/2002.md) - 4 shared documents
+- [2013](../events/2013.md) - 4 shared documents
+- [39](../events/39.md) - 4 shared documents
 
 ## Timeline
 

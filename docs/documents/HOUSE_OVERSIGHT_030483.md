@@ -11,7 +11,7 @@
 ### People
 - [Roger Schank](../entities/people/roger-schank.md) - 2 mentions
 - [Jeffrey Epstein](../entities/people/jeffrey-epstein.md) - 2 mentions
-- [Mr. Obama](../entities/people/mr-obama.md) - 1 mention
+- [Mr. Obama](../entities/people/barack-obama.md) - 1 mention
 
 ### Organizations
 - [HOUSE](../entities/organizations/house.md) - 1 mention

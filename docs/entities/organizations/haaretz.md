@@ -44,34 +44,32 @@ Top 7 documents by mention frequency:
 - [NATO](nato.md) - 4 shared documents
 - [State](state.md) - 4 shared documents
 - [the Arab League](the-arab-league.md) - 4 shared documents
-- [CIA](cia.md) - 4 shared documents
-- [Defense](defense.md) - 4 shared documents
 
 **Locations:**
 
+- [Israel](../locations/israel.md) - 6 shared documents
 - [Middle East](../locations/middle-east.md) - 6 shared documents
+- [Syria](../locations/syria.md) - 6 shared documents
 - [the Middle East](../locations/the-middle-east.md) - 6 shared documents
 - [Washington](../locations/washington.md) - 6 shared documents
-- [Syria](../locations/syria.md) - 6 shared documents
-- [Israel](../locations/israel.md) - 6 shared documents
-- [Russia](../locations/russia.md) - 5 shared documents
 - [America](../locations/america.md) - 5 shared documents
+- [Egypt](../locations/egypt.md) - 5 shared documents
 - [France](../locations/france.md) - 5 shared documents
+- [Gaza](../locations/gaza.md) - 5 shared documents
 - [Iraq](../locations/iraq.md) - 5 shared documents
-- [Jordan](../locations/jordan.md) - 5 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 5 shared documents
-- [last week](../events/last-week.md) - 5 shared documents
 - [1967](../events/1967.md) - 5 shared documents
+- [last week](../events/last-week.md) - 5 shared documents
 - [September](../events/september.md) - 5 shared documents
-- [Thursday](../events/thursday.md) - 4 shared documents
+- [today](../events/today.md) - 5 shared documents
+- [1947](../events/1947.md) - 4 shared documents
+- [a decade](../events/a-decade.md) - 4 shared documents
+- [a year](../events/a-year.md) - 4 shared documents
+- [Friday](../events/friday.md) - 4 shared documents
 - [last year](../events/last-year.md) - 4 shared documents
 - [the past year](../events/the-past-year.md) - 4 shared documents
-- [Friday](../events/friday.md) - 4 shared documents
-- [weeks](../events/weeks.md) - 4 shared documents
-- [a year](../events/a-year.md) - 4 shared documents
 
 ## Timeline
 

@@ -34,9 +34,9 @@ Top 6 documents by mention frequency:
 
 **Events:**
 
-- [2004](../events/2004.md) - 4 shared documents
-- [2002](../events/2002.md) - 4 shared documents
 - [14](../events/14.md) - 4 shared documents
+- [2002](../events/2002.md) - 4 shared documents
+- [2004](../events/2004.md) - 4 shared documents
 
 ## Timeline
 

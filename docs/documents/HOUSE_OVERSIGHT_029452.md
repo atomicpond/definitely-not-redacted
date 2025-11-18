@@ -13,7 +13,7 @@
 ## Entities Mentioned
 
 ### People
-- [Mr. Thiel](../entities/people/mr-thiel.md) - 53 mentions
+- [Mr. Thiel](../entities/people/thiel.md) - 53 mentions
 - [Mr. 
 Trump](../entities/people/mr-trump.md) - 9 mentions
 - [Silicon Valley](../entities/people/silicon-valley.md) - 7 mentions

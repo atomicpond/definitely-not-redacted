@@ -30,12 +30,12 @@ Top 10 documents by mention frequency:
 **People:**
 
 - [Middle East](../people/middle-east.md) - 7 shared documents
-- [Mr. Bannon](../people/bannon.md) - 5 shared documents
-- [Barack Obama](../people/barack-obama.md) - 5 shared documents
 - [David Stern](../people/david-stern.md) - 5 shared documents
 - [Jeffrey E](../people/jeffrey-e.md) - 5 shared documents
 - [jeffrey E. <](../people/jeffrey-e.md) - 5 shared documents
 - [Los Angeles](../people/los-angeles.md) - 5 shared documents
+- [Middle Eastern](../people/middle-eastern.md) - 5 shared documents
+- [New Year](../people/new-year.md) - 5 shared documents
 
 **Organizations:**
 
@@ -67,14 +67,14 @@ Top 10 documents by mention frequency:
 
 - [tomorrow](../events/tomorrow.md) - 13 shared documents
 - [today](../events/today.md) - 10 shared documents
-- [years](../events/years.md) - 9 shared documents
 - [two years](../events/two-years.md) - 9 shared documents
+- [years](../events/years.md) - 9 shared documents
 - [2007](../events/2007.md) - 8 shared documents
+- [a year](../events/a-year.md) - 8 shared documents
 - [months](../events/months.md) - 8 shared documents
 - [one day](../events/one-day.md) - 8 shared documents
-- [a year](../events/a-year.md) - 8 shared documents
 - [the day](../events/the-day.md) - 8 shared documents
-- [annual](../events/annual.md) - 7 shared documents
+- [1973](../events/1973.md) - 7 shared documents
 
 ## Timeline
 

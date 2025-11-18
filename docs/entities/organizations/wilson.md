@@ -35,23 +35,23 @@ Top 8 documents by mention frequency:
 
 - [France](../locations/france.md) - 5 shared documents
 - [the United States](../locations/the-united-states.md) - 5 shared documents
-- [Washington](../locations/washington.md) - 4 shared documents
 - [Cambridge](../locations/cambridge.md) - 4 shared documents
 - [Israel](../locations/israel.md) - 4 shared documents
 - [Palestine](../locations/palestine.md) - 4 shared documents
+- [Washington](../locations/washington.md) - 4 shared documents
 
 **Events:**
 
-- [2003](../events/2003.md) - 5 shared documents
-- [2007](../events/2007.md) - 5 shared documents
-- [2006](../events/2006.md) - 5 shared documents
 - [1978](../events/1978.md) - 5 shared documents
 - [1981](../events/1981.md) - 5 shared documents
-- [2009](../events/2009.md) - 4 shared documents
-- [six months](../events/six-months.md) - 4 shared documents
+- [2003](../events/2003.md) - 5 shared documents
+- [2006](../events/2006.md) - 5 shared documents
+- [2007](../events/2007.md) - 5 shared documents
+- [1979](../events/1979.md) - 4 shared documents
+- [1993](../events/1993.md) - 4 shared documents
+- [1994](../events/1994.md) - 4 shared documents
 - [2000](../events/2000.md) - 4 shared documents
-- [2012](../events/2012.md) - 4 shared documents
-- [2011](../events/2011.md) - 4 shared documents
+- [2009](../events/2009.md) - 4 shared documents
 
 ## Timeline
 

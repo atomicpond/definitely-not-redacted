@@ -33,8 +33,9 @@ Top 10 documents by mention frequency:
 - [Dear Jeffrey](../people/dear-jeffrey.md) - 12 shared documents
 - [Jeffrey](../people/jeffrey.md) - 12 shared documents
 - [Barker Center](../people/barker-center.md) - 11 shared documents
+- [Bill 
+Clinton](../people/bill-clinton.md) - 11 shared documents
 - [Cabot Professor](../people/cabot-professor.md) - 11 shared documents
-- [CLINTON](../people/clinton.md) - 11 shared documents
 - [Lisa 
 Elisa](../people/lisa-elisa.md) - 11 shared documents
 - [Lisa 
@@ -55,15 +56,15 @@ Harvard University](../organizations/poetry-in-america-harvard-university.md) - 
 **Locations:**
 
 - [America](america.md) - 13 shared documents
+- [Barker Center](barker-center.md) - 11 shared documents
 - [Cambridge](cambridge.md) - 11 shared documents
 - [MA](ma.md) - 11 shared documents
-- [Barker Center](barker-center.md) - 11 shared documents
 - [Quincy Street](quincy-street.md) - 11 shared documents
 - [Street 
 Cambridge, MA](street-cambridge-ma.md) - 11 shared documents
-- [Sun](sun.md) - 9 shared documents
 - [Australia](australia.md) - 9 shared documents
 - [Lolita](lolita.md) - 9 shared documents
+- [Sun](sun.md) - 9 shared documents
 - [the United States](the-united-states.md) - 4 shared documents
 
 **Events:**

@@ -34,7 +34,7 @@ Top 10 documents by mention frequency:
 - [Michael Cembalest
 Chief](../people/michael-cembalest-chief.md) - 9 shared documents
 - [San Francisco](../people/san-francisco.md) - 9 shared documents
-- [President Obama](../people/president-obama.md) - 8 shared documents
+- [Barack Obama](../people/barack-obama.md) - 8 shared documents
 - [San Diego](../people/san-diego.md) - 8 shared documents
 - [Federal Reserve](../people/federal-reserve.md) - 7 shared documents
 - [J.P. Morgan Representative](../people/jp-morgan-representative.md) - 7 shared documents
@@ -50,8 +50,8 @@ Chief](../people/michael-cembalest-chief.md) - 9 shared documents
 - [Bank](bank.md) - 20 shared documents
 - [JPMS](jpms.md) - 19 shared documents
 - [the Federal Deposit Insurance Corporation](the-federal-deposit-insurance-corporation.md) - 18 shared documents
-- [Congress](congress.md) - 17 shared documents
 - [Balanced Model Portfolios](balanced-model-portfolios.md) - 17 shared documents
+- [Congress](congress.md) - 17 shared documents
 - [Private Investments](private-investments.md) - 16 shared documents
 
 **Locations:**
@@ -71,13 +71,13 @@ Chief](../people/michael-cembalest-chief.md) - 9 shared documents
 
 - [today](../events/today.md) - 17 shared documents
 - [2012](../events/2012.md) - 16 shared documents
-- [this year](../events/this-year.md) - 14 shared documents
 - [2013](../events/2013.md) - 14 shared documents
-- [the year](../events/the-year.md) - 13 shared documents
+- [this year](../events/this-year.md) - 14 shared documents
 - [2011](../events/2011.md) - 13 shared documents
+- [the year](../events/the-year.md) - 13 shared documents
+- [2000](../events/2000.md) - 12 shared documents
 - [2009](../events/2009.md) - 12 shared documents
 - [annual](../events/annual.md) - 12 shared documents
-- [2000](../events/2000.md) - 12 shared documents
 - [last year](../events/last-year.md) - 11 shared documents
 
 ## Timeline

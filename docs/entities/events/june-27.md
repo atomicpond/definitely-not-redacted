@@ -25,10 +25,10 @@ Top 5 documents by mention frequency:
 
 **People:**
 
+- [Barack Obama](../people/barack-obama.md) - 4 shared documents
 - [District Court](../people/district-court.md) - 4 shared documents
 - [Middle East](../people/middle-east.md) - 4 shared documents
 - [President Bush](../people/president-bush.md) - 4 shared documents
-- [President Obama](../people/president-obama.md) - 4 shared documents
 - [San Francisco](../people/san-francisco.md) - 4 shared documents
 - [Saudi Arabia](../people/saudi-arabia.md) - 4 shared documents
 

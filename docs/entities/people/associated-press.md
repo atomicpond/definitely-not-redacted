@@ -25,14 +25,13 @@ Top 6 documents by mention frequency:
 
 **People:**
 
-- [President Trump](president-trump.md) - 5 shared documents
-- [Mr. 
-Trump](trump.md) - 5 shared documents
+- [Donald 
+Trump](donald-trump.md) - 5 shared documents
 
 **Organizations:**
 
-- [the New York Times](../organizations/the-new-york-times.md) - 4 shared documents
 - [New York Times](../organizations/new-york-times.md) - 4 shared documents
+- [the New York Times](../organizations/the-new-york-times.md) - 4 shared documents
 
 **Locations:**
 
@@ -42,9 +41,9 @@ Trump](trump.md) - 5 shared documents
 
 **Events:**
 
-- [Thursday](../events/thursday.md) - 4 shared documents
-- [Monday](../events/monday.md) - 4 shared documents
 - [Friday](../events/friday.md) - 4 shared documents
+- [Monday](../events/monday.md) - 4 shared documents
+- [Thursday](../events/thursday.md) - 4 shared documents
 
 ## Timeline
 

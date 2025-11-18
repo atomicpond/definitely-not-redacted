@@ -46,151 +46,224 @@ Is Invitation](../entities/people/no-is-invitation.md) - 18 mentions
 
 ## Document Text
 
+**Thread-like Conversation View:**
+
 ```
-Source Entry: H\Macintosh 17-04-20\LI 
-2017-04-20 at 09.16.46.ichat 
-Service: iMessage 
-**Start Time**: **04/20/17** 06:16:46 AM (514387006) 
-**End Time**: **04/20/17** 05:56:20 PM (514428980) 
-**Last Message** ID: 4189 
-**Chat Room**: 
-Participants: jee, EI 8 E 
-Presentity IDs: e:jeeitunes@gmail.com, 12063827848 
-Messages - 
-E on 
-Sender: 
-Time: 0:1111.16 AM (514387006) 
-Flags: 1126401 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: CB9D38CE-CB44-4D2E-AA3B-2DA89F49D2D4 
-Message: 
-https://www.forbes.comisites/timworstall/2017/04/20/where-**BILL**-gates-goes-wrong-its-how-not-how-much-foreign-aid-is-
-spent-that-matters/#66008a866de0 
-Sender: 
-Time: **04/20/17** 06:29:02 AM (514387742) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 8D743905-A8CE-41DB-AFDE-89CF87426DDD 
-Message: **BILL** Helman has some ideas on how to create a business around this and to monetize the concepts / plant 
-to human translational research and don't worry he's incredibly discrete. And discreet. Also Geoff Ling the former head of 
-**DARPA** and total genius is also my good friend and very supportive - didn't give a ton of detail but he says he will do 
-whatever or even help run, advise, etc. he knows how to make science fiction science fact. 
-Sender: e:jeeitunes@gmail.com 
-Time: **04/20/17** 06:34:33 AM (514388073) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: A21DBO8B-ECO2-4909-9766-DA362ED3F1C8 
-Message: both are welcome to our secret society , they will join join joi ito **Ed Boyden** and caleb . ( **MIT** agro ) 
-Sender: 
-Time: **04/20/17** 06:36:44 AM (514388204) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 116E74DC-E0D2-4AAO-A655-07EDACFE373F 
-Message: **Perfect 
-Sender**: 
-Time: **04/20/17** 06:36:49 AM (514388209) 
-**HOUSE** OVERSIGHT 027232 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: EAF0684C-29EC-498D-B622-7B0E94ED8431 
-Message: Geoff is CRAZY 
-Sender: e:jeeitunes@gmail.com 
-Time: **04/20/17** 06:37:14 AM (514388234) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 0A4B4586-6D20-4473-AA0A-9D41D696B61F 
-Message: i like crazy 
-Sender: 
-Time: **04/20/17** 06:37:42 AM (514388262) 
-Flags: 1126401 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 1F8D4599-401B-47E6-AFE1-492A23A449C3 
-Message: https://en.m.wikipedia.org/wiki/Geoffrey Ling 
-Sender: e:jeeitunes@gmail.com 
-Time: **04/20/17** 06:38:00 AM (514388280) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 7989F7DO-F595-424B-978B-9C68341DFAFB 
-Message: go to visit **MIT** asap. maybe i get you an appt at the media lab 
-Sender: + 
-Time: **04/20/17** 06:38:08 AM (514388288) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: C5AF5E01-141E-4AC1-8384-4CA2658C6D21 
-Message: And hes a very very good friend of mine. He tried to make me work at **DARPA**. 
-Sender: 
-Time: **04/20/17** 06:38:41 AM (514388321) 
-Flags: 1126401 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 7BBC69FC-820C-4A23-93D6-BE535D5CC247 
-Message: Oh that would be great! I have to be in **Seattle** w bg from tmr to April 29 but can go week of **May 1** 
-Sender: 
-Time: **04/20/17** 06:39:33 AM (514388373) 
-Flags: 1060865 
-**Is Read**: Yes 
-**HOUSE** OVERSIGHT 027233 
-**Is Invitation**: No 
-**GUID**: 357516EB-7EFF-4ADC-89B7-31D56B024D27 
-Message: So when I went to interview at **DARPA** the woman who was the head (arathi something can't remember 
-last name) told geoff she couldn't hire someone so gorgeous because it would distract the men trying to focus on work 
-Sender: e:jeeitunes@gmail.com 
-Time: **04/20/17** 06:40:41 AM (514388441) 
-Flags: 1085445 
-**Is Read**: **No 
-**Is Invitation****: No 
-**GUID**: 24EF9890-72F6-4F35-9C61-F95E795359DB 
-Message: i sent **BILL** a note after talking to wash, he is causing them to rethink the charitable deduction for 
-overseas programs. **DONALD** is NOT pragmatic. that takes thinking ability, . he is setting himself up as part of 
-yesterdays establishment and their perceived mistakes. 
-Sender: 
-Time: **04/20/17** 06:40:44 AM (514388444) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: A8D8AA62-B836-4445-9ABB-ADEEB4587F98 
-Message: And it would shift the focus of their thinking from science to sex. She also told that to Dan wattendorf 
-(almost same Exact words ). Was a gross feeling to be spoken of like that by another woman. 
-Sender: + 
-Time: **04/20/17** 06:41:08 AM (514388468) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 1972F54F-0D9A-44D4-9A15-87A56E0CF7CF 
-Message: **BILL** won't believe you 
-Sender: 
-Time: **04/20/17** 06:41:45 AM (514388505) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: BEF95A7A-3C2D-47FA-9A99-14B53FE28EE2 
-Message: He has mark Suzman geoff lamb and the full "development" advisory leadership that are SO OLD 
-GUARD 
-Sender: 
-Time: **04/20/17** 06:42:01 AM (514388521) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: B6DD8ABD-2638-43FF-BCA5-9C66E9E35A31 
-Message: and they are gargoyles refusing to let other opinions in 
-Sender: 
-**HOUSE** OVERSIGHT 027234 
-Time: **04/20/17** 06:42:13 AM (514388533) 
-Flags: 1060865 
-**Is Read**: **Yes 
-**Is Invitation****: No 
-**GUID**: 3DED2346-C24F-43C6-99D7-CDFC4EB67273 
-Message: And when bg goes to see **Jared** and **ivanka** they tell Him he is a genius 
-Sender
+
+======================================================================
+Thursday, April 20, 2017
+======================================================================
+
+Unknown [6:29 AM]:
+  
+
+E:jeeitunes [6:34 AM]:
+  Bill Helman has some ideas on how to create a business around this and to monetize the concepts / plant
+
+Unknown [6:36 AM]:
+  both are welcome to our secret society , they will join join joi ito ed boyden and caleb . ( mit agro )
+
+Unknown [6:36 AM]:
+  Perfect
+
+E:jeeitunes [6:37 AM]:
+  Geoff is CRAZY
+
+Unknown [6:37 AM]:
+  i like crazy
+
+E:jeeitunes [6:38 AM]:
+  https://en.m.wikipedia.org/wiki/Geoffrey Ling
+
+Unknown [6:38 AM]:
+  go to visit MIT asap. maybe i get you an appt at the media lab
+
+Unknown [6:38 AM]:
+  And hes a very very good friend of mine. He tried to make me work at darpa.
+
+Unknown [6:39 AM]:
+  Oh that would be great! I have to be in seattle w bg from tmr to April 29 but can go week of May 1
+
+E:jeeitunes [6:40 AM]:
+  So when I went to interview at darpa the woman who was the head (arathi something can't remember
+
+Unknown [6:40 AM]:
+  i sent bill a note after talking to wash, he is causing them to rethink the charitable deduction for
+
+Unknown [6:41 AM]:
+  And it would shift the focus of their thinking from science to sex. She also told that to Dan wattendorf
+
+Unknown [6:41 AM]:
+  Bill won't believe you
+
+Unknown [6:42 AM]:
+  He has mark Suzman geoff lamb and the full "development" advisory leadership that are SO OLD
+
+Unknown [6:42 AM]:
+  and they are gargoyles refusing to let other opinions in
+
+Unknown [6:42 AM]:
+  And when bg goes to see Jared and ivanka they tell Him he is a genius
+
+E:jeeitunes [6:42 AM]:
+  And trump tells him he is a genius to his face
+
+Unknown [6:43 AM]:
+  its ok, he will believe it when it happens , and then hear I told you so. trump tells everyone the exact
+
+Unknown [6:43 AM]:
+  Bill says 1. Trump will never get the budget cuts through. He claims he's spoken to senators and that
+
+E:jeeitunes [6:44 AM]:
+  3. He says trump will be in power 3.5 more years or less and that his foundation has a 30 year life
+
+Unknown [6:44 AM]:
+  watch obamare. see what tools he uses
+
+Unknown [6:44 AM]:
+  I agree w you
+
+Unknown [6:44 AM]:
+  You and I have both advised bg to Pick a topic and make a deal
+
+Unknown [6:45 AM]:
+  If he wants pepfar then make a deal there Something quiet pro quo
+
+Unknown [6:45 AM]:
+  Instead he's an issue per week Neglected tropical diseases Polio Pepfar Women's health 0.7% Etc
+
+Unknown [6:47 AM]:
+  I'm afraid we both know how this will end - and trump won't lose
+
+E:jeeitunes [6:47 AM]:
+  Different topic .... did you see the shared drive I sent you w all the papers
+
+Unknown [6:47 AM]:
+  didn't yet. will later
+
+Unknown [6:48 AM]:
+  K
+
+Unknown [7:04 AM]:
+  Plants use more than a dozen innate skills to manage stress. None that human scientists have tried.
+
+Unknown [7:04 AM]:
+  http://medcraveonline.com/MOJCSR/MOJCSR-02-00031.pdf
+
+Unknown [9:05 AM]:
+  Very crazy ppl here. Melanin/energy
+
+Unknown [9:05 AM]:
+  Can I visit Ed week of May 1?
+
+Unknown [11:13 AM]:
+  MIT
+
+Unknown [11:13 AM]:
+  I can do Concurrent with the very fake bgc3 thing. It's so ridiculous how trapped bg is ... I think I'm just
+
+E:jeeitunes [11:15 AM]:
+  If ed is game I'm Game
+
+Unknown [11:15 AM]:
+  What is Geoff ling doing now
+
+E:jeeitunes [11:15 AM]:
+  Consulting
+
+Unknown [11:15 AM]:
+  Where
+
+Unknown [11:16 AM]:
+  Looking for his next gig - they had him on the roster for NIH so he's hanging out till then
+
+E:jeeitunes [11:16 AM]:
+  Baltimore He also attends at Hopkins
+
+Unknown [11:16 AM]:
+  Can I Skype him
+
+Unknown [11:16 AM]:
+  Sure
+
+Unknown [11:16 AM]:
+  What do you want to talk to him about I can ask him
+
+E:jeeitunes [11:17 AM]:
+  Was thinking more fun to talk in person he'd go to NYC He's a character
+
+Unknown [11:17 AM]:
+  Ok
+
+Unknown [11:17 AM]:
+  Can we do a dinner maybe week of May 1 or the week after w Ed boyden and geoff and whoever else is
+
+E:jeeitunes [11:18 AM]:
+  I suggest Neal Kassell too
+
+Unknown [11:18 AM]:
+  Ok
+
+Unknown [11:18 AM]:
+  Genius retired Worlds greatest vascular neurosurgeon with one eye haha But he is doing cool Stuff w
+
+Unknown [11:18 AM]:
+  And friends w geoff and me too He's On my brain council
+
+Unknown [11:19 AM]:
+  Neal Kassell Geoff Ling Me You Ed Boyden Then you pick 1 other?
+
+Unknown [11:20 AM]:
+  They are all going to Milken so it will need to be after
+
+Unknown [11:20 AM]:
+  What about Thursday may 11
+
+E:jeeitunes [11:21 AM]:
+  Dinner
+
+Unknown [11:25 AM]:
+  What dates are milked. I here there first week in may. Gone the 8th
+
+Unknown [11:25 AM]:
+  April 30-may 3
+
+Unknown [11:26 AM]:
+  Ted April 24-28
+
+Unknown [11:31 AM]:
+  Could maybe do 4 or 5 may??
+
+Unknown [11:31 AM]:
+  <Unsupported Message Content>
+
+Unknown [11:33 AM]:
+  Neal
+
+Unknown [11:33 AM]:
+  http://www.nature.com/news/surprising-contenders-emerge-for-trump-s-nih-chief-1.21295
+
+E:jeeitunes [11:49 AM]:
+  See on geoff Ling
+
+E:jeeitunes [11:57 AM]:
+  
+
+Unknown [11:58 AM]:
+  Cannot do 5
+
+ [5:55 PM]:
+  Can do 4?
+
+Unknown [5:56 PM]:
+  Should I try to get creative on compensation at bgc3 or just let them do whatever they want? Larry sent
+
+Unknown [5:56 PM]:
+  Larry says that bill has offered to be supportive however it makes sense to me. I just worry a bit about
+
+Unknown [0:1111.16 AM]:
+  
+
 ```
 
 *[Text truncated to 5000 characters]*

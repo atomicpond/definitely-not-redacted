@@ -29,7 +29,7 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Bradley Edwards](bradley-edwards.md) - 9 shared documents
+- [Brad Edwards](brad-edwards.md) - 9 shared documents
 - [Liz Hartley](liz-hartley.md) - 7 shared documents
 - [Nick Pyke](nick-pyke.md) - 7 shared documents
 - [W8 5TT](w8-5tt.md) - 7 shared documents
@@ -44,19 +44,19 @@ Top 10 documents by mention frequency:
 **Locations:**
 
 - [England](../locations/england.md) - 8 shared documents
-- [Kensington](../locations/kensington.md) - 7 shared documents
 - [Derry St](../locations/derry-st.md) - 7 shared documents
+- [Kensington](../locations/kensington.md) - 7 shared documents
 - [New York](../locations/new-york.md) - 4 shared documents
 
 **Events:**
 
-- [Sunday](../events/sunday.md) - 7 shared documents
-- [Saturday](../events/saturday.md) - 7 shared documents
 - [age 17](../events/age-17.md) - 7 shared documents
-- [October 18, 2013](../events/october-18-2013.md) - 7 shared documents
 - [Oct 18, 2013](../events/oct-18-2013.md) - 7 shared documents
-- [today](../events/today.md) - 5 shared documents
+- [October 18, 2013](../events/october-18-2013.md) - 7 shared documents
+- [Saturday](../events/saturday.md) - 7 shared documents
+- [Sunday](../events/sunday.md) - 7 shared documents
 - [10/19/2013](../events/10-19-2013.md) - 5 shared documents
+- [today](../events/today.md) - 5 shared documents
 
 ## Timeline
 

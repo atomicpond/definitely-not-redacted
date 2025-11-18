@@ -33,7 +33,6 @@ Top 10 documents by mention frequency:
 
 **People:**
 
-- [Barack Obama](../people/barack-obama.md) - 9 shared documents
 - [Middle East](../people/middle-east.md) - 9 shared documents
 
 **Organizations:**
@@ -62,15 +61,15 @@ Top 10 documents by mention frequency:
 **Events:**
 
 - [today](today.md) - 19 shared documents
-- [2012](2012.md) - 14 shared documents
 - [2011](2011.md) - 14 shared documents
+- [2012](2012.md) - 14 shared documents
 - [the year](the-year.md) - 13 shared documents
+- [1995](1995.md) - 13 shared documents
 - [2009](2009.md) - 13 shared documents
 - [2010](2010.md) - 13 shared documents
-- [1995](1995.md) - 13 shared documents
 - [1999](1999.md) - 12 shared documents
+- [1991](1991.md) - 11 shared documents
 - [2015](2015.md) - 11 shared documents
-- [last year](last-year.md) - 11 shared documents
 
 ## Timeline
 

@@ -55,23 +55,23 @@ Alston & Bird LLP](../organizations/whitley-alston-bird-llp.md) - 6 shared docum
 
 **Locations:**
 
-- [Los Angeles](los-angeles.md) - 8 shared documents
 - [D.C.](dc.md) - 8 shared documents
+- [Los Angeles](los-angeles.md) - 8 shared documents
 - [Washington, DC](washington-dc.md) - 7 shared documents
 - [California](california.md) - 7 shared documents
 - [the United States](the-united-states.md) - 6 shared documents
 - [USA](usa.md) - 6 shared documents
 - [Washington](washington.md) - 6 shared documents
-- [Miami](miami.md) - 6 shared documents
-- [N.W.](nw.md) - 6 shared documents
 - [777 South Figueroa Street](777-south-figueroa-street.md) - 6 shared documents
+- [950 Pennsylvania Avenue](950-pennsylvania-avenue.md) - 6 shared documents
+- [Los Angeles, CA](los-angeles-ca.md) - 6 shared documents
 
 **Events:**
 
 - [May 19, 2008](../events/may-19-2008.md) - 6 shared documents
+- [16](../events/16.md) - 4 shared documents
 - [2007](../events/2007.md) - 4 shared documents
 - [30](../events/30.md) - 4 shared documents
-- [16](../events/16.md) - 4 shared documents
 - [the end of the day](../events/the-end-of-the-day.md) - 4 shared documents
 
 ## Timeline

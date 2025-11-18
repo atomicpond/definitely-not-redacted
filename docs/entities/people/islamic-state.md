@@ -41,21 +41,20 @@ York](new-york.md) - 5 shared documents
 - [Harvard](../organizations/harvard.md) - 7 shared documents
 - [Islam](../organizations/islam.md) - 7 shared documents
 - [HOUSE](../organizations/house.md) - 6 shared documents
-- [Congress](../organizations/congress.md) - 5 shared documents
 - [Capitol Hill](../organizations/capitol-hill.md) - 5 shared documents
-- [Times](../organizations/times.md) - 4 shared documents
+- [Congress](../organizations/congress.md) - 5 shared documents
 
 **Locations:**
 
 - [Europe](../locations/europe.md) - 8 shared documents
-- [China](../locations/china.md) - 7 shared documents
-- [Russia](../locations/russia.md) - 7 shared documents
-- [Germany](../locations/germany.md) - 7 shared documents
 - [America](../locations/america.md) - 7 shared documents
-- [France](../locations/france.md) - 7 shared documents
-- [the United States](../locations/the-united-states.md) - 7 shared documents
 - [Britain](../locations/britain.md) - 7 shared documents
-- [Washington](../locations/washington.md) - 6 shared documents
+- [China](../locations/china.md) - 7 shared documents
+- [France](../locations/france.md) - 7 shared documents
+- [Germany](../locations/germany.md) - 7 shared documents
+- [Russia](../locations/russia.md) - 7 shared documents
+- [the United States](../locations/the-united-states.md) - 7 shared documents
+- [Baghdad](../locations/baghdad.md) - 6 shared documents
 - [Iraq](../locations/iraq.md) - 6 shared documents
 
 **Events:**
@@ -64,12 +63,12 @@ York](new-york.md) - 5 shared documents
 - [this week](../events/this-week.md) - 6 shared documents
 - [2008](../events/2008.md) - 5 shared documents
 - [2003](../events/2003.md) - 4 shared documents
-- [October](../events/october.md) - 4 shared documents
 - [2009](../events/2009.md) - 4 shared documents
 - [a day](../events/a-day.md) - 4 shared documents
-- [Thursday](../events/thursday.md) - 4 shared documents
 - [last year](../events/last-year.md) - 4 shared documents
-- [years](../events/years.md) - 4 shared documents
+- [October](../events/october.md) - 4 shared documents
+- [the decade](../events/the-decade.md) - 4 shared documents
+- [the end of the day](../events/the-end-of-the-day.md) - 4 shared documents
 
 ## Timeline
 

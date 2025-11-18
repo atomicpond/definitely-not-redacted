@@ -31,11 +31,11 @@ Top 9 documents by mention frequency:
 - [Etienne Binant](etienne-binant.md) - 9 shared documents
 - [Hi Jeffrey](hi-jeffrey.md) - 9 shared documents
 - [Lang](lang.md) - 9 shared documents
-- [Darren Indyke](darren-indyke.md) - 9 shared documents
-- [Darren](darren.md) - 9 shared documents
 - [Arianna](arianna.md) - 9 shared documents
 - [Caroline 
 Objet](caroline-objet.md) - 9 shared documents
+- [Darren](darren.md) - 9 shared documents
+- [Darren Indyke](darren-indyke.md) - 9 shared documents
 - [Darren Indyke 
 Objet](darren-indyke-objet.md) - 9 shared documents
 - [High 
@@ -54,11 +54,11 @@ Objet](../organizations/caroline-objet.md) - 9 shared documents
 
 **Events:**
 
-- [today](../events/today.md) - 9 shared documents
 - [2017](../events/2017.md) - 9 shared documents
 - [a great week](../events/a-great-week.md) - 9 shared documents
 - [Fri, Feb 10, 2017](../events/fri-feb-10-2017.md) - 9 shared documents
 - [Thu, Feb 9, 2017](../events/thu-feb-9-2017.md) - 9 shared documents
+- [today](../events/today.md) - 9 shared documents
 - [vendredi 10](../events/vendredi-10.md) - 9 shared documents
 - [2/15/2017](../events/2152017.md) - 5 shared documents
 - [Feb 14, 2017](../events/feb-14-2017.md) - 5 shared documents

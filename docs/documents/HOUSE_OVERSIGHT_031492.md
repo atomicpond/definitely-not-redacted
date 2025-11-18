@@ -15,7 +15,7 @@
 - [Jeffrey E](../entities/people/jeffrey-e.md) - 1 mention
 - [Jeffrey](../entities/people/jeffrey.md) - 1 mention
 - [Mr. 
-Dershowitz](../entities/people/mr-dershowitz.md) - 1 mention
+Dershowitz](../entities/people/alan-dershowitz.md) - 1 mention
 - [David](../entities/people/david.md) - 1 mention
 - [Darren](../entities/people/darren.md) - 1 mention
 - [Marra](../entities/people/marra.md) - 1 mention

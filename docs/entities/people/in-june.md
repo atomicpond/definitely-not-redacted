@@ -32,8 +32,8 @@ Top 9 documents by mention frequency:
 
 **Organizations:**
 
-- [HOUSE](../organizations/house.md) - 4 shared documents
 - [FBI](../organizations/fbi.md) - 4 shared documents
+- [HOUSE](../organizations/house.md) - 4 shared documents
 
 **Locations:**
 
